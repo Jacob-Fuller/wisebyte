@@ -1,0 +1,35 @@
+/* WISEBYTE LESSONS · Money & Economics (part 3) */
+WB.LESSONS.push(
+{
+  id: "supply-demand", audience: "adult", cat: "money", level: "beginner",
+  popularity: 81, added: "2026-09-24",
+  title: "Supply and demand: why things cost what they do",
+  hook: "Why avocados are cheap one month and pricey the next, why concert tickets vanish in minutes, and why rents keep rising.",
+  sections: [
+    { h: "Prices are signals", key: "In a market, prices carry information about scarcity and desire.",
+      b: "Every price you see is a signal. In a market economy, prices aren't set by a central planner; they emerge from millions of decisions by buyers and sellers. A high price signals that something is scarce or much wanted, encouraging producers to make more and buyers to use less. A low price signals the opposite. Economist Friedrich Hayek argued this is one of the market's most remarkable features: prices coordinate the actions of millions of people who've never met and don't know why things changed." },
+    { h: "Demand", key: "Demand: the lower the price, the more people generally want to buy.",
+      b: "Demand describes how much of something people want to buy at different prices. Generally, the lower the price, the more people buy; the higher the price, the less. That's the law of demand. Demand also shifts for reasons other than price: income, tastes, the price of alternatives, expectations and population. When avocado toast became a café trend, demand for avocados rose at every price. When interest rates rise, demand for houses falls, because borrowing costs more." },
+    { h: "Supply", key: "Supply: the higher the price, the more producers are generally willing to sell.",
+      b: "Supply describes how much sellers are willing to produce at different prices. Generally, higher prices encourage more supply, because producing becomes more profitable; lower prices discourage it. Supply shifts with production costs, technology, weather and the number of producers. A cyclone that wipes out Queensland banana crops cuts supply sharply. After Cyclone Larry in 2006, banana prices in Australia soared to around $12 or more a kilogram." },
+    { h: "Where they meet", key: "The market price settles where supply equals demand (equilibrium).",
+      b: "Put supply and demand together and the price tends to settle where the amount buyers want equals the amount sellers offer. Economists call this the equilibrium. If the price is above it, sellers have unsold stock and cut prices. If it's below it, buyers compete for too few goods and prices rise. This constant push and pull explains everyday price changes: strawberries are cheap in peak season when supply floods in, and dear in the off-season when they're scarce." },
+    { h: "Shortages and panic buying", key: "When demand suddenly jumps and prices don't rise, shortages follow.",
+      b: "In March 2020, as COVID-19 spread, Australians rushed to buy toilet paper. Demand suddenly spiked while supply couldn't adjust overnight, and shelves emptied. Supermarkets kept prices steady and imposed purchase limits instead, a form of rationing. There was never a real shortage of toilet paper production in Australia; the problem was a sudden surge in demand driven by fear, which fuelled more fear. Within weeks, supply caught up and shelves refilled." },
+    { h: "Elasticity", key: "Elasticity measures how much demand changes when price changes; essentials are often inelastic.",
+      b: "Some things you'll buy almost regardless of price, at least in the short term, like petrol to get to work, electricity or essential medicines. Demand for these is called inelastic. Other things you can easily skip or swap, like a particular brand of chips or a restaurant meal, so demand is elastic: a price rise sends buyers elsewhere. Elasticity explains why governments tax items like tobacco and fuel, which people keep buying, and why businesses fight so hard over competitive products." },
+    { h: "Tickets and dynamic pricing", key: "Underpriced tickets create excess demand; dynamic pricing and scalping are responses to it.",
+      b: "When a hugely popular artist tours, tickets are often priced below what fans are willing to pay. Demand far exceeds supply, so tickets sell out in minutes, and scalpers buy them to resell at much higher prices. Some sellers now use dynamic pricing, raising prices in real time with demand, as airlines and rideshare apps do. It captures more money for the seller but often angers fans. Several Australian states have laws capping ticket resale prices to limit scalping." },
+    { h: "Housing: a supply story", key: "When housing supply doesn't keep up with population and demand, prices and rents rise.",
+      b: "Housing shows supply and demand in action. When population grows and incomes and borrowing capacity rise, demand for homes increases. If building new homes doesn't keep pace, because of land availability, planning rules, construction costs or labour shortages, prices and rents climb. Low vacancy rates, where few rentals are empty, give landlords more pricing power. Economists debate the balance of causes, but most agree that building more homes in places people want to live is a key part of improving affordability." },
+  ],
+  quiz: [
+    { s: 1, q: "According to the law of demand, what usually happens when prices fall?", o: ["People buy less", "People buy more", "Nothing", "Sellers make more"], a: 1, e: "Lower prices generally increase the quantity demanded." },
+    { s: 2, q: "What happened to banana prices after Cyclone Larry in 2006?", o: ["They fell", "They soared because supply collapsed", "They stayed the same", "Bananas became free"], a: 1, e: "A supply shock raised prices dramatically." },
+    { s: 3, q: "What is the equilibrium price?", o: ["The highest possible price", "Where the amount demanded equals the amount supplied", "A government-set price", "The cost to make it"], a: 1, e: "Where supply and demand meet." },
+    { s: 5, q: "Demand for petrol in the short term is usually...", o: ["Very elastic", "Inelastic", "Zero", "Unrelated to price"], a: 1, e: "People still need to get to work." },
+    { s: 7, q: "What tends to happen when housing supply doesn't keep up with demand?", o: ["Prices and rents rise", "Prices fall", "Nothing", "Vacancy rates rise"], a: 0, e: "Scarcity pushes prices up." },
+  ],
+  related: ["inflation", "stock-market"],
+},
+);
