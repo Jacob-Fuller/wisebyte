@@ -47,7 +47,7 @@
      App Store or Microsoft Store app) can't unlock anything and is asked to
      get the app from a store. Everywhere else (the Claude preview, localhost)
      runs in preview mode with everything unlocked. Example: ["wisebyte.app"] */
-  const PRODUCTION_HOSTS = ["jacob-fuller.github.io"];
+  const PRODUCTION_HOSTS = [];  /* TEMPORARILY UNLOCKED for review. Before release set to ["jacob-fuller.github.io"] */
   const CACHE_KEY = "wisebyte.sub.";
 
   const S = {

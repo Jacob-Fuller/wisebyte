@@ -1,6 +1,6 @@
 /* Offline support: keeps a copy of the app on the device so it opens with no signal.
    Bump VERSION whenever the app's files change so everyone gets the new copy. */
-const VERSION = "scroll-2026-09-28-web";
+const VERSION = "scroll-2026-09-28-web2";
 const FILES = [
 "./",
 "fonts/cormorant-garamond-italic.woff",
