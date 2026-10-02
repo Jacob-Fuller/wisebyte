@@ -122,7 +122,7 @@ WB.LESSONS.push(
   quiz: [
     { s: 0, q: "What's a 'two-way door' decision?", o: ["One that's easy to reverse", "One that can never be undone", "One involving two people", "A decision about moving house"], a: 0, e: "Reversible decisions deserve less deliberation." },
     { s: 1, q: "Compared with maximisers, satisficers tend to be...", o: ["Less satisfied", "More satisfied with their choices", "Always richer", "More regretful"], a: 1, e: "'Good enough' often leads to more happiness." },
-    { s: 3, q: "What is opportunity cost?", o: ["The price tag", "The value of the best alternative you give up", "A hidden fee", "The cost of opportunities in the future"], a: 1, e: "Every choice gives up something else." },
+    { s: 3, q: "Why do people often overlook opportunity costs?", o: ["They are always very small", "They are invisible: the alternative you gave up never shows on a receipt", "They only apply to businesses", "They are already included in the price tag"], a: 1, e: "Asking 'What else could I do with this money or time?' makes the hidden cost visible." },
     { s: 5, q: "What is a 'tripwire' in decision-making?", o: ["A trap set for competitors", "A signal chosen in advance that will make you stop or rethink", "A deadline set by your boss", "A coin toss to break a tie"], a: 1, e: "Deciding the exit point while you're calm counters the pull of sunk costs." },
     { s: 7, q: "What is 'resulting'?", o: ["Judging a decision only by its outcome", "Getting good results", "Averaging your options", "A type of spreadsheet"], a: 0, e: "Luck means outcomes don't always reflect decision quality." },
   ],

@@ -72,7 +72,7 @@ WB.COLLECTIONS = [
   { id: "health", title: "Everyday Health", desc: "What the evidence says about looking after your body and mind.", icon: "heart",
     ids: ["sleep", "nutrition", "exercise", "stress", "sun-safety", "immune-system", "brain", "antibiotics"] },
   { id: "memory", title: "Memory Tools", desc: "Techniques to learn faster and remember for longer.", icon: "brain",
-    ids: ["mnemonics", "memory-palace", "habits", "sleep", "brain"] },
+    ids: ["mnemonics", "memory-palace", "forgetting-curve", "sleep", "brain"] },
 ];
 
 /* Subjects (learning paths) live in subjects.js */

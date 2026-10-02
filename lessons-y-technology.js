@@ -156,7 +156,7 @@ WB.L("babbage-and-lovelace", "technology", "intermediate", "Babbage, Lovelace an
   ]);
 
 WB.L("file-compression", "technology", "advanced", "How files get squeezed: the art of compression",
-  "A song that should fill a whole CD's worth of space fits on your phone a dozen times over. Compression works by finding patterns, and by cleverly throwing away what your eyes and ears will not miss.",
+  "A whole CD's worth of music can shrink to about a tenth of its size, so thousands of songs fit on your phone. Compression works by finding patterns, and by cleverly throwing away what your eyes and ears will not miss.",
   [
     ["Why compression matters", "Without compression, photos, music and video would be far too big to store and stream easily.",
       "A single uncompressed minute of CD quality stereo audio takes about ten megabytes. An uncompressed high definition video would need hundreds of megabytes every few seconds, far more than a typical home internet connection could carry. Yet you stream films on a train and store thousands of photos on a phone. The trick is compression: representing the same information, or something close enough, using fewer bits. There are two broad families. Lossless compression shrinks a file so it can be perfectly rebuilt, bit for bit. Lossy compression goes further by discarding details people are unlikely to notice, so the rebuilt file is similar but not identical. Most of the media you enjoy every day relies on clever lossy methods, built on top of lossless ideas."],
@@ -182,7 +182,7 @@ WB.L("file-compression", "technology", "advanced", "How files get squeezed: the 
   ]);
 
 WB.L("making-microchips", "technology", "advanced", "From sand to silicon: how microchips are made",
-  "The chip in your phone holds billions of switches, each far smaller than a virus. Making one is arguably the most precise manufacturing humans have ever attempted.",
+  "The chip in your phone holds billions of switches, each smaller than most viruses. Making one is arguably the most precise manufacturing humans have ever attempted.",
   [
     ["Billions of tiny switches", "A microchip is a slice of silicon carrying billions of transistors, tiny switches that process information.",
       "Every app you open, photo you edit and message you send is processed by transistors, microscopic switches that turn electric current on and off. Combine enough of them in the right patterns and they can add numbers, compare values, store data and run any program. The first transistor, built at Bell Labs in the United States in 1947, was about the size of a thumbnail. Today a high end phone processor packs well over ten billion transistors onto a chip roughly the size of a fingernail. Building them requires making features only tens of atoms across, layered with astonishing accuracy, across an entire disc of silicon at once. The whole process can take a few months from bare wafer to finished chip."],

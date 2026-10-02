@@ -80,7 +80,7 @@ WB.L("dark-triad", "psychology", "intermediate", "The dark triad",
     [1, "Where does the word narcissism come from?", ["A Roman emperor", "A Greek youth who loved his own reflection", "A flower only", "A psychologist"], 1, "The flower is named after him too."],
     [2, "Who inspired the term Machiavellianism?", ["A modern CEO", "Niccolò Machiavelli, author of The Prince", "A Greek god", "A novel villain"], 1, "He advised it's safer to be feared than loved."],
     [3, "Roughly how common is clinical psychopathy in the general population?", ["About 1%", "About 25%", "About 50%", "0%"], 0, "Higher in prison populations."],
-    [7, "What's the best way to judge someone's character?", ["Their charm", "Consistent behaviour over time, including toward people who can't help them", "Their job title", "First impressions"], 1, "Watch how they treat waiters."],
+    [7, "What's the best way to judge someone's character?", ["Their charm", "Consistent behaviour over time, including towards people who can't help them", "Their job title", "First impressions"], 1, "Watch how they treat waiters."],
   ]);
 
 WB.L("cults", "psychology", "intermediate", "How cults recruit",

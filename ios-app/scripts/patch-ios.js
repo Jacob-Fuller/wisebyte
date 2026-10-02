@@ -18,13 +18,29 @@ for (const f of ["SharedEntitlementPlugin.swift", "MainViewController.swift", "A
   fs.copyFileSync(path.join(native, f), path.join(appDir, f));
 }
 
-/* 2. Xcode project: add the Swift files, entitlements, iPhone only */
+/* 1b. Privacy manifest: declare the app's own UserDefaults use (shared App Group, reason 1C8F.1).
+   If the Capacitor template already made one, add our entry to it instead of replacing it. */
+const pmSrc = path.join(native, "PrivacyInfo.xcprivacy"), pmDst = path.join(appDir, "PrivacyInfo.xcprivacy");
+if (!fs.existsSync(pmDst)) fs.copyFileSync(pmSrc, pmDst);
+else {
+  let pm = fs.readFileSync(pmDst, "utf8");
+  if (!pm.includes("NSPrivacyAccessedAPICategoryUserDefaults")) {
+    const entry = "\t\t<dict>\n\t\t\t<key>NSPrivacyAccessedAPIType</key>\n\t\t\t<string>NSPrivacyAccessedAPICategoryUserDefaults</string>\n\t\t\t<key>NSPrivacyAccessedAPITypeReasons</key>\n\t\t\t<array>\n\t\t\t\t<string>1C8F.1</string>\n\t\t\t</array>\n\t\t</dict>\n";
+    if (/<key>NSPrivacyAccessedAPITypes<\/key>\s*<array\/>/.test(pm)) pm = pm.replace(/<key>NSPrivacyAccessedAPITypes<\/key>\s*<array\/>/, "<key>NSPrivacyAccessedAPITypes</key>\n\t<array>\n" + entry + "\t</array>");
+    else if (pm.includes("<key>NSPrivacyAccessedAPITypes</key>")) pm = pm.replace(/(<key>NSPrivacyAccessedAPITypes<\/key>\s*<array>\n?)/, "$1" + entry);
+    else pm = pm.replace(/<\/dict>\s*<\/plist>\s*$/, "\t<key>NSPrivacyAccessedAPITypes</key>\n\t<array>\n" + entry + "\t</array>\n</dict>\n</plist>\n");
+    fs.writeFileSync(pmDst, pm);
+  }
+}
+
+/* 2. Xcode project: add the Swift files, privacy manifest, entitlements, iPhone only */
 const proj = xcode.project(pbxPath);
 proj.parseSync();
 const groupKey = proj.findPBXGroupKey({ path: "App" }) || proj.findPBXGroupKey({ name: "App" });
 for (const f of ["SharedEntitlementPlugin.swift", "MainViewController.swift"]) {
   if (!proj.hasFile(f)) proj.addSourceFile(f, {}, groupKey);
 }
+if (!proj.hasFile("PrivacyInfo.xcprivacy")) proj.addResourceFile("PrivacyInfo.xcprivacy", {}, groupKey);
 proj.updateBuildProperty("CODE_SIGN_ENTITLEMENTS", '"App/App.entitlements"');
 proj.updateBuildProperty("TARGETED_DEVICE_FAMILY", '"1"');
 fs.writeFileSync(pbxPath, proj.writeSync());

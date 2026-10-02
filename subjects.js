@@ -55,7 +55,7 @@ WB.SUBJECTS = [
     steps: ["newtons-laws", "gravity", "energy", "electricity", "light", "relativity", "quantum"] },
   { id: "s-evolution", area: "science", cat: "science", title: "Evolution & Genetics", desc: "How life changes, and the code that carries it.",
     steps: ["evolution", "dna", "genes-inheritance", "human-evolution", "extinction", "gene-editing"] },
-  { id: "s-prehistoric", area: "science", cat: "science", title: "Prehistoric Life", desc: "Four billion years of life before us.",
+  { id: "s-prehistoric", area: "science", cat: "science", title: "Prehistoric Life", desc: "Three and a half billion years of life before us.",
     steps: ["first-life", "fossils", "dinosaurs", "dino-extinction", "megafauna", "extinction"] },
   { id: "s-universe", area: "science", cat: "space", title: "The Universe", desc: "From our Moon to the edge of a black hole.",
     steps: ["solar-system", "moon", "stars", "galaxies", "exoplanets", "black-holes", "big-bang"] },
@@ -149,11 +149,11 @@ WB.SUBJECTS = [
     steps: ["continents", "rivers-mountains", "deserts", "borders", "cities", "population"] },
   { id: "s-government", area: "world", cat: "society", title: "Government & Democracy", desc: "How power is organised, from your local MP to the United Nations.",
     steps: ["how-democracy", "political-ideas", "australian-parliament", "voting-au", "human-rights", "united-nations"] },
-  { id: "s-wild-australia", area: "world", cat: "nature", title: "Wild Australia", desc: "The world's strangest animals, and the truth about the dangerous ones.",
+  { id: "s-wild-australia", area: "science", cat: "nature", title: "Wild Australia", desc: "The world's strangest animals, and the truth about the dangerous ones.",
     steps: ["marsupials", "monotremes", "australian-birds", "reptiles", "wildlife", "great-barrier-reef"] },
-  { id: "s-animals", area: "world", cat: "nature", title: "Amazing Animals", desc: "Minds, senses and journeys that outdo our own.",
+  { id: "s-animals", area: "science", cat: "nature", title: "Amazing Animals", desc: "Minds, senses and journeys that outdo our own.",
     steps: ["animal-intelligence", "animal-senses", "migration", "octopus-mind", "bees"] },
-  { id: "s-maths", area: "world", cat: "maths", title: "Everyday Maths", desc: "The numbers skills that make life easier and harder to fool.",
+  { id: "s-maths", area: "world", cat: "maths", title: "Everyday Maths", desc: "The number skills that make life easier and make you harder to fool.",
     steps: ["percentages", "mental-maths", "big-numbers", "compound-interest", "probability", "statistics", "famous-maths"] },
   { id: "s-inventions", area: "world", cat: "explore", title: "Great Inventions", desc: "The ideas that changed everyday life.",
     steps: ["printing-press", "engines", "electric-light", "telephone-radio", "flight", "australian-inventions"] },
@@ -172,6 +172,7 @@ WB.RECAT = {
   "printing-press": "explore",
   // other moves
   "cooking": "food", "first-aid": "safety", "sun-safety": "safety", "communication": "emotions", "ai-models": "ai",
+  "english-language": "literature",
 };
 WB.LESSONS.forEach(l => { if (WB.RECAT[l.id]) l.cat = WB.RECAT[l.id]; });
 

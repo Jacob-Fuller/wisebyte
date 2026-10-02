@@ -50,7 +50,7 @@
      App Store or Microsoft Store app) can't unlock anything and is asked to
      get the app from a store. Everywhere else (the Claude preview, localhost)
      runs in preview mode with everything unlocked. Example: ["wisebyte.app"] */
-  const PRODUCTION_HOSTS = [];  /* TEMPORARILY UNLOCKED for review. Before release set to ["jacob-fuller.github.io"] */
+  const PRODUCTION_HOSTS = ["wisebyte.app"];
   const CACHE_KEY = "wisebyte.sub.";
 
   const S = {
@@ -197,7 +197,7 @@
 #wbpw .go[disabled]{opacity:.5}
 #wbpw .fine{font-size:12px;line-height:1.5;color:${t.ink2};text-align:center}
 #wbpw .links{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 16px}
-#wbpw .links button{background:none;border:0;color:${t.accent};font:inherit;font-size:14px;font-weight:600;padding:6px 2px;cursor:pointer}
+#wbpw .links button{background:none;border:0;color:${t.accent};font:inherit;font-size:14px;font-weight:600;padding:12px 4px;min-height:44px;cursor:pointer}
 #wbpw .msg{min-height:1.4em;font-size:14px;text-align:center;color:${t.ink}}
 #wbpw .note{padding:10px 12px;border-radius:12px;background:${t.card2};font-size:13px;color:${t.ink2};text-align:center}`;
   }

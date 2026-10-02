@@ -4,7 +4,7 @@ WB.LESSONS.push(
   id: "cooking", audience: "adult", cat: "life", level: "beginner",
   popularity: 87, added: "2026-09-24",
   title: "Cooking fundamentals",
-  hook: "You don't need recipes to cook well. You need to understand salt, fat, acid, heat and a few food-safety rules.",
+  hook: "You don't need recipes to cook well. You need to understand salt, fat, acid, heat and a few core techniques.",
   sections: [
     { h: "Recipes vs principles", key: "Understanding principles lets you cook without recipes and fix dishes as you go.",
       b: "Recipes are useful, but people who cook confidently understand principles, not just steps. Chef and author Samin Nosrat boiled good cooking down to four elements in her book Salt Fat Acid Heat: salt enhances flavour, fat carries flavour and creates texture, acid balances and brightens, and heat transforms food. Once you understand these, you can improvise, rescue a bland dish and cook with whatever's in the fridge. The single best habit? Taste as you go." },

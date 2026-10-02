@@ -1,4 +1,3 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <!doctype html>
 <html lang="en-AU">
 <head>
@@ -15,6 +14,9 @@
 /* Fonts are bundled with the app (SIL Open Font License, see fonts/), so they work offline */
 @font-face{font-family:"Cormorant Garamond";src:url(fonts/cormorant-garamond.woff) format("woff");font-weight:300 700;font-style:normal;font-display:swap}
 @font-face{font-family:"Cormorant Garamond";src:url(fonts/cormorant-garamond-italic.woff) format("woff");font-weight:300 700;font-style:italic;font-display:swap}
+/* Greek letters: subset of GFS Porson (Greek Font Society, SIL OFL, see fonts/OFL-GFSPorson.txt); Cormorant has no Greek glyphs */
+@font-face{font-family:"Cormorant Garamond";src:url(fonts/wisebyte-greek.woff) format("woff");font-weight:300 700;font-style:normal;unicode-range:U+0370-03FF,U+1F00-1FFF;font-display:swap}
+@font-face{font-family:"Cormorant Garamond";src:url(fonts/wisebyte-greek.woff) format("woff");font-weight:300 700;font-style:italic;unicode-range:U+0370-03FF,U+1F00-1FFF;font-display:swap}
 @font-face{font-family:"Figtree";src:url(fonts/figtree.woff) format("woff");font-weight:300 900;font-style:normal;font-display:swap}
 @font-face{font-family:"JetBrains Mono";src:url(fonts/jetbrains-mono.woff) format("woff");font-weight:100 800;font-style:normal;font-display:swap}
 </style>
@@ -25,7 +27,7 @@
    ========================================================= */
 :root{
   color-scheme:dark;
-  /* Single dark theme, matching Wisebyte - Scroll */
+  /* Single dark theme */
   --ground:#141210; --surface:#1D1A16; --surface-2:#24201B; --line:#353029;
   --ink:#F3EEE6; --ink-2:#A59D91;
   --accent:#C08F5C; --accent-ink:#1A140D; --accent-soft:#3A2C1D;
@@ -61,7 +63,7 @@ p{margin:0}
 .small{font-size:13px}
 
 /* ---------- shell ---------- */
-.app{max-width:520px;margin:0 auto;padding-inline:16px;padding-block:14px 112px;display:flex;flex-direction:column;gap:18px}
+.app{max-width:520px;margin:0 auto;padding-inline:16px;padding-block:calc(14px + env(safe-area-inset-top,0px)) calc(112px + env(safe-area-inset-bottom,0px));display:flex;flex-direction:column;gap:18px}
 .top{display:flex;align-items:center;justify-content:space-between;gap:10px}
 .brand{display:flex;align-items:center;gap:8px;font-family:var(--display);font-weight:600;font-size:26px;letter-spacing:.01em;min-width:0}
 .brand svg{width:28px;height:28px;color:var(--accent);flex:none}
@@ -277,7 +279,7 @@ textarea.input{min-height:96px;resize:vertical;line-height:1.5}
 .player{position:fixed;inset:0;z-index:40;background:var(--ground);padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);display:flex;justify-content:center}
 .player-inner{width:100%;max-width:520px;padding-inline:16px;padding-block:12px 16px;display:flex;flex-direction:column;gap:12px;height:100%}
 .pbar{display:flex;align-items:center;gap:12px}
-.close{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;background:var(--surface-2);flex:none}
+.close{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:var(--surface-2);flex:none}
 .close svg{width:18px;height:18px}
 .segs{flex:1;display:flex;gap:3px}
 .segs i{flex:1;height:5px;border-radius:3px;background:var(--surface-2)}
@@ -327,11 +329,6 @@ textarea.input{min-height:96px;resize:vertical;line-height:1.5}
 .callout.good{background:var(--good-soft);color:var(--good)}
 .callout svg{width:18px;height:18px;flex:none}
 .pfoot{display:flex;flex-direction:column;gap:8px}
-.flash{perspective:1200px;flex:1;display:flex;cursor:pointer}
-.flash-in{position:relative;flex:1;transition:transform .45s ease;transform-style:preserve-3d;min-height:320px}
-.flash.flipped .flash-in{transform:rotateY(180deg)}
-.flash-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;display:flex;flex-direction:column;justify-content:center;gap:14px;padding:24px 20px;border-radius:24px;background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow);overflow:auto}
-.flash-face.back{transform:rotateY(180deg)}
 .fb{padding:12px 14px;border-radius:12px;background:var(--surface-2);font-size:15px}
 
 /* ---------- sheet ---------- */
@@ -373,7 +370,7 @@ textarea.input{min-height:96px;resize:vertical;line-height:1.5}
 .profile-grid div{padding:12px 10px;border-radius:14px;background:var(--surface-2);display:flex;flex-direction:column;gap:2px}
 .profile-grid b{font-family:var(--mono);font-size:19px;line-height:1.2}
 .profile-grid span{font-size:12px;color:var(--ink-2);font-weight:600}
-.pill.lvl{background:var(--surface);border:1px solid var(--line);color:var(--ink);font-family:var(--body)}
+.pill.lvl{min-height:44px;background:var(--surface);border:1px solid var(--line);color:var(--ink);font-family:var(--body)}
 .pillars{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
 .pillars button{display:flex;flex-direction:column;align-items:center;gap:4px;padding:10px 4px;border-radius:14px;background:var(--surface);border:1px solid var(--line);font-size:12px;font-weight:700}
 .pillars .ic{width:30px;height:30px;border-radius:10px;display:grid;place-items:center;background:var(--accent-soft);color:var(--accent)}
@@ -509,15 +506,6 @@ body[data-pillar="expression"],#player[data-pillar="expression"]{--accent:var(--
 .arena-hero .btn{flex:none;background:var(--p-think);color:var(--surface)}
 .chips.wrap{flex-wrap:wrap;overflow:visible}
 
-/* ---------- scroll feed ---------- */
-.feed{display:flex;flex-direction:column;gap:12px}
-.byte{display:flex;flex-direction:column;gap:10px;padding:20px 18px 16px;border-radius:var(--r);background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--t)}
-.byte h2{font-size:26px;line-height:1.15}
-.byte-key{font-size:17px;font-weight:600;line-height:1.45}
-.byte-body{font-size:15px;line-height:1.55;color:var(--ink-2)}
-.byte .bigquote{font-size:24px}
-.byte-go{align-self:flex-start;display:inline-flex;align-items:center;gap:4px;font-weight:600;font-size:14px;color:var(--t);padding:4px 0;text-align:left}
-.byte-go svg{width:16px;height:16px;flex:none}
 .badge.review{display:inline-flex;align-items:center;gap:4px;background:var(--good-soft);color:var(--good)}
 .badge.review svg{width:12px;height:12px}
 
@@ -845,7 +833,7 @@ const RULES = {
   levelMult: { beginner: 1, intermediate: 1.25, advanced: 1.5 },
   xp: {
     lessonCorrect: 10, lessonComplete: 20, perfect: 25, retryRight: 3, replayFactor: 0.5,
-    wordLearn: 15, wordExercise: 5, sentence: 10, wordAdd: 2,
+    wordLearn: 15, wordExercise: 5, wordAdd: 2,
     quizCorrect: 3, quizPerfect: 20,
     challengePoint: 2, beatYesterday: 15,
     recallRight: 5, reviewRight: 3,
@@ -854,10 +842,7 @@ const RULES = {
   },
   goldenChance: 1 / 8,
   maxFreezes: 2, freezeEvery: 7,
-  goals: {
-    week:  [{ k: "lessons", n: 5, label: "Lessons" }, { k: "words", n: 7, label: "New words" }, { k: "challenges", n: 3, label: "Challenges" }],
-    month: [{ k: "lessons", n: 20, label: "Lessons" }, { k: "words", n: 30, label: "New words" }, { k: "active", n: 20, label: "Days you hit your goal" }, { k: "completes", n: 10, label: "Full-plan days" }],
-  },
+
 };
 const PROFILES = {
   adult: { name: "You", ranks: [[1, "Novice"], [5, "Apprentice"], [10, "Scholar"], [15, "Expert"], [20, "Sage"], [30, "Polymath"]] },
@@ -868,64 +853,64 @@ const LEVELS = { beginner: { name: "Beginner", n: 1 }, intermediate: { name: "In
    gen() returns one question step; build() returns a full list of steps. */
 const ACTIVITIES = [
   // THINK: brain training (generated fresh every time)
-  { id: "maths", pillar: "think", skill: "Mental maths", name: "Mental maths", desc: "Solve as many as you can in 60 seconds.", icon: "calc", timed: 60, kids: 1, gen: () => genMaths() },
-  { id: "pattern", pillar: "think", skill: "Pattern recognition", name: "Find the missing number", desc: "Crack the pattern. You have 60 seconds.", icon: "grid", timed: 60, kids: 1, gen: () => genPattern() },
-  { id: "memory", pillar: "think", skill: "Memory", name: "Number memory", desc: "Memorise a number, then pick it out.", icon: "brain", count: 8, kids: 1, build: () => buildMemory() },
+  { id: "maths", pillar: "think", skill: "Mental maths", name: "Mental maths", desc: "Solve as many as you can in 60 seconds.", icon: "calc", timed: 60, gen: () => genMaths() },
+  { id: "pattern", pillar: "think", skill: "Pattern recognition", name: "Find the missing number", desc: "Crack the pattern. You have 60 seconds.", icon: "grid", timed: 60, gen: () => genPattern() },
+  { id: "memory", pillar: "think", skill: "Memory", name: "Number memory", desc: "Memorise a number, then pick it out.", icon: "brain", count: 8, build: () => buildMemory() },
   { id: "logic", pillar: "think", skill: "Logic", name: "Does it follow?", desc: "Decide whether each conclusion is logically valid.", icon: "scale", count: 8, gen: () => genLogic() },
-  { id: "stroop", pillar: "think", skill: "Attention", name: "Colour clash", desc: "Name the ink colour, not the word. 45 seconds.", icon: "eye", timed: 45, kids: 1, gen: () => genStroop() },
-  { id: "spatial", pillar: "think", skill: "Spatial reasoning", name: "Turn it around", desc: "Rotate and flip the arrow in your head.", icon: "rotate", count: 8, kids: 1, gen: () => genSpatial() },
-  { id: "puzzles", pillar: "think", skill: "Problem solving", name: "Brain teasers", desc: "Classic puzzles that trip up fast thinking.", icon: "bulb", count: 5, kids: 1, build: () => bankSteps(WB.PUZZLES, 5, "puzzle") },
+  { id: "stroop", pillar: "think", skill: "Attention", name: "Colour clash", desc: "Name the ink colour, not the word. 45 seconds.", icon: "eye", timed: 45, gen: () => genStroop() },
+  { id: "spatial", pillar: "think", skill: "Spatial reasoning", name: "Turn it around", desc: "Rotate and flip the arrow in your head.", icon: "rotate", count: 8, gen: () => genSpatial() },
+  { id: "puzzles", pillar: "think", skill: "Problem solving", name: "Brain teasers", desc: "Classic puzzles that trip up fast thinking.", icon: "bulb", count: 5, build: () => bankSteps(WB.PUZZLES, 5, "puzzle") },
   { id: "critical", pillar: "think", skill: "Critical thinking", name: "Think it through", desc: "Real-world scenarios. What can you actually conclude?", icon: "scale", count: 5, build: () => bankSteps(WB.SCENARIOS, 5, "scenario") },
   { id: "anagram", pillar: "think", skill: "Verbal fluency", name: "Anagrams", desc: "Unscramble the word. 60 seconds.", icon: "shuffle", timed: 60, gen: () => genAnagram() },
   { id: "compare", pillar: "think", skill: "Numeracy", name: "Bigger or smaller?", desc: "Fractions, decimals and percentages. Pick the bigger one, fast.", icon: "gauge", timed: 60, gen: () => genCompare() },
   { id: "letters", pillar: "think", skill: "Verbal reasoning", name: "Letter patterns", desc: "Find the next letter in the sequence.", icon: "stack", count: 8, gen: () => genLetters() },
   { id: "clock", pillar: "think", skill: "Working memory", name: "Time travel", desc: "Add and subtract time in your head.", icon: "hourglass", count: 8, gen: () => genClock() },
   // TEST: knowledge and vocabulary
-  { id: "gk", pillar: "test", name: "10 questions a day", desc: "General knowledge from 13 categories.", icon: "globe", count: 10, kids: 1, build: o => buildGK(o) },
-  { id: "fob", pillar: "test", name: "Fact or Fiction?", kidsName: "Fact or Fiction?", desc: "Popular claims. True, or total myth?", icon: "flag", count: 10, kids: 1, build: () => buildFOB() },
+  { id: "gk", pillar: "test", name: "10 questions a day", desc: "General knowledge from 13 categories.", icon: "globe", count: 10, build: o => buildGK(o) },
+  { id: "fob", pillar: "test", name: "Fact or Fiction?", desc: "Popular claims. True, or total myth?", icon: "flag", count: 10, build: () => buildFOB() },
   { id: "timeline", pillar: "test", name: "Which came first?", desc: "Two moments in history. Pick the one that happened first.", icon: "hourglass", count: 10, build: () => buildTimeline() },
-  { id: "capitals", pillar: "test", name: "Capital cities", desc: "Learn five capitals, then test yourself.", icon: "globe", count: 5, kids: 1, build: () => buildCapitals() },
-  { id: "memwords", pillar: "test", name: "Memorise five words", desc: "Study five words and meanings, then recall them.", icon: "pen", count: 5, kids: 1, build: () => buildMemWords() },
-  { id: "speed", pillar: "test", name: "60-second vocab", desc: "Match words to meanings, fast.", icon: "timer", timed: 60, kids: 1, gen: () => ({ t: "q", q: qMeaning(pick(allWords())) }) },
-  { id: "tf", pillar: "test", name: "True or false speed round", desc: "Is that the right meaning? 60 seconds.", icon: "bolt", timed: 60, kids: 1, gen: () => ({ t: "q", q: qTF(pick(allWords())) }) },
-  { id: "def", pillar: "test", name: "Guess the definition", desc: "Pick the right meaning for each word.", icon: "book", count: 10, kids: 1, gen: () => ({ t: "q", q: qMeaning(pick(allWords())) }) },
-  { id: "word", pillar: "test", name: "Guess the word", desc: "Read the meaning, find the word.", icon: "search", count: 10, kids: 1, gen: () => ({ t: "q", q: qFromDef(pick(allWords())) }) },
-  { id: "odd", pillar: "test", name: "Which word doesn't belong?", desc: "Spot the odd one out.", icon: "shuffle", count: 8, kids: 1, gen: () => ({ t: "q", q: qOdd(pick(allWords().filter(canOdd))) }) },
+  { id: "capitals", pillar: "test", name: "Capital cities", desc: "Learn five capitals, then test yourself.", icon: "globe", count: 5, build: () => buildCapitals() },
+  { id: "memwords", pillar: "test", name: "Memorise five words", desc: "Study five words and meanings, then recall them.", icon: "pen", count: 5, build: () => buildMemWords() },
+  { id: "speed", pillar: "test", name: "60-second vocab", desc: "Match words to meanings, fast.", icon: "timer", timed: 60, gen: () => ({ t: "q", q: qMeaning(pick(allWords())) }) },
+  { id: "tf", pillar: "test", name: "True or false speed round", desc: "Is that the right meaning? 60 seconds.", icon: "bolt", timed: 60, gen: () => ({ t: "q", q: qTF(pick(allWords())) }) },
+  { id: "def", pillar: "test", name: "Guess the definition", desc: "Pick the right meaning for each word.", icon: "book", count: 10, gen: () => ({ t: "q", q: qMeaning(pick(allWords())) }) },
+  { id: "word", pillar: "test", name: "Guess the word", desc: "Read the meaning, find the word.", icon: "search", count: 10, gen: () => ({ t: "q", q: qFromDef(pick(allWords())) }) },
+  { id: "odd", pillar: "test", name: "Which word doesn't belong?", desc: "Spot the odd one out.", icon: "shuffle", count: 8, gen: () => ({ t: "q", q: qOdd(pick(allWords().filter(canOdd))) }) },
   { id: "opposites", pillar: "test", name: "Opposites", desc: "Pick the word that means the opposite.", icon: "opp", count: 10, gen: () => ({ t: "q", q: qOpp(pick(allWords().filter(canOpp))) }) },
-  { id: "blank", pillar: "test", name: "Complete the sentence", desc: "Fill the gap with the right word.", icon: "pen", count: 10, kids: 1, gen: () => ({ t: "q", q: qBlank(pick(allWords())) }) },
-  { id: "facts", pillar: "test", name: "Lesson quiz", desc: "10 questions from across the lesson library.", icon: "brain", count: 10, kids: 1, gen: () => { const l = pick(lessons()); return { t: "q", q: qLesson(l, rand(l.quiz.length), `From <b>${esc(l.title)}</b>`) }; } },
+  { id: "blank", pillar: "test", name: "Complete the sentence", desc: "Fill the gap with the right word.", icon: "pen", count: 10, gen: () => ({ t: "q", q: qBlank(pick(allWords())) }) },
+  { id: "facts", pillar: "test", name: "Lesson quiz", desc: "10 questions from across the lesson library.", icon: "brain", count: 10, gen: () => { const l = pick(lessons()); return { t: "q", q: qLesson(l, rand(l.quiz.length), `From <b>${esc(l.title)}</b>`) }; } },
 ];
-const actName = a => (aud() === "kids" && a.kidsName) || a.name;
-const activeActs = () => ACTIVITIES.filter(a => aud() === "adult" || a.kids);
+const actName = a => a.name;
+const activeActs = () => ACTIVITIES;
 const actById = id => ACTIVITIES.find(a => a.id === id);
 
 /* ---- generators ---- */
 function nearNums(ans, n = 3) { const set = new Set([ans]); for (const d of shuffle([1, -1, 2, -2, 10, -10, 3, -3, 5, -5, 4, -4])) { if (set.size > n) break; if (ans + d >= 0) set.add(ans + d); } return shuffle([...set]); }
 function numQ(prompt, ans, explain, sub) { const o = nearNums(ans); return { prompt, sub, options: o.map(String), answer: o.indexOf(ans), explain }; }
 function genMaths() {
-  const kids = aud() === "kids", op = pick(kids ? ["+", "−", "+", "×"] : ["+", "−", "×", "÷"]);
+  const op = pick(["+", "−", "×", "÷"]);
   let a, b, ans;
-  if (op === "+") { a = rand(kids ? 12 : 90) + (kids ? 1 : 10); b = rand(kids ? 12 : 90) + (kids ? 1 : 10); ans = a + b; }
-  else if (op === "−") { a = rand(kids ? 15 : 90) + (kids ? 5 : 20); b = rand(a - 1) + 1; ans = a - b; }
-  else if (op === "×") { a = rand(kids ? 5 : 11) + 2; b = rand(kids ? 5 : 11) + 2; ans = a * b; }
+  if (op === "+") { a = rand(90) + 10; b = rand(90) + 10; ans = a + b; }
+  else if (op === "−") { a = rand(90) + 20; b = rand(a - 1) + 1; ans = a - b; }
+  else if (op === "×") { a = rand(11) + 2; b = rand(11) + 2; ans = a * b; }
   else { b = rand(11) + 2; ans = rand(11) + 2; a = b * ans; }
   return { t: "q", q: numQ(`<span class="bigq">${a} ${op} ${b}</span>`, ans, `${a} ${op} ${b} = ${ans}`) };
 }
 function genPattern() {
-  const kids = aud() === "kids", type = pick(kids ? ["arith", "arith", "double"] : ["arith", "double", "triple", "square", "alt", "fib", "tri"]);
+  const type = pick(["arith", "double", "triple", "square", "alt", "fib", "tri"]);
   let seq = [], rule = "";
-  if (type === "arith") { const a = rand(9) + 1, d = rand(kids ? 4 : 12) + 2; for (let i = 0; i < 6; i++) seq.push(a + i * d); rule = `Add ${d} each time.`; }
+  if (type === "arith") { const a = rand(9) + 1, d = rand(12) + 2; for (let i = 0; i < 6; i++) seq.push(a + i * d); rule = `Add ${d} each time.`; }
   if (type === "double") { const a = rand(4) + 1; for (let i = 0; i < 6; i++) seq.push(a * 2 ** i); rule = "Double each time."; }
   if (type === "triple") { const a = rand(3) + 1; for (let i = 0; i < 5; i++) seq.push(a * 3 ** i); rule = "Multiply by 3 each time."; }
   if (type === "square") { const n = rand(4) + 1; for (let i = 0; i < 6; i++) seq.push((n + i) ** 2); rule = "Square numbers."; }
-  if (type === "alt") { const x = rand(6) + 2, y = rand(6) + 2; seq.push(rand(9) + 1); for (let i = 1; i < 7; i++) seq.push(seq[i - 1] + (i % 2 ? x : y)); rule = `Alternately add ${x} and ${y}.`; }
+  if (type === "alt") { const x = rand(6) + 2; let y = rand(6) + 2; if (y === x) y = x === 7 ? 2 : x + 1; seq.push(rand(9) + 1); for (let i = 1; i < 7; i++) seq.push(seq[i - 1] + (i % 2 ? x : y)); rule = `Alternately add ${x} and ${y}.`; }
   if (type === "fib") { const a = rand(3) + 1; seq = [a, a + rand(3) + 1]; for (let i = 2; i < 7; i++) seq.push(seq[i - 1] + seq[i - 2]); rule = "Each number is the sum of the two before it."; }
   if (type === "tri") { for (let n = 1; n <= 7; n++) seq.push(n * (n + 1) / 2); rule = "The gaps grow by 1 each time (triangular numbers)."; }
   const h = rand(seq.length - 2) + 2, ans = seq[h];
   return { t: "q", q: numQ(`<span class="seq">${seq.map((v, i) => i === h ? '<span class="gap">?</span>' : `<span>${v}</span>`).join("")}</span>`, ans, rule, "Find the missing number") };
 }
 function buildMemory() {
-  const kids = aud() === "kids", lens = kids ? [3, 3, 4, 4, 5, 5, 6, 6] : [4, 5, 5, 6, 6, 7, 7, 8];
+  const lens = [4, 5, 5, 6, 6, 7, 7, 8];
   return lens.flatMap((n, i) => {
     let d = ""; for (let k = 0; k < n; k++) d += k === 0 ? rand(9) + 1 : rand(10);
     const opts = new Set([d]);
@@ -940,10 +925,10 @@ function buildMemory() {
 }
 const NONSENSE = ["bloops", "razzies", "wugs", "zorbs", "flims", "gleeps", "tovs", "snarks", "quibs", "drents"];
 const LOGIC = [
-  { p: ["All {A} are {B}.", "All {B} are {C}."], c: "All {A} are {C}.", v: true, e: "Every {A} is a {B}, and every {B} is a {C}, so every {A} must be a {C}." },
+  { p: ["All {A} are {B}.", "All {B} are {C}."], c: "All {A} are {C}.", v: true, e: "All {A} are {B}, and all {B} are {C}, so all {A} must be {C}." },
   { p: ["All {A} are {B}.", "Some {B} are {C}."], c: "Some {A} are {C}.", v: false, e: "The {B} that are {C} might not include any {A}." },
-  { p: ["No {A} are {B}.", "All {C} are {A}."], c: "No {C} are {B}.", v: true, e: "Every {C} is an {A}, and no {A} is a {B}, so no {C} can be a {B}." },
-  { p: ["All {A} are {B}.", "Sam is one of the {A}."], c: "Sam is one of the {B}.", v: true, e: "Sam is an {A}, and all {A} are {B}." },
+  { p: ["No {A} are {B}.", "All {C} are {A}."], c: "No {C} are {B}.", v: true, e: "All {C} are {A}, and no {A} are {B}, so no {C} can be {B}." },
+  { p: ["All {A} are {B}.", "Sam is one of the {A}."], c: "Sam is one of the {B}.", v: true, e: "Sam is one of the {A}, and all {A} are {B}." },
   { p: ["All {A} are {B}.", "Sam is one of the {B}."], c: "Sam is one of the {A}.", v: false, e: "There may be {B} that aren't {A}. Sam could be one of them." },
   { p: ["Some {A} are {B}.", "All {B} are {C}."], c: "Some {A} are {C}.", v: true, e: "The {A} that are {B} must also be {C}." },
   { p: ["If something is one of the {A}, it glows.", "This thing glows."], c: "This thing is one of the {A}.", v: false, e: "Other things might glow too. This mistake is called affirming the consequent." },
@@ -969,7 +954,7 @@ const MOVES = [
   { t: "Mirror it left-to-right", f: d => d === 1 ? 3 : d === 3 ? 1 : d }, { t: "Flip it upside down", f: d => d === 0 ? 2 : d === 2 ? 0 : d },
 ];
 function genSpatial() {
-  const start = rand(4), n = aud() === "kids" ? 1 : 2 + (Math.random() < 0.35 ? 1 : 0), moves = Array.from({ length: n }, () => pick(MOVES));
+  const start = rand(4), n = 2 + (Math.random() < 0.35 ? 1 : 0), moves = Array.from({ length: n }, () => pick(MOVES));
   const end = moves.reduce((d, m) => m.f(d), start);
   return { t: "q", q: { prompt: `<span class="arrowbig">${ARROWS[start]}</span><ol class="steps-list">${moves.map(m => `<li>${m.t}</li>`).join("")}</ol>`, sub: "Which way does the arrow point now?", options: ARROWS.slice(), answer: end, big: true, explain: `It ends up pointing ${["up", "right", "down", "left"][end]}.` } };
 }
@@ -1036,17 +1021,17 @@ function genClock() {
 }
 function mcq(item, head) { const o = shuffle(item.o.map((t, i) => ({ t, i }))); return { t: "q", head, q: { prompt: esc(item.q), options: o.map(x => esc(x.t)), answer: o.findIndex(x => x.i === item.a), explain: esc(item.e) } }; }
 function bankSteps(bank, n, kind) {
-  const pool = bank.filter(x => aud() === "adult" || x.k);
+  const pool = bank;
   return shuffle(pool).slice(0, n).map((x, i) => { const s = mcq(x, `${kind === "scenario" ? x.topic : "Brain teaser"} · ${i + 1} of ${Math.min(n, pool.length)}`); return s; });
 }
 function buildGK(o = {}) {
-  let pool = WB.GK.filter(x => aud() === "adult" || x.k);
+  let pool = WB.GK;
   if (o.cat) pool = pool.filter(x => x.cat === o.cat);
   const list = o.cat ? shuffle(pool).slice(0, 10) : pool.slice().sort((a, b) => hashStr(today() + a.q) - hashStr(today() + b.q)).slice(0, 10);
   return list.map((x, i) => mcq(x, `${WB.GK_CATS[x.cat]} · ${i + 1} of ${list.length}`));
 }
 function buildFOB() {
-  const pool = WB.CLAIMS.filter(x => aud() === "adult" || x.k), labels = aud() === "kids" ? ["Fact", "Fiction"] : ["Fact", "Fiction"];
+  const pool = WB.CLAIMS, labels = ["Fact", "Fiction"];
   return shuffle(pool).slice(0, 10).map((x, i) => ({ t: "q", head: `${actName(actById("fob"))} · ${i + 1} of ${Math.min(10, pool.length)}`,
     q: { prompt: `<span class="claim">“${esc(x.c)}”</span>`, options: labels, answer: x.t ? 0 : 1, explain: esc(x.e), verdict: x.t ? "It's a fact." : `It's ${labels[1].toLowerCase()}.` } }));
 }
@@ -1076,16 +1061,21 @@ function buildMemWords() {
 function buildActivity(a, o) {
   if (a.build) return a.build(o);
   const steps = [], seen = new Set();
-  for (let g = 0; steps.length < a.count && g < 80; g++) { const s = a.gen(); if (!seen.has(s.q.prompt)) { seen.add(s.q.prompt); steps.push(s); } }
+  for (let g = 0; steps.length < a.count && g < 80; g++) { const s = a.gen(), key = s.q.prompt + "|" + (s.q.w || ""); if (!seen.has(key)) { seen.add(key); steps.push(s); } }
   return steps.map((s, i) => ({ ...s, head: s.head || `${actName(a)} · ${i + 1} of ${steps.length}` }));
 }
 
 /* ============ 2. STATE — per profile, saved on this device ============ */
 const STORE_KEY = "wisebyte.v3";
 const freshStats = () => ({ answered: 0, correct: 0, run: 0, bestRun: 0, perfectLessons: 0, goldens: 0, recalls: 0, recallsRight: 0,
-  challenges: 0, beatYesterday: 0, dailyCompletes: 0, sentences: 0, lookups: 0, speedBest: 0, perfectFob: 0, perfectTimeline: 0, perfectOpposites: 0, perfectCapitals: 0, perfectCritical: 0, perfectGk: 0 });
+  challenges: 0, beatYesterday: 0, dailyCompletes: 0, lookups: 0, speedBest: 0, perfectFob: 0, perfectTimeline: 0, perfectOpposites: 0, perfectCapitals: 0, perfectCritical: 0, perfectGk: 0 });
 const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, vocab: null, quotes: {}, mastered: {}, inner: {}, stats: freshStats() });
-const mergeProfile = p => Object.assign(freshProfile(), p || {}, { stats: Object.assign(freshStats(), (p && p.stats) || {}) });
+const mergeProfile = p => {
+  const m = Object.assign(freshProfile(), p && typeof p === "object" ? p : {});
+  for (const k of ["days", "lessons", "words", "custom", "ach", "scores", "quotes", "mastered", "inner"]) if (!m[k] || typeof m[k] !== "object" || Array.isArray(m[k])) m[k] = {};
+  m.stats = Object.assign(freshStats(), (p && p.stats) || {});
+  return m;
+};
 let store = loadStore();
 let state = store.profiles[store.active];
 function loadStore() {
@@ -1102,9 +1092,16 @@ function save() {
   // In the iPhone app, also keep a copy in native storage (iOS can clear web storage; this can't be).
   try { const pf = nativePrefs(); if (pf) pf.set({ key: STORE_KEY, value: json }); } catch (e) {}
 }
-const nativePlugin = name => (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins[name]) || null;
+/* Native plugins: use Capacitor.Plugins if present, otherwise register the proxy (the web code isn't bundled with @capacitor/core). */
+const _nativeCache = {};
+const nativePlugin = name => {
+  const C = window.Capacitor; if (!C) return null;
+  if (C.Plugins && C.Plugins[name]) return C.Plugins[name];
+  if (_nativeCache[name]) return _nativeCache[name];
+  try { if (C.isNativePlatform && C.isNativePlatform() && C.isPluginAvailable && C.isPluginAvailable(name) && C.registerPlugin) return (_nativeCache[name] = C.registerPlugin(name)); } catch (e) {}
+  return null;
+};
 const nativePrefs = () => nativePlugin("Preferences");
-const isNativeApp = () => !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
 async function hydrateNative() {
   const pf = nativePrefs(); if (!pf) return;
   try {
@@ -1112,7 +1109,7 @@ async function hydrateNative() {
     const s = value ? JSON.parse(value) : null;
     if (s && s.profiles && (s.updated || 0) > (store.updated || 0)) {
       store = { active: "adult", profiles: { adult: mergeProfile(s.profiles.adult) }, updated: s.updated };
-      state = store.profiles.adult; render();
+      state = store.profiles.adult; migrateQuotes(); render();
     } else save();
   } catch (e) {}
 }
@@ -1142,7 +1139,7 @@ const entry = w => WB.WORDS.find(e => e.w === w) || state.custom[w];
 const allWords = () => lib().concat(Object.values(state.custom));
 const catOf = l => WB.CATEGORIES[l.cat] || { name: l.cat, color: "#888" };
 const wcatOf = e => WB.WORD_CATS[e.cat] || WB.WORD_CATS.everyday;
-const lessonMins = l => { const w = l.sections.reduce((a, s) => a + s.b.split(/\s+/).length, 0); return Math.max(3, Math.round(w / (l.audience === "kids" ? 110 : 190) + 2)); };
+const lessonMins = l => { const w = l.sections.reduce((a, s) => a + s.b.split(/\s+/).length, 0); return Math.max(3, Math.round(w / 190 + 2)); };
 
 function day(k = today()) {
   return state.days[k] || (state.days[k] = { lesson: 0, word: false, quiz: false, challenge: false, know: false, practical: false, expr: false, goal: false, done: false, words: 0, challenges: 0, secs: 0, xp: 0 });
@@ -1190,7 +1187,7 @@ function liveStreak() {
   return 0;
 }
 function touchStreak() {
-  const t = today(); if (state.lastActive === t) return;
+  const t = today(); if (state.lastActive && state.lastActive >= t) return;
   const gap = state.lastActive ? daysBetween(state.lastActive, t) : null;
   if (gap === 1) state.streak++;
   else if (gap === 2 && state.freezes > 0) { state.freezes--; state.streak++; toast("A streak freeze saved your streak"); }
@@ -1220,7 +1217,7 @@ function lessonRecall(id, right) {
 }
 function addWord(w, source) {
   if (state.words[w]) return false;
-  state.words[w] = { box: 0, due: addDays(today(), 1), addedAt: today(), right: 0, wrong: 0, lapses: 0, source, sentences: [] };
+  state.words[w] = { box: 0, due: addDays(today(), 1), addedAt: today(), right: 0, wrong: 0, lapses: 0, source };
   day().words++;
   return true;
 }
@@ -1274,15 +1271,6 @@ function wordOfDay() {
 const challengeOfDay = () => { const A = activeActs().filter(a => a.pillar === "think"); return A[hashStr(today() + aud() + "C") % A.length]; };
 const scoreOn = (id, k) => (state.scores[id] || {})[k];
 
-/* weekly / monthly */
-function periodSum(fromKey) {
-  const s = { lessons: 0, words: 0, challenges: 0, completes: 0, active: 0 };
-  Object.entries(state.days).forEach(([k, d]) => { if (k >= fromKey && k <= today()) { s.lessons += d.lesson || 0; s.words += d.words || 0; s.challenges += d.challenges || 0; s.completes += d.done ? 1 : 0; s.active += d.goal ? 1 : 0; } });
-  return s;
-}
-const weekStart = () => addDays(today(), -((new Date().getDay() + 6) % 7));
-const monthStart = () => today().slice(0, 8) + "01";
-
 /* achievements */
 const ACHIEVEMENTS = [
   { id: "first-lesson", name: "First Lesson", desc: "Finish your first lesson", icon: "book", test: c => c.lessons >= 1 },
@@ -1299,22 +1287,21 @@ const ACHIEVEMENTS = [
   { id: "elephant", name: "Elephant Memory", desc: "10 correct recalls", icon: "brain", test: c => c.recallsRight >= 10 },
   { id: "fullhouse", name: "Full House", desc: "Complete all five pillars in a day", icon: "gift", test: c => c.dailyCompletes >= 1 },
   { id: "clockwork", name: "Clockwork", desc: "All five pillars on 7 days", icon: "gift", test: c => c.dailyCompletes >= 7 },
-  { id: "pb", name: "Personal Best", desc: "Beat yesterday's score", icon: "trophy", test: c => c.beatYesterday >= 1 },
+  { id: "pb", name: "Better Than Yesterday", desc: "Beat yesterday's score", icon: "trophy", test: c => c.beatYesterday >= 1 },
   { id: "quick", name: "Quick Thinker", desc: "Score 15+ in 60-second vocab", icon: "timer", test: c => c.speedBest >= 15 },
   { id: "curious", name: "Curious Mind", desc: "Look up a word and add it to your words", icon: "search", test: c => c.lookups >= 1 },
-  { id: "author", name: "Author", desc: "Write 5 practice sentences", icon: "pen", test: c => c.sentences >= 5 },
   { id: "specialist", name: "Specialist", desc: "Finish every lesson in a category", icon: "trophy", test: c => c.fullCats >= 1 },
   { id: "polymath", name: "All-Rounder", desc: "A lesson in every topic", icon: "compass", test: c => c.allCats },
   { id: "golden", name: "Golden Touch", desc: "Finish a Golden Lesson", icon: "star", test: c => c.goldens >= 1 },
   { id: "rising", name: "Rising Star", desc: "Reach level 10", icon: "bolt", test: c => c.level >= 10 },
-  { id: "brainiac", name: "Brainiac", desc: "Try every brain-training game", icon: "brain", test: c => c.allGames },
+  { id: "brainiac", name: "Brainiac", desc: "Try every brain game", icon: "brain", test: c => c.allGames },
   { id: "factchecker", name: "Fact Checker", desc: "Perfect score in Fact or Fiction?", icon: "flag", test: c => c.perfectFob >= 1 },
   { id: "timekeeper", name: "Timekeeper", desc: "10/10 in Which came first?", icon: "hourglass", test: c => c.perfectTimeline >= 1 },
   { id: "opposites", name: "Opposites Attract", desc: "10/10 in Opposites", icon: "opp", test: c => c.perfectOpposites >= 1 },
-  { id: "wellrounded", name: "Well Rounded", desc: "Try every quiz in the Arena", icon: "target", test: c => c.allQuizzes },
+  { id: "wellrounded", name: "Arena Explorer", desc: "Try every quiz in the Arena", icon: "target", test: c => c.allQuizzes },
   { id: "globetrotter", name: "Globetrotter", desc: "5/5 in Capital cities", icon: "globe", test: c => c.perfectCapitals >= 1 },
   { id: "sharp", name: "Sharp Thinker", desc: "Perfect score in Think it through", icon: "scale", test: c => c.perfectCritical >= 1 },
-  { id: "trivia", name: "Know-It-All", desc: "10/10 in The Daily Trial", icon: "target", test: c => c.perfectGk >= 1 },
+  { id: "trivia", name: "Know-It-All", desc: "10/10 in The Daily Trial or 10 questions a day", icon: "target", test: c => c.perfectGk >= 1 },
   { id: "master1", name: "Master", desc: "Master your first subject", icon: "laurel", test: c => c.masteredN >= 1 },
   { id: "master5", name: "Grand Master", desc: "Master 5 subjects", icon: "laurel", test: c => c.masteredN >= 5 },
   { id: "master20", name: "Polymath", desc: "Master 20 subjects", icon: "laurel", test: c => c.masteredN >= 20 },
@@ -1388,7 +1375,7 @@ function qOdd(e) {
 const wordQ = { fit: qFit, meaning: qMeaning, fromDef: qFromDef, blank: qBlank, tf: qTF, odd: qOdd };
 
 /* ============ 6. SCREENS ============ */
-let tab = "today", learnView = "trending", learnCat = "all", learnLevel = "all", wordsView = "mine", wordsFilter = "all", confirmReset = false, lookupState = null;
+let tab = "today", learnCat = "all", learnLevel = "all", lookupState = null;
 const S = 'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"';
 const ICON = {
   logo: '<svg viewBox="0 0 32 32" aria-hidden="true"><defs><mask id="bite"><rect width="32" height="32" fill="#fff"/><circle cx="27.5" cy="6.5" r="5.5" fill="#000"/><circle cx="31" cy="14" r="4" fill="#000"/></mask></defs><circle cx="15" cy="17" r="14" fill="currentColor" mask="url(#bite)"/></svg>',
@@ -1446,11 +1433,9 @@ const ICON = {
 const PILLARS = {
   learn:    { name: "Knowledge", icon: "book",  tag: "Episteme · Understand the world", desc: "Micro-lessons, Explain It Simply, Life Skills, Critical Thinking, Memory Tools and learning paths." },
   remember: { name: "Vocabulary", icon: "repeat", tag: "Lexis · Words are tools",        desc: "Vocabulary, your word bank and spaced review." },
-  think:    { name: "Cognition", icon: "brain", tag: "Noesis · Sharpen the mind",  desc: "Brain training for memory, logic, patterns, maths, attention, spatial reasoning and problem solving, plus critical-thinking scenarios." },
+  think:    { name: "Cognition", icon: "brain", tag: "Noesis · Sharpen the mind",  desc: "Brain games for memory, logic, patterns, maths, attention, spatial reasoning and problem solving, plus critical-thinking scenarios." },
   test:     { name: "Test",     icon: "target", tag: "Prove what you know",  desc: "" },
 };
-const _unusedPillarDesc = k => k === "test" ? `10 general-knowledge questions a day, ${aud() === "kids" ? "Fact or Fiction?" : "Fact or Fiction?"}, quizzes and challenges.` : PILLARS[k].desc;
-const pillarHero = k => `<section class="phero"><span class="pic">${ICON[PILLARS[k].icon]}</span><div><span class="eyebrow">${PILLARS[k].tag}</span><h1>${PILLARS[k].name}</h1><p>${pillarDesc(k)}</p></div></section>`;
 const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["review", "Review", "repeat"], ["me", "Account", "user"]];
 
 const lvlPips = (n, label) => `<span class="diff"><span class="pips l${n}"><i></i><i></i><i></i></span>${label}</span>`;
@@ -1477,17 +1462,6 @@ function wordRow(e) {
   const right = r ? (struggling(e.w) ? '<span class="badge warn">Tricky</span>' : strength(r.box)) : `<span class="badge new">Add</span>`;
   return `<button class="row" style="--t:${c.color}" data-act="word" data-w="${esc(e.w)}"><i class="dot"></i>
     <span class="txt"><strong>${esc(e.w)}</strong><small><span>${esc(e.pos)}</span>${wordPips(e)}<span>${esc(c.name)}</span></small></span>${right}</button>`;
-}
-
-/* ---------- recommendations ---------- */
-function recommendNext() {
-  const cats = categoryStats().filter(c => c.learned < c.total).sort((a, b) => a.pct - b.pct || a.learned - b.learned);
-  for (const c of cats) { const l = lessons().filter(x => x.cat === c.key && !state.lessons[x.id]).sort((a, b) => LEVELS[a.level].n - LEVELS[b.level].n)[0]; if (l) return l; }
-  return null;
-}
-function recommendCard() {
-  const r = recommendNext(); if (!r) return "";
-  return `<section class="panel"><span class="eyebrow">Recommended next · ${catOf(r).name} · ${LEVELS[r.level].name}</span>${lessonRow(r)}<p class="muted small">Picked from your weakest topic, starting at the easiest level.</p></section>`;
 }
 
 /* ---------- The five pillars ---------- */
@@ -1517,53 +1491,61 @@ function practicalOfDay() {
 /* Expression: famous quotes. Attributions are the well-established ones; paraphrases are flagged. */
 const QUOTES = [
   { q: "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.", a: "Epicurus", w: "Greek philosopher, around 300 BC, from the Vatican Sayings", m: "Gratitude for what you already have beats always chasing the next thing." },
-  { q: "We suffer more often in imagination than in reality.", a: "Seneca", w: "Roman Stoic philosopher, 1st century AD", m: "Most of our worry is about things that never actually happen, or turn out smaller than we feared.", k: 1 },
+  { q: "We suffer more often in imagination than in reality.", a: "Seneca", w: "Roman Stoic philosopher, 1st century AD", m: "Most of our worry is about things that never actually happen, or turn out smaller than we feared." },
   { q: "First say to yourself what you would be; and then do what you have to do.", a: "Epictetus", w: "Greek Stoic philosopher and former slave, 1st–2nd century AD, from his Discourses", m: "Decide who you want to become, then let that choice guide what you do each day." },
   { q: "The impediment to action advances action. What stands in the way becomes the way.", a: "Marcus Aurelius", w: "Roman emperor and Stoic, 2nd century AD, from his Meditations", m: "Obstacles aren't just blockers: working through them is often the path to getting better." },
   { q: "Waste no more time arguing what a good man should be. Be one.", a: "Marcus Aurelius", w: "Roman emperor and Stoic, 2nd century AD, from his Meditations", m: "Talking about good values is easy. What counts is acting on them today." },
-  { q: "As is a tale, so is life: not how long it is, but how good it is, is what matters.", a: "Seneca", w: "Roman Stoic philosopher, 1st century AD, from his Letters to Lucilius", m: "A life is measured by what you do with it, not by how many years it lasts.", k: 1 },
-  { q: "Know thyself.", a: "Temple of Apollo at Delphi", w: "Inscription at the ancient Greek oracle, around 6th century BC", m: "Understanding your own strengths, flaws and motives is the start of wisdom.", k: 1 },
+  { q: "As is a tale, so is life: not how long it is, but how good it is, is what matters.", a: "Seneca", w: "Roman Stoic philosopher, 1st century AD, from his Letters to Lucilius", m: "A life is measured by what you do with it, not by how many years it lasts." },
+  { q: "Know thyself.", a: "Temple of Apollo at Delphi", w: "Inscription at the ancient Greek oracle, around 6th century BC", m: "Understanding your own strengths, flaws and motives is the start of wisdom." },
   { q: "No man ever steps in the same river twice.", a: "Heraclitus", w: "Greek philosopher, around 500 BC (a later paraphrase of his idea)", m: "Everything is always changing, including you, so no moment is ever repeated exactly." },
   { q: "Man is the measure of all things.", a: "Protagoras", w: "Greek philosopher, 5th century BC", m: "What we call true or valuable is shaped by human perspective." },
-  { q: "Philosophy begins in wonder.", a: "Plato", w: "Greek philosopher, 4th century BC, in his dialogue Theaetetus", m: "Curiosity, the simple feeling of 'how strange, why is that?', is where all deep thinking starts.", k: 1 },
+  { q: "Philosophy begins in wonder.", a: "Plato", w: "Greek philosopher, 4th century BC, in his dialogue Theaetetus", m: "Curiosity, the simple feeling of 'how strange, why is that?', is where all deep thinking starts." },
   { q: "Man is by nature a political animal.", a: "Aristotle", w: "Greek philosopher, 4th century BC, in his Politics", m: "Humans are built to live in communities, and we flourish through our life together." },
-  { q: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", a: "Will Durant", w: "American historian, 1926, summarising Aristotle (often misattributed to Aristotle himself)", m: "Your character is built by small repeated actions, not by one big effort.", k: 1 },
-  { q: "The mind is not a vessel to be filled, but a fire to be kindled.", a: "Plutarch", w: "Greek writer, 1st–2nd century AD (a popular paraphrase of his essay On Listening)", m: "Real education sparks curiosity and thinking, rather than just pouring in facts.", k: 1 },
-  { q: "Give me a place to stand, and I shall move the Earth.", a: "Archimedes", w: "Greek mathematician, 3rd century BC, explaining the power of the lever", m: "With the right tool and the right position, a small force can achieve enormous things.", k: 1 },
+  { q: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", a: "Will Durant", w: "American historian, 1926, summarising Aristotle (often misattributed to Aristotle himself)", m: "Your character is built by small repeated actions, not by one big effort." },
+  { q: "The mind is not a vessel to be filled, but a fire to be kindled.", a: "Plutarch", w: "Greek writer, 1st–2nd century AD (a popular paraphrase of his essay On Listening)", m: "Real education sparks curiosity and thinking, rather than just pouring in facts." },
+  { q: "Give me a place to stand, and I shall move the Earth.", a: "Archimedes", w: "Greek mathematician, 3rd century BC, explaining the power of the lever", m: "With the right tool and the right position, a small force can achieve enormous things." },
   { q: "To be ignorant of what occurred before you were born is to remain always a child.", a: "Cicero", w: "Roman statesman and orator, 46 BC, in his Orator", m: "Knowing history gives you perspective. Without it, you see the world with a child's narrow view." },
   { q: "Who will guard the guards themselves?", a: "Juvenal", w: "Roman poet, early 2nd century AD, from his Satires (Quis custodiet ipsos custodes?, originally a joke about guarding an unfaithful wife)", m: "Anyone given power to watch over others needs someone watching them too." },
-  { q: "Seize the day.", a: "Horace", w: "Roman poet, 1st century BC (Carpe diem, from his Odes)", m: "Make the most of today rather than trusting everything to an uncertain tomorrow.", k: 1 },
-  { q: "Fortune favours the bold.", a: "Virgil", w: "Roman poet, 1st century BC, in the Aeneid (a version of an older Roman proverb)", m: "Taking brave, well-judged risks often opens doors that caution keeps shut.", k: 1 },
-  { q: "The journey of a thousand miles begins with a single step.", a: "Laozi", w: "Chinese philosopher, traditionally 6th century BC, from the Tao Te Ching", m: "Huge goals are reached through small first actions. Just start.", k: 1 },
+  { q: "Seize the day.", a: "Horace", w: "Roman poet, 1st century BC (Carpe diem, from his Odes)", m: "Make the most of today rather than trusting everything to an uncertain tomorrow." },
+  { q: "Fortune favours the bold.", a: "Virgil", w: "Roman poet, 1st century BC, in the Aeneid (a version of an older Roman proverb)", m: "Taking brave, well-judged risks often opens doors that caution keeps shut." },
+  { q: "The journey of a thousand miles begins with a single step.", a: "Laozi", w: "Chinese philosopher, traditionally 6th century BC, from the Tao Te Ching", m: "Huge goals are reached through small first actions. Just start." },
   { q: "Learning without thought is labour lost; thought without learning is perilous.", a: "Confucius", w: "Chinese philosopher, 5th century BC, from the Analects", m: "Study and reflection need each other: facts without thinking are wasted, and thinking without facts is dangerous." },
   { q: "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it: this is knowledge.", a: "Confucius", w: "Chinese philosopher, 5th century BC, from the Analects", m: "Being honest about the limits of what you know is itself a kind of wisdom." },
   { q: "If you know the enemy and know yourself, you need not fear the result of a hundred battles.", a: "Sun Tzu", w: "Chinese general and strategist, around 5th century BC, from The Art of War", m: "Preparation and self-awareness, not just strength, are what win contests." },
   { q: "The supreme art of war is to subdue the enemy without fighting.", a: "Sun Tzu", w: "Chinese general and strategist, around 5th century BC, from The Art of War", m: "The best way to win a conflict is often to make fighting unnecessary." },
-  { q: "Knowledge is power.", a: "Francis Bacon", w: "English philosopher and statesman, 1597", m: "Understanding how things work gives you the ability to change them.", k: 1 },
+  { q: "Knowledge is power.", a: "Francis Bacon", w: "English philosopher and statesman, 1597", m: "Understanding how things work gives you the ability to change them." },
   { q: "I think, therefore I am.", a: "René Descartes", w: "French philosopher, 1637", m: "Even if you doubt everything else, the fact that you are thinking proves you exist." },
-  { q: "If I have seen further, it is by standing on the shoulders of giants.", a: "Isaac Newton", w: "English scientist, in a 1675 letter", m: "Every discovery builds on the work of people who came before.", k: 1 },
+  { q: "If I have seen further, it is by standing on the shoulders of giants.", a: "Isaac Newton", w: "English scientist, in a 1675 letter", m: "Every discovery builds on the work of people who came before." },
   { q: "No man is an island, entire of itself.", a: "John Donne", w: "English poet and priest, 1624", m: "We are all connected; what happens to others affects us too." },
   { q: "To be, or not to be: that is the question.", a: "William Shakespeare", w: "English playwright, around 1600, spoken by Hamlet", m: "Hamlet wrestles with whether to endure life's troubles or escape them; it's become shorthand for any agonising choice." },
-  { q: "All the world's a stage, and all the men and women merely players.", a: "William Shakespeare", w: "English playwright, around 1599, from As You Like It", m: "Life is like a play: we each take on different roles as we move through its stages.", k: 1 },
+  { q: "All the world's a stage, and all the men and women merely players.", a: "William Shakespeare", w: "English playwright, around 1599, from As You Like It", m: "Life is like a play: we each take on different roles as we move through its stages." },
   { q: "The fault, dear Brutus, is not in our stars, but in ourselves.", a: "William Shakespeare", w: "English playwright, 1599, from Julius Caesar", m: "Don't blame fate for your situation; your own choices matter most." },
-  { q: "Brevity is the soul of wit.", a: "William Shakespeare", w: "English playwright, around 1600, from Hamlet", m: "Clever, effective speech is short and to the point.", k: 1 },
-  { q: "Well done is better than well said.", a: "Benjamin Franklin", w: "American writer and statesman, 1737, Poor Richard's Almanack", m: "Actions matter more than promises or fine words.", k: 1 },
-  { q: "Early to bed and early to rise makes a man healthy, wealthy, and wise.", a: "Benjamin Franklin", w: "American writer and statesman, 1735, Poor Richard's Almanack", m: "Good daily habits, like regular sleep, quietly pay off in every part of life.", k: 1 },
+  { q: "Brevity is the soul of wit.", a: "William Shakespeare", w: "English playwright, around 1600, from Hamlet", m: "Clever, effective speech is short and to the point." },
+  { q: "Well done is better than well said.", a: "Benjamin Franklin", w: "American writer and statesman, 1737, Poor Richard's Almanack", m: "Actions matter more than promises or fine words." },
+  { q: "Early to bed and early to rise makes a man healthy, wealthy, and wise.", a: "Benjamin Franklin", w: "American writer and statesman, 1735, Poor Richard's Almanack", m: "Good daily habits, like regular sleep, quietly pay off in every part of life." },
   { q: "Give me liberty, or give me death!", a: "Patrick Henry", w: "American revolutionary, in a 1775 speech", m: "Some freedoms are worth any sacrifice. It's one of history's most famous calls to action." },
   { q: "Government of the people, by the people, for the people, shall not perish from the earth.", a: "Abraham Lincoln", w: "US president, 1863, the Gettysburg Address", m: "Democracy exists to serve ordinary people, and it's worth defending." },
-  { q: "The pen is mightier than the sword.", a: "Edward Bulwer-Lytton", w: "English writer, 1839, in the play Richelieu", m: "Ideas and words can change the world more lastingly than force.", k: 1 },
-  { q: "What does not kill me makes me stronger.", a: "Friedrich Nietzsche", w: "German philosopher, 1888, Twilight of the Idols (often misquoted as 'us')", m: "Hardship we survive can build resilience and strength." },
-  { q: "He who has a why to live can bear almost any how.", a: "Friedrich Nietzsche", w: "German philosopher, 1888 (a popular paraphrase from Twilight of the Idols)", m: "A strong sense of purpose helps people endure almost any difficulty." },
-  { q: "Genius is one per cent inspiration, ninety-nine per cent perspiration.", a: "Thomas Edison", w: "American inventor, early 1900s", m: "Great achievements come mostly from hard, persistent work, not sudden brilliance.", k: 1 },
-  { q: "Courage is resistance to fear, mastery of fear, not absence of fear.", a: "Mark Twain", w: "American writer, 1894, from Pudd'nhead Wilson", m: "Being brave doesn't mean feeling no fear; it means acting well in spite of it.", k: 1 },
+  { q: "The pen is mightier than the sword.", a: "Edward Bulwer-Lytton", w: "English writer, 1839, in the play Richelieu", m: "Ideas and words can change the world more lastingly than force." },
+  { q: "What does not kill me makes me stronger.", a: "Friedrich Nietzsche", w: "German philosopher, 1889, Twilight of the Idols (often misquoted as 'us')", m: "Hardship we survive can build resilience and strength." },
+  { q: "He who has a why to live can bear almost any how.", a: "Friedrich Nietzsche", w: "German philosopher, 1889 (a popular paraphrase from Twilight of the Idols)", m: "A strong sense of purpose helps people endure almost any difficulty." },
+  { q: "Genius is one per cent inspiration, ninety-nine per cent perspiration.", a: "Thomas Edison", w: "American inventor, early 1900s", m: "Great achievements come mostly from hard, persistent work, not sudden brilliance." },
+  { q: "Courage is resistance to fear, mastery of fear, not absence of fear.", a: "Mark Twain", w: "American writer, 1894, from Pudd'nhead Wilson", m: "Being brave doesn't mean feeling no fear; it means acting well in spite of it." },
 ];
 QUOTES.push(...((window.WB && WB.QUOTES_MORE) || []));
-const quotePool = () => QUOTES.map((x, i) => ({ ...x, i })).filter(x => aud() === "adult" || x.k);
+/* Quote progress is keyed by the quote's text (id), so adding, removing or reordering quotes never moves anyone's progress. */
+const quotePool = () => QUOTES.map((x, i) => ({ ...x, i, id: x.q }));
+/* One-off migration from the old index-based keys (and today's quote stored as an index). */
+function migrateQuotes() {
+  for (const k of Object.keys(state.quotes || {})) if (/^\d+$/.test(k)) { if (QUOTES[k] && !state.quotes[QUOTES[k].q]) state.quotes[QUOTES[k].q] = state.quotes[k]; delete state.quotes[k]; }
+  for (const d of Object.values(state.days || {})) if (typeof d.qotd === "number") d.qotd = QUOTES[d.qotd] ? QUOTES[d.qotd].q : undefined;
+}
+migrateQuotes();
 function quoteOfDay() {
   const d = day(), pool = quotePool();
-  if (d.qotd != null && QUOTES[d.qotd] && pool.some(x => x.i === d.qotd)) return { ...QUOTES[d.qotd], i: d.qotd };
-  const fresh = pool.filter(x => !state.quotes[x.i]), src = fresh.length ? fresh : pool;
-  const q = src[hashStr(today() + aud() + "Q") % src.length]; d.qotd = q.i; save(); return q;
+  const qi = d.qotd != null ? QUOTES.findIndex(x => x.q === d.qotd) : -1;
+  if (qi >= 0) return { ...QUOTES[qi], i: qi, id: QUOTES[qi].q };
+  const fresh = pool.filter(x => !state.quotes[x.id]), src = fresh.length ? fresh : pool;
+  const q = src[hashStr(today() + aud() + "Q") % src.length]; d.qotd = q.id; save(); return q;
 }
 
 /* ---------- Home: the five pillars ---------- */
@@ -1612,7 +1594,6 @@ function templeSVG(items) {
 }
 function renderToday() {
   const d = day(), items = pillarItems(), n = items.filter(x => x.done).length;
-  const dateStr = new Date().toLocaleDateString("en-AU", { weekday: "long", day: "numeric", month: "long" });
   const title = n === 5 ? "The temple stands." : n === 0 ? "Raise today's temple." : `${5 - n} ${5 - n === 1 ? "pillar" : "pillars"} left to raise.`;
   const nx = items.find(x => !x.done);
   const recall = dueLessons()[0], rl = recall && lessonById(recall);
@@ -1635,18 +1616,11 @@ function renderToday() {
 }
 
 /* ---------- Learn ---------- */
-function pathProgress_unused(p) { const ls = p.steps.filter(s => typeof s === "string"); return { done: ls.filter(id => state.lessons[id]).length, total: ls.length, soon: p.steps.length - ls.length, mins: ls.reduce((a, id) => a + lessonMins(lessonById(id)), 0) }; }
-function pathCardInner(p) {
-  const pr = pathProgress(p), c = WB.CATEGORIES[p.cat];
-  return `<span class="tag" style="--t:${c.color}"><i></i>${c.name}</span><h3>${esc(p.title)}</h3><p>${esc(p.desc)}</p>
-    <span class="meta"><span>${plural(pr.total + pr.soon, "lesson")}${pr.soon ? ` (${pr.soon} coming)` : ""}</span><span>${pr.mins >= 60 ? Math.floor(pr.mins / 60) + " h " + (pr.mins % 60) + " min" : pr.mins + " min"}</span><span>${pr.done}/${pr.total} done</span></span>
-    <span class="mini" style="--t:${c.color}"><i style="width:${100 * pr.done / pr.total}%"></i></span>`;
-}
 /* ---------- Library: everything, for self-directed learning ---------- */
 const foldOpen = {};
 document.addEventListener("toggle", e => { const f = e.target; if (f.classList && f.classList.contains("fold") && f.dataset.fold) foldOpen[f.dataset.fold] = f.open; }, true);
 const fold = (id, title, meta, body) => `<details class="fold" data-fold="${id}" ${foldOpen[id] ? "open" : ""}><summary><span class="fold-t"><h2>${title}</h2>${meta ? `<span class="muted num">${meta}</span>` : ""}</span><span class="fold-pm" aria-hidden="true"></span></summary>${body}</details>`;
-let innerKnocks = 0, libPillar = null, libQuery = "", libWordCat = "all", libArea = null, libSubject = null;
+let libPillar = null, libArea = null, libSubject = null;
 const PILLAR_BY = k => PILLAR5.find(x => x.p === k);
 function groupedLessons(pool) {
   const f = pool.filter(l => learnLevel === "all" || l.level === learnLevel);
@@ -1657,19 +1631,7 @@ function groupedLessons(pool) {
     : `<div class="panel empty"><p>No lessons at this level yet.</p></div>`);
 }
 function quoteRow(x) {
-  return `<button class="qrow" data-act="quote-sheet" data-id="${x.i}"><q>${esc(x.q)}</q><span><b>${esc(x.a)}</b>${state.quotes[x.i] ? "<em>Learned</em>" : ""}</span></button>`;
-}
-function libResults(q) {
-  q = q.trim().toLowerCase(); if (q.length < 2) return "";
-  const L = lessons().filter(l => (l.title + " " + l.hook + " " + catOf(l).name).toLowerCase().includes(q)).slice(0, 20);
-  const W = lib().filter(e => e.w.toLowerCase().includes(q) || e.def.toLowerCase().includes(q)).slice(0, 12);
-  const Q = quotePool().filter(x => (x.q + " " + x.a).toLowerCase().includes(q)).slice(0, 10);
-  const X = SUBJ().filter(x => (x.title + " " + x.desc).toLowerCase().includes(q)).slice(0, 8);
-  if (!L.length && !W.length && !Q.length && !X.length) return `<p class="muted">Nothing found for “${esc(q)}”. Try a broader word.</p>`;
-  return (X.length ? `<div class="stack"><span class="eyebrow">Courses · ${X.length}</span><div class="list">${X.map(subjRow).join("")}</div></div>` : "")
-    + (L.length ? `<div class="stack"><span class="eyebrow">Lessons · ${L.length}</span><div class="list">${L.map(l => lessonRow(l)).join("")}</div></div>` : "")
-    + (W.length ? `<div class="stack"><span class="eyebrow">Words · ${W.length}</span><div class="list">${W.map(wordRow).join("")}</div></div>` : "")
-    + (Q.length ? `<div class="stack"><span class="eyebrow">Quotes · ${Q.length}</span><div class="list">${Q.map(quoteRow).join("")}</div></div>` : "");
+  return `<button class="qrow" data-act="quote-sheet" data-id="${x.i}"><q>${esc(x.q)}</q><span><b>${esc(x.a)}</b>${state.quotes[x.id] ? "<em>Learned</em>" : ""}</span></button>`;
 }
 function subjRow(x) {
   const pr = subjectProgress(x), c = WB.CATEGORIES[x.cat];
@@ -1718,7 +1680,7 @@ function renderLibrary() {
         <p class="muted small">See the word, hear it, then pick the sentence it fits best.</p>
         ${mine.length ? `<div class="chips wrap">${mine.slice(0, 24).map(e => `<button class="chip" data-act="word" data-w="${esc(e.w)}">${esc(e.w)}${struggling(e.w) ? " ·" : ""}</button>`).join("")}</div>` : ""}
         <div class="btn-row"><button class="btn" data-act="practice" data-id="fit">${ICON.speaker}Practise</button>${strug.length ? `<button class="btn ghost" data-act="practice" data-id="struggling">Tricky · ${strug.length}</button>` : ""}</div>
-        ${aud() === "adult" ? `<button class="link" style="align-self:flex-start" data-act="vocab-test">${state.vocab ? `Vocabulary ≈ ${state.vocab.value.toLocaleString()} words · retake` : "Estimate my vocabulary size"}</button>` : ""}</section>
+        <button class="link" style="align-self:flex-start" data-act="vocab-test">${state.vocab ? `Vocabulary ≈ ${state.vocab.value.toLocaleString()} words · retake` : "Estimate my vocabulary size"}</button></section>
       <section class="panel"><div class="section-head"><h2>Learn This</h2><span class="muted small">Any word, any time</span></div>
         <form class="lookup" data-form="lookup"><input class="input" id="lookup" name="q" placeholder="e.g. What does ubiquitous mean?" autocomplete="off" value="${esc(lookupState?.q || "")}"><button class="btn sm" type="submit">${ICON.search}Look up</button></form>
         <div id="lookup-out">${renderLookup()}</div></section>
@@ -1726,11 +1688,11 @@ function renderLibrary() {
     }
     if (libPillar === "expression") {
       const Q = quotePool().sort((a, b) => a.a.localeCompare(b.a));
-      return header() + head + `<p class="muted small">${plural(Q.length, "quote")} · ${Q.filter(x => state.quotes[x.i]).length} learned. Tap one to read what it means.</p><div class="list">${Q.map(quoteRow).join("")}</div>`;
+      return header() + head + `<p class="muted small">${plural(Q.length, "quote")} · ${Q.filter(x => state.quotes[x.id]).length} learned. Tap one to read what it means.</p><div class="list">${Q.map(quoteRow).join("")}</div>`;
     }
     if (libPillar === "cognition") {
       const g = activeActs().filter(a => a.pillar === "think"), t = activeActs().filter(a => a.pillar === "test");
-      return header() + head + `<div class="section-head"><h2>Brain training</h2><span class="muted small">${g.length} games</span></div><div class="list">${g.map(a => gameRow(a)).join("")}</div>
+      return header() + head + `<div class="section-head"><h2>Brain games</h2><span class="muted small">${g.length} games</span></div><div class="list">${g.map(a => gameRow(a)).join("")}</div>
       <div class="section-head"><h2>Quizzes & tests</h2><span class="muted small">${t.length} formats</span></div><div class="list">${t.map(a => gameRow(a)).join("")}</div>`;
     }
   }
@@ -1757,7 +1719,7 @@ function renderLibrary() {
 }
 
 /* ---------- Review (Mnemosyne): everything due for spaced repetition ---------- */
-const learnedQuotes = () => quotePool().filter(x => state.quotes[x.i]);
+const learnedQuotes = () => quotePool().filter(x => state.quotes[x.id]);
 function memoryStrength() {
   const recs = [...Object.keys(state.lessons).filter(lessonById).map(id => state.lessons[id]), ...Object.keys(state.words).filter(entry).map(w => state.words[w])];
   if (!recs.length) return null;
@@ -1782,7 +1744,7 @@ function renderReview() {
   ${due ? `<button class="review-hero" data-act="review-all"><span class="gt"><span class="eyebrow">${done ? "More due" : "Today's review"}</span><strong>${plural(due, "thing")} to refresh</strong><small>About ${Math.max(1, Math.round(due * 0.4))} min${waiting > 0 ? ` · ${waiting} more wait for tomorrow` : ""}</small></span><span class="btn sm">Start</span></button>`
     : capped ? `<div class="panel empty"><h3>Today's ${REVIEW_CAP} reviews are done.</h3><p class="muted">That's enough for one day.${waiting > 0 ? ` ${plural(waiting, "thing")} will be waiting tomorrow.` : ""}</p></div>`
     : `<div class="panel empty"><h3>${ms ? "You're all caught up." : "Nothing to review yet."}</h3><p class="muted">${ms ? "Nothing is due right now. Come back tomorrow, or learn something new." : "Finish a lesson or learn a word and it will come back here to be refreshed."}</p><button class="btn ghost sm" data-act="tab" data-id="library">Go to the Library</button></div>`}
-  ${due || strug.length || lq.length ? `<section class="stack"><div class="section-head"><h2>By type</h2></div><div class="list">
+  ${due || strug.length || lq.length >= 2 ? `<section class="stack"><div class="section-head"><h2>By type</h2></div><div class="list">
     ${dl.length ? row("recall", "", "book", "Lessons", "One question from each", dl.length, "learn") : ""}
     ${dw.length ? row("review-words", "", "speaker", "Words", "Hear it, then fit the sentence", dw.length, "remember") : ""}
     ${strug.length ? row("practice", "struggling", "alert", "Tricky words", "The ones you keep missing", strug.length, "test") : ""}
@@ -1803,48 +1765,6 @@ function startQuoteReview() {
   start({ mode: "memory", total: steps.length, steps: [...steps, { t: "summary" }] });
 }
 
-/* ---------- Scroll: an endless feed of bite-sized ideas ---------- */
-let scrollFeed = null, scrollShown = 0;
-function buildFeed() {
-  const items = [];
-  lessons().forEach(l => l.sections.forEach((sec, k) => items.push({ t: "idea", l, k })));
-  quotePool().forEach(q => items.push({ t: "quote", q }));
-  lib().forEach(e => items.push({ t: "word", e }));
-  // shuffle, then spread types so no two neighbours come from the same lesson
-  const sh = shuffle(items), out = [];
-  while (sh.length) { const i = sh.findIndex(x => !out.length || x.t !== "idea" || out[out.length - 1].l !== x.l); out.push(sh.splice(i < 0 ? 0 : i, 1)[0]); }
-  return out;
-}
-function feedCard(x) {
-  if (x.t === "idea") { const c = catOf(x.l), sec = x.l.sections[x.k];
-    return `<article class="byte" style="--t:${c.color}"><span class="tag"><i></i>${c.name}</span><h2>${esc(sec.h)}</h2><p class="byte-key">${esc(sec.key)}</p><p class="byte-body">${esc(sec.b.split(". ").slice(0, 2).join(". ").replace(/\.?$/, "."))}</p>
-      <button class="byte-go" data-act="lesson" data-id="${x.l.id}">${state.lessons[x.l.id] ? "Review" : "Read"} the lesson: ${esc(x.l.title)} ${ICON.chev}</button></article>`; }
-  if (x.t === "quote") return `<article class="byte quote-byte" style="--t:var(--p-expression)"><span class="tag"><i></i>Logos · a great line</span><p class="bigquote">${esc(x.q.q)}</p><div class="byline"><b>${esc(x.q.a)}</b><span>${esc(x.q.w)}</span></div>
-      <button class="byte-go" data-act="quote-sheet" data-id="${x.q.i}">What it means ${ICON.chev}</button></article>`;
-  const e = x.e;
-  return `<article class="byte" style="--t:var(--p-remember)"><span class="tag"><i></i>Lexis · word to know</span><div class="wc-word">${esc(e.w)}</div><div class="wc-pron"><em>${esc(e.pos)}</em><span>${esc(e.say || "")}</span></div><p class="byte-key">${esc(e.def)}</p>
-    <button class="byte-go" data-act="word" data-w="${esc(e.w)}">${state.words[e.w] ? "In your words" : "Learn this word"} ${ICON.chev}</button></article>`;
-}
-function renderScroll() {
-  if (!scrollFeed) { scrollFeed = buildFeed(); scrollShown = 12; }
-  return header() + `<section class="pagehead"><span class="eyebrow">Keep scrolling, keep learning</span><h1>Scroll</h1></section>
-    <div class="feed" id="feed">${scrollFeed.slice(0, scrollShown).map(feedCard).join("")}</div>
-    <div id="feed-more" class="muted small" style="text-align:center;padding:12px">Loading more…</div>`;
-}
-function moreFeed() {
-  if (tab !== "scroll" || !scrollFeed) return;
-  if (scrollShown >= scrollFeed.length) { scrollFeed = scrollFeed.concat(buildFeed()); }
-  const from = scrollShown; scrollShown += 10;
-  const f = $("#feed"); if (f) f.insertAdjacentHTML("beforeend", scrollFeed.slice(from, scrollShown).map(feedCard).join(""));
-}
-let feedObs = null;
-function watchFeed() {
-  if (feedObs) feedObs.disconnect();
-  const m = $("#feed-more"); if (!m || !("IntersectionObserver" in window)) return;
-  feedObs = new IntersectionObserver(es => { if (es.some(e => e.isIntersecting)) moreFeed(); }, { rootMargin: "600px" });
-  feedObs.observe(m);
-}
-
 /* ---------- The Inner Circle (Adyton): unlocked at 100% ---------- */
 /* The Inner Circle opens once every achievement is unlocked. */
 function innerProgress() {
@@ -1861,7 +1781,7 @@ function innerDoor() {
 }
 function renderInner() {
   const pr = innerProgress();
-  const head = `<button class="back" data-act="tab" data-id="today">${ICON.chev}Temple</button>
+  const head = `<button class="back" data-act="tab" data-id="library">${ICON.chev}Library</button>
     <section class="pagehead adyton-head"><span class="eyebrow">Adyton · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:0">ἄδυτον</span> · the inner sanctum</span><h1>The Inner Circle</h1>
     <p>In Greek temples, the adyton was the innermost room, closed to all but a chosen few. Here it holds the hardest knowledge in Wisebyte.</p></section>`;
   if (!pr.open) return header() + head + `
@@ -1920,7 +1840,7 @@ function renderArena() {
   const gk = scoreOn("gk", today()), y = scoreOn(ch.id, addDays(today(), -1));
   const dots = n => `<span class="ddots">${Array.from({ length: 10 }, (_, i) => `<i class="${n != null && i < n ? "on" : ""}"></i>`).join("")}</span>`;
   return header() + `
-  <section class="pagehead"><span class="eyebrow" style="color:var(--p-think)">Palaestra · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:0">παλαίστρα</span></span><h1>Arena</h1></section>
+  <section class="pagehead"><span class="eyebrow" style="color:var(--p-think)">Palaistra · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:0">παλαίστρα</span></span><h1>Arena</h1></section>
   <button class="trial ${d.trial != null ? "done" : ""}" data-act="daily-trial">
     <span class="trial-top"><span class="trial-ic">${ICON.laurel}</span><span class="eyebrow">Dokimasia · <span class="gr">δοκιμασία</span></span></span>
     <strong>The Daily Trial</strong>
@@ -1945,16 +1865,10 @@ function renderMe() {
   const lv = level(), rk = rank(lv), into = state.xp - xpForLevel(lv), need = xpForLevel(lv + 1) - xpForLevel(lv);
   const cats = categoryStats().sort((a, b) => b.pct - a.pct);
   const learned = Object.keys(state.lessons).filter(id => lessonById(id) && (lessonById(id).audience || "adult") === aud()).length;
-  const activeDays = Object.values(state.days).filter(x => x.secs > 0);
-  const avg = activeDays.length ? activeDays.reduce((a, x) => a + x.secs, 0) / activeDays.length : 0;
-  const t = today();
-  const cells = Array.from({ length: 14 }, (_, i) => { const k = addDays(t, i - 13), x = state.days[k]; const v = x ? (x.done ? 3 : x.goal ? 2 : (x.lesson || x.word || x.quiz || x.challenge) ? 1 : 0) : 0; return `<i class="${v ? "l" + v : ""} ${k === t ? "today" : ""}" title="${k}"></i>`; }).join("");
-  const goalRows = (defs, sum) => defs.map(g => { const v = Math.min(sum[g.k], g.n); return `<div class="goal-row ${v >= g.n ? "met" : ""}"><div><span>${g.label}</span><span class="num">${sum[g.k]}/${g.n}</span></div><span class="bar"><i style="width:${100 * v / g.n}%"></i></span></div>`; }).join("");
   const got = ACHIEVEMENTS.filter(a => state.ach[a.id]).length;
   const totalSecs = Object.values(state.days).reduce((a, x) => a + (x.secs || 0), 0);
   const tt = totalSecs >= 3600 ? Math.floor(totalSecs / 3600) + "h " + Math.round((totalSecs % 3600) / 60) + "m" : Math.round(totalSecs / 60) + "m";
   const topicsMastered = categoryStats().filter(c => c.pct >= 80).length;
-  const rec = recommendNext();
   const games = activeActs().filter(a => a.pillar === "think");
   const best = id => { const v = Object.values(state.scores[id] || {}); return v.length ? Math.max(...v) : null; };
   return header() + `
@@ -1965,7 +1879,7 @@ function renderMe() {
   </section>
   <section class="panel"><div class="section-head"><h2>Your knowledge</h2><span class="muted small">Level ${level()}</span></div>
     <div class="profile-grid">
-      <div><b>${aud() === "adult" ? (state.vocab ? state.vocab.value.toLocaleString() : "–") : Object.keys(state.words).length}</b><span>${aud() === "adult" ? "Vocabulary" : "Words"}</span></div>
+      <div><b>${state.vocab ? state.vocab.value.toLocaleString() : "–"}</b><span>Vocabulary</span></div>
       <div><b>${learned}</b><span>Lessons</span></div>
       <div><b>${state.stats.dailyCompletes || 0}</b><span>Temples raised</span></div>
       <div><b>${topicsMastered}</b><span>Topics mastered</span></div>
@@ -1975,7 +1889,7 @@ function renderMe() {
   </section>
   <section class="panel"><div class="section-head"><h2>Topic mastery</h2></div>
     <div class="know">${cats.map(c => `<div class="k-row" style="--t:${WB.CATEGORIES[c.key].color}"><span><i></i>${WB.CATEGORIES[c.key].name}</span><span class="bar"><i style="width:${c.pct}%"></i></span><span class="num">${c.pct}%</span></div>`).join("")}</div></section>
-  <section class="panel"><div class="section-head"><h2>Brain training</h2><span class="muted small">Best scores</span></div>
+  <section class="panel"><div class="section-head"><h2>Brain games</h2><span class="muted small">Best scores</span></div>
     <div class="lines">${games.map(a => `<div><span>${esc(actName(a))}${a.skill && a.skill !== actName(a) ? ` <small class="muted">· ${esc(a.skill)}</small>` : ""}</span><b>${best(a.id) ?? "–"}</b></div>`).join("")}</div></section>
   <section class="panel"><div class="section-head"><h2>Achievements</h2><span class="muted num">${got}/${ACHIEVEMENTS.length}</span></div>
     <div class="achs">${ACHIEVEMENTS.map(a => `<button class="ach ${state.ach[a.id] ? "got" : ""}" data-act="ach" data-id="${a.id}"><span class="medal">${ICON[a.icon]}</span><strong>${a.name}</strong><small>${a.desc}</small></button>`).join("")}</div></section>
@@ -1984,11 +1898,10 @@ function renderMe() {
 }
 
 function render() {
-  $("#app").innerHTML = ({ today: renderToday, library: renderLibrary, scroll: renderScroll, review: renderReview, inner: renderInner, arena: renderArena, me: renderMe })[tab]();
+  $("#app").innerHTML = ({ today: renderToday, library: renderLibrary, review: renderReview, inner: renderInner, arena: renderArena, me: renderMe })[tab]();
   const due = dueWords().length + dueLessons().length;
   if (PILLARS[tab]) document.body.dataset.pillar = tab; else delete document.body.dataset.pillar;
   $("#tabs").innerHTML = TABS.map(([k, n, ic]) => `<button class="tab" role="tab" data-act="tab" data-id="${k}" aria-selected="${tab === k}" ${PILLARS[k] ? `style="--pc:var(--p-${k})"` : ""}>${ICON[ic]}${n}${k === "review" && due ? `<span class="count">${due}</span>` : ""}</button>`).join("");
-  if (tab === "scroll") watchFeed(); else if (feedObs) feedObs.disconnect();
 }
 
 /* ============ 7. PLAYER ============ */
@@ -2007,11 +1920,11 @@ function closePlayer() {
   save(); P = null; $("#player").hidden = true; document.body.style.overflow = ""; render();
 }
 function tick() {
-  if (!P || !P.timed) return;
+  if (!P || !P.timed || P.steps[P.i].t === "c-intro") return;
   const left = Math.max(0, P.endAt - Date.now()), bar = $("#timer-fill"), lbl = $("#timer-left");
   if (bar) bar.style.width = (100 * left / (P.timed * 1000)) + "%";
   if (lbl) lbl.textContent = Math.ceil(left / 1000) + "s";
-  if (left <= 0 && P.steps[P.i].t === "q") { clearInterval(P.timer); P.timer = null; P.steps.push({ t: "summary" }); P.i = P.steps.length - 1; P.answered = null; enter(); drawPlayer(); }
+  if (left <= 0 && P.steps[P.i].t === "q") { clearInterval(P.timer); P.timer = null; if (P.answered === null) P.steps.splice(P.i, 1); P.steps.push({ t: "summary" }); P.i = P.steps.length - 1; P.answered = null; enter(); drawPlayer(); }
 }
 
 /* --- starting sessions --- */
@@ -2041,21 +1954,11 @@ function startPractice(kind) {
   const mine = Object.keys(state.words).map(entry).filter(Boolean);
   let pool = kind === "struggling" ? mine.filter(e => struggling(e.w)) : mine;
   if (kind === "struggling" && !pool.length) return toast("No tricky words yet. Words you miss twice show up here.");
-  if (pool.length < 4) pool = pool.concat(shuffle(lib().filter(e => !state.words[e.w]))).slice(0, 10);
+  if (kind !== "struggling" && pool.length < 4) pool = pool.concat(shuffle(lib().filter(e => !state.words[e.w]))).slice(0, 10);
   const due = new Set(dueWords());
   const list = shuffle(pool).sort((a, b) => (due.has(b.w) ? 1 : 0) - (due.has(a.w) ? 1 : 0)).slice(0, 10);
   const kinds = ["fit"];
   start({ mode: "practice", total: list.length, steps: [...wordSteps(list, kinds), { t: "summary" }] });
-}
-function startDailyQuiz() {
-  const learnedL = lessons().filter(l => state.lessons[l.id]), mineW = Object.keys(state.words).map(entry).filter(Boolean);
-  const lq = shuffle(learnedL.length ? learnedL : lessons().filter(l => l.level === "beginner")).slice(0, 5).map(l => ({ t: "q", q: qLesson(l, rand(l.quiz.length), `From <b>${esc(l.title)}</b>`) }));
-  const wsrc = mineW.length >= 3 ? mineW : allWords();
-  const wq = wordSteps(shuffle(wsrc).slice(0, 10 - lq.length), ["meaning", "blank", "fromDef"]);
-  let steps = shuffle(lq.concat(wq)).slice(0, 10);
-  while (steps.length < 10) steps.push(wordSteps([pick(allWords())], ["meaning"])[0]);
-  steps = steps.map((s, i) => ({ ...s, head: `Daily quiz · ${i + 1} of 10` }));
-  start({ mode: "quiz", total: 10, steps: [...steps, { t: "summary" }] });
 }
 function startTrial() {
   const world = buildGK().slice(0, 5).map(st => ({ ...st, part: "The world" }));
@@ -2083,7 +1986,7 @@ function startQuote() {
   const others = shuffle(pool.filter(x => x.i !== q.i));
   const mo = shuffle([q.m, ...others.slice(0, 3).map(x => x.m)]);
   const q1 = { t: "q", head: "Logos · What does it mean?", q: { prompt: `“${esc(q.q)}”`, sub: "Which best captures the meaning?", options: mo.map(esc), answer: mo.indexOf(q.m), explain: esc(q.m) } };
-  const seen = pool.filter(x => state.quotes[x.i] && state.quotes[x.i] < today());
+  const seen = pool.filter(x => state.quotes[x.id] && state.quotes[x.id] < today());
   const r = seen.length ? pick(seen) : q;
   const authors = [...new Set(pool.map(x => x.a))].filter(a => a !== r.a);
   const ao = shuffle([r.a, ...shuffle(authors).slice(0, 3)]);
@@ -2107,7 +2010,6 @@ function startMastery(id) {
 function advance() {
   const s = P.steps[P.i];
   if (s.t === "q" && P.answered === null) return;
-  if (s.t === "flash") return;
   if (P.timed && s.t === "q") return nextTimed();
   if (P.timed && s.t === "c-intro") { P.endAt = Date.now() + P.timed * 1000; P.steps.push(P.c.gen()); P.i++; P.answered = null; return drawPlayer(); }
   if (P.memTimer) { clearTimeout(P.memTimer); P.memTimer = null; }
@@ -2133,12 +2035,6 @@ function answer(i) {
   save(); drawPlayer();
   if (P.timed) setTimeout(() => { if (P && P.steps[P.i] === s) nextTimed(); }, right ? 300 : 850);
 }
-function gradeFlash(right) {
-  const s = P.steps[P.i]; recordAnswer(right); if (right) P.score++;
-  updateWord(s.e.w, right); if (right) addXp(RULES.xp.reviewRight); save();
-  P.flipped = false; advance2();
-}
-function advance2() { if (P.i >= P.steps.length - 1) return closePlayer(); P.i++; P.answered = null; enter(); drawPlayer(); }
 
 /* --- things that happen when a step is entered --- */
 function enter() {
@@ -2178,15 +2074,13 @@ function finishWord() {
   const isNew = addWord(e.w, P.isWotd ? "daily" : "library");
   xp += RULES.xp.wordLearn; lines.push([isNew ? "New word learned" : "Word practised", `+${RULES.xp.wordLearn}`]);
   if (P.wordRight) { const a = P.wordRight * RULES.xp.wordExercise; xp += a; lines.push([`Fit the sentence (${P.wordRight}/1)`, `+${a}`]); }
-  if (P.sentenceOk) { xp += RULES.xp.sentence; lines.push(["Used it in a sentence", `+${RULES.xp.sentence}`]); }
   if (!isNew) xp = Math.round(xp / 2);
   addXp(xp);
-  if (P.wordRight < 2) state.words[e.w].wrong += 0; // first exposure doesn't count against you
   day().word = true;
   return { xp, lines, isNew, out: wrapUp() };
 }
 function finishSession() {
-  const m = P.mode, total = P.mode === "challenge" && P.timed ? P.steps.filter(s => s.t === "q").length : (P.total || P.steps.filter(s => s.t === "q" || s.t === "flash").length);
+  const m = P.mode, total = P.mode === "challenge" && P.timed ? P.steps.filter(s => s.t === "q").length : (P.total || P.steps.filter(s => s.t === "q").length);
   const lines = []; let xp = 0, title = "", note = "";
   if (m === "quiz") {
     title = P.trial ? "The Daily Trial" : "Daily quiz";
@@ -2234,7 +2128,7 @@ function finishSession() {
     title = "Expression"; xp = RULES.xp.quoteRead + P.score * RULES.xp.quoteRight;
     lines.push(["Quote of the day", `+${RULES.xp.quoteRead}`], [`Correct (${P.score}/${total})`, `+${P.score * RULES.xp.quoteRight}`]);
     if (day().expr) { xp = Math.round(xp / 2); lines.push(["Replay", "½ XP"]); }
-    state.quotes[P.quote.i] = state.quotes[P.quote.i] || today(); day().expr = true;
+    state.quotes[P.quote.q] = state.quotes[P.quote.q] || today(); day().expr = true;
     note = "Quotes you've met come back later to test your memory.";
   } else if (m === "vocab") {
     title = "Vocabulary check";
@@ -2337,23 +2231,9 @@ function drawPlayer() {
   } else if (s.t === "w-card") {
     card = `<div class="card"><span class="eyebrow">${P.isWotd ? "Word of the day" : "New word"} · see it, hear it</span>${wordCardHTML(P.e, true)}</div>`;
     foot = `<div class="btn-row">${"speechSynthesis" in window ? `<button class="btn ghost" data-act="speak" data-w="${esc(P.e.w)}">${ICON.speaker}Hear again</button>` : ""}<button class="btn" data-act="next">Test me</button></div>`;
-  } else if (s.t === "w-sentence") {
-    card = `<div class="card"><span class="eyebrow">Use this word in a sentence</span><h2>Write a sentence with <em>${esc(P.e.w)}</em></h2>
-      <p class="muted">Make it about your own life. Personal sentences are easier to remember.</p>
-      <textarea class="input" id="sentence" placeholder="${esc((P.e.ex || [""])[1] || "")}">${esc(P.sentence || "")}</textarea>
-      <div id="sentence-fb">${P.sentenceMsg || ""}</div>
-      ${P.sentenceOk && P.sampleOk ? `<button class="btn ghost sm" data-act="sentence-ai">Get feedback from Claude</button>` : ""}</div>`;
-    foot = P.sentenceOk ? `<button class="btn block" data-act="next">Continue</button>` : `<div class="btn-row"><button class="btn ghost" data-act="next">Skip</button><button class="btn" data-act="sentence-check">Check</button></div>`;
   } else if (s.t === "w-reward") {
     card = summaryCard(P.reward, P.reward.isNew ? "Added to your words" : "Word practised");
     foot = `<button class="btn block" data-act="next">Done</button>`;
-  } else if (s.t === "flash") {
-    const e = s.e;
-    card = `<div class="flash ${P.flipped ? "flipped" : ""}" data-act="flip"><div class="flash-in">
-      <div class="flash-face"><span class="eyebrow">Flashcard · tap to flip</span><div class="wc-word">${esc(e.w)}</div><div class="wc-pron"><em>${esc(e.pos)}</em><span>${esc(e.say || "")}</span></div><p class="muted">Say the meaning out loud, then flip.</p></div>
-      <div class="flash-face back"><span class="eyebrow">${esc(e.w)}</span><p class="wc-def">${esc(e.def)}</p><p class="muted"><i>${esc((e.ex || [])[0] || "")}</i></p></div>
-    </div></div>`;
-    foot = P.flipped ? `<div class="btn-row"><button class="btn ghost" data-act="grade" data-id="0">Still learning</button><button class="btn good" data-act="grade" data-id="1">I knew it</button></div>` : `<button class="btn block" data-act="flip">Flip card</button>`;
   } else if (s.t === "mem-show") {
     card = `<div class="card"><span class="eyebrow">${s.head} · memorise this number</span><div class="memnum">${s.seq}</div><p class="muted" style="text-align:center">It disappears in a few seconds.</p></div>`;
     foot = `<button class="btn block" data-act="next">I've got it</button>`;
@@ -2366,7 +2246,7 @@ function drawPlayer() {
   } else if (s.t === "c-intro") {
     const c = P.c, y = scoreOn(c.id, addDays(today(), -1)), t = scoreOn(c.id, today());
     const cat = P.opt && P.opt.cat;
-    card = `<div class="card"><span class="eyebrow">${c.pillar === "think" ? "Brain training" + (c.skill ? " · " + c.skill : "") : "Test yourself"}</span><h1>${actName(c)}${cat ? `: ${WB.GK_CATS[cat]}` : ""}</h1><p class="big">${c.desc}</p>
+    card = `<div class="card"><span class="eyebrow">${c.pillar === "think" ? "Brain games" + (c.skill ? " · " + c.skill : "") : "Test yourself"}</span><h1>${actName(c)}${cat ? `: ${WB.GK_CATS[cat]}` : ""}</h1><p class="big">${c.desc}</p>
       <div class="lines"><div><span>Format</span><b>${c.timed ? c.timed + " seconds" : (P.total || c.count) + (c.id === "memory" ? " rounds" : " questions")}</b></div>${cat ? "" : `<div><span>Yesterday's score</span><b>${y ?? "–"}</b></div><div><span>Best today</span><b>${t ?? "–"}</b></div>`}</div>
       ${!cat && y != null ? `<p class="muted">Beat ${y} for a +${RULES.xp.beatYesterday} XP bonus.</p>` : ""}</div>`;
     foot = `<button class="btn block" data-act="next">${c.timed ? "Start the clock" : "Start"}</button>`;
@@ -2396,7 +2276,7 @@ function drawPlayer() {
     foot = P.mode === "mastery" ? `<div class="btn-row"><button class="btn ghost" data-act="close">Done</button><button class="btn" data-act="subject" data-id="${P.subject.id}">Back to subject</button></div>` : P.mode === "challenge" ? `<div class="btn-row"><button class="btn ghost" data-act="close">Done</button><button class="btn" data-act="challenge" data-id="${P.c.id}">Play again</button></div>` : `<button class="btn block" data-act="close">Done</button>`;
   }
   const anim = P.drawn !== P.i; P.drawn = P.i;
-  if (anim) card = card.replace(/class="(card|flash)/, 'class="$1 enter');
+  if (anim) card = card.replace(/class="card/, 'class="card enter');
   const qs = P.steps.length;
   const topbar = P.timed
     ? `<div class="timer"><i id="timer-fill" style="width:${100 * Math.max(0, P.endAt - Date.now()) / (P.timed * 1000)}%"></i></div><span class="pscore" id="timer-left">${Math.ceil(Math.max(0, P.endAt - Date.now()) / 1000)}s</span><span class="pscore">${P.score}</span>`
@@ -2407,21 +2287,6 @@ function drawPlayer() {
     <div class="stage">${card}</div><div class="pfoot">${foot}</div></div>`;
 }
 
-/* --- use in a sentence --- */
-function checkSentence() {
-  const el = $("#sentence"); const text = (el?.value || "").trim(); P.sentence = text;
-  const e = P.e, stem = e.w.toLowerCase().slice(0, Math.max(4, e.w.length - 2));
-  const words = text.split(/\s+/).filter(Boolean);
-  if (!text.toLowerCase().includes(stem)) P.sentenceMsg = `<div class="explain bad"><strong>Almost.</strong>Your sentence needs to include “${esc(e.w)}”.</div>`;
-  else if (words.length < 5) P.sentenceMsg = `<div class="explain bad"><strong>A bit longer.</strong>Try a full sentence of at least five words.</div>`;
-  else {
-    P.sentenceOk = true; state.stats.sentences++;
-    const rec = state.words[e.w]; P.pendingSentence = text; if (rec) rec.sentences.push(text);
-    P.sentenceMsg = `<div class="explain good"><strong>Saved to your word notes.</strong>Writing your own sentence is one of the best ways to make a word stick.</div>`;
-  }
-  drawPlayer();
-}
-
 /* ============ 8. SHEETS ============ */
 function openSheet(html) { const s = $("#sheet"); s.innerHTML = `<div class="sheet" role="dialog" aria-modal="true"><div class="sheet-bar"><span class="grab"></span></div>${html}</div>`; s.hidden = false; }
 function closeSheet() { $("#sheet").hidden = true; $("#sheet").innerHTML = ""; }
@@ -2430,7 +2295,6 @@ function wordSheet(w) {
   const r = state.words[w];
   openSheet(`<section class="panel">${wordCardHTML(e)}</section>
     ${r ? `<p class="muted small">Added ${ago(r.addedAt)} · next review ${r.due <= today() ? "due now" : "in " + plural(daysBetween(today(), r.due), "day")} · ${r.right} right, ${r.wrong} wrong${struggling(w) ? " · marked tricky" : ""}</p>` : ""}
-    ${r && r.sentences.length ? `<section class="panel"><span class="eyebrow">Your sentences</span>${r.sentences.map(x => `<p>“${esc(x)}”</p>`).join("")}</section>` : ""}
     <div class="btn-row">${r ? `<button class="btn ghost" data-act="remove-word" data-w="${esc(w)}">Remove</button>` : `<button class="btn ghost" data-act="add-word" data-w="${esc(w)}">${ICON.plus}Add to my words</button>`}<button class="btn" data-act="learn-word" data-w="${esc(w)}">${r ? "Practise it" : "Learn it now"}</button></div>
     <button class="btn ghost block" data-act="sheet-close">Close</button>`);
 }
@@ -2439,7 +2303,7 @@ function quoteSheet(i) {
   openSheet(`<section class="panel" style="--pc:var(--p-expression)"><span class="eyebrow" style="color:var(--p-expression)">Logos · Quote</span>
     <p class="bigquote">${esc(x.q)}</p><div class="byline"><b>${esc(x.a)}</b><span>${esc(x.w)}</span></div>
     <div class="idea" style="--pc:var(--p-expression)"><b>What it means</b>${esc(x.m)}</div>
-    ${state.quotes[i] ? `<p class="muted small">First learned ${ago(state.quotes[i])}.</p>` : ""}</section>
+    ${state.quotes[x.q] ? `<p class="muted small">First learned ${ago(state.quotes[x.q])}.</p>` : ""}</section>
     <button class="btn ghost block" data-act="sheet-close">Close</button>`);
 }
 function collectionSheet(id) {
@@ -2477,7 +2341,8 @@ function renderLookup() {
 }
 function doLookup(q) {
   const w = parseLookup(q); if (!w) return;
-  const e = WB.WORDS.find(x => x.w === w) || state.custom[w] || WB.WORDS.find(x => w.startsWith(x.w.slice(0, -1)) && Math.abs(w.length - x.w.length) <= 3);
+  const pool = lib().concat(innerProgress().open ? innerWords() : []);
+  const e = pool.find(x => x.w === w) || state.custom[w] || pool.find(x => w.startsWith(x.w.slice(0, -1)) && Math.abs(w.length - x.w.length) <= 3);
   lookupState = e ? { q, w: e.w, status: "found", entry: e } : { q, w, status: "missing" };
   const out = $("#lookup-out"); if (out) out.innerHTML = renderLookup();
 }
@@ -2503,15 +2368,6 @@ lvl is 1 (common), 2 (intermediate) or 3 (advanced). cat is one of everyday, bus
   }
   const out = $("#lookup-out"); if (out) out.innerHTML = renderLookup();
 }
-async function sentenceAI() {
-  if (!sampleFn || !P) return;
-  const fb = $("#sentence-fb"); fb.innerHTML = `<p class="muted">Asking Claude…</p>`;
-  try {
-    const { text } = await sampleFn(`A learner is practising the word "${P.e.w}" (${P.e.pos}: ${P.e.def}). Their sentence: "${P.pendingSentence}". In at most two short sentences, say whether the word is used correctly and naturally. If it isn't, give one improved version. Plain text, friendly, Australian spelling.`, { modelTier: "quick" });
-    P.sentenceMsg = `<div class="explain good"><strong>Claude says</strong>${esc(text)}</div>`;
-  } catch (err) { P.sentenceMsg = `<div class="explain bad"><strong>No feedback this time.</strong>Your sentence is still saved.</div>`; if (err && err.code === "not_granted") sampleFn = null; }
-  P.sampleOk = false; drawPlayer();
-}
 function speak(w) {
   try { const u = new SpeechSynthesisUtterance(w); const v = speechSynthesis.getVoices().find(x => /en-AU/i.test(x.lang)) || speechSynthesis.getVoices().find(x => /en-GB/i.test(x.lang)); if (v) u.voice = v; u.lang = v ? v.lang : "en-AU"; u.rate = 0.9; speechSynthesis.cancel(); speechSynthesis.speak(u); } catch (e) { toast("Audio isn't available in this browser"); }
 }
@@ -2521,7 +2377,7 @@ function speak(w) {
 /* Edit these before release. */
 const APP = {
   name: "Wisebyte", version: "1.0.0",
-  developer: "Jacob Fuller", email: "contact@wisebyte.app",
+  developer: "Jake Currell-Fuller", email: "contact@wisebyte.app",
   privacyUrl: "privacy.html", termsUrl: "terms.html",   // replace with your public URLs once hosted
 };
 /* Subscriptions live in store.js (shared by all four Wisebyte apps). */
@@ -2533,7 +2389,7 @@ const Sub = {
       headline: "Raise your temple every day",
       pitch: "Bite-sized lessons in knowledge, words, life skills, ideas and thinking.",
       features: [`All ${lessons().length} lessons and ${SUBJ().length} Compendium courses, with mastery exams`, "The Arena: brain games, quizzes and Fact or Fiction?", "Spaced Review, so you keep what you learn", "New lessons added regularly"],
-      openDoc: url => openExternal(url), termsUrl: APP.termsUrl, privacyUrl: APP.privacyUrl,
+      termsUrl: APP.termsUrl, privacyUrl: APP.privacyUrl,
     }).then(() => WBStore.require()).catch(() => {});
   },
 };
@@ -2547,22 +2403,23 @@ function openExternal(url) {
   if (B) return B.open({ url });
   window.open(url, "_blank", "noopener");
 }
-const CHECK_SVG = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>`;
 function paywallSheet() { closeSheet(); WBStore.showPaywall({ dismissable: true }); }
 const DISCLAIMERS = {
   health: "General information only, not medical advice. Talk to your doctor or a health professional about your own situation.",
   money: "General information only, not financial advice. It doesn't consider your circumstances. Consider speaking to a licensed financial adviser.",
-  law: "General information only, not legal advice. Laws differ between states and change over time. For your situation, contact Legal Aid or a lawyer.",
-  safety: "General information only, not a substitute for first aid training. In an emergency, call Triple Zero (000).",
+  law: "General information only, not legal advice. Some laws differ between states and territories, and laws change over time. For your situation, contact Legal Aid or a lawyer.",
+  safety: "General information only, not a substitute for first aid training or official emergency advice. In an emergency, call Triple Zero (000).",
   mind: "Educational content, not a substitute for professional support. If you're struggling, call Lifeline on 13 11 14 or talk to your GP.",
 };
-const LAW_IDS = ["legal-system-au", "constitution-au", "contracts", "consumer-rights", "workplace-rights", "renting", "tax-basics", "start-business-au"];
+const LAW_IDS = ["legal-system-au", "constitution-au", "contracts", "consumer-rights", "workplace-rights", "renting", "start-business-au", "making-a-will", "contractor-or-employee", "burnout-and-disconnecting"];
+const MONEY_IDS = ["lodging-your-tax-return", "super-housekeeping", "comparing-personal-loans", "getting-out-of-debt", "big-purchases-bnpl", "building-an-emergency-fund", "income-protection-insurance", "private-health-insurance-decoded", "making-an-insurance-claim"];
+const HEALTH_IDS = ["medicare-and-finding-a-gp", "building-a-better-sleep-routine"];
 const MIND_IDS = ["manipulation-tactics", "gaslighting", "cults", "dark-triad", "stress", "resilience", "emotional-regulation", "boundaries", "attachment", "conflict"];
 function disclaimerFor(l) {
   if (LAW_IDS.includes(l.id)) return DISCLAIMERS.law;
   if (MIND_IDS.includes(l.id) || l.cat === "emotions") return DISCLAIMERS.mind;
-  if (l.cat === "body" || l.id === "alcohol" || l.id === "food-safety") return DISCLAIMERS.health;
-  if (l.cat === "money") return DISCLAIMERS.money;
+  if (l.cat === "body" || HEALTH_IDS.includes(l.id) || l.id === "alcohol" || l.id === "food-safety") return DISCLAIMERS.health;
+  if (l.cat === "money" || MONEY_IDS.includes(l.id)) return DISCLAIMERS.money;
   if (l.cat === "safety") return DISCLAIMERS.safety;
   return "";
 }
@@ -2577,7 +2434,7 @@ function aboutSheet() {
     <p class="muted">Bite-sized lessons in knowledge, words, life skills, ideas and thinking, for curious Australians.</p>
     <div class="set-list">
       <button class="set-row" data-act="restore"><span>Restore purchases<small>Already subscribed on this account?</small></span></button>
-      <button class="set-row" data-act="manage-sub"><span>Manage subscription<small>Change or cancel in your App Store or Microsoft Store account</small></span></button>
+      <button class="set-row" data-act="manage-sub"><span>Manage subscription<small>Change or cancel in your App Store account settings</small></span></button>
       <button class="set-row" data-act="open-doc" data-id="${APP.privacyUrl}"><span>Privacy Policy<small>We don't collect your personal data</small></span></button>
       <button class="set-row" data-act="open-doc" data-id="${APP.termsUrl}"><span>Terms of Use</span></button>
       <button class="set-row" data-act="open-doc" data-id="mailto:${APP.email}?subject=Wisebyte%20support"><span>Contact support<small>${esc(APP.email)}</small></span></button>
@@ -2607,10 +2464,6 @@ document.addEventListener("click", ev => {
   switch (act) {
     case "next": return advance();
     case "close": return closePlayer();
-    case "flip": if (P && !P.flipped) { P.flipped = true; drawPlayer(); } return;
-    case "grade": return gradeFlash(id === "1");
-    case "sentence-check": return checkSentence();
-    case "sentence-ai": return sentenceAI();
     case "speak": ev.stopPropagation(); return speak(w);
     case "lesson": leave(); return startLesson(id);
     case "wotd": leave(); return startWord(wordOfDay().w, true);
@@ -2620,23 +2473,19 @@ document.addEventListener("click", ev => {
     case "review-all": leave(); return startFullReview();
     case "quote-review": leave(); return startQuoteReview();
     case "practice": return startPractice(id);
-    case "daily-quiz": case "daily-trial": leave(); return startTrial();
+    case "daily-trial": leave(); return startTrial();
     case "quote": leave(); return startQuote();
     case "inner": leave(); tab = "inner"; render(); return window.scrollTo(0, 0);
     case "inner-play": leave(); return startInner(id);
     case "quote-sheet": return quoteSheet(+id);
     case "lib": libPillar = id || null; libArea = null; libSubject = null; learnCat = "all"; learnLevel = "all"; render(); return window.scrollTo(0, 0);
-    case "lib-wcat": libWordCat = id; return render();
-    case "goto-words": tab = "library"; libPillar = "vocabulary"; learnCat = "all"; render(); return window.scrollTo(0, 0);
     case "challenge": leave(); return startChallenge(id);
     case "vocab-test": return startVocabTest();
-    case "plan-next": { const d = day(); return !d.lesson ? startLesson(lessonOfDay().id) : startWord(wordOfDay().w, true); }
     case "random": { const pool = lessons(), fresh = pool.filter(l => !state.lessons[l.id]); return startLesson(pick(fresh.length ? fresh : pool).id); }
-    case "path": case "subject": leave(); closeSheet(); tab = "library"; libSubject = id; render(); return window.scrollTo(0, 0);
+    case "subject": leave(); closeSheet(); tab = "library"; libSubject = id; render(); return window.scrollTo(0, 0);
     case "area": tab = "library"; libArea = id; libSubject = null; libPillar = null; learnCat = "all"; render(); return window.scrollTo(0, 0);
     case "mastery": leave(); return startMastery(id);
     case "collection": leave(); return collectionSheet(id);
-    case "gk-cat": return startChallenge("gk", { cat: id });
     case "word": return wordSheet(w);
     case "ach": return achSheet(id);
     case "sheet-close": return closeSheet();
@@ -2652,19 +2501,10 @@ document.addEventListener("click", ev => {
     case "open-doc": return openExternal(id);
     case "reset-sheet": return resetSheet();
     case "reset-confirm": store.profiles[aud()] = state = freshProfile(); save(); closeSheet(); toast("Progress reset"); return render();
-    case "tab": tab = id; confirmReset = false; render(); return window.scrollTo(0, 0);
-    case "learn-view": learnView = id; return render();
+    case "tab": tab = id; render(); return window.scrollTo(0, 0);
     case "learn-cat": learnCat = learnCat === id ? "all" : id; learnLevel = "all"; render(); return window.scrollTo(0, 0);
     case "learn-level": learnLevel = id; return render();
-    case "words-view": wordsView = id; wordsFilter = "all"; return render();
-    case "words-filter": wordsFilter = id; return render();
-    case "reset-ask": confirmReset = true; return render();
-    case "reset-cancel": confirmReset = false; return render();
-    case "reset-yes": store.profiles[aud()] = state = freshProfile(); save(); confirmReset = false; toast("Progress reset"); return render();
   }
-});
-document.addEventListener("input", ev => {
-  if (ev.target.id === "libq") { libQuery = ev.target.value; const r = $("#lib-results"); if (r) r.innerHTML = libResults(libQuery); }
 });
 document.addEventListener("submit", ev => { if (ev.target.dataset.form === "lookup") { ev.preventDefault(); doLookup(ev.target.q.value); } });
 document.addEventListener("keydown", ev => {
@@ -2673,13 +2513,11 @@ document.addEventListener("keydown", ev => {
   if (!P || ev.target.closest("textarea, input")) return;
   if (ev.key === "Escape") return closePlayer();
   const s = P.steps[P.i];
-  if (s.t === "q" && /^[1-4]$/.test(ev.key)) return answer(+ev.key - 1);
-  if (s.t === "flash" && ev.key === " ") { ev.preventDefault(); if (!P.flipped) { P.flipped = true; drawPlayer(); } return; }
+  if (s.t === "q" && /^[1-4]$/.test(ev.key) && +ev.key <= s.q.options.length) return answer(+ev.key - 1);
   if ((ev.key === "ArrowRight" || ev.key === "Enter") && !ev.target.closest("button")) { ev.preventDefault(); advance(); }
 });
 
-render();
-hydrateNative();
+hydrateNative().finally(render);
 /* Daily reminders were removed: clear any reminder an earlier version scheduled. */
 (async () => { try { const LN = nativePlugin("LocalNotifications"); if (LN && state.reminder) await LN.cancel({ notifications: [{ id: 1 }] }); } catch (e) {} if (state.reminder) { delete state.reminder; save(); } })();
 Sub.init();
@@ -2691,6 +2529,4 @@ if ("serviceWorker" in navigator && location.protocol === "https:" && !(window.C
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 }
 </script>
-</body></html>
-
 </body></html>
