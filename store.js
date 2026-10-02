@@ -51,6 +51,9 @@
      get the app from a store. Everywhere else (the Claude preview, localhost)
      runs in preview mode with everything unlocked. Example: ["wisebyte.app"] */
   const PRODUCTION_HOSTS = ["wisebyte.app"];
+  /* PAYWALL SWITCH: true = everything unlocked, no paywall anywhere (testing).
+     Set back to false before release to turn subscriptions on again. */
+  const PAYWALL_OFF = true;
   const CACHE_KEY = "wisebyte.sub.";
 
   const S = {
@@ -215,6 +218,7 @@
 
   let pick = "own";
   function showPaywall(opt) {
+    if (PAYWALL_OFF) { hidePaywall(); return; }
     opt = Object.assign({ dismissable: false, reason: "" }, opt || {});
     if (!ALL_ACCESS) pick = "own";
     const t = THEMES[S.opts.theme || "stoic"];
@@ -291,7 +295,7 @@
       return api;
     },
     get mode() { return S.mode; },
-    entitled() { return S.mode === "preview" || S.own || S.all || S.sharedAll; },
+    entitled() { return PAYWALL_OFF || S.mode === "preview" || S.own || S.all || S.sharedAll; },
     status() {
       if (S.mode === "preview") return "Preview: everything unlocked";
       if (S.all) return ALL.name + " (active)";
