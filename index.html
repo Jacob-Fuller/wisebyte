@@ -1355,7 +1355,7 @@ const PILLARS = {
 };
 const _unusedPillarDesc = k => k === "test" ? `10 general-knowledge questions a day, ${aud() === "kids" ? "Fact or Fiction?" : "Fact or Fiction?"}, quizzes and challenges.` : PILLARS[k].desc;
 const pillarHero = k => `<section class="phero"><span class="pic">${ICON[PILLARS[k].icon]}</span><div><span class="eyebrow">${PILLARS[k].tag}</span><h1>${PILLARS[k].name}</h1><p>${pillarDesc(k)}</p></div></section>`;
-const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["review", "Review", "repeat"], ["me", "Me", "user"]];
+const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["review", "Review", "repeat"], ["me", "Account", "user"]];
 
 const lvlPips = (n, label) => `<span class="diff"><span class="pips l${n}"><i></i><i></i><i></i></span>${label}</span>`;
 const lessonPips = l => lvlPips(LEVELS[l.level].n, LEVELS[l.level].name);
@@ -1866,13 +1866,13 @@ function renderMe() {
     <div class="profile-grid">
       <div><b>${aud() === "adult" ? (state.vocab ? state.vocab.value.toLocaleString() : "–") : Object.keys(state.words).length}</b><span>${aud() === "adult" ? "Vocabulary" : "Words"}</span></div>
       <div><b>${learned}</b><span>Lessons</span></div>
-      <div><b>${state.stats.answered ? Math.round(100 * state.stats.correct / state.stats.answered) + "%" : "–"}</b><span>Quiz accuracy</span></div>
+      <div><b>${state.stats.dailyCompletes || 0}</b><span>Temples raised</span></div>
       <div><b>${topicsMastered}</b><span>Topics mastered</span></div>
       <div><b>${liveStreak()}</b><span>Day streak</span></div>
       <div><b>${totalSecs ? tt : "–"}</b><span>Learning time</span></div>
     </div>
   </section>
-  <section class="panel"><div class="section-head"><h2>Topic mastery</h2><span class="muted small">Score × memory</span></div>
+  <section class="panel"><div class="section-head"><h2>Topic mastery</h2></div>
     <div class="know">${cats.map(c => `<div class="k-row" style="--t:${WB.CATEGORIES[c.key].color}"><span><i></i>${WB.CATEGORIES[c.key].name}</span><span class="bar"><i style="width:${c.pct}%"></i></span><span class="num">${c.pct}%</span></div>`).join("")}</div></section>
   <section class="panel"><div class="section-head"><h2>Brain training</h2><span class="muted small">Best scores</span></div>
     <div class="lines">${games.map(a => `<div><span>${esc(actName(a))}${a.skill && a.skill !== actName(a) ? ` <small class="muted">· ${esc(a.skill)}</small>` : ""}</span><b>${best(a.id) ?? "–"}</b></div>`).join("")}</div></section>
@@ -2127,7 +2127,7 @@ function finishSession() {
     const x = P.subject, pass = P.score >= Math.min(RULES.xp.masteryPass, total), first = pass && !state.mastered[x.id];
     title = "Mastery exam"; xp = P.score * RULES.xp.masteryCorrect; lines.push([`Correct (${P.score}/${total})`, `+${xp}`]);
     if (first) { state.mastered[x.id] = today(); xp += RULES.xp.mastery; lines.push([`${x.title} mastered`, `+${RULES.xp.mastery}`]); }
-    note = pass ? (first ? `You have mastered ${x.title}. It's on your Me page for good.` : "Passed again. Still a master.") : `You need ${RULES.xp.masteryPass}/10 to pass. Review the lessons you missed, then try again.`;
+    note = pass ? (first ? `You have mastered ${x.title}. It's on your Account page for good.` : "Passed again. Still a master.") : `You need ${RULES.xp.masteryPass}/10 to pass. Review the lessons you missed, then try again.`;
     P.passed = pass;
   } else if (m === "expr") {
     title = "Expression"; xp = RULES.xp.quoteRead + P.score * RULES.xp.quoteRight;
