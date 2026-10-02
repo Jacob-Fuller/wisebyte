@@ -1,6 +1,6 @@
 /* Offline support: keeps a copy of the app on the device so it opens with no signal.
    Bump VERSION whenever the app's files change so everyone gets the new copy. */
-const VERSION = "main-2026-10-02-inner1";
+const VERSION = "main-2026-10-02-content3";
 const FILES = [
 "./",
 "fonts/cormorant-garamond-italic.woff",
@@ -92,6 +92,33 @@ const FILES = [
 "inner-lessons-a.js",
 "inner-lessons-b.js",
 "inner-lessons-c.js",
+"lessons-y-ai.js",
+"lessons-y-ancient.js",
+"lessons-y-arts.js",
+"lessons-y-beliefs.js",
+"lessons-y-body.js",
+"lessons-y-business.js",
+"lessons-y-emotions.js",
+"lessons-y-explore.js",
+"lessons-y-food.js",
+"lessons-y-geography.js",
+"lessons-y-history.js",
+"lessons-y-life-everyday.js",
+"lessons-y-life-home.js",
+"lessons-y-life-money.js",
+"lessons-y-life-work.js",
+"lessons-y-literature.js",
+"lessons-y-maths.js",
+"lessons-y-money.js",
+"lessons-y-nature.js",
+"lessons-y-philosophy.js",
+"lessons-y-psychology.js",
+"lessons-y-safety.js",
+"lessons-y-science.js",
+"lessons-y-society.js",
+"lessons-y-space.js",
+"lessons-y-technology.js",
+"lessons-y-thinking.js",
 "words.js",
 "words2.js",
 "words3.js"

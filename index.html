@@ -757,6 +757,33 @@ body[data-pillar="expression"],#player[data-pillar="expression"]{--accent:var(--
 <script src="inner-lessons-a.js"></script>
 <script src="inner-lessons-b.js"></script>
 <script src="inner-lessons-c.js"></script>
+<script src="lessons-y-ai.js"></script>
+<script src="lessons-y-ancient.js"></script>
+<script src="lessons-y-arts.js"></script>
+<script src="lessons-y-beliefs.js"></script>
+<script src="lessons-y-body.js"></script>
+<script src="lessons-y-business.js"></script>
+<script src="lessons-y-emotions.js"></script>
+<script src="lessons-y-explore.js"></script>
+<script src="lessons-y-food.js"></script>
+<script src="lessons-y-geography.js"></script>
+<script src="lessons-y-history.js"></script>
+<script src="lessons-y-life-everyday.js"></script>
+<script src="lessons-y-life-home.js"></script>
+<script src="lessons-y-life-money.js"></script>
+<script src="lessons-y-life-work.js"></script>
+<script src="lessons-y-literature.js"></script>
+<script src="lessons-y-maths.js"></script>
+<script src="lessons-y-money.js"></script>
+<script src="lessons-y-nature.js"></script>
+<script src="lessons-y-philosophy.js"></script>
+<script src="lessons-y-psychology.js"></script>
+<script src="lessons-y-safety.js"></script>
+<script src="lessons-y-science.js"></script>
+<script src="lessons-y-society.js"></script>
+<script src="lessons-y-space.js"></script>
+<script src="lessons-y-technology.js"></script>
+<script src="lessons-y-thinking.js"></script>
 <script src="quotes2.js"></script>
 <script src="lessons-x-body.js"></script>
 <script src="lessons-x-chemphys.js"></script>
@@ -849,6 +876,10 @@ const ACTIVITIES = [
   { id: "spatial", pillar: "think", skill: "Spatial reasoning", name: "Turn it around", desc: "Rotate and flip the arrow in your head.", icon: "rotate", count: 8, kids: 1, gen: () => genSpatial() },
   { id: "puzzles", pillar: "think", skill: "Problem solving", name: "Brain teasers", desc: "Classic puzzles that trip up fast thinking.", icon: "bulb", count: 5, kids: 1, build: () => bankSteps(WB.PUZZLES, 5, "puzzle") },
   { id: "critical", pillar: "think", skill: "Critical thinking", name: "Think it through", desc: "Real-world scenarios. What can you actually conclude?", icon: "scale", count: 5, build: () => bankSteps(WB.SCENARIOS, 5, "scenario") },
+  { id: "anagram", pillar: "think", skill: "Verbal fluency", name: "Anagrams", desc: "Unscramble the word. 60 seconds.", icon: "shuffle", timed: 60, gen: () => genAnagram() },
+  { id: "compare", pillar: "think", skill: "Numeracy", name: "Bigger or smaller?", desc: "Fractions, decimals and percentages. Pick the bigger one, fast.", icon: "gauge", timed: 60, gen: () => genCompare() },
+  { id: "letters", pillar: "think", skill: "Verbal reasoning", name: "Letter patterns", desc: "Find the next letter in the sequence.", icon: "stack", count: 8, gen: () => genLetters() },
+  { id: "clock", pillar: "think", skill: "Working memory", name: "Time travel", desc: "Add and subtract time in your head.", icon: "hourglass", count: 8, gen: () => genClock() },
   // TEST: knowledge and vocabulary
   { id: "gk", pillar: "test", name: "10 questions a day", desc: "General knowledge from 13 categories.", icon: "globe", count: 10, kids: 1, build: o => buildGK(o) },
   { id: "fob", pillar: "test", name: "Fact or Fiction?", kidsName: "Fact or Fiction?", desc: "Popular claims. True, or total myth?", icon: "flag", count: 10, kids: 1, build: () => buildFOB() },
@@ -941,6 +972,67 @@ function genSpatial() {
   const start = rand(4), n = aud() === "kids" ? 1 : 2 + (Math.random() < 0.35 ? 1 : 0), moves = Array.from({ length: n }, () => pick(MOVES));
   const end = moves.reduce((d, m) => m.f(d), start);
   return { t: "q", q: { prompt: `<span class="arrowbig">${ARROWS[start]}</span><ol class="steps-list">${moves.map(m => `<li>${m.t}</li>`).join("")}</ol>`, sub: "Which way does the arrow point now?", options: ARROWS.slice(), answer: end, big: true, explain: `It ends up pointing ${["up", "right", "down", "left"][end]}.` } };
+}
+/* Anagrams: unscramble a word from the vocabulary library */
+const sortedLetters = w => w.split("").sort().join("");
+function genAnagram() {
+  const pool = allWords().filter(e => /^[a-z]{5,8}$/.test(e.w));
+  const e = pick(pool), key = sortedLetters(e.w);
+  let sc = e.w; for (let g = 0; sc === e.w && g < 20; g++) sc = shuffle(e.w.split("")).join("");
+  const others = pool.filter(x => x.w !== e.w && sortedLetters(x.w) !== key);
+  const same = others.filter(x => x.w.length === e.w.length);
+  const m = mcOptions(e.w, (same.length >= 3 ? same : others).map(x => x.w));
+  return { t: "q", q: { prompt: `<span class="bigq">${esc(sc.toUpperCase())}</span>`, sub: "Unscramble the word", options: m.options.map(esc), answer: m.answer, explain: `${esc(e.w)}: ${esc(e.def)}` } };
+}
+/* Bigger or smaller: compare values written as fractions, decimals and percentages */
+const gcd = (a, b) => b ? gcd(b, a % b) : a;
+function cmpTerm(kind) {
+  if (kind === "frac") { const b = rand(11) + 2; let a = rand(b - 1) + 1; while (gcd(a, b) > 1) a = rand(b - 1) + 1; return { label: `${a}/${b}`, v: a / b }; }
+  if (kind === "dec") { const v = (rand(19) + 1) / 20; return { label: String(v), v }; }
+  if (kind === "pct") { const p = (rand(19) + 1) * 5; return { label: `${p}%`, v: p / 100 }; }
+  if (kind === "pctof") { const p = pick([5, 10, 15, 20, 25, 30, 40, 50, 60, 75]), n = pick([20, 40, 60, 80, 120, 150, 200, 240, 300]); return { label: `${p}% of ${n}`, v: p * n / 100 }; }
+  const b = pick([2, 3, 4, 5, 6, 8, 10]); let a = rand(b - 1) + 1; while (gcd(a, b) > 1) a = rand(b - 1) + 1; const n = b * (rand(12) + 2); return { label: `${a}/${b} of ${n}`, v: a * n / b };
+}
+function genCompare() {
+  const abs = Math.random() < 0.45;
+  let x, y;
+  for (let g = 0; g < 50; g++) {
+    x = cmpTerm(abs ? pick(["pctof", "fracof"]) : pick(["frac", "dec", "pct"]));
+    y = cmpTerm(abs ? pick(["pctof", "fracof"]) : pick(["frac", "dec", "pct"]));
+    const d = Math.abs(x.v - y.v);
+    if (d > 1e-9 && d / Math.max(x.v, y.v) < 0.35 && x.label !== y.label) break;
+  }
+  const big = x.v > y.v ? 0 : 1, f = v => +v.toFixed(3);
+  return { t: "q", q: { prompt: `<span class="bigq">Which is bigger?</span>`, options: [x.label, y.label], answer: big, explain: `${x.label} = ${f(x.v)} and ${y.label} = ${f(y.v)}.` } };
+}
+/* Letter patterns: find the next letter */
+const ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+function genLetters() {
+  const type = pick(["step", "step", "back", "alt", "grow"]);
+  let seq = [], rule = "";
+  for (let g = 0; g < 50; g++) {
+    seq = []; let i;
+    if (type === "step") { const k = rand(4) + 1; i = rand(26 - 5 * k); for (let n = 0; n < 6; n++) seq.push(i + n * k); rule = `Move forward ${k} letter${k > 1 ? "s" : ""} each time.`; }
+    if (type === "back") { const k = rand(3) + 1; i = 25 - rand(26 - 5 * k); for (let n = 0; n < 6; n++) seq.push(i - n * k); rule = `Move back ${k} letter${k > 1 ? "s" : ""} each time.`; }
+    if (type === "alt") { const a = rand(3) + 1; let b = rand(3) + 2; if (b === a) b++; i = rand(7); seq.push(i); for (let n = 1; n < 6; n++) seq.push(seq[n - 1] + (n % 2 ? a : b)); rule = `Alternately move forward ${a} and ${b}.`; }
+    if (type === "grow") { i = rand(6); seq.push(i); for (let n = 1; n < 6; n++) seq.push(seq[n - 1] + n); rule = "The gap grows by one each time: +1, +2, +3, +4, +5."; }
+    if (seq.every(v => v >= 0 && v < 26)) break;
+  }
+  const ans = seq.pop(), right = ABC[ans];
+  const near = shuffle([1, -1, 2, -2, 3, -3].map(d => ans + d).filter(v => v >= 0 && v < 26)).slice(0, 3).map(v => ABC[v]);
+  const o = shuffle([right, ...near]);
+  return { t: "q", q: { prompt: `<span class="seq">${seq.map(v => `<span>${ABC[v]}</span>`).join("")}<span class="gap">?</span></span>`, sub: "Which letter comes next?", options: o, answer: o.indexOf(right), big: true, explain: rule } };
+}
+/* Time travel: clock arithmetic */
+const clockStr = m => { m = ((m % 1440) + 1440) % 1440; const h = Math.floor(m / 60), mm = m % 60; return `${(h % 12) || 12}:${String(mm).padStart(2, "0")} ${h < 12 ? "am" : "pm"}`; };
+function genClock() {
+  const start = (rand(24) * 60) + rand(12) * 5, dh = rand(5), dm = (rand(11) + 1) * 5, back = Math.random() < 0.35;
+  const delta = dh * 60 + dm, end = back ? start - delta : start + delta;
+  const ds = `${dh ? dh + " h " : ""}${dm} min`;
+  const wrong = new Set([clockStr(end)]);
+  for (const w of shuffle([end + 60, end - 60, end + 10, end - 10, end + 720, back ? start + delta : start - delta])) { if (wrong.size >= 4) break; wrong.add(clockStr(w)); }
+  const o = shuffle([...wrong]), right = clockStr(end);
+  return { t: "q", q: { prompt: `<span class="bigq">${clockStr(start)}</span>`, sub: `What time is it ${ds} ${back ? "earlier" : "later"}?`, options: o, answer: o.indexOf(right), explain: `${ds} ${back ? "before" : "after"} ${clockStr(start)} is ${right}.` } };
 }
 function mcq(item, head) { const o = shuffle(item.o.map((t, i) => ({ t, i }))); return { t: "q", head, q: { prompt: esc(item.q), options: o.map(x => esc(x.t)), answer: o.findIndex(x => x.i === item.a), explain: esc(item.e) } }; }
 function bankSteps(bank, n, kind) {
@@ -1813,7 +1905,7 @@ function gameRow(a, right) {
   return `<button class="grow" data-act="challenge" data-id="${a.id}"><span class="gi">${ICON[a.icon]}</span>
     <span class="gt"><strong>${actName(a)}</strong><small>${a.skill && a.skill !== actName(a) ? a.skill : (a.timed ? a.timed + " seconds" : a.count + " questions")}</small></span>${meta}</button>`;
 }
-const GAME_HUE = { maths: "think", pattern: "learn", memory: "remember", logic: "cognition", stroop: "test", spatial: "practical", puzzles: "expression", critical: "think" };
+const GAME_HUE = { maths: "think", pattern: "learn", memory: "remember", logic: "cognition", stroop: "test", spatial: "practical", puzzles: "expression", critical: "think", anagram: "remember", compare: "test", letters: "learn", clock: "practical" };
 const QUIZ_GROUPS = [["Knowledge", "Test what you know about the world", ["fob", "timeline", "capitals", "facts"]], ["Words", "Sharpen your vocabulary", ["memwords", "speed", "tf", "def", "word", "odd", "opposites", "blank"]]];
 function bestOf(id) { const v = Object.values(state.scores[id] || {}); return v.length ? Math.max(...v) : null; }
 function gameTile(a, hue) {
