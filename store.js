@@ -39,6 +39,9 @@
     kids:     { name: "Wisebyte Kids",     price: "$4.99", ios: "au.wisebyte.kids.monthly",     ms: "wisebytekids_monthly", iosAll: "au.wisebyte.kids.allaccess", msAll: "wisebyte_allaccess_kids" },
   };
   const ALL = { name: "Wisebyte All Access", price: "$24.99", blurb: "Wisebyte, Wisebyte - Go, Wisebyte - Scroll and Wisebyte Kids" };
+  /* All Access is off while Wisebyte launches on its own: only this app's own plan is offered.
+     Set to true once the other apps and the All Access subscriptions are live. */
+  const ALL_ACCESS = false;
   const GROUP = "group.au.wisebyte.shared";
   const MS_BILLING = "https://store.microsoft.com/billing";
   const SHARE_KEY = "wisebyte.entitlement.v1";
@@ -85,7 +88,7 @@
 
   /* ---------- Apple ---------- */
   const Apple = {
-    ids() { return [S.cfg.ios, S.cfg.iosAll]; },
+    ids() { return ALL_ACCESS ? [S.cfg.ios, S.cfg.iosAll] : [S.cfg.ios]; },
     async init() {
       const CP = window.CdvPurchase;
       if (!CP) return false;
@@ -105,7 +108,7 @@
         S.intro[id] = free ? isoPeriod(free.billingPeriod) : null;
       });
       const was = api.entitled();
-      S.own = store.owned(S.cfg.ios); S.all = store.owned(S.cfg.iosAll);
+      S.own = store.owned(S.cfg.ios); S.all = ALL_ACCESS && store.owned(S.cfg.iosAll);
       if (S.all) writeShared(true);
       remember();
       if (was !== api.entitled()) emit(); else emit();
@@ -124,7 +127,7 @@
   /* ---------- Microsoft Store ---------- */
   const Microsoft = {
     svc: null,
-    ids() { return [S.cfg.ms, S.cfg.msAll]; },
+    ids() { return ALL_ACCESS ? [S.cfg.ms, S.cfg.msAll] : [S.cfg.ms]; },
     async init() {
       if (!("getDigitalGoodsService" in window)) return false;
       try { this.svc = await window.getDigitalGoodsService(MS_BILLING); } catch (e) { return false; }
@@ -141,7 +144,7 @@
     async refresh() {
       try {
         const owned = (await this.svc.listPurchases()).map(p => p.itemId);
-        S.own = owned.includes(S.cfg.ms); S.all = owned.includes(S.cfg.msAll);
+        S.own = owned.includes(S.cfg.ms); S.all = ALL_ACCESS && owned.includes(S.cfg.msAll);
         if (S.all) writeShared(true);
         remember();
       } catch (e) {}
@@ -213,6 +216,7 @@
   let pick = "own";
   function showPaywall(opt) {
     opt = Object.assign({ dismissable: false, reason: "" }, opt || {});
+    if (!ALL_ACCESS) pick = "own";
     const t = THEMES[S.opts.theme || "stoic"];
     if (!document.getElementById("wbpwcss")) { const st = document.createElement("style"); st.id = "wbpwcss"; st.textContent = css(t); document.head.appendChild(st); }
     let el = document.getElementById("wbpw");
@@ -228,13 +232,13 @@
       ${S.opts.features ? `<ul>${S.opts.features.map(f => `<li>${esc(f)}</li>`).join("")}</ul>` : ""}
       <div style="display:flex;flex-direction:column;gap:10px">
         <button class="plan" data-plan="own" aria-pressed="${pick === "own"}"><span><b>${esc(S.cfg.name)}</b><small>This app, every lesson and feature</small></span><span class="pr">${esc(price("own"))}<small><br>per month</small></span></button>
-        <button class="plan" data-plan="all" aria-pressed="${pick === "all"}"><span><b>${esc(ALL.name)}<span class="tag">All 4 apps</span></b><small>${esc(ALL.blurb)}</small></span><span class="pr">${esc(price("all"))}<small><br>per month</small></span></button>
+        ${ALL_ACCESS ? `<button class="plan" data-plan="all" aria-pressed="${pick === "all"}"><span><b>${esc(ALL.name)}<span class="tag">All 4 apps</span></b><small>${esc(ALL.blurb)}</small></span><span class="pr">${esc(price("all"))}<small><br>per month</small></span></button>` : ""}
       </div>
       <button class="go" id="wbpwbuy" ${S.busy || S.mode === "web" ? "disabled" : ""}>${S.mode === "web" ? "Get the app from the App Store or Microsoft Store" : S.mode === "preview" ? "Available in the app store version" : tr ? `Start ${esc(tr)} free, then ${esc(price(pick))} a month` : `Subscribe for ${esc(price(pick))} a month`}</button>
       <p class="msg" id="wbpwmsg" aria-live="polite">${esc(opt.reason)}</p>
       ${S.mode === "web" ? `<p class="note">Subscriptions are sold inside the ${esc(S.cfg.name)} app from the App Store (iPhone and iPad) or the Microsoft Store (Windows). Already subscribed? Open the app there.</p>` : ""}
       ${S.mode === "preview" ? `<p class="note">This is the preview version, so everything is already unlocked. Subscriptions are sold in the App Store and Microsoft Store versions.</p>` : ""}
-      <p class="fine">Monthly auto-renewing subscription. ${esc(S.cfg.name)} is ${esc(price("own"))} a month. ${esc(ALL.name)} is ${esc(price("all"))} a month and unlocks ${esc(ALL.blurb)} on this device's ${esc(storeName)}.${tr ? ` Free trials are for new subscribers; if you don't cancel before the trial ends, the subscription starts automatically.` : ""} ${renewal}</p>
+      <p class="fine">Monthly auto-renewing subscription. ${esc(S.cfg.name)} is ${esc(price("own"))} a month.${ALL_ACCESS ? ` ${esc(ALL.name)} is ${esc(price("all"))} a month and unlocks ${esc(ALL.blurb)} on this device's ${esc(storeName)}.` : ""}${tr ? ` Free trials are for new subscribers; if you don't cancel before the trial ends, the subscription starts automatically.` : ""} ${renewal}</p>
       <div class="links"><button data-l="restore">Restore purchases</button><button data-l="terms">Terms of Use</button><button data-l="privacy">Privacy Policy</button>${opt.dismissable || S.mode === "preview" ? `<button data-l="close">Not now</button>` : ""}</div>
     </div>`;
     const msg = m => { const x = document.getElementById("wbpwmsg"); if (x) x.textContent = m; };
