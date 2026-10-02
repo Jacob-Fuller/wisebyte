@@ -1,0 +1,22 @@
+{
+  "name": "wisebyte-ios",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Native iOS wrapper for Wisebyte. The web app at the repo root is copied in at build time.",
+  "scripts": {
+    "copy-web": "node scripts/copy-web.js",
+    "add-ios": "npx cap add ios",
+    "patch-ios": "node scripts/patch-ios.js",
+    "sync": "npx cap sync ios",
+    "prepare-ios": "npm run copy-web && (test -d ios || npm run add-ios) && npm run sync && npm run patch-ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
+    "cordova-plugin-purchase": "^13.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0",
+    "xcode": "^3.0.1"
+  }
+}

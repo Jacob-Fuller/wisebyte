@@ -1,0 +1,42 @@
+# Codemagic cloud build for the Wisebyte iOS app.
+# Builds on Codemagic's Macs from this repo and uploads to TestFlight,
+# so no Mac is needed locally. Setup steps are in ios-app/README.md.
+workflows:
+  wisebyte-ios:
+    name: Wisebyte iOS → TestFlight
+    max_build_duration: 60
+    instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: Wisebyte ASC
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: au.wisebyte.wisebyte
+      vars:
+        APP_STORE_APPLE_ID: "0"   # Apple ID of the app record in App Store Connect (App Information page)
+      node: 22
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Install dependencies
+        script: cd ios-app && npm install
+      - name: Generate and patch the iOS project
+        script: cd ios-app && npm run prepare-ios
+      - name: Apply signing profiles
+        script: xcode-project use-profiles --project ios-app/ios/App/App.xcodeproj
+      - name: Set build number
+        script: |
+          LATEST=$(app-store-connect get-latest-testflight-build-number "$APP_STORE_APPLE_ID" 2>/dev/null || echo 0)
+          cd ios-app/ios/App && agvtool new-version -all $((LATEST + 1))
+      - name: Build the app
+        script: |
+          xcode-project build-ipa \
+            --workspace ios-app/ios/App/App.xcworkspace \
+            --scheme App
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true

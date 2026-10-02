@@ -1,0 +1,12 @@
+{
+  "appId": "au.wisebyte.wisebyte",
+  "appName": "Wisebyte",
+  "webDir": "www",
+  "backgroundColor": "#141210",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#141210",
+    "scrollEnabled": true,
+    "limitsNavigationsToAppBoundDomains": false
+  }
+}
