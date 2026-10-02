@@ -753,6 +753,10 @@ body[data-pillar="expression"],#player[data-pillar="expression"]{--accent:var(--
 <script src="think3.js"></script>
 <script src="words3.js"></script>
 <script src="inner2.js"></script>
+<script src="inner3.js"></script>
+<script src="inner-lessons-a.js"></script>
+<script src="inner-lessons-b.js"></script>
+<script src="inner-lessons-c.js"></script>
 <script src="quotes2.js"></script>
 <script src="lessons-x-body.js"></script>
 <script src="lessons-x-chemphys.js"></script>
@@ -1757,6 +1761,7 @@ function innerProgress() {
   return { got, total, pct: Math.floor(100 * got / total), open: got === total, left: ACHIEVEMENTS.filter(a => !state.ach[a.id]) };
 }
 const innerWords = () => WB.WORDS.filter(e => e.audience === "inner");
+const innerLessons = () => WB.LESSONS.filter(l => l.audience === "inner");
 function innerDoor() {
   const pr = innerProgress();
   return `<button class="adyton-door ${pr.open ? "open" : ""}" data-act="inner"><span class="kh">${pr.open ? ICON.eye3 : ICON.keyhole}</span>
@@ -1774,6 +1779,7 @@ function renderInner() {
     <section class="stack"><div class="section-head"><h2>Still to unlock</h2><span class="muted small num">${pr.left.length}</span></div><div class="list">
       ${pr.left.map(a => `<button class="grow" data-act="ach" data-id="${a.id}"><span class="gi">${ICON[a.icon]}</span><span class="gt"><strong>${esc(a.name)}</strong><small>${esc(a.desc)}</small></span></button>`).join("")}</div></section>
     <section class="stack"><div class="section-head"><h2>What waits inside</h2></div><div class="list">
+      <div class="grow locked"><span class="gi">${ICON.book}</span><span class="gt"><strong>The Sanctum Teachings</strong><small>${innerLessons().length} advanced lessons on ideas few people truly understand</small></span></div>
       <div class="grow locked"><span class="gi">${ICON.brain}</span><span class="gt"><strong>Expert questions</strong><small>${WB.INNER.questions.length} questions few people can answer</small></span></div>
       <div class="grow locked"><span class="gi">${ICON.bulb}</span><span class="gt"><strong>Expert riddles</strong><small>${WB.INNER.riddles.length} riddles and logic traps</small></span></div>
       <div class="grow locked"><span class="gi">${ICON.book}</span><span class="gt"><strong>The Arcane Lexicon</strong><small>${innerWords().length} rare and advanced words</small></span></div></div></section>`;
@@ -1781,6 +1787,9 @@ function renderInner() {
   const iw = innerWords();
   return header() + head + `
 
+    <section class="stack"><div class="section-head"><h2>The Sanctum Teachings</h2><span class="muted small num">${innerLessons().filter(l => state.lessons[l.id]).length}/${innerLessons().length} studied</span></div>
+      <p class="muted small">Advanced lessons on the ideas that quietly run the world, from the limits of mathematics to the maths of ruin.</p>
+      <div class="list">${innerLessons().map(l => lessonRow(l)).join("")}</div></section>
     <section class="stack"><div class="section-head"><h2>The trials</h2></div><div class="list">
       <button class="grow" data-act="inner-play" data-id="q"><span class="gi">${ICON.brain}</span><span class="gt"><strong>Expert questions</strong><small>10 of ${WB.INNER.questions.length} · history, science, philosophy, maths</small></span>${b.q != null ? `<span class="gr-best">Best ${b.q}/10</span>` : ""}</button>
       <button class="grow" data-act="inner-play" data-id="r"><span class="gi">${ICON.bulb}</span><span class="gt"><strong>Expert riddles</strong><small>5 of ${WB.INNER.riddles.length} · think before you answer</small></span>${b.r != null ? `<span class="gr-best">Best ${b.r}/5</span>` : ""}</button>

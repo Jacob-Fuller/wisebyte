@@ -1,6 +1,6 @@
 /* Offline support: keeps a copy of the app on the device so it opens with no signal.
    Bump VERSION whenever the app's files change so everyone gets the new copy. */
-const VERSION = "main-2026-09-28-web3";
+const VERSION = "main-2026-10-02-inner1";
 const FILES = [
 "./",
 "fonts/cormorant-garamond-italic.woff",
@@ -88,6 +88,10 @@ const FILES = [
 "timeline.js",
 "quotes2.js",
 "inner2.js",
+"inner3.js",
+"inner-lessons-a.js",
+"inner-lessons-b.js",
+"inner-lessons-c.js",
 "words.js",
 "words2.js",
 "words3.js"
