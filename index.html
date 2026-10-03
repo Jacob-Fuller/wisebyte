@@ -527,6 +527,65 @@ body[data-pillar="expression"],#player[data-pillar="expression"]{--accent:var(--
 .sealed .goal-row{text-align:left}
 .grow.locked{opacity:.55;cursor:default}
 
+/* ---------- Wisebyte Scroll tab (the Scroll feed, embedded) ---------- */
+#scrollHost{position:fixed;left:0;right:0;top:env(safe-area-inset-top,0px);bottom:var(--tabs-h,64px);z-index:5;background:var(--ground)}
+#scrollHost iframe{display:block;width:100%;height:100%;border:0;background:var(--ground)}
+body.on-scroll{overflow:hidden}
+body.on-scroll .app{display:none}
+.tab.two-line{white-space:normal;line-height:1.15;text-align:center}
+
+/* ---------- Temple: compact Review ---------- */
+.rv{display:flex;flex-direction:column;gap:10px;padding:14px;border-radius:var(--r);background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--p-remember)}
+.rv-top{display:flex;align-items:center;gap:12px}
+.rv-top .gt{flex:1;min-width:0;display:flex;flex-direction:column;gap:1px}
+.rv-top .eyebrow{color:var(--p-remember)}
+.rv-top strong{font-family:var(--display);font-weight:700;font-size:21px;line-height:1.15}
+.rv-top small{font-size:13px;color:var(--ink-2)}
+.rv-top .btn{flex:none;background:var(--p-remember);color:var(--surface)}
+.rv-mem{display:flex;align-items:center;gap:10px;font-size:12px;color:var(--ink-2)}
+.rv-mem .bar{flex:1}
+.rv-chips{display:flex;flex-wrap:wrap;gap:6px}
+.rv-chip{display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border-radius:999px;background:var(--surface-2);font-size:13px;font-weight:600}
+.rv-chip b{font-family:var(--mono);font-size:12px;color:var(--ink-2)}
+
+/* ---------- Library: centred section heads, topic accordions ---------- */
+.fold.center>summary{justify-content:center;position:relative;padding-inline:52px}
+.fold.center .fold-t{justify-content:center}
+.fold.center .fold-pm{position:absolute;right:14px;top:50%;margin-top:-15px}
+.acc{display:flex;flex-direction:column;gap:8px}
+.topic{border-radius:14px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--t);overflow:hidden}
+.topic>summary{list-style:none;display:flex;align-items:center;gap:10px;padding:13px 14px;cursor:pointer;min-height:52px}
+.topic>summary::-webkit-details-marker{display:none}
+.topic>summary .tt{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
+.topic>summary strong{font-weight:700;font-size:15px}
+.topic>summary small{font-size:12px;color:var(--ink-2)}
+.topic>summary .tc{font-family:var(--mono);font-size:12px;color:var(--ink-2);flex:none}
+.topic>summary .chev{width:18px;height:18px;flex:none;color:var(--ink-2);transition:transform .2s ease;transform:rotate(90deg)}
+.topic[open]>summary .chev{transform:rotate(-90deg)}
+.topic[open]>summary{border-bottom:1px solid var(--line)}
+.topic .list{padding:10px}
+.topic .list .row{background:var(--surface-2)}
+
+/* ---------- account ---------- */
+.auth{display:flex;flex-direction:column;gap:10px}
+.auth label{display:flex;flex-direction:column;gap:5px;font-size:13px;font-weight:600;color:var(--ink-2)}
+.auth .err{color:var(--bad);font-size:14px;min-height:0}
+.auth .ok{color:var(--good);font-size:14px}
+.auth p .link{padding:0;font-size:inherit}
+.auth .swap{align-self:center;color:var(--accent);font-weight:600;font-size:14px;padding:6px}
+.acct-row{display:flex;align-items:center;gap:12px}
+.acct-row .av{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:var(--accent-soft);color:var(--accent);font-family:var(--display);font-weight:700;font-size:20px;flex:none}
+.acct-row .gt{flex:1;min-width:0;display:flex;flex-direction:column}
+.acct-row .gt strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* ---------- next pillar prompt ---------- */
+.temple-next{--c:var(--accent);align-self:stretch;display:flex;flex-direction:column;gap:3px;margin-top:6px;padding:12px 14px;border-radius:14px;background:color-mix(in srgb,var(--c) 12%,var(--surface-2));border:1px solid color-mix(in srgb,var(--c) 45%,var(--line));text-align:left}
+.temple-next .eyebrow{color:var(--c)}
+.temple-next strong{font-family:var(--display);font-size:21px;font-weight:600}
+.temple-next strong .gr{font-size:14px;color:var(--ink-2);font-weight:500;margin-left:4px}
+.temple-next small{color:var(--ink-2);font-size:13px}
+.temple-next.done{--c:var(--gold)}
+
 /* ---------- subjects ---------- */
 .areas{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
 .area{display:flex;flex-direction:column;gap:6px;text-align:left;padding:13px 14px;border-radius:var(--r);background:var(--surface);border:1px solid var(--line)}
@@ -701,6 +760,7 @@ body[data-pillar="expression"],#player[data-pillar="expression"]{--accent:var(--
 <body>
 
 <div class="app" id="app"></div>
+<div id="scrollHost" hidden></div>
 
 <nav class="tabs" aria-label="Sections">
   <div class="tabs-inner" role="tablist" id="tabs"></div>
@@ -1436,7 +1496,7 @@ const PILLARS = {
   think:    { name: "Cognition", icon: "brain", tag: "Noesis · Sharpen the mind",  desc: "Brain games for memory, logic, patterns, maths, attention, spatial reasoning and problem solving, plus critical-thinking scenarios." },
   test:     { name: "Test",     icon: "target", tag: "Prove what you know",  desc: "" },
 };
-const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["review", "Review", "repeat"], ["me", "Account", "user"]];
+const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["scroll", "Wisebyte Scroll", "scroll"], ["me", "Account", "user"]];
 
 const lvlPips = (n, label) => `<span class="diff"><span class="pips l${n}"><i></i><i></i><i></i></span>${label}</span>`;
 const lessonPips = l => lvlPips(LEVELS[l.level].n, LEVELS[l.level].name);
@@ -1594,42 +1654,56 @@ function templeSVG(items) {
 }
 function renderToday() {
   const d = day(), items = pillarItems(), n = items.filter(x => x.done).length;
-  const title = n === 5 ? "The temple stands." : n === 0 ? "Raise today's temple." : `${5 - n} ${5 - n === 1 ? "pillar" : "pillars"} left to raise.`;
-  const nx = items.find(x => !x.done);
-  const recall = dueLessons()[0], rl = recall && lessonById(recall);
-  const dw = dueWords().length;
-  const extra = (rl ? `<section class="recall-card"><span class="eyebrow">Also today · Quick recall</span><h3>You learned about ${esc(rl.title)} ${ago(state.lessons[recall].learnedAt)}.</h3><p class="muted">Still remember it? One question, 20 seconds.</p><button class="btn good" data-act="recall">Test my memory</button></section>` : "")
-    + (dw ? `<button class="grow" data-act="review-words"><span class="gi" style="background:var(--p-remember-soft);color:var(--p-remember)">${ICON.repeat}</span><span class="gt"><strong>Review your words</strong><small>${plural(dw, "word")} ready to refresh</small></span><span class="gr-best">${dw}</span></button>` : "");
+  const title = n === 5 ? "The temple stands" : n === 0 ? "Raise today's temple" : `${5 - n} ${5 - n === 1 ? "pillar" : "pillars"} left to raise`;
   return header() + `
   <section class="dayhead">
     <span class="eyebrow" style="color:var(--gold)">Naos · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:0">ναός</span></span>
     <h1>${title}</h1>
   </section>
   <section class="temple-wrap">${templeSVG(items)}</section>
-  ${nx ? `<span class="eyebrow" style="padding:0 2px">Next to raise</span>
-  <button class="trial pillarcard" style="--pc:var(--p-${nx.p})" data-act="${nx.act}" ${nx.id ? `data-id="${nx.id}"` : ""}>
-    <span class="trial-top"><span class="trial-ic">${ICON[nx.icon]}</span><span class="eyebrow">${esc(nx.gk)} · <span class="gr">${nx.gr}</span></span></span>
-    <strong>${esc(nx.name)}</strong>
-    <span class="trial-foot"><span class="dcard-cta">${esc(nx.tag)}</span><span class="gtile-badge">${esc(nx.meta)}</span></span></button>`
-  : `<div class="donebar">${ICON.check}All five raised. ${plural(liveStreak(), "day")} streak. Rest well.</div>`}
-  ${extra}`;
+  ${reviewCompact()}`;
 }
 
 /* ---------- Learn ---------- */
 /* ---------- Library: everything, for self-directed learning ---------- */
 const foldOpen = {};
 document.addEventListener("toggle", e => { const f = e.target; if (f.classList && f.classList.contains("fold") && f.dataset.fold) foldOpen[f.dataset.fold] = f.open; }, true);
-const fold = (id, title, meta, body) => `<details class="fold" data-fold="${id}" ${foldOpen[id] ? "open" : ""}><summary><span class="fold-t"><h2>${title}</h2>${meta ? `<span class="muted num">${meta}</span>` : ""}</span><span class="fold-pm" aria-hidden="true"></span></summary>${body}</details>`;
+const fold = (id, title, meta, body, cls) => `<details class="fold ${cls || ""}" data-fold="${id}" ${foldOpen[id] ? "open" : ""}><summary><span class="fold-t"><h2>${title}</h2>${meta ? `<span class="muted num">${meta}</span>` : ""}</span><span class="fold-pm" aria-hidden="true"></span></summary>${body}</details>`;
 let libPillar = null, libArea = null, libSubject = null;
 const PILLAR_BY = k => PILLAR5.find(x => x.p === k);
 function groupedLessons(pool) {
   const f = pool.filter(l => learnLevel === "all" || l.level === learnLevel);
   const cats = [...new Set(f.map(l => l.cat))].sort((a, b) => (WB.CATEGORIES[a]?.name || a).localeCompare(WB.CATEGORIES[b]?.name || b));
   const lvl = `<div class="seg" role="group" aria-label="Level">${[["all", "All"], ...Object.entries(LEVELS).map(([k, v]) => [k, v.name])].map(([k, n]) => `<button data-act="learn-level" data-id="${k}" aria-pressed="${learnLevel === k}">${n}</button>`).join("")}</div>`;
-  return lvl + (cats.length ? cats.map(c => { const ls = f.filter(l => l.cat === c).sort((a, b) => LEVELS[a.level].n - LEVELS[b.level].n); const cc = WB.CATEGORIES[c] || catOf({ cat: c });
-    return `<div class="grouph" style="--t:${cc.color}"><h3><i></i>${cc.name}</h3><span class="muted small num">${ls.filter(l => state.lessons[l.id]).length}/${ls.length} done</span></div><div class="list">${ls.map(l => lessonRow(l)).join("")}</div>`; }).join("")
-    : `<div class="panel empty"><p>No lessons at this level yet.</p></div>`);
+  if (!cats.length) return lvl + `<div class="panel empty"><p>No lessons at this level yet.</p></div>`;
+  const sorted = c => f.filter(l => l.cat === c).sort((a, b) => LEVELS[a.level].n - LEVELS[b.level].n);
+  // one topic on its own: just list its lessons
+  if (cats.length === 1) return lvl + `<div class="list">${sorted(cats[0]).map(l => lessonRow(l)).join("")}</div>`;
+  return lvl + `<div class="acc">${cats.map(c => { const ls = sorted(c), cc = WB.CATEGORIES[c] || catOf({ cat: c });
+    return topicAcc("grp:" + learnLevel + ":" + c, cc.name, "", cc.color, ls.filter(l => state.lessons[l.id]).length, ls.length, ls); }).join("")}</div>`;
 }
+/* Expandable topic: tap to drop down its lessons */
+const accOpen = {};
+function topicLessons(key) {
+  const [kind, a, b] = key.split(":");
+  if (kind === "cat") return lessons().filter(l => l.cat === a).sort((x, y) => LEVELS[x.level].n - LEVELS[y.level].n);
+  if (kind === "col") return ((WB.COLLECTIONS.find(c => c.id === a) || { ids: [] }).ids).map(lessonById).filter(Boolean);
+  if (kind === "grp") { const pool = libPillar === "practical" ? lessons().filter(isPractical) : lessons().filter(l => !isPractical(l));
+    return pool.filter(l => l.cat === b && (a === "all" || l.level === a)).sort((x, y) => LEVELS[x.level].n - LEVELS[y.level].n); }
+  return [];
+}
+function topicAcc(key, name, tag, color, done, total, ls) {
+  const open = !!accOpen[key];
+  return `<details class="topic" style="--t:${color}" data-acc="${esc(key)}" ${open ? "open" : ""}><summary>
+    <span class="tt"><strong>${esc(name)}</strong>${tag ? `<small>${esc(tag)}</small>` : ""}</span><span class="tc">${done}/${total}</span>${ICON.chev.replace("<svg", '<svg class="chev"')}</summary>
+    <div class="list">${open ? (ls || topicLessons(key)).map(l => lessonRow(l)).join("") : ""}</div></details>`;
+}
+document.addEventListener("toggle", e => {
+  const d = e.target; if (!d.dataset || !d.dataset.acc) return;
+  accOpen[d.dataset.acc] = d.open;
+  const list = d.querySelector(".list");
+  if (d.open && list && !list.children.length) list.innerHTML = topicLessons(d.dataset.acc).map(l => lessonRow(l)).join("");
+}, true);
 function quoteRow(x) {
   return `<button class="qrow" data-act="quote-sheet" data-id="${x.i}"><q>${esc(x.q)}</q><span><b>${esc(x.a)}</b>${state.quotes[x.id] ? "<em>Learned</em>" : ""}</span></button>`;
 }
@@ -1684,11 +1758,14 @@ function renderLibrary() {
       <section class="panel"><div class="section-head"><h2>Learn This</h2><span class="muted small">Any word, any time</span></div>
         <form class="lookup" data-form="lookup"><input class="input" id="lookup" name="q" placeholder="e.g. What does ubiquitous mean?" autocomplete="off" value="${esc(lookupState?.q || "")}"><button class="btn sm" type="submit">${ICON.search}Look up</button></form>
         <div id="lookup-out">${renderLookup()}</div></section>
+      ${fold("master", "Words - How do you 'master' them?", "", `<div class="stack"><p class="muted">A word is mastered when you get it right in three spaced reviews in a row.</p>
+        <div class="lines"><div><span>1 · Learn it</span><b>day 0</b></div><div><span>2 · First review</span><b>1 day later</b></div><div><span>3 · Second review</span><b>3 days later</b></div><div><span>4 · Third review</span><b>7 days later · mastered</b></div></div>
+        <p class="muted small">Reviews come to you on the Temple when they're due. Miss one and the word starts again from day 1. Miss a word twice and it's marked tricky, so you can practise it on its own.</p></div>`)}
       ${fold("words", "All words", plural(list.length, "word"), `<p class="muted small" style="margin-bottom:8px">Tap any word to learn it or add it to your collection.</p><div class="list">${list.map(wordRow).join("")}</div>`)}`;
     }
     if (libPillar === "expression") {
       const Q = quotePool().sort((a, b) => a.a.localeCompare(b.a));
-      return header() + head + `<p class="muted small">${plural(Q.length, "quote")} · ${Q.filter(x => state.quotes[x.id]).length} learned. Tap one to read what it means.</p><div class="list">${Q.map(quoteRow).join("")}</div>`;
+      return header() + head + `<p class="muted small">${plural(Q.length, "quote")} · ${Q.filter(x => state.quotes[x.id]).length} learned</p><div class="list">${Q.map(quoteRow).join("")}</div>`;
     }
     if (libPillar === "cognition") {
       const g = activeActs().filter(a => a.pillar === "think"), t = activeActs().filter(a => a.pillar === "test");
@@ -1707,13 +1784,12 @@ function renderLibrary() {
       <span class="plinth-a"></span><span class="plinth-b"></span></div></section>
   ${(() => { const cur = SUBJ().filter(x => { const pr = subjectProgress(x); return pr.done > 0 && !pr.mastered; }).sort((a, b) => subjectProgress(b).done / subjectProgress(b).total - subjectProgress(a).done / subjectProgress(a).total).slice(0, 3);
     return cur.length ? `<section class="stack"><div class="section-head"><h2>Continue</h2></div><div class="list">${cur.map(subjRow).join("")}</div></section>` : ""; })()}
-  ${fold("compendium", "Compendium", plural(SUBJ().length, "course"), `<div class="areas">${WB.AREAS.filter(a => SUBJ().some(x => x.area === a.id)).map(a => { const xs = SUBJ().filter(x => x.area === a.id); return `<button class="area" data-act="area" data-id="${a.id}"><strong>${esc(a.name)}</strong><small>${plural(xs.length, "subject")}</small></button>`; }).join("")}</div>`)}
-  <details class="fold" data-fold="topics" ${foldOpen.topics ? "open" : ""}><summary><span class="fold-t"><h2>By topic</h2><span class="muted num">${all.filter(l => state.lessons[l.id]).length}/${all.length} done</span></span><span class="fold-pm" aria-hidden="true"></span></summary>
-    <div class="cats">${[
-      ...cats.map(c => ({ name: WB.CATEGORIES[c.key].name, html: `<button class="cat" style="--t:${WB.CATEGORIES[c.key].color}" data-act="learn-cat" data-id="${c.key}"><span class="cat-top"><strong><i></i>${WB.CATEGORIES[c.key].name}</strong><small>${c.learned}/${c.total}</small></span><span class="cat-tag">${WB.CATEGORIES[c.key].tag || ""}</span><span class="mini" style="--t:${WB.CATEGORIES[c.key].color}"><i style="width:${c.pct}%"></i></span></button>` })),
+  ${fold("compendium", "Compendium", "", `<div class="areas">${WB.AREAS.filter(a => SUBJ().some(x => x.area === a.id)).map(a => { const xs = SUBJ().filter(x => x.area === a.id); return `<button class="area" data-act="area" data-id="${a.id}"><strong>${esc(a.name)}</strong><small>${plural(xs.length, "subject")}</small></button>`; }).join("")}</div>`, "center")}
+  ${fold("topics", "By topic", "", `<div class="acc">${[
+      ...cats.map(c => { const t = WB.CATEGORIES[c.key]; return { name: t.name, html: topicAcc("cat:" + c.key, t.name, t.tag, t.color, c.learned, c.total) }; }),
       ...WB.COLLECTIONS.filter(c => !Object.values(WB.CATEGORIES).some(t => t.name === c.title)).map(c => { const ls = c.ids.map(lessonById).filter(Boolean), dn = ls.filter(l => state.lessons[l.id]).length;
-        return { name: c.title, html: `<button class="cat" style="--t:var(--accent)" data-act="collection" data-id="${c.id}"><span class="cat-top"><strong><i></i>${c.title}</strong><small>${dn}/${ls.length}</small></span><span class="cat-tag">${c.desc}</span><span class="mini" style="--t:var(--accent)"><i style="width:${ls.length ? 100 * dn / ls.length : 0}%"></i></span></button>` }; }),
-    ].sort((a, b) => a.name.localeCompare(b.name)).map(x => x.html).join("")}</div></details>
+        return { name: c.title, html: topicAcc("col:" + c.id, c.title, c.desc, "var(--accent)", dn, ls.length) }; }),
+    ].sort((a, b) => a.name.localeCompare(b.name)).map(x => x.html).join("")}</div>`, "center")}
   <button class="btn ghost block" data-act="random">${ICON.dice}Surprise me with a lesson</button>
   ${innerDoor()}`;
 }
@@ -1731,25 +1807,24 @@ function upcoming(days) {
   const ds = [...Object.keys(state.lessons).filter(lessonById).map(id => state.lessons[id].due), ...Object.keys(state.words).filter(entry).map(w => state.words[w].due)];
   return ds.filter(d => d > t && d <= end).length;
 }
-function renderReview() {
+/* Compact Review on the Temple: everything due for spaced repetition, in one card */
+function reviewCompact() {
   const dl = dueLessons(), dw = dueWords(), strug = Object.keys(state.words).filter(w => entry(w) && struggling(w)), lq = learnedQuotes();
-  const due = dl.length + dw.length, ms = memoryStrength(), done = day().review;
+  const due = dl.length + dw.length, ms = memoryStrength();
   const waiting = allDueLessons().length + allDueWords().length - due, capped = reviewsLeft() === 0 && (day().reviewed || 0) > 0;
-  const row = (act, id, icon, title, sub, n, col) => `<button class="grow" data-act="${act}" ${id ? `data-id="${id}"` : ""}><span class="gi" style="background:var(--p-${col}-soft);color:var(--p-${col})">${ICON[icon]}</span><span class="gt"><strong>${title}</strong><small>${sub}</small></span><span class="gr-best">${n}</span></button>`;
-  return header() + `
-  <section class="pagehead"><span class="eyebrow" style="color:var(--p-remember)">Mnemosyne · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:0">μνημοσύνη</span></span><h1>Review</h1><p>Up to ${REVIEW_CAP} a day. Things come back just before you'd forget them.</p></section>
-  ${ms ? `<section class="panel mem"><div class="section-head"><h2>Memory strength</h2><span class="num mem-pct">${ms.pct}%</span></div>
-    <span class="bar"><i style="width:${ms.pct}%;background:var(--p-remember)"></i></span>
-    <p class="muted small">${plural(ms.n, "thing")} in memory · ${upcoming(1)} due tomorrow · ${upcoming(7)} this week</p></section>` : ""}
-  ${due ? `<button class="review-hero" data-act="review-all"><span class="gt"><span class="eyebrow">${done ? "More due" : "Today's review"}</span><strong>${plural(due, "thing")} to refresh</strong><small>About ${Math.max(1, Math.round(due * 0.4))} min${waiting > 0 ? ` · ${waiting} more wait for tomorrow` : ""}</small></span><span class="btn sm">Start</span></button>`
-    : capped ? `<div class="panel empty"><h3>Today's ${REVIEW_CAP} reviews are done.</h3><p class="muted">That's enough for one day.${waiting > 0 ? ` ${plural(waiting, "thing")} will be waiting tomorrow.` : ""}</p></div>`
-    : `<div class="panel empty"><h3>${ms ? "You're all caught up." : "Nothing to review yet."}</h3><p class="muted">${ms ? "Nothing is due right now. Come back tomorrow, or learn something new." : "Finish a lesson or learn a word and it will come back here to be refreshed."}</p><button class="btn ghost sm" data-act="tab" data-id="library">Go to the Library</button></div>`}
-  ${due || strug.length || lq.length >= 2 ? `<section class="stack"><div class="section-head"><h2>By type</h2></div><div class="list">
-    ${dl.length ? row("recall", "", "book", "Lessons", "One question from each", dl.length, "learn") : ""}
-    ${dw.length ? row("review-words", "", "speaker", "Words", "Hear it, then fit the sentence", dw.length, "remember") : ""}
-    ${strug.length ? row("practice", "struggling", "alert", "Tricky words", "The ones you keep missing", strug.length, "test") : ""}
-    ${lq.length >= 2 ? row("quote-review", "", "pen", "Quotes", "Who said it?", lq.length, "expression") : ""}
-  </div></section>` : ""}`;
+  const sub = due ? `About ${Math.max(1, Math.round(due * 0.4))} min${waiting > 0 ? ` · ${waiting} more tomorrow` : ""}`
+    : capped ? `Today's ${REVIEW_CAP} are done${waiting > 0 ? ` · ${waiting} wait for tomorrow` : ""}`
+    : ms ? "Nothing due right now" : "Finish a lesson or learn a word to start";
+  const chip = (act, id, label, n) => `<button class="rv-chip" data-act="${act}" ${id ? `data-id="${id}"` : ""}>${label} <b>${n}</b></button>`;
+  const chips = [dl.length ? chip("recall", "", "Lessons", dl.length) : "", dw.length ? chip("review-words", "", "Words", dw.length) : "",
+    strug.length ? chip("practice", "struggling", "Tricky words", strug.length) : "", lq.length >= 2 ? chip("quote-review", "", "Quotes", lq.length) : ""].join("");
+  return `<section class="rv" aria-label="Review">
+    <div class="rv-top"><span class="gt"><span class="eyebrow">Review · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:13px;letter-spacing:0">μνημοσύνη</span></span>
+      <strong>${due ? `${plural(due, "thing")} to refresh` : capped ? "Done for today" : "All caught up"}</strong><small>${sub}</small></span>
+      ${due ? `<button class="btn sm" data-act="review-all">Start</button>` : ""}</div>
+    ${ms ? `<div class="rv-mem"><span>Memory</span><span class="bar"><i style="width:${ms.pct}%;background:var(--p-remember)"></i></span><span class="num">${ms.pct}%</span></div>` : ""}
+    ${chips ? `<div class="rv-chips">${chips}</div>` : ""}
+  </section>`;
 }
 function startFullReview() {
   const ls = dueLessons().map(id => { const l = lessonById(id); return { t: "q", q: qLesson(l, rand(l.quiz.length), `You learned about <b>${esc(l.title)}</b> ${ago(state.lessons[id].learnedAt)}.`) }; });
@@ -1764,6 +1839,20 @@ function startQuoteReview() {
     return { t: "q", head: `Quotes · ${i + 1} of ${pool.length}`, q: { prompt: `“${esc(r.q)}”`, sub: "Who said it?", options: ao.map(esc), answer: ao.indexOf(r.a), explain: esc(`${r.a}: ${r.w}.`) } }; });
   start({ mode: "memory", total: steps.length, steps: [...steps, { t: "summary" }] });
 }
+
+/* ---------- Wisebyte Scroll: the full Scroll app, embedded as its own page ----------
+   The feed lives in scroll/index.html (+ scroll/more.js) and runs in a frame that is
+   created once and kept alive, so the feed keeps its place when you switch tabs. */
+function showScrollTab(on) {
+  const host = $("#scrollHost");
+  document.body.classList.toggle("on-scroll", on);
+  if (on) {
+    document.documentElement.style.setProperty("--tabs-h", $(".tabs").offsetHeight + "px");
+    if (!host.firstChild) host.innerHTML = `<iframe src="scroll/index.html" title="Wisebyte Scroll"></iframe>`;
+  }
+  host.hidden = !on;
+}
+window.addEventListener("resize", () => { if (tab === "scroll") document.documentElement.style.setProperty("--tabs-h", $(".tabs").offsetHeight + "px"); });
 
 /* ---------- The Inner Circle (Adyton): unlocked at 100% ---------- */
 /* The Inner Circle opens once every achievement is unlocked. */
@@ -1898,16 +1987,18 @@ function renderMe() {
 }
 
 function render() {
-  $("#app").innerHTML = ({ today: renderToday, library: renderLibrary, review: renderReview, inner: renderInner, arena: renderArena, me: renderMe })[tab]();
-  const due = dueWords().length + dueLessons().length;
+  if (tab === "review") tab = "today";   // the old Review tab now lives on the Temple
+  $("#app").innerHTML = tab === "scroll" ? "" : ({ today: renderToday, library: renderLibrary, inner: renderInner, arena: renderArena, me: renderMe })[tab]();
   if (PILLARS[tab]) document.body.dataset.pillar = tab; else delete document.body.dataset.pillar;
-  $("#tabs").innerHTML = TABS.map(([k, n, ic]) => `<button class="tab" role="tab" data-act="tab" data-id="${k}" aria-selected="${tab === k}" ${PILLARS[k] ? `style="--pc:var(--p-${k})"` : ""}>${ICON[ic]}${n}${k === "review" && due ? `<span class="count">${due}</span>` : ""}</button>`).join("");
+  $("#tabs").innerHTML = TABS.map(([k, n, ic]) => `<button class="tab ${n.length > 10 ? "two-line" : ""}" role="tab" data-act="tab" data-id="${k}" aria-selected="${tab === k}" ${PILLARS[k] ? `style="--pc:var(--p-${k})"` : ""}>${ICON[ic]}${n}</button>`).join("");
+  showScrollTab(tab === "scroll");
 }
 
 /* ============ 7. PLAYER ============ */
 let P = null;
 function start(p) {
   P = Object.assign({ i: 0, answered: null, score: 0, t0: Date.now(), drawn: -1 }, p);
+  P.pillarsBefore = new Set(pillarItems().filter(x => x.done).map(x => x.p));   // to spot a pillar this session completes
   $("#player").hidden = false; document.body.style.overflow = "hidden";
   if (P.timed) { P.endAt = Date.now() + P.timed * 1000; P.timer = setInterval(tick, 250); }
   enter(); drawPlayer();
@@ -1925,6 +2016,32 @@ function tick() {
   if (bar) bar.style.width = (100 * left / (P.timed * 1000)) + "%";
   if (lbl) lbl.textContent = Math.ceil(left / 1000) + "s";
   if (left <= 0 && P.steps[P.i].t === "q") { clearInterval(P.timer); P.timer = null; if (P.answered === null) P.steps.splice(P.i, 1); P.steps.push({ t: "summary" }); P.i = P.steps.length - 1; P.answered = null; enter(); drawPlayer(); }
+}
+
+/* --- Next pillar prompt: shown after every completed pillar, in order
+   Knowledge → Vocabulary → Practical → Expression → Cognition (skipping raised ones, wrapping round) --- */
+function raisedThisSession() { return P && P.pillarsBefore ? pillarItems().filter(x => x.done && !P.pillarsBefore.has(x.p)).map(x => x.p) : []; }
+function nextPillarAfter(p, items) {
+  const i = PILLAR5.findIndex(x => x.p === p);
+  for (let k = 1; k <= PILLAR5.length; k++) { const x = items.find(y => y.p === PILLAR5[(i + k) % PILLAR5.length].p); if (x && !x.done) return x; }
+  return null;
+}
+function templeFinish() {
+  const items = pillarItems(), n = items.filter(x => x.done).length, nx = nextPillarAfter(raisedThisSession()[0], items);
+  const banner = nx
+    ? `<div class="temple-next" style="--c:var(--p-${nx.p})"><span class="eyebrow">Pillar raised · ${n} of 5</span><strong>Next: ${esc(nx.name)} <span class="gr">${esc(nx.gk)} · ${nx.gr}</span></strong><small>${esc(nx.tag)} · ${esc(nx.meta)}</small></div>`
+    : `<div class="temple-next done"><span class="eyebrow">5 of 5</span><strong>The temple stands</strong><small>All five pillars raised today.</small></div>`;
+  const foot = nx
+    ? `<div class="btn-row"><button class="btn ghost" data-act="close">Temple</button><button class="btn" style="flex:2" data-act="pillar-next" data-id="${nx.p}">Next: ${esc(nx.name)}${ICON.chev}</button></div>`
+    : `<button class="btn block" data-act="close">See your temple</button>`;
+  return { banner, foot };
+}
+function startPillar(p) {
+  const x = pillarItems().find(i => i.p === p); if (!x) return;
+  if (x.act === "lesson") startLesson(x.id);
+  else if (x.act === "wotd") startWord(wordOfDay().w, true);
+  else if (x.act === "quote") startQuote();
+  else if (x.act === "challenge") startChallenge(x.id);
 }
 
 /* --- starting sessions --- */
@@ -2275,6 +2392,9 @@ function drawPlayer() {
     if (P.mode === "mastery" && P.passed) card = card.replace('<div class="reward">', `<div class="reward"><span class="mastered-badge" style="align-self:stretch;justify-content:center">${ICON.laurel}${esc(P.subject.title)} mastered</span>`);
     foot = P.mode === "mastery" ? `<div class="btn-row"><button class="btn ghost" data-act="close">Done</button><button class="btn" data-act="subject" data-id="${P.subject.id}">Back to subject</button></div>` : P.mode === "challenge" ? `<div class="btn-row"><button class="btn ghost" data-act="close">Done</button><button class="btn" data-act="challenge" data-id="${P.c.id}">Play again</button></div>` : `<button class="btn block" data-act="close">Done</button>`;
   }
+  if ((s.t === "l-reward" || s.t === "w-reward" || s.t === "summary") && raisedThisSession().length) {
+    const t = templeFinish(); foot = t.foot; card = card.replace(/<\/div><\/div>\s*$/, t.banner + "</div></div>");
+  }
   const anim = P.drawn !== P.i; P.drawn = P.i;
   if (anim) card = card.replace(/class="card/, 'class="card enter');
   const qs = P.steps.length;
@@ -2424,7 +2544,7 @@ function disclaimerFor(l) {
   return "";
 }
 function settingsPanel() {
-  return `<section class="panel"><div class="section-head"><h2>Settings</h2></div><div class="set-list">
+  return accountPanel() + `<section class="panel"><div class="section-head"><h2>Settings</h2></div><div class="set-list">
     <button class="set-row" data-act="${WBStore.mode !== "preview" && WBStore.entitled() ? "manage-sub" : "paywall"}"><span>Subscription<small>${esc(WBStore.status())}</small></span><span class="val">${WBStore.mode !== "preview" && WBStore.entitled() ? "Manage" : "Plans"}</span></button>
     <button class="set-row" data-act="about"><span>About, privacy and terms<small>Disclaimers, contact and support</small></span>${ICON.chev.replace("<svg", '<svg width="18" height="18" style="color:var(--ink-2);flex:none"')}</button>
   </div></section>`;
@@ -2435,7 +2555,7 @@ function aboutSheet() {
     <div class="set-list">
       <button class="set-row" data-act="restore"><span>Restore purchases<small>Already subscribed on this account?</small></span></button>
       <button class="set-row" data-act="manage-sub"><span>Manage subscription<small>Change or cancel in your App Store account settings</small></span></button>
-      <button class="set-row" data-act="open-doc" data-id="${APP.privacyUrl}"><span>Privacy Policy<small>We don't collect your personal data</small></span></button>
+      <button class="set-row" data-act="open-doc" data-id="${APP.privacyUrl}"><span>Privacy Policy<small>How Wisebyte handles your data</small></span></button>
       <button class="set-row" data-act="open-doc" data-id="${APP.termsUrl}"><span>Terms of Use</span></button>
       <button class="set-row" data-act="open-doc" data-id="mailto:${APP.email}?subject=Wisebyte%20support"><span>Contact support<small>${esc(APP.email)}</small></span></button>
       <button class="set-row" data-act="reset-sheet"><span style="color:var(--bad)">Reset all progress</span></button>
@@ -2448,6 +2568,142 @@ function resetSheet() {
   openSheet(`<section class="stack" style="text-align:center"><h2>Reset all progress?</h2><p class="muted">This deletes your streak, XP, lessons, words and achievements on this device. It can't be undone. Your subscription isn't affected.</p>
     <button class="btn danger block" data-act="reset-confirm">Yes, reset everything</button><button class="btn ghost block" data-act="sheet-close">Cancel</button></section>`);
 }
+
+/* ============ 9c. ACCOUNTS (sign up / sign in) ============
+   Accounts run on Supabase Auth (the same service Roster Board uses). Passwords never touch
+   this app's storage: Supabase hashes them (bcrypt) and hands back short-lived session tokens
+   over HTTPS. Email is confirmed with a 6-digit code, and passwords are reset the same way,
+   so everything happens inside the app with no web links to open.
+   Fill in the two values below from Supabase → Project Settings → API (the anon key is
+   designed to be public; never put the service_role key in the app). */
+const AUTH_CONFIG = {
+  url: "",        // e.g. "https://abcdefghijklm.supabase.co"
+  anonKey: "",    // the project's anon / publishable key
+};
+const AUTH_KEY = "wb-auth";
+const Auth = {
+  session: null,
+  configured: () => !!(AUTH_CONFIG.url && AUTH_CONFIG.anonKey),
+  user: () => Auth.session && Auth.session.user,
+  async load() {
+    let raw = null;
+    try { const Pr = nativePlugin("Preferences"); if (Pr) raw = (await Pr.get({ key: AUTH_KEY })).value; } catch (e) {}
+    if (raw == null) try { raw = localStorage.getItem(AUTH_KEY); } catch (e) {}
+    try { Auth.session = raw ? JSON.parse(raw) : null; } catch (e) { Auth.session = null; }
+    if (Auth.session && Auth.configured()) { try { await Auth.fresh(); } catch (e) { if (e.status === 400 || e.status === 401) Auth.set(null); } }
+    if (tab === "me") render();
+  },
+  set(s) {
+    Auth.session = s ? { access_token: s.access_token, refresh_token: s.refresh_token, expires_at: s.expires_at || Math.floor(Date.now() / 1000) + (s.expires_in || 3600), user: { id: s.user.id, email: s.user.email } } : null;
+    const raw = Auth.session ? JSON.stringify(Auth.session) : null;
+    try { const Pr = nativePlugin("Preferences"); if (Pr) (raw ? Pr.set({ key: AUTH_KEY, value: raw }) : Pr.remove({ key: AUTH_KEY })).catch(() => {}); } catch (e) {}
+    try { raw ? localStorage.setItem(AUTH_KEY, raw) : localStorage.removeItem(AUTH_KEY); } catch (e) {}
+  },
+  async call(path, { method = "POST", body, token, base = "/auth/v1" } = {}) {
+    if (!Auth.configured()) { const e = new Error("Accounts aren't switched on yet. Please try again in a later update."); e.status = 0; throw e; }
+    let r;
+    try {
+      r = await fetch(AUTH_CONFIG.url.replace(/\/+$/, "") + base + path, { method, headers: { apikey: AUTH_CONFIG.anonKey, Authorization: "Bearer " + (token || AUTH_CONFIG.anonKey), "Content-Type": "application/json" }, body: body ? JSON.stringify(body) : undefined });
+    } catch (e) { const er = new Error("Couldn't connect. Check your internet and try again."); er.status = 0; throw er; }
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok) { const er = new Error(Auth.friendly(j, r.status)); er.status = r.status; er.code = j.error_code || j.code; throw er; }
+    return j;
+  },
+  friendly(j, status) {
+    const m = String(j.error_description || j.msg || j.message || j.error || "").toLowerCase();
+    if (status === 429 || m.includes("rate limit")) return "Too many attempts. Wait a minute, then try again.";
+    if (m.includes("invalid login")) return "That email and password don't match.";
+    if (m.includes("not confirmed")) return "Please confirm your email first. We can send you a new code.";
+    if (m.includes("already registered") || m.includes("already been registered")) return "There's already an account with that email. Try signing in.";
+    if (m.includes("expired") || m.includes("invalid") && m.includes("token")) return "That code is wrong or has expired. Request a new one.";
+    if (m.includes("password") && (m.includes("weak") || m.includes("characters") || m.includes("pwned") || m.includes("leaked"))) return "Please choose a stronger password: at least 8 characters, with letters and numbers, and not one that's been leaked online.";
+    if (m.includes("same") && m.includes("password")) return "Your new password must be different from your old one.";
+    if (m.includes("email") && m.includes("invalid")) return "Please check the email address.";
+    return "Something went wrong. Please try again.";
+  },
+  async fresh() {
+    const s = Auth.session; if (!s) return null;
+    if (s.expires_at - Date.now() / 1000 > 60) return s.access_token;
+    Auth.set(await Auth.call("/token?grant_type=refresh_token", { body: { refresh_token: s.refresh_token } }));
+    return Auth.session.access_token;
+  },
+  async signUp(email, password) {
+    const j = await Auth.call("/signup", { body: { email, password } });
+    if (j.access_token) { Auth.set(j); return { signedIn: true }; }   // only when email confirmation is turned off
+    return { signedIn: false };
+  },
+  async verify(email, token, type) { const j = await Auth.call("/verify", { body: { email, token, type } }); Auth.set(j); return j; },
+  async signIn(email, password) { Auth.set(await Auth.call("/token?grant_type=password", { body: { email, password } })); },
+  resend: email => Auth.call("/resend", { body: { type: "signup", email } }),
+  recover: email => Auth.call("/recover", { body: { email } }),
+  async setPassword(password) { await Auth.call("/user", { method: "PUT", body: { password }, token: await Auth.fresh() }); },
+  async signOut() { try { const t = await Auth.fresh(); if (t) await Auth.call("/logout", { token: t }); } catch (e) {} Auth.set(null); },
+  async deleteAccount() { await Auth.call("/delete-account", { base: "/functions/v1", token: await Auth.fresh() }); Auth.set(null); },
+};
+const validEmail = e => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(e);
+const passProblem = p => p.length < 8 ? "Use at least 8 characters." : !/[A-Za-z]/.test(p) || !/\d/.test(p) ? "Use a mix of letters and numbers." : "";
+let authEmail = "";
+function accountPanel() {
+  const u = Auth.user();
+  if (u) return `<section class="panel"><div class="section-head"><h2>Account</h2></div>
+    <div class="acct-row"><span class="av">${esc((u.email || "?")[0].toUpperCase())}</span><span class="gt"><strong>${esc(u.email)}</strong><small class="muted">Signed in</small></span></div>
+    <div class="set-list">
+      <button class="set-row" data-act="auth" data-id="change"><span>Change password</span></button>
+      <button class="set-row" data-act="auth-signout"><span>Sign out</span></button>
+      <button class="set-row" data-act="auth-delete"><span style="color:var(--bad)">Delete account</span></button>
+    </div></section>`;
+  return `<section class="panel"><div class="section-head"><h2>Account</h2></div>
+    <p class="muted small">Create a free Wisebyte account with your email. Your progress still saves on this device either way.</p>
+    <div class="btn-row"><button class="btn" data-act="auth" data-id="signup">Create account</button><button class="btn ghost" data-act="auth" data-id="signin">Sign in</button></div></section>`;
+}
+function authSheet(mode, note, isErr) {
+  const em = esc(authEmail), msg = note ? `<p class="${isErr ? "err" : "ok"}" role="${isErr ? "alert" : "status"}">${esc(note)}</p>` : "";
+  const email = `<label>Email<input class="input" name="email" type="email" autocomplete="email" inputmode="email" autocapitalize="none" spellcheck="false" required value="${em}"></label>`;
+  const pw = (name, label, ac) => `<label>${label}<input class="input" name="${name}" type="password" autocomplete="${ac}" minlength="8" required></label>`;
+  const code = `<label>6-digit code<input class="input num" name="code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6,10}" maxlength="10" required></label>`;
+  const V = {
+    signup: ["Create your account", `${email}${pw("password", "Password", "new-password")}${pw("confirm", "Confirm password", "new-password")}
+      <p class="muted small">At least 8 characters, with letters and numbers. By creating an account you agree to the <button type="button" class="link" data-act="open-doc" data-id="${APP.termsUrl}">Terms of Use</button> and <button type="button" class="link" data-act="open-doc" data-id="${APP.privacyUrl}">Privacy Policy</button>.</p>`,
+      "Create account", `<button type="button" class="swap" data-act="auth" data-id="signin">Already have an account? Sign in</button>`],
+    verify: ["Confirm your email", `<p class="muted">We sent a code to <b>${em}</b>. Enter it below. It can take a minute to arrive, so check your junk folder too.</p>${code}`,
+      "Confirm", `<button type="button" class="swap" data-act="auth-resend">Send a new code</button>`],
+    signin: ["Sign in", `${email}${pw("password", "Password", "current-password")}`,
+      "Sign in", `<button type="button" class="swap" data-act="auth" data-id="forgot">Forgot your password?</button><button type="button" class="swap" data-act="auth" data-id="signup">New here? Create an account</button>`],
+    forgot: ["Reset your password", `<p class="muted">Enter your email and we'll send you a code to set a new password.</p>${email}`, "Send code", ""],
+    reset: ["Set a new password", `<p class="muted">If there's an account for <b>${em}</b>, we've sent it a code.</p>${code}${pw("password", "New password", "new-password")}${pw("confirm", "Confirm new password", "new-password")}`, "Save password", ""],
+    change: ["Change password", `${pw("password", "New password", "new-password")}${pw("confirm", "Confirm new password", "new-password")}`, "Save password", ""],
+  }[mode];
+  openSheet(`<form class="auth" data-form="auth" data-mode="${mode}" novalidate><h2>${V[0]}</h2>${msg}${V[1]}
+    <button class="btn block" type="submit">${V[2]}</button>${V[3]}<button type="button" class="btn ghost block" data-act="sheet-close">Cancel</button></form>`);
+  const f = $("#sheet input"); if (f) setTimeout(() => f.focus(), 60);
+}
+function authDeleteSheet() {
+  openSheet(`<section class="stack" style="text-align:center"><h2>Delete your account?</h2>
+    <p class="muted">This permanently deletes your Wisebyte account and the email address linked to it. It can't be undone. Your progress on this device stays, and your subscription isn't affected (cancel it in your App Store account if you want to).</p>
+    <button class="btn danger block" data-act="auth-delete-confirm">Delete my account</button><button class="btn ghost block" data-act="sheet-close">Cancel</button></section>`);
+}
+async function authSubmit(form) {
+  const mode = form.dataset.mode, v = n => (form.elements[n] ? form.elements[n].value : "").trim();
+  const btn = form.querySelector('[type="submit"]'), label = btn.textContent;
+  const fail = m => authSheet(mode, m, true);
+  if (form.elements.email) { authEmail = v("email").toLowerCase(); if (!validEmail(authEmail)) return fail("Please enter a valid email address."); }
+  if (form.elements.confirm) { const p = form.elements.password.value; const bad = passProblem(p); if (bad) return fail(bad); if (p !== form.elements.confirm.value) return fail("The passwords don't match."); }
+  if (mode === "signin" && !form.elements.password.value) return fail("Please enter your password.");
+  if (form.elements.code && !/^\d{6,10}$/.test(v("code"))) return fail("Enter the code from the email.");
+  btn.disabled = true; btn.textContent = "Please wait…";
+  try {
+    if (mode === "signup") { const r = await Auth.signUp(authEmail, form.elements.password.value); if (r.signedIn) return authDone("Account created. You're signed in."); return authSheet("verify"); }
+    if (mode === "verify") { await Auth.verify(authEmail, v("code"), "email"); return authDone("Email confirmed. You're signed in."); }
+    if (mode === "signin") { await Auth.signIn(authEmail, form.elements.password.value); return authDone("Signed in"); }
+    if (mode === "forgot") { await Auth.recover(authEmail); return authSheet("reset"); }
+    if (mode === "reset") { await Auth.verify(authEmail, v("code"), "recovery"); await Auth.setPassword(form.elements.password.value); return authDone("Password changed. You're signed in."); }
+    if (mode === "change") { await Auth.setPassword(form.elements.password.value); return authDone("Password changed"); }
+  } catch (e) {
+    if (mode === "signin" && /confirm your email/.test(e.message)) return authSheet("verify", e.message, true);
+    btn.disabled = false; btn.textContent = label; fail(e.message);
+  }
+}
+function authDone(msg) { closeSheet(); toast(msg); if (tab === "me") render(); }
 
 /* ============ 10. EVENTS ============ */
 const toastQ = []; let toastBusy = false;
@@ -2480,6 +2736,7 @@ document.addEventListener("click", ev => {
     case "quote-sheet": return quoteSheet(+id);
     case "lib": libPillar = id || null; libArea = null; libSubject = null; learnCat = "all"; learnLevel = "all"; render(); return window.scrollTo(0, 0);
     case "challenge": leave(); return startChallenge(id);
+    case "pillar-next": closePlayer(); window.scrollTo(0, 0); return startPillar(id);
     case "vocab-test": return startVocabTest();
     case "random": { const pool = lessons(), fresh = pool.filter(l => !state.lessons[l.id]); return startLesson(pick(fresh.length ? fresh : pool).id); }
     case "subject": leave(); closeSheet(); tab = "library"; libSubject = id; render(); return window.scrollTo(0, 0);
@@ -2489,6 +2746,11 @@ document.addEventListener("click", ev => {
     case "word": return wordSheet(w);
     case "ach": return achSheet(id);
     case "sheet-close": return closeSheet();
+    case "auth": return authSheet(id);
+    case "auth-resend": return Auth.resend(authEmail).then(() => authSheet("verify", "New code sent.")).catch(e => authSheet("verify", e.message, true));
+    case "auth-signout": return Auth.signOut().then(() => { toast("Signed out"); render(); });
+    case "auth-delete": return authDeleteSheet();
+    case "auth-delete-confirm": el.disabled = true; el.textContent = "Deleting…"; return Auth.deleteAccount().then(() => { closeSheet(); toast("Your account has been deleted"); render(); }).catch(e => { closeSheet(); toast(e.message); });
     case "add-word": addWord(w, "library"); addXp(RULES.xp.wordAdd); wrapUp(); toast(`Added “${w}” to your words`); render(); return wordSheet(w);
     case "remove-word": delete state.words[w]; save(); closeSheet(); toast(`Removed “${w}”`); return render();
     case "lookup-add": { const e = entry(lookupState.w) || lookupState.entry; if (e.custom) state.custom[e.w] = e; state.stats.lookups++; addWord(e.w, "lookup"); addXp(RULES.xp.wordAdd); wrapUp(); toast(`Added “${e.w}” to your words`); return render(); }
@@ -2506,7 +2768,10 @@ document.addEventListener("click", ev => {
     case "learn-level": learnLevel = id; return render();
   }
 });
-document.addEventListener("submit", ev => { if (ev.target.dataset.form === "lookup") { ev.preventDefault(); doLookup(ev.target.q.value); } });
+document.addEventListener("submit", ev => {
+  if (ev.target.dataset.form === "lookup") { ev.preventDefault(); doLookup(ev.target.q.value); }
+  if (ev.target.dataset.form === "auth") { ev.preventDefault(); authSubmit(ev.target); }
+});
 document.addEventListener("keydown", ev => {
   if ((ev.key === "Enter" || ev.key === " ") && ev.target.closest && ev.target.closest("g[data-act]")) { ev.preventDefault(); return ev.target.closest("g[data-act]").dispatchEvent(new MouseEvent("click", { bubbles: true })); }
   if (!$("#sheet").hidden && ev.key === "Escape") return closeSheet();
@@ -2521,6 +2786,7 @@ hydrateNative().finally(render);
 /* Daily reminders were removed: clear any reminder an earlier version scheduled. */
 (async () => { try { const LN = nativePlugin("LocalNotifications"); if (LN && state.reminder) await LN.cancel({ notifications: [{ id: 1 }] }); } catch (e) {} if (state.reminder) { delete state.reminder; save(); } })();
 Sub.init();
+Auth.load();
 </script>
 
 <script>

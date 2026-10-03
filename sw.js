@@ -1,6 +1,6 @@
 /* Offline support: keeps a copy of the app on the device so it opens with no signal.
    Bump VERSION whenever the app's files change so everyone gets the new copy. */
-const VERSION = "main-2026-10-02-audit2-nopw";
+const VERSION = "main-2026-10-03-scroll-tab";
 const FILES = [
 "./",
 "fonts/cormorant-garamond-italic.woff",
@@ -88,6 +88,9 @@ const FILES = [
 "think3.js",
 "timeline.js",
 "quotes2.js",
+"scroll/index.html",
+"scroll/more.js",
+"scroll/store.js",
 "inner2.js",
 "inner3.js",
 "inner-lessons-a.js",

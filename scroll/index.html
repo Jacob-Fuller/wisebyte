@@ -227,7 +227,10 @@ const BY_ID = Object.fromEntries(POOL.map(x=>[x.id,x]));
 const BY_P = {}; POOL.forEach(x=>(BY_P[x.p]=BY_P[x.p]||[]).push(x));
 
 /* ---------- Native bridge (Capacitor). Everything falls back gracefully in a browser. ---------- */
-const Cap = window.Capacitor;
+/* EMBED: true when this feed runs inside the Wisebyte app's "Wisebyte Scroll" tab.
+   Wisebyte then handles the subscription, status bar and offline copy, and Capacitor comes from the parent page. */
+const EMBED = window.parent !== window;
+const Cap = window.Capacitor || (EMBED && (()=>{ try{ return window.parent.Capacitor; }catch(e){ return null; } })()) || null;
 const isNative = !!(Cap && Cap.isNativePlatform && Cap.isNativePlatform());
 function plugin(name){
   if(!isNative) return null;
@@ -393,7 +396,7 @@ function shareText(x){
   }
 }
 async function shareCard(x){
-  const text = shareText(x) + "\n\nFrom Wisebyte - Scroll" + (CONFIG.wisebyteUrl?` ${CONFIG.wisebyteUrl}`:"");
+  const text = shareText(x) + (EMBED?"\n\nFrom Wisebyte":"\n\nFrom Wisebyte - Scroll") + (CONFIG.wisebyteUrl?` ${CONFIG.wisebyteUrl}`:"");
   try{
     if(Share){ await Share.share({title:x.t, text, dialogTitle:"Share"}); return; }
     if(navigator.share){ await navigator.share({title:x.t, text}); return; }
@@ -472,9 +475,10 @@ function showSettings(){
       <label class="row" id="remindTimeRow" ${settings.remind?"":"hidden"}><span>Time</span><input type="time" id="remindTime" value="${esc(settings.time)}"></label>
     </div>` : "";
   const links = `<div class="group">
+      ${EMBED?"":`
       ${CONFIG.wisebyteUrl?`<a class="row" href="${esc(CONFIG.wisebyteUrl)}" target="_blank" rel="noopener"><span>Get Wisebyte<small>Lessons, vocabulary and brain training</small></span><span class="val">›</span></a>`:""}
       <button class="row" data-sub type="button"><span>Subscription<small>${esc(WBStore.status())}</small></span><span class="val">${WBStore.mode!=="preview"&&WBStore.entitled()?"Manage":"Plans"} ›</span></button>
-      <button class="row" data-restore type="button"><span>Restore purchases</span><span class="val">›</span></button>
+      <button class="row" data-restore type="button"><span>Restore purchases</span><span class="val">›</span></button>`}
       <button class="row" data-privacy type="button"><span>Privacy policy</span><span class="val">›</span></button>
       <button class="row" data-terms type="button"><span>Terms of Use</span><span class="val">›</span></button>
       ${CONFIG.supportEmail?`<a class="row" href="mailto:${esc(CONFIG.supportEmail)}?subject=Wisebyte%20-%20Scroll%20support"><span>Contact support<small>${esc(CONFIG.supportEmail)}</small></span><span class="val">›</span></a>`:""}
@@ -484,7 +488,7 @@ function showSettings(){
       <button class="row danger" data-confirm="kept" type="button"><span>Clear kept cards</span></button>
     </div>`;
   openSheet("Settings", `<p class="group-title">Your reading</p>${readAll}${remind}${links}${danger}
-    <p class="foot">Wisebyte - Scroll ${esc(CONFIG.version)}<br>Everything you do stays on this device.</p>`);
+    <p class="foot">${EMBED?"Wisebyte Scroll":"Wisebyte - Scroll "+esc(CONFIG.version)}<br>Everything you do stays on this device.</p>`);
 }
 const PRIVACY = `<div class="prose">
   <p><em>Last updated: 27 September 2026</em></p>
@@ -510,8 +514,8 @@ sheet.addEventListener("click",e=>{
   const li=e.target.closest(".kept-list li");
   if(li && e.target.closest("[data-open]")){ showReader(li.dataset.id); return; }
   if(li && e.target.closest("[data-remove]")){ const id=li.dataset.id; kept=kept.filter(k=>k!==id); store.set("wbs-kept",kept); syncKeep(id); showKept(); return; }
-  if(e.target.closest("[data-privacy]")){ openSheet("Privacy", PRIVACY, showSettings); return; }
-  if(e.target.closest("[data-terms]")){ openDoc("terms.html"); return; }
+  if(e.target.closest("[data-privacy]")){ if(EMBED) openDoc("../privacy.html"); else openSheet("Privacy", PRIVACY, showSettings); return; }
+  if(e.target.closest("[data-terms]")){ openDoc(EMBED?"../terms.html":"terms.html"); return; }
   if(e.target.closest("[data-sub]")){ if(WBStore.mode!=="preview"&&WBStore.entitled()) WBStore.manage(); else { closeSheet&&closeSheet(); WBStore.showPaywall({dismissable:true}); } return; }
   if(e.target.closest("[data-restore]")){ WBStore.restore().then(()=>toast(WBStore.entitled()?"Subscription restored":"No active subscription found")); return; }
   const c=e.target.closest("[data-confirm]");
@@ -532,7 +536,7 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && !sheet.hidden) c
 async function applyReminder(){
   if(!Notes) return;
   try{
-    await Notes.cancel({notifications:[{id:1}]});
+    await Notes.cancel({notifications:[{id:EMBED?2:1}]});
     if(settings.remind){
       let perm = await Notes.checkPermissions();
       if(perm.display!=="granted") perm = await Notes.requestPermissions();
@@ -541,7 +545,7 @@ async function applyReminder(){
         toast("Allow notifications in Settings to get reminders");
       }else{
         const [hour,minute]=settings.time.split(":").map(Number);
-        await Notes.schedule({notifications:[{id:1,title:"Wisebyte - Scroll",body:"A few new ideas are waiting for you.",schedule:{on:{hour,minute},allowWhileIdle:true}}]});
+        await Notes.schedule({notifications:[{id:EMBED?2:1,title:EMBED?"Wisebyte":"Wisebyte - Scroll",body:"A few new ideas are waiting for you.",schedule:{on:{hour,minute},allowWhileIdle:true}}]});
         toast(`Reminder set for ${new Date(2000,0,1,hour,minute).toLocaleTimeString("en-AU",{hour:"numeric",minute:"2-digit"})}`);
       }
     }
@@ -563,6 +567,7 @@ document.addEventListener("visibilitychange",()=>{ if(!document.hidden) rollDay(
   $("#keptCount").textContent=kept.length;
   ready=true;
   reset();
+  if(!EMBED){
   WBStore.onChange(ok=>{ if(ok) WBStore.hidePaywall(); else WBStore.showPaywall(); });
   WBStore.init({app:"scroll",theme:"stoic",headline:"Keep scrolling, keep learning",
     pitch:"An endless feed of small, true ideas worth knowing.",
@@ -570,11 +575,12 @@ document.addEventListener("visibilitychange",()=>{ if(!document.hidden) rollDay(
     openDoc:u=>openDoc(u), termsUrl:"terms.html", privacyUrl:"privacy.html"}).then(()=>WBStore.require()).catch(()=>{});
   try{ if(StatusBar) await StatusBar.setStyle({style:"DARK"}); }catch(e){}
   try{ if(Splash) await Splash.hide(); }catch(e){}
+  }
 })();
 </script>
 <script>
 /* Offline support for the installed web app (Windows / Microsoft Store). The iOS app is bundled, so it doesn't need this. */
-if ("serviceWorker" in navigator && location.protocol === "https:" && !(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform())) {
+if ("serviceWorker" in navigator && window.parent === window && location.protocol === "https:" && !(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform())) {
   window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 }
 </script>
