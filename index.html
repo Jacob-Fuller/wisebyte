@@ -473,11 +473,11 @@ body[data-pillar="expression"],#player[data-pillar="expression"]{--accent:var(--
 .colstack .cap-e{position:relative;height:12px;margin:-5px 18px 0;border-radius:0 0 10px 10px;background:var(--surface-2);border:1px solid var(--line);border-top:0}
 .colstack .cap-e::before,.colstack .cap-e::after{content:"";position:absolute;top:-2px;width:18px;height:18px;border-radius:50%;background:var(--surface-2);border:1px solid var(--line)}
 .colstack .cap-e::before{left:-12px}.colstack .cap-e::after{right:-12px}
-.colstack .block{position:relative;display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 22px;padding:15px 16px 15px 18px;text-align:left;border-radius:3px;border:1px solid var(--line);
+.colstack .block{position:relative;display:flex;align-items:center;justify-content:center;gap:12px;margin:0 22px;padding:15px 16px 15px 18px;text-align:left;border-radius:3px;border:1px solid var(--line);
   background:repeating-linear-gradient(90deg,transparent 0 26px,color-mix(in srgb,var(--pc) 9%,transparent) 26px 28px),var(--surface)}
 .colstack .block::before{content:"";position:absolute;left:-1px;top:-1px;bottom:-1px;width:4px;border-radius:3px 0 0 3px;background:var(--pc)}
 .colstack .block:hover{border-color:color-mix(in srgb,var(--pc) 60%,var(--line))}
-.colstack .block .bt{display:flex;flex-direction:column;gap:1px;min-width:0}
+.colstack .block .bt{display:flex;flex-direction:column;align-items:center;text-align:center;gap:1px;min-width:0}
 .colstack .block .gk{font-family:var(--display);font-weight:700;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--pc)}
 .colstack .block strong{font-family:var(--display);font-weight:700;font-size:23px;line-height:1.1}
 .colstack .block small{font-family:var(--mono);font-size:12px;color:var(--ink-2);text-align:right;flex:0 1 auto;max-width:48%;line-height:1.35}
@@ -1775,12 +1775,11 @@ function renderLibrary() {
   }
   // library home
   const cats = categoryStats().sort((a, b) => WB.CATEGORIES[a.key].name.localeCompare(WB.CATEGORIES[b.key].name));
-  const counts = { knowledge: plural(know.length, "lesson"), vocabulary: plural(lib().length, "word"), practical: plural(prac.length, "lesson"), expression: plural(quotePool().length, "quote"), cognition: plural(activeActs().length, "game") + " & quizzes" };
   return header() + `
   <section class="pagehead"><span class="eyebrow" style="color:var(--p-learn)">Bibliotheke · <span style="text-transform:none;font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:0">βιβλιοθήκη</span></span><h1>Library</h1></section>
   <section class="stack"><div class="section-head"><h2>By pillar</h2></div>
     <div class="colstack"><span class="cap-a"></span><span class="cap-e"></span>
-      ${PILLAR5.map(x => `<button class="block" style="--pc:var(--p-${x.p})" data-act="lib" data-id="${x.p}"><span class="bt"><span class="gk">${x.gk}</span><strong>${x.name}</strong></span><small>${counts[x.p]}</small></button>`).join("")}
+      ${PILLAR5.map(x => `<button class="block" style="--pc:var(--p-${x.p})" data-act="lib" data-id="${x.p}"><span class="bt"><span class="gk">${x.gk}</span><strong>${x.name}</strong></span></button>`).join("")}
       <span class="plinth-a"></span><span class="plinth-b"></span></div></section>
   ${(() => { const cur = SUBJ().filter(x => { const pr = subjectProgress(x); return pr.done > 0 && !pr.mastered; }).sort((a, b) => subjectProgress(b).done / subjectProgress(b).total - subjectProgress(a).done / subjectProgress(a).total).slice(0, 3);
     return cur.length ? `<section class="stack"><div class="section-head"><h2>Continue</h2></div><div class="list">${cur.map(subjRow).join("")}</div></section>` : ""; })()}
