@@ -2,8 +2,9 @@
    Wisebyte subscriptions — shared by Wisebyte, Wisebyte - Go,
    Wisebyte - Scroll and Wisebyte Kids.
 
-   Plans (monthly, auto-renewing):
-     • This app on its own ............ $9.99  (Wisebyte Kids: $4.99)
+   Plans:
+     • This app on its own ............ $9.99 a month, auto-renewing (Wisebyte Kids: $4.99)
+     • Wisebyte Lifetime .............. $49.99 once (a non-consumable purchase; Wisebyte only)
      • Wisebyte All Access ............ $24.99 (unlocks all four apps)
 
    Stores:
@@ -33,7 +34,8 @@
   "use strict";
 
   const APPS = {
-    wisebyte: { name: "Wisebyte",          price: "$9.99", ios: "au.wisebyte.wisebyte.monthly", ms: "wisebyte_monthly", iosAll: "au.wisebyte.wisebyte.allaccess", msAll: "wisebyte_allaccess_wb" },
+    wisebyte: { name: "Wisebyte",          price: "$9.99", ios: "au.wisebyte.wisebyte.monthly", ms: "wisebyte_monthly", iosAll: "au.wisebyte.wisebyte.allaccess", msAll: "wisebyte_allaccess_wb",
+                planName: "Wisebyte Monthly", lifeName: "Wisebyte Lifetime", lifePrice: "$49.99", iosLife: "au.wisebyte.wisebyte.lifetime", msLife: "wisebyte_lifetime" },
     go:       { name: "Wisebyte - Go",     price: "$9.99", ios: "au.wisebyte.go.monthly",       ms: "wisebytego_monthly", iosAll: "au.wisebyte.go.allaccess", msAll: "wisebyte_allaccess_go" },
     scroll:   { name: "Wisebyte - Scroll", price: "$9.99", ios: "au.wisebyte.scroll.monthly",   ms: "wisebytescroll_monthly", iosAll: "au.wisebyte.scroll.allaccess", msAll: "wisebyte_allaccess_scroll" },
     kids:     { name: "Wisebyte Kids",     price: "$4.99", ios: "au.wisebyte.kids.monthly",     ms: "wisebytekids_monthly", iosAll: "au.wisebyte.kids.allaccess", msAll: "wisebyte_allaccess_kids" },
@@ -58,7 +60,7 @@
 
   const S = {
     app: null, cfg: null, mode: "preview", ready: false,
-    own: false, all: false, sharedAll: false, prices: {}, intro: {},
+    own: false, all: false, life: false, sharedAll: false, prices: {}, intro: {},
     listeners: [], busy: false, opts: {},
   };
 
@@ -84,19 +86,22 @@
     lsSet(SHARE_KEY, rec);
   }
   /* last known status for this app, so it still opens offline */
-  const remember = () => lsSet(CACHE_KEY + S.app, { own: S.own, all: S.all, at: now() });
-  function recall() { const r = lsGet(CACHE_KEY + S.app); if (r && now() - r.at < GRACE) { S.own = !!r.own; S.all = !!r.all; } }
+  const remember = () => lsSet(CACHE_KEY + S.app, { own: S.own, all: S.all, life: S.life, at: now() });
+  /* a lifetime purchase never expires, so it's remembered without the 40-day limit */
+  function recall() { const r = lsGet(CACHE_KEY + S.app); if (!r) return; if (r.life) S.life = true; if (now() - r.at < GRACE) { S.own = !!r.own; S.all = !!r.all; } }
 
   function emit() { S.listeners.forEach(f => { try { f(api.entitled()); } catch (e) {} }); }
 
   /* ---------- Apple ---------- */
   const Apple = {
-    ids() { return ALL_ACCESS ? [S.cfg.ios, S.cfg.iosAll] : [S.cfg.ios]; },
+    ids() { return (ALL_ACCESS ? [S.cfg.ios, S.cfg.iosAll] : [S.cfg.ios]).concat(S.cfg.iosLife ? [S.cfg.iosLife] : []); },
     async init() {
       const CP = window.CdvPurchase;
       if (!CP) return false;
       const { store, ProductType, Platform } = CP;
-      store.register(this.ids().map(id => ({ id, type: ProductType.PAID_SUBSCRIPTION, platform: Platform.APPLE_APPSTORE, group: "wisebyte_" + S.app })));
+      store.register(this.ids().map(id => id === S.cfg.iosLife
+        ? { id, type: ProductType.NON_CONSUMABLE, platform: Platform.APPLE_APPSTORE }
+        : { id, type: ProductType.PAID_SUBSCRIPTION, platform: Platform.APPLE_APPSTORE, group: "wisebyte_" + S.app }));
       store.when().approved(t => t.verify()).verified(r => r.finish()).receiptUpdated(() => this.refresh()).productUpdated(() => this.refresh());
       try { await store.initialize([Platform.APPLE_APPSTORE]); } catch (e) {}
       S.ready = true; this.refresh(); return true;
@@ -112,12 +117,13 @@
       });
       const was = api.entitled();
       S.own = store.owned(S.cfg.ios); S.all = ALL_ACCESS && store.owned(S.cfg.iosAll);
+      if (S.cfg.iosLife && store.owned(S.cfg.iosLife)) S.life = true;
       if (S.all) writeShared(true);
       remember();
       if (was !== api.entitled()) emit(); else emit();
     },
     async buy(key) {
-      const id = key === "all" ? S.cfg.iosAll : S.cfg.ios;
+      const id = key === "all" ? S.cfg.iosAll : key === "life" ? S.cfg.iosLife : S.cfg.ios;
       const p = window.CdvPurchase.store.get(id), offer = p && p.getOffer();
       if (!offer) throw new Error("The App Store isn't available right now. Please try again soon.");
       const err = await offer.order();
@@ -130,7 +136,7 @@
   /* ---------- Microsoft Store ---------- */
   const Microsoft = {
     svc: null,
-    ids() { return ALL_ACCESS ? [S.cfg.ms, S.cfg.msAll] : [S.cfg.ms]; },
+    ids() { return (ALL_ACCESS ? [S.cfg.ms, S.cfg.msAll] : [S.cfg.ms]).concat(S.cfg.msLife ? [S.cfg.msLife] : []); },
     async init() {
       if (!("getDigitalGoodsService" in window)) return false;
       try { this.svc = await window.getDigitalGoodsService(MS_BILLING); } catch (e) { return false; }
@@ -148,13 +154,14 @@
       try {
         const owned = (await this.svc.listPurchases()).map(p => p.itemId);
         S.own = owned.includes(S.cfg.ms); S.all = ALL_ACCESS && owned.includes(S.cfg.msAll);
+        if (S.cfg.msLife && owned.includes(S.cfg.msLife)) S.life = true;
         if (S.all) writeShared(true);
         remember();
       } catch (e) {}
       emit();
     },
     async buy(key) {
-      const sku = key === "all" ? S.cfg.msAll : S.cfg.ms;
+      const sku = key === "all" ? S.cfg.msAll : key === "life" ? S.cfg.msLife : S.cfg.ms;
       const req = new PaymentRequest([{ supportedMethods: MS_BILLING, data: { sku } }], { total: { label: "Total", amount: { currency: "AUD", value: "0" } } });
       const resp = await req.show();
       await resp.complete("success");
@@ -207,20 +214,18 @@
   const BITE = '<svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><defs><mask id="wbpwbite"><rect width="32" height="32" fill="#fff"/><circle cx="27.5" cy="6.5" r="5.5" fill="#000"/><circle cx="31" cy="14" r="4" fill="#000"/></mask></defs><circle cx="15" cy="17" r="14" fill="currentColor" mask="url(#wbpwbite)"/></svg>';
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-  function price(key) {
-    const id = S.mode === "apple" ? (key === "all" ? S.cfg.iosAll : S.cfg.ios) : (key === "all" ? S.cfg.msAll : S.cfg.ms);
-    return S.prices[id] || (key === "all" ? ALL.price : S.cfg.price);
+  function pid(key) {
+    if (S.mode === "apple") return key === "all" ? S.cfg.iosAll : key === "life" ? S.cfg.iosLife : S.cfg.ios;
+    return key === "all" ? S.cfg.msAll : key === "life" ? S.cfg.msLife : S.cfg.ms;
   }
-  function trial(key) {
-    const id = S.mode === "apple" ? (key === "all" ? S.cfg.iosAll : S.cfg.ios) : (key === "all" ? S.cfg.msAll : S.cfg.ms);
-    return S.intro[id] || null;
-  }
+  function price(key) { return S.prices[pid(key)] || (key === "all" ? ALL.price : key === "life" ? S.cfg.lifePrice : S.cfg.price); }
+  function trial(key) { return key === "life" ? null : S.intro[pid(key)] || null; }
 
   let pick = "own";
   function showPaywall(opt) {
     if (PAYWALL_OFF) { hidePaywall(); return; }
     opt = Object.assign({ dismissable: false, reason: "" }, opt || {});
-    if (!ALL_ACCESS) pick = "own";
+    if ((pick === "all" && !ALL_ACCESS) || (pick === "life" && !S.cfg.lifeName)) pick = "own";
     const t = THEMES[S.opts.theme || "stoic"];
     if (!document.getElementById("wbpwcss")) { const st = document.createElement("style"); st.id = "wbpwcss"; st.textContent = css(t); document.head.appendChild(st); }
     let el = document.getElementById("wbpw");
@@ -235,14 +240,15 @@
       <p>${esc(S.opts.pitch || "")}</p>
       ${S.opts.features ? `<ul>${S.opts.features.map(f => `<li>${esc(f)}</li>`).join("")}</ul>` : ""}
       <div style="display:flex;flex-direction:column;gap:10px">
-        <button class="plan" data-plan="own" aria-pressed="${pick === "own"}"><span><b>${esc(S.cfg.name)}</b><small>This app, every lesson and feature</small></span><span class="pr">${esc(price("own"))}<small><br>per month</small></span></button>
+        <button class="plan" data-plan="own" aria-pressed="${pick === "own"}"><span><b>${esc(S.cfg.planName || S.cfg.name)}</b><small>${S.cfg.lifeName ? "Every lesson and feature" : "This app, every lesson and feature"}</small></span><span class="pr">${esc(price("own"))}<small><br>per month</small></span></button>
+        ${S.cfg.lifeName ? `<button class="plan" data-plan="life" aria-pressed="${pick === "life"}"><span><b>${esc(S.cfg.lifeName)}</b><small>Pay once, keep it forever</small></span><span class="pr">${esc(price("life"))}<small><br>one time</small></span></button>` : ""}
         ${ALL_ACCESS ? `<button class="plan" data-plan="all" aria-pressed="${pick === "all"}"><span><b>${esc(ALL.name)}<span class="tag">All 4 apps</span></b><small>${esc(ALL.blurb)}</small></span><span class="pr">${esc(price("all"))}<small><br>per month</small></span></button>` : ""}
       </div>
-      <button class="go" id="wbpwbuy" ${S.busy || S.mode === "web" ? "disabled" : ""}>${S.mode === "web" ? "Get the app from the App Store or Microsoft Store" : S.mode === "preview" ? "Available in the app store version" : tr ? `Start ${esc(tr)} free, then ${esc(price(pick))} a month` : `Subscribe for ${esc(price(pick))} a month`}</button>
+      <button class="go" id="wbpwbuy" ${S.busy || S.mode === "web" ? "disabled" : ""}>${S.mode === "web" ? "Get the app from the App Store or Microsoft Store" : S.mode === "preview" ? "Available in the app store version" : pick === "life" ? `Buy ${esc(S.cfg.lifeName)} for ${esc(price("life"))}` : tr ? `Start ${esc(tr)} free, then ${esc(price(pick))} a month` : `Subscribe for ${esc(price(pick))} a month`}</button>
       <p class="msg" id="wbpwmsg" aria-live="polite">${esc(opt.reason)}</p>
       ${S.mode === "web" ? `<p class="note">Subscriptions are sold inside the ${esc(S.cfg.name)} app from the App Store (iPhone and iPad) or the Microsoft Store (Windows). Already subscribed? Open the app there.</p>` : ""}
       ${S.mode === "preview" ? `<p class="note">This is the preview version, so everything is already unlocked. Subscriptions are sold in the App Store and Microsoft Store versions.</p>` : ""}
-      <p class="fine">Monthly auto-renewing subscription. ${esc(S.cfg.name)} is ${esc(price("own"))} a month.${ALL_ACCESS ? ` ${esc(ALL.name)} is ${esc(price("all"))} a month and unlocks ${esc(ALL.blurb)} on this device's ${esc(storeName)}.` : ""}${tr ? ` Free trials are for new subscribers; if you don't cancel before the trial ends, the subscription starts automatically.` : ""} ${renewal}</p>
+      <p class="fine">${S.cfg.lifeName ? `${esc(S.cfg.lifeName)} is a one-time purchase of ${esc(price("life"))} with no subscription. ` : ""}Monthly plan: auto-renewing subscription. ${esc(S.cfg.name)} is ${esc(price("own"))} a month.${ALL_ACCESS ? ` ${esc(ALL.name)} is ${esc(price("all"))} a month and unlocks ${esc(ALL.blurb)} on this device's ${esc(storeName)}.` : ""}${tr ? ` Free trials are for new subscribers; if you don't cancel before the trial ends, the subscription starts automatically.` : ""} ${renewal}</p>
       <div class="links"><button data-l="restore">Restore purchases</button><button data-l="terms">Terms of Use</button><button data-l="privacy">Privacy Policy</button>${opt.dismissable || S.mode === "preview" ? `<button data-l="close">Not now</button>` : ""}</div>
     </div>`;
     const msg = m => { const x = document.getElementById("wbpwmsg"); if (x) x.textContent = m; };
@@ -295,9 +301,10 @@
       return api;
     },
     get mode() { return S.mode; },
-    entitled() { return PAYWALL_OFF || S.mode === "preview" || S.own || S.all || S.sharedAll; },
+    entitled() { return PAYWALL_OFF || S.mode === "preview" || S.life || S.own || S.all || S.sharedAll; },
     status() {
       if (S.mode === "preview") return "Preview: everything unlocked";
+      if (S.life) return S.cfg.lifeName + " (owned)";
       if (S.all) return ALL.name + " (active)";
       if (S.own) return S.cfg.name + " (active)";
       if (S.sharedAll) return ALL.name + " (from another Wisebyte app)";
