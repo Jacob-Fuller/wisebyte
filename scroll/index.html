@@ -234,6 +234,7 @@ const Cap = window.Capacitor || (EMBED && (()=>{ try{ return window.parent.Capac
 const isNative = !!(Cap && Cap.isNativePlatform && Cap.isNativePlatform());
 function plugin(name){
   if(!isNative) return null;
+  if(Cap.isPluginAvailable && !Cap.isPluginAvailable(name)) return null;
   try{ return (Cap.Plugins && Cap.Plugins[name]) || (Cap.registerPlugin ? Cap.registerPlugin(name) : null); }catch(e){ return null; }
 }
 const Prefs = plugin("Preferences"), Share = plugin("Share"), Notes = plugin("LocalNotifications"), StatusBar = plugin("StatusBar"), Splash = plugin("SplashScreen");

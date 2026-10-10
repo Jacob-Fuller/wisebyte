@@ -2643,6 +2643,7 @@ const validEmail = e => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(e);
 const passProblem = p => p.length < 8 ? "Use at least 8 characters." : !/[A-Za-z]/.test(p) || !/\d/.test(p) ? "Use a mix of letters and numbers." : "";
 let authEmail = "";
 function accountPanel() {
+  if (!Auth.configured()) return "";   // hidden until AUTH_CONFIG is filled in
   const u = Auth.user();
   if (u) return `<section class="panel"><div class="section-head"><h2>Account</h2></div>
     <div class="acct-row"><span class="av">${esc((u.email || "?")[0].toUpperCase())}</span><span class="gt"><strong>${esc(u.email)}</strong><small class="muted">Signed in</small></span></div>
