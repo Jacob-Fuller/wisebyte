@@ -221,10 +221,10 @@
   function price(key) { return S.prices[pid(key)] || (key === "all" ? ALL.price : key === "life" ? S.cfg.lifePrice : S.cfg.price); }
   function trial(key) { return key === "life" ? null : S.intro[pid(key)] || null; }
 
-  let pick = "own";
+  let pick = "own", lastOpt = null;
   function showPaywall(opt) {
     if (PAYWALL_OFF) { hidePaywall(); return; }
-    opt = Object.assign({ dismissable: false, reason: "" }, opt || {});
+    opt = Object.assign({ dismissable: false, reason: "" }, opt || {}); lastOpt = opt;
     if ((pick === "all" && !ALL_ACCESS) || (pick === "life" && !S.cfg.lifeName)) pick = "own";
     const t = THEMES[S.opts.theme || "stoic"];
     if (!document.getElementById("wbpwcss")) { const st = document.createElement("style"); st.id = "wbpwcss"; st.textContent = css(t); document.head.appendChild(st); }
@@ -249,6 +249,7 @@
       ${S.mode === "web" ? `<p class="note">Subscriptions are sold inside the ${esc(S.cfg.name)} app from the App Store (iPhone and iPad) or the Microsoft Store (Windows). Already subscribed? Open the app there.</p>` : ""}
       ${S.mode === "preview" ? `<p class="note">This is the preview version, so everything is already unlocked. Subscriptions are sold in the App Store and Microsoft Store versions.</p>` : ""}
       <p class="fine">${S.cfg.lifeName ? `${esc(S.cfg.lifeName)} is a one-time purchase of ${esc(price("life"))} with no subscription. ` : ""}Monthly plan: auto-renewing subscription. ${esc(S.cfg.name)} is ${esc(price("own"))} a month.${ALL_ACCESS ? ` ${esc(ALL.name)} is ${esc(price("all"))} a month and unlocks ${esc(ALL.blurb)} on this device's ${esc(storeName)}.` : ""}${tr ? ` Free trials are for new subscribers; if you don't cancel before the trial ends, the subscription starts automatically.` : ""} ${renewal}</p>
+      ${S.opts.account && S.opts.account.label() ? `<div class="links"><button data-l="account">${esc(S.opts.account.label())}</button></div>` : ""}
       <div class="links"><button data-l="restore">Restore purchases</button><button data-l="terms">Terms of Use</button><button data-l="privacy">Privacy Policy</button>${opt.dismissable || S.mode === "preview" ? `<button data-l="close">Not now</button>` : ""}</div>
     </div>`;
     const msg = m => { const x = document.getElementById("wbpwmsg"); if (x) x.textContent = m; };
@@ -266,6 +267,7 @@
       else if (l === "terms") (S.opts.openDoc || defaultDoc)(S.opts.termsUrl || "terms.html");
       else if (l === "privacy") (S.opts.openDoc || defaultDoc)(S.opts.privacyUrl || "privacy.html");
       else if (l === "close") hidePaywall();
+      else if (l === "account") S.opts.account.open();
     });
   }
   function hidePaywall() { const el = document.getElementById("wbpw"); if (el) el.remove(); }
@@ -281,6 +283,7 @@
 
   /* ---------- public API ---------- */
   const api = {
+    refresh() { if (document.getElementById("wbpw")) showPaywall(lastOpt); },
     /* opts: { app, theme, headline, pitch, features, gate(fn), openDoc(url), termsUrl, privacyUrl, logoHTML } */
     async init(opts) {
       S.opts = opts || {}; S.app = S.opts.app; S.cfg = APPS[S.app];

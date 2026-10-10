@@ -332,13 +332,13 @@ textarea.input{min-height:96px;resize:vertical;line-height:1.5}
 .fb{padding:12px 14px;border-radius:12px;background:var(--surface-2);font-size:15px}
 
 /* ---------- sheet ---------- */
-.sheet-wrap{position:fixed;inset:0;z-index:50;background:rgba(8,14,26,.5);display:flex;align-items:flex-end;justify-content:center}
+.sheet-wrap{position:fixed;inset:0;z-index:10000;background:rgba(8,14,26,.5);display:flex;align-items:flex-end;justify-content:center}
 .sheet{width:100%;max-width:520px;max-height:88%;overflow-y:auto;background:var(--ground);border-radius:24px 24px 0 0;padding-inline:16px;padding-block:14px calc(20px + env(safe-area-inset-bottom,0px));display:flex;flex-direction:column;gap:14px;animation:up .25s ease both}
 @keyframes up{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
 .sheet-bar{display:flex;justify-content:space-between;align-items:center}
 .grab{width:40px;height:5px;border-radius:3px;background:var(--line);margin:0 auto}
 
-.toast{position:fixed;left:50%;bottom:calc(88px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:70;background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:12px;font-weight:600;font-size:14px;box-shadow:var(--shadow);max-width:calc(100% - 32px);text-align:center}
+.toast{position:fixed;left:50%;bottom:calc(88px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:10001;background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:12px;font-weight:600;font-size:14px;box-shadow:var(--shadow);max-width:calc(100% - 32px);text-align:center}
 
 /* think & test */
 .opts.big{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -2510,6 +2510,7 @@ const Sub = {
       pitch: "Bite-sized lessons in knowledge, words, life skills, ideas and thinking.",
       features: ["Every lesson and Compendium course, with mastery exams", "The Arena: brain games, quizzes and Fact or Fiction?", "Spaced Review, so you keep what you learn", "New lessons added regularly"],
       termsUrl: APP.termsUrl, privacyUrl: APP.privacyUrl,
+      account: { label: () => Auth.configured() && !Auth.user() ? "Create account or sign in" : "", open: () => authSheet("signup") },
     }).then(() => WBStore.require()).catch(() => {});
   },
 };
@@ -2783,7 +2784,7 @@ async function authSubmit(form) {
     btn.disabled = false; btn.textContent = label; fail(e.message);
   }
 }
-function authDone(msg) { closeSheet(); toast(msg); if (tab === "me") render(); Cloud.sync(); }
+function authDone(msg) { closeSheet(); toast(msg); if (tab === "me") render(); try { WBStore.refresh(); } catch (e) {} Cloud.sync(); }
 
 /* ============ 10. EVENTS ============ */
 const toastQ = []; let toastBusy = false;
