@@ -53,7 +53,7 @@
   const PRODUCTION_HOSTS = ["wisebyte.app"];
   /* PAYWALL SWITCH: true = everything unlocked, no paywall anywhere (testing).
      Set back to false before release to turn subscriptions on again. */
-  const PAYWALL_OFF = true;
+  const PAYWALL_OFF = false;
   const CACHE_KEY = "wisebyte.sub.";
 
   const S = {
