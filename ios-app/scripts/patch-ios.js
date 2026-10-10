@@ -57,7 +57,10 @@ if (!proj.hasFile("PrivacyInfo.xcprivacy")) {
 }
 proj.updateBuildProperty("CODE_SIGN_ENTITLEMENTS", '"App/App.entitlements"');
 proj.updateBuildProperty("TARGETED_DEVICE_FAMILY", '"1"');
+proj.updateBuildProperty("IPHONEOS_DEPLOYMENT_TARGET", "15.0");   // Apple requires iOS 15+ from April 2027
 fs.writeFileSync(pbxPath, proj.writeSync());
+const podfile = path.join(appDir, "..", "Podfile");
+if (fs.existsSync(podfile)) fs.writeFileSync(podfile, fs.readFileSync(podfile, "utf8").replace(/platform :ios, '[\d.]+'/, "platform :ios, '15.0'"));
 
 /* 3. Storyboard: use MainViewController so the plugin gets registered */
 const sb = path.join(appDir, "Base.lproj", "Main.storyboard");
