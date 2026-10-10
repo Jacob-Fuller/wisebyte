@@ -40,7 +40,21 @@ const groupKey = proj.findPBXGroupKey({ path: "App" }) || proj.findPBXGroupKey({
 for (const f of ["SharedEntitlementPlugin.swift", "MainViewController.swift"]) {
   if (!proj.hasFile(f)) proj.addSourceFile(f, {}, groupKey);
 }
-if (!proj.hasFile("PrivacyInfo.xcprivacy")) proj.addResourceFile("PrivacyInfo.xcprivacy", {}, groupKey);
+/* The privacy manifest is added by hand: xcode's addResourceFile() crashes on Capacitor projects,
+   which have no "Resources" group. */
+if (!proj.hasFile("PrivacyInfo.xcprivacy")) {
+  const PBXFile = require("xcode/lib/pbxFile");
+  const pm = new PBXFile("PrivacyInfo.xcprivacy", { lastKnownFileType: "text.xml" });
+  pm.uuid = proj.generateUuid();
+  pm.fileRef = proj.generateUuid();
+  pm.target = proj.getFirstTarget().uuid;
+  proj.addToPbxBuildFileSection(pm);
+  proj.addToPbxResourcesBuildPhase(pm);
+  proj.addToPbxFileReferenceSection(pm);
+  const ref = proj.pbxFileReferenceSection()[pm.fileRef];
+  for (const k of Object.keys(ref)) if (ref[k] === undefined || ref[k] === "undefined") delete ref[k];
+  proj.addToPbxGroup(pm, groupKey);
+}
 proj.updateBuildProperty("CODE_SIGN_ENTITLEMENTS", '"App/App.entitlements"');
 proj.updateBuildProperty("TARGETED_DEVICE_FAMILY", '"1"');
 fs.writeFileSync(pbxPath, proj.writeSync());
