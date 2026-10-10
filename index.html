@@ -1151,6 +1151,7 @@ function save() {
   try { localStorage.setItem(STORE_KEY, json); } catch (e) {}
   // In the iPhone app, also keep a copy in native storage (iOS can clear web storage; this can't be).
   try { const pf = nativePrefs(); if (pf) pf.set({ key: STORE_KEY, value: json }); } catch (e) {}
+  try { Cloud.schedule(); } catch (e) {}   // back up to the account, if signed in
 }
 /* Native plugins: use Capacitor.Plugins if present, otherwise register the proxy (the web code isn't bundled with @capacitor/core). */
 const _nativeCache = {};
@@ -2569,15 +2570,15 @@ function resetSheet() {
 }
 
 /* ============ 9c. ACCOUNTS (sign up / sign in) ============
-   Accounts run on Supabase Auth (the same service Roster Board uses). Passwords never touch
+   Accounts run on Supabase Auth (Wisebyte project, Sydney). Passwords never touch
    this app's storage: Supabase hashes them (bcrypt) and hands back short-lived session tokens
    over HTTPS. Email is confirmed with a 6-digit code, and passwords are reset the same way,
    so everything happens inside the app with no web links to open.
    Fill in the two values below from Supabase → Project Settings → API (the anon key is
    designed to be public; never put the service_role key in the app). */
 const AUTH_CONFIG = {
-  url: "",        // e.g. "https://abcdefghijklm.supabase.co"
-  anonKey: "",    // the project's anon / publishable key
+  url: "https://xastaekivlmpyzxfwuid.supabase.co",
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhhc3RhZWtpdmxtcHl6eGZ3dWlkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE2MTgzNzgsImV4cCI6MjEwNzE5NDM3OH0.cgbWpmf67zz7SwyRZKKRggD9pfy-ZLzUdhHuHCJpnmM",   // public anon key (safe in the app; RLS protects data)
 };
 const AUTH_KEY = "wb-auth";
 const Auth = {
@@ -2591,6 +2592,7 @@ const Auth = {
     try { Auth.session = raw ? JSON.parse(raw) : null; } catch (e) { Auth.session = null; }
     if (Auth.session && Auth.configured()) { try { await Auth.fresh(); } catch (e) { if (e.status === 400 || e.status === 401) Auth.set(null); } }
     if (tab === "me") render();
+    if (Auth.user()) Cloud.sync();
   },
   set(s) {
     Auth.session = s ? { access_token: s.access_token, refresh_token: s.refresh_token, expires_at: s.expires_at || Math.floor(Date.now() / 1000) + (s.expires_in || 3600), user: { id: s.user.id, email: s.user.email } } : null;
@@ -2636,9 +2638,87 @@ const Auth = {
   resend: email => Auth.call("/resend", { body: { type: "signup", email } }),
   recover: email => Auth.call("/recover", { body: { email } }),
   async setPassword(password) { await Auth.call("/user", { method: "PUT", body: { password }, token: await Auth.fresh() }); },
-  async signOut() { try { const t = await Auth.fresh(); if (t) await Auth.call("/logout", { token: t }); } catch (e) {} Auth.set(null); },
+  async signOut() { try { clearTimeout(Cloud.timer); await Cloud.push(); } catch (e) {} try { const t = await Auth.fresh(); if (t) await Auth.call("/logout", { token: t }); } catch (e) {} Auth.set(null); },
   async deleteAccount() { await Auth.call("/delete-account", { base: "/functions/v1", token: await Auth.fresh() }); Auth.set(null); },
 };
+/* Progress backup: one row per account in the `progress` table (row-level security limits each
+   user to their own row). Merging only ever adds progress: maps are combined, numbers take the
+   higher value, flags stay set once set, lists are joined. So a new phone never wipes the cloud,
+   and the cloud never wipes this phone. */
+const SCROLL_SYNC = ["wbs-kept", "wbs-seen", "wbs-total"];
+const DATE_RE = /^\d{4}-\d{2}-\d{2}/;
+function mergeVal(a, b) {
+  if (a === undefined || a === null) return b;
+  if (b === undefined || b === null) return a;
+  if (Array.isArray(a) && Array.isArray(b)) return [...new Set([...b, ...a].map(x => JSON.stringify(x)))].map(x => JSON.parse(x));
+  if (typeof a === "object" && typeof b === "object" && !Array.isArray(a) && !Array.isArray(b)) {
+    const o = {};
+    for (const k of new Set([...Object.keys(b), ...Object.keys(a)])) o[k] = mergeVal(a[k], b[k]);
+    return o;
+  }
+  if (typeof a === "number" && typeof b === "number") return Math.max(a, b);
+  if (typeof a === "boolean" && typeof b === "boolean") return a || b;
+  if (typeof a === "string" && typeof b === "string" && DATE_RE.test(a) && DATE_RE.test(b)) return a > b ? a : b;
+  return a;
+}
+const Cloud = {
+  timer: null, busy: false, last: 0,
+  async req(method, query, body) {
+    const t = await Auth.fresh(); if (!t) return null;
+    const r = await fetch(AUTH_CONFIG.url.replace(/\/+$/, "") + "/rest/v1/progress" + query, { method,
+      headers: { apikey: AUTH_CONFIG.anonKey, Authorization: "Bearer " + t, "Content-Type": "application/json", Prefer: "resolution=merge-duplicates,return=minimal" },
+      body: body ? JSON.stringify(body) : undefined });
+    if (!r.ok) throw new Error("Sync failed (" + r.status + ")");
+    return method === "GET" ? r.json() : null;
+  },
+  scrollData() {
+    const o = {};
+    for (const k of SCROLL_SYNC) { try { const v = localStorage.getItem(k); if (v != null) o[k] = JSON.parse(v); } catch (e) {} }
+    return o;
+  },
+  mergeScroll(remote) {
+    const local = Cloud.scrollData(); let changed = false;
+    for (const k of SCROLL_SYNC) {
+      if (remote[k] === undefined) continue;
+      const v = mergeVal(local[k], remote[k]);
+      if (JSON.stringify(v) === JSON.stringify(local[k])) continue;
+      changed = true; const raw = JSON.stringify(v);
+      try { localStorage.setItem(k, raw); } catch (e) {}
+      try { const Pr = nativePlugin("Preferences"); if (Pr) Pr.set({ key: k, value: raw }).catch(() => {}); } catch (e) {}
+    }
+    const f = document.querySelector("#scrollHost iframe");
+    if (changed && f) try { f.contentWindow.location.reload(); } catch (e) {}
+  },
+  async push() {
+    const u = Auth.user(); if (!u || !Auth.configured()) return;
+    await Cloud.req("POST", "", { user_id: u.id, data: { v: 1, profile: state, scroll: Cloud.scrollData() }, updated_at: new Date().toISOString() });
+    Cloud.last = Date.now();
+  },
+  schedule(ms = 2500) {
+    if (!Auth.user() || !Auth.configured()) return;
+    clearTimeout(Cloud.timer); Cloud.timer = setTimeout(() => Cloud.push().catch(() => {}), ms);
+  },
+  async sync() {   // pull the backup, merge it into this device, then push the combined result
+    const u = Auth.user(); if (!u || !Auth.configured() || Cloud.busy) return;
+    Cloud.busy = true;
+    try {
+      const rows = await Cloud.req("GET", "?select=data&user_id=eq." + encodeURIComponent(u.id));
+      const d = rows && rows[0] && rows[0].data;
+      if (d && d.profile) {
+        const merged = mergeProfile(mergeVal(state, mergeProfile(d.profile)));
+        if (JSON.stringify(merged) !== JSON.stringify(state)) { store.profiles.adult = state = merged; save(); render(); }
+      }
+      if (d && d.scroll) Cloud.mergeScroll(d.scroll);
+      clearTimeout(Cloud.timer); await Cloud.push();
+    } catch (e) {} finally { Cloud.busy = false; }
+  },
+};
+addEventListener("storage", e => { if (e.key && SCROLL_SYNC.includes(e.key)) Cloud.schedule(); });
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "hidden") { if (Cloud.timer) { clearTimeout(Cloud.timer); Cloud.push().catch(() => {}); } }
+  else if (Date.now() - Cloud.last > 60000) Cloud.sync();
+});
+
 const validEmail = e => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(e);
 const passProblem = p => p.length < 8 ? "Use at least 8 characters." : !/[A-Za-z]/.test(p) || !/\d/.test(p) ? "Use a mix of letters and numbers." : "";
 let authEmail = "";
@@ -2646,14 +2726,14 @@ function accountPanel() {
   if (!Auth.configured()) return "";   // hidden until AUTH_CONFIG is filled in
   const u = Auth.user();
   if (u) return `<section class="panel"><div class="section-head"><h2>Account</h2></div>
-    <div class="acct-row"><span class="av">${esc((u.email || "?")[0].toUpperCase())}</span><span class="gt"><strong>${esc(u.email)}</strong><small class="muted">Signed in</small></span></div>
+    <div class="acct-row"><span class="av">${esc((u.email || "?")[0].toUpperCase())}</span><span class="gt"><strong>${esc(u.email)}</strong><small class="muted">Progress backed up</small></span></div>
     <div class="set-list">
       <button class="set-row" data-act="auth" data-id="change"><span>Change password</span></button>
       <button class="set-row" data-act="auth-signout"><span>Sign out</span></button>
       <button class="set-row" data-act="auth-delete"><span style="color:var(--bad)">Delete account</span></button>
     </div></section>`;
   return `<section class="panel"><div class="section-head"><h2>Account</h2></div>
-    <p class="muted small">Create a free Wisebyte account with your email. Your progress still saves on this device either way.</p>
+    <p class="muted small">Back up your progress and pick up where you left off on any device.</p>
     <div class="btn-row"><button class="btn" data-act="auth" data-id="signup">Create account</button><button class="btn ghost" data-act="auth" data-id="signin">Sign in</button></div></section>`;
 }
 function authSheet(mode, note, isErr) {
@@ -2679,7 +2759,7 @@ function authSheet(mode, note, isErr) {
 }
 function authDeleteSheet() {
   openSheet(`<section class="stack" style="text-align:center"><h2>Delete your account?</h2>
-    <p class="muted">This permanently deletes your Wisebyte account and the email address linked to it. It can't be undone. Your progress on this device stays, and your subscription isn't affected (cancel it in your App Store account if you want to).</p>
+    <p class="muted">This permanently deletes your Wisebyte account, its email address and your backed-up progress. It can't be undone. Your progress on this device stays, and your subscription isn't affected (cancel it in your App Store account if you want to).</p>
     <button class="btn danger block" data-act="auth-delete-confirm">Delete my account</button><button class="btn ghost block" data-act="sheet-close">Cancel</button></section>`);
 }
 async function authSubmit(form) {
@@ -2703,7 +2783,7 @@ async function authSubmit(form) {
     btn.disabled = false; btn.textContent = label; fail(e.message);
   }
 }
-function authDone(msg) { closeSheet(); toast(msg); if (tab === "me") render(); }
+function authDone(msg) { closeSheet(); toast(msg); if (tab === "me") render(); Cloud.sync(); }
 
 /* ============ 10. EVENTS ============ */
 const toastQ = []; let toastBusy = false;
