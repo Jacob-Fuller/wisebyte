@@ -62,7 +62,6 @@ export default function AccountScreen() {
   const tt = totalSecs >= 3600 ? Math.floor(totalSecs / 3600) + "h " + Math.round((totalSecs % 3600) / 60) + "m" : Math.round(totalSecs / 60) + "m";
   const topicsMastered = cats.filter(c => c.pct >= 80).length;
   const games = E.activeActs().filter(a => a.pillar === "think");
-  const subscribed = Purchases.mode !== "preview" && Purchases.entitled();
   const stat = (b, s) => <View key={s} style={{ width: "31.8%", paddingVertical: 12, paddingHorizontal: 10, borderRadius: 14, backgroundColor: C.surface2, gap: 2 }}>
     <Text style={{ fontFamily: F.mono, fontSize: 19, lineHeight: 23, color: C.ink }}>{b}</Text><Text style={{ fontFamily: F.body6, fontSize: 12, color: C.ink2 }}>{s}</Text></View>;
   return (
@@ -126,7 +125,7 @@ export default function AccountScreen() {
       <Panel>
         <SectionHead title="Settings" />
         <View style={{ gap: 6 }}>
-          <SetRow title="Subscription" sub={Purchases.status()} val={subscribed ? "Manage" : "Plans"} onPress={() => subscribed ? Purchases.manage() : Purchases.showPaywall({ dismissable: true })} />
+          <SetRow title="Subscription" sub={Purchases.status()} val="Plans" onPress={() => Purchases.showPaywall({ dismissable: true })} />
           <SetRow title="About, privacy and terms" sub="Disclaimers, contact and support" chev onPress={() => openSheet("about")} />
         </View>
       </Panel>
