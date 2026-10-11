@@ -1,0 +1,28 @@
+{
+  "name": "wisebyte-native",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "content": "node scripts/extract-content.js && node scripts/extract-icons.js",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "expo-clipboard": "*",
+    "expo-font": "*",
+    "expo-speech": "*",
+    "expo-splash-screen": "*",
+    "expo-status-bar": "*",
+    "expo-web-browser": "*",
+    "react": "19.1.0",
+    "react-native": "~0.81.0",
+    "react-native-safe-area-context": "*",
+    "react-native-svg": "*",
+    "@react-native-async-storage/async-storage": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.0"
+  }
+}

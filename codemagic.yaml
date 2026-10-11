@@ -40,3 +40,54 @@ workflows:
       app_store_connect:
         auth: integration
         submit_to_testflight: true
+
+  # Native (React Native / Expo) Wisebyte app in native/. Replaces the web-wrapped build above.
+  wisebyte-native:
+    name: Wisebyte native → TestFlight
+    max_build_duration: 90
+    instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: Wisebyte ASC
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: au.wisebyte.wisebyte
+      vars:
+        APP_STORE_APPLE_ID: "6818404230"
+      node: 22
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Install dependencies
+        script: |
+          cd native
+          npm install --legacy-peer-deps --no-audit --no-fund
+          npx expo install --fix -- --legacy-peer-deps
+          npx expo install --check || true
+      - name: Check the JavaScript bundle
+        script: |
+          cd native
+          npx expo export --platform ios --output-dir /tmp/wb-export
+      - name: Generate the iOS project
+        script: |
+          cd native
+          npx expo prebuild --platform ios --clean --no-install
+          cd ios && pod install
+      - name: Apply signing profiles
+        script: xcode-project use-profiles --project native/ios/*.xcodeproj
+      - name: Set build number
+        script: |
+          LATEST=$(app-store-connect get-latest-testflight-build-number "$APP_STORE_APPLE_ID" 2>/dev/null || echo 0)
+          cd native/ios && agvtool new-version -all $((LATEST + 1))
+      - name: Build the app
+        script: |
+          xcode-project build-ipa \
+            --workspace native/ios/Wisebyte.xcworkspace \
+            --scheme Wisebyte
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true

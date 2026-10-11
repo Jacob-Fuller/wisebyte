@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Wisebyte",
+    "slug": "wisebyte",
+    "version": "1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#141210",
+    "newArchEnabled": true,
+    "ios": {
+      "bundleIdentifier": "au.wisebyte.wisebyte",
+      "buildNumber": "1",
+      "supportsTablet": false,
+      "infoPlist": {
+        "CFBundleDisplayName": "Wisebyte",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "privacyManifests": {
+        "NSPrivacyAccessedAPITypes": [
+          {
+            "NSPrivacyAccessedAPIType": "NSPrivacyAccessedAPICategoryUserDefaults",
+            "NSPrivacyAccessedAPITypeReasons": [
+              "CA92.1"
+            ]
+          }
+        ]
+      }
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#141210",
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 110
+        }
+      ]
+    ]
+  }
+}
