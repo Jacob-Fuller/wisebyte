@@ -55,6 +55,9 @@ export const Auth = {
   async signUp(email, password) {
     const j = await Auth.call("/signup", { body: { email, password } });
     if (j.access_token) { Auth.set(j); return { signedIn: true }; }
+    /* an existing, confirmed email comes back with no identities and no email is sent */
+    const u = j.user || j;
+    if (Array.isArray(u.identities) && u.identities.length === 0) { const e = new Error("There's already an account with that email. Try signing in."); e.status = 400; throw e; }
     return { signedIn: false };
   },
   async verify(email, token, type) { const j = await Auth.call("/verify", { body: { email, token, type } }); Auth.set(j); return j; },
