@@ -9,6 +9,8 @@ const CFG = {
 };
 const CACHE_KEY = "wisebyte.sub.wisebyte";
 const GRACE = 40 * 864e5;
+/* Tester builds only: set by the "Wisebyte native (tester) → TestFlight" Codemagic workflow. Never set for a build sent to App Review. */
+const TESTER = process.env.EXPO_PUBLIC_TESTER_UNLOCK === "1";
 const S = { mode: WbStore ? "apple" : "preview", own: false, life: false, prices: {}, intro: {}, busy: false, ready: false };
 
 const remember = () => Store.set(CACHE_KEY, { own: S.own, all: false, life: S.life, at: Date.now() });
@@ -58,8 +60,9 @@ const api = {
     await Promise.all([loadProducts(), refresh()]);
     sync();
   },
-  entitled() { return S.mode === "preview" || S.life || S.own; },
+  entitled() { return TESTER || S.mode === "preview" || S.life || S.own; },
   status() {
+    if (TESTER) return "Tester build: everything unlocked";
     if (S.mode === "preview") return "Preview: everything unlocked";
     if (S.life) return CFG.lifeName + " (owned)";
     if (S.own) return CFG.name + " (active)";

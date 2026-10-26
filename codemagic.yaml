@@ -42,7 +42,7 @@ workflows:
         submit_to_testflight: true
 
   # Native (React Native / Expo) Wisebyte app in native/. Replaces the web-wrapped build above.
-  wisebyte-native:
+  wisebyte-native: &native
     name: Wisebyte native → TestFlight
     max_build_duration: 90
     instance_type: mac_mini_m2
@@ -91,3 +91,19 @@ workflows:
       app_store_connect:
         auth: integration
         submit_to_testflight: true
+
+  # Same native build, but with the paywall unlocked for TestFlight testing.
+  # Never submit a build from this workflow to App Review: use "Wisebyte native → TestFlight" for that.
+  wisebyte-native-tester:
+    <<: *native
+    name: Wisebyte native (tester) → TestFlight
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: au.wisebyte.wisebyte
+      vars:
+        APP_STORE_APPLE_ID: "6818404230"
+        EXPO_PUBLIC_TESTER_UNLOCK: "1"
+      node: 22
+      xcode: latest
+      cocoapods: default
