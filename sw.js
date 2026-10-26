@@ -1,6 +1,6 @@
 /* Offline support: keeps a copy of the app on the device so it opens with no signal.
    Bump VERSION whenever the app's files change so everyone gets the new copy. */
-const VERSION = "main-2026-10-11-nozoom";
+const VERSION = "main-2026-10-26-lessons";
 const FILES = [
 "./",
 "fonts/cormorant-garamond-italic.woff",
@@ -52,6 +52,30 @@ const FILES = [
 "lessons-n-religions.js",
 "lessons-n-spaceflight.js",
 "lessons-n-tech-cyber.js",
+"lessons-z-ai.js",
+"lessons-z-ancient.js",
+"lessons-z-arts.js",
+"lessons-z-beliefs.js",
+"lessons-z-body.js",
+"lessons-z-business.js",
+"lessons-z-emotions.js",
+"lessons-z-explore.js",
+"lessons-z-food.js",
+"lessons-z-geography.js",
+"lessons-z-history.js",
+"lessons-z-life.js",
+"lessons-z-literature.js",
+"lessons-z-maths.js",
+"lessons-z-money.js",
+"lessons-z-nature.js",
+"lessons-z-philosophy.js",
+"lessons-z-psychology.js",
+"lessons-z-safety.js",
+"lessons-z-science.js",
+"lessons-z-society.js",
+"lessons-z-space.js",
+"lessons-z-technology.js",
+"lessons-z-thinking.js",
 "lessons-nature.js",
 "lessons-psychology.js",
 "lessons-psychology2.js",
