@@ -31,824 +31,824 @@ Loaded by `index.html` (script tags) and cached by `sw.js`. No new lesson files 
 Tick = rewritten, quiz remapped, push hint written, checked against original.
 
 **lessons-body.js**
-- [ ] brain
-- [ ] sleep
-- [ ] immune-system
+- [x] brain
+- [x] sleep
+- [x] immune-system
 
 **lessons-body2.js**
-- [ ] nutrition
-- [ ] exercise
-- [ ] stress
-- [ ] sun-safety
+- [x] nutrition
+- [x] exercise
+- [x] stress
+- [x] sun-safety
 
 **lessons-history.js**
-- [ ] ancient-egypt
-- [ ] ww2
-- [ ] printing-press
-- [ ] renaissance
+- [x] ancient-egypt
+- [x] ww2
+- [x] printing-press
+- [x] renaissance
 
 **lessons-history2.js**
-- [ ] ancient-rome
-- [ ] black-death
-- [ ] industrial-revolution
-- [ ] ww1
-- [ ] cold-war
-- [ ] first-australians
+- [x] ancient-rome
+- [x] black-death
+- [x] industrial-revolution
+- [x] ww1
+- [x] cold-war
+- [x] first-australians
 
 **lessons-life.js**
-- [ ] negotiation
-- [ ] scams
-- [ ] digital-security
-- [ ] first-aid
+- [x] negotiation
+- [x] scams
+- [x] digital-security
+- [x] first-aid
 
 **lessons-life2.js**
-- [ ] public-speaking
-- [ ] communication
-- [ ] time-management
+- [x] public-speaking
+- [x] communication
+- [x] time-management
 
 **lessons-life3.js**
-- [ ] cooking
-- [ ] home-maintenance
-- [ ] car-basics
+- [x] cooking
+- [x] home-maintenance
+- [x] car-basics
 
 **lessons-money.js**
-- [ ] compound-interest
-- [ ] stock-market
-- [ ] inflation
-- [ ] budgeting
+- [x] compound-interest
+- [x] stock-market
+- [x] inflation
+- [x] budgeting
 
 **lessons-money2.js**
-- [ ] superannuation
-- [ ] tax-basics
-- [ ] credit-scores
-- [ ] home-loans
-- [ ] index-funds
+- [x] superannuation
+- [x] tax-basics
+- [x] credit-scores
+- [x] home-loans
+- [x] index-funds
 
 **lessons-money3.js**
-- [ ] supply-demand
+- [x] supply-demand
 
 **lessons-nature.js**
-- [ ] octopus-mind
-- [ ] bees
-- [ ] wildlife
-- [ ] english-language
+- [x] octopus-mind
+- [x] bees
+- [x] wildlife
+- [x] english-language
 
 **lessons-psychology.js**
-- [ ] cognitive-biases
-- [ ] persuasion
-- [ ] conditioning
-- [ ] habits
-- [ ] procrastination
+- [x] cognitive-biases
+- [x] persuasion
+- [x] conditioning
+- [x] habits
+- [x] procrastination
 
 **lessons-psychology2.js**
-- [ ] memory-palace
-- [ ] mnemonics
-- [ ] placebo
-- [ ] decisions
+- [x] memory-palace
+- [x] mnemonics
+- [x] placebo
+- [x] decisions
 
 **lessons-science.js**
-- [ ] evolution
-- [ ] water
-- [ ] quantum
+- [x] evolution
+- [x] water
+- [x] quantum
 
 **lessons-science2.js**
-- [ ] climate-change
-- [ ] antibiotics
-- [ ] dna
+- [x] climate-change
+- [x] antibiotics
+- [x] dna
 
 **lessons-space.js**
-- [ ] black-holes
-- [ ] stars
-- [ ] big-bang
-- [ ] moon
+- [x] black-holes
+- [x] stars
+- [x] big-bang
+- [x] moon
 
 **lessons-tech.js**
-- [ ] internet
-- [ ] encryption
-- [ ] gps
+- [x] internet
+- [x] encryption
+- [x] gps
 
 **lessons-tech2.js**
-- [ ] blockchain
-- [ ] ai-models
+- [x] blockchain
+- [x] ai-models
 
 **lessons-thinking.js**
-- [ ] correlation-causation
-- [ ] logical-fallacies
-- [ ] evidence
+- [x] correlation-causation
+- [x] logical-fallacies
+- [x] evidence
 
 **lessons-thinking2.js**
-- [ ] probability
-- [ ] statistics
-- [ ] misinformation
+- [x] probability
+- [x] statistics
+- [x] misinformation
 
 **lessons-world.js**
-- [ ] stoicism
-- [ ] ethics
-- [ ] plate-tectonics
-- [ ] australia-climate
+- [x] stoicism
+- [x] ethics
+- [x] plate-tectonics
+- [x] australia-climate
 
 **inner-lessons-a.js**
-- [ ] sanctum-godel
-- [ ] sanctum-bayes
-- [ ] sanctum-arrow
-- [ ] sanctum-hard-problem
+- [x] sanctum-godel
+- [x] sanctum-bayes
+- [x] sanctum-arrow
+- [x] sanctum-hard-problem
 
 **inner-lessons-b.js**
-- [ ] sanctum-ergodicity
-- [ ] sanctum-fat-tails
-- [ ] sanctum-cooperation
-- [ ] sanctum-second-order
+- [x] sanctum-ergodicity
+- [x] sanctum-fat-tails
+- [x] sanctum-cooperation
+- [x] sanctum-second-order
 
 **inner-lessons-c.js**
-- [ ] sanctum-entropy
-- [ ] sanctum-fermi
-- [ ] sanctum-replication
-- [ ] sanctum-collapse
+- [x] sanctum-entropy
+- [x] sanctum-fermi
+- [x] sanctum-replication
+- [x] sanctum-collapse
 
 **lessons-y-ai.js**
-- [ ] recommendation-feeds
-- [ ] self-driving-cars
-- [ ] ai-in-medicine
-- [ ] moravecs-paradox
-- [ ] machine-translation
-- [ ] computer-vision
-- [ ] can-machines-have-minds
-- [ ] specification-gaming
+- [x] recommendation-feeds
+- [x] self-driving-cars
+- [x] ai-in-medicine
+- [x] moravecs-paradox
+- [x] machine-translation
+- [x] computer-vision
+- [x] can-machines-have-minds
+- [x] specification-gaming
 
 **lessons-y-ancient.js**
-- [ ] pompeii-herculaneum
-- [ ] mongol-empire
-- [ ] mali-empire-mansa-musa
-- [ ] ancient-olympics
-- [ ] byzantine-empire
-- [ ] persian-empire
-- [ ] bronze-age-collapse
-- [ ] antikythera-mechanism
+- [x] pompeii-herculaneum
+- [x] mongol-empire
+- [x] mali-empire-mansa-musa
+- [x] ancient-olympics
+- [x] byzantine-empire
+- [x] persian-empire
+- [x] bronze-age-collapse
+- [x] antikythera-mechanism
 
 **lessons-y-arts.js**
-- [ ] sydney-opera-house-story
-- [ ] gothic-cathedrals
-- [ ] film-editing-invisible-art
-- [ ] story-of-pigments
-- [ ] ukiyo-e-great-wave
-- [ ] art-forgery
-- [ ] opera-explained
-- [ ] tuning-and-temperament
+- [x] sydney-opera-house-story
+- [x] gothic-cathedrals
+- [x] film-editing-invisible-art
+- [x] story-of-pigments
+- [x] ukiyo-e-great-wave
+- [x] art-forgery
+- [x] opera-explained
+- [x] tuning-and-temperament
 
 **lessons-y-beliefs.js**
-- [ ] sikhism
-- [ ] shinto
-- [ ] aboriginal-dreaming
-- [ ] epic-of-gilgamesh
-- [ ] flood-myths
-- [ ] zoroastrianism
-- [ ] daoism
-- [ ] maui-polynesian-myths
+- [x] sikhism
+- [x] shinto
+- [x] aboriginal-dreaming
+- [x] epic-of-gilgamesh
+- [x] flood-myths
+- [x] zoroastrianism
+- [x] daoism
+- [x] maui-polynesian-myths
 
 **lessons-y-body.js**
-- [ ] skin-largest-organ
-- [ ] how-breathing-works
-- [ ] hormones-messengers
-- [ ] liver-chemical-factory
-- [ ] kidneys-filters
-- [ ] gut-microbiome
-- [ ] why-we-age
-- [ ] science-of-pain
+- [x] skin-largest-organ
+- [x] how-breathing-works
+- [x] hormones-messengers
+- [x] liver-chemical-factory
+- [x] kidneys-filters
+- [x] gut-microbiome
+- [x] why-we-age
+- [x] science-of-pain
 
 **lessons-y-business.js**
-- [ ] pricing-psychology
-- [ ] power-of-brands
-- [ ] economic-moats
-- [ ] kodak-disruption
-- [ ] ford-toyota-production
-- [ ] monopolies-competition
-- [ ] shipping-container
-- [ ] mcdonalds-franchising
+- [x] pricing-psychology
+- [x] power-of-brands
+- [x] economic-moats
+- [x] kodak-disruption
+- [x] ford-toyota-production
+- [x] monopolies-competition
+- [x] shipping-container
+- [x] mcdonalds-franchising
 
 **lessons-y-emotions.js**
-- [ ] grief-how-we-mourn
-- [ ] jealousy-and-envy
-- [ ] forgiveness-science
-- [ ] shame-and-guilt
-- [ ] nostalgia-science
-- [ ] science-of-awe
-- [ ] art-of-apology
-- [ ] siblings-science
+- [x] grief-how-we-mourn
+- [x] jealousy-and-envy
+- [x] forgiveness-science
+- [x] shame-and-guilt
+- [x] nostalgia-science
+- [x] science-of-awe
+- [x] art-of-apology
+- [x] siblings-science
 
 **lessons-y-explore.js**
-- [ ] longitude-problem
-- [ ] accidental-inventions
-- [ ] refrigeration
-- [ ] toilets-sewers
-- [ ] burke-and-wills
-- [ ] ibn-battuta
-- [ ] photography-invention
-- [ ] bicycle
+- [x] longitude-problem
+- [x] accidental-inventions
+- [x] refrigeration
+- [x] toilets-sewers
+- [x] burke-and-wills
+- [x] ibn-battuta
+- [x] photography-invention
+- [x] bicycle
 
 **lessons-y-food.js**
-- [ ] coffee-bean-to-cup
-- [ ] chocolate-cacao
-- [ ] tea-story
-- [ ] australian-bush-foods
-- [ ] fermentation-microbes
-- [ ] spice-trade
-- [ ] umami-msg
-- [ ] chilli-heat
+- [x] coffee-bean-to-cup
+- [x] chocolate-cacao
+- [x] tea-story
+- [x] australian-bush-foods
+- [x] fermentation-microbes
+- [x] spice-trade
+- [x] umami-msg
+- [x] chilli-heat
 
 **lessons-y-geography.js**
-- [ ] uluru-kata-tjuta
-- [ ] lightning-thunderstorms
-- [ ] rainforests
-- [ ] coastlines-beaches
-- [ ] tropical-cyclones
-- [ ] glaciers
-- [ ] caves-karst
-- [ ] jet-streams
+- [x] uluru-kata-tjuta
+- [x] lightning-thunderstorms
+- [x] rainforests
+- [x] coastlines-beaches
+- [x] tropical-cyclones
+- [x] glaciers
+- [x] caves-karst
+- [x] jet-streams
 
 **lessons-y-history.js**
-- [ ] spanish-armada
-- [ ] great-fire-of-london
-- [ ] east-india-company
-- [ ] meiji-japan
-- [ ] opium-wars
-- [ ] thirty-years-war
-- [ ] kokoda-track
-- [ ] chernobyl
+- [x] spanish-armada
+- [x] great-fire-of-london
+- [x] east-india-company
+- [x] meiji-japan
+- [x] opium-wars
+- [x] thirty-years-war
+- [x] kokoda-track
+- [x] chernobyl
 
 **lessons-y-life-everyday.js**
-- [ ] medicare-and-finding-a-gp
-- [ ] mygov-and-government-services
-- [ ] buying-a-used-car
-- [ ] travelling-overseas-smoothly
-- [ ] making-a-will
-- [ ] complaints-that-get-results
-- [ ] building-a-better-sleep-routine
-- [ ] private-health-insurance-decoded
+- [x] medicare-and-finding-a-gp
+- [x] mygov-and-government-services
+- [x] buying-a-used-car
+- [x] travelling-overseas-smoothly
+- [x] making-a-will
+- [x] complaints-that-get-results
+- [x] building-a-better-sleep-routine
+- [x] private-health-insurance-decoded
 
 **lessons-y-life-home.js**
-- [ ] cleaning-science-stains
-- [ ] laundry-done-right
-- [ ] cut-power-water-bills
-- [ ] diy-toolkit-basics
-- [ ] gardening-australia-basics
-- [ ] moving-house-checklist
-- [ ] keeping-pests-out
-- [ ] declutter-organise
+- [x] cleaning-science-stains
+- [x] laundry-done-right
+- [x] cut-power-water-bills
+- [x] diy-toolkit-basics
+- [x] gardening-australia-basics
+- [x] moving-house-checklist
+- [x] keeping-pests-out
+- [x] declutter-organise
 
 **lessons-y-life-money.js**
-- [ ] lodging-your-tax-return
-- [ ] super-housekeeping
-- [ ] cutting-household-bills
-- [ ] making-an-insurance-claim
-- [ ] comparing-personal-loans
-- [ ] getting-out-of-debt
-- [ ] big-purchases-bnpl
-- [ ] building-an-emergency-fund
-- [ ] income-protection-insurance
+- [x] lodging-your-tax-return
+- [x] super-housekeeping
+- [x] cutting-household-bills
+- [x] making-an-insurance-claim
+- [x] comparing-personal-loans
+- [x] getting-out-of-debt
+- [x] big-purchases-bnpl
+- [x] building-an-emergency-fund
+- [x] income-protection-insurance
 
 **lessons-y-life-work.js**
-- [ ] resume-that-gets-read
-- [ ] reading-your-payslip
-- [ ] asking-for-a-pay-rise
-- [ ] running-a-good-meeting
-- [ ] giving-and-receiving-feedback
-- [ ] burnout-and-disconnecting
-- [ ] contractor-or-employee
-- [ ] leaving-a-job-well
+- [x] resume-that-gets-read
+- [x] reading-your-payslip
+- [x] asking-for-a-pay-rise
+- [x] running-a-good-meeting
+- [x] giving-and-receiving-feedback
+- [x] burnout-and-disconnecting
+- [x] contractor-or-employee
+- [x] leaving-a-job-well
 
 **lessons-y-literature.js**
-- [ ] dictionary-makers
-- [ ] australian-english
-- [ ] punctuation-history
-- [ ] detective-fiction
-- [ ] fairy-tale-origins
-- [ ] frankenstein
-- [ ] children-learning-language
-- [ ] hero-journey-stories
+- [x] dictionary-makers
+- [x] australian-english
+- [x] punctuation-history
+- [x] detective-fiction
+- [x] fairy-tale-origins
+- [x] frankenstein
+- [x] children-learning-language
+- [x] hero-journey-stories
 
 **lessons-y-maths.js**
-- [ ] power-of-doubling
-- [ ] monty-hall-problem
-- [ ] fractals-coastlines
-- [ ] seven-bridges-networks
-- [ ] check-digits
-- [ ] benfords-law
-- [ ] geometry-in-nature
-- [ ] history-of-counting
+- [x] power-of-doubling
+- [x] monty-hall-problem
+- [x] fractals-coastlines
+- [x] seven-bridges-networks
+- [x] check-digits
+- [x] benfords-law
+- [x] geometry-in-nature
+- [x] history-of-counting
 
 **lessons-y-money.js**
-- [ ] history-of-money
-- [ ] how-banks-create-money
-- [ ] hyperinflation
-- [ ] financial-bubbles
-- [ ] opportunity-cost
-- [ ] externalities
-- [ ] incentives
-- [ ] great-economic-debate
+- [x] history-of-money
+- [x] how-banks-create-money
+- [x] hyperinflation
+- [x] financial-bubbles
+- [x] opportunity-cost
+- [x] externalities
+- [x] incentives
+- [x] great-economic-debate
 
 **lessons-y-nature.js**
-- [ ] tardigrades
-- [ ] mangroves
-- [ ] carnivorous-plants
-- [ ] camouflage
-- [ ] fungi
-- [ ] ants
-- [ ] eucalypts
-- [ ] animal-longevity
+- [x] tardigrades
+- [x] mangroves
+- [x] carnivorous-plants
+- [x] camouflage
+- [x] fungi
+- [x] ants
+- [x] eucalypts
+- [x] animal-longevity
 
 **lessons-y-philosophy.js**
-- [ ] trolley-problem
-- [ ] ship-of-theseus
-- [ ] descartes-doubt
-- [ ] epicurus-pleasure
-- [ ] ubuntu-philosophy
-- [ ] islamic-golden-age-philosophy
-- [ ] problem-of-induction
-- [ ] veil-of-ignorance
+- [x] trolley-problem
+- [x] ship-of-theseus
+- [x] descartes-doubt
+- [x] epicurus-pleasure
+- [x] ubuntu-philosophy
+- [x] islamic-golden-age-philosophy
+- [x] problem-of-induction
+- [x] veil-of-ignorance
 
 **lessons-y-psychology.js**
-- [ ] inattentional-blindness
-- [ ] cognitive-dissonance
-- [ ] impostor-phenomenon
-- [ ] spotlight-effect
-- [ ] deja-vu
-- [ ] boredom-science
-- [ ] choice-overload
-- [ ] self-control-marshmallow
+- [x] inattentional-blindness
+- [x] cognitive-dissonance
+- [x] impostor-phenomenon
+- [x] spotlight-effect
+- [x] deja-vu
+- [x] boredom-science
+- [x] choice-overload
+- [x] self-control-marshmallow
 
 **lessons-y-safety.js**
-- [ ] flood-safety
-- [ ] heatwave-safety
-- [ ] home-fire-safety
-- [ ] emergency-kit-plan
-- [ ] storms-cyclones
-- [ ] driving-long-distance
-- [ ] heart-attack-stroke-signs
-- [ ] lost-in-the-bush
+- [x] flood-safety
+- [x] heatwave-safety
+- [x] home-fire-safety
+- [x] emergency-kit-plan
+- [x] storms-cyclones
+- [x] driving-long-distance
+- [x] heart-attack-stroke-signs
+- [x] lost-in-the-bush
 
 **lessons-y-science.js**
-- [ ] magnetism
-- [ ] sound
-- [ ] photosynthesis
-- [ ] cells
-- [ ] radioactivity
-- [ ] heat-temperature
-- [ ] enzymes
-- [ ] soil
+- [x] magnetism
+- [x] sound
+- [x] photosynthesis
+- [x] cells
+- [x] radioactivity
+- [x] heat-temperature
+- [x] enzymes
+- [x] soil
 
 **lessons-y-society.js**
-- [ ] code-of-hammurabi
-- [ ] trial-by-jury
-- [ ] separation-of-powers
-- [ ] the-dismissal-1975
-- [ ] mabo-native-title
-- [ ] nuremberg-trials
-- [ ] votes-for-women-au
-- [ ] social-contract
+- [x] code-of-hammurabi
+- [x] trial-by-jury
+- [x] separation-of-powers
+- [x] the-dismissal-1975
+- [x] mabo-native-title
+- [x] nuremberg-trials
+- [x] votes-for-women-au
+- [x] social-contract
 
 **lessons-y-space.js**
-- [ ] auroras-space-weather
-- [ ] meteors-meteorites
-- [ ] neutron-stars-pulsars
-- [ ] gravitational-waves
-- [ ] ocean-moons
-- [ ] space-junk
-- [ ] cosmic-distance-ladder
-- [ ] first-nations-astronomy
+- [x] auroras-space-weather
+- [x] meteors-meteorites
+- [x] neutron-stars-pulsars
+- [x] gravitational-waves
+- [x] ocean-moons
+- [x] space-junk
+- [x] cosmic-distance-ladder
+- [x] first-nations-astronomy
 
 **lessons-y-technology.js**
-- [ ] touchscreens
-- [ ] how-wifi-works
-- [ ] the-cloud
-- [ ] lithium-ion-batteries
-- [ ] undersea-cables
-- [ ] babbage-and-lovelace
-- [ ] file-compression
-- [ ] making-microchips
+- [x] touchscreens
+- [x] how-wifi-works
+- [x] the-cloud
+- [x] lithium-ion-batteries
+- [x] undersea-cables
+- [x] babbage-and-lovelace
+- [x] file-compression
+- [x] making-microchips
 
 **lessons-y-thinking.js**
-- [ ] philosophical-razors
-- [ ] conspiracy-theories
-- [ ] cold-reading-barnum-effect
-- [ ] illusion-of-explanatory-depth
-- [ ] science-vs-pseudoscience
-- [ ] patterns-in-randomness
-- [ ] regression-to-the-mean
-- [ ] berksons-paradox
+- [x] philosophical-razors
+- [x] conspiracy-theories
+- [x] cold-reading-barnum-effect
+- [x] illusion-of-explanatory-depth
+- [x] science-vs-pseudoscience
+- [x] patterns-in-randomness
+- [x] regression-to-the-mean
+- [x] berksons-paradox
 
 **lessons-x-body.js**
-- [ ] heart-blood
-- [ ] digestion
-- [ ] muscles-bones
-- [ ] senses
-- [ ] neurons
-- [ ] brain-chemicals
-- [ ] dreams
-- [ ] consciousness
+- [x] heart-blood
+- [x] digestion
+- [x] muscles-bones
+- [x] senses
+- [x] neurons
+- [x] brain-chemicals
+- [x] dreams
+- [x] consciousness
 
 **lessons-x-chemphys.js**
-- [ ] atoms
-- [ ] periodic-table
-- [ ] chemical-reactions
-- [ ] acids-bases
-- [ ] kitchen-chemistry
-- [ ] newtons-laws
-- [ ] gravity
-- [ ] energy
-- [ ] electricity
-- [ ] light
-- [ ] relativity
+- [x] atoms
+- [x] periodic-table
+- [x] chemical-reactions
+- [x] acids-bases
+- [x] kitchen-chemistry
+- [x] newtons-laws
+- [x] gravity
+- [x] energy
+- [x] electricity
+- [x] light
+- [x] relativity
 
 **lessons-x-explorers.js**
-- [ ] polynesian-navigators
-- [ ] marco-polo
-- [ ] age-of-discovery
-- [ ] magellan
-- [ ] cook
-- [ ] polar-explorers
+- [x] polynesian-navigators
+- [x] marco-polo
+- [x] age-of-discovery
+- [x] magellan
+- [x] cook
+- [x] polar-explorers
 
 **lessons-x-firstcivs.js**
-- [ ] mesopotamia
-- [ ] writing-origins
-- [ ] indus-valley
-- [ ] ancient-china
-- [ ] maya-aztec-inca
+- [x] mesopotamia
+- [x] writing-origins
+- [x] indus-valley
+- [x] ancient-china
+- [x] maya-aztec-inca
 
 **lessons-x-greece.js**
-- [ ] greek-city-states
-- [ ] greek-democracy
-- [ ] greek-wars
-- [ ] greek-philosophers
-- [ ] alexander
-- [ ] greek-legacy
+- [x] greek-city-states
+- [x] greek-democracy
+- [x] greek-wars
+- [x] greek-philosophers
+- [x] alexander
+- [x] greek-legacy
 
 **lessons-x-happy.js**
-- [ ] happiness-science
-- [ ] hedonic-adaptation
-- [ ] gratitude
-- [ ] social-connection
-- [ ] meaning
-- [ ] mindfulness
-- [ ] attachment
-- [ ] love-science
-- [ ] conflict
-- [ ] boundaries
-- [ ] adult-friendship
+- [x] happiness-science
+- [x] hedonic-adaptation
+- [x] gratitude
+- [x] social-connection
+- [x] meaning
+- [x] mindfulness
+- [x] attachment
+- [x] love-science
+- [x] conflict
+- [x] boundaries
+- [x] adult-friendship
 
 **lessons-x-medieval.js**
-- [ ] feudalism
-- [ ] vikings
-- [ ] islamic-golden-age
-- [ ] crusades
-- [ ] magna-carta
+- [x] feudalism
+- [x] vikings
+- [x] islamic-golden-age
+- [x] crusades
+- [x] magna-carta
 
 **lessons-x-mind.js**
-- [ ] forgetting-curve
-- [ ] learning-science
-- [ ] focus
-- [ ] growth-mindset
-- [ ] emotions-science
-- [ ] emotional-regulation
-- [ ] empathy
-- [ ] resilience
+- [x] forgetting-curve
+- [x] learning-science
+- [x] focus
+- [x] growth-mindset
+- [x] emotions-science
+- [x] emotional-regulation
+- [x] empathy
+- [x] resilience
 
 **lessons-x-modern.js**
-- [ ] great-depression
-- [ ] holocaust
-- [ ] end-of-empires
-- [ ] civil-rights
-- [ ] first-fleet
-- [ ] gold-rush
-- [ ] federation
-- [ ] modern-australia
+- [x] great-depression
+- [x] holocaust
+- [x] end-of-empires
+- [x] civil-rights
+- [x] first-fleet
+- [x] gold-rush
+- [x] federation
+- [x] modern-australia
 
 **lessons-x-psych1.js**
-- [ ] famous-experiments
-- [ ] personality
-- [ ] first-impressions
-- [ ] conformity
-- [ ] obedience
-- [ ] bystander-effect
-- [ ] groupthink
+- [x] famous-experiments
+- [x] personality
+- [x] first-impressions
+- [x] conformity
+- [x] obedience
+- [x] bystander-effect
+- [x] groupthink
 
 **lessons-x-psych2.js**
-- [ ] manipulation-tactics
-- [ ] gaslighting
-- [ ] dark-triad
-- [ ] cults
-- [ ] false-memories
-- [ ] optical-illusions
-- [ ] dunning-kruger
-- [ ] intuition
+- [x] manipulation-tactics
+- [x] gaslighting
+- [x] dark-triad
+- [x] cults
+- [x] false-memories
+- [x] optical-illusions
+- [x] dunning-kruger
+- [x] intuition
 
 **lessons-x-revolutions.js**
-- [ ] scientific-revolution
-- [ ] american-revolution
-- [ ] french-revolution
-- [ ] abolition
-- [ ] russian-revolution
+- [x] scientific-revolution
+- [x] american-revolution
+- [x] french-revolution
+- [x] abolition
+- [x] russian-revolution
 
 **lessons-x-rome.js**
-- [ ] roman-republic
-- [ ] julius-caesar
-- [ ] roman-daily-life
-- [ ] roman-engineering
-- [ ] fall-of-rome
+- [x] roman-republic
+- [x] julius-caesar
+- [x] roman-daily-life
+- [x] roman-engineering
+- [x] fall-of-rome
 
 **lessons-x-stoic.js**
-- [ ] stoic-founders
-- [ ] epictetus
-- [ ] seneca
-- [ ] marcus-aurelius
-- [ ] stoic-practices
-- [ ] socratic-method
-- [ ] eastern-philosophy
-- [ ] enlightenment
-- [ ] free-will
-- [ ] existentialism
+- [x] stoic-founders
+- [x] epictetus
+- [x] seneca
+- [x] marcus-aurelius
+- [x] stoic-practices
+- [x] socratic-method
+- [x] eastern-philosophy
+- [x] enlightenment
+- [x] free-will
+- [x] existentialism
 
 **lessons-n-ai.js**
-- [ ] ai-history
-- [ ] machine-learning
-- [ ] ai-images
-- [ ] using-ai-well
-- [ ] ai-risks
+- [x] ai-history
+- [x] machine-learning
+- [x] ai-images
+- [x] using-ai-well
+- [x] ai-risks
 
 **lessons-n-animals.js**
-- [ ] marsupials
-- [ ] monotremes
-- [ ] australian-birds
-- [ ] reptiles
-- [ ] animal-intelligence
-- [ ] animal-senses
-- [ ] migration
+- [x] marsupials
+- [x] monotremes
+- [x] australian-birds
+- [x] reptiles
+- [x] animal-intelligence
+- [x] animal-senses
+- [x] migration
 
 **lessons-n-art.js**
-- [ ] cave-art
-- [ ] aboriginal-art
-- [ ] impressionism
-- [ ] modern-art
-- [ ] looking-at-art
+- [x] cave-art
+- [x] aboriginal-art
+- [x] impressionism
+- [x] modern-art
+- [x] looking-at-art
 
 **lessons-n-books.js**
-- [ ] epics
-- [ ] shakespeare
-- [ ] the-novel
-- [ ] poetry
-- [ ] dystopias
+- [x] epics
+- [x] shakespeare
+- [x] the-novel
+- [x] poetry
+- [x] dystopias
 
 **lessons-n-business.js**
-- [ ] business-idea
-- [ ] business-model
-- [ ] marketing-basics
-- [ ] cash-flow
-- [ ] start-business-au
-- [ ] startup-lessons
+- [x] business-idea
+- [x] business-model
+- [x] marketing-basics
+- [x] cash-flow
+- [x] start-business-au
+- [x] startup-lessons
 
 **lessons-n-coding.js**
-- [ ] what-is-code
-- [ ] algorithms
-- [ ] programming-languages
-- [ ] how-websites
-- [ ] debugging
+- [x] what-is-code
+- [x] algorithms
+- [x] programming-languages
+- [x] how-websites
+- [x] debugging
 
 **lessons-n-decide-finance.js**
-- [ ] mental-models
-- [ ] risk
-- [ ] game-theory
-- [ ] insurance
-- [ ] retirement
+- [x] mental-models
+- [x] risk
+- [x] game-theory
+- [x] insurance
+- [x] retirement
 
 **lessons-n-earth.js**
-- [ ] earth-structure
-- [ ] volcanoes-earthquakes
-- [ ] weather
-- [ ] ice-ages
-- [ ] renewable-energy
+- [x] earth-structure
+- [x] volcanoes-earthquakes
+- [x] weather
+- [x] ice-ages
+- [x] renewable-energy
 
 **lessons-n-econ-work.js**
-- [ ] gdp
-- [ ] interest-rates
-- [ ] trade
-- [ ] recessions
-- [ ] writing-emails
-- [ ] job-interview
+- [x] gdp
+- [x] interest-rates
+- [x] trade
+- [x] recessions
+- [x] writing-emails
+- [x] job-interview
 
 **lessons-n-evolution.js**
-- [ ] genes-inheritance
-- [ ] human-evolution
-- [ ] extinction
-- [ ] gene-editing
-- [ ] first-life
-- [ ] fossils
+- [x] genes-inheritance
+- [x] human-evolution
+- [x] extinction
+- [x] gene-editing
+- [x] first-life
+- [x] fossils
 
 **lessons-n-fitness-food.js**
-- [ ] cardio-fitness
-- [ ] strength-training
-- [ ] alcohol
-- [ ] knife-skills
-- [ ] flavour
-- [ ] food-safety
+- [x] cardio-fitness
+- [x] strength-training
+- [x] alcohol
+- [x] knife-skills
+- [x] flavour
+- [x] food-safety
 
 **lessons-n-food-safety.js**
-- [ ] baking-science
-- [ ] meal-planning
-- [ ] cpr
-- [ ] bites-stings
-- [ ] water-safety
-- [ ] bushfire-safety
+- [x] baking-science
+- [x] meal-planning
+- [x] cpr
+- [x] bites-stings
+- [x] water-safety
+- [x] bushfire-safety
 
 **lessons-n-geography.js**
-- [ ] continents
-- [ ] rivers-mountains
-- [ ] deserts
-- [ ] borders
-- [ ] cities
-- [ ] population
+- [x] continents
+- [x] rivers-mountains
+- [x] deserts
+- [x] borders
+- [x] cities
+- [x] population
 
 **lessons-n-government.js**
-- [ ] how-democracy
-- [ ] political-ideas
-- [ ] australian-parliament
-- [ ] voting-au
-- [ ] human-rights
-- [ ] united-nations
+- [x] how-democracy
+- [x] political-ideas
+- [x] australian-parliament
+- [x] voting-au
+- [x] human-rights
+- [x] united-nations
 
 **lessons-n-inventions.js**
-- [ ] engines
-- [ ] electric-light
-- [ ] telephone-radio
-- [ ] flight
-- [ ] australian-inventions
+- [x] engines
+- [x] electric-light
+- [x] telephone-radio
+- [x] flight
+- [x] australian-inventions
 
 **lessons-n-investing.js**
-- [ ] risk-return
-- [ ] bonds
-- [ ] diversification
-- [ ] property-investing
-- [ ] investing-mistakes
+- [x] risk-return
+- [x] bonds
+- [x] diversification
+- [x] property-investing
+- [x] investing-mistakes
 
 **lessons-n-language.js**
-- [ ] language-origins
-- [ ] etymology
-- [ ] world-languages
-- [ ] grammar-myths
-- [ ] writing-well
+- [x] language-origins
+- [x] etymology
+- [x] world-languages
+- [x] grammar-myths
+- [x] writing-well
 
 **lessons-n-law.js**
-- [ ] legal-system-au
-- [ ] constitution-au
-- [ ] contracts
-- [ ] consumer-rights
-- [ ] workplace-rights
+- [x] legal-system-au
+- [x] constitution-au
+- [x] contracts
+- [x] consumer-rights
+- [x] workplace-rights
 
 **lessons-n-maths.js**
-- [ ] percentages
-- [ ] mental-maths
-- [ ] big-numbers
-- [ ] famous-maths
+- [x] percentages
+- [x] mental-maths
+- [x] big-numbers
+- [x] famous-maths
 
 **lessons-n-medicine.js**
-- [ ] germ-theory
-- [ ] vaccines
-- [ ] anaesthesia-surgery
-- [ ] pandemics
-- [ ] clinical-trials
+- [x] germ-theory
+- [x] vaccines
+- [x] anaesthesia-surgery
+- [x] pandemics
+- [x] clinical-trials
 
 **lessons-n-music.js**
-- [ ] how-music-works
-- [ ] instruments
-- [ ] classical-music
-- [ ] popular-music
-- [ ] music-brain
+- [x] how-music-works
+- [x] instruments
+- [x] classical-music
+- [x] popular-music
+- [x] music-brain
 
 **lessons-n-myths.js**
-- [ ] why-myths
-- [ ] greek-gods
-- [ ] greek-heroes
-- [ ] norse-myths
-- [ ] egyptian-myths
+- [x] why-myths
+- [x] greek-gods
+- [x] greek-heroes
+- [x] norse-myths
+- [x] egyptian-myths
 
 **lessons-n-oceans.js**
-- [ ] ocean-zones
-- [ ] ocean-currents
-- [ ] deep-sea
-- [ ] sharks
-- [ ] whales
-- [ ] great-barrier-reef
+- [x] ocean-zones
+- [x] ocean-currents
+- [x] deep-sea
+- [x] sharks
+- [x] whales
+- [x] great-barrier-reef
 
 **lessons-n-persuasion.js**
-- [ ] aristotle-rhetoric
-- [ ] storytelling
-- [ ] famous-speeches
-- [ ] arguing-well
-- [ ] body-language
-- [ ] renting
+- [x] aristotle-rhetoric
+- [x] storytelling
+- [x] famous-speeches
+- [x] arguing-well
+- [x] body-language
+- [x] renting
 
 **lessons-n-prehistory-universe.js**
-- [ ] dinosaurs
-- [ ] dino-extinction
-- [ ] megafauna
-- [ ] solar-system
-- [ ] galaxies
-- [ ] exoplanets
+- [x] dinosaurs
+- [x] dino-extinction
+- [x] megafauna
+- [x] solar-system
+- [x] galaxies
+- [x] exoplanets
 
 **lessons-n-religions.js**
-- [ ] religions-overview
-- [ ] hinduism
-- [ ] judaism
-- [ ] buddhism
-- [ ] christianity
-- [ ] islam
+- [x] religions-overview
+- [x] hinduism
+- [x] judaism
+- [x] buddhism
+- [x] christianity
+- [x] islam
 
 **lessons-n-spaceflight.js**
-- [ ] rockets
-- [ ] space-race
-- [ ] moon-landing
-- [ ] iss
-- [ ] telescopes
-- [ ] mars
+- [x] rockets
+- [x] space-race
+- [x] moon-landing
+- [x] iss
+- [x] telescopes
+- [x] mars
 
 **lessons-n-tech-cyber.js**
-- [ ] computers-work
-- [ ] binary
-- [ ] smartphones
-- [ ] passwords
-- [ ] phishing
-- [ ] privacy
-- [ ] hacking
+- [x] computers-work
+- [x] binary
+- [x] smartphones
+- [x] passwords
+- [x] phishing
+- [x] privacy
+- [x] hacking
 
 **lessons-z-ai.js**
-- [ ] mechanical-turk
-- [ ] robot-origins
-- [ ] automation-and-jobs
-- [ ] spam-filters
-- [ ] shortcut-learning
-- [ ] speech-recognition
-- [ ] gradient-descent
-- [ ] word-embeddings
-- [ ] expert-systems
-- [ ] bitter-lesson
+- [x] mechanical-turk
+- [x] robot-origins
+- [x] automation-and-jobs
+- [x] spam-filters
+- [x] shortcut-learning
+- [x] speech-recognition
+- [x] gradient-descent
+- [x] word-embeddings
+- [x] expert-systems
+- [x] bitter-lesson
 
 **lessons-z-ancient.js**
-- [ ] rosetta-stone
-- [ ] norman-conquest-1066
-- [ ] cleopatra
-- [ ] medieval-knights
-- [ ] tutankhamun-tomb
-- [ ] hannibal-punic-wars
-- [ ] joan-of-arc
-- [ ] hadrians-wall
-- [ ] medieval-myths
-- [ ] library-of-alexandria
+- [x] rosetta-stone
+- [x] norman-conquest-1066
+- [x] cleopatra
+- [x] medieval-knights
+- [x] tutankhamun-tomb
+- [x] hannibal-punic-wars
+- [x] joan-of-arc
+- [x] hadrians-wall
+- [x] medieval-myths
+- [x] library-of-alexandria
 
 **lessons-z-arts.js**
-- [ ] mona-lisa-theft
-- [ ] bayeux-tapestry
-- [ ] birth-of-cinema
-- [ ] frida-kahlo
-- [ ] sistine-chapel-ceiling
-- [ ] stradivarius-violins
-- [ ] rite-of-spring-premiere
-- [ ] bauhaus-design-school
-- [ ] how-music-was-written-down
-- [ ] vermeer-light
+- [x] mona-lisa-theft
+- [x] bayeux-tapestry
+- [x] birth-of-cinema
+- [x] frida-kahlo
+- [x] sistine-chapel-ceiling
+- [x] stradivarius-violins
+- [x] rite-of-spring-premiere
+- [x] bauhaus-design-school
+- [x] how-music-was-written-down
+- [x] vermeer-light
 
 **lessons-z-beliefs.js**
-- [ ] jainism
-- [ ] irish-myths
-- [ ] king-arthur-legend
-- [ ] great-pilgrimages
-- [ ] dia-de-muertos
-- [ ] bahai-faith
-- [ ] enuma-elish
-- [ ] aztec-gods
-- [ ] yoruba-orisha
-- [ ] making-the-bible
+- [x] jainism
+- [x] irish-myths
+- [x] king-arthur-legend
+- [x] great-pilgrimages
+- [x] dia-de-muertos
+- [x] bahai-faith
+- [x] enuma-elish
+- [x] aztec-gods
+- [x] yoruba-orisha
+- [x] making-the-bible
 
 **lessons-z-body.js**
-- [ ] blood-types-explained
-- [ ] how-wounds-heal
-- [ ] teeth-enamel-decay
-- [ ] how-your-voice-works
-- [ ] water-and-thirst
-- [ ] fever-explained
-- [ ] reflexes-spinal-cord
-- [ ] lymphatic-system
-- [ ] vestigial-body-parts
-- [ ] what-cancer-is
+- [x] blood-types-explained
+- [x] how-wounds-heal
+- [x] teeth-enamel-decay
+- [x] how-your-voice-works
+- [x] water-and-thirst
+- [x] fever-explained
+- [x] reflexes-spinal-cord
+- [x] lymphatic-system
+- [x] vestigial-body-parts
+- [x] what-cancer-is
 
 **lessons-z-business.js**
-- [ ] new-coke-1985
-- [ ] tylenol-crisis-1982
-- [ ] double-entry-bookkeeping
-- [ ] post-it-note-story
-- [ ] ikea-flat-pack
-- [ ] pareto-principle
-- [ ] psychological-safety
-- [ ] unit-economics
-- [ ] tupperware-brownie-wise
-- [ ] valuing-a-business
+- [x] new-coke-1985
+- [x] tylenol-crisis-1982
+- [x] double-entry-bookkeeping
+- [x] post-it-note-story
+- [x] ikea-flat-pack
+- [x] pareto-principle
+- [x] psychological-safety
+- [x] unit-economics
+- [x] tupperware-brownie-wise
+- [x] valuing-a-business
 
 **lessons-z-emotions.js**
 - [ ] anger-and-venting
