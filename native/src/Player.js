@@ -118,7 +118,7 @@ function TempleNext() {
 function Step({ P, acc }) {
   const s = P.steps[P.i], l = P.l;
   const next = () => E.advance();
-  const ended = (s.t === "l-reward" || s.t === "w-reward" || s.t === "summary") && E.raisedThisSession().length > 0;
+  const ended = (s.t === "l-reward" || s.t === "w-reward" || s.t === "x-reward" || s.t === "summary") && E.raisedThisSession().length > 0;
   let card = null, foot = null;
   if (s.t === "l-intro") {
     const lv = E.LEVELS[l.level] || E.LEVELS.beginner, disc = E.disclaimerFor(l);
@@ -186,7 +186,7 @@ function Step({ P, acc }) {
     foot = <Btn block kind="ghost" title="Done for now" onPress={E.closePlayer} />;
   } else if (s.t === "w-card") {
     card = <Card><Eyebrow text={`${P.isWotd ? "Word of the day" : "New word"} · see it, hear it`} /><WordCard e={P.e} noEx /></Card>;
-    foot = <BtnRow><Btn flex={1} kind="ghost" icon="speaker" title="Hear again" onPress={() => speak(P.e.w)} /><Btn flex={1} title="Test me" onPress={next} color={acc[0]} /></BtnRow>;
+    foot = <BtnRow><Btn flex={1} kind="ghost" icon="speaker" title="Hear again" onPress={() => speak(P.e.w)} /><Btn flex={1} title="Done" onPress={next} color={acc[0]} /></BtnRow>;
   } else if (s.t === "w-reward") {
     card = <Reward r={P.reward} head={P.reward.isNew ? "Added to your words" : "Word practised"} big={`+${P.reward.xp} XP`} acc={acc} bottom={ended ? <TempleNext /> : null} />;
     foot = <Btn block title="Done" onPress={next} color={acc[0]} />;
@@ -209,10 +209,6 @@ function Step({ P, acc }) {
       <Lines rows={[["Format", c.timed ? c.timed + " seconds" : (P.total || c.count) + (c.id === "memory" ? " rounds" : " questions")], ...(cat ? [] : [["Yesterday's score", y ?? "–"], ["Best today", t ?? "–"]])]} />
       {!cat && y != null ? <Muted>Beat {y} for a +{E.RULES.xp.beatYesterday} XP bonus.</Muted> : null}</Card>;
     foot = <Btn block title={c.timed ? "Start the clock" : "Start"} onPress={next} color={acc[0]} />;
-  } else if (s.t === "v-intro") {
-    card = <Card><Eyebrow text="Vocabulary size" /><H1>How many words do you know?</H1>
-      <Big>15 quick questions from common to advanced. Don't guess wildly: skip-level guesses make the estimate less accurate.</Big></Card>;
-    foot = <Btn block title="Start" onPress={next} color={acc[0]} />;
   } else if (s.t === "m-intro") {
     const x = P.subject;
     card = <Card><Tag color={C.gold} text="Mastery exam" /><H1>{x.title}</H1>
@@ -223,10 +219,13 @@ function Step({ P, acc }) {
     const q = P.quote, ec = PC.expression[0];
     card = <Card><Tag color={ec} text="Logos · Quote of the day" /><BigQuote text={q.q} color={ec} /><Byline a={q.a} w={q.w} />
       <Idea label="What it means" text={q.m} color={ec} /><Text style={T.small}>Read it twice. Try saying it out loud.</Text></Card>;
-    foot = <Btn block title="Test me on it" onPress={next} color={acc[0]} />;
+    foot = <Btn block title="Done" onPress={next} color={acc[0]} />;
+  } else if (s.t === "x-reward") {
+    card = <Reward r={P.reward} head="Quote read" big={`+${P.reward.xp} XP`} acc={acc} bottom={ended ? <TempleNext /> : null} />;
+    foot = <Btn block title="Done" onPress={next} color={acc[0]} />;
   } else if (s.t === "summary") {
     const r = P.reward;
-    const big = P.mode === "vocab" ? "≈" + (E.state.vocab.value / 1000).toFixed(1) + "k" : P.score + "/" + r.total;
+    const big = P.score + "/" + r.total;
     const top = P.mode === "mastery" && P.passed ? <View style={{ alignSelf: "stretch", flexDirection: "row", alignItems: "center", justifyContent: "center", gap: 10, padding: 12, borderRadius: 12, backgroundColor: C.goldSoft }}>
       <Icon name="laurel" size={26} color={C.gold} /><Text style={{ fontFamily: F.body7, fontSize: 15, color: C.gold }}>{P.subject.title} mastered</Text></View> : null;
     card = <Reward r={r} head={r.title + " complete"} big={big} xpPill={r.xp > 0} top={top} acc={acc} bottom={ended ? <TempleNext /> : null} />;

@@ -19,11 +19,11 @@ export const RULES = {
   levelMult: { beginner: 1, intermediate: 1.25, advanced: 1.5 },
   xp: {
     lessonCorrect: 10, lessonComplete: 20, perfect: 25, retryRight: 3, replayFactor: 0.5,
-    wordLearn: 15, wordExercise: 5, wordAdd: 2,
+    wordLearn: 15, wordAdd: 2,
     quizCorrect: 3, quizPerfect: 20,
     challengePoint: 2, beatYesterday: 15,
     recallRight: 5, reviewRight: 3,
-    dailyComplete: 50, quoteRead: 10, quoteRight: 5, masteryCorrect: 5, mastery: 100,
+    dailyComplete: 50, quoteRead: 10, masteryCorrect: 5, mastery: 100,
     masteryPass: 8,
   },
   goldenChance: 1 / 8,
@@ -241,11 +241,12 @@ function buildActivity(a, o) {
 const STORE_KEY = "wisebyte.v3";
 const freshStats = () => ({ answered: 0, correct: 0, run: 0, bestRun: 0, perfectLessons: 0, goldens: 0, recalls: 0, recallsRight: 0,
   challenges: 0, beatYesterday: 0, dailyCompletes: 0, lookups: 0, speedBest: 0, perfectFob: 0, perfectTimeline: 0, perfectOpposites: 0, perfectCapitals: 0, perfectCritical: 0, perfectGk: 0 });
-export const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, vocab: null, quotes: {}, mastered: {}, inner: {}, stats: freshStats() });
+export const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, quotes: {}, mastered: {}, inner: {}, notify: { on: false, time: "08:00", asked: false }, stats: freshStats() });
 export const mergeProfile = p => {
   const m = Object.assign(freshProfile(), p && typeof p === "object" ? p : {});
   for (const k of ["days", "lessons", "words", "custom", "ach", "scores", "quotes", "mastered", "inner"]) if (!m[k] || typeof m[k] !== "object" || Array.isArray(m[k])) m[k] = {};
   m.stats = Object.assign(freshStats(), (p && p.stats) || {});
+  m.notify = Object.assign({ on: false, time: "08:00", asked: false }, (p && p.notify) || {});
   return m;
 };
 export let store = { active: "adult", profiles: { adult: freshProfile() } };
@@ -279,7 +280,7 @@ export const entry = w => WORD_BY[w] || state.custom[w];
 export const allWords = () => lib().concat(Object.values(state.custom));
 export const catOf = l => WB.CATEGORIES[l.cat] || { name: l.cat, color: "#888" };
 export const wcatOf = e => WB.WORD_CATS[e.cat] || WB.WORD_CATS.everyday;
-export const lessonMins = l => { const w = l.sections.reduce((a, s) => a + s.b.split(/\s+/).length, 0); return Math.max(3, Math.round(w / 190 + 2)); };
+export const lessonMins = l => { const w = l.sections.reduce((a, s) => a + s.b.split(/\s+/).length, 0); return Math.max(1, Math.round(w / 200)); };
 
 export function day(k = today()) {
   return state.days[k] || (state.days[k] = { lesson: 0, word: false, quiz: false, challenge: false, know: false, practical: false, expr: false, goal: false, done: false, words: 0, challenges: 0, secs: 0, xp: 0 });
@@ -362,17 +363,15 @@ function updateWord(w, right) {
 }
 export const struggling = w => { const r = state.words[w]; return !!r && (r.lapses >= 2 || (r.wrong >= 2 && r.wrong >= r.right)); };
 export const mastered = w => { const r = state.words[w]; return !!r && r.box >= RULES.masteredBox; };
-export const allDueWords = () => Object.keys(state.words).filter(w => entry(w) && state.words[w].due <= today());
 export const allDueLessons = () => Object.keys(state.lessons).filter(id => lessonById(id) && (lessonById(id).audience || "adult") === aud() && state.lessons[id].due <= today())
   .sort((a, b) => state.lessons[a].due.localeCompare(state.lessons[b].due));
 export const REVIEW_CAP = 10;
 export const reviewsLeft = () => Math.max(0, REVIEW_CAP - (day().reviewed || 0));
 function reviewQueue() {
-  const items = [...allDueLessons().map(id => ({ k: "l", id, due: state.lessons[id].due })), ...allDueWords().map(id => ({ k: "w", id, due: state.words[id].due }))];
+  const items = allDueLessons().map(id => ({ k: "l", id, due: state.lessons[id].due }));
   return items.sort((a, b) => a.due.localeCompare(b.due)).slice(0, reviewsLeft());
 }
 export const dueLessons = () => reviewQueue().filter(x => x.k === "l").map(x => x.id);
-export const dueWords = () => reviewQueue().filter(x => x.k === "w").map(x => x.id);
 
 function lessonMastery(l) {
   const r = state.lessons[l.id]; if (!r) return 0;
@@ -394,6 +393,14 @@ export function lessonOfDay() {
   const src = fresh.length ? fresh : pool;
   const l = src[hashStr(today() + aud() + "L") % src.length]; d.lotd = l.id; save(); return l;
 }
+/* the lesson the app shows on a given day (today: the real lesson of the day; later days: the same rule, nothing saved) */
+export function lessonForDate(k) {
+  if (k === today()) return lessonOfDay();
+  const pool = lessons().filter(l => !isPractical(l)), fresh = pool.filter(l => !state.lessons[l.id]);
+  const src = fresh.length ? fresh : pool;
+  return src[hashStr(k + aud() + "L") % src.length];
+}
+export const hooksNotify = { firstLesson: null, refresh: null };
 export function wordOfDay() {
   const d = day(); if (d.wotd && entry(d.wotd)) return entry(d.wotd);
   const pool = lib(), fresh = pool.filter(e => !state.words[e.w]);
@@ -410,7 +417,6 @@ export const ACHIEVEMENTS = [
   { id: "scholar", name: "Scholar", desc: "Finish 15 lessons", icon: "cap", test: c => c.lessons >= 15 },
   { id: "wordsmith", name: "Wordsmith", desc: "Learn your first word", icon: "pen", test: c => c.words >= 1 },
   { id: "lexicon", name: "Lexicon", desc: "Collect 25 words", icon: "stack", test: c => c.words >= 25 },
-  { id: "silver", name: "Silver Tongue", desc: "Master 10 words", icon: "star", test: c => c.mastered >= 10 },
   { id: "flawless", name: "Flawless", desc: "Get a perfect lesson score", icon: "check", test: c => c.perfectLessons >= 1 },
   { id: "perfectionist", name: "Perfectionist", desc: "5 perfect lesson scores", icon: "check", test: c => c.perfectLessons >= 5 },
   { id: "s3", name: "On a Roll", desc: "3-day streak", icon: "flame", test: c => c.best >= 3 },
@@ -545,9 +551,8 @@ export function pillarItems() {
   };
   return PILLAR5.map(x => ({ ...x, ...info[x.p] }));
 }
-export const learnedQuotes = () => quotePool().filter(x => state.quotes[x.id]);
 export function memoryStrength() {
-  const recs = [...Object.keys(state.lessons).filter(lessonById).map(id => state.lessons[id]), ...Object.keys(state.words).filter(entry).map(w => state.words[w])];
+  const recs = Object.keys(state.lessons).filter(lessonById).map(id => state.lessons[id]);
   if (!recs.length) return null;
   const t = today(), score = recs.reduce((a, r) => a + (r.due < t ? Math.min(r.box, 4) / 8 : Math.min(r.box + 1, 5) / 5), 0);
   return { pct: Math.round(100 * score / recs.length), n: recs.length };
@@ -658,8 +663,7 @@ export function startLesson(id) {
 }
 export function startWord(w, isWotd) {
   const e = entry(w); if (!e) return;
-  start({ mode: "word", e, isWotd, wordRight: 0, color: wcatOf(e).color,
-    steps: [{ t: "w-card" }, { t: "q", q: qFit(e), head: "Where does it fit?" }, { t: "w-reward" }] });
+  start({ mode: "word", e, isWotd, color: wcatOf(e).color, steps: [{ t: "w-card" }, { t: "w-reward" }] });
 }
 export function startRecall() {
   const ids = dueLessons().slice(0, 5); if (!ids.length) return toast("Nothing to recall right now");
@@ -667,19 +671,6 @@ export function startRecall() {
 }
 function wordSteps(list, kinds) {
   return list.map(e => { let k = pick(kinds); if (k === "odd" && !canOdd(e)) k = "meaning"; return { t: "q", q: wordQ[k](e) }; });
-}
-export function startWordReview() {
-  const ws = shuffle(dueWords()).slice(0, 12).map(entry); if (!ws.length) return toast("No words are due. Nice work!");
-  start({ mode: "review", total: ws.length, steps: [...wordSteps(ws, ["fit"]).map(s => ({ ...s, head: "Review" })), { t: "summary" }] });
-}
-export function startPractice(kind) {
-  const mine = Object.keys(state.words).map(entry).filter(Boolean);
-  let pool = kind === "struggling" ? mine.filter(e => struggling(e.w)) : mine;
-  if (kind === "struggling" && !pool.length) return toast("No tricky words yet. Words you miss twice show up here.");
-  if (kind !== "struggling" && pool.length < 4) pool = pool.concat(shuffle(lib().filter(e => !state.words[e.w]))).slice(0, 10);
-  const due = new Set(dueWords());
-  const list = shuffle(pool).sort((a, b) => (due.has(b.w) ? 1 : 0) - (due.has(a.w) ? 1 : 0)).slice(0, 10);
-  start({ mode: "practice", total: list.length, steps: [...wordSteps(list, ["fit"]), { t: "summary" }] });
 }
 export function startTrial() {
   const world = buildGK().slice(0, 5).map(st => ({ ...st, part: "The world" }));
@@ -696,21 +687,9 @@ export function startChallenge(id, opt) {
   const steps = buildActivity(a, opt);
   start({ mode: "challenge", c: a, opt, total: steps.filter(s => s.t === "q").length, steps: [{ t: "c-intro" }, ...steps, { t: "summary" }] });
 }
-export function startVocabTest() {
-  const L = [1, 2, 3].flatMap(n => shuffle(lib().filter(e => e.lvl === n)).slice(0, 5));
-  start({ mode: "vocab", total: L.length, tally: { 1: [0, 0], 2: [0, 0], 3: [0, 0] }, steps: [{ t: "v-intro" }, ...shuffle(L).map((e, i) => ({ t: "q", q: qMeaning(e), head: `Vocabulary check · ${i + 1} of ${L.length}` })), { t: "summary" }] });
-}
 export function startQuote() {
-  const q = quoteOfDay(), pool = quotePool();
-  const others = shuffle(pool.filter(x => x.i !== q.i));
-  const mo = shuffle([q.m, ...others.slice(0, 3).map(x => x.m)]);
-  const q1 = { t: "q", head: "Logos · What does it mean?", q: { prompt: `“${esc(q.q)}”`, sub: "Which best captures the meaning?", options: mo.map(esc), answer: mo.indexOf(q.m), explain: esc(q.m) } };
-  const seen = pool.filter(x => state.quotes[x.id] && state.quotes[x.id] < today());
-  const r = seen.length ? pick(seen) : q;
-  const authors = [...new Set(pool.map(x => x.a))].filter(a => a !== r.a);
-  const ao = shuffle([r.a, ...shuffle(authors).slice(0, 3)]);
-  const q2 = { t: "q", head: seen.length ? "Logos · Remember this one?" : "Logos · Who said it?", q: { prompt: `“${esc(r.q)}”`, sub: "Who said it?", options: ao.map(esc), answer: ao.indexOf(r.a), explain: esc(`${r.a}: ${r.w}.`) } };
-  start({ mode: "expr", quote: q, total: 2, steps: [{ t: "x-quote" }, q1, q2, { t: "summary" }] });
+  const q = quoteOfDay();
+  start({ mode: "expr", quote: q, steps: [{ t: "x-quote" }, { t: "x-reward" }] });
 }
 export function startMastery(id) {
   const x = subjectById(id); if (!x) return;
@@ -724,15 +703,8 @@ export function startMastery(id) {
 }
 export function startFullReview() {
   const ls = dueLessons().map(id => { const l = lessonById(id); return { t: "q", q: qLesson(l, rand(l.quiz.length), `You learned about <b>${esc(l.title)}</b> ${ago(state.lessons[id].learnedAt)}.`) }; });
-  const ws = wordSteps(shuffle(dueWords()).map(entry), ["fit"]);
-  const steps = shuffle(ls.concat(ws)).map((st, i, a) => ({ ...st, head: `Review · ${i + 1} of ${a.length}` }));
+  const steps = shuffle(ls).map((st, i, a) => ({ ...st, head: `Review · ${i + 1} of ${a.length}` }));
   if (!steps.length) return toast("Nothing is due right now");
-  start({ mode: "memory", total: steps.length, steps: [...steps, { t: "summary" }] });
-}
-export function startQuoteReview() {
-  const pool = shuffle(learnedQuotes()).slice(0, 5), authors = [...new Set(quotePool().map(x => x.a))];
-  const steps = pool.map((r, i) => { const ao = shuffle([r.a, ...shuffle(authors.filter(a => a !== r.a)).slice(0, 3)]);
-    return { t: "q", head: `Quotes · ${i + 1} of ${pool.length}`, q: { prompt: `“${esc(r.q)}”`, sub: "Who said it?", options: ao.map(esc), answer: ao.indexOf(r.a), explain: esc(`${r.a}: ${r.w}.`) } }; });
   start({ mode: "memory", total: steps.length, steps: [...steps, { t: "summary" }] });
 }
 export function startInner(kind) {
@@ -767,7 +739,6 @@ export function answer(i) {
   if ((P.mode === "recall" || P.mode === "review" || P.mode === "memory") && (q.src === "lesson" || q.src === "word")) day().reviewed = (day().reviewed || 0) + 1;
   if (right) P.score++;
   if (P.mode === "lesson") { if (s.retry) { if (right) P.retryRight++; } else P.results.push({ qi: q.qi, s: q.s, right }); }
-  else if (P.mode === "word") { if (right) P.wordRight++; }
   else if (P.mode === "recall") { lessonRecall(q.id, right); if (right) addXp(RULES.xp.recallRight); }
   else if (P.mode === "review" || P.mode === "practice") { updateWord(q.w, right); if (right) addXp(RULES.xp.reviewRight); }
   else if (P.mode === "quiz" || P.mode === "mastery" || P.mode === "memory") { if (P.mode === "memory" && !q.src) {} else if (q.src === "lesson") lessonRecall(q.id, right); else updateWord(q.w, right); }
@@ -786,6 +757,7 @@ function enter() {
   }
   if (s.t === "l-reward" && !P.reward) P.reward = finishLesson();
   if (s.t === "w-reward" && !P.reward) P.reward = finishWord();
+  if (s.t === "x-reward" && !P.reward) P.reward = finishQuote();
   if (s.t === "w-card" && !s.spoken) { s.spoken = true; setTimeout(() => { if (P && P.steps[P.i] === s && hooksPlayer.speak) hooksPlayer.speak(P.e.w); }, 350); }
   if (s.t === "summary" && !P.reward) P.reward = finishSession();
   if (s.t === "mem-show") memTimer = setTimeout(() => { if (P && P.steps[P.i] === s) { memTimer = null; advance(); } }, 700 * s.seq.length + 900);
@@ -806,17 +778,25 @@ function finishLesson() {
   else { rec.best = Math.max(rec.best, right); rec.attempts++; const was = rec.due; srUpdate(rec, right >= Math.ceil(n * 0.6)); if (rec.due < was) rec.due = was; }
   if (perfect) state.stats.perfectLessons++;
   day().lesson++; if (isPractical(l)) day().practical = true; else day().know = true;
+  if (!state.notify.asked && Object.keys(state.lessons).length === 1 && hooksNotify.firstLesson) setTimeout(hooksNotify.firstLesson, 1500);
+  else if (hooksNotify.refresh) setTimeout(hooksNotify.refresh, 0);
   return { xp, lines, right, n, perfect, out: wrapUp() };
 }
 function finishWord() {
   const e = P.e, lines = []; let xp = 0;
   const isNew = addWord(e.w, P.isWotd ? "daily" : "library");
   xp += RULES.xp.wordLearn; lines.push([isNew ? "New word learned" : "Word practised", `+${RULES.xp.wordLearn}`]);
-  if (P.wordRight) { const a = P.wordRight * RULES.xp.wordExercise; xp += a; lines.push([`Fit the sentence (${P.wordRight}/1)`, `+${a}`]); }
   if (!isNew) xp = Math.round(xp / 2);
   addXp(xp);
   day().word = true;
   return { xp, lines, isNew, out: wrapUp() };
+}
+function finishQuote() {
+  const lines = [["Quote of the day", `+${RULES.xp.quoteRead}`]]; let xp = RULES.xp.quoteRead;
+  if (day().expr) { xp = Math.round(xp / 2); lines.push(["Replay", "½ XP"]); }
+  state.quotes[P.quote.q] = state.quotes[P.quote.q] || today(); day().expr = true;
+  addXp(xp);
+  return { xp, lines, out: wrapUp() };
 }
 function finishSession() {
   const m = P.mode, total = P.mode === "challenge" && P.timed ? P.steps.filter(s => s.t === "q").length : (P.total || P.steps.filter(s => s.t === "q").length);
@@ -863,21 +843,8 @@ function finishSession() {
     if (first) { state.mastered[x.id] = today(); xp += RULES.xp.mastery; lines.push([`${x.title} mastered`, `+${RULES.xp.mastery}`]); }
     note = pass ? (first ? `You have mastered ${x.title}. It's on your Account page for good.` : "Passed again. Still a master.") : `You need ${RULES.xp.masteryPass}/10 to pass. Review the lessons you missed, then try again.`;
     P.passed = pass;
-  } else if (m === "expr") {
-    title = "Expression"; xp = RULES.xp.quoteRead + P.score * RULES.xp.quoteRight;
-    lines.push(["Quote of the day", `+${RULES.xp.quoteRead}`], [`Correct (${P.score}/${total})`, `+${P.score * RULES.xp.quoteRight}`]);
-    if (day().expr) { xp = Math.round(xp / 2); lines.push(["Replay", "½ XP"]); }
-    state.quotes[P.quote.q] = state.quotes[P.quote.q] || today(); day().expr = true;
-    note = "Quotes you've met come back later to test your memory.";
-  } else if (m === "vocab") {
-    title = "Vocabulary check";
-    const p = n => P.tally[n][1] ? P.tally[n][0] / P.tally[n][1] : 0;
-    const est = Math.round((8000 + 8000 * p(1) + 10000 * p(2) + 12000 * p(3)) / 500) * 500;
-    state.vocab = { value: est, date: today() };
-    lines.push(["Common words", `${P.tally[1][0]}/${P.tally[1][1]}`], ["Intermediate words", `${P.tally[2][0]}/${P.tally[2][1]}`], ["Advanced words", `${P.tally[3][0]}/${P.tally[3][1]}`]);
-    note = `Your estimated vocabulary is about ${fmt(est)} words. It's a rough estimate from 15 questions; retake it any time.`;
   }
-  if (m === "quiz" || m === "challenge" || m === "expr" || m === "mastery" || m === "inner" || m === "memory") addXp(xp);
+  if (m === "quiz" || m === "challenge" || m === "mastery" || m === "inner" || m === "memory") addXp(xp);
   return { title, xp, lines, total, note, out: wrapUp() };
 }
 /* which pillar colours the player */

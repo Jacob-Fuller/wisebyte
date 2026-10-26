@@ -9,6 +9,7 @@ import * as E from "./engine";
 import { ui, subscribe, goTab } from "./bus";
 import { Auth } from "./auth";
 import Purchases from "./purchases";
+import * as Notify from "./notify";
 import { C, F } from "./theme";
 import { Icon } from "./components/Icon";
 import { Tap } from "./components/ui";
@@ -119,6 +120,7 @@ export default function App() {
     (async () => {
       await Store.loadAll();
       E.loadState();
+      Notify.init();
       setReady(true);
       Purchases.init().catch(() => {});
       Auth.load().catch(() => {});

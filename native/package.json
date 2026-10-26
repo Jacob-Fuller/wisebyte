@@ -12,6 +12,7 @@
     "expo": "~54.0.0",
     "expo-clipboard": "*",
     "expo-font": "*",
+    "expo-notifications": "*",
     "expo-speech": "*",
     "expo-splash-screen": "*",
     "expo-status-bar": "*",

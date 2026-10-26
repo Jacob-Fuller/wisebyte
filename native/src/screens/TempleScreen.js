@@ -37,20 +37,19 @@ function pickPillar(x) {
 }
 
 function ReviewCard() {
-  const S = E.state, dl = E.dueLessons(), dw = E.dueWords(), strug = Object.keys(S.words).filter(w => E.entry(w) && E.struggling(w)), lq = E.learnedQuotes();
-  const due = dl.length + dw.length, ms = E.memoryStrength();
-  const waiting = E.allDueLessons().length + E.allDueWords().length - due, capped = E.reviewsLeft() === 0 && (E.day().reviewed || 0) > 0;
+  const dl = E.dueLessons();
+  const due = dl.length, ms = E.memoryStrength();
+  const waiting = E.allDueLessons().length - due, capped = E.reviewsLeft() === 0 && (E.day().reviewed || 0) > 0;
   const sub = due ? `About ${Math.max(1, Math.round(due * 0.4))} min${waiting > 0 ? ` · ${waiting} more tomorrow` : ""}`
     : capped ? `Today's ${E.REVIEW_CAP} are done${waiting > 0 ? ` · ${waiting} wait for tomorrow` : ""}`
-    : ms ? "Nothing due right now" : "Finish a lesson or learn a word to start";
+    : ms ? "Nothing due right now" : "Finish a lesson to start";
   const chip = (key, label, n, fn) => (
     <Tap key={key} onPress={fn} style={{ flexDirection: "row", alignItems: "center", gap: 6, paddingVertical: 6, paddingHorizontal: 10, borderRadius: 999, backgroundColor: C.surface2 }}>
       <Text style={{ fontFamily: F.body6, fontSize: 13, color: C.ink }}>{label}</Text>
       <Text style={{ fontFamily: F.mono7, fontSize: 12, color: C.ink2 }}>{n}</Text>
     </Tap>
   );
-  const chips = [dl.length ? chip("l", "Lessons", dl.length, E.startRecall) : null, dw.length ? chip("w", "Words", dw.length, E.startWordReview) : null,
-    strug.length ? chip("s", "Tricky words", strug.length, () => E.startPractice("struggling")) : null, lq.length >= 2 ? chip("q", "Quotes", lq.length, E.startQuoteReview) : null].filter(Boolean);
+  const chips = [dl.length ? chip("l", "Lessons", dl.length, E.startRecall) : null].filter(Boolean);
   const rc = PC.remember[0];
   return (
     <View style={{ gap: 10, padding: 14, borderRadius: 12, backgroundColor: C.surface, borderWidth: 1, borderColor: C.line, borderLeftWidth: 4, borderLeftColor: rc }}>

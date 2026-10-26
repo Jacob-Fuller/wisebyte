@@ -57,9 +57,6 @@ export default function ArenaScreen() {
             {S.trialBest != null ? <Chip text={`Best ${S.trialBest}/10`} /> : null}
           </View>) : null}
       </TrialCard>
-      <TrialCard hue={rc} icon="gauge" eyebrow="Metron" gr="μέτρον" title="Test Your Vocabulary" onPress={E.startVocabTest}>
-        {S.vocab ? <Text style={{ fontFamily: F.body7, fontSize: 13, color: rc }}>≈ {fmt(S.vocab.value)} words · {ago(S.vocab.date)}</Text> : null}
-      </TrialCard>
       <View style={{ gap: 10 }}>
         <SectionHead title="Brain games" right={`Beat yesterday +${E.RULES.xp.beatYesterday} XP`} rightStyle={{ fontFamily: F.body }} />
         <View style={{ flexDirection: "row", flexWrap: "wrap", gap: 8, justifyContent: "space-between" }}>{games.map(a => <GameTile key={a.id} a={a} hue={GAME_HUE[a.id] || "think"} />)}</View>

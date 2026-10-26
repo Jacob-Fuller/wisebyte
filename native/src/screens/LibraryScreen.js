@@ -119,28 +119,17 @@ function LookupPanel() {
 
 function VocabularyPage() {
   const list = E.lib().slice().sort((a, b) => a.w.localeCompare(b.w));
-  const mine = Object.keys(E.state.words).map(E.entry).filter(Boolean), strug = mine.filter(x => E.struggling(x.w)), mast = mine.filter(x => E.mastered(x.w));
+  const mine = Object.keys(E.state.words).map(E.entry).filter(Boolean);
   return (
     <>
       <Panel>
-        <SectionHead title="My words" right={`${mine.length} saved · ${mast.length} mastered`} />
-        <Text style={T.small}>See the word, hear it, then pick the sentence it fits best.</Text>
+        <SectionHead title="My words" right={`${mine.length} saved`} />
+        <Text style={T.small}>See the word and hear it.</Text>
         {mine.length ? <View style={{ flexDirection: "row", flexWrap: "wrap", gap: 8 }}>{mine.slice(0, 24).map(e => (
           <Tap key={e.w} onPress={() => openSheet("word", { w: e.w })} style={{ paddingVertical: 7, paddingHorizontal: 13, borderRadius: 999, backgroundColor: C.surface, borderWidth: 1, borderColor: C.line }}>
-            <Text style={{ fontFamily: F.body6, fontSize: 13, color: C.ink }}>{e.w}{E.struggling(e.w) ? " ·" : ""}</Text></Tap>))}</View> : null}
-        <BtnRow><Btn flex={1} icon="speaker" title="Practise" onPress={() => E.startPractice("fit")} />{strug.length ? <Btn flex={1} kind="ghost" title={`Tricky · ${strug.length}`} onPress={() => E.startPractice("struggling")} /> : null}</BtnRow>
-        <Tap onPress={E.startVocabTest} style={{ alignSelf: "flex-start" }}><Text style={{ fontFamily: F.body6, fontSize: 14, color: C.accent }}>{E.state.vocab ? `Vocabulary ≈ ${fmt(E.state.vocab.value)} words · retake` : "Estimate my vocabulary size"}</Text></Tap>
+            <Text style={{ fontFamily: F.body6, fontSize: 13, color: C.ink }}>{e.w}</Text></Tap>))}</View> : null}
       </Panel>
       <LookupPanel />
-      <Fold open={!!ui.foldOpen.master} onToggle={() => toggleFold("master")} title="Words - How do you 'master' them?">
-        <View style={{ gap: 10 }}>
-          <Text style={T.muted}>A word is mastered when you get it right in three spaced reviews in a row.</Text>
-          {[["1 · Learn it", "day 0"], ["2 · First review", "1 day later"], ["3 · Second review", "3 days later"], ["4 · Third review", "7 days later · mastered"]].map(([a, b]) => (
-            <View key={a} style={{ flexDirection: "row", justifyContent: "space-between", padding: 11, paddingHorizontal: 14, borderRadius: 12, backgroundColor: C.surface2 }}>
-              <Text style={T.body}>{a}</Text><Text style={{ fontFamily: F.mono7, fontSize: 14, color: C.ink }}>{b}</Text></View>))}
-          <Text style={T.small}>Reviews come to you on the Temple when they're due. Miss one and the word starts again from day 1. Miss a word twice and it's marked tricky, so you can practise it on its own.</Text>
-        </View>
-      </Fold>
       <Fold open={!!ui.foldOpen.words} onToggle={() => toggleFold("words")} title="All words" meta={plural(list.length, "word")}>
         <Text style={[T.small, { marginBottom: 8 }]}>Tap any word to learn it or add it to your collection.</Text>
         <Progressive items={list} render={e => <WordRow key={e.w} e={e} />} />

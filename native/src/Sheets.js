@@ -11,7 +11,8 @@ import { Icon } from "./components/Icon";
 import { T, Tap, Btn, BtnRow, Panel, SectionHead, Eyebrow } from "./components/ui";
 import { WordCard } from "./components/WordCard";
 import { SetRow } from "./screens/AccountScreen";
-import { today, ago, plural, daysBetween } from "./util";
+import { ago } from "./util";
+import * as Notify from "./notify";
 
 export const DOCS = { privacy: "https://wisebyte.app/privacy.html", terms: "https://wisebyte.app/terms.html" };
 export const EMAIL = "contact@wisebyte.app";
@@ -23,11 +24,11 @@ function WordSheet({ w }) {
   return (
     <>
       <Panel><WordCard e={e} /></Panel>
-      {r ? <Text style={T.small}>Added {ago(r.addedAt)} · next review {r.due <= today() ? "due now" : "in " + plural(daysBetween(today(), r.due), "day")} · {r.right} right, {r.wrong} wrong{E.struggling(w) ? " · marked tricky" : ""}</Text> : null}
+      {r ? <Text style={T.small}>Added {ago(r.addedAt)}</Text> : null}
       <BtnRow>
         {r ? <Btn flex={1} kind="ghost" title="Remove" onPress={() => { E.removeWord(w); closeSheet(); toast(`Removed “${w}”`); }} />
           : <Btn flex={1} kind="ghost" icon="plus" title="Add to my words" onPress={() => { E.addWordFromLibrary(w); toast(`Added “${w}” to your words`); changed(); }} />}
-        <Btn flex={1} title={r ? "Practise it" : "Learn it now"} onPress={() => { closeSheet(); E.startWord(w, false); }} />
+        <Btn flex={1} title={r ? "Hear it again" : "Learn it now"} onPress={() => { closeSheet(); E.startWord(w, false); }} />
       </BtnRow>
     </>
   );
@@ -163,8 +164,30 @@ function AuthSheet({ mode, note, isErr }) {
   );
 }
 
+function TimeSheet() {
+  const [h, m] = E.state.notify.time.split(":").map(Number);
+  const set = (nh, nm) => Notify.setTime(`${String(nh).padStart(2, "0")}:${String(nm).padStart(2, "0")}`);
+  const chip = (on, label, fn) => (
+    <Tap key={label} onPress={fn} style={{ paddingVertical: 9, paddingHorizontal: 14, borderRadius: 999, backgroundColor: on ? C.accent : C.surface2 }}>
+      <Text style={{ fontFamily: F.body6, fontSize: 14, color: on ? C.accentInk : C.ink }}>{label}</Text>
+    </Tap>
+  );
+  return (
+    <>
+      <Text style={T.h2}>Reminder time</Text>
+      <View style={{ flexDirection: "row", flexWrap: "wrap", gap: 8 }}>
+        {Array.from({ length: 17 }, (_, i) => i + 6).map(x => chip(x === h, `${((x + 11) % 12) + 1} ${x < 12 ? "am" : "pm"}`, () => set(x, m)))}
+      </View>
+      <View style={{ flexDirection: "row", flexWrap: "wrap", gap: 8 }}>
+        {[0, 15, 30, 45].map(x => chip(x === m, `:${String(x).padStart(2, "0")}`, () => set(h, x)))}
+      </View>
+    </>
+  );
+}
+
 function Body({ s }) {
   switch (s.type) {
+    case "notifytime": return <TimeSheet />;
     case "word": return <WordSheet w={s.w} />;
     case "quote": return <QuoteSheet i={s.i} />;
     case "ach": return <AchSheet id={s.id} />;

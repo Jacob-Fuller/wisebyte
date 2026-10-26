@@ -9,6 +9,7 @@ import { Icon } from "../components/Icon";
 import { T, Tap, Btn, BtnRow, Panel, SectionHead, Bar, Eyebrow } from "../components/ui";
 import { Header } from "./TempleScreen";
 import { fmt } from "../util";
+import * as Notify from "../notify";
 
 export function SetRow({ title, sub, val, onPress, danger, chev }) {
   return (
@@ -79,7 +80,7 @@ export default function AccountScreen() {
       <Panel>
         <SectionHead title="Your knowledge" right={`Level ${lv}`} rightStyle={{ fontFamily: F.body }} />
         <View style={{ flexDirection: "row", flexWrap: "wrap", gap: 8, justifyContent: "space-between" }}>
-          {stat(S.vocab ? fmt(S.vocab.value) : "–", "Vocabulary")}{stat(learned, "Lessons")}{stat(S.stats.dailyCompletes || 0, "Temples raised")}
+          {stat(learned, "Lessons")}{stat(S.stats.dailyCompletes || 0, "Temples raised")}
           {stat(topicsMastered, "Topics mastered")}{stat(E.liveStreak(), "Day streak")}{stat(totalSecs ? tt : "–", "Learning time")}
         </View>
       </Panel>
@@ -126,6 +127,8 @@ export default function AccountScreen() {
         <SectionHead title="Settings" />
         <View style={{ gap: 6 }}>
           <SetRow title="Subscription" sub={Purchases.status()} val="Plans" onPress={() => Purchases.showPaywall({ dismissable: true })} />
+          <SetRow title="Daily lesson hint" sub="A short hint about today's lesson" val={E.state.notify.on ? "On" : "Off"} onPress={() => Notify.setEnabled(!E.state.notify.on)} />
+          {E.state.notify.on ? <SetRow title="Time" val={Notify.fmtTime(E.state.notify.time)} onPress={() => openSheet("notifytime")} /> : null}
           <SetRow title="About, privacy and terms" sub="Disclaimers, contact and support" chev onPress={() => openSheet("about")} />
         </View>
       </Panel>

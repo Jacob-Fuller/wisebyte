@@ -5,7 +5,7 @@ import * as E from "../engine";
 import { openSheet } from "../bus";
 import { C, F, PC } from "../theme";
 import { Icon } from "../components/Icon";
-import { Row, Meta, Pips, Badge, Strength, Tap, Bar } from "../components/ui";
+import { Row, Meta, Pips, Badge, Tap, Bar } from "../components/ui";
 import { plural, today } from "../util";
 
 export function LessonRow({ l, right, bg }) {
@@ -17,7 +17,7 @@ export function LessonRow({ l, right, bg }) {
 
 export function WordRow({ e, bg }) {
   const r = E.state.words[e.w], c = E.wcatOf(e);
-  const right = r ? (E.struggling(e.w) ? <Badge kind="warn" text="Tricky" /> : <Strength box={r.box} />) : <Badge kind="new" text="Add" />;
+  const right = r ? null : <Badge kind="new" text="Add" />;
   return <Row color={c.color} title={e.w} bg={bg} onPress={() => openSheet("word", { w: e.w })} right={right}
     meta={<><Meta>{e.pos}</Meta><Pips n={e.lvl || 1} label={E.WB.WORD_LEVELS[e.lvl || 1]} /><Meta>{c.name}</Meta></>} />;
 }
