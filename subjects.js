@@ -43,6 +43,8 @@ WB.SUBJECTS = [
     steps: ["first-australians", "first-fleet", "gold-rush", "federation", "ww1", "modern-australia"] },
   { id: "s-explorers", area: "history", cat: "explore", title: "Great Explorers", desc: "The voyages that mapped the world, and what they cost.",
     steps: ["polynesian-navigators", "marco-polo", "age-of-discovery", "magellan", "cook", "polar-explorers"] },
+  { id: "s-disasters", area: "history", cat: "history", title: "Disasters That Changed the World", desc: "Catastrophes and what the world learned from them.",
+    steps: ["pompeii-herculaneum", "great-fire-of-london", "year-without-summer", "irish-great-famine", "titanic-sinking", "chernobyl", "bronze-age-collapse", "sanctum-collapse"] },
 
   /* ---------------- Science & Nature ---------------- */
   { id: "s-human-body", area: "science", cat: "body", title: "The Human Body", desc: "How the machine you live in actually works.",
@@ -91,6 +93,12 @@ WB.SUBJECTS = [
     steps: ["emotions-science", "emotional-regulation", "stress", "empathy", "resilience", "communication"] },
   { id: "s-happiness", area: "mind", cat: "emotions", title: "The Science of Happiness", desc: "What decades of research say about living well.",
     steps: ["happiness-science", "hedonic-adaptation", "gratitude", "social-connection", "meaning", "mindfulness"] },
+  { id: "s-hoaxes", area: "mind", cat: "thinking", title: "Hoaxes, Frauds & Mistakes", desc: "How clever people were fooled, and how to avoid being next.",
+    steps: ["mechanical-turk", "n-rays-blondlot", "piltdown-man-hoax", "ern-malley-hoax", "art-forgery", "cold-reading-barnum-effect", "sanctum-replication", "science-vs-pseudoscience"] },
+  { id: "s-strange-minds", area: "mind", cat: "psychology", title: "Strange Cases of the Mind", desc: "Real cases that revealed how the brain makes the mind.",
+    steps: ["phineas-gage", "sleep-paralysis", "deja-vu", "patient-hm", "phantom-limbs", "split-brain"] },
+  { id: "s-thought-experiments", area: "mind", cat: "philosophy", title: "Thought Experiments", desc: "Imaginary scenarios that test what you really believe.",
+    steps: ["trolley-problem", "ship-of-theseus", "ring-of-gyges", "experience-machine", "drowning-child", "zeno-paradoxes", "pascals-wager", "veil-of-ignorance", "sorites-paradox"] },
 
   /* ---------------- Money & Work ---------------- */
   { id: "s-finance", area: "money", cat: "money", title: "Financial Literacy", desc: "From your first budget to super, tax, loans and insurance.",
@@ -105,6 +113,10 @@ WB.SUBJECTS = [
     steps: ["communication", "time-management", "procrastination", "writing-emails", "public-speaking", "negotiation", "job-interview"] },
   { id: "s-persuasion", area: "money", cat: "business", title: "Persuasion & Rhetoric", desc: "The ancient art of speaking well, and how it's used on you.",
     steps: ["aristotle-rhetoric", "storytelling", "famous-speeches", "arguing-well", "body-language", "persuasion"] },
+  { id: "s-story-of-money", area: "money", cat: "money", title: "The Story of Money", desc: "From shells and silver to crashes and central banks.",
+    steps: ["history-of-money", "medici-bank", "how-banks-create-money", "bank-runs", "financial-bubbles", "hyperinflation", "gold-standard-bretton-woods", "global-financial-crisis", "quantitative-easing"] },
+  { id: "s-brand-stories", area: "money", cat: "business", title: "Brand Stories", desc: "The triumphs and blunders behind famous brands.",
+    steps: ["mcdonalds-franchising", "tupperware-brownie-wise", "post-it-note-story", "ikea-flat-pack", "new-coke-1985", "tylenol-crisis-1982", "kodak-disruption"] },
 
   /* ---------------- Life Skills ---------------- */
   { id: "s-adulting", area: "life", cat: "life", title: "Adulting 101", desc: "The life skills nobody formally teaches you.",
@@ -119,6 +131,8 @@ WB.SUBJECTS = [
     steps: ["communication", "attachment", "love-science", "conflict", "boundaries", "adult-friendship"] },
   { id: "s-law", area: "life", cat: "society", title: "Law & Your Rights", desc: "How Australian law works, and the rights you have every day.",
     steps: ["legal-system-au", "constitution-au", "contracts", "consumer-rights", "workplace-rights", "renting"] },
+  { id: "s-hands-on", area: "life", cat: "life", title: "Hands-On Life Skills", desc: "Fix, mend, clean and grow things yourself.",
+    steps: ["diy-toolkit-basics", "useful-knots", "mending-clothes", "laundry-done-right", "cleaning-science-stains", "declutter-organise", "gardening-australia-basics", "keeping-pests-out", "jump-start-and-flat-tyre"] },
 
   /* ---------------- Technology ---------------- */
   { id: "s-tech", area: "tech", cat: "technology", title: "How Tech Works", desc: "What happens behind every tap and click.",
@@ -157,6 +171,10 @@ WB.SUBJECTS = [
     steps: ["percentages", "mental-maths", "big-numbers", "compound-interest", "probability", "statistics", "famous-maths"] },
   { id: "s-inventions", area: "world", cat: "explore", title: "Great Inventions", desc: "The ideas that changed everyday life.",
     steps: ["printing-press", "engines", "electric-light", "telephone-radio", "flight", "australian-inventions"] },
+  { id: "s-aus-law-moments", area: "world", cat: "society", title: "Landmark Moments in Australian Law", desc: "The cases and votes that reshaped Australia.",
+    steps: ["communist-party-case", "referendum-1967", "the-dismissal-1975", "lindy-chamberlain", "mabo-native-title"] },
+  { id: "s-mind-bending-maths", area: "world", cat: "maths", title: "Mind-Bending Maths", desc: "Puzzles and paradoxes that make numbers fun.",
+    steps: ["power-of-doubling", "monty-hall-problem", "pigeonhole-principle", "shuffled-deck-factorial", "seven-bridges-networks", "fractals-coastlines", "benfords-law", "sanctum-godel"] },
 ];
 
 
