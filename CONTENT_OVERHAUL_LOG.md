@@ -851,218 +851,218 @@ Tick = rewritten, quiz remapped, push hint written, checked against original.
 - [x] valuing-a-business
 
 **lessons-z-emotions.js**
-- [ ] anger-and-venting
-- [ ] why-we-cry
-- [ ] laughter-science
-- [ ] self-compassion
-- [ ] love-languages
-- [ ] regret-science
-- [ ] fear-science
-- [ ] power-of-touch
-- [ ] emotional-contagion
-- [ ] emotional-labour
+- [x] anger-and-venting
+- [x] why-we-cry
+- [x] laughter-science
+- [x] self-compassion
+- [x] love-languages
+- [x] regret-science
+- [x] fear-science
+- [x] power-of-touch
+- [x] emotional-contagion
+- [x] emotional-labour
 
 **lessons-z-explore.js**
-- [ ] shackleton-endurance
-- [ ] safety-elevator
-- [ ] tin-can
-- [ ] spectacles
-- [ ] matthew-flinders
-- [ ] zheng-he
-- [ ] standard-time
-- [ ] lewis-and-clark
-- [ ] challenger-deep
-- [ ] scurvy-vitamin-c
+- [x] shackleton-endurance
+- [x] safety-elevator
+- [x] tin-can
+- [x] spectacles
+- [x] matthew-flinders
+- [x] zheng-he
+- [x] standard-time
+- [x] lewis-and-clark
+- [x] challenger-deep
+- [x] scurvy-vitamin-c
 
 **lessons-z-food.js**
-- [ ] salt-white-gold
-- [ ] banana-clone-fruit
-- [ ] potato-andes-world
-- [ ] rice-staple-grain
-- [ ] cookware-pans-guide
-- [ ] sugar-bitter-history
-- [ ] escoffier-modern-kitchen
-- [ ] kitchen-myths-busted
-- [ ] aussie-food-icons
-- [ ] sous-vide-precision
+- [x] salt-white-gold
+- [x] banana-clone-fruit
+- [x] potato-andes-world
+- [x] rice-staple-grain
+- [x] cookware-pans-guide
+- [x] sugar-bitter-history
+- [x] escoffier-modern-kitchen
+- [x] kitchen-myths-busted
+- [x] aussie-food-icons
+- [x] sous-vide-precision
 
 **lessons-z-geography.js**
-- [ ] year-without-summer
-- [ ] cloud-types
-- [ ] tornadoes
-- [ ] antarctica
-- [ ] everest-himalaya
-- [ ] lake-eyre
-- [ ] supervolcanoes
-- [ ] green-sahara
-- [ ] monsoons
-- [ ] ice-cores
+- [x] year-without-summer
+- [x] cloud-types
+- [x] tornadoes
+- [x] antarctica
+- [x] everest-himalaya
+- [x] lake-eyre
+- [x] supervolcanoes
+- [x] green-sahara
+- [x] monsoons
+- [x] ice-cores
 
 **lessons-z-history.js**
-- [ ] irish-great-famine
-- [ ] christmas-truce-1914
-- [ ] titanic-sinking
-- [ ] dunkirk-evacuation
-- [ ] panama-canal
-- [ ] bismarck-german-unification
-- [ ] revolutions-of-1848
-- [ ] vietnam-war-australia
-- [ ] apartheid-south-africa
-- [ ] maos-china
+- [x] irish-great-famine
+- [x] christmas-truce-1914
+- [x] titanic-sinking
+- [x] dunkirk-evacuation
+- [x] panama-canal
+- [x] bismarck-german-unification
+- [x] revolutions-of-1848
+- [x] vietnam-war-australia
+- [x] apartheid-south-africa
+- [x] maos-china
 
 **lessons-z-life.js**
-- [ ] backing-up-your-files
-- [ ] useful-knots
-- [ ] mending-clothes
-- [ ] emergency-department-explained
-- [ ] making-small-talk
-- [ ] jump-start-and-flat-tyre
-- [ ] map-and-compass
-- [ ] hiring-a-tradie
-- [ ] after-someone-dies
-- [ ] buying-a-home-step-by-step
+- [x] backing-up-your-files
+- [x] useful-knots
+- [x] mending-clothes
+- [x] emergency-department-explained
+- [x] making-small-talk
+- [x] jump-start-and-flat-tyre
+- [x] map-and-compass
+- [x] hiring-a-tradie
+- [x] after-someone-dies
+- [x] buying-a-home-step-by-step
 
 **lessons-z-literature.js**
-- [ ] alice-in-wonderland
-- [ ] ern-malley-hoax
-- [ ] pen-names
-- [ ] dracula-bram-stoker
-- [ ] charles-dickens
-- [ ] invented-languages
-- [ ] sign-languages
-- [ ] how-reading-works
-- [ ] banned-books
-- [ ] language-shapes-thought
+- [x] alice-in-wonderland
+- [x] ern-malley-hoax
+- [x] pen-names
+- [x] dracula-bram-stoker
+- [x] charles-dickens
+- [x] invented-languages
+- [x] sign-languages
+- [x] how-reading-works
+- [x] banned-books
+- [x] language-shapes-thought
 
 **lessons-z-maths.js**
-- [ ] pigeonhole-principle
-- [ ] paper-sizes-root-two
-- [ ] shuffled-deck-factorial
-- [ ] average-speed-trap
-- [ ] doomsday-rule
-- [ ] napier-logarithms
-- [ ] ramanujan
-- [ ] fair-division
-- [ ] queueing-maths
-- [ ] calculus-without-fear
+- [x] pigeonhole-principle
+- [x] paper-sizes-root-two
+- [x] shuffled-deck-factorial
+- [x] average-speed-trap
+- [x] doomsday-rule
+- [x] napier-logarithms
+- [x] ramanujan
+- [x] fair-division
+- [x] queueing-maths
+- [x] calculus-without-fear
 
 **lessons-z-money.js**
-- [ ] decimal-currency-1966
-- [ ] exchange-rates-aussie-dollar
-- [ ] bank-runs
-- [ ] medici-bank
-- [ ] behavioural-economics-money
-- [ ] gold-standard-bretton-woods
-- [ ] global-financial-crisis
-- [ ] market-for-lemons
-- [ ] measuring-inequality
-- [ ] quantitative-easing
+- [x] decimal-currency-1966
+- [x] exchange-rates-aussie-dollar
+- [x] bank-runs
+- [x] medici-bank
+- [x] behavioural-economics-money
+- [x] gold-standard-bretton-woods
+- [x] global-financial-crisis
+- [x] market-for-lemons
+- [x] measuring-inequality
+- [x] quantitative-easing
 
 **lessons-z-nature.js**
-- [ ] cane-toads
-- [ ] bioluminescence
-- [ ] elephants
-- [ ] emperor-penguins
-- [ ] hibernation
-- [ ] yellowstone-wolves
-- [ ] spider-silk
-- [ ] termite-mounds
-- [ ] island-evolution
-- [ ] symbiosis
+- [x] cane-toads
+- [x] bioluminescence
+- [x] elephants
+- [x] emperor-penguins
+- [x] hibernation
+- [x] yellowstone-wolves
+- [x] spider-silk
+- [x] termite-mounds
+- [x] island-evolution
+- [x] symbiosis
 
 **lessons-z-philosophy.js**
-- [ ] ring-of-gyges
-- [ ] diogenes-the-cynic
-- [ ] drowning-child
-- [ ] experience-machine
-- [ ] zeno-paradoxes
-- [ ] pascals-wager
-- [ ] gettier-problem
-- [ ] machiavelli-prince
-- [ ] nietzsche-misunderstood
-- [ ] sorites-paradox
+- [x] ring-of-gyges
+- [x] diogenes-the-cynic
+- [x] drowning-child
+- [x] experience-machine
+- [x] zeno-paradoxes
+- [x] pascals-wager
+- [x] gettier-problem
+- [x] machiavelli-prince
+- [x] nietzsche-misunderstood
+- [x] sorites-paradox
 
 **lessons-z-psychology.js**
-- [ ] phineas-gage
-- [ ] patient-hm
-- [ ] split-brain
-- [ ] learned-helplessness
-- [ ] earworms
-- [ ] sleep-paralysis
-- [ ] time-perception
-- [ ] cant-tickle-yourself
-- [ ] phantom-limbs
-- [ ] stockholm-syndrome
+- [x] phineas-gage
+- [x] patient-hm
+- [x] split-brain
+- [x] learned-helplessness
+- [x] earworms
+- [x] sleep-paralysis
+- [x] time-perception
+- [x] cant-tickle-yourself
+- [x] phantom-limbs
+- [x] stockholm-syndrome
 
 **lessons-z-safety.js**
-- [ ] choking-first-aid
-- [ ] severe-bleeding
-- [ ] seizure-first-aid
-- [ ] electrical-safety
-- [ ] poisons-and-button-batteries
-- [ ] carbon-monoxide
-- [ ] crocodile-safety
-- [ ] cold-water-hypothermia
-- [ ] crash-scene-first-aid
-- [ ] disaster-psychology
+- [x] choking-first-aid
+- [x] severe-bleeding
+- [x] seizure-first-aid
+- [x] electrical-safety
+- [x] poisons-and-button-batteries
+- [x] carbon-monoxide
+- [x] crocodile-safety
+- [x] cold-water-hypothermia
+- [x] crash-scene-first-aid
+- [x] disaster-psychology
 
 **lessons-z-science.js**
-- [ ] states-of-matter
-- [ ] air-pressure
-- [ ] viruses
-- [ ] why-things-float
-- [ ] static-electricity
-- [ ] plastics-polymers
-- [ ] metric-measurement
-- [ ] chaos-butterfly-effect
-- [ ] carbon-element
-- [ ] antimatter
+- [x] states-of-matter
+- [x] air-pressure
+- [x] viruses
+- [x] why-things-float
+- [x] static-electricity
+- [x] plastics-polymers
+- [x] metric-measurement
+- [x] chaos-butterfly-effect
+- [x] carbon-element
+- [x] antimatter
 
 **lessons-z-society.js**
-- [ ] snail-in-the-bottle
-- [ ] habeas-corpus
-- [ ] referendum-1967
-- [ ] gerrymandering
-- [ ] diplomatic-immunity
-- [ ] geneva-conventions
-- [ ] lindy-chamberlain
-- [ ] marbury-v-madison
-- [ ] common-law-civil-law
-- [ ] communist-party-case
+- [x] snail-in-the-bottle
+- [x] habeas-corpus
+- [x] referendum-1967
+- [x] gerrymandering
+- [x] diplomatic-immunity
+- [x] geneva-conventions
+- [x] lindy-chamberlain
+- [x] marbury-v-madison
+- [x] common-law-civil-law
+- [x] communist-party-case
 
 **lessons-z-space.js**
-- [ ] eclipses
-- [ ] comets
-- [ ] voyager-probes
-- [ ] venus
-- [ ] pluto-dwarf-planets
-- [ ] jupiter-saturn
-- [ ] planetary-defence
-- [ ] australia-in-space
-- [ ] spectroscopy-starlight
-- [ ] dark-matter-energy
+- [x] eclipses
+- [x] comets
+- [x] voyager-probes
+- [x] venus
+- [x] pluto-dwarf-planets
+- [x] jupiter-saturn
+- [x] planetary-defence
+- [x] australia-in-space
+- [x] spectroscopy-starlight
+- [x] dark-matter-energy
 
 **lessons-z-technology.js**
-- [ ] barcodes-qr-codes
-- [ ] y2k-bug
-- [ ] search-engines
-- [ ] mobile-networks
-- [ ] how-screens-work
-- [ ] transistor-story
-- [ ] phone-cameras
-- [ ] text-encoding
-- [ ] open-source
-- [ ] halting-problem
+- [x] barcodes-qr-codes
+- [x] y2k-bug
+- [x] search-engines
+- [x] mobile-networks
+- [x] how-screens-work
+- [x] transistor-story
+- [x] phone-cameras
+- [x] text-encoding
+- [x] open-source
+- [x] halting-problem
 
 **lessons-z-thinking.js**
-- [ ] illusory-truth-effect
-- [ ] wason-confirmation-bias
-- [ ] outcome-bias
-- [ ] n-rays-blondlot
-- [ ] deduction-induction-abduction
-- [ ] framing-effect
-- [ ] wisdom-of-crowds
-- [ ] law-of-small-numbers
-- [ ] piltdown-man-hoax
-- [ ] lady-tasting-tea
+- [x] illusory-truth-effect
+- [x] wason-confirmation-bias
+- [x] outcome-bias
+- [x] n-rays-blondlot
+- [x] deduction-induction-abduction
+- [x] framing-effect
+- [x] wisdom-of-crowds
+- [x] law-of-small-numbers
+- [x] piltdown-man-hoax
+- [x] lady-tasting-tea
 
