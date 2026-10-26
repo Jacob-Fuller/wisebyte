@@ -17,7 +17,7 @@ WB.L("ocean-zones", "nature", "beginner", "The five zones of the ocean",
     [0, "What mainly defines the ocean's five zones?", ["The temperature of the surface","How much sunlight reaches each layer","The kinds of fish living in them","How far each layer is from land"], 1, "Scientists divide the water column mainly by how much sunlight reaches each layer."],
     [1, "Roughly how much of the oxygen produced on Earth each year comes from ocean phytoplankton?", ["About 5%","Almost all of it","None, they only consume oxygen","About half"], 3, "Phytoplankton in the sunlight zone produce roughly half of the oxygen made on Earth each year."],
     [2, "What is 'marine snow'?", ["Ice that forms on the seafloor","White coral sand","Sinking dead plankton and debris","Foam from breaking waves"], 2, "Marine snow is sinking organic debris and a key food source in the dark zones."],
-    [3, "Where is the deepest known point in the ocean?", ["The Great Australian Bight","The Challenger Deep in the Mariana Trench","The middle of the Atlantic","Under the Antarctic ice"], 1, "The Challenger Deep, in the western Pacific's Mariana Trench, is roughly 11,000 metres deep."],
+    [3, "Where is the deepest known point in the ocean?", ["The Great Australian Bight","Challenger Deep, Mariana Trench","The middle of the Atlantic","Under the Antarctic ice"], 1, "The Challenger Deep, in the western Pacific's Mariana Trench, is roughly 11,000 metres deep."],
     [4, "About how much does water pressure increase for every 10 metres of depth?", ["One atmosphere","Ten atmospheres","A hundred atmospheres","It stays the same"], 0, "Pressure rises about one atmosphere per 10 metres, so the deepest trench is over 1,000 atmospheres."]
   ],
   {"popularity":80,"added":"2026-09-25","related":["deep-sea","ocean-currents","octopus-mind"],"push":"Most of Earth's living space is dark and crushing, and we've seen almost none of it."});
@@ -61,10 +61,10 @@ WB.L("deep-sea", "nature", "beginner", "Life in the deep sea",
   ],
   [
     [0, "What did the HMS Challenger voyage in the 1870s show about the deep sea?", ["That it is full of previously unknown species","That it is almost completely lifeless","That it is warmer than the surface","That it has no pressure"], 0, "The expedition's dredging proved the deep seafloor teems with life, contrary to earlier assumptions."],
-    [1, "How does an adult giant tube worm get food?", ["It filters plankton with its mouth","It hunts small crabs","Bacteria inside it turn vent chemicals into food","It absorbs sunlight"], 2, "Adult giant tube worms have no mouth or gut and depend on internal bacteria."],
+    [1, "How does an adult giant tube worm get food?", ["It filters plankton with its mouth","It hunts small crabs and fish","Bacteria inside it make food from chemicals","It gathers falling marine snow"], 2, "Adult giant tube worms have no mouth or gut and depend on internal bacteria."],
     [2, "Why is most deep-sea bioluminescence blue?", ["Animals cannot make other colours","Blue light travels furthest through seawater","It reflects the sky","Blue is the colour of all marine bacteria"], 1, "Blue light penetrates water best, so it is the most useful colour in the deep."],
     [3, "Why is most deep-sea exploration now done by robots?", ["Crewed dives are expensive and risky","Humans are too large for the trenches","Robots can reach the surface faster","The law forbids crewed dives"], 0, "Remotely operated and autonomous vehicles can explore for long periods without risking people."],
-    [4, "What is a major concern about deep-sea mining?", ["It would drain the ocean","The metals are worthless","It is already banned everywhere","Slow-recovering ecosystems we barely know"], 3, "Scientists warn that slow-growing, poorly studied deep-sea ecosystems could be lastingly damaged."]
+    [4, "What is a major concern about deep-sea mining?", ["It would raise sea levels worldwide","The nodules hold no useful metals","It would make seawater too salty","It may damage slow-recovering ecosystems"], 3, "Scientists warn that slow-growing, poorly studied deep-sea ecosystems could be lastingly damaged."]
   ],
   {"popularity":82,"added":"2026-09-25","related":["ocean-zones","octopus-mind","whales"],"push":"In total darkness, worms with no mouth thrive beside scalding vents."});
 
@@ -85,7 +85,7 @@ WB.L("sharks", "nature", "beginner", "Sharks: fear versus facts",
   [
     [0, "Which of these appeared on Earth first?", ["Sharks","Trees","Dinosaurs","Flowering plants"], 0, "Sharks appeared over 400 million years ago, before trees and long before dinosaurs."],
     [1, "What does the whale shark mainly eat?", ["Seals","Other sharks","Seagrass","Plankton"], 3, "The world's largest fish is a filter feeder, eating plankton; it visits Ningaloo Reef each year."],
-    [2, "Why does a grey nurse shark usually give birth to only two pups?", ["It mates only once in its life","Its first embryo eats the others in each uterus","It lays its eggs in rock crevices","Its pups are born fully grown"], 1, "Each of the mother's two uteri usually produces just one surviving pup."],
+    [2, "Why does a grey nurse shark usually give birth to only two pups?", ["It mates only once in its entire life","Embryos eat their siblings in the womb","It lays its eggs in rocky crevices","Its pups are born almost fully grown"], 1, "Each of the mother's two uteri usually produces just one surviving pup."],
     [3, "Roughly how many sharks do humans kill each year, according to a widely cited estimate?", ["About 1,000","About 100,000","About 10 billion","About 100 million"], 3, "A 2013 study estimated around 100 million sharks are killed each year, so sharks have far more to fear from us."],
     [4, "How can the loss of large sharks harm an ocean ecosystem?", ["Prey can overgraze seagrass or reef communities","Turtles and dugongs disappear at once","The water becomes too salty for fish","Plankton stops growing"], 0, "As predators, sharks help keep ecosystems balanced, and losing them can ripple down the food chain."]
   ],
@@ -110,7 +110,7 @@ WB.L("whales", "nature", "beginner", "Whales: giants of the sea",
     [1, "What is notable about the blue whale?", ["It has the largest brain of any animal","It is larger than any dinosaur found so far","It has teeth to hunt squid","It lives for more than 200 years"], 1, "The blue whale is the largest animal known to have ever lived."],
     [2, "What is unusual about humpback whale songs?", ["Only females sing","Every whale sings a completely different song","Songs change over time and spread between populations","They sing only when feeding"], 2, "Songs evolve and can spread eastward across the South Pacific, a form of cultural transmission."],
     [3, "What helped Australian humpback whales recover?", ["Protection from commercial hunting","Fewer predators in the Southern Ocean","Changes in their migration route","Captive breeding programs"], 0, "After whaling ended, east coast humpbacks rebounded to tens of thousands."],
-    [4, "What should you do if you see an entangled whale?", ["Try to cut it free yourself","Call your state's wildlife or marine rescue hotline","Swim alongside to calm it","Ignore it, as it will free itself"], 1, "Entangled whales can be extremely dangerous, so leave rescue to trained responders."]
+    [4, "What should you do if you see an entangled whale?", ["Try to cut it free with a boat knife","Call a wildlife or marine rescue hotline","Swim out beside it to calm it down","Ignore it, as it will soon free itself"], 1, "Entangled whales can be extremely dangerous, so leave rescue to trained responders."]
   ],
   {"popularity":84,"added":"2026-09-25","related":["sharks","ocean-currents","great-barrier-reef"],"push":"Humpbacks sing songs that sweep across an ocean and change every year."});
 
@@ -130,10 +130,10 @@ WB.L("great-barrier-reef", "nature", "beginner", "The Great Barrier Reef",
   ],
   [
     [0, "What are corals?", ["Plants growing on rocks","Hardened volcanic rock","A type of seaweed","Colonies of tiny animals"], 3, "Corals are colonies of polyps, animals related to jellyfish and anemones."],
-    [1, "What is the Great Barrier Reef actually made of?", ["One continuous wall of coral","About 3,000 separate reefs and many islands","A single huge coral colony","Mostly sand and bare rock"], 1, "The reef is a vast system of about 3,000 reefs, stretching roughly 2,300 kilometres."],
+    [1, "What is the Great Barrier Reef actually made of?", ["One continuous wall of coral","Roughly 3,000 separate reefs","A single huge coral colony","Mostly sand and bare rock"], 1, "The reef is a vast system of about 3,000 reefs, stretching roughly 2,300 kilometres."],
     [2, "What happens during coral bleaching?", ["Coral is bleached by sunlight alone","Coral grows faster than normal","Stressed coral expels algae and turns white","Sand covers the reef"], 2, "Prolonged heat breaks the coral-algae partnership; corals can recover if temperatures fall in time."],
     [3, "What do experts identify as the biggest threat to the reef?", ["Climate change","Tourist boats","Sharks","Overfishing of turtles"], 0, "Climate change, through marine heatwaves and acidification, is the greatest threat."],
-    [4, "What is the effect of the green zones created in 2004?", ["Fishing and collecting are banned in about a third of the park","They allow free access to every reef","They ban all tourism on the reef","They protect only the islands, not the reef"], 0, "The rezoning created one of the world's largest networks of no-take areas."]
+    [4, "What is the effect of the green zones created in 2004?", ["A third of the park closed to fishing","All tourism on the reef was banned","Every reef was opened to free access","Only the islands were given protection"], 0, "The rezoning created one of the world's largest networks of no-take areas."]
   ],
   {"popularity":88,"added":"2026-09-25","related":["ocean-currents","sharks","climate-change"],"push":"The largest structure built by living things is made by animals smaller than a fingernail."});
 

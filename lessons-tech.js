@@ -43,7 +43,7 @@ WB.L("encryption", "technology", "advanced", "How encryption keeps secrets",
     [3, "What does the browser padlock actually tell you?", ["The website is trustworthy and legitimate","The site is free of any scam content","The site has been checked by police","Your connection to the site is encrypted"], 3, "The padlock protects the connection, but scam sites can have one too."],
     [4, "How do attackers usually get around modern encryption?", ["Guessing every possible key one at a time","Running the prime number maths backwards","Tricking people or stealing their passwords","Waiting for the encryption key to expire"], 2, "The maths is rarely the weak point; people and software are."]
   ],
-  {"popularity":62,"added":"2026-09-20","related":["digital-security","internet"],"push":"Your bank's padlock rests on a maths trick that took centuries to find."});
+  {"popularity":62,"added":"2026-09-20","related":["digital-security","internet"],"push":"Your bank's padlock rests on a maths idea first published in 1976."});
 
 WB.L("gps", "technology", "intermediate", "How GPS knows where you are",
   "Your phone finds you to within a few metres by listening to ultra-precise clocks orbiting high above the Earth.",

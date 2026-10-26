@@ -87,7 +87,7 @@ WB.L("budgeting", "money", "beginner", "Budgeting that actually works",
     [1, "In the 50/30/20 rule, what is the 20% for?", ["Rent and groceries","Savings and paying down debt faster","Eating out and holidays","Tax"], 1, "Needs take about 50%, wants about 30%, and the remaining 20% builds your future."],
     [2, "What does 'pay yourself first' mean?", ["Buy yourself a treat on payday","Pay bills late to keep cash on hand","Move savings out automatically on payday","Ask for a raise before paying anyone"], 2, "Money moved out on payday is far easier not to spend."],
     [3, "Which debt payoff method saves the most interest?", ["Snowball, smallest balance first","Avalanche, highest interest rate first","Minimum payments only","Newest debt first"], 1, "Targeting the highest rate first cuts the interest you pay, while the snowball trades some savings for motivation."],
-    [4, "Why should a budget include some guilt-free fun money?", ["Banks require fun spending in every budget","Without it you will eventually rebel against the budget","Fun spending raises your credit score over time","Fun spending reduces the tax that you pay"], 1, "The best budget is one you will actually keep."]
+    [4, "Why should a budget include some guilt-free fun money?", ["Lenders expect fun spending in every budget","Without it you will eventually rebel against it","Fun spending raises your credit score over time","Fun spending lowers the tax that you pay"], 1, "The best budget is one you will actually keep."]
   ],
   {"trending":true,"popularity":87,"added":"2026-09-19","related":["superannuation","negotiation"],"push":"A budget isn't a diet for your money. Here is what it is instead."});
 

@@ -61,7 +61,7 @@ WB.EVENTS = [
   { e: "The Great Fire of London", y: 1666 },
   { e: "Newton publishes his laws of motion", y: 1687 },
   { e: "Robinson Crusoe is published", y: 1719 },
-  { e: "Benjamin Franklin flies his kite in a storm", y: 1752 },
+  {"e":"Benjamin Franklin's famous kite experiment in a storm","y":1752,"c":1},
   { e: "Mozart is born", y: 1756 },
   { e: "Captain Cook charts Australia's east coast", y: 1770 },
   { e: "The US Declaration of Independence is signed", y: 1776 },

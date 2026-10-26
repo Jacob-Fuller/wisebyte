@@ -46,7 +46,7 @@ WB.L("vaccines", "body", "beginner", "Vaccines: history, science and safety",
   {"popularity":80,"added":"2026-09-25","related":["immune-system","germ-theory","pandemics"],"push":"We have wiped out exactly one human disease. A cow played a part."});
 
 WB.L("anaesthesia-surgery", "body", "intermediate", "Anaesthesia and the rise of modern surgery",
-  "Two hundred years ago, the best surgeon was the fastest one, because patients were awake for every cut.",
+  "Until 1846, the best surgeon was the fastest one, because patients were awake for every cut.",
   [
     ["From screams to ether", "Before anaesthesia, speed was a surgeon's greatest skill; ether's public demonstration on 16 October 1846 changed surgery forever.",
       "Before the 1840s, surgery meant being held down, fully awake. Alcohol, opium and a leather strap to bite on were about all that was offered. Operations were mostly amputations, removing surface lumps and draining abscesses, because opening the chest or abdomen was almost always fatal. Speed was everything: London surgeon Robert Liston was famous for removing a leg in under three minutes.\n\nGeorgia doctor Crawford Long used ether from 1842 but didn't publish for years. On 16 October 1846 in Boston, dentist William Morton gave ether to a patient while a surgeon removed a lump from his neck. The patient felt no pain, and the news spread worldwide within months. By mid-1847 ether was used in the Australian colonies. The word anaesthesia, 'without sensation', was suggested around then."],
@@ -63,8 +63,8 @@ WB.L("anaesthesia-surgery", "body", "intermediate", "Anaesthesia and the rise of
     [0, "Why was speed so important for surgeons before the 1840s?", ["Operating theatres had to be shared","Patients were awake and in agony","Instruments rusted quickly","Surgeons were paid per operation"], 1, "With no anaesthesia, every extra second was suffering, so the fastest surgeon was the best."],
     [1, "What is the difference between antisepsis and asepsis?", ["They mean exactly the same thing","Antisepsis uses heat; asepsis uses chemicals","Antisepsis kills germs; asepsis keeps them out","Asepsis came first, antisepsis later"], 2, "Lister killed germs with carbolic acid; asepsis later prevented them reaching the wound at all."],
     [2, "Why does a machine breathe for a patient under general anaesthesia?", ["Anaesthetic drugs always damage the lungs","It keeps the patient's body temperature steady","It stops the patient from waking suddenly","Muscle relaxants also stop the breathing muscles"], 3, "The relaxants that keep the body still also paralyse the breathing muscles, so a machine takes over."],
-    [3, "How can a caesarean birth happen with the mother awake?", ["A spinal or epidural numbs everything below the waist","Sedation erases all pain permanently","The baby is delivered through keyhole cuts","General anaesthetic wears off within minutes"], 0, "Regional anaesthesia numbs a large part of the body without making you unconscious."],
-    [4, "Why must you follow fasting instructions before a general anaesthetic?", ["Food makes anaesthetic drugs stronger","It helps you lose weight before surgery","Stomach contents can be inhaled into the lungs","Digestion raises your temperature"], 2, "Under anaesthesia, food in the stomach can be inhaled, so fasting protects your lungs."]
+    [3, "How can a caesarean birth happen with the mother awake?", ["A spinal or epidural numbs the lower body","Sedation erases all pain permanently","The baby is delivered through keyhole cuts","General anaesthetic wears off within minutes"], 0, "Regional anaesthesia numbs a large part of the body without making you unconscious."],
+    [4, "Why must you follow fasting instructions before a general anaesthetic?", ["Food makes anaesthetic drugs stronger","It helps you lose weight before surgery","Stomach contents can enter the lungs","Digestion raises your temperature"], 2, "Under anaesthesia, food in the stomach can be inhaled, so fasting protects your lungs."]
   ],
   {"popularity":72,"added":"2026-09-25","related":["germ-theory","antibiotics"],"push":"Before 1846, the best surgeon was the fastest. What changed in one Boston theatre?"});
 
@@ -84,10 +84,10 @@ WB.L("pandemics", "body", "intermediate", "Pandemics: from plague to COVID-19",
   ],
   [
     [0, "What is the difference between an epidemic and a pandemic?", ["A pandemic is always the deadlier of the two","A pandemic spreads across many countries","An epidemic only ever affects animals","There is no difference between the two"], 1, "The words describe how widely a disease has spread, not how deadly it is."],
-    [1, "How did Australia delay the 1918 flu reaching its shores?", ["Strict maritime quarantine","An early vaccine","Closing every school in 1917","Banning all ships permanently"], 0, "Isolating arriving ships held the virus off until early 1919."],
+    [1, "How did Australia delay the 1918 flu reaching its shores?", ["Strict maritime quarantine","Vaccinating arriving passengers","Closing all schools in 1917","Rationing food and fuel"], 0, "Isolating arriving ships held the virus off until early 1919."],
     [2, "What has combination treatment since 1996 made possible for people with HIV?", ["A complete cure within a year","Long, healthy lives with ongoing treatment","Lifelong protection from a single dose","Immunity passed on to their children"], 1, "HIV still has no cure, but treatment now controls it so well that people live long lives."],
     [3, "If the R number is below 1, what happens to an outbreak?", ["It grows exponentially","It stays exactly the same","It becomes a pandemic","It shrinks over time"], 3, "When each case infects fewer than one other person on average, the outbreak fades."],
-    [4, "Where should you look for guidance during an outbreak?", ["Rumours circulating on social media","Whatever your friends are sharing","Official health advice from Healthdirect","Old advice left over from past outbreaks"], 2, "Official health advice is accurate and updated as the situation changes."]
+    [4, "Where should you look for guidance during an outbreak?", ["Posts that are widely shared online","Advice passed on by friends and family","Official advice such as Healthdirect","Advice remembered from past outbreaks"], 2, "Official health advice is accurate and updated as the situation changes."]
   ],
   {"popularity":76,"added":"2026-09-25","related":["black-death","vaccines","germ-theory"],"push":"The word quarantine means forty. Find out why, and what stops a pandemic."});
 

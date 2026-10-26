@@ -1071,6 +1071,7 @@ Tick = rewritten, quiz remapped, push hint written, checked against original.
 Each pass reviews every lesson, word, quote, general-knowledge question, brain-game item, timeline event and scroll item (156 chunks), applies the findings, regenerates and re-audits.
 
 - Pass 1 (2026-10-26): 1072 findings (758 lessons, 314 other items). Most were quiz answers that stood out by length, plus factual softenings, quote-source fixes, a handful of broken questions and several removals. Structural audit fell from about 2,080 findings to 412. Not complete: pass 2 follows.
+- Pass 2 (2026-10-26): 566 findings (406 lessons, 160 other items). Structural audit down to about 115 residual quiz-length items. Not complete: pass 3 follows.
 
 ### Items for human verification
 Reviewers worked from memory without web checks. Worth a spot-check: Equatorial Guinea capital in `think3.js`; Bolivia capital label; the Gandhi and Leonardo quotes in `quotes2.js`; translator wording of Stoic quotes; time-sensitive 2025-26 claims (Super Guarantee, AUSTRAC crypto-ATM cap, property-investing tax rules, Artemis II, Mars Sample Return, UN city rankings); state-by-state legal items (wills, cooling-off periods, smoke alarms); first-aid wording against ANZCOR; and the study attributions in the Practical and Facts scroll sets.

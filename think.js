@@ -128,7 +128,7 @@ WB.CLAIMS = [
   { c: "Porcupines can shoot their quills at attackers.", t: false, e: "They can't. The quills detach easily when something touches them, then their barbed tips work their way into the skin." },
   { c: "Venus takes longer to spin once on its axis than to orbit the Sun.", t: true, e: "Venus spins once every 243 Earth days but orbits the Sun in 225." },
   { c: "Sea otters hold hands while they sleep.", t: true, e: "Resting sea otters often link paws, or wrap themselves in kelp, so they don't drift apart." },
-  { c: "Honey can stay edible for thousands of years.", t: true, e: "Its low water content and acidity stop microbes growing. Edible honey has been found in ancient Egyptian tombs." },
+  {"c":"Honey can stay edible for thousands of years.","t":true,"e":"Its low water content and acidity stop microbes growing. Pots of honey thousands of years old have been found in ancient Egyptian tombs."},
   { c: "Bananas are berries, but strawberries aren't.", t: true, e: "Botanically, a berry grows from one flower's ovary with seeds inside. Bananas fit; strawberries don't." },
   { c: "Napoleon was unusually short.", t: false, e: "He was about 1.69 m, average for a Frenchman of his time. Old French inches and British cartoons fed the myth." },
   { c: "Cracking your knuckles causes arthritis.", t: false, e: "Studies have found no link. The pop is gas bubbles in the joint fluid." },
