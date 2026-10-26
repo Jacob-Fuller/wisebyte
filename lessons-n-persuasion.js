@@ -40,10 +40,10 @@ WB.L("storytelling", "business", "beginner", "Why stories persuade",
     [0, "Why do facts inside a story tend to stick better than a list of facts?", ["Stories are always shorter than lists","A story gives information a shape of want, obstacle and change","People are forced to repeat stories aloud","Lists contain too many numbers"], 1, "The narrative shape makes facts easier to remember and pass on."],
     [1, "Why can an absorbing story change attitudes quietly?", ["Absorbed listeners counter-argue less","It contains stronger evidence than data","Listeners memorise every detail","It always ends with a call to action"], 0, "Following a character leaves less mental room for picking holes in the message."],
     [2, "What happened in the Rokia study when statistics were added to her story?", ["Donations rose sharply","Nothing changed","Donations fell","People refused to read it"], 2, "Numbers dampened the emotional pull of one identifiable person."],
-    [3, "What is the engine of every classic story structure?", ["A happy ending","A moral lesson","A talking animal","Conflict, where a character faces obstacles"], 3, "Without a problem, there is no reason to keep listening."],
+    [3, "What is the engine of every classic story structure?", ["A happy ending","A moral lesson","A talking animal","Conflict and obstacles"], 3, "Without a problem, there is no reason to keep listening."],
     [4, "In a persuasive business story, who should usually be the hero?", ["The CEO","The audience or customer","The company","A competitor"], 1, "The audience cares most about its own problems, so the brand works best as the guide."]
   ],
-  {"popularity":76,"added":"2026-09-25","related":["aristotle-rhetoric","public-speaking","persuasion"],"push":"A seven-year-old girl raised more than a million people could. Why?"});
+  {"popularity":76,"added":"2026-09-25","related":["aristotle-rhetoric","public-speaking","persuasion"],"push":"One seven-year-old girl moved donors more than millions of statistics did. Why?"});
 
 WB.L("famous-speeches", "history", "intermediate", "What makes a great speech",
   "A two-minute address at a cemetery, a hot August afternoon in Washington, a park in Redfern. Why some speeches outlive the people who gave them.",
@@ -61,9 +61,9 @@ WB.L("famous-speeches", "history", "intermediate", "What makes a great speech",
   ],
   [
     [0, "Repeating 'we shall fight' at the start of successive phrases is an example of what?", ["Irony","Understatement","Alliteration","Anaphora"], 3, "Anaphora repeats opening words to build momentum."],
-    [1, "What did the repeated 'I have a dream' line achieve?", ["It made the speech more formal","It turned an abstract demand into concrete pictures of a fairer future","It replaced the prepared text entirely","It avoided mentioning civil rights"], 1, "Repetition plus vivid images made the demand easy to picture and remember."],
+    [1, "What did the repeated 'I have a dream' line achieve?", ["It made the speech more formal and academic","It turned an abstract demand into vivid pictures","It replaced the prepared text entirely","It avoided mentioning civil rights"], 1, "Repetition plus vivid images made the demand easy to picture and remember."],
     [2, "What made Keating's Redfern speech distinctive?", ["It was delivered in parliament","It announced an election","It used 'we' to take responsibility for dispossession","It was only one minute long"], 2, "Using 'we' asked listeners to imagine these things done to them."],
-    [3, "Which techniques do great speeches commonly share?", ["Using 'we' to take responsibility","It was delivered in parliament","It announced an election","It was only one minute long"], 0, "Repetition, rhythm, contrast and vivid images make speeches memorable when heard."],
+    [3, "Which techniques do great speeches commonly share?", ["Repetition, rhythm, contrast and images","Dense jargon and long, complex sentences","Statistics read aloud from slides","Avoiding emotion and personal stories"], 0, "Repetition, rhythm, contrast and vivid images make speeches memorable when heard."],
     [4, "What does the Greek idea of kairos say about great speeches?", ["Right words meet a moment of change","Only long speeches matter","The speaker outweighs the audience","Timing is irrelevant to logic"], 0, "A great speech names what an audience already feels and gives it direction."]
   ],
   {"popularity":72,"added":"2026-09-25","related":["aristotle-rhetoric","public-speaking","civil-rights"],"push":"A two-minute speech outshone a two-hour one. What did it do differently?"});
@@ -84,12 +84,12 @@ WB.L("arguing-well", "thinking", "intermediate", "How to argue well",
   ],
   [
     [0, "What does the 'scout mindset' aim for in an argument?", ["Defending your position as firmly as possible","Seeing things as they are, even if you turn out to be wrong","Finding the quickest way to end the argument","Collecting points against your opponent"], 1, "A scout wants an accurate map, not a victory."],
-    [1, "Why is steelmanning more useful than strawmanning?", ["It makes the other side look foolish","It shortens the argument","It tests your own view against the strongest opposing case","It avoids having to listen"], 2, "If your position only beats the weak version, it hasn't really won."],
-    [2, "Why is 'You always come up with hopeless plans' a poor way to disagree?", ["It attacks the person rather than the idea, which provokes defensiveness","It uses too much evidence","It focuses on the budget","It concedes too much"], 0, "Keep criticism on the idea, not the person."],
-    [3, "What did later research find about the 'backfire effect'?", ["It happens almost every time","It only affects experts","It is rare, and most people shift a little given good evidence","It was proven in every country"], 2, "Corrections usually work at least somewhat, especially in small steps."],
+    [1, "Why is steelmanning more useful than strawmanning?", ["It makes the other side look foolish","It shortens the argument","It tests your view against the strongest case","It avoids having to listen"], 2, "If your position only beats the weak version, it hasn't really won."],
+    [2, "Why is 'You always come up with hopeless plans' a poor way to disagree?", ["It attacks the person rather than the idea","It relies on too much supporting evidence","It keeps the focus on the budget alone","It concedes too much too early"], 0, "Keep criticism on the idea, not the person."],
+    [3, "What did later research find about the 'backfire effect'?", ["It occurs almost every time someone is corrected","It only affects people who are experts","It is rare, and most people shift a little","It was confirmed in every country tested"], 2, "Corrections usually work at least somewhat, especially in small steps."],
     [4, "What is a sensible response when an argument gets too heated?", ["Raise your voice to be heard","Pause it, for example 'Let's pick this up tomorrow'","Switch to arguing online","Concede everything"], 1, "Pausing is not surrender, because emotion crowds out good thinking."]
   ],
-  {"popularity":73,"added":"2026-09-25","related":["logical-fallacies","socratic-method","conflict"],"push":"Most arguments are won by the wrong person. How do you win the real one?"});
+  {"popularity":73,"added":"2026-09-25","related":["logical-fallacies","socratic-method","conflict"],"push":"Most arguments are ego contests. How do you have one where someone learns?"});
 
 WB.L("body-language", "psychology", "beginner", "Body language: fact and fiction",
   "Crossed arms mean defensive, looking away means lying, and 93% of communication is non-verbal. Most of that is wrong.",
@@ -106,10 +106,10 @@ WB.L("body-language", "psychology", "beginner", "Body language: fact and fiction
       "In many Western settings, moderate eye contact signals attention, while staring feels aggressive. One 2016 study found preferred mutual gaze averaged roughly three seconds, with wide individual differences. In many Aboriginal and Torres Strait Islander communities, avoiding direct eye contact, particularly with elders, can show respect rather than evasion. Similar norms exist in parts of Asia. Misreading this has caused real harm in classrooms, job interviews and courtrooms.\n\nSo treat body language as a question, not an answer. If a friend goes quiet, check in: 'You seem unsure, what's on your mind?' In high-stakes settings like hiring, be wary of confident claims about reading people. For your own presence, put the phone away and give genuine attention."]
   ],
   [
-    [0, "Why is the claim that 93% of communication is non-verbal misleading?", ["It came from narrow experiments on judging liking from single words","It was proven in every language","It only applies to written messages","Nobody has ever tested it"], 0, "Mehrabian has said his findings don't apply to communication in general."],
+    [0, "Why is the claim that 93% of communication is non-verbal misleading?", ["It came from narrow experiments about liking","It was proven in every language","It only applies to written messages","Nobody has ever tested it"], 0, "Mehrabian has said his findings don't apply to communication in general."],
     [1, "What is the best way to read someone's body language?", ["Focus on a single gesture such as crossed arms","Read clusters of signals against their normal baseline and the context","Assume it reveals their true thoughts","Ignore it completely"], 1, "One signal is ambiguous, but patterns and context give better clues."],
     [2, "Roughly how accurately do people detect lies, according to a large review?", ["About 90%","About 75%","About 20%","About 54%"], 3, "That is only slightly better than chance."],
-    [3, "What happened when researchers tested the hormone effects of power posing?", ["A larger study failed to find them","They were confirmed and doubled","They appeared only in athletes","The effects were found to be permanent"], 0, "One original author later said she no longer believed the effects were real."],
+    [3, "What happened when researchers tested the hormone effects of power posing?", ["A larger study failed to find them","They were confirmed in every follow-up study","They appeared only in athletes","They lasted for days after one pose"], 0, "One original author later said she no longer believed the effects were real."],
     [4, "In many Aboriginal and Torres Strait Islander communities, what can less direct eye contact signal?", ["Dishonesty","Boredom","Respect","Anger"], 2, "Eye contact norms vary by culture, so it is not a universal measure of honesty."]
   ],
   {"popularity":80,"added":"2026-09-25","related":["first-impressions","communication","public-speaking"],"push":"Crossed arms, shifty eyes, a power pose. Which of these tells is real?"});
@@ -130,9 +130,9 @@ WB.L("renting", "life", "beginner", "Renting in Australia",
   ],
   [
     [0, "Who sets most tenancy rules in Australia?", ["The federal government","Local councils","Real estate agents","Each state and territory"], 3, "Each state and territory has its own tenancy law, so check your local rules."],
-    [1, "Why is the condition report so important?", ["It records the property's state at move-in, protecting your bond","It sets the weekly rent","It lists your neighbours","It is only needed for pets"], 0, "Noting every mark with dated photos stops existing damage becoming a bond deduction."],
+    [1, "Why is the condition report so important?", ["It records the property's state at move-in","It sets the weekly rent for the lease","It lists the other tenants in the building","It is only required for tenants with pets"], 0, "Noting every mark with dated photos stops existing damage becoming a bond deduction."],
     [2, "What should you generally do if a landlord won't fix repairs?", ["Stop paying rent","Move out without notice","Apply to your state's tribunal","Fix everything and deduct it from rent"], 2, "Withholding rent can put you in breach, whereas a tribunal can order repairs."],
-    [3, "What does leaving a fixed-term lease early usually involve?", ["Nothing, since notice is optional","Losing the right to any bond","A fine from the tribunal","Paying a break fee or covering rent until a new tenant is found"], 3, "Give proper written notice and expect costs if you leave before the term ends."],
+    [3, "What does leaving a fixed-term lease early usually involve?", ["Nothing, since notice is optional","Losing the right to any bond","A fine from the tribunal","A break fee, or rent until it is re-let"], 3, "Give proper written notice and expect costs if you leave before the term ends."],
     [4, "Why should you keep every email, receipt and photo in a tenancy?", ["Records win disputes","Landlords require them yearly","They reduce your rent","Tribunals only accept photos"], 0, "Good records are your best evidence if a dispute reaches a tribunal."]
   ],
   {"popularity":82,"added":"2026-09-25","related":["budgeting","home-maintenance","scams"],"push":"A few renting rules can save you hundreds of dollars. Do you know them?"});

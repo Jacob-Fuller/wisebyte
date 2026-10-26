@@ -89,7 +89,7 @@ WB.L("home-loans", "money", "intermediate", "How home loans work",
     [3, "What does an offset account do?", ["Fixes your interest rate for a set term","Lowers the balance you are charged interest on","Pays your council rates and insurance","Reduces the size of your deposit"], 1, "Money in offset is subtracted from your loan balance for interest, saving interest at your loan rate."],
     [4, "What does a comparison rate include?", ["Only the headline interest rate","The interest rate plus most fees","The property price and stamp duty","Your credit score"], 1, "The comparison rate combines the interest rate with most fees to show the true cost more clearly."]
   ],
-  {"popularity":86,"added":"2026-09-24","related":["credit-scores","compound-interest"],"push":"Over 30 years you can pay back nearly double what you borrowed. Here's how to cut it."});
+  {"popularity":86,"added":"2026-09-24","related":["credit-scores","compound-interest"],"push":"Over 30 years you can repay more than double what you borrowed. Here is how to cut it."});
 
 WB.L("index-funds", "money", "intermediate", "Index funds and ETFs",
   "The boring, low-cost way to invest that beats most professional fund managers over time.",
@@ -106,10 +106,10 @@ WB.L("index-funds", "money", "intermediate", "Index funds and ETFs",
       "Nobody reliably predicts short-term market moves, and some of the best days often come shortly after the worst, so jumping in and out can mean missing the recovery. Many investors use dollar-cost averaging: investing a fixed amount regularly, which buys more units when prices are low and fewer when they're high. Time in the market beats timing the market.\n\nShares suit money you won't need for at least five to seven years, because markets can fall sharply in the short term. First build an emergency fund and clear high-interest debt. Your super is probably already invested in shares. This is general information; ASIC's Moneysmart has free guides, and a licensed adviser can help."]
   ],
   [
-    [0, "What does an index fund do?", ["Picks a handful of shares it expects to win","Trades frequently to chase short-term gains","Buys only government bonds","Holds every company in an index in proportion to its size"], 3, "An index fund simply holds the whole index rather than trying to beat it."],
+    [0, "What does an index fund do?", ["Picks a handful of shares it expects to win","Trades frequently to chase short-term gains","Buys only government bonds","Holds all the companies in an index"], 3, "An index fund simply holds the whole index rather than trying to beat it."],
     [1, "Over 10 to 15 years, how do most active funds perform against their index after fees?", ["Most beat it comfortably","Most underperform it","They match it exactly","Results are always random"], 1, "The average investor earns the market return before costs, so higher costs push most active funds behind."],
     [2, "Why do low fees matter so much for long-term investors?", ["Costs compound over decades and reduce final returns","Fees are fully refunded at the end","Lower fees guarantee higher returns","Fees only matter in the first year"], 0, "Investors can't control returns but can control costs, which compound just as returns do."],
-    [3, "What is an ETF?", ["A government savings bond","A type of superannuation fund","A bank term deposit","A fund traded on the exchange like a share"], 3, "ETFs trade like shares, and broad ones can give you a slice of thousands of companies."],
+    [3, "What is an ETF?", ["A government savings bond","A type of superannuation fund","A bank term deposit","A fund that trades like a share"], 3, "ETFs trade like shares, and broad ones can give you a slice of thousands of companies."],
     [4, "What is dollar-cost averaging?", ["Waiting for the perfect time to invest","Investing a fixed amount at regular intervals","Converting savings into foreign currency","Selling when prices fall"], 1, "Regular fixed investments remove the need to time the market and buy more units when prices are low."]
   ],
   {"popularity":84,"added":"2026-09-24","related":["stock-market","superannuation"],"push":"Experts are paid to beat the market. Most of them can't. Find out why."});

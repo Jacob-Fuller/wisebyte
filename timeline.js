@@ -12,7 +12,7 @@ WB.EVENTS = [
   { e: "Rome is founded, according to legend", y: -753 },
   { e: "The Battle of Marathon is fought", y: -490 },
   { e: "Confucius dies", y: -479 },
-  { e: "The Parthenon in Athens is completed", y: -432 },
+  {"e":"The Parthenon in Athens is completed","y":-438},
   { e: "Socrates is sentenced to death", y: -399 },
   { e: "Alexander the Great dies", y: -323 },
   { e: "Qin Shi Huang unites China", y: -221 },

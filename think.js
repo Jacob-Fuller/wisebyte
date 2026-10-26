@@ -42,7 +42,7 @@ WB.GK = [
   { cat: "science", q: "Which part of a cell releases energy from food?", o: ["Nucleus", "Mitochondria", "Ribosome", "Cell wall"], a: 1, e: "Mitochondria are often called the cell's powerhouse." },
   { cat: "science", q: "What is the pH of pure water at 25°C?", o: ["0", "5", "7", "14"], a: 2, e: "Pure water is neutral, pH 7." },
   { cat: "science", q: "What is the hardest natural substance?", o: ["Gold", "Iron", "Diamond", "Quartz"], a: 2, e: "Diamond, a form of carbon, is the hardest natural material." },
-  { cat: "science", q: "What force keeps the planets in orbit around the Sun?", o: ["Magnetism", "Gravity", "Friction", "Wind"], a: 1, e: "The Sun's gravity holds the planets in their orbits." },
+  {"cat":"science","q":"What force keeps the planets in orbit around the Sun?","o":["Magnetism","Gravity","Friction","Radiation"],"a":1,"e":"The Sun's gravity holds the planets in their orbits."},
   // Technology
   { cat: "technology", q: "What does CPU stand for?", o: ["Central Processing Unit", "Computer Power Unit", "Core Program Utility", "Central Print Unit"], a: 0, e: "The CPU is the chip that carries out a computer's instructions." },
   { cat: "technology", q: "Who co-founded Apple with Steve Wozniak?", o: ["Bill Gates", "Steve Jobs", "Larry Page", "Mark Zuckerberg"], a: 1, e: "Steve Jobs and Steve Wozniak founded Apple in 1976, with Ronald Wayne." },
@@ -174,7 +174,6 @@ WB.PUZZLES = [
     e: "It doubles daily, so the day before it's full, it was half: day 47." },
   { q: "In a race, you overtake the person in second place. What place are you in now?", o: ["First", "Second", "Third"], a: 1, e: "You've taken their spot, so you're second." },
   { q: "A farmer has 17 sheep. All but 9 run away. How many are left?", o: ["8", "9", "17", "0"], a: 1, e: "'All but 9' means 9 stay behind." },
-  { q: "How many times can you subtract 5 from 25?", o: ["5 times", "Once", "4 times", "As many as you like"], a: 1, e: "Once. After that you're subtracting 5 from 20, not 25." },
   { q: "Mary's father has five daughters: Nana, Nene, Nini and Nono. What is the fifth daughter's name?", o: ["Nunu", "Mary", "Nina"], a: 1, e: "It's Mary: she's one of her father's daughters." },
   { q: "A clock shows 3:15. What is the angle between the hour and minute hands?", o: ["0°", "7.5°", "15°", "90°"], a: 1,
     e: "The minute hand is on the 3. The hour hand has moved a quarter of the way from 3 to 4, which is a quarter of 30°: 7.5°." },
@@ -199,7 +198,7 @@ WB.SCENARIOS = [
   { topic: "Probability", q: "Linda is 31, outspoken and studied philosophy, with a passion for social justice. Which is more likely?", o: ["Linda is a bank teller", "Linda is a bank teller and active in the feminist movement", "Both are equally likely", "There's no way to compare them"], a: 0, e: "Two things both being true can never be more likely than one of them alone. The detailed version just feels more fitting. That's the conjunction fallacy." },
   { topic: "Logical fallacies", q: "\"You can't trust his argument about tax. He failed maths at school.\" Which fallacy is this?", o: ["Ad hominem", "Straw man", "Slippery slope", "False dilemma"], a: 0,
     e: "Ad hominem attacks the person instead of the argument." },
-  { topic: "Logical fallacies", q: "\"You can't tell me to quit smoking. You smoked for 20 years!\" What's wrong with this reply?", o: ["Nothing, it's a fair point", "It's tu quoque: advice isn't wrong just because the person giving it was a hypocrite", "It's a straw man", "It's a slippery slope"], a: 1, e: "Pointing out hypocrisy dodges the argument. Smoking is just as harmful whoever warns you about it." },
+  {"topic":"Logical fallacies","q":"\"You can't tell me to quit smoking. You smoked for 20 years!\" What's wrong with this reply?","o":["Nothing, it's a fair point","Tu quoque: it dodges by pointing to hypocrisy","Straw man: it twists the argument","Slippery slope: it predicts a chain of events"],"a":1,"e":"Pointing out hypocrisy dodges the argument. Smoking is just as harmful whoever warns you about it."},
   { topic: "Logical fallacies", q: "\"If we lower the speed limit to 40, next they'll ban cars altogether.\" Which fallacy?", o: ["Slippery slope", "Ad hominem", "Red herring", "False cause"], a: 0, e: "It leaps to an extreme outcome without showing why each step would follow. Every link in a chain like that needs evidence." },
   { topic: "Logical fallacies", q: "\"Either you support this policy, or you don't care about children.\" Which fallacy?", o: ["Straw man", "False dilemma", "Appeal to emotion", "Hasty generalisation"], a: 1,
     e: "A false dilemma presents only two options when more exist." },
@@ -213,6 +212,6 @@ WB.SCENARIOS = [
     e: "Individual exceptions exist, but large studies show smoking greatly raises the risk of disease and early death." },
   { topic: "Statistics", q: "After a terrible game, the coach yelled at the team. Next game they played much better. What's the most likely explanation?", o: ["Yelling works", "Performance tends to return to average after an extreme result", "The other team was weaker", "The players were scared"], a: 1,
     e: "Regression to the mean: an unusually bad result is usually followed by a more typical one, with or without yelling." },
-  { topic: "Statistics", q: "The schools with the very best average results in a league table are mostly small schools. Should parents conclude small schools teach better?", o: ["Yes, small schools clearly teach better", "Not necessarily: small schools also fill the bottom of the table, because small groups vary more", "Only if they are private", "Yes, averages never lie"], a: 1, e: "With fewer students, a few very strong or weak ones swing the average. Small schools turn up at both extremes." },
+  {"topic":"Statistics","q":"The schools with the very best average results in a league table are mostly small schools. Should parents conclude small schools teach better?","o":["Yes, small schools clearly teach better","Not necessarily: small groups vary more","Only if they are private","Yes, averages never lie"],"a":1,"e":"With fewer students, a few very strong or weak ones swing the average. Small schools turn up at both extremes."},
   { topic: "Probability", q: "You roll two dice and add them. Which total comes up most often?", o: ["12", "7", "All totals are equally likely", "2"], a: 1, e: "Six combinations make 7 (1 and 6, 2 and 5, 3 and 4, each either way round), more than any other total. 2 and 12 can each be made only one way." },
 ];
