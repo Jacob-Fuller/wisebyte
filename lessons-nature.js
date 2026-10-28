@@ -16,7 +16,7 @@ WB.L("octopus-mind", "nature", "beginner", "The alien intelligence of octopuses"
   [
     [0, "Why is octopus intelligence so interesting to scientists?", ["It evolved separately from ours","It is identical to a dog's","It evolved from our direct ancestors","It only exists in the deep sea"], 0, "Octopus minds evolved separately from ours, showing there are different ways to build a mind."],
     [1, "Where are most of an octopus's neurons found?", ["In its central brain","In its eyes","In its eight arms","In its three hearts"], 2, "About two thirds of an octopus's neurons are in its arms, which can act semi-independently."],
-    [2, "Why can an octopus squeeze through such small gaps?", ["Its skeleton folds up","It has no bones, only a hard beak","Its arms are detachable","Its blood thins out"], 1, "With no bones, an octopus can pass through any gap larger than its beak."],
+    [2, "Why can an octopus squeeze through such small gaps?", ["Its skeleton folds up completely","Its arms detach and pass through","It has no bones, only a hard beak","Its blood thins to slip through"], 2, "With no bones, an octopus can pass through any gap larger than its beak."],
     [3, "How can an octopus change its skin colour so quickly?", ["By eating different foods","By seeing colour through three types of receptor","By stretching and shrinking pigment cells","By absorbing ink from the water"], 2, "Pigment cells controlled by muscles and nerves expand or shrink within a fraction of a second."],
     [4, "How long do most octopuses live?", ["About 10 years","One to two years","About 25 years","More than 50 years"], 1, "Despite their intelligence, most octopuses live only one to two years, which puzzles scientists."]
   ],

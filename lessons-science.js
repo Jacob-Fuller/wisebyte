@@ -46,7 +46,7 @@ WB.L("water", "science", "intermediate", "Water is weird",
   {"popularity":58,"added":"2026-09-18","related":["climate-change","evolution"],"push":"Water breaks the rules of chemistry. One quirk keeps lakes alive through winter."});
 
 WB.L("quantum", "science", "advanced", "Quantum mechanics, simply",
-  "The physics of the very small breaks every everyday rule. Yet it's the most tested theory in science, and it runs your phone.",
+  "The physics of the very small breaks every everyday rule. Yet it's one of the most precisely tested theories in science, and it runs your phone.",
   [
     ["Physics of the small", "Quantum mechanics describes atoms and particles, is among the most precisely tested theories in science, and underpins modern electronics.",
       "Quantum mechanics describes how things behave at the scale of atoms and particles such as electrons and photons. At that size, everyday ideas of cause and effect stop working the way you'd expect. It sounds like science fiction, yet it's one of the most precisely tested theories in science, with predictions confirmed to many decimal places.\n\nIt's also practical. Without it, we'd have no transistors, computer chips, lasers, LEDs, solar panels or MRI machines. Your phone runs on it."],

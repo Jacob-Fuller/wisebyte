@@ -46,7 +46,7 @@ WB.L("stars", "space", "intermediate", "The life and death of stars",
   {"added":"2026-09-05","related":["black-holes","big-bang"],"push":"The more fuel a star has, the shorter its life. Here's the odd logic behind that."});
 
 WB.L("big-bang", "space", "intermediate", "The Big Bang",
-  "13.8 billion years ago, everything you can see was packed into a space smaller than an atom. How do we know?",
+  "13.8 billion years ago, everything you can see was in an unimaginably hot, dense state. How do we know?",
   [
     ["Not an explosion", "The Big Bang was the expansion of space itself, everywhere at once, not an explosion into existing space.",
       "The Big Bang theory describes how the universe expanded from an extremely hot, dense state about 13.8 billion years ago. The name is misleading. It wasn't an explosion in one place, flinging matter outwards into empty space. It was the expansion of space itself, happening everywhere at once. There's no centre and no edge to point to. The name was coined by astronomer Fred Hoyle in a 1949 radio broadcast, though he preferred a rival theory."],

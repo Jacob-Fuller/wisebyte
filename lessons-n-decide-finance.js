@@ -85,7 +85,7 @@ WB.L("insurance", "money", "beginner", "Insurance without the confusion",
   [
     [0, "What is the golden rule for deciding what to insure?", ["Insure everything you own, however small","Insure losses you couldn't afford to cover yourself","Insure only what the law requires","Insure whatever the insurer recommends"], 1, "Insurance suits losses that would wreck your finances, while small losses can be covered from savings."],
     [1, "How does the Lifetime Health Cover loading work if you join late?", ["A flat $500 a year for everyone","10% for each year over age 25","Nothing if you earn under $100,000","2% for each year over age 30"], 3, "The loading is capped at 70% and removed after ten continuous years of cover."],
-    [2, "What does Compulsory Third Party (CTP) insurance cover?", ["Damage to your own car","Injuries you cause to other people","Damage to other people's cars","Theft of your car"], 1, "CTP covers injuries to people, not damage to vehicles or property."],
+    [2, "What does Compulsory Third Party (CTP) insurance cover?", ["Damage to your own car","Injuries to other people","Damage to other people's cars","Theft of your car"], 1, "CTP covers injuries to people, not damage to vehicles or property."],
     [3, "What does choosing a higher excess usually do?", ["Lowers your premium","Increases your premium","Removes exclusions","Doubles your cover"], 0, "Taking on more of each claim yourself generally reduces what you pay the insurer."],
     [4, "What does being underinsured mean?", ["You have too many overlapping policies","Your premium is higher than average","Your cover can't replace what you lose","You didn't read the PDS"], 2, "Rising rebuild costs and extra expenses often leave people short when disaster strikes."]
   ],

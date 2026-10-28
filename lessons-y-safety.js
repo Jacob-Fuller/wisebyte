@@ -20,7 +20,7 @@ WB.L("flood-safety", "safety", "beginner", "Floods: if it's flooded, forget it",
     [3, "If authorities tell you to evacuate, what should you do?", ["Wait to see how high the water gets","Wait until dark when the roads are quieter","Drive through shallow water to save time","Leave early, before roads are cut"], 3, "Leaving late often means crossing rising water in the dark."],
     [4, "What should you do with food that touched floodwater?", ["Wash it and eat it","Throw it out","Cook it thoroughly","Freeze it"], 1, "Floodwater can carry sewage and chemicals, so contaminated food should be discarded."]
   ],
-  {"added":"2026-09-25","push":"Floodwater that looks like ankle depth can hide a lot. Here is what."});
+  {"added":"2026-09-25","push":"Water that looks ankle-deep can hide a washed-out road. Here is how to stay safe."});
 
 WB.L("heatwave-safety", "safety", "beginner", "Surviving a heatwave",
   "Heatwaves do not burn houses or wash away roads, yet they are one of Australia's deadliest natural hazards. Here is how heat harms the body, and how to stay safe when the mercury soars.",
@@ -83,8 +83,8 @@ WB.L("emergency-kit-plan", "safety", "beginner", "Get ready: your emergency kit 
       "In many Australian disasters, the first people to help were neighbours, not police or firefighters. They checked on older residents, shared generators, moved livestock and offered spare rooms. Strong local connections are linked to communities coping and recovering better.\n\nBuild them simply: swap phone numbers, find out who might need help to evacuate, and join a local community or volunteer group. If you have a medical condition or disability, tell trusted neighbours what support you may need. Recovery can take months or years, and stress and grief are normal. The Australian Red Cross, councils and recovery centres can help. This is general information, so follow official advice for your area."]
   ],
   [
-    [0, "Why do emergency organisations urge households to plan ahead?", ["Disasters are certain every year","Plans are required by law","Warnings are never issued","Stress makes clear thinking hard"], 3, "Doing the thinking once, in calm conditions, lets you act quickly when it matters."],
-    [1, "Which question should a household plan answer?", ["Which insurer is cheapest","The trigger for when you will leave","What the weather was last year","Which neighbour has the biggest car"], 1, "Plans should cover trigger, destination, route and how to contact each other."],
+    [0, "Why do emergency organisations urge households to plan ahead?", ["Disasters are certain every year","Plans are required by law","Planning removes any need to evacuate","Stress makes clear thinking hard"], 3, "Doing the thinking once, in calm conditions, lets you act quickly when it matters."],
+    [1, "Which question should a household plan answer?", ["What your home is worth","The trigger for when you will leave","Which season had the last disaster","How many people live nearby"], 1, "Plans should cover trigger, destination, route and how to contact each other."],
     [2, "What is a common guideline for drinking water in a kit?", ["One litre per household a day","Three litres per person per day","Half a litre per person for one day","Whatever fits in the car"], 1, "Water is the core of a kit, with food needing no cooking or refrigeration."],
     [3, "Why keep a battery or wind-up radio?", ["Radios are required in kits by law","Radios save phone data","It keeps working if networks fail","It replaces the need for warnings"], 2, "ABC local radio often keeps broadcasting when other services fail."],
     [4, "Who are often the first people to help in a disaster?", ["Police and firefighters","Neighbours","Insurers","Government ministers"], 1, "Strong local connections help communities cope and recover."]
@@ -177,7 +177,7 @@ WB.L("lost-in-the-bush", "safety", "advanced", "Lost in the bush: how to be foun
   [
     [0, "What often carries lost walkers further from where searchers will look?", ["Staying in one spot and waiting","Wearing bright clothing in open ground","Carrying a whistle for signalling","The urge to keep moving to fix things fast"], 3, "Moving on in a hurry usually takes you further from your planned route and from searchers."],
     [1, "Why carry a personal locator beacon rather than rely only on a phone?", ["It removes the need to leave a trip plan","It signals by satellite with no mobile coverage","It only works with a monthly subscription","It is handy for any minor inconvenience"], 1, "A beacon can still raise the alarm where phones have no coverage or flat batteries."],
-    [2, "What does the STOP approach stand for?", ["Sprint, Travel, Observe, Pause","Signal, Track, Orient, Proceed","Stop, Think, Observe, Plan","Stay, Talk, Open, Pray"], 2, "Pausing to think and plan stops panic from driving you further into trouble."],
+    [2, "What does the STOP approach stand for?", ["Sprint, Travel, Observe, Pause","Signal, Track, Orient, Proceed","Stop, Think, Observe, Plan","Shelter, Think, Organise, Prepare"], 2, "Pausing to think and plan stops panic from driving you further into trouble."],
     [3, "According to the rule of threes, which need becomes urgent first?", ["Finding food","Finding a road","Lighting a large fire","Shelter from weather"], 3, "You can last only hours in harsh weather, days without water and weeks without food."],
     [4, "Which is widely recognised as a distress signal?", ["One long shout every few minutes","Two slow waves of the arm","Three whistle blasts in a row","A single bright flash of light"], 2, "Groups of three are widely recognised as a call for help and are easy to make."]
   ],

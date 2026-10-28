@@ -181,5 +181,5 @@ WB.L("science-of-pain", "body", "advanced", "The science of pain",
     [3, "What is central sensitisation?", ["A complete loss of feeling in a limb","Pain caused only by an infection","The nervous system becoming more sensitive","Healing of nerves after injury"], 2, "In central sensitisation the nervous system's alarm becomes overprotective, a common feature of chronic pain."],
     [4, "Why does modern care for persistent pain often combine several approaches?", ["Medicines alone often work less well","Medicines are never part of care","Pain is imagined and needs only reassurance","Rest alone cures most chronic pain"], 0, "Movement, sleep, education and psychological strategies address the sensitive nervous system as well as the pain."]
   ],
-  {"added":"2026-09-25","push":"A nail passed through a boot and missed the foot, yet he screamed in pain."});
+  {"added":"2026-09-25","push":"A nail passed through a boot and missed the foot, yet he was in agony."});
 

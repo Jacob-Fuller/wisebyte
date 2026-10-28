@@ -40,8 +40,8 @@ WB.L("writing-origins", "literature", "beginner", "The invention of writing",
     [0, "Why did writing develop as cities grew?", ["Poets wanted to preserve their songs","Administrators needed records beyond memory","Kings wanted lasting monuments to themselves","Priests wanted to hide their knowledge"], 1, "Taxes, trade, rations and debts across thousands of people were too much to hold in memory."],
     [1, "What were the earliest Mesopotamian tablets mostly about?", ["Accounts and receipts for goods","Love poetry and songs","Religious prayers and hymns","Royal histories and battles"], 0, "Writing began as bookkeeping, and poems and letters came later."],
     [2, "How often was writing invented independently, according to most scholars?", ["In almost every ancient culture","Once only, in Mesopotamia","Dozens of times across the world","Only a few times; the rest borrowed"], 3, "Mesopotamia, China and Mesoamerica, and probably Egypt, are the accepted independent cases."],
-    [3, "Why did the alphabet let more people learn to read?", ["It used a picture for every word","It was written only on paper","It used only a couple of dozen signs for sounds","Only priests were allowed to teach it"], 2, "Earlier systems needed hundreds of signs, so only trained scribes could write."],
-    [4, "What distinguishes history from prehistory?", ["The use of fire","The existence of written records","The start of farming","The growth of cities"], 1, "Writing let people record events, so history became possible."]
+    [3, "Why did the alphabet let more people learn to read?", ["It used a picture for every word","It was written only on paper","It used a couple of dozen sound signs","Only priests were allowed to teach it"], 2, "Earlier systems needed hundreds of signs, so only trained scribes could write."],
+    [4, "What distinguishes history from prehistory?", ["The use of fire","Written records","The start of farming","The growth of cities"], 1, "Writing let people record events, so history became possible."]
   ],
   {"added":"2026-09-25","push":"The first writing wasn't poetry or prayer. It was something far more ordinary."});
 

@@ -66,7 +66,7 @@ WB.L("impostor-phenomenon", "psychology", "beginner", "Impostor feelings: when s
     [3, "Why can expertise feed impostor feelings?", ["Experts get far less feedback than beginners do","Experts are usually less skilled than they appear","The more you know, the more you see what you don't","Beginners always know more about their own gaps"], 2, "Feeling unsure can reflect a realistic understanding of how complex the work is."],
     [4, "Which habit helps loosen impostor feelings?", ["Avoid any situation where other people might judge your work","Work far longer than necessary on every single task","Keep a record of your wins and reread it when doubts flare","Keep the feelings to yourself rather than talking about them"], 2, "Evidence of competence is easier to see when you record it and review it."]
   ],
-  {"added":"2026-09-25","push":"You earned the job, so why does it feel like a fluke? Most people feel it."});
+  {"added":"2026-09-25","push":"You earned the job, so why does it feel like a fluke? You are not alone."});
 
 WB.L("spotlight-effect", "psychology", "beginner", "The spotlight effect: nobody's watching as closely as you think",
   "That embarrassing stumble, the stain on your shirt, the awkward thing you said: you're replaying it all night. Everyone else has already forgotten.",

@@ -87,7 +87,7 @@ WB.L("solar-system", "space", "beginner", "A tour of the solar system",
     [1, "Which is the hottest planet?", ["Venus","Mercury","Mars","Jupiter"], 0, "Venus's thick carbon dioxide atmosphere traps heat, reaching about 465°C."],
     [4, "Which of these planets can you see with the naked eye?", ["Neptune","Saturn","Pluto","None without a telescope"], 1, "Mercury, Venus, Mars, Jupiter and Saturn are all visible without a telescope."],
     [2, "If the Sun were shrunk to the height of a front door, what would Earth be?", ["A basketball on the doorstep","A 5-cent coin about 215 metres away","A grain of sand 20 kilometres away","A tennis ball 10 metres away"], 1, "Neptune would be over 6 kilometres away; the solar system is mostly empty space."],
-    [3, "Why was Pluto reclassified as a dwarf planet in 2006?", ["It is not round","It doesn't orbit the Sun","It hasn't cleared its orbital neighbourhood","It was found to be a moon of Neptune"], 2, "Pluto shares its region of the Kuiper Belt with many other icy bodies."]
+    [3, "Why was Pluto reclassified as a dwarf planet in 2006?", ["It is too irregular in shape","It does not orbit the Sun directly","It hasn't cleared its orbital neighbourhood","It was found to be a moon of Neptune"], 2, "Pluto shares its region of the Kuiper Belt with many other icy bodies."]
   ],
   {"popularity":82,"added":"2026-09-25","related":["moon","stars","galaxies","exoplanets"],"push":"Shrink the Sun to a door and Earth is a coin far down the street."});
 

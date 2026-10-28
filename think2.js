@@ -61,7 +61,7 @@ WB.GK.push(
   // Sport
   { cat: "sport", q: "How many players does a netball team have on court?", o: ["5", "6", "7", "9"], a: 2, e: "Seven, each restricted to certain zones of the court." },
   { cat: "sport", q: "In golf, what is one stroke under par called?", o: ["Bogey", "Birdie", "Eagle", "Albatross"], a: 1, e: "An eagle is two under and an albatross three under." },
-  { cat: "sport", q: "How long is a marathon?", o: ["21.1 km", "30 km", "42.195 km", "50 km"], a: 2, e: "The odd distance was standardised after the 1908 London Olympics." },
+  {"cat":"sport","q":"How long is a marathon?","o":["21.1 km","30 km","42.195 km","50 km"],"a":2,"e":"The odd distance comes from the 1908 London Olympics and became the official standard in 1921."},
   { cat: "sport", q: "In which sport would you see a slam dunk?", o: ["Cricket", "Basketball", "Tennis", "Swimming"], a: 1, e: "A slam dunk is when a player jumps and pushes the ball straight down through the hoop." },
   { cat: "sport", q: "Cathy Freeman won gold at the Sydney 2000 Olympics in which event?", o: ["100 m", "200 m", "400 m", "800 m"], a: 2, e: "She won the 400 m final in front of about 110,000 people." },
   // Art
