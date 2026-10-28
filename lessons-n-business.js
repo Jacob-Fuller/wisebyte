@@ -1,6 +1,6 @@
 /* WISEBYTE LESSONS · Starting a Business */
 WB.L("business-idea", "business", "beginner", "Finding an idea worth building",
-  "Most new products fail not because they were built badly, but because nobody wanted them. The fix starts long before you build anything.",
+  "Many new products fail not because they were built badly, but because nobody wanted them. The fix starts long before you build anything.",
   [
     ["Start with a problem", "Good business ideas usually start with a painful, frequent problem that people already try to solve, not a clever solution.",
       "The strongest business ideas rarely begin with 'wouldn't it be cool if'. They begin with a problem real people have often, which costs them time, money or stress. Ask three questions: how painful is it, how often does it happen, and what are people doing about it now? If people already cobble together spreadsheets, workarounds or paid help, that's a strong signal. If nobody has ever tried to solve it, it may not hurt enough to pay for.\n\nIdeas often come from your own work and frustrations. Tradespeople build quoting software because they hated doing quotes at night. Change creates openings too: new technology, regulations or shopping habits create problems that established firms are slow to notice."],
@@ -18,9 +18,9 @@ WB.L("business-idea", "business", "beginner", "Finding an idea worth building",
     [1, "What is your riskiest assumption?", ["The belief that would sink the idea if wrong","The cheapest part of your plan to test","The cost of your logo and website","The part of the plan you are most sure about"], 0, "Testing the belief that could kill the business first saves time and money."],
     [2, "According to The Mom Test approach, what should you ask potential customers about?", ["Whether they like your idea","What they would pay in the future","Which logo they prefer","Specific things they did in the past"], 3, "Past behaviour is a more reliable guide than polite opinions or predictions."],
     [3, "Which is the strongest evidence of real demand?", ["A friend saying it is a great idea","Customers paying a deposit before launch","Positive comments on social media","A survey where people say they would probably buy"], 1, "Commitments of money, time or reputation are much stronger signals than compliments."],
-    [4, "Why can competitors be a good sign?", ["They guarantee your business will succeed","They make marketing unnecessary","They show people already pay to solve the problem","They let you copy their prices"], 2, "Competition usually confirms a market exists, so your job is to be meaningfully different for some customers."]
+    [4, "Why can competitors be a good sign?", ["They guarantee your business will succeed","They remove the need for any marketing","They show people already pay for solutions","They let you copy their prices exactly"], 2, "Competition usually confirms a market exists, so your job is to be meaningfully different for some customers."]
   ],
-  {"popularity":78,"added":"2026-09-25","related":["business-model","startup-lessons","cognitive-biases"],"push":"Most failed products were built well. The problem was something else entirely."});
+  {"popularity":78,"added":"2026-09-25","related":["business-model","startup-lessons","cognitive-biases"],"push":"Many failed products were built well. The problem was something else entirely."});
 
 WB.L("business-model", "business", "beginner", "How businesses make money",
   "A great product isn't a business until you know who pays, how much, and whether what's left over covers the costs.",
@@ -107,7 +107,7 @@ WB.L("start-business-au", "business", "beginner", "Starting a business in Austra
   ],
   [
     [0, "Which activity is most likely to look like a business rather than a hobby?", ["Selling a few paintings a year with no records","Painting occasionally and giving the works away","Making paintings regularly to sell, with records","Painting only when inspired, with no plan to sell"], 2, "Intent to profit, regular activity and business-like organisation point towards a business."],
-    [1, "What is the main personal risk of being a sole trader?", ["You must pay a higher rate of GST","You cannot change structure later","You need an ASIC registration for your own name","You are personally responsible for all business debts"], 3, "A sole trader and the business are legally the same, so personal assets may be at risk."],
+    [1, "What is the main personal risk of being a sole trader?", ["You must pay a higher rate of GST than companies","You cannot change your structure once you start","You need an ASIC registration for your own name","You are personally responsible for all business debts"], 3, "A sole trader and the business are legally the same, so personal assets may be at risk."],
     [2, "When do you generally need to register a business name?", ["When you trade under a different name","Whenever you earn any income","Only if your turnover exceeds $75,000","Never, if you have an ABN"], 0, "Trading as 'Northside Dog Walking' needs a registered name, while trading under your own name does not."],
     [3, "When must a business register for GST?", ["As soon as it hires any employees","As soon as it receives an ABN","At $75,000 of annual GST turnover","Only once it becomes a company"], 2, "The standard threshold is $75,000 a year, though you can register voluntarily earlier."],
     [4, "Which step is recommended from day one?", ["Keeping receipts in one personal account","Opening a separate business bank account","Waiting a year before setting up accounting","Skipping insurance until you have staff"], 1, "Separating business finances makes records, tax and decisions much simpler."]

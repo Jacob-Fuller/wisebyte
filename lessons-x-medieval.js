@@ -18,7 +18,7 @@ WB.L("feudalism", "ancient", "beginner", "Castles, kings and feudalism",
     [1, "What was exchanged in a feudal agreement?", ["Royal titles in return for cash payments","Land in return for loyalty and military service","Weapons in return for farm produce","Stone castles in return for tax money"], 1, "Feudalism exchanged land for loyalty and service, passed down through several levels."],
     [2, "How did the Black Death weaken serfdom?", ["Lords voluntarily freed every serf in England","Workers became scarce, so survivors gained leverage","Peasants won their demands in the Revolt of 1381","Kings abolished serfdom by law across Europe"], 1, "With so many workers dead, survivors gained bargaining power, and serfdom faded in much of western Europe."],
     [3, "What helped end the age of castles?", ["Better longbows","Flooded moats","Fewer nobles","Gunpowder cannons"], 3, "Cannons made tall stone walls vulnerable."],
-    [4, "What was a tithe?", ["A type of knight's armour","A tax of a tenth of income paid to the Church","A fee for using a castle","A royal title"], 1, "The Church collected tithes as part of its great wealth and power."]
+    [4, "What was a tithe?", ["A piece of armour worn by knights","A tenth of income paid to the Church","A fee charged for using a castle","A royal title given to loyal lords"], 1, "The Church collected tithes as part of its great wealth and power."]
   ],
   {"added":"2026-09-25","push":"The Middle Ages were not 'dark', and many popular beliefs about them are myths."});
 
@@ -110,7 +110,7 @@ WB.L("magna-carta", "society", "beginner", "Magna Carta",
     [1, "What happened soon after John agreed to Magna Carta?", ["It became permanent law","John gave up his throne","The barons disbanded peacefully","The Pope cancelled it and civil war followed"], 3, "John agreed partly to buy time, and within weeks he had the Pope declare it void."],
     [2, "What did Clause 39's principle promise?", ["Every man the right to vote in Parliament","No free man punished except by lawful judgement","Equal wages for all workers in England","Freedom for all peasants from their lords"], 1, "The idea that rulers are bound by law, and everyone deserves due process, is why the charter became famous."],
     [3, "What happened to Magna Carta after John's death?", ["It was ignored and forgotten for centuries","It was fully repealed within a decade","It became English law for the first time in 1948","It was reissued, and a few clauses remain law"], 3, "Henry III's advisers reissued it, Edward I confirmed it in 1297, and three clauses survive in English law."],
-    [4, "What principle does Magna Carta stand for?", ["Divine right of kings","The rule of law, even for rulers","Democracy for everyone","Free education"], 1, "Power must follow known laws, and those in charge are not above them."]
+    [4, "What principle does Magna Carta stand for?", ["The divine right of kings to rule","The rule of law, even for rulers","Full democracy for every adult","Free schooling for all children"], 1, "Power must follow known laws, and those in charge are not above them."]
   ],
   {"added":"2026-09-25","push":"A failed peace treaty from 1215 sits in Canberra. Why does it still matter?"});
 

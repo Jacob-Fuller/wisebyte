@@ -39,7 +39,7 @@ WB.L("space-race", "space", "beginner", "The Space Race",
   [
     [0, "Why did Sputnik alarm Americans beyond its beeping signal?", ["It carried a hidden nuclear weapon","The same rockets could carry warheads","It could be seen from every city","It was launched without any warning"], 1, "Space technology grew out of missile programs, so a satellite launch signalled military capability."],
     [1, "What did Gagarin's 1961 flight on Vostok 1 achieve?", ["The first spacewalk","The first Moon landing","The first woman in orbit","The first human in space"], 3, "Gagarin orbited Earth once, becoming the first person in space."],
-    [2, "What did Explorer 1 detect?", ["The Van Allen radiation belts","Water on the Moon","Sputnik's radio signal","The solar wind"], 0, "Explorer 1's instruments found bands of charged particles trapped by Earth's magnetic field."],
+    [2, "What did Explorer 1 detect?", ["The Van Allen radiation belts","Water ice at the Moon's poles","Radio signals from Sputnik 1","The solar wind near the Sun"], 0, "Explorer 1's instruments found bands of charged particles trapped by Earth's magnetic field."],
     [3, "What did the Gemini program practise for the Moon missions?", ["Landing on the lunar surface","Designing a giant Moon rocket","Spacewalks, long flights and docking","Launching communications satellites"], 2, "Gemini tested the skills Apollo would need, including the first docking of two spacecraft in orbit."],
     [4, "What did the 1975 Apollo-Soyuz mission show?", ["That the Soviets had won the race","That the Moon landing had failed","That Apollo 1 was safe","That rivals could cooperate in orbit"], 3, "After the race, rivals docked and shook hands in orbit, a spirit that led to the International Space Station."]
   ],
@@ -115,7 +115,7 @@ WB.L("telescopes", "space", "intermediate", "Telescopes: our eyes on the univers
   {"popularity":72,"added":"2026-09-25","related":["stars","light","moon-landing"],"push":"A mirror 1.5 million kilometres away is reading light older than Earth."});
 
 WB.L("mars", "space", "intermediate", "Mars: the red frontier",
-  "Mars once had rivers and lakes. Today it's a freezing desert patrolled by robots, and the most likely next destination for human footprints.",
+  "Mars once had rivers and lakes. Today it's a freezing desert patrolled by robots, and the most likely destination for humans beyond the Moon.",
   [
     ["A small red world", "Mars is about half Earth's width with 38% of its gravity, a day almost like ours, and a rusty red surface.",
       "Mars is the fourth planet from the Sun and about half Earth's diameter. Its surface gravity is about 38% of ours, so a 70-kilogram person would feel like they weighed about 27 kilograms. A Martian day, called a sol, lasts about 24 hours and 40 minutes, remarkably close to our own, but a Martian year takes 687 Earth days. Its red colour comes from iron oxide, essentially rust, in its dust and rocks. It has two small, lumpy moons, Phobos and Deimos, which may be captured asteroids."],

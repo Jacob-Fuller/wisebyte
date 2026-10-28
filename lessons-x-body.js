@@ -84,7 +84,7 @@ WB.L("senses", "body", "beginner", "How your senses work",
   ],
   [
     [0, "What is proprioception?", ["Sensing balance and head movement","Detecting changes in temperature","Sensing limb position without looking","Sensing hunger and thirst"], 2, "It is one of many senses beyond the classic five, and lets you touch your nose with eyes closed."],
-    [1, "What do the cones in the retina detect?", ["Colour, in three types","Dim light only","Motion only","Heat from objects"], 0, "Rods handle dim light without colour; cones, packed in the fovea, give sharp colour vision."],
+    [1, "What do the cones in the retina detect?", ["Colour, in three types","Dim light and shadow","Movement at the edges","Heat from objects"], 0, "Rods handle dim light without colour; cones, packed in the fovea, give sharp colour vision."],
     [2, "Why is loud noise so harmful to hearing?", ["It permanently blocks the ear canal","It harms hair cells that can't regrow","It stretches the ear canal wider","It causes lasting inner ear infections"], 1, "Cochlear hair cells don't regrow in humans, which is why hearing protection matters."],
     [3, "Why can a smell instantly bring back a memory?", ["Nose cells keep a copy of each memory","The eyes process smells alongside sight","Smell signals link closely to memory areas","Taste buds record every meal you eat"], 2, "Smell has an unusually direct route into the brain's emotion and memory centres."],
     [4, "What does the McGurk effect show?", ["Hearing is more reliable than sight","Lip reading is almost impossible","Sound travels faster than light","What you see can change what you hear"], 3, "The brain blends senses and fills gaps, so perception is built rather than recorded."]
@@ -153,7 +153,7 @@ WB.L("dreams", "body", "beginner", "Why we dream",
   ],
   [
     [0, "What did waking sleepers during REM show?", ["Almost none recalled anything","They all described identical dreams","Most described vivid dreams","They were fully awake and alert"], 2, "REM is strongly linked with vivid dreaming, though dreams occur outside it too."],
-    [1, "How can you remember dreams better?", ["Write them down immediately on waking","Sleep in for longer","Move around straight after waking","Avoid thinking about them"], 0, "Dream memories fade fast, so capturing them straight away improves recall."],
+    [1, "How can you remember dreams better?", ["Write them down at once","Sleep in for longer","Move around straight after waking","Avoid thinking about them"], 0, "Dream memories fade fast, so capturing them straight away improves recall."],
     [2, "Why might REM sleep help with emotional memories?", ["It deletes the unpleasant ones for good","It may process them while stress chemicals are low","It strengthens them so they feel more intense","It has no link to emotion of any kind"], 1, "This 'overnight therapy' idea suggests REM takes the sting out of experiences, though evidence is mixed."],
     [3, "How did researchers show lucid dreaming was real?", ["By interviewing sleepers each morning","By hypnotising sleepers in the lab","By scanning volunteers while awake","Sleepers signalled with eye movements"], 3, "Signals from verified REM sleep proved dreamers could be aware they were dreaming."],
     [4, "Which sleep behaviour usually happens outside dreaming?", ["Sleepwalking and sleep talking","Nightmares","Acting out dreams in REM behaviour disorder","Lucid dreaming"], 0, "These occur mostly in non-REM sleep, unlike REM sleep behaviour disorder where paralysis fails."]

@@ -64,7 +64,7 @@ WB.L("french-revolution", "history", "intermediate", "The French Revolution",
     [1, "What did the Declaration of the Rights of Man proclaim?", ["That kings rule by divine right","That people are born free and equal","That property should be abolished","That only nobles have rights"], 1, "Its principles of liberty and equality before the law influenced rights charters worldwide."],
     [2, "What was the Reign of Terror?", ["A foreign invasion of France","Mass executions in 1793-94","Napoleon's years as emperor","A famine across the countryside"], 1, "Under war and revolt, the republic turned on suspected enemies, and Robespierre eventually fell too."],
     [3, "What did the Napoleonic Code do?", ["It guaranteed legal equality for men","It restored feudal privileges","It abolished the courts","It crowned Napoleon emperor"], 0, "The Code gave clear civil law that spread across Europe and still shapes legal systems."],
-    [4, "Where do 'left' and 'right' in politics come from?", ["Seating in the French National Assembly","Roman senators","Voting direction in the US Congress","The British House of Lords"], 0, "Supporters of radical change sat on the left and defenders of the king on the right."]
+    [4, "Where do 'left' and 'right' in politics come from?", ["Seating in the French National Assembly","Seating in the Roman Senate","Voting direction in the US Congress","The British House of Lords"], 0, "Supporters of radical change sat on the left and defenders of the king on the right."]
   ],
   {"added":"2026-09-25","push":"We still use its seating plan to describe politics. Here's where it began."});
 
