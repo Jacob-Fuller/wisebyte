@@ -158,7 +158,7 @@ WB.L("bronze-age-collapse", "ancient", "advanced", "The Bronze Age collapse",
     [3, "Why did several pressures together do more damage than any one alone?", ["Each pressure cancelled out the effects of the others","Palace economies had large reserves that absorbed every shock","Shocks spread through connected systems, so failures compounded","Only earthquakes caused real damage, and the rest were minor"], 2, "A shock in one place spreads: no tin, no bronze; no grain, hungry cities; fallen palaces, scattered specialists."],
     [4, "What was one lasting result of the collapse?", ["Bronze became more widely used than ever before","Cuneiform spread to replace all other writing","Large centralised empires quickly rebuilt the old palaces","Iron, which needed no imported tin, came into wide use"], 3, "Iron ore was widely available, so the loss of tin trade pushed societies toward a new metal and a new age."]
   ],
-  {"added":"2026-09-25","push":"A connected world collapsed within a few generations. Why is still debated."});
+  {"added":"2026-09-25","push":"A connected world collapsed within a few generations. The cause is still debated."});
 
 WB.L("antikythera-mechanism", "ancient", "advanced", "The Antikythera mechanism: an ancient computer",
   "Divers searching for sponges found a lump of corroded bronze in a Roman-era shipwreck. More than a century later, scientists realised it was a geared machine that modelled the heavens.",

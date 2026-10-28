@@ -39,7 +39,7 @@ WB.L("vikings", "ancient", "beginner", "The Vikings",
   [
     [0, "Where does the image of Vikings in horned helmets come from?", ["Surviving helmets found in Viking graves","Opera costume designs in the 1800s","Descriptions written by English monks","Carvings on surviving Viking runestones"], 1, "No horned Viking helmets have been found; the image is a 19th-century invention."],
     [1, "Why were longships so effective for raids?", ["They carried heavy catapults for sieges","Fast and shallow enough to sail far up rivers","They were too large for defenders to attack","Their dragon heads frightened defenders away"], 1, "Raiders could strike deep inland and escape before defenders arrived."],
-    [2, "What does 'Normandy' mean?", ["Northern farms","New settlement","Land of the Northmen","Land of rivers"], 2, "Vikings settled the region that became Normandy, and their descendants later conquered England."],
+    [2, "What does 'Normandy' mean?", ["Land of the Franks","Land of the Northmen","Gateway to the sea","Land of the horsemen"], 1, "Vikings settled the region that became Normandy, and their descendants later conquered England."],
     [3, "How do we know Norse people reached North America?", ["Archaeologists found a Norse site in Newfoundland","Only from stories in a single saga","Columbus reported meeting Norse settlers","From Greenland maps drawn in the 1100s"], 0, "The sagas hinted at Vinland, but a dated site in Newfoundland confirmed it."],
     [4, "Which weekday is named after Thor?", ["Tuesday","Wednesday","Thursday","Friday"], 2, "Thursday is Thor's day, just as Wednesday is Woden's (Odin's) day."]
   ],
@@ -84,7 +84,7 @@ WB.L("crusades", "ancient", "intermediate", "The Crusades",
   ],
   [
     [0, "What did Pope Urban II promise those who went on crusade?", ["Forgiveness of their sins","Land in Jerusalem for every soldier","Freedom from all taxes","A place in the Byzantine army"], 0, "The promise of forgiveness, along with faith, adventure and wealth, drew tens of thousands."],
-    [1, "Why did the First Crusade succeed in capturing Jerusalem?", ["The crusaders had cannons","Jerusalem was undefended","Local Muslim rulers were divided","The Byzantines fought alone"], 2, "Divisions among local Muslim rulers helped the crusaders, though the conquest was brutal."],
+    [1, "Why did the First Crusade succeed in capturing Jerusalem?", ["The crusaders had far better weapons","Jerusalem had almost no defenders","Local Muslim rulers were divided","The Byzantines did most of the fighting"], 2, "Divisions among local Muslim rulers helped the crusaders, though the conquest was brutal."],
     [2, "How did Saladin treat Jerusalem when he retook it in 1187?", ["Mostly peacefully, with ransoms allowed","He razed the city to the ground","He handed the city to the Byzantine emperor","He massacred the city's people"], 0, "Unlike the crusaders in 1099, Saladin allowed many inhabitants to ransom themselves and leave."],
     [3, "What did the Fourth Crusade do in 1204?", ["Won back Jerusalem","Defeated Saladin at Hattin","Looted Christian Constantinople","Captured the city of Cairo"], 2, "The attack on a Christian capital deepened the split between Eastern and Western churches."],
     [4, "Which cities gained most from Crusade-era trade?", ["Venice and Genoa","Paris and London","Moscow and Kyiv","Madrid and Lisbon"], 0, "Italian trading cities prospered from Mediterranean trade."]
@@ -112,5 +112,5 @@ WB.L("magna-carta", "society", "beginner", "Magna Carta",
     [3, "What happened to Magna Carta after John's death?", ["It was ignored and forgotten for centuries","It was fully repealed within a decade","It became English law for the first time in 1948","It was reissued, and a few clauses remain law"], 3, "Henry III's advisers reissued it, Edward I confirmed it in 1297, and three clauses survive in English law."],
     [4, "What principle does Magna Carta stand for?", ["The divine right of kings to rule","The rule of law, even for rulers","Full democracy for every adult","Free schooling for all children"], 1, "Power must follow known laws, and those in charge are not above them."]
   ],
-  {"added":"2026-09-25","push":"A failed peace treaty from 1215 sits in Canberra. Why does it still matter?"});
+  {"added":"2026-09-25","push":"A failed peace treaty from 1215 still shapes Australian law. Why?"});
 
