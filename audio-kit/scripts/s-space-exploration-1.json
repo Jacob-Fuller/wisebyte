@@ -1,0 +1,1164 @@
+{
+ "id": "s-space-exploration-1",
+ "title": "Space Exploration · Episode 1",
+ "chapters": [
+  "How rockets work",
+  "The Space Race",
+  "Apollo and the Moon landing",
+  "Australia's place in space"
+ ],
+ "units": [
+  {
+   "t": "Space Exploration. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How rockets work, The Space Race, Apollo and the Moon landing and Australia's place in space.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How rockets work.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A rocket doesn't push against the air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It throws mass out the back so fast that the rest of it has no choice but to go forward.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Action and reaction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every rocket relies on Newton's third law: for every action there is an equal and opposite reaction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Burning propellant makes hot gas at enormous pressure, and the nozzle forces it out the back at several kilometres per second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pushing that mass backwards pushes the rocket forwards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A garden hose kicks in your hand, and a balloon zips around the room, for the same reason.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common myth is that rockets push against the air, so they couldn't work in space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They work slightly better in a vacuum, because no air pressure resists the exhaust.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What they do need is oxygen to burn their fuel, so they carry their own oxidiser.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common pairings are refined kerosene with liquid oxygen, and liquid hydrogen with liquid oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Solid boosters mix fuel and oxidiser into a rubbery solid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mostly fuel, built in stages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Getting to space is so demanding that a rocket is mostly a flying fuel tank.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Typically 85 to 90% of a large rocket's lift-off mass is propellant, and the payload is often only a few per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Falcon 9 weighs about 550 tonnes at lift-off but carries at most around 23 tonnes to low orbit, roughly 4%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every extra kilogram of fuel also has to be lifted, which needs yet more fuel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carrying empty tanks wastes energy, so most rockets are built in stages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The large first stage does the heavy lifting through the thick lower atmosphere, then shuts down and falls away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A smaller second stage pushes a much lighter vehicle onwards, and some rockets add a third.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staging is the practical answer to the harsh arithmetic of the rocket equation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orbit is about speed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reaching space is surprisingly easy: the commonly used boundary, the Kármán line, is only about 100 kilometres up.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Staying there is the hard part.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An object in orbit is constantly falling towards Earth, but moving sideways so fast that the ground curves away beneath it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In low Earth orbit that takes about 7.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 kilometres per second, roughly 28,000 km/h.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why rockets lean over soon after launch and spend most of their effort gaining sideways speed rather than height.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Launching eastwards also borrows a boost from Earth's own rotation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pioneers to reusable rockets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Chinese used gunpowder rockets in war by the 1200s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1903 the Russian schoolteacher Konstantin Tsiolkovsky published the equation linking a rocket's speed to its exhaust speed and fuel load.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1926 American physicist Robert Goddard launched the first liquid-fuelled rocket in Massachusetts; it flew for about two and a half seconds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germany's V-2 of World War II, the first large guided ballistic missile, later helped both the US and Soviet space programs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For most of the space age, rockets were thrown away after one use, like building a new airliner for every flight.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Space Shuttle, 1981 to 2011, was partly reusable but slow and costly to refurbish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In December 2015 SpaceX landed a Falcon 9 first stage upright, and it now routinely reflies boosters, some more than 30 times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rockets in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has a real place in rocket history.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 1947 the vast Woomera range in outback South Australia was used by Britain and Australia to test missiles and research rockets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In November 1967 WRESAT, Australia's first satellite, was launched from Woomera on a modified American rocket, putting Australia among the first few nations with a satellite in orbit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian Space Agency was set up in 2018, and several Australian companies are developing launch vehicles and satellites.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Across the Tasman, Rocket Lab launches small satellites from New Zealand's Mahia Peninsula.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next time you see a launch, you'll know it's Newton doing the work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Rockets work by Newton's third law: they throw gas backwards, so the rocket goes forwards, even in a vacuum.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Space Race.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1957 a metal ball the size of a beach ball started beeping overhead, and two superpowers began racing to the Moon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cold War and Sputnik.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After World War II, the United States and the Soviet Union became rivals in the Cold War, a long standoff that stopped short of direct war.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Space became a stage for that contest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each side wanted to prove its system produced better science, and the stakes were military as well as symbolic: a rocket that could orbit a satellite could also carry a nuclear warhead across the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial satellite.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was a polished metal sphere about 58 centimetres across, weighing roughly 84 kilograms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It circled Earth every 96 minutes, simply transmitting a beeping radio signal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The launch shocked Americans, who had assumed they were ahead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A month later Sputnik 2 carried a dog named Laika, the first animal to orbit Earth; she did not survive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soviet firsts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Soviets kept claiming the headlines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Luna 2 reached the Moon's surface in 1959.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 12 April 1961, Yuri Gagarin, a 27-year-old air force pilot, became the first human in space aboard Vostok 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He orbited Earth once in about 108 minutes, then ejected during descent and parachuted down, as designed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His cry of \"Poyekhali\", \"Let's go\", became famous.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He died in a jet training crash in 1968, aged 34.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In June 1963 Valentina Tereshkova became the first woman in space, spending almost three days in orbit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 18 March 1965 Alexei Leonov made the first spacewalk from Voskhod 2.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His suit ballooned so much that he had to let air out to squeeze back inside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "America responds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The US answered quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 31 January 1958 it launched Explorer 1, whose instruments detected the Van Allen radiation belts, bands of charged particles trapped by Earth's magnetic field.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later that year the government created NASA to run a civilian space program.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sputnik also prompted major new US spending on science and maths education.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alan Shepard became the first American in space on 5 May 1961, on a 15-minute suborbital hop.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In February 1962 John Glenn became the first American to orbit Earth, circling it three times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As his capsule passed over Western Australia, the people of Perth switched on their lights, earning it the nickname \"City of Light\".",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Moon goal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stung by Gagarin's flight, President John F.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kennedy told Congress in May 1961 that America should land a man on the Moon and return him safely before the decade was out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1962 in Texas he added: \"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard.\"",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal gave the race a clear finish line.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its peak, Apollo employed roughly 400,000 people across government and industry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronauts first had to master untried skills.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The US Gemini program, flying two-person crews in 1965 and 1966, practised spacewalks, flights of up to two weeks, and the first docking of two spacecraft in orbit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile the Soviet program lost its brilliant chief designer, Sergei Korolev, who died in 1966.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How it ended.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The race had real costs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In January 1967 a fire during a ground test of Apollo 1 killed three astronauts, and months later cosmonaut Vladimir Komarov died when the parachute of Soyuz 1 failed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Soviets' giant N1 Moon rocket failed all four of its launch attempts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In July 1969 Apollo 11 landed on the Moon, effectively settling the race.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 1975 the mood had shifted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Apollo-Soyuz mission, American and Soviet crews docked and shook hands in orbit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That spirit later grew into the International Space Station.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Space Race grew from Cold War rivalry and missile technology, starting with Sputnik 1 in 1957.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Apollo and the Moon landing.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In July 1969 about 600 million people watched two men walk on the Moon, and those pictures reached the world through a dish in a sheep paddock in New South Wales.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One small step.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Apollo 11 launched from Florida on 16 July 1969 with Neil Armstrong, Buzz Aldrin and Michael Collins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NASA used a plan called lunar orbit rendezvous.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collins stayed in orbit in the command module, Columbia, while a light, spidery lander called Eagle carried the other two down to the Sea of Tranquillity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That was 20 July in US time and 21 July in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The landing was tense.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computer alarms flashed, and Armstrong steered past a boulder field by hand, with less than a minute of fuel to spare by some estimates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hours later he said, 'That's one small step for man, one giant leap for mankind.'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aldrin followed about 20 minutes later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pair walked for roughly two and a half hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Saturn V and beyond.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Getting there took the Saturn V, a three-stage rocket about 110 metres tall.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its five first-stage engines burned roughly 13 tonnes of propellant every second.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It flew 13 times between 1967 and 1973 and never lost a crew.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only the small command module came home; Apollo 11 splashed down in the Pacific on 24 July.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apollo 12 landed in November 1969, beside an older robotic probe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Apollo 13 never landed: an oxygen tank exploded, and the crew survived by using the lunar module as a lifeboat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last three landings carried a battery-powered buggy, the Lunar Roving Vehicle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In all, six missions landed and 12 men walked on the Moon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apollo 17 left in December 1972, and no one has been back since.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Parkes dish.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because Earth was turning, the Moon was above Australia when Armstrong stepped out, so Australian stations did vital work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first TV images came through the Honeysuckle Creek tracking station near Canberra.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Minutes later, the CSIRO's 64-metre radio telescope at Parkes, in central-west New South Wales, took over and supplied the clearer pictures for most of the moonwalk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strong gusts of wind buffeted the dish, beyond its normal safe limits, but staff kept it tracking.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story inspired the 2000 Australian film The Dish.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rocks, quakes and proof.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The six landings brought back about 382 kilograms of lunar rock and soil, still studied by scientists around the world, including in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2022 scientists opened an Apollo 17 sample that had stayed vacuum-sealed since 1972.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seismometers showed the Moon has moonquakes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Apollo 12 crashed its discarded lander stage into the surface, the Moon rang for nearly an hour, like a bell, because the dry, cold rock barely dampens vibrations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conspiracy theories say the landings were faked.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet around 400,000 people worked on Apollo, and the Soviet Union, which tracked the missions and had every reason to expose a hoax, never disputed them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The laser mirrors left behind still work, and NASA's Lunar Reconnaissance Orbiter has photographed the landing sites, even the astronauts' footpaths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Back to the Moon.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After five decades, humans are going back.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NASA's Artemis program is named after Apollo's twin sister in Greek mythology.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Artemis I flew uncrewed around the Moon in late 2022.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In April 2026, Artemis II sent four astronauts, including a Canadian, around the Moon and back without landing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later missions aim to land astronauts near the lunar south pole.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Permanently shadowed craters there may hold water ice that could supply drinking water, oxygen and even rocket fuel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China has also announced plans to land astronauts by 2030.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you look at the Moon, you're looking at a place humans have walked.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Apollo 11 put Neil Armstrong and Buzz Aldrin on the Moon on 20 July 1969, US time, using a small lander, while Michael Collins stayed in orbit.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Australia's place in space.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A sheep paddock dish carried Apollo 11's moonwalk to the world, and a quiet desert range launched a satellite in 1967.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's space story is bigger than most people know.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Woomera and WRESAT.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1947, Britain and Australia agreed to build a long-range weapons testing site in the South Australian outback.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The town of Woomera, named after an Aboriginal spear-thrower, grew up to support it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The range stretched well over a thousand kilometres across the desert, giving room to fire rockets far from populated areas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the mid-1960s the United States offered Australia a spare Redstone rocket.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists in Salisbury, South Australia, built a small satellite, WRESAT, in under a year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It launched from Woomera on 29 November 1967, making Australia one of the first handful of nations to launch a satellite from its own territory.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It measured the Sun's radiation and the upper atmosphere before burning up in January 1968.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain's only satellite on a British rocket, Prospero, followed from Woomera in 1971.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Dish at Parkes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Parkes radio telescope opened in 1961 among the sheep paddocks of central western New South Wales, its 64-metre dish among the most advanced in the world.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In July 1969, when Neil Armstrong stepped onto the Moon, it was high over Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first minutes of television were received by NASA's Honeysuckle Creek station near Canberra, which captured Armstrong climbing down the ladder.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parkes then took over and supplied the pictures for most of the roughly two-and-a-half-hour moonwalk, despite strong winds that pushed the dish close to its safety limits.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2000 film The Dish dramatised the story, with some liberties.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2020 the telescope also received the Wiradjuri name Murriyang.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Listening to the deep.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To keep in touch with distant spacecraft as Earth rotates, NASA built three tracking stations roughly a third of the way around the globe from one another: Goldstone in California, Madrid in Spain, and Tidbinbilla near Canberra.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At any moment at least one can see a given spacecraft.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Canberra Deep Space Communication Complex, run on NASA's behalf by Australia's national science agency CSIRO, has helped communicate with missions such as Voyager, the Mars rovers and New Horizons.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parkes has made discoveries of its own.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2007, astronomers searching its archived data found the first known fast radio burst, a millisecond flash of radio waves from far beyond our galaxy, opening up an entirely new field of astronomy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Skylab fine.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skylab, America's first space station, re-entered the atmosphere in July 1979, earlier than planned, and broke up over the Indian Ocean and southern Western Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Debris rained down around the town of Esperance and across the Nullarbor, though no one was hurt.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Shire of Esperance issued NASA a light-hearted 400-dollar fine for littering.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A San Francisco newspaper offered 10,000 dollars for the first piece of Skylab delivered to its office.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was claimed by a 17-year-old from Esperance, Stan Thornton, who flew to the United States with fragments.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fine went unpaid for 30 years, until a Californian radio host raised the money from listeners and paid it in 2009.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians in orbit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paul Scully-Power, an Australian-born oceanographer, flew aboard the Space Shuttle Challenger in 1984 as a payload specialist.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adelaide-born engineer Andy Thomas became a NASA astronaut and flew four missions, including a long stay on the Russian space station Mir in 1998.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2024 Katherine Bennell-Pegg became the first astronaut to graduate from training under the Australian flag, completing the European Space Agency's basic astronaut training.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia established its own Australian Space Agency in 2018.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its deserts remain useful too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2010 and 2020, Japanese Hayabusa capsules carrying samples from asteroids parachuted down near Woomera, bringing pieces of other worlds to Australian soil.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The remote outback that suited rocket tests also suits recovering spacecraft.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Woomera, a remote rocket range in South Australia, launched Australia's first satellite, WRESAT, in 1967.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why can a rocket work in the vacuum of space?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It pushes gas backwards and is pushed forwards.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did Sputnik alarm Americans beyond its beeping signal?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The same rockets could carry warheads.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What was the 'lunar orbit rendezvous' plan used for Apollo 11?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One astronaut stayed in orbit as a lander took two down.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why was Woomera chosen as a rocket range?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It was remote, with room to fire rockets.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

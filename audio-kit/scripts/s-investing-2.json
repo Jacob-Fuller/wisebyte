@@ -1,0 +1,1182 @@
+{
+ "id": "s-investing-2",
+ "title": "Investing · Episode 2",
+ "chapters": [
+  "Bonds explained",
+  "Diversification",
+  "Index funds and ETFs",
+  "Property investing in Australia"
+ ],
+ "units": [
+  {
+   "t": "Investing. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Bonds explained, Diversification, Index funds and ETFs and Property investing in Australia.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Bonds explained.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Governments and companies borrow trillions of dollars from investors.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bonds are how, and they quietly shape your super and your mortgage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A loan you can buy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you buy a bond, you are lending money.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The borrower, called the issuer, promises to pay regular interest, known as the coupon, and to repay the original amount, called the face value, on a set maturity date.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A five-year bond with a $100 face value and a 4% coupon pays $4 a year, usually in instalments, then returns the $100 at the end.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shares make you a part-owner of a company; bonds make you a lender.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lenders get paid before shareholders, which is part of why bonds are generally less risky.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safe and not so safe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian Government borrows by issuing Treasury bonds through the Australian Office of Financial Management, and states borrow through agencies such as NSW Treasury Corporation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A national government that borrows in its own currency can tax and has a central bank, so the chance it fails to repay is considered very low.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has held a AAA credit rating from all three major agencies for many years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Companies can fail, so investors want extra interest to cover credit risk, the chance of default.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bonds rated BBB- or above are investment grade.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower-rated 'junk' bonds pay more because the risk is genuinely higher.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A higher rate is a price for extra risk, not a free bonus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bond see-saw.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bonds can be sold before maturity, and their prices change.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine you hold a bond paying 3% a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then interest rates rise and new bonds pay 5%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody will pay full price for your 3% bond when they can get 5% elsewhere, so its market price falls until its effective return, called its yield, matches the new rate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reverse happens when rates fall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This see-saw is the most important idea in bond investing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The longer a bond has left until maturity, the more its price moves when rates change.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When bonds hurt.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bonds are called defensive, but they can lose value.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2022, central banks raised interest rates quickly to fight high inflation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because bond prices fall when rates rise, many bond funds lost money, in some markets in their worst year in generations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unusually, shares fell at the same time, so balanced portfolios had few places to hide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inflation is another danger: a fixed 3% coupon buys less each year if prices rise 6%.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you hold a high-quality bond to maturity, though, you still receive the face value back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Term deposits differ.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An Australian bank deposit is covered by the Financial Claims Scheme up to $250,000 per person per institution and doesn't fluctuate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bond sells for whatever it fetches that day, and bond funds never mature, so their value moves with rates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bonds in your super.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most diversified portfolios, including many super options, hold shares and bonds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bonds provide predictable income and usually swing far less than shares.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High-quality government bonds have often held their value or risen during share crashes, though 2022 showed this isn't guaranteed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older investors, and anyone needing money within a few years, typically hold more bonds and cash.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your fund's split between growth and defensive assets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When rates rise, the bond portion may dip, but new bonds pay better yields.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be cautious of offers promising well above market rates; that return reflects extra risk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See a licensed financial adviser for personal advice, and Moneysmart for independent guides.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A bond is a loan to a government or company that pays you interest and returns your money at a set date.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Diversification.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It's sometimes called the only free lunch in investing: a way to reduce risk without necessarily giving up return.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Eggs and baskets.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The old saying 'don't put all your eggs in one basket' is the heart of diversification.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you invest everything in one company and it collapses, you can lose everything.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spread the same money across 200 companies, and one collapse costs you only a small slice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even household names can go bust or shrink dramatically.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diversification doesn't prevent losses when the whole market falls.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But it greatly reduces the damage from any one bad bet, which is the kind of loss that is hardest to recover from.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it works.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Investments don't all move together.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If one company is hit by a scandal, another may be having a great year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combine many different assets and their ups and downs partly offset each other, so the portfolio swings less than its parts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Harry Markowitz formalised this in 1952, later earning a Nobel Prize, and the line that diversification is 'the only free lunch in finance' is often attributed to him.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Correlation runs from +1 to -1.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At +1 two investments move in lockstep, so holding both adds no diversification.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zero means unrelated; negative means one tends to rise when the other falls.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One catch: in severe crises, correlations between risky assets often rise, just when you want them low.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Across asset classes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The biggest decision in most portfolios is the mix of asset classes, often called asset allocation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shares offer growth but can fall sharply.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bonds and cash are steadier and have often held up better when shares slump.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Property behaves differently again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 'balanced' super option might hold roughly two-thirds in growth assets and the rest in defensive assets, although definitions vary between funds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many researchers argue that asset allocation explains most of the ups and downs in a diversified portfolio over time, more than which individual shares are picked.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sectors and borders.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our share market is unusually lopsided.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Financials, especially the big banks, and materials, especially miners, make up a large share of the main index.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technology and healthcare are much smaller than in global markets.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Owning four big banks gives little diversification, because they tend to move together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An investor with only Australian shares is heavily exposed to banks, iron ore and the housing market.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is only around 2% of global share markets, yet many Australians hold mostly local shares.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This home bias is partly familiarity and partly franking credits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Global shares bring new industries, economies and currency risk: when the Australian dollar rises, overseas investments are worth less in local terms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some funds 'hedge' to reduce this.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hidden concentration.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Enron, the US energy company, collapsed in 2001.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many employees had much of their retirement savings in its shares, so they lost their jobs and savings together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your job, home and super may also depend on the same local economy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another trap is 'diworsification': ten funds that all hold the same large companies look diversified but aren't.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check what lies under the labels, and look for one company, sector, country or property making up most of your wealth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A broad index fund or diversified super option can hold hundreds or thousands of investments at low cost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diversification reduces risk but cannot eliminate it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only; see a licensed adviser, and Moneysmart for independent tools.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Diversification means spreading your money across many investments so no single failure can sink you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Index funds and ETFs.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The boring, low-cost way to invest that beats most professional fund managers over time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Owning the market.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most investment funds are actively managed: professionals try to pick shares that will beat the market.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An index fund does something simpler.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It buys every company in a market index, like the ASX 200 or the S and P 500, in proportion to its size, and just holds them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't try to beat the market; you are the market.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first index fund for ordinary investors was launched in 1976 by John Bogle, founder of Vanguard.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics called it 'Bogle's folly'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It turned out to change investing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why passive often wins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It seems obvious that experts should beat a fund that simply buys everything.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But studies such as S and P's SPIVA reports find that most actively managed funds underperform their benchmark index over 10 to 15 years, once fees are counted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before costs, the average investor earns the market return, so after higher costs, the average active investor must do worse.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's also very hard to identify in advance which managers will be the lucky few who win.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2007, Warren Buffett bet $1 million that an S and P 500 index fund would beat a selection of hedge funds over 10 years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the end of 2017, the index fund averaged about 7% a year, the hedge funds about 2%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fees compound.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Index funds are cheap because they don't pay teams of analysts to pick stocks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Broad index funds and ETFs often charge between about 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "03% and 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3% a year, while active funds commonly charge 1% or more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That gap looks small, but it is taken from your balance every year, whether markets rise or fall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a $100,000 investment over 30 years, earning 6% a year after fees instead of 7% leaves you with about $187,000 less.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can't control market returns, but you can control costs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the fee on any fund before you buy it, since it is one of the few numbers you can know in advance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ETFs and going global.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An exchange-traded fund, or ETF, is bought and sold on the stock exchange like a share.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many track an index, so one unit gives you a slice of hundreds or thousands of companies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can buy them through any online broker, often with small amounts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are ETFs for Australian shares, global shares, bonds, property and more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some are narrow or complex, like those chasing a single theme or using leverage; broad, simple ones suit most long-term investors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian shares make up only about 2% of world markets, and the ASX is dominated by banks and miners.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Global funds add diversification and industries like technology that are smaller here.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some ETFs hold a mix of shares and bonds in one fund, rebalancing automatically.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time, not timing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody reliably predicts short-term market moves, and some of the best days often come shortly after the worst, so jumping in and out can mean missing the recovery.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many investors use dollar-cost averaging: investing a fixed amount regularly, which buys more units when prices are low and fewer when they're high.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time in the market beats timing the market.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shares suit money you won't need for at least five to seven years, because markets can fall sharply in the short term.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First build an emergency fund and clear high-interest debt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your super is probably already invested in shares.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information; ASIC's Moneysmart has free guides, and a licensed adviser can help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An index fund buys every company in an index in proportion to its size, rather than trying to pick winners.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Property investing in Australia.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australians love bricks and mortar.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how investment property actually makes, and loses, money.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why property looms large.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Residential real estate is the largest single component of Australian household wealth, worth far more in total than the Australian share market.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around two million Australians own at least one investment property, according to tax statistics, and most own just one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its appeal is easy to see: it is tangible, familiar and can be bought largely with borrowed money.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But an investment property is a business decision, not a home, and it should be judged on its numbers, costs and risks like any other investment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Returns and hidden costs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rental yield is annual rent divided by price.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A $750,000 unit rented for $600 a week earns about $31,200 a year, a gross yield of roughly 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2%.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Net yield subtracts costs and is always lower.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second return is capital growth, which is never guaranteed and varies by location and period.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yields in many cities have been modest, so investors have leaned on growth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Costs add up.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stamp duty, a state purchase tax, can run to tens of thousands of dollars.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then come legal and inspection costs, loan interest, rates, landlord insurance, strata fees, repairs, management fees and, in some states, land tax, plus vacancies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Selling brings agent fees and possibly capital gains tax.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A property can rise in value and still disappoint.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gearing and leverage.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most property investors borrow, often most of the purchase price.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is gearing, or leverage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suppose you buy a $600,000 property with a $120,000 deposit and a loan for the rest.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the property rises 10%, it gains $60,000, which is 50% of your own money.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it falls 10%, you lose $60,000, half your deposit, and still owe the full loan.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leverage magnifies outcomes in both directions.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You must also keep making repayments whether or not the property is tenanted, and if interest rates rise, those repayments can climb quickly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Negative gearing and tax.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A property is positively geared when rent exceeds costs, including interest, and negatively geared when costs exceed rent.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That loss has generally been deductible against other income, such as wages.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legislation passed in June 2026 narrows this: from 1 July 2027, losses on established homes bought after 7:30 pm AEST on 12 May 2026 can only be offset against residential property income and gains.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earlier purchases and new builds keep the old treatment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A deduction only recovers part of a loss.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Capital gains tax applies when you sell an investment property.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 50% discount for assets held over 12 months is being replaced from 1 July 2027 by indexing the cost base for inflation, with a 30% minimum tax; gains built up before then keep the discount.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use ATO guidance and a registered tax agent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Concentration and checks.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Property prices can fall, as they have in some Australian cities and in mining towns after booms faded.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One property often represents a huge share of an investor's wealth: one asset, one suburb, one market.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is illiquid, since selling takes weeks or months and costs a lot.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rate rises, a long vacancy or a major repair can strain your budget.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Calculate net yield using realistic costs, not brochure figures.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Could you cope with rates two or three percentage points higher, or three months without rent?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of spruikers and 'free' property packages that earn developer commissions; ASIC has warned about them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speak with a licensed adviser and registered tax agent, and see Moneysmart.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Residential property is the biggest store of household wealth in Australia, but an investment property is a business decision.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What are you doing when you buy a bond?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Lending money to the issuer for interest.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the main purpose of diversification?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To limit the harm from any one bad investment.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does an index fund do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Holds all the companies in an index.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is the best way to view an investment property?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As a business judged on numbers and risks.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

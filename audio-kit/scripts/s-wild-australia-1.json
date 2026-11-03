@@ -1,0 +1,935 @@
+{
+ "id": "s-wild-australia-1",
+ "title": "Wild Australia · Episode 1",
+ "chapters": [
+  "Marsupials: life in the pouch",
+  "Platypus and echidnas: the egg-laying mammals",
+  "Australia's remarkable birds"
+ ],
+ "units": [
+  {
+   "t": "Wild Australia. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Marsupials: life in the pouch, Platypus and echidnas: the egg-laying mammals and Australia's remarkable birds.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Marsupials: life in the pouch.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Born the size of a jellybean, finished in a pouch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's marsupials took a very different path to the rest of the mammal world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born early.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A red kangaroo's pregnancy lasts only about 33 days.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The newborn joey is pink, hairless and under a gram, about the size of a jellybean.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using its strong front legs, it crawls through its mother's fur to the pouch, latches onto a teat and stays for months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the marsupial way: a short pregnancy with no long placental feeding, then development outside the body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some small species have no true pouch and carry young clinging underneath.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A mother kangaroo can pause a new embryo's development, called embryonic diapause, until the pouch is free.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She can also feed a joey at foot and a newborn at once, with two kinds of milk from two teats.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Of about 330 marsupial species, around two-thirds live in Australia and New Guinea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hopping kangaroos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kangaroos and wallabies are macropods, meaning 'big feet', a family of around 60 species.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The red kangaroo is the largest living marsupial; big males standing upright can be as tall as a person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hopping looks tiring, but long leg tendons store and release energy like springs, so once a kangaroo is moving, going faster costs surprisingly little extra effort.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reds can briefly reach around 50 kilometres per hour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moving slowly, kangaroos use their strong tail as a fifth leg.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kangaroos are most active around dawn and dusk, when collisions are most common, so take extra care driving then.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Koalas and wombats.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Koalas are not bears.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They eat almost only eucalyptus leaves, which are low in nutrients, high in fibre and toxic to most animals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A long gut and specialised microbes help, and young koalas eat a soft faeces called pap from their mother to gain those microbes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The diet gives so little energy that koalas rest or sleep 18 to 22 hours a day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022, koalas in Queensland, New South Wales and the ACT were listed as endangered, mainly through habitat loss, disease, dogs and cars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wombats are the only animals known to make cube-shaped poo, dozens of cubes a night, left on rocks and logs as territory markers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2018 study found that regions of differing stiffness in the last stretch of intestine shape the drying droppings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It won an Ig Nobel Prize in 2019.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Devils and the tiger.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Tasmanian devil is the largest living carnivorous marsupial, with one of the most powerful bites for its size of any mammal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Devils vanished from the mainland about 3,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the mid-1990s, devil facial tumour disease, a rare cancer spread by biting, has caused severe declines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insurance populations are bred in captivity, and since 2020 some devils have been released into a fenced sanctuary in New South Wales.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thylacine, or Tasmanian tiger, was the largest carnivorous marsupial of modern times, a dog-like hunter with dark stripes across its back.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Seen as a threat to sheep, it was targeted by a government bounty from 1888 to 1909, with more than 2,000 paid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last known thylacine died at Beaumaris Zoo, Hobart, on 7 September 1936, now National Threatened Species Day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's marsupial richness is a story of isolation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Australia separated from Antarctica tens of millions of years ago and drifted north, its marsupials evolved on their own, filling roles that placental mammals fill elsewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The results show striking convergent evolution: sugar gliders resemble flying squirrels, the marsupial mole resembles golden moles, and the thylacine looked remarkably like a wolf.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The practical side is simple.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drive slowly at dawn and dusk in the bush.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you find an injured animal, or a dead kangaroo or wombat by the road, call a local wildlife rescue service, because a living joey may still be in the pouch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Marsupials give birth to tiny, barely formed young that finish developing attached to a teat, usually in a pouch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Platypus and echidnas: the egg-laying mammals.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When the first platypus reached Britain, scientists checked it for stitches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was real, and it was even stranger than it looked.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Five egg-laying species.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only five living mammal species lay eggs: the platypus and four species of echidna.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Together they are the monotremes, a group that split from the ancestors of all other mammals more than 160 million years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name means 'single opening': like birds and reptiles, they have one opening, the cloaca, for waste and reproduction.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The platypus lives only in eastern Australia, including Tasmania.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The short-beaked echidna lives across Australia and New Guinea, while the three long-beaked echidnas live only in New Guinea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are not 'primitive' leftovers but highly specialised animals with a very long, separate evolutionary history.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fur, milk and eggs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Monotremes have fur, a single lower jawbone and the three tiny middle ear bones typical of mammals, and they feed their young on milk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The twist: they have no nipples.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Milk seeps out through pores on patches of belly skin, and the young lick or suck it up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are warm-blooded but run cooler than most mammals, at around 32 degrees Celsius compared with our 37.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adult platypuses have no teeth and grind food with hard pads; echidnas never have teeth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A female platypus seals herself in a riverbank burrow and incubates one to three soft, leathery eggs for roughly ten days.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An echidna lays one egg into a temporary belly pouch.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It hatches after about ten days, and the baby, called a puggle, stays until its spines begin to grow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bill and spur.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The platypus bill is soft, rubbery and packed with sensors.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diving, the platypus closes its eyes, ears and nostrils, so it hunts almost blind.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tens of thousands of electroreceptors detect the faint electric fields from prey muscles, and touch receptors help too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sweeping its head side to side, it finds larvae, worms and yabbies in the mud, stores them in cheek pouches and chews at the surface.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Males carry a sharp spur on each hind ankle, joined to a venom gland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venom production rises in the breeding season, which suggests it is mainly used in fights between males.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A spur injury isn't known to be fatal to humans but causes severe pain and swelling that ordinary painkillers barely touch, sometimes for weeks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never handle a wild platypus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The echidna.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The short-beaked echidna lives in almost every habitat in Australia, from deserts and forests to the snowy high country, making it the most widespread native mammal on the continent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its spines are modified hairs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It laps up ants and termites with a long, sticky tongue, and its snout carries electroreceptors too, though far fewer than a platypus bill.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When threatened, an echidna digs straight down or curls into a spiky ball.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In winter, several males sometimes follow a female in a line called an 'echidna train'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Male echidnas also have ankle spurs, but they don't deliver venom; a gland on the spur appears to produce a secretion in the breeding season, possibly for communication.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Echidnas are long-lived for their size, surviving for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doubted, now threatened.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First Nations peoples had known these animals for tens of thousands of years, but European naturalists were baffled.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a preserved platypus reached Britain in the late 1790s, George Shaw, who described it in 1799, wondered if it was a fake, a duck's bill stitched onto a mammal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists argued for decades over whether monotremes laid eggs, as Aboriginal informants said.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1884, William Caldwell, working in Queensland, found proof and telegraphed that they were 'oviparous', or egg-laying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the platypus is listed as Near Threatened globally.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Threats include dams, drought, land clearing, pollution, foxes, dogs and drowning in enclosed yabby traps, banned in several states.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To see one, visit a quiet creek at dawn or dusk, stay still and watch for ripples.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pick up fishing line and hair ties.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Only five living mammals lay eggs, and they are specialised animals, not primitive leftovers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Australia's remarkable birds.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Nearly half the world's bird species descend from ancestors that sang in ancient Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The birds here are older, louder and cleverer than you might think.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where song began.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Songbirds, including robins, finches, crows and sparrows, number roughly 5,000 species, close to half of all birds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists long assumed they began in the Northern Hemisphere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "DNA studies from the early 2000s showed the oldest songbird lineages, including lyrebirds, scrub-birds, bowerbirds and treecreepers, live in Australia and New Guinea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The strong consensus is that songbirds evolved here tens of millions of years ago, then spread worldwide.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a European blackbird singing in London carries an Australian inheritance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The superb lyrebird takes song to an extreme.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A male's song is largely near-perfect copies of kookaburras, whipbirds and rosellas, woven with his own calls as he displays his lacy tail.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some captive birds have copied camera shutters and machinery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clever, social birds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has more than 50 parrot species, including cockatoos, galahs, lorikeets and budgerigars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cockatoos are exceptionally intelligent and long-lived: Cookie, a Major Mitchell's cockatoo, reached about 83 in a US zoo.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Sydney, sulphur-crested cockatoos learned to lift wheelie-bin lids.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2021 study tracked the skill spreading across suburbs as birds learned by watching, a rare example of animal culture in a city.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Residents respond with bricks and gadgets, and the birds keep testing them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian magpies are closer to butcherbirds than to European magpies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They live in cooperative family groups and sing together to announce territory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2022 study, magpies fitted with tracking harnesses were apparently helped out of them by others.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swooping happens in spring and only some males do it; calmly walk away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emus and cassowaries.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The emu is the world's second-tallest bird after the ostrich, up to about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "9 metres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can't fly but runs at around 50 kilometres per hour and swims well.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The female lays large, dark green eggs, then often leaves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The male incubates them for about eight weeks, barely eating or drinking, then guards the striped chicks for months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The emu and the kangaroo appear on Australia's coat of arms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The southern cassowary, Australia's heaviest bird, lives in far north Queensland rainforest, with a helmet-like casque and a dagger-like claw on each foot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It swallows fruit whole and passes the seeds intact, often far away, so some rainforest plants rely on it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian population is endangered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cassowaries are shy but can kick hard when cornered or fed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never feed one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Emu War.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In late 1932, a large number of emus, often estimated at around 20,000, moved onto wheat farms in Western Australia's Campion district.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Farmers, many of them former soldiers, asked the federal government for help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defence Minister George Pearce sent Major G.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "P.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "W.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meredith with a small group of soldiers, two Lewis machine guns and 10,000 rounds of ammunition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The emus scattered into small groups, ran fast and proved very hard to hit.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After two attempts, the military withdrew.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meredith claimed 986 kills for 9,860 rounds fired, a figure historians treat cautiously.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later bounty schemes and better fencing did more to protect crops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 'war' became a famous piece of Australian folklore.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enjoying birds wisely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 800 bird species have been recorded in Australia, and a large share are found nowhere else.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need to travel to enjoy them: a local park, wetland or backyard can host dozens.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taking part in citizen science, such as BirdLife Australia's Aussie Backyard Bird Count each October, turns your observations into useful data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To help birds, plant local native shrubs that provide food and shelter, offer a shallow bird bath with clean water and keep cats indoors, especially at night.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Avoid feeding wild birds bread or mince, which can make them sick and create dependence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A pair of binoculars and a field guide app go a long way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Songbirds, nearly half of all birds, first evolved in Australia and New Guinea.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How do marsupials differ from other mammals in reproduction?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A short pregnancy, then a tiny newborn on a teat.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which statement about monotremes is correct?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They are specialised, with a long separate history.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Where did songbirds originally evolve?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Australia and New Guinea.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

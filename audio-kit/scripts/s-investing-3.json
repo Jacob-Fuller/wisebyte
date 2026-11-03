@@ -1,0 +1,935 @@
+{
+ "id": "s-investing-3",
+ "title": "Investing · Episode 3",
+ "chapters": [
+  "Behavioural economics: why we're not rational with money",
+  "Bubbles and manias: when prices lose their minds",
+  "Costly investing mistakes"
+ ],
+ "units": [
+  {
+   "t": "Investing. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Behavioural economics: why we're not rational with money, Bubbles and manias: when prices lose their minds and Costly investing mistakes.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Behavioural economics: why we're not rational with money.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Traditional economics imagined people as cool calculators.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then psychologists started running experiments, and the calculators turned out to be human.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rational myth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For much of the twentieth century, economic theory leaned on a convenient character sometimes nicknamed Homo economicus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This imaginary person knows what they want, calculates costs and benefits precisely, never gets tired or tempted, and always chooses the option that serves them best.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The assumption made the maths workable, and it still explains a great deal about how markets behave.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But anyone who has bought something on impulse, kept a gym membership they never use or put off saving for retirement knows real people are different.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Behavioural economics grew from testing how people actually decide, using experiments borrowed from psychology, and building those findings back into economics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Losses loom larger.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1979 psychologists Daniel Kahneman and Amos Tversky published prospect theory.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One central idea is loss aversion: in many experiments, losing 100 dollars hurts roughly twice as much as winning 100 dollars pleases, though estimates vary and some researchers argue the effect is smaller.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps explain why investors hang on to falling shares, and why ‘don't miss out’ marketing works.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kahneman won the 2002 Nobel Prize in economics; Tversky had died in 1996.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1990 study, mugs were handed to half a class.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Owners typically demanded about twice what buyers would pay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the endowment effect, and it explains why sellers overprice their homes and free trials work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later research debates its strength.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money in mental jars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In theory a dollar is a dollar.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In practice we sort money into mental jars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economist Richard Thaler called this mental accounting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone might carry credit card debt at a high interest rate while keeping savings in a holiday fund earning far less, because the holiday money feels untouchable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tax refund or a win at the races often gets spent more freely than wages, as if it were not quite real money.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mental accounting is not always bad.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Labelling money for bills or emergencies can stop you overspending.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it can also lead to choices that cost money, so it helps to ask occasionally whether your jars still make sense together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Present bias.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask people whether they would prefer 100 dollars in a year or 110 dollars in a year and a week, and most will wait the extra week.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask whether they want 100 dollars today or 110 dollars next week, and many grab the money now.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gap is the same, but the present has a special pull.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call this present bias.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It shows up in spending, saving, diets and procrastination, and it explains why buy now, pay later deals are so tempting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The future self who has to pay feels like a stranger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One response is to make good choices automatic, so your present self does not have to win the argument every time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nudges and super.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If people are predictably irrational, can choices be designed to help them?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In their 2008 book Nudge, Richard Thaler and Cass Sunstein argued that defaults matter enormously.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If workers are automatically enrolled in a retirement plan and must opt out, far more end up saving than if they must opt in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thaler and Shlomo Benartzi designed Save More Tomorrow, in which workers commit in advance to saving part of future pay rises, sidestepping both present bias and loss aversion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thaler received the Nobel Prize in 2017.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's compulsory superannuation, introduced in 1992, goes further than a nudge, since employers must contribute, but it rests on a similar insight about how hard saving is.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Classic economics assumed people calculate every choice logically, but real people do not.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Bubbles and manias: when prices lose their minds.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Tulip bulbs, South Sea shares and internet start ups have all sold for wildly more than they were worth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why do sensible people keep getting swept up?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What makes a bubble.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a street where house prices have doubled in two years.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People who've never invested start buying, not to live there, but because they're sure prices will keep rising.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's the feeling of a bubble.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists define it roughly as a period when an asset's price climbs far above what its future income or usefulness could justify, kept aloft mainly by people expecting to sell to someone else at a higher price.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is the 'greater fool' theory: you don't need something to be worth the price, as long as someone more optimistic will pay more later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bubbles are notoriously hard to spot for certain while they are happening.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tulips and South Sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Dutch Republic in the 1630s, rare tulips with streaked petals became status symbols.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some bulbs reportedly sold for more than a skilled worker earned in years, and traders bought contracts for bulbs still in the ground.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The market collapsed in February 1637.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charles Mackay's 1841 book made it the ultimate tale of collective madness, though historians such as Anne Goldgar argue it involved fewer people and less economic damage than the legend suggests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1720 the South Sea Company, set up in 1711 and mainly managing government debt, offered to take over much of Britain's national debt for its shares.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The price rose roughly tenfold in months, then collapsed that year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thousands lost fortunes, reportedly including Isaac Newton.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In France, John Law's Mississippi scheme also boomed and burst.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dot com and housing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1990s, investors poured money into almost any company with '.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "com' in its name, many with little revenue and no profits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The technology heavy Nasdaq index soared, then fell by roughly three quarters between 2000 and 2002.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some companies, like Amazon, survived and thrived; many others vanished.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few years later came the US housing bubble.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Easy lending, including loans to people unlikely to repay, pushed house prices up across much of America.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When prices began to fall from around 2006, defaults rose and losses spread through banks worldwide, contributing to the global financial crisis of 2008.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia was cushioned more than many countries, but felt the shock too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anatomy of a mania.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The economists Hyman Minsky and Charles Kindleberger described a pattern many bubbles follow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It begins with a displacement, something genuinely new, such as railways, the internet or a new financial product.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early investors make real money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Credit expands, more people pile in, and rising prices seem to prove the optimists right.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then comes euphoria, when caution is mocked and people say 'this time is different'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some insiders quietly sell.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices wobble, borrowers who bought with debt are forced to sell, and selling feeds more selling until panic sets in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shape is familiar across centuries, from canal shares in the 1790s to recent crypto crazes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why smart people join.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Intelligent, experienced investors have joined in.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watching neighbours get rich is powerful social proof.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rising prices create their own story, since each gain seems to confirm the last.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Professionals may follow the crowd, as being wrong with everyone is safer for a career than being wrong alone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easy credit magnifies gains and losses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And there's often a genuine innovation underneath: railways and the internet really did change the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why not sell at the top?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost nobody can reliably tell where it is, and calling a bubble too early can cost as much as too late.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many experts suggest not putting everything into one hot asset, being wary of borrowing to speculate, and being sceptical when everyone says prices can only go up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice; see moneysmart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A bubble is a price far above what an asset's future income or use could justify, kept up by hopes of selling higher.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Costly investing mistakes.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The biggest threat to most investors isn't the market.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's their own behaviour, and the people who exploit it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain is the risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Investing is simple in principle but hard in practice, because human instincts work against it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We feel losses more strongly than equal gains, a pattern called loss aversion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We are overconfident in our own judgement, and we copy others.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Behavioural finance, shaped by researchers such as Daniel Kahneman, Amos Tversky and Richard Thaler, studies how these biases lead people to buy high, sell low and trade too often.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing the traps in advance is the best defence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another trap is paying too much.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A share price already reflects what investors expect, so even a company that keeps succeeding can disappoint those who bought at the top.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask not only 'Is this a good company?'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "but 'What am I paying for it?'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Great firm, poor buy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Microsoft is a famous example.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its business kept growing strongly after the dot-com boom, yet its share price didn't regain its December 1999 peak until 2016, almost 17 years later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buyers at the top had paid in advance for years of success.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reverse happens too: dull, unloved companies sometimes reward investors because so little was expected of them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's natural to assume brilliant, fast-growing companies guarantee good returns.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But expectations are already in the price, and sky-high expectations leave little room for reward.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Panic and FOMO.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 2020, as COVID-19 spread, share markets plunged, and some Australians switched their super from growth options to cash near the bottom.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Markets recovered strongly within months, but those who switched had locked in their losses and missed much of the rebound.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fall is a paper loss until you sell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decisions made in fear are rarely good ones, and a written plan made before a crash helps you stay calm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear of missing out pushes people in after an investment has already soared.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the time something is famous for its gains, much of the rise may be over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US Nasdaq index fell by roughly three-quarters from its 2000 peak to its 2002 low.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tips from friends, forums and influencers rarely come with accountability.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hype and borrowing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cryptocurrencies such as Bitcoin have made some early buyers very rich, which fuels the hype.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But prices have been extraordinarily volatile.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bitcoin has fallen more than 70% from its peak several times, including in 2022, when the exchange FTX collapsed and customers' funds were frozen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crypto is speculative, with no earnings or rent behind it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only invest what you could afford to lose entirely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A margin loan lets you borrow to buy shares, using them as security.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If prices fall far enough, you get a margin call: add cash quickly, or the lender sells your shares, usually near the bottom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Townsville-based Storm Financial encouraged clients, often near retirement, to borrow against their homes and take margin loans on top.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When markets crashed in 2008, savings were wiped out, some lost their homes, and the firm collapsed in early 2009.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too smooth, plan well.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real investments go up and down.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A classic scam sign is returns that are high and smooth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Ponzi scheme, named after Charles Ponzi, who promised Boston investors 50% returns in 45 days in 1920, pays earlier investors with money from newer ones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It collapses when new money dries up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bernie Madoff reported steady gains of around 1% a month for decades before his scheme collapsed in 2008, with paper losses of about US$65 billion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Search ASIC's Moneysmart investor alert list, and report suspicions to Scamwatch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good investing is boring.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Set goals, diversify, keep costs low, automate contributions and check occasionally, not daily.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only; see a licensed adviser, and Moneysmart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Many investing losses come from predictable behaviour: fear, greed, overconfidence and following the crowd.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did behavioural economics add to the idea of the perfectly rational ‘Homo economicus’?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Evidence from experiments on real choices.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What best describes a financial bubble?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A price far above an asset's worth, held up by hopes of resale.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is loss aversion?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Feeling losses more strongly than equal gains.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

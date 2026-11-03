@@ -1,0 +1,899 @@
+{
+ "id": "s-mind-quirks-1",
+ "title": "Quirks of the Mind · Episode 1",
+ "chapters": [
+  "False memories",
+  "Why optical illusions fool you",
+  "The invisible gorilla: why we miss what's in front of us"
+ ],
+ "units": [
+  {
+   "t": "Quirks of the Mind. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: False memories, Why optical illusions fool you and The invisible gorilla: why we miss what's in front of us.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. False memories.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your memory isn't a recording.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's a reconstruction, and it can be changed, or even invented, without you noticing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory rebuilds, not replays.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We imagine memory as a video we replay.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In reality the brain stores fragments, such as a sight, a feeling or the gist of what was said.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It rebuilds the memory each time we recall it, filling gaps with expectations, later information and imagination.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every recall is a chance for the memory to shift.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1930s, British psychologist Frederic Bartlett showed people retelling an unfamiliar folk tale gradually reshaped it to fit their own culture's expectations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's why two people at the same event remember it differently, and why vivid, confident memories can still be wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Words that never were.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can test this in a minute.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a method developed by James Deese and later Henry Roediger and Kathleen McDermott in 1995, people hear a list such as bed, rest, awake, tired, dream, snooze, blanket and nap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later, many confidently remember hearing 'sleep', which was never on the list.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some even say they can picture it being read out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain stores the theme and fills in what 'should' be there.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This harmless lab trick shows the process behind more serious false memories: plausible details slot in smoothly and feel just as real as genuine ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suggestion rewrites memory.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1978 study, Elizabeth Loftus and colleagues showed slides of a car stopped at a stop sign before hitting a pedestrian.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some people were later asked a question that casually mentioned a 'yield', give way, sign.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were far more likely to pick the wrong sign, often confidently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This misinformation effect has been reproduced many times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1990s, Loftus and Jacqueline Pickrell invented a childhood event, being lost in a shopping mall, and presented it among real ones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After repeated interviews, about a quarter of participants came to remember it, at least partly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers debate how many were full memories rather than vague beliefs, but memory can be fabricated, not just distorted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confidence is not accuracy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people feel they remember exactly where they were when they heard shocking news, like the September 11 attacks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These flashbulb memories change too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the 1986 Challenger disaster, Ulric Neisser asked students how they'd heard, then asked again about two and a half years later, and many accounts had changed dramatically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A study of 9/11 recollections found the same: stories shifted, but confidence stayed high.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US Innocence Project found that mistaken eyewitness identification played a role in around 70% of convictions later overturned by DNA evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stress, leading questions and long delays reduce accuracy, and confidence grows if police confirm a pick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Line-up procedures have since been reformed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holding memory lightly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1980s and 1990s, some therapists used hypnosis and guided imagery to help clients 'recover' memories of childhood abuse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some led to accusations and were later retracted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loftus argued such techniques could create false memories; others stressed that real abuse is common and often undisclosed for years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This 'memory wars' debate led professional bodies to caution against suggestive techniques, while affirming that survivors deserve to be taken seriously.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reconstruction is a design, not a flaw: it lets us learn and imagine the future.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But hold memories lightly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Write down what a doctor, landlord or employer tells you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a disagreement, both people may be partly wrong without lying.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When asking others, especially children, use open questions like 'What happened next?'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", not leading ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Each time you remember something, your brain reconstructs it from fragments and can change it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Why optical illusions fool you.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Illusions aren't failures of your eyes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They're your brain's clever shortcuts, caught in the act.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You see with your brain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your eyes send the brain a flat, patchy, constantly shifting image.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only a small central area of each retina sees fine detail, and your eyes dart around several times a second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain builds a stable 3D world by making assumptions: light comes from above, objects keep their size, nearby edges belong together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These shortcuts work so well that we never notice them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Optical illusions are situations where the assumptions give the wrong answer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're valuable to scientists because they reveal how much of seeing is interpretation rather than simple recording.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Size and shade tricks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Müller-Lyer illusion, 1889, a line with outward fins looks longer than an identical line capped with arrowheads.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One theory is that the brain reads the shapes as corners near or far, and adjusts perceived size for distance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Edward Adelson's 1995 checker-shadow illusion, a square in shadow looks much lighter than a square in light, though they're exactly the same shade.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain corrects for shadows so objects keep a consistent colour: a white shirt still looks white under a tree.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This colour constancy also explains 'the dress' of 2015, which some saw as blue and black and others as white and gold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was actually blue and black; viewers differed in the lighting their brain assumed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The moon illusion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rising full moon can look enormous, yet high in the sky it seems small.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photographs show its image is essentially the same size in both positions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If anything it is very slightly smaller at the horizon, because it's a little further from you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The illusion has been discussed since ancient times, and there's still no single agreed explanation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leading ideas involve the brain treating the horizon as further away than the sky overhead, so it scales the moon up, and comparisons with trees and buildings nearby.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try viewing a horizon moon through a rolled-up tube: it often shrinks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Motion and flipping images.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Akiyoshi Kitaoka's 'rotating snakes', a still image appears to swirl.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers think tiny eye movements and the different speeds at which brain cells respond to light and dark produce a false motion signal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cinema uses a related trick: still frames shown in quick succession, usually 24 per second, are seen as smooth movement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Rubin vase, described around 1915, shows either a vase or two faces in profile, but hardly both at once.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The duck-rabbit and the Necker cube work the same way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The image on your retina never changes; only your interpretation does.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain picks one reading and commits, then switches, and knowing the trick doesn't stop it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blind spots and other senses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where the optic nerve leaves each eye, there are no light-sensitive cells.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This blind spot is roughly ten times wider than the full moon appears.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You never notice it, partly because each eye covers the other's gap, and partly because the brain fills the hole with the surrounding colour or pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close one eye and move a small dot across a page until it vanishes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other senses are fooled too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the McGurk effect, 1976, lips saying 'ga' with audio of 'ba' often sound like 'da'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the size-weight illusion, a small object feels heavier than a large one of equal weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson: feeling certain of what you perceive doesn't make it accurate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Vision is the brain's best guess about the world, built from limited information, and illusions expose its shortcuts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The invisible gorilla: why we miss what's in front of us.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Half the people in a famous experiment failed to notice a gorilla walking through a basketball game.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They weren't careless.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were human, and so are you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gorilla nobody saw.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1999, psychologists Daniel Simons and Christopher Chabris made a short video of students passing basketballs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Viewers were asked to count the passes made by the team in white shirts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partway through, a person in a gorilla suit strolls into the middle of the game, thumps their chest and walks off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is on screen for several seconds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly half the viewers never saw it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When told afterwards, many refused to believe it until they watched again, and some accused the researchers of swapping the tape.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The study has been repeated many times with similar results.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson is unsettling: we do not see everything our eyes are pointed at.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attention is a spotlight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It feels as though we take in a whole scene in rich detail, like a camera.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We do not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your eyes send the brain more than it can process, so attention acts like a spotlight, picking out what seems relevant and leaving the rest dim.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists call failing to notice an unexpected object while focused on something else inattentional blindness, a term popularised by Arien Mack and Irvin Rock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The missed object is in plain view.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What is missing is attention turning light into conscious experience.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A close cousin is change blindness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1998 study by Simons and Daniel Levin, pedestrians giving directions had the researcher swapped for a different person behind a passing door.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around half did not notice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Film continuity errors work the same way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even experts miss gorillas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might think trained professionals would be immune.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2013 study, Trafton Drew, Melissa Vo and Jeremy Wolfe asked radiologists to search lung scans for small nodules that can signal cancer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the final case, the researchers had inserted a small image of a gorilla, many times larger than a typical nodule.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About four in five radiologists did not report it, even though eye tracking showed most had looked directly at the spot.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This does not mean radiologists are bad at their job.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were brilliantly tuned to find nodules, and that is the point.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expertise tells you where to look and what to look for, and anything outside that search template can slip by unseen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looked but failed to see.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Road safety researchers have a name for a common type of crash: 'looked but failed to see'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A driver pulls out of a side street and hits a motorcyclist or cyclist, then insists they checked and the road was clear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often they are telling the truth as they experienced it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their attention was tuned to cars, so a smaller, less expected vehicle did not register.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research by David Strayer and colleagues has found that phone conversations make this worse, and that hands-free calls are still distracting, because the problem is divided attention, not just your hands.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian road rules on phones vary by state, so check your state transport authority, but the psychology is the same everywhere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Designing around blind spots.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Selective attention is what lets you function at all.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine reading this sentence while consciously processing every sound, the feel of your clothes and every object in your peripheral vision.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Filtering lets you hold a conversation in a noisy cafe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cost is that it sometimes throws out something important.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People told about the gorilla in advance nearly always see it, but in a later Simons variation, those who knew the original gorilla were no better at spotting other unexpected changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So confidence is not evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When driving, make a deliberate second look for bikes, motorbikes and pedestrians.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For important work, use checklists or a second pair of eyes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Allow that two honest people can see different things.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gorilla is always there somewhere; build systems that catch it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: When we focus hard on one thing, we can miss something huge and obvious.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does the brain handle memories?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It rebuilds them each time, so they can change.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do optical illusions work?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They exploit the brain's visual shortcuts.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the gorilla experiment show?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Focused attention can hide something large and obvious.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

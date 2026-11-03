@@ -1,0 +1,1224 @@
+{
+ "id": "s-ancient-rome-1",
+ "title": "Ancient Rome · Episode 1",
+ "chapters": [
+  "The Roman Republic",
+  "Hannibal: the general who crossed the Alps",
+  "Julius Caesar and the end of the Republic",
+  "Cleopatra: the last pharaoh"
+ ],
+ "units": [
+  {
+   "t": "Ancient Rome. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The Roman Republic, Hannibal: the general who crossed the Alps, Julius Caesar and the end of the Republic and Cleopatra: the last pharaoh.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The Roman Republic.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For nearly 500 years Rome had no king.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its system of checks and balances inspired the founders of modern republics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No more kings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to Roman tradition, Rome was founded in 753 BC and ruled by seven kings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The last, Tarquin the Proud, was overthrown in about 509 BC after his son assaulted a noblewoman, Lucretia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much is legend is debated, but Romans came to hate the idea of a king, or rex.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They created a res publica, 'the people's affair', the origin of our word republic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead of a king, Rome elected two consuls each year.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They commanded armies and led government, but each could veto the other, and after a year they stepped down and could be prosecuted for abuses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate, mostly former officials sitting for life, controlled public money and foreign affairs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a real emergency, a dictator could be appointed, but only for six months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Votes and ranks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adult male citizens voted in assemblies, but votes were counted by group.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the assembly that elected consuls, groups were arranged by wealth and the richest voted first, so the result was often settled before poorer citizens were asked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ambitious men climbed a ladder of offices, the cursus honorum, from quaestor to praetor to consul.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Campaigning was costly, so a career needed money, famous ancestors or powerful friends.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early Rome was dominated by patricians, a few old families.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everyone else was a plebeian.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Conflict of the Orders, plebeians repeatedly walked out together, a kind of general strike.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They won officials called tribunes, who could veto harmful actions, and the Twelve Tables, about 450 BC, which put the laws on public display.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 367 BC they won the right to become consul.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conquest abroad.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rome gradually took over Italy, often making defeated peoples allies who kept local self-government but supplied soldiers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That gave it huge reserves of manpower.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then it clashed with Carthage, a wealthy trading city in modern Tunisia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In three Punic Wars between 264 and 146 BC, Rome built its first serious navy and eventually won.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most famous moment came in 218 BC, when the Carthaginian general Hannibal marched an army, with war elephants, over the Alps into Italy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At Cannae in 216 BC he destroyed a much larger Roman army.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But Rome refused to negotiate and fought on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 146 BC it destroyed Carthage completely, the same year it sacked Corinth in Greece.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cracks in the system.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Conquest brought enormous wealth, but mostly to the rich, who bought up land and built large estates worked by enslaved captives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Small farmers, away fighting for years, lost their farms and drifted to Rome.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brothers Tiberius and Gaius Gracchus tried to give public land to the poor and were killed in 133 and 121 BC, a shocking break with custom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 107 BC the general Marius is traditionally credited with opening the army to poor volunteers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These soldiers depended on their commanders for pay and for land when they retired.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their loyalty shifted from the Republic to the generals who led them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strongmen and legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 88 BC the general Sulla marched his army on Rome itself, later becoming dictator with no six-month limit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pompey, Crassus and Julius Caesar then competed for power.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar's dictatorship ended with his assassination in 44 BC.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His heir Octavian became sole ruler and took the name Augustus in 27 BC.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The institutions survived on paper, but real power sat with one man.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Republic's ideas lived on.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The founders of the United States studied Rome closely, creating a Senate, dividing power between branches and writing as 'Publius'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Senate has a Roman name, though its design owes more to the American model.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fixed terms, vetoes, published laws and legal process all have Roman roots, as does 'candidate', from the Latin for 'dressed in white'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Rome expelled its last king around 509 BC and built a republic where power was shared, short-term and checked.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Hannibal: the general who crossed the Alps.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "He marched elephants over the Alps and destroyed Roman armies one after another.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So why did Rome, not Hannibal, win the war?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rome, Carthage and revenge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the third century BC, Rome, a rising land power that controlled most of Italy, faced Carthage, a wealthy trading city founded by Phoenicians in what is now Tunisia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Romans called Carthaginians Poeni, hence the Punic Wars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the first, from 264 to 241 BC, Rome, which had little naval experience, built fleets almost from scratch and won.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carthage lost Sicily and paid a huge indemnity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hamilcar Barca then conquered territory in Spain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His son Hannibal grew up in military camps there.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient historians tell how the nine-year-old swore at an altar never to be a friend of Rome.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He took command at about twenty-six in 221 BC, and in 218 BC the Second Punic War began.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the mountains.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rome controlled the sea, so Hannibal attacked overland, which no one expected.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 218 BC he led his army from Spain across the Pyrenees, through southern Gaul and over the Rhône, with war elephants ferried on rafts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Late in the year, he crossed the Alps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The journey took about fifteen days in the mountains, through snow, landslides and ambushes by local tribes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Polybius, who wrote within living memory and claimed to have walked the route, says Hannibal reached Italy with about twenty thousand infantry and six thousand cavalry, a fraction of the force that had left Spain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of the elephants died soon after.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which pass he used is still debated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cannae: the perfect trap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hannibal defeated the Romans at the Trebia in 218 BC, then ambushed an army in fog beside Lake Trasimene in 217.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rome responded under Quintus Fabius Maximus, who avoided pitched battle and shadowed Hannibal, earning the nickname Cunctator, the delayer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frustrated Romans abandoned that approach.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 216 BC at Cannae, a huge Roman army attacked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hannibal placed his weakest troops in the centre, which bent backwards under pressure as planned, drawing the Romans in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His heavy infantry then closed in from both sides while his cavalry struck from behind.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Romans were surrounded and slaughtered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient sources give fifty thousand or more dead, and military academies still study the battle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why Rome didn’t fall.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Cannae, many expected Rome to surrender.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It did not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate refused to discuss peace, raised new legions, and returned to Fabius’s careful strategy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hannibal hoped Rome’s Italian allies would desert in large numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some, including Capua, did, but most of central Italy stayed loyal and kept supplying men and money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hannibal lacked siege equipment and reinforcements to attack Rome, and Carthage sent him little help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He stayed in Italy about fifteen years, undefeated in major battle yet unable to finish the war.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile a brilliant young Roman general, Publius Cornelius Scipio, conquered Carthaginian Spain and invaded North Africa, forcing Carthage to recall Hannibal to defend his home city.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zama, exile and a myth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 202 BC, Scipio and Hannibal met at Zama in North Africa.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scipio had learnt from his enemy, opening lanes in his lines for Hannibal’s charging elephants to pass through harmlessly, and his cavalry won the day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carthage surrendered, gave up its fleet and overseas empire, and paid heavy tribute.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scipio was honoured with the name Africanus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hannibal led Carthage’s government for a time, then fled into exile in the East, and around 183 BC took poison rather than be handed to the Romans.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Third Punic War, Rome besieged and destroyed Carthage in 146 BC.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The popular story that the Romans sowed the ground with salt, however, appears to be a modern invention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Carthage’s Barca family wanted revenge after Rome won the First Punic War, and Hannibal inherited that aim.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Julius Caesar and the end of the Republic.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A brilliant general, a gifted writer, a reckless gambler.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Caesar's rise and murder turned Rome from republic into empire.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debt and alliances.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gaius Julius Caesar was born around 100 BC into an old but not wealthy family.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was charismatic and ambitious, deep in debt from spending on public games and, said his enemies, bribes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Captured by pirates as a young man, he reportedly joked he would crucify them and, once ransomed, did.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 63 BC he was elected pontifex maximus, the chief priest, in his thirties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even his rival Cicero praised his speaking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 60 BC Caesar formed a private alliance with Crassus, Rome's richest man, and Pompey, its most famous general, later called the First Triumvirate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was a deal, not an office.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As consul in 59 BC he forced through laws, then secured a five-year command in Gaul, giving him an army of his own.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gaul and propaganda.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 58 to 50 BC Caesar conquered all of Gaul, roughly modern France and Belgium.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He bridged the Rhine and crossed to Britain twice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His greatest victory was Alesia in 52 BC, where he trapped Vercingetorix inside a ring of walls, with another facing outward against a huge relief army.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient writers claimed around a million Gauls died and another million were enslaved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians treat the figures cautiously, but the toll was enormous.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar also wrote about it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His Commentaries on the Gallic War use plain Latin and call him 'Caesar', so they read like neutral reports.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Circulating in Rome, they kept his name in the news and made every war look necessary.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rubicon and Egypt.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 50 BC Crassus was dead and Pompey's bond with Caesar had weakened.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Senate ordered Caesar to give up his army and return as a private citizen, when he would likely face prosecution.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governors were banned from leading armies into Italy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In January 49 BC he led a legion across the Rubicon, reportedly saying 'The die is cast.'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today 'crossing the Rubicon' means passing a point of no return.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 48 BC he defeated Pompey at Pharsalus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pompey fled to Egypt, where he was murdered.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Caesar backed Cleopatra in her struggle with her brother Ptolemy XIII, and she took the throne.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 47 BC he beat King Pharnaces so quickly he wrote, 'Veni, vidi, vici': I came, I saw, I conquered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reformer and dictator.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After further wins in Africa and Spain, Caesar pardoned many former enemies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This won admiration but left opponents alive and resentful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He gave land to veterans, founded colonies, extended citizenship and enlarged the Senate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He also replaced Rome's drifting calendar with a 365-day year and a leap day every four years, the Julian calendar, the basis of ours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "July is named after him.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But in early 44 BC he was named dictator for life, sat on a golden chair and put his portrait on coins, a first for a living Roman.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To many senators, he looked like a king.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Ides of March.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 15 March 44 BC, senators led by Marcus Brutus and Gaius Cassius stabbed Caesar to death at a Senate meeting, claiming to save the Republic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 60 men were said to be in the plot, and he suffered 23 wounds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead of restoring the old order, the murder triggered more civil wars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Caesar's adopted heir Octavian joined Mark Antony to defeat the assassins at Philippi in 42 BC, then beat Antony and Cleopatra at Actium in 31 BC.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 27 BC the Senate gave Octavian the title Augustus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He never called himself king, but he was Rome's first emperor, and the Republic was over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Caesar rose through debt, charm and a private deal with Pompey and Crassus, which won him an army.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Cleopatra: the last pharaoh.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "She has been painted as a seductress for two thousand years, mostly by her enemies.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The real Cleopatra was a scholar-queen fighting to keep her country alive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Greek queen of Egypt.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cleopatra VII was born in 69 BC, but her family story begins with Alexander the Great.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Alexander died, one of his generals, Ptolemy, took control of Egypt and founded a dynasty.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For nearly three hundred years the Ptolemies ruled from Alexandria, the glittering Greek city on the Mediterranean coast.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They presented themselves to Egyptians as pharaohs, but they spoke Greek and often married their own siblings to keep power in the family.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here is a perspective worth sitting with: Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid of Giza.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To her, the pyramids were already ancient monuments, more than two thousand years old.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brains before beauty.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hollywood made Cleopatra a famous beauty, but the ancient evidence points elsewhere.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greek writer Plutarch, who drew on earlier sources, said her beauty was not in itself incomparable, but her presence was captivating, her conversation charming and her voice delightful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He reported that she spoke many languages and could talk to foreign envoys without interpreters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to Plutarch, she was the first of her dynasty to bother learning Egyptian, the language of the people she ruled.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her coins show a strong hooked nose and a firm chin, though coin portraits were also political images.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Educated in Alexandria, one of the great centres of learning in the ancient world, she ruled as a skilled, calculating politician.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar and the rolled-up queen.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cleopatra came to power around 51 BC as co-ruler with her younger brother, Ptolemy XIII, but his advisers soon drove her out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She raised an army, and the siblings were at war when Julius Caesar arrived in Alexandria in 48 BC, chasing his Roman rival Pompey.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cleopatra needed to reach Caesar without being caught by her brother’s men.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plutarch says she was smuggled into the palace by boat at dusk, hidden inside a bag for bedding, the origin of the later legend about a carpet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar took her side.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After months of fighting in the city, Ptolemy XIII drowned while fleeing, and Cleopatra was restored to the throne.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She later bore a son, Ptolemy Caesar, nicknamed Caesarion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antony and Actium.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cleopatra was in Rome when Caesar was assassinated in 44 BC, and she quickly returned to Egypt.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mark Antony now controlled Rome’s eastern provinces.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 41 BC he summoned her to Tarsus, in modern Turkey.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plutarch describes her arriving on a barge with a gilded stern, purple sails and silver oars, dressed as the goddess Aphrodite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the exact details, it was political theatre, and it worked.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They became partners in power and in private, and she had three children with him.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 34 BC, Antony handed territories to Cleopatra and her children, and his rival Octavian used this as proof that Antony had betrayed Rome to a foreign queen.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the naval Battle of Actium in 31 BC, their fleet was beaten.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Written by the winners.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A year after Actium, Octavian’s armies closed in on Alexandria.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antony, believing Cleopatra was already dead, stabbed himself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cleopatra died in August 30 BC, aged thirty-nine, rather than be paraded through Rome as a captive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The famous story says an asp, smuggled to her in a basket of figs, bit her.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet even Plutarch admitted nobody knew the truth, and some historians think poison is more likely.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesarion was later killed on Octavian’s orders.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Egypt became a Roman province, ending three thousand years of pharaohs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because Octavian won, his version dominated, and Roman poets painted Cleopatra as a drunken, power-hungry foreigner.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians today see a ruler who used money, diplomacy and alliances to keep Egypt independent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her tomb has never been found.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Cleopatra belonged to a Greek-speaking dynasty founded by one of Alexander the Great’s generals.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did Rome limit each consul to one year and give each a veto over the other?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. So that no man could rule like a king.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did the Barca family want another war with Rome?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Carthage lost Sicily and paid a huge indemnity.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What was the First Triumvirate?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A private pact of Caesar, Pompey and Crassus.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What was the background of the dynasty Cleopatra belonged to?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Greek rulers descended from Alexander’s general.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

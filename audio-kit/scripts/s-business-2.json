@@ -1,0 +1,959 @@
+{
+ "id": "s-business-2",
+ "title": "Starting a Business · Episode 2",
+ "chapters": [
+  "Why we pay more for a name",
+  "The hidden psychology of prices",
+  "Cash flow: the lifeblood of business"
+ ],
+ "units": [
+  {
+   "t": "Starting a Business. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Why we pay more for a name, The hidden psychology of prices and Cash flow: the lifeblood of business.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Why we pay more for a name.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In blind taste tests, people often cannot tell their favourite cola from its rival.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So why will they happily pay more for the logo?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From cattle to confidence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long before logos, farmers burned marks into the hides of cattle to show whose they were.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The modern brand grew out of the Industrial Revolution, when goods travelled far from their makers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy flour from a neighbour and you knew who to blame if it was bad.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it came from a distant factory, a trusted name on the packet did that job.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1876 the Bass brewery's red triangle became the first trade mark registered under a new British law.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brands also act as mental shortcuts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A large supermarket stocks thousands of products, so a familiar name lets you assume the product will match last time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of what a brand sells is confidence, which is why travellers often pick a global chain over an unknown local cafe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cola experiment.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s Pepsi ran the Pepsi Challenge, a marketing campaign built on blind taste tests in which many people preferred Pepsi.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet Coca-Cola stayed the bigger seller.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004, neuroscientists explored why.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When people tasted the drinks without knowing which was which, their preferences were fairly evenly split.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When told they were drinking Coke, more said they preferred it, and brain scans showed extra activity in areas linked to memory and emotion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brand was not just a label on the can.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A lifetime of advertising, memories and associations had become part of the experience of drinking it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brands work partly in our heads, and that is still real to us.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Status and signalling.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1899 the economist Thorstein Veblen coined the phrase conspicuous consumption for wealthy people spending lavishly to display status.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Luxury brands still trade on this idea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A handbag with a famous logo holds the same things as an unbranded one, but it also sends a message.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For some luxury goods, raising the price can even increase demand, because the high price is part of the appeal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists sometimes call these Veblen goods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Signalling is not only about wealth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People choose brands to show they are outdoorsy, ethical, sporty or creative.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sticker on a laptop or a logo on a pair of runners can quietly announce which group you feel you belong to.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When brands become words.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Escalator, thermos and trampoline all began as brand names.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People came to use them for any product of that type, and in some countries the owners lost exclusive rights to the name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Courts call this genericide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the United States, Otis lost its trade mark on escalator in 1950.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Companies fight to avoid this fate, which is why some insist on phrases like Band-Aid brand adhesive bandages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia, Esky is a registered trade mark, even though many people use it for any portable cooler.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The irony is painful for owners: becoming a household word is the ultimate marketing success, yet it can wipe out the legal value of the name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brands under pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Own brands once had a plain, cheap reputation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When Aldi arrived in Australia in 2001, it built its business largely on own-label products sold at low prices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coles and Woolworths expanded their own ranges in response.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many home brand items come from similar factories to branded goods, sometimes the same manufacturers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Well-known brands must now justify higher prices with quality, innovation or emotional appeal, not familiarity alone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because a brand is really a reputation, it is fragile.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Decades of trust can be damaged by one scandal, unsafe product or misleading conduct, and sales and share prices can fall sharply.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some brands recover by acting quickly and honestly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For shoppers, the lesson is to check whether a product earns its extra price.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Brands began as marks of ownership and now act as mental shortcuts that reduce the risk of a bad choice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The hidden psychology of prices.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why does almost everything cost $9.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "99, and why does a menu include a dish nobody orders?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices are quietly designed to steer your choices.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Numbers that nudge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A price of $4.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "99 is only one cent under $5, yet it feels like four dollars and something.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the left-digit effect: we read left to right and give the first digit extra weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sales data show prices ending in 9 can lift demand, though it varies by product.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Luxury shops often use round prices like $500 instead, because a price that looks discounted can make an expensive item feel cheap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first number you see also works as an anchor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A jacket marked Was $400, now $199 feels cheap whether or not anyone paid $400.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1970s experiments, Tversky and Kahneman showed estimates were nudged by a number from a spun wheel.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, was prices must be genuine, and the ACCC has acted against misleading ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The decoy nobody buys.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Behavioural economist Dan Ariely described an old subscription offer from The Economist: web access for $59, print for $125, or print plus web for $125.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody sensible picks print alone when the bundle costs the same, so why include it?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because it makes the bundle look like a steal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Ariely tested the offer on students, most chose the bundle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When he removed the print-only option, far more chose the cheaper web-only deal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is called the decoy effect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You will see it in cinema popcorn sizes, coffee cups and phone plans, where a middle option is priced to push you towards the largest one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Different prices, same thing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two people sitting side by side on a plane may have paid wildly different fares.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economists call this price discrimination, and it is often legal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The aim is to charge each customer close to what they are willing to pay.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Airlines do it with booking dates and flexible tickets.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cinemas do it with cheap Tuesday sessions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Software companies offer student discounts, because students have little money now but may become loyal paying customers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coupons and loyalty apps work similarly: people who collect points or hunt for codes tend to be more price sensitive, so they get a lower price while everyone else pays full price.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The product barely changes, but the price fits the customer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making paying painless.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zero is special.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shoppers often choose a free item over a better deal that costs a little, because free removes any sense of risk or loss.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Freemium apps are free to download and earn money from the few users who pay for extras.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Free shipping thresholds work too: if delivery is free over $50 and your cart is at $43, many people add something rather than pay a few dollars postage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paying also hurts a little, more with cash than cards and less still when money leaves automatically.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is why subscriptions have spread.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "$15 a month feels lighter than $180 a year, and inertia keeps people paying for services they rarely use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Review your bank statement every few months and cancel anything you would not sign up for again today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing through the tricks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "None of these techniques are secret, and once you know them they lose some power.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A useful defence is unit pricing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large Australian supermarkets must display unit prices, such as the cost per 100 grams, which makes it easier to compare a big pack with a small one, or a brand with a home brand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another defence is to decide what something is worth to you before you see the price tag, so an anchor cannot do your thinking for you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ACCC has also cracked down on drip pricing, where extra fees appear only at the end of a purchase.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a price seems misleading, the ACCC website explains your rights and how to report it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Prices ending in 9 feel cheaper because we weigh the first digit most, and a high first price anchors our judgement.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Cash flow: the lifeblood of business.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A business can be profitable on paper and still run out of money.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why is one of the most important lessons in business.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Profit is not cash.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Profit is revenue minus expenses over a period, and under standard accounting it's recorded when a sale is made, not when the money arrives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cash flow is the actual timing of money entering and leaving your bank account.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can make a $10,000 sale in March, book the profit, and not see the money until June.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the meantime you still have to pay rent, wages, suppliers and tax.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Profit keeps score; cash keeps the lights on.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why profitable firms fail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A business can fail while its sales are growing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a manufacturer that wins a big order.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It must buy materials and pay staff for months, while the customer pays 60 days after delivery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If cash runs out in between, it may be unable to pay its debts on time, even though the order is profitable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Growth that outpaces available cash is sometimes called overtrading.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The length of this loop is the cash conversion cycle: cash goes into stock or labour, becomes a sale, then waits to be paid.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cafe paid at the counter has a short cycle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A builder who invoices weeks later needs far more cash to keep going.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many small business advisers cite cash flow as a common reason small businesses struggle or close.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Managing cash in and out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Late payments are a common drain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Invoice as soon as work is done, not at month's end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make invoices clear: what was delivered, the amount, the due date and easy payment options.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you're registered for GST, invoices must meet tax invoice requirements, which the ATO explains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consider shorter terms, deposits for large jobs or progress payments, and follow up politely but promptly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Outflows matter too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pay suppliers on time, but there's usually no need to pay weeks early.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid tying up cash in excess stock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The classic trap is tax: GST you collect isn't your money, and neither is income tax you'll owe later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many owners move a set percentage of each payment into a separate account.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Runway and forecasting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Runway is vital for new businesses not yet profitable.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Divide your cash by your monthly net cash outflow, or burn rate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With $60,000 in the bank and $10,000 more going out than coming in each month, you have about six months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing this early gives you time to cut costs, raise prices, chase sales or find funding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A forecast can be a simple spreadsheet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "List cash coming in, based on when customers will realistically pay, not when you invoice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "List cash going out: wages, rent, suppliers, loans, super, GST and tax.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference gives a running balance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many businesses keep a rolling 13-week forecast, updated weekly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal isn't perfect prediction; it's spotting dips in time to act.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthy cash habits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few habits make a big difference.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look at your bank balance and unpaid invoices every week.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build a cash buffer, with many advisers suggesting enough to cover at least a few months of fixed costs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep business and personal money in separate accounts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use accounting software to track who owes you and what you owe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If cash is getting tight, act early.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talk to your accountant, your bank and, if needed, the ATO about payment arrangements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only; a registered tax agent or accountant can advise on your situation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Profit measures earnings over a period, while cash flow tracks when money actually moves in and out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did brands become more important during the Industrial Revolution?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Goods travelled far from their makers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the left-digit effect?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Giving the first digit extra weight.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How can a business record a profit yet have no cash?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Profit is booked at the sale, but payment arrives later.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

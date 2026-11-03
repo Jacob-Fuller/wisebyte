@@ -1,0 +1,983 @@
+{
+ "id": "s-safety-3",
+ "title": "First Aid & Safety · Episode 3",
+ "chapters": [
+  "Bushfire safety",
+  "Surviving a heatwave",
+  "Floods: if it's flooded, forget it"
+ ],
+ "units": [
+  {
+   "t": "First Aid & Safety. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Bushfire safety, Surviving a heatwave and Floods: if it's flooded, forget it.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Bushfire safety.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Bushfires are part of the Australian landscape.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The people who survive them are usually the ones who planned before the smoke appeared.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your risk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bushfires can start anywhere there is dry vegetation, including grassland, farmland and the edges of suburbs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main season is usually summer and autumn in southern Australia, and winter and spring in the north.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat, low humidity, strong wind and dry fuel drive fires, and a grass fire can outrun a person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since September 2022, every state and territory uses the Australian Fire Danger Rating System, which shows how dangerous a fire would be if one started.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moderate means plan and prepare.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High means prepare to act.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extreme means take action now to protect life and property.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catastrophic means for your survival, leave bush fire risk areas.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your district daily in fire season.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warnings and information.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once a fire starts, the Australian Warning System has three levels.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Advice means a fire has started but there is no immediate danger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watch and Act means conditions are changing and you need to take action.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emergency Warning means you are in danger and must act immediately.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You may not receive a warning at all, and conditions can change faster than warnings can be issued.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you see or smell smoke and feel threatened, act on your plan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use your state fire service website or app, such as Hazards Near Me in NSW or VicEmergency.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "ABC local radio is an official broadcaster, so keep a battery radio in case power fails.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emergency Alert sends calls and texts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Social media can be wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan and leave early.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every household in a bushfire risk area should have a written survival plan.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "State fire services provide free templates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide what will trigger you to leave, such as a rating or warning level, where you will go, which routes you will take, and what to do about pets and livestock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pack medications, documents, water and chargers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check on elderly neighbours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise the plan together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leaving early is the safest choice: before a fire starts, or well before it reaches you, not when you can see flames.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Late evacuation is extremely dangerous, as roads can be blocked and smoke makes driving nearly impossible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Of the 173 people who died on Black Saturday in 2009, many had left late or sheltered in homes that could not protect them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Preparing your property.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most homes lost in bushfires are ignited by embers, which can travel kilometres ahead of the fire front, rather than by the flames themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Preparation reduces that risk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before the season, clean leaves from gutters, mow grass short and trim branches overhanging the roof.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Move firewood, doormats, mulch and gas bottles away from the house.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seal gaps under roofing, eaves and doors, and fit metal mesh screens to windows and vents.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep hoses long enough to reach all around the house.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A well-prepared home is also safer for neighbours and firefighters, even if you plan to leave.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your state fire service can advise on what suits your property.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are caught out.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radiant heat is the biggest killer in a bushfire, so shelter from it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wear long clothing of natural fibres such as wool or cotton, sturdy boots, and cover your nose and mouth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are trapped in a car, park away from trees and long grass, ideally in a clear area, with headlights and hazard lights on.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Close the windows and vents, stay in the car and get down below window level.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cover yourself with a woollen blanket until the fire front passes, and drink water if you can.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some areas have designated Neighbourhood Safer Places, but treat them as a last resort.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In any emergency, call Triple Zero, 000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Anyone who lives, works or travels near bush or grass is at risk, and the Fire Danger Rating tells you how dangerous a fire would be.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Surviving a heatwave.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Heatwaves do not burn houses or wash away roads, yet they are one of Australia's deadliest natural hazards.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how heat harms the body, and how to stay safe when the mercury soars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The quiet killer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bushfire or cyclone is obviously dangerous.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A heatwave is different.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sky is blue and most people just feel uncomfortable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet Australian emergency and health agencies often describe heatwaves as having caused more deaths than any other natural hazard in the country's recorded history.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of the harm happens quietly, indoors, to older people living alone or people with health conditions whose bodies can't cope with days of heat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hot nights make it worse, because the body never recovers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bureau of Meteorology publishes heatwave forecasts rating events as low-intensity, severe or extreme.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When severe or extreme is forecast, it is time to plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Body and risk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your core temperature sits around 37 degrees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you heat up, skin blood vessels widen and you sweat, and evaporating sweat carries heat away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This needs enough body water and air dry enough for evaporation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In humid conditions sweat just drips off.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you lose fluid without replacing it, the system falters and your heart works harder.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat can affect anyone, including fit people working hard outdoors, but some need extra care: older people, who may not feel thirst, babies and young children, pregnant women, people with heart, kidney, lung or diabetes conditions or certain medicines, outdoor workers, and people who can't escape the heat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check on vulnerable neighbours and relatives, ideally daily.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keeping cool.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The basics work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drink water regularly, even before you feel thirsty, and go easy on alcohol and very sugary drinks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If your doctor limits your fluids, ask what to do in hot weather.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do errands and exercise in the cooler morning or evening.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wear light, loose clothing and a hat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At home, close curtains and blinds on sunny windows early, and open windows when it cools outside.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fans help, but in very high temperatures may not be enough.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cool shower, a damp cloth on the neck, or a few hours in an air-conditioned library can help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before summer, check fans and air conditioners work, store medicines as labelled, and make a list of people to check on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never leave anyone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a warm day, the inside of a closed car can quickly become far hotter than the air outside, often by tens of degrees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of the rise happens in the first few minutes, and leaving a window slightly open does very little.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children are especially vulnerable because their bodies heat up faster than adults' and they can't get themselves out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pets are at serious risk too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is simple: never leave children, vulnerable adults or animals in a parked car, not even for a quick dash into a shop.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you see a child or animal locked in a hot car and distressed, call Triple Zero, 000, straight away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make a habit of checking the back seat every time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exhaustion and heatstroke.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Signs of heat exhaustion include heavy sweating, pale skin, weakness, dizziness, headache, nausea and fainting.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Move the person somewhere cool, lay them down, loosen clothing, cool them with water and fans, and give small sips of water if fully alert.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If they don't improve quickly, seek medical help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heatstroke is more serious and can be fatal: the body's cooling has failed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The person may be confused, slur words, collapse, have a seizure or lose consciousness, and their skin may be hot and dry or sweaty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call Triple Zero, 000, immediately.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "While waiting, cool them with water, wet sheets, fans and cold packs at the armpits, groin and neck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give no drinks to someone not fully conscious.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information; healthdirect, 1800 022 222, can help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Heatwaves are among Australia's deadliest natural hazards, and the harm happens quietly, mostly to vulnerable people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Floods: if it's flooded, forget it.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Floodwater that looks shallow and calm can sweep a car off the road in seconds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how floods catch people out, and how to stay on the right side of the water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never drive through.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a country road after heavy rain, brown water covering a dip for twenty metres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You know this road, and it looks barely ankle-deep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But floodwater is murky.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can't see how deep it is, whether the road has washed away, or what lies beneath.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Driving into floodwater is one of the most common ways people die in Australian floods, which is why emergency services say: if it's flooded, forget it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A car is a sealed box of air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a few tens of centimetres of water it starts to float and the tyres lose grip, so a current can sweep it away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast-flowing water around knee height can knock an adult off their feet.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never drive, walk, ride or swim through floodwater.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your flood risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's rivers can rise slowly over days or explode in minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Riverine floods build as rain upstream drains into big catchments, giving hours or days of warning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flash floods follow intense downpours, often in hilly or built-up areas, where drains overflow and creeks rise almost instantly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storm surge from cyclones can flood low-lying coastal land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Find out whether your home, work or regular routes are at risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many councils publish flood maps, and state emergency service websites explain local risks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice small clues too: a street called Creek Road, a low dip on the way to school, or a causeway with depth markers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trust those markers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warnings and preparing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian Warning System has three levels: Advice, an incident has started, stay up to date, Watch and Act, conditions are changing, act now, and Emergency Warning, you are in danger, act immediately.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Bureau of Meteorology issues flood watches and warnings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your state emergency service website and app, the Bureau, and local ABC radio.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't wait for a warning if water is rising around you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best time to prepare is on a sunny day.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plan where you would go and how, without crossing flooded roads.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pack a kit with a torch, battery radio, medicines, document copies, chargers and water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan early for pets and livestock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Store valuables up high, and check what your insurance covers, because flood cover is not automatic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For non-life-threatening help, call the SES on 132 500.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the water rises.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If authorities tell you to evacuate, go, and go early.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roads can be cut long before water reaches your door, and leaving late often means crossing rising water in the dark.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are trapped and your life is in danger, call Triple Zero, 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move to the highest safe point of the building with a phone, torch and warm clothes, and wait for rescue rather than trying to swim out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never let children play in floodwater or stormwater drains, which can suck people in.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Floodwater can carry sewage, chemicals, sharp debris and displaced snakes and spiders, so avoid touching it and wash well if you do.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information; follow your state emergency service's advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the flood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When floodwater recedes, new hazards appear.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only return home when authorities say it is safe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Power lines may be down, and any appliance or wiring that has been underwater should be checked by a licensed electrician before use.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you smell gas, leave and call for help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walls and floors may be weakened, and mud can hide broken glass, nails and animals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wear gloves, sturdy boots and long sleeves while cleaning, and wash your hands often.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Throw out any food that touched floodwater, and check with your council or water authority before drinking tap water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Floods are emotionally exhausting, so check on neighbours and ask for help yourself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: If it's flooded, forget it: floodwater hides depth, damage and current, and cars and people are easily swept away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does a Catastrophic fire danger rating tell you to do?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Leave bush fire risk areas.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why are heatwaves described as a 'quiet' hazard?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The harm happens quietly, often indoors.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is driving through floodwater so dangerous?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Depth is hidden and cars can float.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

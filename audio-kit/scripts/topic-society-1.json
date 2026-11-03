@@ -1,0 +1,899 @@
+{
+ "id": "topic-society-1",
+ "title": "Law & Government Shorts",
+ "chapters": [
+  "Diplomatic immunity: why ambassadors can't be arrested",
+  "Habeas corpus: the right not to simply vanish",
+  "Marbury v Madison: how courts got the power to strike down laws"
+ ],
+ "units": [
+  {
+   "t": "Law & Government Shorts.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Diplomatic immunity: why ambassadors can't be arrested, Habeas corpus: the right not to simply vanish and Marbury v Madison: how courts got the power to strike down laws.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Diplomatic immunity: why ambassadors can't be arrested.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A diplomat can park illegally, refuse to answer police and walk free from a courtroom.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is a surprisingly old and sensible reason why.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't shoot the messenger.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rulers have always needed to talk to their rivals, even during wars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That only works if messengers can travel safely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient Greek heralds, Roman envoys and ambassadors in many other civilisations were protected, often with religious overtones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1200s, Mongol envoys sent by Genghis Khan to the Khwarazmian Empire in Central Asia were mistreated, and at least one was executed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genghis Khan responded with a devastating invasion from 1219.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson has been learned again and again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If envoys can be arrested, jailed or killed, diplomacy collapses, and the only remaining way to settle disputes is force.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An ambassador arrested.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1708, Andrey Matveyev, the ambassador of Tsar Peter the Great, was about to leave London when he was dragged from his coach and briefly locked up over unpaid debts to local merchants.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Peter was furious and demanded that the offenders be severely punished.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The British government was embarrassed, but under English law the creditors had done nothing illegal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To repair the relationship, Parliament passed the Diplomatic Privileges Act, which made it unlawful to arrest ambassadors or seize their goods, and Queen Anne's government sent a formal apology to Moscow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It shows how international law often grows: an awkward incident exposes a gap, and states create rules so it does not happen again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Vienna Convention.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main rules are in the Vienna Convention on Diplomatic Relations of 1961, one of the most widely accepted treaties in the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia gives effect to it through its Diplomatic Privileges and Immunities Act of 1967.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under the convention, diplomatic agents cannot be arrested or detained, and they are immune from the host country's criminal courts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are also immune from most civil and administrative cases, with exceptions such as private property deals or business unrelated to their official work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their families generally share these protections.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The diplomatic bag, used to send documents and items between an embassy and its home government, must not be opened or detained.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A separate, narrower 1963 convention protects consular officials.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is an embassy foreign soil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Films often say that stepping into an embassy means stepping onto foreign soil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is a myth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An embassy in Canberra stands on Australian territory, and in general Australian law applies there.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the Vienna Convention does is make the premises inviolable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Police and other officials of the host country may not enter without the consent of the head of the mission, even with a warrant, and the host country must protect the building from intrusion or damage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why people sometimes seek refuge inside embassies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They have not left the country, but local authorities cannot simply walk in and take them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effect can look similar, but the legal reasoning is quite different.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why keep immunity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diplomats must respect local laws.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they break them, the host country can ask the sending country to waive immunity so the person can be prosecuted, or declare the diplomat persona non grata, an unwelcome person, who must then leave.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In April 1984, shots fired from the Libyan embassy in London killed Police Constable Yvonne Fletcher during a protest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain could not enter or prosecute, so after a siege it expelled the diplomats and broke off relations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why keep the system?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reciprocity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every country has diplomats abroad, sometimes in places with hostile governments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a host could arrest them on real or invented charges, they could become hostages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Immunity lets envoys report honestly and deliver unwelcome messages without fear.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Protecting envoys is one of the oldest rules of international relations, because without it no one could negotiate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Habeas corpus: the right not to simply vanish.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two Latin words protect you from being locked away without reason.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They have stood up to kings, slave owners and presidents.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Produce the body.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Habeas corpus is Latin for 'you shall have the body'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is the name of a writ, a formal court order, directed at whoever is holding a prisoner, whether a jailer, a soldier or a government official.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The writ commands them to bring the person before the court and show a lawful reason for the detention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If they cannot, the judge can order the prisoner released.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It does not decide whether someone is guilty.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It asks a more basic question: is there any legal authority to hold this person at all?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes it a check on power itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without it, a government could make people disappear into cells with no charge, no trial and no end date.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forged by conflict.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Versions of the writ existed in English courts by the 1200s, at first mostly to bring people to court.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Judges later used it to test whether detentions were lawful, drawing strength from Magna Carta of 1215: no free man to be imprisoned except by the lawful judgment of his peers or the law of the land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1627 Charles I jailed knights who refused a forced loan demanded without Parliament's consent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The jailer's only answer was that they were held by the king's special command, and the court refused to release them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Outrage helped produce the Petition of Right in 1628, declaring such imprisonment unlawful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1679 Parliament passed the Habeas Corpus Act, setting deadlines and penalties to stop officials dodging the writ.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "James Somerset's freedom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1772 the writ was used in a dramatic case.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "James Somerset had been enslaved in Virginia and brought to England by Charles Stewart, a customs official.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Somerset escaped, was recaptured and was put aboard a ship bound for Jamaica, where he would be sold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supporters, including the campaigner Granville Sharp, sought habeas corpus.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lord Mansfield, the senior judge of the King's Bench, ruled that no law in England allowed a master to force Somerset out of the country, and Somerset was freed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The decision did not abolish slavery, which continued in British colonies for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it was widely celebrated and became a landmark in the long struggle against slavery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suspending the writ.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because habeas corpus limits government power, governments under pressure have sometimes tried to switch it off.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Britain's Parliament suspended it several times, for example in the 1790s amid fears of revolution spreading from France.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The framers of the United States Constitution included the writ but allowed suspension only in cases of rebellion or invasion when public safety required it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1861, at the start of the Civil War, President Abraham Lincoln suspended it in some areas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chief Justice Roger Taney argued in the Merryman case that only Congress had that power, and Lincoln largely ignored him.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Congress later authorised suspension.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lawyers and historians still debate how far emergencies justify setting aside this ancient safeguard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The writ today.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English colonists carried habeas corpus around the world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It remains part of the law in countries including Australia, New Zealand, Canada, India and the United States.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, superior courts such as the state Supreme Courts and the High Court can issue it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In practice, many detentions are now reviewed through other routes, such as bail hearings, appeals and judicial review, so the old writ is used less often than its fame suggests.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But it still matters most when other protections fail.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It has been invoked over immigration detention, mental health detention and wartime imprisonment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its message endures: power must always answer one question in court.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By what lawful authority is this person being held?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Habeas corpus is a court order demanding that a jailer justify why a person is being held.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Marbury v Madison: how courts got the power to strike down laws.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A row over an undelivered job letter gave judges one of the greatest powers in modern government.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The judge who did it managed to win by appearing to lose.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The midnight commission.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "John Adams and the Federalists lost the 1800 election to Thomas Jefferson.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before handing over in March 1801, Adams created new judicial posts and filled them with Federalists, whom critics called the midnight judges.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One was William Marbury, named a justice of the peace for the District of Columbia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His commission was signed and sealed, but in the last-minute rush the Secretary of State's office failed to deliver it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That Secretary of State was John Marshall, who had just become Chief Justice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Jefferson took office, his Secretary of State, James Madison, refused to hand it over.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Marbury sued directly in the Supreme Court, seeking a writ of mandamus, an order commanding an official to do his legal duty.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Winning by losing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The case was a trap.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If Marshall ordered Madison to deliver the commission, the administration would probably ignore him, exposing the young Court as powerless.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If he backed down, he would seem to concede that the executive could ignore the law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In February 1803, Marshall ruled that Marbury had a right to his commission and the law should provide a remedy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the Supreme Court could not provide it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The section of the Judiciary Act that let Marbury come directly to the Court tried to expand its original jurisdiction beyond what the Constitution allowed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When an ordinary law conflicts with the Constitution, the Constitution must win.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So Marbury lost, and Jefferson got his result.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the Court had claimed something far bigger: the power to declare acts of Congress unconstitutional.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judges say the law.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Marshall's reasoning was straightforward.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A written constitution is the supreme law, deliberately placed above ordinary laws.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If Congress could pass any law regardless of the Constitution, its limits would be meaningless.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone must decide whether a law conflicts with it, and Marshall argued that this job belonged to judges.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In one of the most quoted lines in American law, he wrote that it is emphatically the province and duty of the judicial department to say what the law is.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is judicial review.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Constitution had not spelled it out clearly, though some founders had discussed the idea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marshall made it settled doctrine, using a case where his ruling gave his political opponents a short-term win.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sleeping giant.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For such an important power, judicial review was used sparingly at first.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Marbury, the Supreme Court did not strike down another act of Congress until 1857, in the infamous Dred Scott decision.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It held that Black Americans could not be citizens and helped push the country towards civil war.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judicial review is a tool, and courts can use it badly as well as wisely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time the power grew.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 20th century, the Court struck down laws on everything from segregated schools to campaign spending.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because judges are unelected, debates continue about how boldly they should use this power, and when they should defer to elected lawmakers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those debates are as old as the decision itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Down under and beyond.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea spread to many countries with written constitutions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's framers built a federal system in which the Commonwealth's powers are limited, so it was taken for granted that the High Court would decide whether laws stayed within those limits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1951 Communist Party case, Justice Fullagar wrote that in our system the principle of Marbury v Madison is accepted as axiomatic, meaning self-evident.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The United Kingdom is different.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under parliamentary sovereignty, British courts cannot strike down an Act of Parliament.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the Human Rights Act 1998 they can declare a law incompatible with protected rights, but Parliament decides whether to change it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Different systems, different answers to the question of who has the final word.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An undelivered job letter from the outgoing president took William Marbury straight to the Supreme Court.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why have societies long protected envoys?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Without safe messengers, rivals cannot negotiate.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What question does habeas corpus force a jailer to answer?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. What lawful authority justifies the detention.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was Marshall in a political trap?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Ordering it risked defiance; refusing risked looking weak.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

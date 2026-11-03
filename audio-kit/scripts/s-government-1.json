@@ -1,0 +1,893 @@
+{
+ "id": "s-government-1",
+ "title": "Government & Democracy · Episode 1",
+ "chapters": [
+  "How democracy works",
+  "The social contract: why we agree to be governed",
+  "Left, right and the big political ideas"
+ ],
+ "units": [
+  {
+   "t": "Government & Democracy. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How democracy works, The social contract: why we agree to be governed and Left, right and the big political ideas.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How democracy works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Rule by the people sounds simple.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of history it was rare, fragile and limited.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's how it grew, and what actually keeps it alive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rule by the people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Democracy comes from the Greek demos, the people, and kratos, power.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Authority comes from citizens, not a monarch, priesthood or military.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a direct democracy citizens vote on decisions themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a representative democracy they elect people to decide for them, and can remove them at the next election.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost every democracy today is mainly representative, with some direct elements.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Athens is the best-known early example, but not the only one.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ancient Indian texts describe republics such as the Vajji confederacy, where councils of clan leaders debated and voted around the 500s BC, though only an elite took part.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Iceland, Norse settlers founded the Althing in 930, often called one of the world's oldest surviving parliaments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In two small Swiss cantons, citizens still vote on laws by raising their hands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Rome to the ballot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Athens, rule by the people largely faded for centuries, but pieces survived.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Roman Republic elected magistrates and had a Senate, though wealthy families dominated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In England, Magna Carta in 1215 established that even the king was bound by law, and parliaments gradually won control over taxation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A civil war and the Glorious Revolution of 1688 left Parliament stronger than the monarch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This Westminster model later shaped Australia, Canada and New Zealand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enlightenment thinkers such as John Locke argued that governments get legitimacy from the consent of the governed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The American Revolution of 1776 and French Revolution of 1789 placed this at the centre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early electorates were small, often limited to propertied men.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the next century and a half the vote widened to working men, women and groups excluded by race.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Universal suffrage is surprisingly recent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian experiments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian colonies were busy laboratories of democracy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1870 Victoria began paying members of parliament, so working men, not just the wealthy, could afford to serve.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1899 Queensland's Anderson Dawson became premier of what is usually described as the world's first Labour government, though it lasted only about a week.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tasmania trialled the Hare-Clark system of proportional representation in Hobart and Launceston in the 1890s and adopted it statewide in 1909.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is still used there and in the ACT.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And in 1921 Edith Cowan won a seat in Western Australia, becoming the first woman elected to an Australian parliament.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voting directly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pure direct democracy is impractical for a nation of millions, but elements survive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Switzerland is the best-known example: citizens vote on national questions several times a year, and can force a vote on a new law by gathering enough signatures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many US states let citizens put proposals on the ballot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, the main direct element is the constitutional referendum: the Constitution can only be changed if voters approve.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporters say direct votes give people real ownership of big decisions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics warn that complex issues can be reduced to slogans and that turnout and information vary.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What keeps it working.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Holding elections doesn't guarantee a working democracy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Elections must be free and fair, run by an independent body, with secret ballots and real choice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule of law means everyone, including leaders, answers to the same laws through independent courts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A free press and free speech let citizens learn what government does and criticise it without fear.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Minority protections stop the majority overriding others' basic rights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And losers must accept the result.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Churchill told Parliament in 1947 that it had been said democracy is the worst form of government except for all the others tried.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can be slow and frustrating, but it lets mistakes be corrected and leaders replaced without violence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Citizens keep it alive by voting thoughtfully, checking political claims, contacting their local member and respecting those who vote differently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Democracy means citizens hold ultimate power, either deciding directly or electing representatives, and its roots reach well beyond Athens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The social contract: why we agree to be governed.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why should anyone obey the government?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For nearly four centuries, philosophers have answered with a powerful thought experiment: imagine life with no rulers at all, then ask what deal reasonable people would strike.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hobbes: war of all.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture waking to find no police, courts, laws or government.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nothing would stop a stronger neighbour taking your food or home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This imagined situation is the 'state of nature', the starting point of the social contract: the idea that governments are legitimate because the governed, in some sense, agree to them, trading some freedom for security and order.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thomas Hobbes lived through the English Civil War.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Leviathan, 1651, he argued that people in a state of nature would be roughly equal in their ability to harm one another, and constantly suspicious.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result: a war of every person against every person, with no farming, industry or arts, and life 'solitary, poor, nasty, brutish, and short'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The only escape was a single sovereign strong enough to keep the peace.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even a harsh ruler beat chaos.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Locke and natural rights.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "John Locke painted a gentler picture.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Two Treatises of Government, around 1689, he argued that even in a state of nature people are bound by a natural law forbidding harm to others' life, health, liberty or possessions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People form governments not to escape chaos but to protect these rights more reliably, with impartial judges and enforcement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That changes everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A government built to protect rights can lose its legitimacy by violating them, and people may then resist and replace it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His ideas about consent and natural rights echoed in the American Declaration of Independence in 1776, which speaks of unalienable rights to life, liberty and the pursuit of happiness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rousseau and the general will.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Geneva-born Jean-Jacques Rousseau took the idea in another direction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His book The Social Contract, 1762, opens with the line usually translated as 'Man is born free, and everywhere he is in chains.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He thought existing societies had corrupted people and entrenched inequality.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A legitimate society, he argued, is one where citizens collectively make their own laws, guided by the general will: what is genuinely in the common interest, not just the sum of private wants.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In obeying such laws, people would in effect obey themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His ideas inspired democratic and revolutionary movements, especially in France.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics worried the general will could be twisted to justify forcing people to conform.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But did anyone sign.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The obvious objection is that no one ever signed anything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You were born into a country with laws already in place.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 18th century the Scottish philosopher David Hume argued that most governments began in conquest or usurpation, not agreement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some theorists replied that by staying and accepting a country's benefits, you give tacit consent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hume answered that this is like saying a man carried aboard a ship while asleep consents to the captain because he could leap into the ocean.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later critics, including some feminist scholars, argued that historical versions of the contract quietly excluded women and colonised peoples from the agreement altogether.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rawls and the veil.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1971 the American philosopher John Rawls revived the idea in A Theory of Justice, not as history but as a test of fairness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine designing a society from behind a veil of ignorance, not knowing whether you would be rich or poor, talented or not, or which gender, race or religion you would have.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rawls argued you would choose equal basic liberties and accept inequality only if it benefits the least advantaged.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1974 his Harvard colleague Robert Nozick countered that people's rights to what they have earned strictly limit what a state may redistribute, defending a much smaller government.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These debates echo in arguments over taxes, welfare and trading freedom for safety.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When someone claims authority over you, ask whether the people affected could genuinely agree to it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hobbes argued that without a powerful ruler, life would be a constant war of fear and conflict.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Left, right and the big political ideas.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why do we say 'left' and 'right'?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answer involves a French assembly hall in 1789, and the ideas that grew from it still shape every election.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where left and right began.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The words left and right began in France in 1789, in the early months of the Revolution.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the National Assembly, members who wanted to keep strong powers for the king, such as a royal veto over laws, sat to the right of the presiding officer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who wanted more radical change sat to the left.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The seating habit stuck.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the labels are shorthand for several questions bundled together.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On economics, the left generally favours more government action to reduce inequality, through taxes, welfare and public services.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right generally favours lower taxes, freer markets and more reliance on individual effort.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On social questions, the left is often linked with faster change and the right with preserving tradition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bundles don't always hold together, and the labels shift between countries and eras.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Liberals and conservatives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Liberalism grew from Enlightenment thinkers such as John Locke, who argued that people have natural rights to life, liberty and property, and that government rests on consent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Classical liberals stressed free markets, free speech and limited government.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Social liberals later argued that real freedom also needs education, health care and a safety net.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conservatism is often traced to Edmund Burke's 1790 warning against tearing down institutions for abstract theory.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Conservatives hold that customs, families and long-standing institutions carry accumulated wisdom, so change should be careful and gradual.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics say this can defend unfair arrangements simply because they are old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beware the word 'liberal': in the United States it signals the centre-left, but Australia's Liberal Party sits on the centre-right.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Socialists and libertarians.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Socialism emerged in the 1800s in response to the harsh conditions of the Industrial Revolution.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Socialists argue that wealth is produced collectively, so key industries should be owned or controlled by the public and shared more equally.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Communist states built one-party, centrally planned systems.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Democratic socialists instead seek change through elections, with strong unions, public services and welfare inside a market economy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics point to communist failures and weakened incentives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Libertarians want people free to live as they choose, so long as they don't harm others, under the smallest possible state.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That mixes free markets, which sounds right-wing, with personal freedoms, which can sound left-wing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics say a minimal state would leave the vulnerable unprotected and struggle with shared problems like pollution.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond a single line.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because one line mixes up too many questions, some people use two axes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The horizontal axis measures economic views, from more state control on the left to more free market on the right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The vertical axis measures personal freedom, from authoritarian, favouring strong state control of behaviour, to libertarian, favouring minimal control.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "American libertarian David Nolan drew an early version, and the online Political Compass quiz made the idea widely known.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even two axes simplify reality.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Environmentalism, nationalism and populism cut across these lines in different ways, and political scientists still debate how best to map beliefs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking fairly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every major political tradition contains serious thinkers responding to real problems.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Liberty, fairness, stability and security all matter, and people weigh them differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A useful habit is to describe an opposing view so well that its supporters would agree with your summary, sometimes called steelmanning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of labels used as insults, and check whether a claim about 'the other side' describes its mainstream or its fringe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people's views are a mix, and they change over a lifetime.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Understanding the ideas, rather than just the teams, makes political debate more useful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Left and right come from the French Assembly of 1789 and now loosely describe views on equality, the economy and the pace of change.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the main difference between direct and representative democracy?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Citizens decide directly, or elect others to decide.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did Hobbes think people should accept a powerful ruler?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It prevents constant fear and conflict.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. On economic questions, what does the left generally favour?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. More government action to reduce inequality.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

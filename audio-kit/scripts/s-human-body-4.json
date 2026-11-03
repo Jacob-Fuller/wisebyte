@@ -1,0 +1,881 @@
+{
+ "id": "s-human-body-4",
+ "title": "The Human Body · Episode 4",
+ "chapters": [
+  "The human brain",
+  "How your immune system works",
+  "Why we sleep"
+ ],
+ "units": [
+  {
+   "t": "The Human Body. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The human brain, How your immune system works and Why we sleep.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The human brain.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A 1.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "4-kilogram organ with 86 billion nerve cells, running on about the power of a dim light bulb.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small, thirsty, efficient.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The adult brain weighs about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "3 to 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 kilograms, roughly 2% of your body weight, yet it uses about 20% of your energy, even at rest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is around 20 watts, about the power of a dim light bulb, which is remarkably efficient compared with computers doing far less.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is about 75% water and has the consistency of soft tofu, so it floats in protective fluid inside the skull.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It has no pain receptors of its own, which is why some brain surgery can be done while the patient is awake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neurons and synapses.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain holds roughly 86 billion nerve cells called neurons, plus a similar number of supporting glial cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neurons send electrical signals along their length.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They then release chemical messengers called neurotransmitters, such as dopamine and serotonin, which cross tiny gaps called synapses to the next cell.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each neuron can connect with thousands of others, creating an estimated 100 trillion or more connections.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your thoughts, memories and feelings are patterns of activity across these networks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regions and lobes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cerebrum is the large, wrinkled outer part.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It handles thinking, language, memory, senses and voluntary movement, and its folds pack more surface area into the skull.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cerebellum, tucked underneath at the back, fine-tunes balance and learned movements like riding a bike.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brainstem links the brain to the spinal cord and runs breathing, heart rate, swallowing and sleep cycles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each side of the cerebrum has four lobes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The frontal lobes handle planning, self-control and personality, and mature last, in the mid-20s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The parietal lobes process touch and space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The temporal lobes handle hearing, language and memory, and contain the hippocampus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The occipital lobes process vision.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two brain myths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain has two hemispheres joined by a thick bundle of fibres, and each side mostly controls the opposite side of the body.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some functions lean one way; in most people, language is mainly on the left.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the idea of 'left-brained' logical people and 'right-brained' creative ones is a myth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2013 study scanning over 1,000 people found no sign that individuals favour one side overall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nor do we use only 10% of our brains.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scans show activity across nearly every region over a day, even in sleep, and damage almost anywhere causes noticeable problems.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An energy-hungry organ that was 90% idle would make no evolutionary sense.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The myth probably grew from misquoted early psychology and survives through movies and self-help marketing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rewiring and care.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your brain physically changes with experience, a property called neuroplasticity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learning strengthens or forms connections between neurons, and the adult brain keeps changing throughout life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "London taxi drivers who spent years memorising about 25,000 streets had a larger rear hippocampus than bus drivers on set routes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a stroke, other areas can sometimes take over lost functions with rehabilitation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brain health is tied to overall health.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular exercise increases blood flow to the brain and is one of the best-supported ways to protect thinking skills with age.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep clears waste and consolidates memories.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Social connection and learning are linked to lower dementia risk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Managing blood pressure, not smoking and limiting alcohol protect your brain too, and a helmet protects it directly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The brain is about 2% of your body weight but uses about 20% of your energy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How your immune system works.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Right now, an army of cells is patrolling your body, learning, remembering and fighting invaders you'll never notice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Layers of defence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day your body meets bacteria, viruses, fungi and parasites, called pathogens.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most never make you sick, thanks to your immune system: a network of cells, tissues and organs including the bone marrow, thymus, spleen, lymph nodes and tonsils.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works in layers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first layer simply keeps invaders out.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skin is a tough barrier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mucus traps particles in your airways, and tiny hairs called cilia sweep it out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tears and saliva contain enzymes that break down bacteria, and stomach acid kills many microbes you swallow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trillions of friendly bacteria on your skin and in your gut also take up space and resources that harmful microbes would otherwise use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast, then targeted.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If something gets past the barriers, the innate immune system responds within minutes to hours.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "White blood cells such as neutrophils and macrophages rush in and engulf invaders.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their chemical signals cause inflammation, the redness, heat, swelling and pain around a cut, which brings more blood and immune cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fever helps too: a higher temperature makes it harder for many pathogens to multiply and speeds up immune reactions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The adaptive system is slower, taking days, but highly targeted.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "B cells make antibodies, Y-shaped proteins that lock onto a specific pathogen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T cells coordinate the response, and killer T cells destroy infected cells directly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body can make enough different antibodies to recognise almost any invader.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory and vaccines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After an infection, some B and T cells become long-lived memory cells.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the same pathogen returns, they mount a faster, stronger response, often clearing it before you feel sick.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why you usually get diseases like chickenpox only once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flu and common cold viruses keep changing their outer proteins or come in many varieties, so memory cells miss the new versions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vaccines give your immune system a safe preview of a pathogen, using a weakened or inactivated form, a piece of it, or instructions for making a piece, as mRNA vaccines do.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smallpox, which killed hundreds of millions of people, was declared eradicated in 1980.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When enough people are immune, disease struggles to spread, protecting those who can't be vaccinated: herd immunity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it overreacts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The immune system isn't perfect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In allergies, it overreacts to harmless substances like pollen, dust mites or certain foods.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has one of the highest rates of food allergy in the world, especially among children.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In autoimmune diseases, such as type 1 diabetes, rheumatoid arthritis and coeliac disease, it mistakenly attacks the body's own tissues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists are still unravelling why, but genetics and environment both play roles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is also why you can't 'boost' a healthy immune system into overdrive, and wouldn't want to: an overactive one causes problems of its own.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporting your immunity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can support your immune system even if you can't boost it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular sleep, physical activity, a balanced diet with plenty of vegetables and fruit, not smoking and moderating alcohol all help it work well.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying up to date with vaccinations and washing your hands prevent infections in the first place.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be sceptical of supplements and products that promise to 'boost immunity'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most people, the evidence is weak.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you get frequent or unusual infections, see a doctor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your immune system works in layers, and the first is physical barriers such as skin, mucus and stomach acid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why we sleep.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You'll spend about a third of your life asleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what your brain is doing, and how to sleep better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Active, not wasted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You'll spend about a third of your life asleep, roughly 25 years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's not wasted time: sleep is when your body repairs tissue, regulates hormones, supports your immune system and locks in memories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every animal studied sleeps, even fruit flies and jellyfish.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each night runs in cycles of about 90 minutes, moving through light, deep, slow-wave, and REM sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deep sleep dominates the first half of the night and drives physical recovery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "REM, when most vivid dreams happen, grows longer towards morning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain is highly active during REM, but most muscles are paralysed so you don't act out your dreams.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Miss sleep and your mood, attention and judgement suffer fast.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain's night shift.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "While you sleep, your brain replays the day and strengthens what you learned, moving it into long-term storage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People remember new facts and skills better after sleeping on them than after the same time awake, and deep and REM sleep both play a part.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep also aids problem-solving: people are more likely to spot hidden patterns after a night's rest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why spaced learning beats an all-night cram.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep may also be cleanup time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2013 study in mice found the brain's \"glymphatic\" system flushes fluid through brain tissue far more actively during sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This clears waste, including proteins linked to Alzheimer's.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How it applies to humans is still being studied, but it may help explain why chronic poor sleep is linked to cognitive decline.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your clock and caffeine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A master clock in your brain, the suprachiasmatic nucleus, runs a roughly 24-hour circadian rhythm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It controls sleepiness, body temperature and hormones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light is its main timekeeper: morning daylight starts the day, and as evening falls, melatonin rises to prepare you for sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bright screens late at night can delay that signal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jet lag and shift work are hard because they force you out of sync with this clock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile, a chemical called adenosine builds \"sleep pressure\" while you're awake.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Caffeine blocks it, masking tiredness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But caffeine has a half-life of about five hours, so half of a 3 pm coffee is still in you at 8 pm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even if you fall asleep, it can reduce deep sleep, so many experts suggest no caffeine within 8 hours of bed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much you need.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most adults need 7 to 9 hours a night, and teenagers need 8 to 10.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Very few people genuinely thrive on less than 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regularly falling short is linked to poorer concentration, mood and immunity, weight gain, and higher risks of heart disease and diabetes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's dangerous on the road too: being awake for 17 hours affects driving about as much as a blood alcohol level of 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "05.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surveys suggest many Australians regularly don't get enough.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleeping better.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consistency matters most: go to bed and wake at similar times every day, weekends included.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get daylight in the morning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep your bedroom cool, dark and quiet, and use your bed mainly for sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the hour before bed, dim the lights and follow a wind-down routine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Limit caffeine later in the day, and alcohol at night, which may help you nod off but fragments sleep later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you regularly struggle to sleep or snore heavily, see a doctor: conditions like sleep apnoea are common and treatable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sleep is active maintenance, running in ~90-minute cycles of light, deep and REM sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What makes the brain's energy use remarkable?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It uses about 20% of the body's energy at about 2% of its weight.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which of these is part of the body's first line of defence?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Skin, mucus and stomach acid.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why isn't sleep \"wasted time\"?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It's when your body repairs, regulates hormones and locks in memories.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

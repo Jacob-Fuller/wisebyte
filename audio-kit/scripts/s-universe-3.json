@@ -1,0 +1,941 @@
+{
+ "id": "s-universe-3",
+ "title": "The Universe · Episode 3",
+ "chapters": [
+  "How we measure the universe",
+  "Dark matter and dark energy",
+  "Exoplanets: worlds beyond the Sun"
+ ],
+ "units": [
+  {
+   "t": "The Universe. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How we measure the universe, Dark matter and dark energy and Exoplanets: worlds beyond the Sun.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How we measure the universe.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "No one has ever stretched a tape measure to a star, yet we know distances across billions of light-years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The trick is a ladder of clever steps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How far is far.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light covers about 300,000 kilometres every second.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even so, sunlight takes about eight minutes to reach us, and light from Proxima Centauri, the nearest star beyond the Sun, takes over four years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So astronomers use the light-year: the distance light travels in a year, about 9.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 trillion kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a distance, not a time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That has a fascinating consequence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look at a star a thousand light-years away and you see light that left it a thousand years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looking further means looking back in time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single method works for everything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronomers built a chain of techniques, each checked against the last, called the cosmic distance ladder.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Echoes and parallax.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first rung is our own neighbourhood.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing the speed of light, we can bounce signals off objects and time the echo.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Radar off Venus, Mars and asteroids fixes the solar system's scale; the Earth to Sun distance, the astronomical unit, is about 150 million kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lasers fired at reflectors left by Apollo astronauts give the Moon's distance to within millimetres, and show it drifting away a few centimetres a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next comes parallax.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold a thumb at arm's length and look with one eye, then the other: it seems to jump against the background.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers use two positions of Earth, six months apart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nearby star shifts slightly against distant ones, and geometry turns that shift into a distance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Friedrich Bessel first managed it in 1838; the Gaia spacecraft has since measured over a billion stars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leavitt and Hubble.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parallax only works nearby.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beyond it, astronomers need standard candles: objects of known true brightness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1900s Henrietta Swan Leavitt of Harvard Observatory studied the Small Magellanic Cloud, visible from Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She found that Cepheid variables, stars that brighten and dim rhythmically, follow a pattern: the slower the pulse, the brighter the star.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a Cepheid's rhythm reveals its distance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1920s Edwin Hubble used this to settle whether spiral nebulae lay inside the Milky Way.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cepheids in Andromeda showed it was a separate galaxy, about 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million light-years away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The known universe grew from one galaxy to billions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exploding yardsticks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cepheids are not bright enough to see in very distant galaxies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For those, astronomers use Type Ia supernovae.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are thought to occur when a white dwarf, the dense remnant of a star like the Sun, is pushed over a critical limit and blows apart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because they explode in a fairly consistent way, their peak brightness can be worked out.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That makes them standard candles visible across billions of light-years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1998 two teams used them to discover that the universe's expansion is speeding up, not slowing down.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One team was led by Brian Schmidt, working at the Australian National University's Mount Stromlo Observatory near Canberra.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He shared the 2011 Nobel Prize in Physics with Saul Perlmutter and Adam Riess.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Redshift and a puzzle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the top of the ladder is redshift.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the universe expands, light is stretched to longer, redder wavelengths.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The further away a galaxy is, the faster it recedes and the redder its light, a relationship known as Hubble's law.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once the ladder is calibrated, redshift tells astronomers roughly how far away a galaxy is.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But there is a puzzle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Measuring today's expansion rate with the ladder of Cepheids and supernovae gives a noticeably higher answer than calculating it from the faint afterglow of the Big Bang, the cosmic microwave background.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This mismatch, called the Hubble tension, has persisted as measurements have improved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It might be a subtle error somewhere, or a sign that our picture of the universe is missing something.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Astronomers measure space in light-years, the distance light travels in a year, using a chain of methods called the cosmic distance ladder.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Dark matter and dark energy.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Everything we have ever seen, every star, planet and person, makes up only about 5 percent of the universe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rest is a mystery with a name but no explanation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The missing mass.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1933 Swiss astronomer Fritz Zwicky measured the speeds of galaxies in the Coma Cluster.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They moved so fast that the cluster should have flown apart, unless it held far more mass than its light suggested.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called the hidden material 'dunkle Materie', German for dark matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His estimate was far too large, since distances were badly underestimated then, but the puzzle was real.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1970s Vera Rubin and Kent Ford measured spiral galaxies such as Andromeda.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a solar system, outer planets orbit slowly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In these galaxies the outer stars did not slow down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The simplest explanation was a vast, invisible halo of extra mass around each galaxy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing the invisible.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dark matter gives off no light, but it has gravity, and gravity bends light.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Massive galaxy clusters act as giant warped lenses, stretching the images of more distant galaxies into arcs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By measuring that distortion, astronomers can map where the mass actually is.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bullet Cluster is two galaxy clusters that collided.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2006 researchers showed that most of the ordinary matter, hot gas, had been slowed and piled up in the middle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of the mass, revealed by lensing, had passed straight through.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was widely seen as strong evidence that dark matter is a real substance, separate from ordinary matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What could it be.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dark matter is not simply dim stars, dust or black holes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Observations rule out ordinary matter making up more than a small fraction of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most physicists think it is a particle outside the standard model of particle physics, one that interacts with almost nothing except through gravity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Candidates include weakly interacting massive particles, nicknamed WIMPs, and extremely light particles called axions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experiments deep underground, shielded from cosmic rays, wait for a dark matter particle to bump into an atom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's Stawell Underground Physics Laboratory, in a Victorian gold mine, hosts one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So far there is no confirmed detection, and a minority of scientists suspect gravity itself needs modifying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A speeding-up universe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronomers have known since the 1920s that the universe is expanding.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The natural assumption was that gravity would slow it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1990s two rival teams set out to measure the slowdown using Type Ia supernovae, exploding white dwarfs with a predictable peak brightness that work as cosmic distance markers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saul Perlmutter led one team in the United States.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brian Schmidt led the other, the High-Z Supernova Search Team, at the Australian National University's Mount Stromlo Observatory, with Adam Riess making key analyses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1998 both found the same startling result: distant supernovae were fainter than expected, so the expansion is accelerating.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The three shared the 2011 Nobel Prize in Physics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dark energy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Something seems to be pushing space apart.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicists call it dark energy, a name for the effect rather than an explanation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The leading idea is that empty space carries a small, constant energy, like the cosmological constant Einstein added to his equations and later abandoned.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet quantum theory predicts a value wildly larger than observed, one of science's biggest mismatches.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The universe's budget appears to be about 68 percent dark energy, 27 percent dark matter and only 5 percent ordinary matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Recent results from the Dark Energy Spectroscopic Instrument in Arizona hint that dark energy may be weakening, but they are not yet conclusive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We can measure the universe precisely and still not say what most of it is.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Galaxies spin and cluster as if they hold far more mass than their visible stars and gas supply.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Exoplanets: worlds beyond the Sun.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Thirty-odd years ago we knew of no planets around other stars like the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now we know of more than 6,000, and some might be able to hold liquid water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From zero to thousands.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An exoplanet is any planet orbiting a star other than the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For centuries people wondered whether they existed, but they were too faint and too close to their bright stars to see.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1992 astronomers confirmed planets orbiting a pulsar, the dead core of an exploded star.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1995 Swiss astronomers Michel Mayor and Didier Queloz found 51 Pegasi b around a Sun-like star, earning the 2019 Nobel Prize in Physics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a surprise: a giant like Jupiter circling its star every four days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 2025 the count of confirmed exoplanets passed 6,000, and it keeps climbing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Transit and wobble.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most known exoplanets were found by the transit method.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a planet crosses its star, it blocks a tiny fraction of the light: about 1% for a Jupiter-sized planet, and one part in 10,000 for an Earth-sized one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dip reveals the planet's size, and the time between dips gives its orbit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only planets aligned edge-on to us transit, so many more go unseen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers use statistics to account for them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wobble method works because a planet and its star circle a shared centre of mass.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The star moves slightly towards us, then away, stretching and squeezing its light by the Doppler effect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This found 51 Pegasi b and hundreds more, and it gives the planet's mass.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combined with a transit, mass reveals density: rocky, watery or gassy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kepler, TESS and Webb.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NASA's Kepler space telescope, launched in 2009, stared at one patch of sky containing about 150,000 stars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 2018 it had found more than 2,600 confirmed planets, and showed that planets are common, likely outnumbering stars in our galaxy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its successor, TESS, launched in 2018, scans most of the sky for planets around bright, nearby stars that are easier to study.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The James Webb Space Telescope, launched in 2021, can analyse starlight filtering through a planet's atmosphere.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2022 it clearly detected carbon dioxide on a hot giant called WASP-39b.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bigger telescopes are coming, including the Giant Magellan Telescope, with Australian partners.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Citizen science projects such as Planet Hunters also let volunteers spot transits in real data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strange new worlds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Exoplanets have overturned expectations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hot Jupiters are gas giants orbiting so close to their stars that their years last only days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kepler-16b orbits two stars, so it would have two suns in its sky, like Tatooine in Star Wars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most common planets found so far are super-Earths and sub-Neptunes, sizes between Earth and Neptune that our solar system lacks entirely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The TRAPPIST-1 system, about 40 light-years away, has seven roughly Earth-sized planets, some in the habitable zone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The nearest known exoplanet, Proxima Centauri b, circles the closest star to the Sun, 4.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 light-years away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, at the speed of the Voyager probes it would take over 70,000 years to reach.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Habitable zone, and life.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Life as we know it needs liquid water, so astronomers look in a star's habitable zone: not too hot, not too cold for surface water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around a dim red dwarf the zone sits very close in; around a bright star, far out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a starting point, not a verdict.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venus lies near the Sun's inner edge but is scorching, and Mars near the outer edge is frozen and dry.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To search for life, astronomers study atmospheres for biosignatures, such as oxygen alongside methane, which shouldn't linger together unless replenished.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Claims need extreme care.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2025 a team reported a possible hint of a life-linked sulphur compound on K2-18b, but other scientists found the evidence weak.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So far, there is no confirmed evidence of life beyond Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The first exoplanets were confirmed in the 1990s, and more than 6,000 are known today.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does it mean to see a star that is a thousand light-years away?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. You see light that left it a thousand years ago.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Vera Rubin find in spiral galaxies?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Outer stars orbit nearly as fast as inner ones, implying extra unseen mass.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What was surprising about 51 Pegasi b, the first planet found around a Sun-like star?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A giant planet circling in four days.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

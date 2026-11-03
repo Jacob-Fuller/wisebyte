@@ -1,0 +1,1254 @@
+{
+ "id": "s-critical-thinking-2",
+ "title": "Critical Thinking · Episode 2",
+ "chapters": [
+  "Logical fallacies",
+  "Confirmation bias: the puzzle almost everyone gets wrong",
+  "Probability for everyday life",
+  "Small samples, big surprises: the law of small numbers"
+ ],
+ "units": [
+  {
+   "t": "Critical Thinking. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Logical fallacies, Confirmation bias: the puzzle almost everyone gets wrong, Probability for everyday life and Small samples, big surprises: the law of small numbers.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Logical fallacies.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The tricks that make weak arguments sound strong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You'll hear at least three of these in the next news bulletin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arguments with a flaw.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A logical fallacy is a flaw in reasoning that makes an argument seem more convincing than it is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fallacies appear in politics, advertising, social media and family dinners.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes they're deliberate manipulation; often they're honest mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Naming them helps you think clearly, argue fairly and resist manipulation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An ad hominem attacks the person instead of the argument: 'Why listen to her views on the economy?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She's never run a business.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether she has run one doesn't decide if she's right.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A related trick is whataboutism, answering criticism by pointing to someone else's faults, which dodges the actual issue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Straw men and false choices.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A straw man misrepresents someone's position as weaker or more extreme, then knocks that version down.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Someone says, 'We should reduce sugar in school canteens,' and the reply is, 'So you want to ban birthday cake?'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fairer opposite is the steel man: restating the other side's argument in its strongest form before responding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A false dilemma presents only two options when more exist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'You're either with us or against us.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Either we build this road or the town dies.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real life usually offers a range of options and trade-offs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When someone gives you just two choices, especially when one is obviously bad, ask what has been left out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slopes, crowds and experts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A slippery slope claims one small step will inevitably end in disaster, without showing why each step follows.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'If students use phones for research, soon they'll be on TikTok all lesson.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some chains are real, but each link needs evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bandwagon fallacy says something is true or good because many people believe it: 'Millions use this remedy.'",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Popularity isn't evidence, and plenty of widely held beliefs have been wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An appeal to authority is reasonable only when the person is a genuine expert in the relevant field and reflects expert consensus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A famous actor's opinion on vaccines, or a single doctor contradicting thousands of others, isn't strong evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going in circles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Circular reasoning assumes what it's trying to prove: 'This news site is trustworthy because it says it only reports the truth.'",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The conclusion is hidden inside the premise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hasty generalisation draws a broad conclusion from too little evidence: 'I got a rude driver twice, so all rideshare drivers are rude.'",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both are easy to fall into when we already believe the conclusion, which is exactly when we should check our own reasoning most carefully.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use them wisely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pointing out a fallacy doesn't prove the conclusion is false.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It only shows that this particular argument for it is weak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone can argue badly for something true.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Assuming a claim is false because it was argued badly is itself an error, sometimes called the fallacy fallacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And shouting 'Straw man' in an argument rarely changes minds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real value of knowing fallacies is checking your own reasoning and asking better questions of others.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: A logical fallacy is a reasoning flaw that makes an argument seem stronger than it is, and ad hominem attacks the person instead of the argument.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Confirmation bias: the puzzle almost everyone gets wrong.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Three numbers, one hidden rule, and a mistake that reveals how we all hunt for proof we're right rather than for the truth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 2-4-6 puzzle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1960 the British psychologist Peter Wason, at University College London, gave volunteers three numbers: 2, 4, 6.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sequence followed a rule he had in mind, and their job was to discover it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They could propose their own sets of three numbers, and he would say whether each fitted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people quickly formed a theory, such as ‘even numbers going up by two’, and tested it with sets like 8, 10, 12.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every one earned a yes, so they announced their rule, and many were told they were wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real rule was simply ‘any three numbers in increasing order’.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tests like 8, 10, 12 fit both the theory and the real rule, so they could never reveal the mistake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who succeeded tried sequences their theory said should fail, such as 1, 2, 3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four cards on a table.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wason's most famous puzzle followed in 1966.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Four cards each have a letter on one side and a number on the other.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can see E, K, 4 and 7.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is: ‘If a card has a vowel on one side, it has an even number on the other.’",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which cards must you turn over to check whether the rule is being broken?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people pick E, and often 4 as well.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "E is right.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But 4 tells you nothing, because the rule says nothing about what must be behind an even number.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The card you need is 7: if a vowel is hiding behind it, the rule is broken.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many studies, only around one person in ten chooses correctly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easy when it's about cheating.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's the strange part.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers later rewrote the puzzle in familiar terms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imagine you are checking a bar where the rule is: ‘If someone is drinking beer, they must be over 18.’",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The four cards show: drinking beer, drinking cola, age 25 and age 16.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which do you check?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people quickly pick the beer drinker and the 16-year-old, which is logically the same answer as E and 7.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies by Richard Griggs and James Cox in 1982 found that versions like this are solved far more often than the abstract one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists still debate why.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some argue our minds are tuned to spot social cheating; others say familiar situations simply make it obvious which cases could break the rule.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confirmation bias everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wason's puzzles became classic demonstrations of confirmation bias: the tendency to search for, interpret and remember information in ways that support what we already think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It shows up far beyond the laboratory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A detective who settles on a suspect early may give extra weight to clues that point their way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone convinced a colleague dislikes them reads every short email as proof.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Investors can seek out news that flatters the shares they already own.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Online, search engines and feeds make it easy to find something that agrees with almost any belief.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bias isn't stupidity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holding on to a working theory saves effort, and often the theory is right.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The danger is that we rarely notice when it isn't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try to break your idea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The lesson from Wason is practical.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you have a theory, ask: what would I expect to see if I were wrong, and have I looked for it?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists build this into their method by designing experiments that could fail.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can do a small version in daily life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before a big purchase, read the worst reviews, not just the best.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before deciding someone is untrustworthy, list the evidence that points the other way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1984 study, Charles Lord and colleagues found that asking people to deliberately consider the opposite reduced biased judgements more effectively than simply telling them to be fair and unbiased.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Testing your ideas like this feels uncomfortable, but it's the quickest route to the truth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most people test a rule only with examples that fit their theory, so they never see it fail.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Probability for everyday life.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why the pokies always win, why a streak of heads means nothing, and how to think clearly about risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chance has no memory.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Probability measures how likely something is, from 0, impossible, to 1, certain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 50% chance is 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5; a 1 in 4 chance is 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 70% chance of rain means that on days with similar conditions, it rained about 70% of the time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fair coin lands heads five times in a row.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What are the odds of heads next?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still 50%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The coin has no memory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Believing tails is now 'due' is the gambler's fallacy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1913 at the Monte Carlo casino, a roulette ball landed on black 26 times in a row, and gamblers lost millions betting that red must come next.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same applies to lotto numbers, poker machine spins and the sex of a family's next baby.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The house always wins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Expected value is the average result if you repeated something many times.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a game costs $1 and gives a 1 in 10 chance of winning $5, you'd spend $10 to win $5 about once: an expected loss of 50 cents a play.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Casino games, poker machines and lotteries are designed this way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NSW poker machines must return at least 85% of money wagered over time, so players lose up to about 15% of what they wager on average.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The odds of winning division one in Australia's Powerball are about 1 in 134 million.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Buying one game a week, you'd expect to wait around 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 million years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ticket is entertainment, not a financial plan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coincidences are common.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How many people need to be in a room for a better-than-even chance that two share a birthday?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Just 23.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With 70 people, it's over 99%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The birthday paradox surprises us because we think about our own birthday matching someone's, rather than any pair matching.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With so many possible pairs, coincidences become likely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a country of 27 million people, a 'one in a million' event happens to around 27 people.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unlikely things happen all the time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They just don't happen to any particular person often.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conditional probability.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Probabilities change with information.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The chance that a randomly chosen person is over 190 cm is small.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chance that a professional basketball player is over 190 cm is huge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is conditional probability, and confusing its direction causes serious errors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1999, English solicitor Sally Clark was convicted of murdering her two baby sons, helped by an expert's claim that two cot deaths in one family had a 1 in 73 million chance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That figure was flawed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also answered the wrong question, because double murder is itself extremely rare.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her conviction was overturned in 2003.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking about risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our sense of risk is shaped by emotion and familiarity more than numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Risks we choose and control, like driving, feel smaller than imposed ones, like a new phone tower or a food additive, even when the numbers say otherwise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia you're vastly more likely to die in a car crash than from a shark or snake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask for actual numbers: out of how many people, over what time, compared with what?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think in probabilities, not certainties: 'maybe a 70% chance this works' encourages you to plan for the other 30%.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Weigh likelihood and impact.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insure against unlikely but catastrophic losses like a house fire, not minor ones like a scratched phone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Independent events have no memory, so a streak never makes the opposite result 'due'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Small samples, big surprises: the law of small numbers.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The places with the lowest cancer rates and the highest ones share the same surprising feature.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why will change how you read every ranking and review.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A puzzle about cancer maps.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a map of the United States showing kidney cancer rates by county.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The counties with the lowest rates are mostly rural and sparsely populated.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fresh air, clean water, active lives?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now look at the counties with the highest rates.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are also mostly rural and sparsely populated.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rural life can't be both protective and harmful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The statistician Howard Wainer, and later Daniel Kahneman in Thinking, Fast and Slow, explained why: small counties have small populations, and small numbers bounce around far more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toss a fair coin four times and all heads happens about one time in sixteen.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toss it 400 times and it is practically impossible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small samples crowd both the top and the bottom of any ranking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hospital question.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1970s Amos Tversky and Daniel Kahneman posed a question.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A town has two hospitals.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the larger one about 45 babies are born each day, and in the smaller one about 15.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly half of all babies are boys, but the exact share varies from day to day.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over a year, each hospital records the days when more than 60 per cent of the babies born were boys.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which hospital recorded more such days?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people said about the same.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right answer is the smaller hospital, because with only 15 births a day, lopsided results are much more common.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In an earlier paper titled ‘Belief in the law of small numbers’, they had shown that even research psychologists trusted small samples too much.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most dangerous equation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The maths traces back to the 1700s and the French-born mathematician Abraham de Moivre.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In modern terms, the typical wobble in an average shrinks in proportion to the square root of the number of things being averaged.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That has a sobering consequence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To halve the uncertainty in an estimate, you don't need twice as much data; you need four times as much.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To cut it to a tenth, you need a hundred times more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Howard Wainer has called this ‘the most dangerous equation’, not because it's complicated, but because ignoring it has led to so many costly mistakes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It explains why tiny trials, small surveys and short track records can be so misleading.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The small schools mistake.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wainer's favourite cautionary tale involves American education.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the late 1990s, reformers noticed that small schools were overrepresented among the top performers on test results.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Major funders, including the Bill and Melinda Gates Foundation, invested heavily in creating smaller schools and breaking up big ones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But as Wainer and colleagues pointed out, small schools were also overrepresented among the worst performers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their results were simply more variable, because each year's scores came from fewer students.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evaluations of the small-schools push produced mixed results, and the Gates Foundation later shifted its education strategy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the other merits of smaller schools, the striking rankings had been at least partly an illusion created by sample size.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading rankings wisely.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once you know this, you'll see it everywhere.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A new café with five reviews averaging five stars may be no better than an established one averaging 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 from 2,000 reviews.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A footballer who scores in each of their first three games isn't necessarily a star.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small study reporting a dramatic effect is more likely to be a fluke than a large study reporting a modest one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A useful habit is to mentally pull extreme results from small samples back towards the average until more evidence comes in.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Statisticians have formal versions of this idea, sometimes called shrinkage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And when you hear that a small town is the best or worst place for something, your first question should be: how many people live there?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The places that look healthiest and unhealthiest are often the least populated, because small samples swing to extremes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why is 'She's never run a business, so ignore her economic views' a fallacy?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It targets the person, not the argument.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did testing a set like 8, 10, 12 fail to help people in the 2-4-6 task?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It fitted both their theory and the true rule.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. A fair coin has landed heads five times in a row. What is the chance of heads next?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Still 50%.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why do US counties with the lowest and the highest kidney cancer rates often share small populations?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Small populations swing to extremes by chance.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

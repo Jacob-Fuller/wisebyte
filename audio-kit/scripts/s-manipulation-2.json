@@ -1,0 +1,1001 @@
+{
+ "id": "s-manipulation-2",
+ "title": "Spotting Manipulation · Episode 2",
+ "chapters": [
+  "The illusory truth effect: why repetition feels like proof",
+  "Cold reading: how psychics seem to know you",
+  "How scams work, and how to beat them"
+ ],
+ "units": [
+  {
+   "t": "Spotting Manipulation. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The illusory truth effect: why repetition feels like proof, Cold reading: how psychics seem to know you and How scams work, and how to beat them.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The illusory truth effect: why repetition feels like proof.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Hear something often enough and it starts to feel true, even when you know better.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's why your brain falls for it, and how to fight back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repetition feels true.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1977 psychologists Lynn Hasher, David Goldstein and Thomas Toppino had students rate trivia statements for truth over three sessions, two weeks apart.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some statements returned every session; others were new each time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The repeated ones were rated more likely to be true each time, whether they were true or not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing about the evidence had changed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only familiarity had.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The leading explanation is processing fluency: a statement you have met before is easier to read and understand, and the brain treats that ease as a sign of accuracy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is often a decent clue, but fluency can come from almost anywhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easier-to-read colours, and rhymes such as ‘woes unite foes’, also make statements seem truer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing better isn't enough.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is tempting to think this only works on topics you know nothing about.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2015 study led by Lisa Fazio, participants read statements such as ‘A sari is the name of the short pleated skirt worn by Scots’, which contradicts something most of them knew: that skirt is a kilt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, reading a false statement more than once made people rate it as somewhat more true than they otherwise would.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowledge helped, but it didn't switch the effect off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People often failed to bring what they knew to mind and relied on the feeling of familiarity instead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest jump in belief tends to come from the second exposure, with smaller gains after that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fake news and repetition.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2018 Gordon Pennycook, Tyrone Cannon and David Rand showed people real fake-news headlines styled as they would appear in a feed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Headlines people had seen before were rated as more accurate than new ones, after just one earlier exposure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strikingly, the effect still appeared when the headlines had carried a warning label saying they were disputed by fact-checkers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This matters because online platforms are repetition machines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A claim can reach you through a friend's post, a meme, a video and a comment thread in the same afternoon, and each one makes it feel a little more familiar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Advertisers and propagandists have understood the power of repetition for a very long time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trouble with myth-busting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Correcting a falsehood is a headache.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A typical myth-busting article repeats the myth, sometimes in large type, then explains why it's wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Readers may later remember the familiar claim and forget the correction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers once worried that corrections might routinely ‘backfire’ and strengthen false beliefs, but later work found this is rare; corrections generally help.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, how you correct matters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A widely recommended approach, sometimes called a ‘truth sandwich’, starts with the accurate fact, mentions the myth once and clearly labels it false, explains why it's wrong, then finishes by repeating the truth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That way the fact gets the repetition and becomes the familiar one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defending your own mind.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can't stop repetition from affecting you, but you can make it work less well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Notice the feeling of ‘I've heard that before’ and treat it as a cue, not a conclusion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask where you heard it, whether the source was reliable, and whether you have ever seen actual evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some studies suggest that prompting people to focus on accuracy, or to think about how they know a claim is true, reduces the effect, especially for claims they have the knowledge to check.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also helps to be careful about what you repeat yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every time you pass on a dubious claim, even as a joke, you add one more exposure to someone else's sense that it's true.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hearing a claim again makes it feel truer, because familiar ideas are easier for the brain to process.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Cold reading: how psychics seem to know you.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "'You have a great deal of unused potential.'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sounds just like you, doesn't it?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Discover the simple tricks that make strangers seem to read your mind.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A horoscope for everyone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1948, psychologist Bertram Forer gave his students a personality test, then handed each a supposedly personal analysis.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On average they rated it above four out of five for accuracy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then came the twist: every student had received exactly the same text, assembled largely from astrology material.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It included lines such as 'you have a great need for other people to like and admire you' and 'at times you are extroverted, affable, sociable, while at other times you are introverted, wary, reserved'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This tendency to accept general statements as uniquely true of ourselves is called the Forer effect, or the Barnum effect, after the showman P.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "T.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Barnum.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later studies have repeated it many times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Barnum statements.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look closely at a typical 'reading' and you find statements that are nearly impossible to get wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'You can be your own worst critic.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'You have a secret you haven't told many people.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Though you seem confident, you sometimes doubt yourself.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each sounds insightful, but try thinking of one adult it doesn't describe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some cover both sides at once, a trick British mentalist Ian Rowland called the 'rainbow ruse': 'You are generally easygoing, but when someone crosses a line, you can be fierce.'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whatever you are like, you hear yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add flattery, such as hidden talents or a big heart, and most people agree.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Agreement then feels like proof the reader is gifted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fishing and shotgunning.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a medium on stage: 'I'm getting an older man, a father figure, maybe a grandfather or uncle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There's a name with a J, or perhaps an M.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a room of two hundred, almost everyone has lost an older male relative, and many know a John, James, Mary or Michael.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This scattershot approach is called shotgunning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When someone nods, the medium narrows in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Readers also fish with questions dressed as statements, such as 'Who is the person with the heart problem?'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You supply the answer and may later recall the medium telling you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Skilled readers watch faces, posture, clothing, jewellery and accents.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It feels like revelation, but you do most of the work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remembered hits, hot reading.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After a reading, people say the psychic knew things no stranger could.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet when researchers record sessions, they find plenty of wrong guesses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We remember the astonishing hit and forget the dozen misses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Misses get rescued too: 'Keep that name, it will make sense later,' or the water sensed was a bath, a beach holiday or a leaky tap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is confirmation bias with flexible meanings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hot reading means gathering real information beforehand.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today a glance at social media can reveal someone's pets, hometown and children.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1980s, sceptic James Randi showed that faith healer Peter Popoff was receiving details about audience members through a hidden earpiece, fed by his wife backstage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a reader knows something impossible, ask first whether the information was available.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scams and testing the claim.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A horoscope or tarot reading can be harmless fun.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The danger comes when the same techniques win trust and then money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some scams begin with a 'psychic' who senses a curse and offers to lift it for a fee, then another fee.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grieving people are especially vulnerable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you think you have been targeted in Australia, Scamwatch, run by the ACCC, explains how to report it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, so seek proper advice for your situation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To test psychic powers, the reader shouldn't see or hear the person, know anything in advance, or get feedback.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then compare accuracy with chance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Such tests have generally not supported psychic claims, and James Randi's foundation long offered a large prize that was never claimed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask: what could they have seen, heard, guessed or looked up?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: We accept vague, general statements as uniquely true of ourselves, a tendency called the Forer or Barnum effect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How scams work, and how to beat them.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australians lose billions to scams.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scammers aren't targeting the gullible; they're targeting everyone, using the same few tricks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone can be scammed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians reported losing about $2.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "18 billion to scams in 2025, and many losses go unreported.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scams are not only aimed at the elderly or naive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Young adults are often targeted too, especially through social media, job and investment scams.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scammers succeed not because victims are foolish, but because they exploit fear, urgency, greed, love and the desire to help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tell-tale signs are shared.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You are rushed: act now or your account will be closed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You are asked to keep it secret.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You are asked to pay in unusual ways, such as gift cards, cryptocurrency or a 'safe account'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You are asked for passwords, one-time codes or remote access.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deal seems too good to be true.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any one of these should make you stop.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Impersonation and access.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most scams start with impersonation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scammers pretend to be your bank, the ATO, myGov, Australia Post, a toll company or the police.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Texts can even appear in the same thread as genuine messages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A new register means texts from unregistered sender names may now be marked 'Unverified', but scammers keep adapting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 'Hi Mum' scam, someone claims to be your child on a new number and urgently needs money.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In remote access scams, a caller says your computer or account is hacked and asks you to install software so they can 'fix' it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 'safe account' scams, a fake bank officer says your money is at risk and must be moved to an account they control.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No genuine bank will ask for either.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hang up and call the organisation using details you find yourself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money and romance traps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Investment scams cause the biggest losses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They start with fake ads featuring celebrities, or a friendly stranger on social media or a dating app who shares their trading 'success'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victims see professional platforms with fake profits, are encouraged to invest more, then cannot withdraw.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warning signs are guaranteed high returns, pressure to invest quickly and unlicensed operators.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check ASIC's professional register for an Australian Financial Services licence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Romance scammers build trust over weeks, often claiming to work overseas or on oil rigs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They avoid video calls, then ask for money.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Job scams offer easy money for simple online tasks, then ask you to deposit money to 'unlock' earnings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never send money to someone you have only met online, and a real job never asks you to pay to work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stop. Check. Protect.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's National Anti-Scam Centre recommends three steps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stop: do not give money or information if you are unsure.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scammers rely on rushing you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check: ask yourself whether the message could be fake, and contact the organisation using details from its official website or app, not the message.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talk to someone you trust.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second opinion often breaks the spell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protect: act quickly if something feels wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use two-factor authentication and strong, unique passwords to reduce the damage if details leak.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it happens to you.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have been scammed, act fast and do not be embarrassed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It happens to smart people every day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contact your bank or card provider immediately; they may be able to stop or recover payments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change compromised passwords.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Report the scam to Scamwatch, scamwatch.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, and cybercrime to ReportCyber, cyber.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If your identity documents were exposed, contact IDCARE, 1800 595 160, a free national support service.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beware of 'recovery' scammers who contact victims promising to get their money back for a fee.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Scams succeed by exploiting emotions like fear, urgency and greed, and the red flags are the same across almost all of them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does a repeated statement tend to feel more true?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Familiar claims feel easy to process, so seem true.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Forer's students discover about their personality analyses?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Every student had received exactly the same text.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do scams succeed against ordinary, intelligent people?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They exploit emotions like fear and urgency.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

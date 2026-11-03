@@ -1,0 +1,1224 @@
+{
+ "id": "s-philosophy-3",
+ "title": "Philosophy: Big Ideas · Episode 3",
+ "chapters": [
+  "Hume's problem: why trust that the sun will rise",
+  "Do we have free will",
+  "Nietzsche: the most misunderstood philosopher",
+  "Existentialism"
+ ],
+ "units": [
+  {
+   "t": "Philosophy: Big Ideas. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Hume's problem: why trust that the sun will rise, Do we have free will, Nietzsche: the most misunderstood philosopher and Existentialism.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Hume's problem: why trust that the sun will rise.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You are sure the sun will rise tomorrow.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But can you prove it?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "David Hume's simple question about learning from experience has troubled philosophers and scientists for nearly three centuries, and a black swan from Western Australia became its mascot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question nobody asked.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1739 a young Scottish philosopher, David Hume, published A Treatise of Human Nature, which he later said 'fell dead-born from the press'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In it, and in a 1748 book, he asked a question that seems almost silly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why do we believe the sun will rise tomorrow?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because it always has.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But we have only observed the past.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our confidence rests on an assumption that nature will keep behaving as it has.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are two kinds of reasoning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In deduction, true premises guarantee the conclusion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Induction moves from observed cases to rules or predictions, so the conclusion could still be false.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Science, medicine and crossing the road depend on it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hume did not say stop using it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He asked whether we can justify it without assuming what we are trying to prove.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The circle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hume's argument runs roughly like this.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A justification for induction must be either a deductive proof or an argument from experience.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It cannot be deductive, because there is no contradiction in imagining the future being different: you can coherently picture the sun failing to rise, or bread ceasing to nourish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So it must come from experience.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But that argument would be: induction has worked in the past, so it will work in the future.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is itself inductive, so it assumes the very thing in question.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hume concluded that our expectations come not from reason but from custom or habit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After seeing one event follow another many times, the mind simply comes to expect it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This, he thought, is how human nature works.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is now called the problem of induction, and it remains famously unsolved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chickens and black swans.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bertrand Russell gave a grim illustration in 1912.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A chicken is fed every day by the farmer and comes to expect food whenever he appears.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One day, the farmer wrings its neck instead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its past experience was real, but it misled the chicken completely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A more cheerful example comes from Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For centuries Europeans used 'black swan' for something impossible, because every swan they had seen was white.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1697 the Dutch explorer Willem de Vlamingh's expedition recorded black swans on a river in Western Australia, which they named the Swan River.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rule supported by countless observations was overturned by one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The black swan is now a common emblem of the limits of induction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Popper and grue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The philosopher Karl Popper, in work first published in 1934, agreed that induction cannot be justified but argued science does not need it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists do not prove theories by piling up confirming cases.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They propose bold conjectures and try to refute them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One genuine black swan falsifies 'all swans are white', and that is deduction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surviving theories are simply the best we have so far.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics reply that we still rely on tested theories to predict the future, which brings induction back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1955 Nelson Goodman defined 'grue' as green if first observed before some future date, and blue otherwise.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every emerald observed so far is both green and grue, so the evidence seems to support opposite predictions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We should project green, but why?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hard part is knowing which patterns count.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living with uncertainty.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many responses to Hume have been tried.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some use probability and Bayesian reasoning to show how evidence should raise or lower our confidence, though critics say these methods still need assumptions about the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others take a pragmatic line: if any method can predict the future, induction will, so it is our best bet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some argue that demanding a non-circular justification is unreasonable, since the most basic forms of reasoning cannot all be proved without using themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Immanuel Kant said that reading Hume woke him from his 'dogmatic slumber'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whatever view you take, Hume's lesson is practical: hold general beliefs with confidence proportional to the evidence, and stay open to the black swan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hume asked what justifies our expectation that the future will resemble the past, a question about induction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Do we have free will.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "If every event has a cause, including every thought in your brain, are your choices really yours?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of philosophy's oldest puzzles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The puzzle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It feels obvious that you choose freely: this morning you could have had tea instead of coffee.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But science describes the world as a chain of causes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain is physical matter following physical laws, shaped by genes, upbringing and experiences you didn't choose.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If every decision was caused by earlier events, stretching back before you were born, in what sense could you have done otherwise?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the problem of free will and determinism.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It matters because praise, blame, pride, guilt and justice all seem to assume that people could have chosen differently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Determinism or libertarianism.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hard determinists say every choice is fully caused by earlier events, so free will in the deep sense doesn't exist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The feeling of choosing is real, but produced by brain processes we don't control.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1814 Pierre-Simon Laplace imagined an intellect that knew every particle's position and could predict the entire future.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neuroscientist Robert Sapolsky, in his 2023 book Determined, argues this should make us rethink blame and favour prevention and rehabilitation over retribution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philosophical 'libertarians', nothing to do with the political kind, hold that some choices aren't fully determined and we originate our actions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some point to quantum randomness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics reply that randomness gives no control: a choice caused by a random neuron event isn't more 'yours'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acting on your reasons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most professional philosophers are compatibilists: in the large 2020 PhilPapers survey, a clear majority leaned that way.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They argue free will doesn't require escaping cause and effect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You act freely when you act on your own desires, reasons and values, without being forced, manipulated or compelled.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you choose coffee because you want coffee, that's free, even if your wanting was caused.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone holds a gun to your head, it isn't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "David Hume in the 1700s, and more recently the late Daniel Dennett, defended versions of this view.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ancient Stoics were early compatibilists.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chrysippus said a pushed cylinder rolls because of its own shape: events prompt us, but our response comes from our own character.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frankfurt's device.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1969 Harry Frankfurt challenged a common assumption: that you're only responsible if you could have done otherwise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a scientist secretly places a device in Jones's brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If Jones is about to decide not to vote for a certain candidate, the device will make him vote for them anyway.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But Jones decides to vote for them entirely on his own, and the device never activates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jones couldn't have done otherwise, yet he seems fully responsible, because the choice came from his own reasons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frankfurt's cases gave compatibilists a powerful argument, though debate continues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What brain science shows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1980s, Benjamin Libet asked people to flex a wrist whenever they felt like it and note when they felt the urge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A build-up of brain activity, the readiness potential, began several hundred milliseconds before people reported deciding.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some concluded the brain decides before 'we' do.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2012 study led by Aaron Schurger suggested it may partly reflect random background fluctuations instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Libet himself argued people could still 'veto' an action.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The experiments are debated, not decisive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The debate matters in practice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Courts already weigh age, mental impairment and duress.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If choices are shaped by circumstances we didn't choose, perhaps we should be more compassionate and humbler about success.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet most people think it still makes sense to hold ourselves responsible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build habits and surroundings that make good choices easier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: If every choice has prior causes, it is unclear how any choice can be free.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Nietzsche: the most misunderstood philosopher.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "He is quoted on gym walls and was claimed by the Nazis, yet he despised antisemites and warned against blind nationalism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The real Friedrich Nietzsche is stranger and more interesting than his legend.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A professor at twenty-four.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Friedrich Nietzsche was born in 1844 in Röcken, in Prussia, the son of a Lutheran pastor who died when he was four.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1869, at just twenty-four, he became professor of classical philology at the University of Basel, before completing the usual doctoral requirements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His first book, The Birth of Tragedy, appeared in 1872.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Severe headaches, eye problems and stomach troubles dogged him, and in 1879 he resigned and lived modestly in boarding houses across Europe, writing furiously.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a young man he admired the composer Richard Wagner, but grew disillusioned with his German nationalism, his Christian themes in Parsifal and the surrounding antisemitism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nietzsche repeatedly mocked nationalism and expressed contempt for antisemites.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sister who rewrote him.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In January 1889, in Turin, Nietzsche suffered a sudden mental collapse.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A famous story says it followed his embracing a horse being whipped, though that may be embellished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He never recovered, and died in Weimar in 1900, cared for by his mother and then his sister Elisabeth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elisabeth, whose husband Bernhard Förster was an antisemitic agitator, controlled his manuscripts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She edited his letters selectively and assembled The Will to Power from his notes to suit her own views.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She later welcomed the Nazis, who made selective use of phrases like the Übermensch while ignoring his contempt for antisemitism and nationalism.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the war, scholars such as Walter Kaufmann restored his reputation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nietzsche's writing does contain harsh and elitist passages, but most scholars agree he was no proto-Nazi.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eternal recurrence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of Nietzsche's most famous ideas appears in The Gay Science, published in 1882.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He imagines a demon creeping into your loneliest loneliness and telling you that you must live your life again, exactly as it has been, every pain and joy in the same order, infinitely many times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Would you curse the demon, he asks, or call it divine?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nietzsche used this as a test of how fully you affirm your life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scholars disagree about whether he meant it as a literal theory of the universe or as a thought experiment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most read it as the latter: a way of asking whether you are living in a way you would choose again and again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Love your fate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Closely linked to eternal recurrence is amor fati, Latin for love of fate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nietzsche wrote that his formula for greatness was wanting nothing to be different, not forwards, not backwards, not in all eternity, and not merely to bear what is necessary but to love it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This has much in common with Stoicism, though he criticised the Stoics on other points.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also connects to his best-known line, from Twilight of the Idols in 1888: what does not kill me makes me stronger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Out of context it sounds like a motivational slogan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nietzsche lived with chronic pain, and meant something more personal: suffering can be turned into a source of growth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond the slogans.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nietzsche's statement that God is dead was not a triumphant boast but a warning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He feared that as religious belief faded in Europe, people would lose the foundation for their values and slide into nihilism, the sense that nothing matters.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Übermensch was not a racial ideal but an image of a person who creates their own values and affirms life without outside guarantees.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He also argued that there are no facts free of perspective, a view called perspectivism.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His aphorisms, irony and exaggeration make him easy to quote and easy to misread.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading him in full, rather than on a poster, reveals a restless, searching mind wrestling with problems that still feel modern.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Nietzsche was a brilliant young scholar who broke with Wagner over nationalism and antisemitism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Existentialism.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "No script, no predetermined purpose.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Existentialists argued we're free to create meaning, and responsible for what we make of ourselves.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Existence before essence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a famous 1945 lecture in Paris, Jean-Paul Sartre summed up existentialism as 'existence precedes essence'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A paper knife has a purpose in the craftsman's mind before it is made, so its essence comes first.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans, Sartre argued, have no pre-set purpose.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We exist first, then create who we are through our choices and actions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For Sartre, an atheist, this followed from the absence of a creator.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So we're 'condemned to be free': we can't escape choosing, and even refusing to choose is a choice.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With freedom comes total responsibility, and anxiety.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many flee through 'bad faith', blaming their job, upbringing or society.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Being and Nothingness, 1943, Sartre described a café waiter whose movements are a little too perfect, as if hiding his freedom behind a role.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roots and fame.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Søren Kierkegaard, 1813 to 1855, focused on the individual facing anxiety and choice, and on a passionate commitment that reason can't justify, for him Christian faith: a 'leap of faith'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Friedrich Nietzsche, 1844 to 1900, declared in 1882 that 'God is dead', meaning belief in God was fading in Europe and leaving a crisis of values.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He feared nihilism and urged people to create their own values and affirm life, even its suffering.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the war and the occupation of France, Sartre, Simone de Beauvoir and their circle held court in Left Bank cafés like the Café de Flore and founded the journal Les Temps modernes in 1945.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sartre was offered the 1964 Nobel Prize in Literature and declined it, saying a writer shouldn't become an institution.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Camus and the absurd.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Albert Camus, a French writer born in Algeria in 1913, rejected the existentialist label but is closely linked to it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He described the absurd: the clash between our longing for meaning and a silent, indifferent universe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His novel The Stranger, 1942, follows a man who refuses to pretend to feelings he doesn't have.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In The Myth of Sisyphus, published the same year, he retold the Greek myth of a man condemned to push a boulder uphill forever.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Camus concluded: 'One must imagine Sisyphus happy.'",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Embracing life in full awareness of the absurd is a kind of rebellion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He won the Nobel Prize in 1957.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "De Beauvoir's freedom.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Simone de Beauvoir, a philosopher, novelist and Sartre's lifelong partner, wrote The Second Sex, 1949, a founding text of modern feminism.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She argued that women had been defined as 'the Other' in relation to men, treated as secondary rather than as free subjects, and that ideas of femininity are shaped by society, not fixed by nature.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her famous line, 'One is not born, but rather becomes, a woman', applied the existentialist idea that we're not bound by a fixed essence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In The Ethics of Ambiguity, 1947, she argued that true freedom requires willing freedom for others too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quarrels and living it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Religious thinkers objected to Sartre's atheism, Marxists thought it too individual, and others found it gloomy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its leaders quarrelled too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sartre and Camus were friends until 1952, when a harsh review of Camus's The Rebel in Sartre's journal caused a bitter split.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Camus had condemned political violence and Soviet labour camps, while Sartre, for a time, defended the Soviet Union.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They never reconciled before Camus died in a car accident in 1960.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The practical message is demanding but empowering.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Live authentically, by values you've chosen rather than what others expect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take responsibility instead of hiding behind 'I had no choice'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accept that some anxiety comes with freedom.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Create meaning through commitments to people, work and causes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Viktor Frankl's logotherapy and modern existential psychotherapy draw on these ideas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Humans have no preset purpose: we exist first, then create ourselves through our choices.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the problem of induction?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Our trust in the future rests on assuming nature stays as it was.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does determinism threaten the idea of free will?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Earlier causes make 'doing otherwise' unclear.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did Nietzsche break with Richard Wagner?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He disliked Wagner's nationalism and antisemitism.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does 'existence precedes essence' mean?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. We exist first, then define ourselves.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

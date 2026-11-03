@@ -14,7 +14,10 @@
       "supportsTablet": false,
       "infoPlist": {
         "CFBundleDisplayName": "Wisebyte",
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "UIBackgroundModes": [
+          "audio"
+        ]
       },
       "privacyManifests": {
         "NSPrivacyAccessedAPITypes": [
@@ -35,7 +38,16 @@
           "image": "./assets/splash-icon.png",
           "imageWidth": 110
         }
-      ]
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": false,
+          "recordAudioAndroid": false
+        }
+      ],
+      "expo-font",
+      "expo-web-browser"
     ]
   }
 }

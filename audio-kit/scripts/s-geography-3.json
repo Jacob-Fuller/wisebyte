@@ -1,0 +1,1332 @@
+{
+ "id": "s-geography-3",
+ "title": "World Geography · Episode 3",
+ "chapters": [
+  "Rainforests: Earth's richest places",
+  "Borders",
+  "Cities",
+  "World population"
+ ],
+ "units": [
+  {
+   "t": "World Geography. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Rainforests: Earth's richest places, Borders, Cities and World population.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Rainforests: Earth's richest places.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Rainforests cover only a small slice of the planet's land, yet they are home to a huge share of its living things.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has some of the oldest on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Into the green.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Daintree in far north Queensland, sunlight drips through layer after layer of leaves, and everything grows on something else.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rainforest is a forest with heavy, reliable rainfall and a closed canopy, where the treetops join to shade the ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tropical rainforests grow near the equator.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Temperate ones grow in cool, wet places such as Tasmania and New Zealand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together they cover a small fraction of the Earth's land, yet hold a large share of its species.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think of a tall apartment building.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emergent giants poke above the canopy, the leafy roof where most life lives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Below sit the dim understorey and a forest floor that gets only a few per cent of the sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rich forest, poor soil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might expect lush forests to need deep, rich soil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Often the opposite is true.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many tropical rainforests, constant heat and rain break down fallen leaves within weeks, and heavy downpours wash nutrients out of the ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The forest survives by recycling at speed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fungi and roots spread through the leaf litter and grab nutrients almost as soon as they are released, so most of the forest's wealth sits in living plants, not the soil.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why clearing rainforest for farming can disappoint.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once the trees are cut and burned, the land may grow good crops for a few years before the thin soil is exhausted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A forest that took centuries to build is very hard to bring back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forests that make rain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rainforests do not just receive rain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They help make it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trees draw water from the soil and release it as vapour through tiny pores in their leaves, a process called transpiration.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moist air rising from the canopy forms clouds that drop rain further inland, where the water is drawn up and released again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists call these moving streams of moisture 'flying rivers'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research suggests much of the Amazon's rainfall is recycled this way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If too much forest is cleared, parts of the system could dry out and struggle to sustain rainforest at all.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rainforests also hold vast amounts of carbon in trunks, roots and soil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Clearing and burning them releases carbon dioxide and adds to climate change.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's ancient rainforests.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is famous for deserts, but it also holds some of the oldest rainforests on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Wet Tropics of Queensland, including the Daintree, were World Heritage listed in 1988, partly for their exceptional record of plant evolution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many early flowering plant families still grow there.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Further south, the Gondwana Rainforests of Australia stretch across parts of New South Wales and southern Queensland.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are remnants of forests that once covered the supercontinent Gondwana, which joined Australia, Antarctica, South America, Africa and India.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As Australia drifted north and dried out over millions of years, rainforest retreated to moist pockets along the east coast and the ranges, where it survives like a living museum.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gardeners and partnerships.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Queensland, one of the key gardeners is a bird taller than many people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The southern cassowary swallows fallen fruit whole, including fruits too large for any other native animal, and deposits the seeds in dung, often far from the parent tree.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some plants appear to rely heavily on it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fig trees need tiny wasps to pollinate their hidden flowers, and fruit bats carry seeds and pollen at night.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every species is tangled up with others.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The forests matter to people too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coffee, cocoa, bananas and vanilla have origins in tropical forests, and some medicines come from rainforest plants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The macadamia comes from rainforests of south-east Queensland and northern New South Wales.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large areas are still cleared each year, mostly for farming and grazing, but protection works when enforced.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A rainforest is a wet forest with a closed canopy, built in layers like a tall apartment building.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Borders.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "There is an island that changes countries every six months and a town where the border runs through people's living rooms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Borders are human inventions, and it shows.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lines people draw.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No border exists in nature.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each is a human agreement, or disagreement, drawn onto the land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some follow physical features, like the Pyrenees between France and Spain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rivers make obvious lines but can shift course.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others follow latitude or longitude, such as much of the Canada–United States border, the world's longest, at almost 9,000 kilometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some of the most consequential borders were drawn far away.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 19th century, European powers competed to claim Africa, and the Berlin Conference of 1884–85 set rules for it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many resulting borders were straight lines that cut across ethnic groups or bundled rivals together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain and France also divided much of the former Ottoman Empire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most new countries kept their colonial borders at independence, as redrawing them risked endless conflict.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's own lines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonial officials drew Australia's internal borders mostly along lines of longitude and latitude.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Western Australia's eastern border follows the 129th meridian, which is why it runs dead straight through the desert.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The South Australia–Victoria border was meant to follow the 141st meridian, but the survey of the 1840s ended up a few kilometres too far west.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "South Australia sued, and in 1914 the Privy Council in London ruled that the marked line stood, so the error remains.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borders that usually go unnoticed can suddenly matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the COVID-19 pandemic in 2020 and 2021, several states closed their borders to travellers from other states.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oddities and disputes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Baarle, small Belgian and Dutch enclaves are scattered through each other, and the line runs through some houses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pheasant Island, in a river between France and Spain, switches rule every six months under a treaty from 1659.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lesotho, San Marino and Vatican City are each entirely surrounded by a single other country.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big Diomede, Russia, and Little Diomede, United States, lie a few kilometres apart but across the International Date Line, so their clocks differ by almost a day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many places are claimed by more than one government.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kashmir has been contested since 1947 and is administered by India, Pakistan and China.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of Western Sahara is controlled by Morocco, but its status is unresolved at the UN.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many countries require official maps to show their own claims, so one border can look different on different maps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lines in the sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United Nations Convention on the Law of the Sea, agreed in 1982, sets the main offshore zones.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A territorial sea reaches 12 nautical miles, about 22 kilometres, from the coast and is treated much like land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond it, the exclusive economic zone, or EEZ, stretches to 200 nautical miles, about 370 kilometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gives rights over fishing, oil, gas and minerals, though other ships may pass freely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where coasts are closer than 400 nautical miles, neighbours must negotiate a line.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has one of the world's largest EEZs, around 8 million square kilometres, bigger than the mainland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 1978 Torres Strait Treaty lets traditional inhabitants of Papua New Guinea and the islands move within a protected zone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2018 Australia and Timor-Leste signed a treaty setting a permanent boundary in the Timor Sea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antarctica, frozen claims.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antarctica is the one continent without agreed borders.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Seven countries claim slices: Argentina, Australia, Chile, France, New Zealand, Norway and the United Kingdom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's claim, the Australian Antarctic Territory, covers about 42% of the continent, the largest of all.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some claims overlap, and most countries recognise none of them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Antarctic Treaty of 1959 put the issue on ice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It neither accepts nor rejects the claims, bans military activity, and reserves the continent for peaceful science.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A later protocol also bans mining.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a rare case of rival nations agreeing to share a whole continent, and it has held for more than 60 years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Borders are human agreements, from rivers and survey lines to colonial deals made far from the land.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Cities.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For almost all of human history most people lived in the countryside.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That changed only within the last couple of decades, and Australia got there long before most.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An urban species.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first cities appeared in Mesopotamia, in today's Iraq, more than 5,000 years ago; Uruk may have held tens of thousands of people.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet for most of history cities were small islands in a rural world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1800, commonly estimated at under 10% of people lived in towns and cities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Industrialisation pulled workers from farms to factories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The United Nations estimates that around 2007 the world became majority urban for the first time, and projects that about two-thirds of people will live in urban areas by 2050.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most future growth is expected in Asia and Africa.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Such figures depend on definitions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some countries count any settlement of a few thousand as urban; others set the bar much higher.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How big is a city.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A city can be measured three ways: the core municipality, the built-up urban area, or the wider metropolitan region of commuters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The City of Sydney council area has about 200,000 residents, while Greater Sydney has more than 5 million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The UN and other agencies now use a standard method based on population density on satellite-derived grids, which can rank cities differently from national statistics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A megacity has 10 million or more people.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1950 only New York and Tokyo qualified; today there are more than 30.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades the UN ranked greater Tokyo first, at around 37 million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2025 UN report using the newer definition placed Jakarta first, followed by Dhaka and Tokyo, and noted Tokyo's population has begun to shrink.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of the biggest, fastest-growing cities are now in Asia and Africa.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why cities grow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Geography explains most city locations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rivers and harbours provide water, transport and trade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "London grew at the lowest point where the Thames could easily be bridged.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resources matter too: Australia's gold rushes built Ballarat, Bendigo and later Kalgoorlie.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once established, a city tends to keep growing because firms, workers and customers gain from being close.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call this agglomeration.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some cities are created by decision.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the colonies federated in 1901, Sydney and Melbourne were rivals, so the Constitution required the capital to be in New South Wales but at least 100 miles from Sydney.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Canberra site was chosen in 1908, an international competition was won by Walter Burley Griffin and Marion Mahony Griffin, and Parliament moved there from Melbourne in 1927.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brasília, 1960, and Abuja, 1991, were also planned capitals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nation of city dwellers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Despite the outback image, Australia is one of the most urbanised countries on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 86% of people live in urban areas, and roughly two-thirds live in the eight capital cities, according to recent ABS figures.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sydney and Melbourne each have more than 5 million people, 2023, while Brisbane and Perth have over 2 million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Australians also live near the sea, with commonly cited estimates of around 85% within 50 kilometres of the coast.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This reflects history and climate: colonial settlement began at ports, and the dry interior supports few people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few other countries concentrate so much of their population in so few big cities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Costs and benefits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rapid urban growth brings real problems.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Housing costs rise as people compete for land near jobs, a familiar story in Sydney and Melbourne.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sprawl lengthens commutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dark roads and roofs absorb sunlight and release it at night, so cities can be several degrees warmer than the surrounding countryside, an effect called the urban heat island, especially noticeable in Western Sydney.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many lower-income countries, UN-Habitat estimates around a billion people live in slums or informal settlements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, people keep moving to cities for jobs, wages, universities, hospitals and culture.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Density helps the environment too: public transport is viable, and residents of compact cities often drive less.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When comparing cities, look past rankings to commute times, housing costs, green space and services.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: More than half of humanity now lives in urban areas, a milestone reached only around 2007.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. World population.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It took all of human history to reach one billion people, and just over a decade to go from seven billion to eight.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now the world is quietly changing direction.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eight billion, slowing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United Nations marked 15 November 2022 as the day the world reached 8 billion, an estimate rather than a count.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first billion took until about 1804.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second came around 1927, the third in 1960, and then a billion every 12 to 14 years: 4 billion in 1974, 5 in 1987, 6 in 1999 and 7 in 2011.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was not mainly because people had more children.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Far fewer people died young, thanks to clean water, sanitation, vaccines, antibiotics and more reliable food, while birth rates took time to fall.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Growth peaked at a little over 2% a year in the 1960s and fell below 1% around 2020.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The UN's 2024 projections show a peak of about 10.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3 billion in the mid-2080s.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Projections are not certainties, and other groups expect an earlier, lower peak.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fewer children.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The total fertility rate is roughly the average number of children a woman has in her lifetime.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 2.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 keeps a population stable in the long run, a level called replacement.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1960s the global average was around 5.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it is about 2.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3, and most people live in countries below replacement.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's rate was about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 in 2023, a record low.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "South Korea's fell to 0.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "72, among the lowest ever recorded.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Niger's is around six.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Demographers call the pattern the demographic transition.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Death rates fall first, so population surges, then birth rates follow.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When most children survive, parents have fewer; education and paid work give women more choices; city life makes children costlier; and contraception makes smaller families possible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europe took over a century; South Korea and Iran, a few decades.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A shifting, ageing map.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2023, UN estimates showed India overtaking China as the most populous country, each with about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "4 billion people.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China's population began falling in 2022 after decades of low fertility, including the one-child policy from 1980 to 2015.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Japan has been shrinking since around 2010.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast-growing Africa is projected to hold about a quarter of humanity by 2050.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longer lives and fewer births also mean an older world.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Global life expectancy is about 73 years, up from about 46 in 1950.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearly 30% of Japanese people are 65 or over, with a median age near 49.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Niger's median age is about 15.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More older people means fewer workers per retiree and higher health costs, which is why governments plan ahead for retirement incomes, as Australia does with compulsory superannuation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People on the move.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Migration is the third driver of population change, alongside births and deaths.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United Nations estimated about 304 million international migrants in 2024, around 3.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7% of the world's people.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most move for work, family or study, while tens of millions more have been forced from home by conflict or disaster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is one of the most migration-shaped countries on Earth.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 30% of residents were born overseas, 2023, with England, India, China and New Zealand the most common birthplaces.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around half of Australians were born overseas or have a parent who was.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In most recent years, net overseas migration has added more people than natural increase.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading population claims.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Population debates attract bold predictions.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1798 Thomas Malthus argued that population would always outrun food.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1968 Paul Ehrlich's The Population Bomb forecast mass famines in the 1970s.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farm productivity rose faster than either expected, though hunger has not disappeared.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today some warn instead of population collapse.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few habits help.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check the year and source of any figure, since estimates are revised regularly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treat projections as scenarios.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remember that impact depends on consumption as well as headcount, because a person in a rich country typically uses far more resources than one in a poor country.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And watch slow trends, like ageing, that shape budgets for decades.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The world passed 8 billion in 2022 after taking until about 1804 to reach its first billion, and growth is now slowing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which part of a tropical rainforest is the dense leafy roof where much of the forest's life is concentrated?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The canopy.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why are many African borders drawn as straight lines?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Colonial powers drew them from afar on maps.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Roughly when did more than half of the world's people first live in urban areas?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Around 2007.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What mainly caused the rapid rise in world population over the past two centuries?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Far fewer people dying young.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

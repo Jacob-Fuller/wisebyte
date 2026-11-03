@@ -1,0 +1,1200 @@
+{
+ "id": "s-tech-1",
+ "title": "How Tech Works · Episode 1",
+ "chapters": [
+  "How computers actually work",
+  "The transistor: the switch that changed everything",
+  "From sand to silicon: how microchips are made",
+  "Binary: the language of computers"
+ ],
+ "units": [
+  {
+   "t": "How Tech Works. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How computers actually work, The transistor: the switch that changed everything, From sand to silicon: how microchips are made and Binary: the language of computers.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How computers actually work.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every photo, message and game on your devices comes down to billions of tiny switches flicking on and off, billions of times a second.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Switches all the way down.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strip away the screen and software, and a computer stores and changes patterns of on and off.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each tiny switch is a 1, on, or a 0, off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One switch can't do much, but billions, wired together and flipped in sequence, can add numbers, draw pictures and play music.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early computers used bulky vacuum tubes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "ENIAC, finished in 1945, used about 17,000 and weighed around 27 tonnes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's first computer, CSIRAC, built in Sydney in 1949 and now held by Melbourne Museum, was one of the earliest stored-program computers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1947 Bardeen, Brattain and Shockley at Bell Labs built the first transistor: a tiny solid-state switch, far smaller, cooler and more reliable than a tube.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today's are made from silicon, found in ordinary sand, which gave Silicon Valley its name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Logic gates.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A handful of transistors wired together makes a logic gate, a circuit that takes on/off inputs and produces an output by a fixed rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An AND gate outputs 1 only if both inputs are 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An OR gate outputs 1 if either input is 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A NOT gate flips its input.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The maths behind this was worked out by the English mathematician George Boole in the 1850s, long before electronics existed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Combine enough gates and you can build a circuit that adds two numbers, then one that multiplies, compares and remembers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every calculation your device performs is built from these tiny decisions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The CPU and Moore's law.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The central processing unit, or CPU, carries out instructions in a relentless loop: fetch the next instruction from memory, decode it, execute it, repeat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each is tiny, like 'add these two numbers'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trick is speed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 3 gigahertz CPU ticks through about 3 billion cycles a second, and modern chips have several cores working side by side.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1965 Gordon Moore, later a co-founder of Intel, noticed that the number of transistors on a chip was doubling at a steady rate, later revised to about every two years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moore's law isn't a law of physics, but it held for decades and drove computers from room-sized machines to pocket devices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Top chips now hold tens of billions of transistors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Progress is slowing as parts approach atomic scales, so engineers also gain speed through smarter designs and specialised chips.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory and storage.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The CPU keeps what it's working on right now in random-access memory, or RAM.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Think of it as a workbench: fast to reach, but limited in size and cleared at the end of the day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "RAM is volatile, losing everything when power is cut, which is why unsaved work disappears in a blackout.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opening an app copies it into RAM.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If RAM fills up, the computer shuffles data back and forth and slows down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storage is the long-term filing cabinet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Older computers used hard disk drives, storing data magnetically on spinning platters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most laptops and all smartphones use solid-state drives, SSDs: flash chips with no moving parts, so faster, quieter and tougher.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storage is far larger than RAM but slower.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When people say a phone has '256 gigabytes', they mean its storage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What this means for you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a computer feels sluggish with many tabs open, more RAM often helps more than a faster CPU.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you keep running out of room for photos, you need more storage, or a cloud backup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An SSD is one of the best upgrades for an older computer still running a hard drive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Restarting a device genuinely helps, because it clears RAM of clutter from programs that didn't tidy up after themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of all, remember that behind every 'smart' device is a very fast, very obedient machine following simple instructions written by people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Every computer is built from billions of tiny on/off switches, now transistors made from silicon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The transistor: the switch that changed everything.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1947 two physicists built a clumsy contraption of gold foil, plastic and germanium.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its descendants now number in the billions inside your phone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trouble with valves.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the first half of the twentieth century, electronics meant vacuum tubes, known in Australia and Britain as valves.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These glass bulbs could amplify a signal or switch a current, making radio, television and early computers possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But they were bulky, hot and power hungry, and their filaments burned out like light globes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ENIAC, an American computer completed in 1945, used around 17,500 of them, filled a large room and drew about 150 kilowatts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tubes failed regularly, and finding the dead one took time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "AT and T, whose network relied on huge numbers of tubes and mechanical switches, wanted something better.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its research arm, Bell Labs, went looking for a solid replacement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christmas at Bell Labs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bell Labs assembled a team to study semiconductors, materials such as germanium and silicon that conduct better than an insulator but worse than a metal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In December 1947, John Bardeen and Walter Brattain pressed two closely spaced gold contacts onto a slab of germanium and found that a small current through one controlled a larger current through the other.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The device amplified a signal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They demonstrated it on 23 December.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was awkward, held together with a plastic wedge and a spring, but it worked.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their group leader, William Shockley, was reportedly frustrated at not being directly involved.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within weeks he worked out a sturdier design, the junction transistor, which became the basis for practical devices.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why a switch matters.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A transistor does two jobs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can amplify, turning a weak signal into a stronger copy, which made pocket transistor radios possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And it can act as a switch with no moving parts: a small voltage on one terminal turns a larger current on or off.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That second job is the foundation of computing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computers represent information as on and off, one and zero.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few transistors make a logic gate, a circuit whose output is on only if both inputs are on, or if either is.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combine gates and you can add, compare and store numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because transistors switch billions of times a second using very little power, enormous numbers can work together on a single chip.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walkout and the chip.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bardeen, Brattain and Shockley shared the 1956 Nobel Prize in Physics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shockley had by then set up a lab in Mountain View, California, but his suspicious management drove eight young scientists to walk out in 1957.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 'traitorous eight' founded Fairchild Semiconductor, a seedbed for Silicon Valley.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Robert Noyce and Gordon Moore later founded Intel in 1968.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bardeen won a second Nobel in 1972 for superconductivity, the only person to win the physics prize twice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wiring individual transistors by hand became the problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1958 Jack Kilby at Texas Instruments built a circuit in a single piece of germanium.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon after, Noyce proposed a more practical silicon design using the planar process of Jean Hoerni.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both are credited with the integrated circuit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moore's prediction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1965 Gordon Moore, then at Fairchild, wrote a magazine article noting that components on a chip had been doubling every year, and predicted this would continue for at least a decade.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1975 he revised the pace to roughly every two years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This became Moore's law, though it is an observation about engineering and economics, not a law of nature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It held remarkably well for about half a century, partly because the industry treated it as a target.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern chips contain tens of billions of transistors, each far smaller than a bacterium.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Progress has slowed as parts of transistors shrink to just a few atoms thick, and engineers debate how much longer the trend can continue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Vacuum tubes made early electronics possible but were bulky, hot and unreliable, so Bell Labs sought a solid replacement.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. From sand to silicon: how microchips are made.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The chip in your phone holds billions of switches, each smaller than most viruses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Making one is arguably the most precise manufacturing humans have ever attempted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Billions of switches.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every app you open and message you send is processed by transistors, microscopic switches that turn current on and off.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Combine enough of them in the right patterns and they can add numbers, compare values, store data and run any program.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first transistor, built at Bell Labs in 1947, was big enough to see and handle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today a high end phone processor packs well over ten billion onto a chip roughly the size of a fingernail.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The features are only tens of atoms across, layered with astonishing accuracy across a whole silicon disc at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The process can take a few months from bare wafer to finished chip.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From sand to wafer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silicon is the second most abundant element in Earth's crust, found in quartz sand and rock.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But chips need silicon purer than almost anything else people make, with impurities around one atom in a billion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Purified silicon is melted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A seed crystal is dipped in and slowly drawn upward while rotating, so the silicon solidifies into one perfect crystal called an ingot, a technique named after Polish scientist Jan Czochralski.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern ingots can be as wide as a dinner plate and around two metres long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diamond saws slice them into wafers less than a millimetre thick, polished until flatter than almost any other surface.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Printing with light.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key technique is photolithography.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The wafer is coated with a light sensitive chemical, photoresist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light shines through a mask carrying the circuit pattern and is focused through lenses onto the wafer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wherever light hits, the photoresist changes, so it can be washed away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The exposed areas can then be etched, have material added, or be bombarded with other atoms to change how they conduct electricity, called doping.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The machine steps across the wafer, printing the pattern for hundreds of chips.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A chip has hundreds or even over a thousand such steps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One dust particle can destroy a chip, so fabs use cleanrooms with air thousands of times cleaner than a hospital operating theatre.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every chip works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The share that does is the yield.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extreme ultraviolet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The smaller the wavelength, the finer the patterns that can be printed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For years, chipmakers used deep ultraviolet light and tricks such as exposing the same layer several times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most advanced chips now use extreme ultraviolet, or EUV, at 13.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 nanometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making it is extraordinary.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A powerful laser hits tiny droplets of molten tin tens of thousands of times a second, creating a plasma that emits EUV light.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air and glass absorb EUV, so the beam travels in a vacuum and is steered by ultra smooth mirrors rather than lenses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only one company, ASML in the Netherlands, makes these machines.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each is about the size of a bus and costs hundreds of millions of dollars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moore and the chain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1965, Gordon Moore, later a co-founder of Intel, noticed the number of components on a chip was doubling regularly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1975 he revised this to roughly every two years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moore's law held for decades, but the pace has slowed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Names like '3 nanometre' are now mostly labels for each generation, not real measurements, so chipmakers stack components and redesign transistors instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single country makes a modern chip alone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Designs often come from the United States, the most advanced manufacturing is concentrated in Taiwan, especially at TSMC, EUV machines come from the Netherlands, and specialised materials from Japan, South Korea and Europe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shortages after 2020 showed how fragile this chain is, and governments are now spending heavily on local factories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A chip's transistors are microscopic switches, and a modern phone processor packs over ten billion into a fingernail-sized chip.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Binary: the language of computers.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "With just two digits, 0 and 1, computers store every word you've typed, every song you've streamed and every photo you've taken.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why only two digits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We count in base ten, probably because we have ten fingers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computers count in base two, using only 0 and 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reason is practical: transistors are switches, and it's easy and reliable to tell 'on' from 'off', but hard to tell ten voltage levels apart amid electrical noise.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gottfried Leibniz described binary arithmetic in 1703, centuries before electronic computers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In decimal, each column is worth ten times the one to its right.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In binary, each is worth twice: ones, twos, fours, eights.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So 1011 means one eight, no fours, one two and one one: 8 + 0 + 2 + 1 = 11.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's an old joke: there are 10 kinds of people, those who understand binary and those who don't.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bits, bytes and letters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A single binary digit is a bit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One bit can only say yes or no.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eight bits make a byte, which can represent 256 values, from 00000000 to 11111111, or 0 to 255.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Computers don't store letters, they store numbers that stand for letters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s, the ASCII standard assigned numbers to 128 characters: capital A is 65, which is 01000001 in binary, lowercase a is 97, and a space is 32.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ASCII only covered English, so Unicode was created to include the world's writing systems.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It now defines more than 150,000 characters, from Chinese and Arabic to emoji.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you text a smiley face, you're sending a code number that your friend's phone looks up and draws.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pictures and sound.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A digital photo is a grid of tiny coloured squares called pixels.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each pixel's colour is stored as three numbers, for red, green and blue light, each from 0 to 255.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is one byte per colour, giving about 16.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 million colours.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pure red is 255, 0, 0.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 12-megapixel photo would take roughly 36 megabytes stored raw.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "JPEG shrinks files by discarding detail your eye is unlikely to notice, which is why saving the same photo again and again slowly degrades it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sound is a wave of changing air pressure.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A microphone turns it into an electrical signal, which the computer measures at regular intervals, called sampling.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Audio CDs take 44,100 samples a second, each a 16-bit number.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "MP3 and streaming formats remove sounds humans can barely hear, cutting file sizes by around 90%.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instructions are numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Perhaps the most important idea in computing is that instructions themselves are numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A program is a long list of binary codes the processor recognises, such as 'add', 'compare' or 'jump'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Programmers rarely write raw binary: they write in languages like Python or JavaScript, and special software translates it into machine code.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storing programs in memory alongside data, an idea from the 1940s associated with John von Neumann and others, means a computer can run completely different software without being rewired.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same laptop can be a typewriter, a cinema or a calculator, depending on which numbers it's running.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it matters to you.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Internet speeds are usually quoted in megabits per second, so divide by eight to estimate megabytes: 100 Mbps is about 12.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 megabytes a second.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A kilobyte is about a thousand bytes, a megabyte a million, a gigabyte a billion, though some systems count in powers of two, so a kilobyte can mean 1,024 bytes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a phone warns that storage is full, videos, especially 4K ones, are usually the biggest culprits, since they are thousands of images per minute plus sound.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compressed photos look blotchy when zoomed in, and 'high quality' files take longer to send.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Binary is a reminder that computers don't understand meaning: they shuffle numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The meaning comes from the people who designed the codes, and from you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Computers use binary because telling on from off is reliable, and binary counting works like decimal with only two digits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did transistors replace vacuum tubes?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They were smaller, cooler and more reliable.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did engineers want to replace vacuum tubes?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They were bulky, hot and prone to burning out.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does a transistor do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Acts as a microscopic switch that turns current on and off.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why do computers use binary rather than base ten?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Two levels are easier to tell apart.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,887 @@
+{
+ "id": "s-space-exploration-2",
+ "title": "Space Exploration · Episode 2",
+ "chapters": [
+  "The International Space Station",
+  "Space junk: the litter problem in orbit",
+  "Telescopes: our eyes on the universe"
+ ],
+ "units": [
+  {
+   "t": "Space Exploration. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The International Space Station, Space junk: the litter problem in orbit and Telescopes: our eyes on the universe.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The International Space Station.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Right now, about 400 kilometres above you, people are eating, sleeping and doing experiments while circling Earth every hour and a half.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A home in orbit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The International Space Station is a large, crewed laboratory about 400 kilometres up, roughly the distance from Perth to Albany, but straight up.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It travels at about 28,000 km/h and circles Earth every 90 minutes, so the crew sees about 16 sunrises and sunsets a day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first module launched in November 1998, and people have lived aboard continuously since 2 November 2000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A whole generation has grown up without a day when humans weren't living in space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can see the station yourself, shortly after dusk or before dawn: a bright, steady point of light gliding across the sky, without flashing like a plane.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA's free Spot the Station service tells you when.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Built by five partners.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The station was too big to launch in one go.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over more than a decade, US Space Shuttles and Russian rockets carried up the pieces, and astronauts bolted them together during hundreds of hours of spacewalks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The finished structure is about 109 metres across, roughly a football field, and weighs around 420,000 kilograms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Huge solar arrays supply its electricity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is often described as the most expensive object ever built, at well over US$100 billion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Five agencies run it: NASA, Roscosmos, the European Space Agency, Japan's JAXA and the Canadian Space Agency.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Russia provides key modules and propulsion, Japan built the Kibo laboratory, Europe the Columbus lab and Canada the robotic arm, Canadarm2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronauts from more than 20 countries have visited, including Adelaide-born Andy Thomas.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Floating in free fall.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the station's height, Earth's gravity is still about 90% as strong as on the ground.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronauts float because they and the station are in continuous free fall, falling around Earth while moving sideways fast enough to keep missing it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists call this microgravity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water forms wobbling spheres, flames burn as round blue balls and dropped tools drift away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A typical crew is about seven people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They sleep in small cabins, zipped into sleeping bags fixed to the wall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water is precious: the station recycles moisture from air, washing and even urine, and in 2023 NASA reported about 98% water recovery.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food comes in pouches, with tortillas popular because they don't make crumbs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toilets use airflow instead of gravity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cupola, a seven-windowed dome, is made for photographing Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What space does to bodies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Weaker bones and muscles are only the start.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many astronauts on long missions develop swelling at the back of the eye and a slight flattening of the eyeball, a condition NASA calls spaceflight-associated neuro-ocular syndrome, and some need stronger glasses afterwards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood volume drops in orbit, so returning crew can feel faint when they first stand up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Radiation doses are far higher than on the ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In NASA's Twins Study, astronaut Scott Kelly spent almost a year on the station while his identical twin, Mark, stayed on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers found changes in Scott's gene activity, gut bacteria and immune system, most of which returned to normal within months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Findings like these help plan trips to Mars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Science, then retirement.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thousands of experiments have run aboard.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Microgravity lets scientists study things that gravity masks on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protein crystals can grow larger and more orderly, helping researchers understand molecules targeted by medicines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flames, fluids and new materials behave differently, which improves models used on the ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crews have grown lettuce, chillies and flowers, and ate lettuce grown on the station in 2015.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Alpha Magnetic Spectrometer, a particle detector on the outside, searches cosmic rays for clues about dark matter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ageing ISS is due to retire around 2030 and be steered into a remote part of the Pacific Ocean.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Commercial stations are being developed, and China already operates its own, Tiangong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The ISS orbits about 400 km up at 28,000 km/h and has been continuously crewed since November 2000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Space junk: the litter problem in orbit.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Tens of thousands of dead satellites and rocket parts are racing around Earth faster than bullets, and once in 1979 a big piece landed near Esperance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fast-moving cloud.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since Sputnik in 1957, much of what has gone up has stayed there.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Space junk includes dead satellites, used rocket stages, lost tools, flakes of paint and fragments from explosions and collisions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Agencies track tens of thousands of pieces larger than about a softball, and estimates suggest around a million pieces bigger than a centimetre, plus many millions smaller.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most sits in low Earth orbit, the busy region used by the International Space Station.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To stay up there, an object travels at about 28,000 kilometres per hour, many times faster than a rifle bullet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At that speed even a fleck of paint carries surprising energy, and Space Shuttle windows were replaced after being chipped.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ISS has extra shielding and regularly fires its engines to dodge tracked debris.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collisions and tests.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 10 February 2009 a working Iridium satellite hit a dead Russian satellite, Kosmos 2251, about 790 kilometres above Siberia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was the first known accidental collision between two intact satellites and created well over a thousand trackable fragments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1978 NASA scientist Donald Kessler warned that if debris became dense enough, collisions would create more fragments, causing more collisions in a cascade.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is the Kessler syndrome, and in its worst form some orbits could become too risky to use for generations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some clouds were made on purpose.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2007 China destroyed its own weather satellite with a missile, creating over 3,000 trackable fragments, the largest single event on record.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021 Russia did the same, forcing ISS crew to shelter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2022 several countries, including Australia, have pledged not to hold such tests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What goes up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thin traces of atmosphere slowly drag on objects in low orbit, so they sink and eventually burn up on re-entry.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Large, sturdy parts can survive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In July 1979 the American space station Skylab broke apart over the Indian Ocean and scattered debris around Esperance in Western Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody was hurt, and the local shire famously fined NASA $400 for littering.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An American radio host eventually paid it decades later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022, pieces of a SpaceX capsule's trunk landed on farms in the Snowy Mountains of New South Wales.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today operators often steer big spacecraft down over a remote part of the South Pacific near Point Nemo, the place furthest from land, nicknamed the spacecraft cemetery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crowded skies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The number of active satellites has soared, mainly because of megaconstellations: huge fleets of small satellites providing internet from low orbit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "SpaceX's Starlink alone has launched many thousands, and others are building their own.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These networks bring fast internet to remote areas, including outback Australia, and are designed to fall out of orbit within a few years once retired.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But more satellites mean more close approaches, and operators must perform large numbers of avoidance manoeuvres.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronomers have raised another concern: sunlit satellites leave bright streaks across telescope images and can interfere with radio observations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darker coatings and sunshades have been tried, but the growing traffic is changing how scientists plan their observations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cleaning up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "International guidelines have long asked operators to remove satellites from busy low orbits within 25 years of the end of a mission.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2022 the United States regulator set a stricter five-year rule for satellites it licenses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rocket stages are increasingly designed to burn up quickly, and satellites carry fuel to lower themselves at the end of their lives.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Removing existing junk is harder, because every piece is moving fast and tumbling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japan's Astroscale has flown missions that approached and inspected a discarded rocket stage, and European projects are developing robotic arms and nets to catch dead satellites.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, the Australian Space Agency works with industry on space situational awareness, tracking objects to help keep orbits safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Earth is ringed by dead satellites, rocket stages and fragments travelling so fast that even tiny pieces cause serious damage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Telescopes: our eyes on the universe.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1610 a hand-made tube of lenses showed Galileo moons circling Jupiter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today a mirror a million and a half kilometres away sees galaxies born soon after the Big Bang.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galileo's first look.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The telescope was invented in the Netherlands around 1608, and within a year the Italian scientist Galileo Galilei had built his own, eventually reaching about 20 times magnification.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pointing it at the sky, he found mountains and craters on the Moon, countless stars in the Milky Way, and in January 1610 four moons orbiting Jupiter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He later saw that Venus shows phases like the Moon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These observations challenged the old belief that everything circled Earth and supported the idea that the planets orbit the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light and clear air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key feature of a telescope isn't magnification but light-collecting area.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bigger lens or mirror gathers more light, revealing fainter objects and finer detail.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large lenses sag and blur colours, so in 1668 Isaac Newton built a reflecting telescope with a curved mirror.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost every big research telescope today is a reflector, with mirrors of 8 to 10 metres and 25 to 40 metres under construction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth's atmosphere is a nuisance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moving air makes stars twinkle and blurs detail, and water vapour blocks some wavelengths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So major observatories sit on high, dry sites like Mauna Kea in Hawaii and Chile's Atacama Desert.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Siding Spring Observatory near Coonabarabran, New South Wales, hosts the 3.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9-metre Anglo-Australian Telescope.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adaptive optics, deformable mirrors that change shape hundreds of times a second, cancel out the blur.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Telescopes in space.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Hubble Space Telescope launched in April 1990 aboard Space Shuttle Discovery and orbits about 540 kilometres up, above the blurring air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4-metre mirror was ground slightly the wrong shape, so early images were fuzzy, until astronauts fitted corrective optics in 1993.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its Deep Field images revealed thousands of galaxies in tiny patches of sky, and its measurements helped pin the universe's age at about 13.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 billion years and show that its expansion is accelerating.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The James Webb Space Telescope launched on 25 December 2021.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5-metre mirror, made of 18 gold-coated hexagonal segments, unfolded in space.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Webb observes mainly in infrared, which passes through dust and reveals very distant galaxies whose light has been stretched by the universe's expansion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It orbits about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million kilometres from Earth, shaded by a tennis-court-sized sunshield that keeps it extremely cold.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Radio astronomy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Visible light is only a slice of what the universe sends.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1930s Karl Jansky discovered radio waves coming from the Milky Way, launching radio astronomy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The CSIRO's 64-metre Parkes dish, opened in 1961 and also known as Murriyang in Wiradjuri, helped pinpoint the first identified quasar, has discovered a large share of known pulsars, and revealed the first fast radio burst, a mysterious millisecond flash.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Square Kilometre Array will be the world's largest radio telescope, split between two sites with very little radio interference.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "SKA-Low is being built in Western Australia's Murchison region, on the traditional lands of the Wajarri Yamaji people, with around 131,000 antennas shaped like small metal Christmas trees.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "SKA-Mid, with about 200 dishes, is in South Africa's Karoo.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It aims to study the first stars and galaxies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start stargazing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need expensive gear to follow in Galileo's footsteps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A decent pair of binoculars shows craters on the Moon, Jupiter's four largest moons as tiny points, and star clusters like the Jewel Box in the Southern Cross.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get away from city lights and give your eyes 20 minutes to adjust to the dark.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Free apps can identify what you're seeing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's southern skies are superb, and the Magellanic Clouds, two neighbouring galaxies, are visible to the naked eye.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many public observatories and astronomy clubs run affordable viewing nights.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Galileo's telescope showed Jupiter's moons and the Moon's craters, supporting the idea that planets orbit the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does the ISS crew see about 16 sunrises and sunsets a day?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The station circles Earth about every 90 minutes.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why can even a tiny fleck of paint damage a spacecraft in low orbit?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It moves at about 28,000 km/h.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did Galileo's observations of Jupiter's moons and Venus's phases challenge?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The old belief that everything circled Earth.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

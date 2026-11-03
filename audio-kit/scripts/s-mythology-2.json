@@ -1,0 +1,893 @@
+{
+ "id": "s-mythology-2",
+ "title": "Mythology · Episode 2",
+ "chapters": [
+  "The gods of Olympus",
+  "Greek heroes and their flaws",
+  "Odin, Thor and the end of the world"
+ ],
+ "units": [
+  {
+   "t": "Mythology. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The gods of Olympus, Greek heroes and their flaws and Odin, Thor and the end of the world.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The gods of Olympus.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Jealous, vain, passionate and powerful: the Greek gods behaved like the most dramatic family you've ever met, and they left their names all over our language.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From Chaos to Zeus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fullest Greek account of the gods is the Theogony, a poem by Hesiod from around 700 BC.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First came Chaos, a yawning emptiness, then Gaia, Earth, who bore Uranus, Sky.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their children were the Titans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uranus trapped them inside the Earth, so Gaia gave her youngest son Cronus a sickle, and he overthrew his father.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Greek myth, sons topple fathers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warned that his own child would overthrow him, Cronus swallowed each baby.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His wife Rhea saved Zeus by hiding him on Crete and handing Cronus a stone in baby clothes instead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zeus freed his siblings and won a ten-year war against the Titans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most were locked in Tartarus, while Atlas was condemned to hold up the sky.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twelve very human gods.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The winning gods lived on Mount Olympus, Greece's highest peak at nearly 2,920 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The usual twelve are Zeus, king and thunder, Hera, marriage, Poseidon, sea and earthquakes, Demeter, harvest, Athena, wisdom and crafts, Apollo, music, prophecy and healing, Artemis, the hunt, Ares, war, Aphrodite, love, Hephaestus, the blacksmith, Hermes, the messenger, and Dionysus, wine, though some lists include Hestia, goddess of the hearth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hades ruled the underworld.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These gods were immortal but far from perfect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zeus pursued countless lovers, and Hera took furious revenge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Ovid's telling, the weaver Arachne boasted she was better than Athena and was turned into a spider.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson for mortals: never show hubris, the arrogant pride that challenges the gods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths that explain the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Titan Prometheus stole fire from the gods for humans.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zeus chained him to a rock, where an eagle ate his liver every day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zeus also sent Pandora, the first woman, with a jar that released evils into the world and kept only hope inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a jar, not a box: the box crept in through a translation slip in the 1500s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The seasons had their own story.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When Hades carried off Persephone, her mother Demeter's grief made the crops fail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because Persephone had eaten pomegranate seeds in the underworld, she must spend part of every year there, and the earth goes barren while she is away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Worship without a book.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greeks had no single holy book and no fixed creed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Religion was about doing things properly: offering sacrifices, pouring wine for the gods, keeping festivals and honouring your city's patron god, as Athens honoured Athena in the Parthenon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People also sought guidance from oracles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous was at Delphi, where a priestess called the Pythia spoke for Apollo.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cities and kings sent envoys to ask her advice before wars and colonising expeditions, and her answers were famously ambiguous.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The myths themselves came in many versions, told by different poets and playwrights, and nobody expected them all to agree.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gods in your language.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rome identified its own gods with the Greek ones and absorbed their stories.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zeus became Jupiter, Hera became Juno, Poseidon became Neptune, Ares became Mars, Aphrodite became Venus, Hermes became Mercury, Athena became Minerva, Artemis became Diana, Hephaestus became Vulcan and Cronus became Saturn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europe learned much of its mythology through Latin, so the Roman names stuck: they are on the planets, and Saturday is Saturn's day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everyday words hide the myths too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Panic comes from Pan, the goat-legged god of the wild, whose shout could terrify travellers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An echo recalls the nymph Echo, who could only repeat the last words spoken to her.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Titanic means huge, like the Titans, cereal comes from Ceres, the Roman Demeter, and volcano from Vulcan's forge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nike is named for the goddess of victory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In Hesiod's Theogony the universe begins with Chaos, and Zeus wins power by defeating his father Cronus and the Titans.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Greek heroes and their flaws.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "They slew monsters, outwitted giants and sailed to the ends of the world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet many Greek heroes were undone by something inside themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What made a hero.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greek word heros did not simply mean a good person.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heroes were extraordinary figures of the distant past, often with one divine parent, who performed deeds beyond ordinary humans.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What drove them was kleos, glory: the fame that would keep their names alive after death.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many were violent, proud or reckless.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heroes were also worshipped.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People across Greece made offerings at shrines and tombs believed to belong to heroes, hoping for their protection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Poets and playwrights retold their stories for centuries, which is why most exist in several, sometimes contradictory, versions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heracles, penance and labours.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heracles, called Hercules by the Romans, was the son of Zeus and a mortal woman, Alcmene.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That earned him the lifelong hatred of Zeus's wife Hera, who drove him into a madness in which he killed his own wife and children.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To atone, he served King Eurystheus and performed twelve labours.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He strangled the Nemean lion, whose hide no weapon could pierce, and killed the many-headed Hydra.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He cleaned the filthy Augean stables in a day by diverting two rivers, and dragged Cerberus, the three-headed guard dog, up from the underworld.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After his death, he was taken up to live among the gods.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perseus and Theseus.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Perseus, son of Zeus and Danaë, was sent to fetch the head of Medusa, a Gorgon whose gaze turned anyone to stone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aided by Athena's polished shield, winged sandals and a cap of invisibility, he cut off her head by watching only her reflection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the way home he rescued Andromeda from a sea monster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Theseus, an Athenian prince, volunteered to be among the seven young men and seven young women Athens sent to King Minos of Crete to feed the Minotaur, a half-bull monster in the Labyrinth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ariadne gave him a ball of thread, so he killed the monster and followed the thread out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But he forgot to change his ship's black sails to white.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His father Aegeus, thinking him dead, leapt into the sea, which is still called the Aegean.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jason, Medea and Odysseus.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jason was set an impossible task to reclaim his throne: bring back the Golden Fleece from Colchis, at the eastern end of the Black Sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He gathered the Argonauts, named after their ship the Argo.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Colchis, the sorceress Medea fell in love with him and helped him yoke fire-breathing bulls and get past the dragon guarding the fleece.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Years later he left her for a Corinthian princess, and in Euripides' play Medea her revenge is terrible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Odysseus won by brains, not brawn.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tradition credits him with the wooden horse that got Greek soldiers inside Troy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Returning home to Ithaca disguised as a beggar, he was recognised only by his old dog Argos.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then he strung the great bow no suitor could manage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Achilles and the tragic hero.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Achilles, son of the mortal king Peleus and the sea goddess Thetis, was the greatest Greek warrior at Troy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A prophecy gave him a stark choice: a long, obscure life at home or a short one with undying glory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He chose glory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Iliad, grief over the death of his companion Patroclus drives him back into battle to kill the Trojan prince Hector.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His vulnerable heel comes from later writers, not Homer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In his Poetics, Aristotle said the ideal tragic hero is admirable but falls through hamartia, closer to 'error' than 'flaw'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oedipus, who unknowingly kills his father, is the classic case.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pride, or hubris, is often the trigger, and the fall brings pity, fear and catharsis.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heroes are most interesting when their strengths and weaknesses are the same thing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A Greek hero was usually part divine and chased glory through extraordinary deeds, but was not necessarily a good person.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Odin, Thor and the end of the world.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A one-eyed god who hanged himself for wisdom, a thunder god in a wedding dress, and a prophecy that the gods themselves will die.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Norse myth is wilder than the movies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the stories come from.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Norse peoples of Scandinavia told their myths aloud, so most of what we know was written down later in Iceland, which officially adopted Christianity around the year 1000.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Poetic Edda is a collection of anonymous poems about gods and heroes, preserved mainly in a manuscript from around 1270.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Prose Edda was written around 1220 by the Icelandic chieftain and scholar Snorri Sturluson as a handbook for poets.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are precious sources, but Christians recorded them centuries after the conversion, so historians are careful.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rune stones, poems and archaeology help fill in what people actually believed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "World from a giant.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before anything existed there was Ginnungagap, a vast gap between Muspelheim, a realm of fire, and Niflheim, a realm of ice.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where heat met frost, the ice melted, and from the drops came Ymir, the first giant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cosmic cow licked the salty ice and uncovered Buri, ancestor of the gods.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His grandsons Odin, Vili and Vé killed Ymir and built the world from him: flesh became earth, blood the sea, bones the mountains and his skull the sky.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They made the first humans, Ask and Embla, from two trees.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the centre stands Yggdrasil, an immense ash tree connecting nine worlds, including Asgard, gods, Midgard, humans, Jotunheim, giants, and Hel, the dead.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three Norns at its roots shape fate, and a dragon gnaws it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Odin, the Allfather.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Odin was king of the gods and god of wisdom, poetry, war and death.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was a restless seeker who would pay any price for knowledge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He gave one of his eyes for a drink from Mimir's well of wisdom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In one poem he hangs on Yggdrasil for nine nights, wounded by a spear, 'myself given to myself', until he glimpses the runes and seizes them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two ravens, Huginn and Muninn, meaning thought and memory, fly out each day to bring him news.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He rides an eight-legged horse, Sleipnir, and gathers fallen warriors in Valhalla, chosen by his Valkyries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thor and Loki.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thor, Odin's son, was god of thunder and strength, and the great defender against the giants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His hammer Mjölnir always returned to his hand.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was probably the most popular god among ordinary people: archaeologists have found many small Thor's hammer pendants across Scandinavia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a giant stole Mjölnir and demanded the goddess Freyja as his bride, Thor went in her place, veiled, ate an entire ox and eight salmon, and grabbed his hammer back.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loki, born of giants but living among the gods, is a clever, spiteful shape-shifter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He even became the mother of Sleipnir, after turning himself into a mare.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His children include the wolf Fenrir and the Midgard Serpent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His worst act was arranging the death of the beloved Baldr with a dart of mistletoe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gods bound him beneath a dripping snake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ragnarök and your week.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Norse myth is unusual because its gods know they will die.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At Ragnarök, after three brutal winters, the bonds break.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fenrir swallows Odin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thor kills the Midgard Serpent but falls dead from its venom after nine steps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loki and Heimdall kill each other, and the fire giant Surtr sets the world ablaze until it sinks into the sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet in the poem Völuspá a green new earth rises and some gods return.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scholars debate how much Christianity shaped this ending.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Anglo-Saxons shared these gods under slightly different names.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tuesday is Tiw's, Tyr's, day, Wednesday is Woden's, Odin's, Thursday is Thor's, and Friday is usually traced to Frigg.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tolkien borrowed his dwarf names and Gandalf from Völuspá.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most Norse myths survive in two Icelandic collections from the 1200s, written by Christians centuries after the conversion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How did Zeus escape being swallowed by his father Cronus?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Rhea gave Cronus a stone in baby clothes.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What mainly drove a Greek hero to act?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Kleos, glory that outlives death.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do historians treat the Norse myth sources with some care?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They were set down by Christians later.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

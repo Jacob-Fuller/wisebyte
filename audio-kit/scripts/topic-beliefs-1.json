@@ -1,0 +1,616 @@
+{
+ "id": "topic-beliefs-1",
+ "title": "Myths & Religions Shorts",
+ "chapters": [
+  "Día de Muertos: a festival for the dead",
+  "King Arthur: how a legend was built"
+ ],
+ "units": [
+  {
+   "t": "Myths & Religions Shorts.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Día de Muertos: a festival for the dead and King Arthur: how a legend was built.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Día de Muertos: a festival for the dead.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Each year at the start of November, families across Mexico build glowing altars and lay paths of orange petals so that their dead can find the way home.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a celebration, not a horror show.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not Mexican Halloween.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Día de Muertos, the Day of the Dead, is often lumped in with Halloween because the dates are close and both involve skulls.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The spirit is very different.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Halloween plays with fear; Día de Muertos is about love and remembrance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Families believe their departed relatives return for a short visit, and the living prepare to welcome them as honoured guests.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main days are 1 and 2 November.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many places the first day honours children who have died, sometimes called los angelitos, the little angels, and the second honours adults.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customs vary greatly from region to region, and Indigenous communities often keep some of the most distinctive traditions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two worlds meet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long before the Spanish arrived, peoples of Mesoamerica, including the Aztecs, held ceremonies honouring the dead.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Death was seen as part of a cycle rather than a final end, and the Aztec underworld, Mictlan, was ruled by Mictlantecuhtli and his consort Mictecacihuatl.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the Spanish conquest in the sixteenth century, missionaries promoted the Catholic feasts of All Saints' Day and All Souls' Day on 1 and 2 November.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over centuries, local practices and Catholic customs wove together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how much of today's festival comes directly from pre-Hispanic religion, since some features developed much later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What is clear is that the result is uniquely Mexican, neither simply Indigenous nor simply European.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ofrenda.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The heart of the celebration is the ofrenda, an altar built in homes, and sometimes in schools, offices and public squares.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It usually has several tiers covered in cloth and decorated with papel picado, delicate tissue paper cut into patterns.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Photographs of the dead take pride of place, along with things they loved in life: a favourite dish, a bottle of tequila, cigarettes, sweets, toys for children.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Candles light the way, and copal incense perfumes the air.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many families include water to quench the souls' thirst after their long journey, and salt for purification.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building the ofrenda is a family task, and telling stories about the people pictured is part of the point.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remembering keeps the dead present.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marigolds and sugar skulls.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The flower of the season is the cempasúchil, a vivid orange marigold whose name comes from the Nahuatl language.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its strong colour and scent are believed to guide souls, and families scatter petals in paths from the street, or the cemetery, to the altar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bakeries fill with pan de muerto, a soft, sweet bread often flavoured with orange blossom and decorated with strips of dough shaped like bones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sugar skulls, calaveras de azúcar, are moulded from sugar and decorated with coloured icing, sometimes with a person's name across the forehead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are cheerful and bright rather than morbid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They express a familiar attitude: death comes to everyone, so it may as well be met with a smile.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cemetery, Catrina and heritage.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many towns, families clean and decorate graves with marigolds, candles and offerings, and some keep vigil through the night.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On Janitzio island in Lake Pátzcuaro, Purépecha fishermen cross the lake in canoes carrying lights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mood is warm and social, closer to a family reunion than a funeral.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Skeletons dressed as living people have long mocked the powerful in Mexico.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1910s, printmaker José Guadalupe Posada etched a skeleton woman in a grand feathered hat, mocking Mexicans who imitated European fashion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diego Rivera placed her in his 1947 mural, and she became La Catrina.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "UNESCO listed the festival in 2008.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The film Spectre, 2015, invented a Mexico City parade, which the city then staged for real, and Pixar's Coco, 2017, spread the ofrenda worldwide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Día de Muertos is a family celebration of love and remembrance, not a spooky festival.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. King Arthur: how a legend was built.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "There may never have been a King Arthur.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet over a thousand years, writers in Wales, England and France assembled Camelot, the Round Table and the Holy Grail piece by piece.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faint traces after Rome.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roman authority in Britain collapsed in the early fifth century.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over the next two hundred years, Anglo-Saxon groups settled much of what became England, while Britons held out in the west and north.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Written records are extremely thin, which is why legends could flourish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A British monk, Gildas, writing in the sixth century, described a British victory over the Saxons at Mount Badon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tellingly, he never mentions Arthur.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The earliest possible reference is in a Welsh poem, Y Gododdin, which praises a warrior as brave, \"though he was no Arthur\".",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its date is uncertain and the line may be a later addition.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From these faint traces, a towering figure would grow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twelve battles.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 830, the Latin Historia Brittonum, traditionally linked to a monk named Nennius, listed twelve battles fought by Arthur, a \"leader of battles\", ending at Badon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some sites are impossible to locate, and one passage has him carrying an image of the Virgin Mary into combat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A later Welsh chronicle, the Annales Cambriae, records Badon and also Camlann, \"in which Arthur and Medraut fell\".",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Medraut would become the treacherous Mordred.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early Welsh poems and tales show a different Arthur, leading heroes against giants, witches and a monstrous boar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most historians now think there is not enough evidence to say whether a real Arthur existed, though the debate continues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Geoffrey's bestseller.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Arthur most people know was launched by Geoffrey of Monmouth, a cleric in Oxford.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His History of the Kings of Britain, completed around 1136, claimed to be translated from an ancient British book, a claim most scholars doubt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Geoffrey gave Arthur a dramatic life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Merlin's magic lets Uther Pendragon visit Igerna at Tintagel, and Arthur is conceived.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As king, Arthur defeats the Saxons, conquers much of Europe and challenges Rome itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "While he is away, his nephew Mordred seizes the throne and Guinevere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arthur returns, kills Mordred and is mortally wounded, then carried to the island of Avalon to be healed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The book was a medieval sensation, surviving in more than two hundred manuscripts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knights, table and Grail.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Writers across the Channel dressed Geoffrey's warrior king in courtly fashion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1155 the Norman poet Wace retold the history in French verse and introduced the Round Table, where no knight could claim the place of honour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later, Chrétien de Troyes shifted attention from Arthur to his knights.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He gave us the earliest surviving story of Lancelot's love for Guinevere, and first mentioned Camelot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chrétien's unfinished Perceval, from the 1180s, introduced a mysterious graal, a serving dish carried in a procession.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He died before explaining it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon Robert de Boron identified the Grail as the vessel of the Last Supper, and later romances made the quest a spiritual test that most knights failed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pure Galahad, Lancelot's son, achieves it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Malory and the returning king.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1191, monks at Glastonbury Abbey announced they had found the grave of Arthur and Guinevere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The abbey needed funds and pilgrims after a fire, and many historians suspect the find was staged.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It still tied Avalon to Glastonbury.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearly three centuries later, Sir Thomas Malory, who wrote at least part of his work in prison, gathered the French and English stories into one English prose narrative.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "William Caxton printed it in 1485 as Le Morte d'Arthur, and it became the main source for later English retellings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legend said Arthur would return in Britain's hour of need, and he has.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tennyson made him a model of Victorian duty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "H.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "White used him to think about power after two world wars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arthur stands for the hope of a just ruler, and the sadness when good kingdoms fall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Arthur's story grew from very thin records in the obscure centuries after Roman rule ended in Britain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does Día de Muertos differ from Halloween?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It welcomes the dead home with love.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why could Arthur legends flourish in the centuries after Rome?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Written records from the period are extremely thin.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 2,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

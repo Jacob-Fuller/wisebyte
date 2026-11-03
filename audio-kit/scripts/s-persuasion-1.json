@@ -1,0 +1,863 @@
+{
+ "id": "s-persuasion-1",
+ "title": "Persuasion & Rhetoric · Episode 1",
+ "chapters": [
+  "Aristotle's rhetoric: ethos, pathos, logos",
+  "Why stories persuade",
+  "What makes a great speech"
+ ],
+ "units": [
+  {
+   "t": "Persuasion & Rhetoric. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Aristotle's rhetoric: ethos, pathos, logos, Why stories persuade and What makes a great speech.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Aristotle's rhetoric: ethos, pathos, logos.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every ad you scroll past and every speech that moves you is using tools Aristotle catalogued about 2,300 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Persuasion as a science.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Athens in the 300s BC, citizens argued their own court cases and voted directly in the assembly, so speaking well was a survival skill.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paid teachers called sophists taught it, and critics like Plato worried they made the weaker argument look stronger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aristotle took a different approach.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In his Rhetoric, he studied persuasion the way a scientist studies animals, defining it as seeing the available means of persuasion in any case.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He named three modes of proof: ethos, pathos and logos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Good persuasion usually combines them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perfect logic from someone we distrust falls flat, and pure emotion fades once the feeling wears off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ethos and pathos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ethos is the speaker's credibility.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aristotle said we trust speakers who show practical wisdom, good character and goodwill towards us.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are perceptions a speaker builds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tradie mentioning 20 years on the tools, a politician rolling up their sleeves at a flood site, or someone admitting a weakness are all building ethos.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can also be borrowed, which is why companies pay celebrities to endorse products.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pathos is stirring emotions such as fear, pity, anger or hope, because people judge differently when they feel differently.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It becomes a problem only when emotion replaces reasons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's graphic cigarette-pack warnings, required since 2006 and enlarged under 2012 plain packaging laws, make the risk feel real.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Logos and enthymemes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Logos covers facts, examples, statistics and logical steps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aristotle noticed that everyday arguments rarely spell out every premise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called these shortened arguments enthymemes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Buy this car, it has a five-star safety rating' leaves out the premise 'you want a safe car', which the audience fills in themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That participation is part of what makes enthymemes persuasive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also makes them a good place to hide weak assumptions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you hear a punchy argument, try saying the missing premise out loud and ask whether you actually agree with it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fitting the occasion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kairos is often added to Aristotle's three.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a broader Greek idea, linked to earlier teachers such as Gorgias, meaning the right message at the right moment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Home insurance pitches land differently the week after a storm, and a barbecue joke can sink a eulogy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why sunscreen ads peak in summer and gym ads flood January.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aristotle also sorted speeches by purpose.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deliberative speeches argue about the future, such as a budget pitch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forensic speeches argue about the past, as in court.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epideictic speeches praise or blame in the present: eulogies, toasts and award speeches.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing which you are giving helps you choose your tools.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spotting it in the wild.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try this on the next ad or speech you meet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ethos: who is speaking, and is the credibility earned or borrowed?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pathos: what am I being made to feel, and does the feeling match the facts?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Logos: what is the actual claim, what evidence supports it, and what premise is unstated?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kairos: why is this reaching me now?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You will find most effective messages lean on one mode more than the others.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The skill cuts both ways.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It makes you harder to fool, and it makes you a clearer, fairer speaker yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Aristotle's Rhetoric is the earliest surviving systematic study of persuasion, built on three modes of proof: ethos, character, pathos, emotion, and logos, reasoning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Why stories persuade.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Facts tell, stories sell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There's real psychology behind why a good story can change a mind that statistics couldn't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Minds built for narrative.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long before writing, people passed on knowledge through stories: where the water was, which plants were dangerous, who could be trusted.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal Australians have kept oral traditions going for many thousands of years, and some researchers argue certain stories preserve memories of real events such as rising seas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A story gives information a shape: someone wanted something, something got in the way, and something changed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That shape makes facts easier to remember and repeat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists note that a list of facts is quickly forgotten, while the same facts inside a narrative tend to stick.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Transported, and off guard.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2000, psychologists Melanie Green and Timothy Brock described 'narrative transportation': the feeling of being carried away into a story.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People who were more absorbed were more likely to adopt beliefs consistent with the story, and less likely to pick holes in it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Given a list of arguments, we naturally counter-argue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Following a character, we are busy wondering what happens next.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That lowered guard is why a single dramatic anecdote can outweigh solid data.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As an audience, ask whether a story is typical or just vivid, and what the numbers say.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One face beats a million.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a well-known 2007 study, Deborah Small, George Loewenstein and Paul Slovic asked people to donate to a charity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some read about Rokia, a seven-year-old girl from Mali facing hunger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others read statistics about millions of people facing food shortages in Africa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Rokia group gave significantly more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strikingly, adding the statistics to Rokia's story reduced donations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This 'identifiable victim effect' explains why charities lead with one person's story.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is also a reminder that our compassion doesn't scale well with numbers, which matters when big problems are at stake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shape of a story.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1863, German writer Gustav Freytag described a pattern in plays now called Freytag's pyramid: exposition, rising action, climax, falling action and resolution.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Screenwriters often simplify it to three acts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The engine in every version is conflict.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'I went to the shop and bought milk' isn't a story; 'the shop was closed and the baby was screaming' starts to become one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kurt Vonnegut liked to graph a hero's fortune over time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016, University of Vermont researchers tracked the emotional tone of 1,327 novels and found six core arcs: rags to riches, tragedy, man in a hole, Icarus, Cinderella and Oedipus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Icarus, Oedipus and a double 'man in a hole' were among the most downloaded.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using stories well.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common mistake is casting your company as the hero.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Audiences care most about their own problems.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marketers reframe the hero's journey so the customer is the hero and the brand is the wise guide, like Obi-Wan Kenobi.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bank ad showing a young couple collecting the keys to their first home follows this pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At work, try situation, complication, resolution: here's where we are, here's what went wrong, here's what to do.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A two-minute story about one real customer can win more support than twenty slides of data.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use the story to open the door and the evidence to hold it open.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: People remember and pass on information more easily when it comes as a story, because a story gives facts a shape.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. What makes a great speech.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A two-minute address at a cemetery, a hot August afternoon in Washington, a park in Redfern.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why some speeches outlive the people who gave them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brevity and defiance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 19 November 1863, Abraham Lincoln spoke at the dedication of a military cemetery at Gettysburg, months after one of the bloodiest battles of the American Civil War.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main speaker, Edward Everett, talked for about two hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lincoln spoke for two minutes, roughly 270 words, reaching back to 1776 and framing the war as a test of whether a nation built on equality could survive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In May and June 1940, new Prime Minister Winston Churchill offered the Commons 'blood, toil, tears and sweat' and called Dunkirk a colossal military disaster.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His repeated 'we shall fight' is anaphora: repeating the opening words of successive phrases to build momentum.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "King's dream.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 28 August 1963, around 250,000 people gathered at the Lincoln Memorial for the March on Washington for Jobs and Freedom.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Martin Luther King Jr began with a prepared text, using the metaphor of America handing Black citizens a bad cheque marked 'insufficient funds'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partway through, gospel singer Mahalia Jackson reportedly called out for him to tell them about the dream.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "King moved into a passage he had used in earlier sermons.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The repeated line 'I have a dream' replaced an abstract demand with concrete pictures of a fairer future, blending biblical cadence with American ideals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two Australian moments.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 10 December 1992, Prime Minister Paul Keating spoke in Redfern Park, Sydney, six months after the High Court's Mabo decision.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The speech, largely written by Don Watson, said plainly that non-Indigenous Australians had taken the land, brought the diseases and taken the children from their mothers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its power came from 'we': rather than blaming a distant past, it asked listeners to imagine these things done to them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 9 October 2012, Prime Minister Julia Gillard answered Tony Abbott in a roughly 15-minute speech, largely from notes, refusing to be lectured about sexism and misogyny by him.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Opinion in Australia was divided, but the video spread globally, and the Macquarie Dictionary soon broadened its definition of misogyny.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common techniques.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look across these speeches and patterns appear.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Repetition: 'we shall fight', 'I have a dream'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Groups of three, like Lincoln's government 'of the people, by the people, for the people'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contrast, setting what is against what could be.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Concrete images: a bounced cheque, beaches and streets, children taken from their mothers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speechwriters also write for the ear: short sentences, strong verbs and deliberate pauses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many of these devices were catalogued by ancient Greek and Roman teachers of rhetoric, which is why a speech from 1863 and one from 2012 can feel related.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moment and message.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "None of these speeches worked in a vacuum.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lincoln spoke amid a war whose purpose people questioned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Churchill spoke when invasion seemed possible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "King spoke at the height of the civil rights movement.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keating spoke just after Mabo overturned the legal fiction of terra nullius.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gillard spoke after months of heated debate about her treatment as the first female prime minister.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Greeks called this kairos: the right words at the right moment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same lessons work at a wedding, a team meeting or a funeral.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be brief.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build around one memorable line or image.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acknowledge hard truths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speak to what the room feels.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise aloud.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Lincoln's 270-word Gettysburg Address and Churchill's blunt 1940 speeches show that short, honest words can carry great weight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does good persuasion usually combine ethos, pathos and logos?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each mode covers weaknesses in the others.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do facts inside a story tend to stick better than a list of facts?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its want, obstacle and change gives facts a shape.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Repeating 'we shall fight' at the start of successive phrases is an example of what?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Anaphora.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,821 @@
+{
+ "id": "s-australian-history-2",
+ "title": "Australian History · Episode 2",
+ "chapters": [
+  "Federation: how Australia became a nation",
+  "Votes for women: how Australia led the world",
+  "Kokoda: the track that shaped a nation"
+ ],
+ "units": [
+  {
+   "t": "Australian History. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Federation: how Australia became a nation, Votes for women: how Australia led the world and Kokoda: the track that shaped a nation.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Federation: how Australia became a nation.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Until 1901, 'Australia' was six separate British colonies with their own armies, stamps and tariffs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then they voted to unite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Six colonies, one idea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the late 1800s, New South Wales, Victoria, Queensland, South Australia, Western Australia and Tasmania each had their own parliament, laws, defence forces and postage stamps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They charged tariffs on goods crossing borders, and different railway gauges meant passengers and cargo changed trains at Albury.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain still controlled foreign affairs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supporters argued a united nation could defend itself better as powers expanded in the Pacific, and free trade would help business after the severe depression of the early 1890s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A national government could control immigration, a goal tragically tied to keeping Australia 'white'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the 1890s most colonists were Australian-born, and identity grew through painters like Tom Roberts and poets like Henry Lawson and Banjo Paterson.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The people decide.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NSW Premier Henry Parkes, the father of Federation, called for a national government in his 1889 Tenterfield speech and chaired an 1891 convention that drafted a constitution.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Momentum stalled, then ordinary citizens revived it: at Corowa in 1893, a proposal was made for the people to elect delegates to a new convention.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Edmund Barton and Alfred Deakin were key figures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unusually, the Constitution was approved by voters in each colony.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A first round in 1898 fell short in NSW, and after changes a second round passed in 1899.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Western Australia joined last, in 1900.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only some could vote: in most colonies, women and many Aboriginal people were excluded.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Queen Victoria gave royal assent in July 1900.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nation is born.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The new nation was proclaimed in Centennial Park, Sydney, before a crowd of perhaps 60,000 or more, and Edmund Barton became the first prime minister.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parliament met in Melbourne until Canberra, a compromise between Sydney and Melbourne designed by Walter Burley Griffin and Marion Mahony Griffin, was ready in 1927.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One of its first laws was the Immigration Restriction Act, the foundation of the White Australia policy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Constitution divided powers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The federal government handles defence, foreign affairs, trade, immigration and currency, mostly listed in section 51; states keep schools, hospitals, police and roads.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A High Court settles disputes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate gives each original state equal representation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing the Constitution needs a majority of voters nationally and in a majority of states, which is why only 8 of 45 proposals had passed by 2023.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who had a voice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In some ways the new nation was a democratic pioneer.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "South Australia had given women the vote and the right to stand for parliament in 1894, a world first for standing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Commonwealth Franchise Act of 1902 gave most women the right to vote and stand in federal elections, making Australia one of the first countries to do so.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the same Act excluded most Aboriginal and Torres Strait Islander people, and not all Aboriginal Australians gained the federal vote until 1962.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New Zealand took part in early federation talks and is named in the founding Act as a possible state, but chose not to join.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who does what.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Federation still shapes daily life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians vote in federal, state or territory and local elections, and local councils, though important, are not mentioned in the Constitution; referendums to recognise them failed in 1974 and 1988.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ACT and Northern Territory are territories, not states, so the federal parliament can override their laws, and each elects two senators, while each state elects twelve.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you have a problem, it helps to know who is responsible: Centrelink, passports and Medicare are federal; public hospitals, schools, driver licences and police are state matters; bins, local roads and building permits usually belong to councils.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Before 1901 the six colonies acted like separate countries, and defence, trade and identity pushed them together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Votes for women: how Australia led the world.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the 1890s, a colony on the edge of the British Empire did something almost no government on Earth had done: it let women vote and stand for parliament.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story of how Australian women won the vote is full of determined campaigners, giant petitions and some uncomfortable exceptions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A petition 260 metres long.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1891 Victorian campaigners presented parliament with a petition so long it was rolled up like a carpet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Monster Petition carried around 30,000 signatures, gathered door to door by women across the colony.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It did not succeed straight away, but it showed that huge numbers of ordinary women wanted a say.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Similar petitions spread across the colonies in the 1880s and 1890s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Campaigners held public meetings, wrote to newspapers and lobbied members of parliament one by one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many also belonged to the Woman's Christian Temperance Union, which campaigned against alcohol abuse and saw the vote as a way for women to protect their families and communities.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "South Australia goes first.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "New Zealand gave women the vote in national elections in 1893, the first self-governing country to do so.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "South Australia followed in December 1894 and went further: women could both vote and stand for parliament, a world first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary Lee, an Irish-born widow, had campaigned for years, and a petition of more than 11,000 signatures reached parliament in 1894.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opponents hoped adding the right to stand would make the bill too radical to pass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It backfired.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "South Australian women first voted in 1896.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opponents said politics was too rough for women, or that wives would copy their husbands.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporters said women paid taxes and obeyed the laws, so deserved a say.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nation with a catch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the colonies federated in 1901, the new Parliament had to decide who could vote.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Commonwealth Franchise Act 1902 gave women the right to vote and stand for federal Parliament on the same terms as men, making Australia one of the first nations to do so.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the Act also excluded most Aboriginal people, and people from Asia, Africa and the Pacific Islands other than New Zealand, unless they were already entitled to vote in their state.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In practice, many Aboriginal people were denied the vote for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They gained the clear right to enrol for federal elections in 1962, and enrolment and voting became compulsory for them, as for everyone else, in 1984.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First candidates, slow progress.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Catherine Helen Spence, a South Australian writer and reformer, made history in 1897 by standing for the convention that drafted the Constitution, Australia's first female political candidate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the 1903 federal election, four women stood, the first in the British Empire to contest a national parliament.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best known, Vida Goldstein, ran for the Senate in Victoria and won tens of thousands of votes but was not elected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The others were Selina Anderson, Nellie Martel and Mary Moore-Bentley.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Western Australia gave women the vote in 1899, and Victoria was the last state, in 1908.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Edith Cowan became the first woman elected to an Australian parliament in 1921, in Western Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Federally it took until 1943: Enid Lyons, United Australia Party, and Dorothy Tangney, Labor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Women remained a small minority for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pride and its limits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's suffrage story is often told as a simple triumph, and there is real reason for pride.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A young democracy on the far side of the world helped lead a global change that took many countries, including Britain and the United States, decades longer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the same laws that welcomed many women into political life shut out most Aboriginal women and men.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rights are rarely won all at once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today voting is compulsory for adult citizens, and you can check your enrolment on the Australian Electoral Commission's website.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every ballot you cast uses a right people campaigned for, petition by petition, for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Campaigners won attention with enormous petitions, public meetings and relentless lobbying.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Kokoda: the track that shaped a nation.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1942, on a muddy jungle path in Papua, young Australian soldiers fought to stop a Japanese advance on Port Moresby.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kokoda became one of Australia's defining wartime stories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The threat from the north.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early in 1942, Japan seemed unstoppable.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Singapore fell in February, and thousands of Australian soldiers became prisoners of war.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Days later Darwin was bombed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Papua was then an Australian territory, and its capital, Port Moresby, lay just across the sea from Cape York in Queensland.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Japan wanted it as a base to threaten northern Australia and cut its links with the United States.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An attempt by sea was turned back after the Battle of the Coral Sea in May 1942.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So in July Japanese forces landed near Buna and Gona on Papua's northern coast, planning to cross the rugged Owen Stanley Range and seize Port Moresby from behind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A track and its carriers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Kokoda Track runs about 96 kilometres between the outskirts of Port Moresby and the village of Kokoda.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a footpath, used for generations by local people, that climbs and plunges over steep ridges and through dense rainforest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soldiers crawled up slippery slopes, crossed fast rivers and slept in mud.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Malaria, dysentery and exhaustion struck everyone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every bullet, tin of food and stretcher had to be carried in, mostly by thousands of Papuan men, some recruited under pressure.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They hauled supplies forward and carried wounded Australians for days on stretchers, sheltering them at night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sapper Bert Beros's poem called them the Fuzzy Wuzzy Angels, a name some now consider outdated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were poorly paid, and many veterans felt their contribution was never properly honoured.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Militia and veterans.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first Australians in the Japanese path were a small force of Papuan police and soldiers, and the 39th Battalion, a militia unit of young, mostly inexperienced volunteers and conscripts, many still in their teens.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some regulars had mocked militia as 'chocos', chocolate soldiers who would melt under pressure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On Kokoda they did nothing of the sort.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavily outnumbered, they fought desperate actions around Kokoda village, then held at Isurava under Lieutenant Colonel Ralph Honner.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Veterans of the Second AIF, who had fought in the Middle East, then joined the fight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Private Bruce Kingsbury charged forward firing a Bren gun from the hip and won a posthumous Victoria Cross, the first for action on Australian territory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australians could not hold Isurava, but made the Japanese pay for every ridge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turning the tide.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By mid September the Japanese had reached Ioribaiwa Ridge, within sight of Port Moresby's lights according to many accounts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But they were starving and stretched thin at the end of a long supply line.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They had also been defeated by Australians at Milne Bay and were locked in heavy fighting with the Americans at Guadalcanal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were ordered to withdraw.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian troops pursued them back along the track, fighting hard battles at Eora Creek and Oivi to Gorari, and recaptured Kokoda on 2 November 1942.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The campaign ended with bloody battles alongside American troops at Buna, Gona and Sanananda, which lasted into January 1943.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kokoda in memory.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 600 Australians were killed on the Kokoda Track and over a thousand were wounded, with many more struck down by disease.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japanese losses were much greater, many from starvation and illness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cameraman Damien Parer filmed the campaign, and his newsreel Kokoda Front Line won an Academy Award, bringing the jungle war home to cinema audiences.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades Kokoda received less attention than Gallipoli, but that began to change.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1992 Prime Minister Paul Keating knelt and kissed the ground at Kokoda, arguing that Australians had fought there to defend their own country.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today thousands of Australians walk the track each year with Papuan guides, a hard trek that ends at memorials honouring both the soldiers and the carriers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1942 Japan's advance brought war to Australia's doorstep, and Japanese troops landed in Papua to take Port Moresby overland.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What practical problem did different railway gauges cause between colonies?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Passengers and goods changed trains at borders.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did the Monster Petition show politicians?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. That huge numbers of ordinary women wanted a say.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did Japan want to capture Port Moresby?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As a base to threaten northern Australia.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

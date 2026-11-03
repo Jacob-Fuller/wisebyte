@@ -1,0 +1,923 @@
+{
+ "id": "s-religions-3",
+ "title": "World Religions · Episode 3",
+ "chapters": [
+  "Christianity",
+  "How the Bible became a book",
+  "Islam"
+ ],
+ "units": [
+  {
+   "t": "World Religions. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Christianity, How the Bible became a book and Islam.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Christianity.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The world's largest religion began with a Jewish teacher in a small Roman province.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two thousand years later, it shapes the calendar, laws and holidays of countries like Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jesus and his teaching.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Christianity centres on Jesus of Nazareth, a Jewish teacher in Galilee and Judea, then under Roman rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was probably born around 4 BCE and was crucified in Jerusalem around 30 CE under the Roman governor Pontius Pilate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most historians agree he existed, taught, gathered followers and was crucified.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christians believe more: that he is the Son of God and the Messiah, and rose from the dead three days later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "\"Christ\" comes from the Greek for anointed one, translating the Hebrew Messiah.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "According to the Gospels, Jesus taught that people should love God with all their heart and their neighbour as themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He taught through parables, such as the Good Samaritan and the Prodigal Son.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sermon on the Mount includes the Beatitudes and the Lord's Prayer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He welcomed outsiders and healed the sick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bible and core beliefs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Bible has two main parts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Old Testament largely matches the Hebrew Bible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The New Testament has 27 books written in Greek, including four Gospels, the Acts of the Apostles, letters, many by Paul, and Revelation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catholic and Orthodox Bibles include some additional Old Testament books.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It has been translated into more languages than any other book.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Christians believe in one God who exists as a Trinity: Father, Son and Holy Spirit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They believe God became human in Jesus, the incarnation, and that through his death and resurrection people can be reconciled with God and receive eternal life, called salvation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many churches summarise their beliefs in the Nicene Creed, agreed in 325 CE.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most practise baptism and Holy Communion, sharing bread and wine in memory of Jesus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spread and branches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Jesus's death, apostles such as Peter and Paul spread the message across the Roman Empire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early Christians were a small, sometimes persecuted minority.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emperor Constantine legalised Christianity in 313 CE, and in 380 it became the empire's official religion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Armenia, around 301, and the Ethiopian kingdom of Aksum, 330s, had already adopted it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today most Christians live outside Europe, with large growing numbers in Africa and Latin America.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1054, tensions between Rome and Constantinople separated the Catholic Church, led by the Pope, from the Eastern Orthodox churches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1517, Martin Luther's criticisms helped spark the Protestant Reformation, producing Lutheran, Anglican, Baptist, Methodist and many other churches.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catholics, with over a billion members, are about half of all Christians.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christmas and Easter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Christmas, on 25 December, celebrates the birth of Jesus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Orthodox Christians celebrate on 7 January because they follow the older Julian calendar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For Christians, Easter is the most important festival.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is preceded by Lent, a season of about 40 days of reflection and often fasting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holy Week includes Good Friday, remembering Jesus's crucifixion, and ends with Easter Sunday, celebrating his resurrection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easter's date moves each year, falling on a Sunday between late March and late April, based on the spring full moon in the northern hemisphere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Christianity in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Christianity arrived with the First Fleet in 1788, whose chaplain, Richard Johnson, was Anglican.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Irish convict and settler families made Catholicism a major force.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 2021 Census Catholics were the largest group at about 20%, followed by Anglicans at about 10%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Overall, about 44% of Australians identified as Christian, down from much higher levels in earlier decades.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Uniting Church formed in 1977 from Methodist, Congregational and most Presbyterian churches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mary MacKillop, canonised in 2010, is Australia's first saint.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Church-run schools, hospitals and charities remain significant.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Jesus was a Jewish teacher in Roman-ruled Judea who taught love of God and neighbour; Christians believe he rose from the dead.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How the Bible became a book.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The Bible was not written at once, nor agreed on in a single meeting.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It grew over a thousand years, and Christians still do not all have the same list of books.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A library, not a book.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word Bible comes from the Greek ta biblia, \"the books\".",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a library, not a single work, holding law, history, poetry, prophecy, proverbs, letters and visions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it was written in Hebrew and Greek, with some Aramaic, over a span usually put at more than a thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A canon is the official list of books a community accepts as scripture, from a Greek word for a measuring rod.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Jewish Bible has 24 books.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protestant Bibles have 66, Catholic Bibles 73, and Eastern Orthodox and Oriental churches more again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even chapters and verses are late additions: chapters date from the thirteenth century, New Testament verse numbers from 1551.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Torah, Prophets, Writings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jewish scripture is called the Tanakh, an acronym of its three parts: Torah, the Teaching, the five books of Moses, Nevi'im, the Prophets, and Ketuvim, the Writings, including Psalms, Proverbs and Job.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scholars generally think the Torah was recognised as authoritative first, probably by around the fifth or fourth century BCE, then the Prophets.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Writings stayed open longer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rabbinic texts record debates over whether Ecclesiastes and the Song of Songs belonged, and the list seems to have been broadly settled in the early centuries CE.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protestant Old Testaments hold the same material, counted as 39 books rather than 24 because Samuel, Kings and the twelve minor prophets are divided differently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why Christian lists differ.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the third century BCE, Greek-speaking Jews in Alexandria translated their scriptures into Greek.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A legend says seventy-two scholars finished in seventy-two days, hence the name Septuagint, from the Latin for seventy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Greek collections also held books outside the Jewish canon, such as Tobit, Judith, Sirach and Maccabees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early Christians mostly read Greek and used it widely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catholics call these extra books deuterocanonical, and Protestants call them the Apocrypha.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1534 Martin Luther placed them in a separate section, useful but not equal to scripture.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1546 the Council of Trent affirmed them as canonical.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orthodox churches accept more again, and the Ethiopian Orthodox canon is largest, usually counted at around 81 books.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Dead Sea Scrolls.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1947 Bedouin shepherds exploring caves near Qumran, on the north-western shore of the Dead Sea, found jars holding ancient scrolls.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over the next decade around 900 manuscripts, mostly fragments, were recovered from eleven caves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dating mainly from the third century BCE to the first century CE, they include copies or fragments of every Hebrew Bible book except Esther.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Until then, the oldest complete Hebrew Bible manuscripts were medieval, such as the Leningrad Codex of about 1008 CE.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Great Isaiah Scroll, roughly a thousand years older, proved remarkably close to the medieval text.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other scrolls show variant versions, revealing that some books still circulated in more than one form.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not decided at Nicaea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paul's letters, usually dated to the 50s CE, are the earliest New Testament writings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most scholars date the four gospels to roughly 70 to 100 CE.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By around 200 CE the gospels and Paul's letters were widely accepted, while Hebrews, James, 2 Peter, Jude and Revelation stayed disputed longer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Shepherd of Hermas was read in some churches but left out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular claim, spread by novels such as The Da Vinci Code, says Constantine and the Council of Nicaea in 325 CE picked the books.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no evidence for it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nicaea dealt with the nature of Christ, the date of Easter and church discipline.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 367 CE Athanasius wrote the earliest known list matching today's 27 books, and councils at Hippo, 393, and Carthage, 397, endorsed similar lists.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Bible is a library of writings from many authors, and different communities keep different official lists, called canons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Islam.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "About one in four people on Earth is Muslim.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The largest Muslim nation is not in the Middle East, and Muslims first reached Australia's shores long before the cameleers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faith, prophet and Qur'an.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Arabic word Islam means submission to the will of God.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Allah is simply the Arabic word for God.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The central belief is tawhid, the oneness of God.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muslims believe God sent many prophets, including Adam, Abraham, Ibrahim, Moses, Musa, and Jesus, Isa, and that Muhammad was the last.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muhammad was born in Mecca around 570 CE and became a respected merchant.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muslims believe that around 610 he received the first revelation through the angel Jibril, Gabriel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After opposition in Mecca, he and his followers moved to Medina in 622, a journey called the Hijra that starts the Islamic calendar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He died in 632.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Qur'an, revealed over about 23 years, has 114 chapters, called surahs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Arabic original is the true Qur'an; translations are interpretations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Muslims memorise it all, earning the title hafiz.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Five Pillars and Ramadan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muslim practice rests on five pillars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shahada is the declaration of faith: there is no god but God, and Muhammad is the messenger of God.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salat is prayer five times a day, facing the Kaaba in Mecca.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zakat is giving to those in need, commonly 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5% of savings above a set threshold each year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sawm is fasting from dawn to sunset in Ramadan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hajj is the pilgrimage to Mecca, which every adult Muslim who is able should make at least once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ramadan is the ninth month of the lunar calendar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The lunar year is about 11 days shorter than the solar year, so Ramadan moves earlier each year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children, the sick, travellers and pregnant women may be exempt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each evening the fast is broken with a shared meal, iftar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eid al-Fitr, a joyful festival, ends the month.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunni, Shia and the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Muhammad's death, his followers disagreed over who should lead.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those who became Sunni accepted Abu Bakr, a close companion, as the first caliph.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who became Shia believed leadership belonged to Ali, Muhammad's cousin and son-in-law, and his descendants.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shia Muslims mourn the death of Ali's son Husayn at Karbala in 680 each year at Ashura.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today about 85 to 90% of Muslims are Sunni and 10 to 15% Shia, the majority in Iran and Iraq.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sufism, a mystical tradition, is found within both.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only about one in five Muslims is Arab.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Indonesia has the largest Muslim population of any country, followed by Pakistan, India and Bangladesh.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Science and learning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From about the eighth to the thirteenth centuries, scholars in the Islamic world made major advances.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Baghdad, the House of Wisdom gathered and translated Greek, Persian and Indian works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Al-Khwarizmi wrote a founding text on algebra, a word that comes from Arabic, and his name gave us \"algorithm\".",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ibn al-Haytham used experiments to study light and vision.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ibn Sina's Canon of Medicine was taught in European universities for centuries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The numerals we use today, first developed in India, reached Europe largely through Arabic texts, and many stars still carry Arabic names.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Islam in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Contact with Australia is old.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From at least the 1700s, Makassan sailors from Sulawesi, many of them Muslim, visited northern Australia to harvest trepang, or sea cucumber, trading with the Yolngu of Arnhem Land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From the 1860s, cameleers, known as Afghans though many came from British India, opened up the outback and built some of Australia's first mosques.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Ghan train is named after them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the 2021 Census, about 3% of Australians were Muslim.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Islam means submission to the one God, and Muslims believe the Qur'an was revealed to the Prophet Muhammad.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What do most historians agree about Jesus?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He lived, taught and was crucified.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is a canon of scripture?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An official list of books a community accepts.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does the word Islam mean?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Submission to the will of God.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

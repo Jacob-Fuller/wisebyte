@@ -1,0 +1,947 @@
+{
+ "id": "s-coding-3",
+ "title": "Coding Basics · Episode 3",
+ "chapters": [
+  "How websites work",
+  "Bugs and debugging",
+  "Y2K: the disaster that didn't happen"
+ ],
+ "units": [
+  {
+   "t": "Coding Basics. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How websites work, Bugs and debugging and Y2K: the disaster that didn't happen.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How websites work.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Type a web address and a page appears in under a second.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Behind that blink is a relay race across the planet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Browsers and servers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every website visit is a conversation between two computers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your browser, such as Safari, Chrome, Firefox or Edge, is the client: it asks for things.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A server is a computer, usually in a data centre, that stores a website's files and sends them out when asked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Servers are simply computers built to run all day and answer many requests at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big sites run on thousands of them around the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first web server was a NeXT computer in Tim Berners-Lee's office at CERN, with a handwritten label warning colleagues not to switch it off.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first website, info.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "cern.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ch, went live in 1991.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1993 the Mosaic browser displayed pictures alongside text, and public interest exploded.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading a web address.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computers find each other with numeric IP addresses, but people use domain names, which have a structure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Read abc.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "net.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au from right to left: .",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au is Australia's country-code ending.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "net.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au is a category within it, and abc is the name its owner registered.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian names are overseen by auDA, a not-for-profit body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2022, anyone with an Australian connection can register directly under .",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, such as example.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Domain names are rented, not owned outright.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You pay a registrar for one to five years at a time, and if you forget to renew, someone else can grab the name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "HTML, CSS and JavaScript.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Web pages use three main languages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "HTML, HyperText Markup Language, describes what is on the page: this is a heading, this is a paragraph, here is an image, this text links to another page.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is the frame and rooms of a house.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tags wrap around content to mark where each element begins and ends.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Links, the feature that makes the web a web, are part of HTML.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "CSS, Cascading Style Sheets, is the paint and furniture: colours, fonts, spacing and layout, rearranged to fit a phone or a big monitor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "JavaScript is the wiring and plumbing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a menu slides open or a form warns you've missed your postcode, JavaScript is at work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keeping the three separate makes sites easier to build and redesign.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From address to page.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you type an address and press enter, your browser first uses DNS to find the server's numeric address.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It opens a connection and, for secure sites, agrees on encryption, shown by the padlock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It sends a request using rules called HTTP.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The server responds with HTML.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The browser discovers it also needs images, fonts, CSS and JavaScript, requests those, and assembles the page, often within a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Developers split the work in two.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The front end runs in your browser: layout, buttons and animations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The back end runs on servers, handling things you don't see, like checking your password or storing your order.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At checkout, the front end collects your details while the back end processes payment, updates stock and triggers a confirmation email.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Browsing smarter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "HTTPS and the padlock mean your connection to a site is encrypted, so others on the network can't read it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They do not mean the site is honest; scam sites use HTTPS too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always check the domain name carefully, since scammers register look-alike addresses, such as an extra letter or a different ending.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cookies are small files that sites store in your browser to remember logins and preferences, and sometimes to track you across sites.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your browser settings let you view and clear them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing how the web works is one of the simplest ways to stay safe on it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A browser on your device requests files from a server, a computer that stores and sends out the website.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Bugs and debugging.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A moth in a relay, a rocket lost in under a minute, and a rubber duck on a desk: the surprising story of how software goes wrong and gets fixed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What a bug is.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bug is an error that makes a program crash, freeze, show the wrong number or open a security hole.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most bugs are not the computer's fault: it did exactly what it was told, and the instructions were wrong or incomplete.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large programs are enormously complex and people make mistakes, so bugs are unavoidable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debugging, tracking them down, is one of the most important skills in programming.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 9 September 1947, operators of the Harvard Mark II traced a fault to a moth trapped in a relay and taped it into the logbook: 'First actual case of bug being found.'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The joke worked because engineers already called faults 'bugs'; Thomas Edison used the word in the 1870s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The page is held by the Smithsonian.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kinds of bugs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Syntax errors are like spelling or grammar mistakes, such as a missing bracket, and the computer usually refuses to run until they're fixed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Logic errors are sneakier: the program runs happily but gives the wrong answer, like a discount that subtracts 10 dollars instead of 10 percent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then there are edge cases, unusual situations the programmer didn't think of.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What if a surname has an apostrophe, a customer orders zero items, or a date falls on 29 February?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many real-world bugs live at these edges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debugging systematically.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Effective debugging is closer to detective work than guesswork.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, reproduce the bug reliably: exactly what actions make it happen?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next, narrow down where it occurs by checking the program's values at different points.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A handy trick is halving: if the problem is somewhere in 1,000 lines, check the middle, then keep halving.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then form a theory about the cause, change one thing, and test again.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Changing many things at once may make the bug vanish without revealing why, and it may come back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1999 book The Pragmatic Programmer tells of a programmer who explained code line by line to a rubber duck.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Explaining forces you to state what each step actually does, rather than what you assume, and the gap is often where the bug hides.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Costly bugs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 4 June 1996, the first Ariane 5 rocket veered off course and was destroyed about 40 seconds after launch, with four scientific satellites aboard.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guidance code reused from Ariane 4 tried to squeeze a large number, related to horizontal speed, into a space too small.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ariane 5 was faster, so it overflowed and the system shut down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The backup ran identical software and failed the same way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The loss is often estimated at several hundred million US dollars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades, many programs stored years as two digits to save memory, so 1999 was just 99.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The worry was that 00 would be read as 1900.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governments and businesses, including in Australia, spent enormous sums fixing code.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Problems were mostly minor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some argue the threat was exaggerated, but many experts credit the repair effort.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lessons for everyone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bugs affect everyone, not just programmers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Software updates often fix bugs, including security flaws, so installing them promptly is one of the simplest ways to stay safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When reporting a problem to a company or IT help desk, describe it like a debugger would: what you did, what you expected, what actually happened, and whether you can make it happen again.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same mindset works for a car that won't start or a recipe that failed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reproduce the problem, change one thing at a time, and explain it out loud.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes the duck knows best.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A bug is a mistake in software that makes it behave in ways its creators didn't intend.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Y2K: the disaster that didn't happen.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "As 1999 drew to a close, the world braced for computers to think it was 1900.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Midnight came and almost nothing broke.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was it all hype, or one of history's great quiet successes?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saving two digits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s and 1970s computer memory and storage were astonishingly expensive, and a standard punch card had only 80 columns.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Programmers saved space by writing years as two digits: 68 instead of 1968.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few expected the programs to last decades, yet many did.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Banking, payroll, airline and government systems were built in layers on old code, often in COBOL, and rarely replaced.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the 1990s vast amounts of software assumed every year began with 19.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the calendar ticked over to 2000, the year 00 might be read as 1900.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem became known as Y2K, short for Year 2000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arithmetic, not explosions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fear was never that computers would explode.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was arithmetic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a system works out age by subtracting birth year from the current year, 00 minus 65 gives minus 65.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Interest, card expiry dates, warranties and record deletion all rely on comparing dates, and a sorted list might put 2000 before 1999.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some programs also failed to treat 2000 as a leap year, because century years are leap years only if divisible by 400.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny processors sit in lifts, power stations and medical devices, and nobody had a full list of which tracked dates.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most did not, but organisations could not know without testing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The worry was many failures at once, in connected systems.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The great repair job.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Through the late 1990s, programmers combed through old code line by line, and retired COBOL experts were in demand again.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Common fixes were expanding years to four digits, or 'windowing', where a program treats two-digit years below a cut-off, say 50, as 20xx and the rest as 19xx.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Worldwide cost estimates vary widely, often falling between 300 and 600 billion US dollars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia, like many countries, ran national awareness and readiness programs, and governments set up command centres to monitor the changeover.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some critics said much of the money went to overcautious consultants.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others noted that the work also cleaned up and documented ageing systems that needed attention anyway.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Midnight arrives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia and the Pacific reached midnight hours before Europe and North America, so the world watched them for early signs of trouble.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "None came on a large scale.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There were glitches.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some websites showed the year as 19100, because programs added 1900 to the year, and a few ticketing and payment machines misbehaved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Japan some monitoring equipment at nuclear plants reported errors, without any danger to safety.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A US military satellite intelligence system had several hours of problems.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most faults were fixed quickly and passed almost unnoticed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within days, some newspapers that had warned of chaos were asking whether it had all been a beat-up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The preparedness paradox.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Y2K is a classic case of the preparedness paradox: fix a problem before it bites, and the lack of disaster can make the warning look silly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experts still debate how bad things would have been.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some countries that spent little also had few problems, partly because they relied less on old systems.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet many who did the work insist they found serious faults that would have caused real damage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Date bugs have not gone away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many systems count seconds since 1 January 1970, and where that count is stored as a 32-bit number it will overflow on 19 January 2038.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much software has been updated, but the next deadline is ticking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Programmers wrote years as two digits to save scarce memory, leaving old software that might read 2000 as 1900.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is a web server?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A computer that stores and sends out a website.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why are most software bugs not the computer's fault?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It did exactly what it was told, by flawed instructions.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did programmers write years with only two digits?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Memory and storage were expensive, so they saved space.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

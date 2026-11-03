@@ -1,0 +1,1218 @@
+{
+ "id": "s-human-body-1",
+ "title": "The Human Body · Episode 1",
+ "chapters": [
+  "The cell: life's building block",
+  "Your heart and blood",
+  "How breathing works",
+  "How digestion works"
+ ],
+ "units": [
+  {
+   "t": "The Human Body. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The cell: life's building block, Your heart and blood, How breathing works and How digestion works.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The cell: life's building block.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You are a walking city of tens of trillions of cells, each one a busy factory with its own power stations, post office and instruction library.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Seeing the first cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1665 Robert Hooke looked at a thin slice of cork through his microscope and saw rows of tiny empty boxes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They reminded him of the small rooms monks lived in, so he called them cells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was seeing the walls of dead plant cells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon after, the Dutch draper Antonie van Leeuwenhoek, who ground his own lenses, found pond water and tooth scrapings swarming with tiny living creatures: bacteria and other single-celled organisms nobody had seen before.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1830s Schleiden and Schwann argued that plants and animals are built from cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1850s Rudolf Virchow popularised the key addition: every cell comes from another cell.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This overturned the belief that life springs from mud or rotting meat, and it let medicine understand disease as something going wrong in cells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trillions and a smart border.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Recent estimates put an adult human at around 30 trillion cells, thousands of times more than the number of people on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most, by count, are red blood cells: tiny discs with no nucleus, built to carry oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some nerve fibres run a metre from spine to foot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You also carry a similar number of bacteria, mostly in your gut.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every cell is wrapped in a membrane only a few billionths of a metre thick.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a double layer of fatty molecules called phospholipids, with water-loving heads outside and water-avoiding tails inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But a cell needs food in and waste out, so the membrane is studded with proteins that act as gates, pumps and messengers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some let only certain substances through.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others receive signals from hormones or other cells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside the factory.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A typical animal or plant cell is crowded with specialised parts called organelles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The nucleus is the control centre, holding the DNA with instructions for building proteins.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those instructions are copied and sent out, where ribosomes, tiny molecular machines, read them and assemble proteins one building block at a time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A folded network called the endoplasmic reticulum helps make and transport many proteins, and the Golgi apparatus packages and labels them for delivery, a bit like a post office.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mitochondria release energy from food, producing ATP, a molecule that powers almost everything the cell does.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plant cells also have chloroplasts for photosynthesis and a stiff wall for support.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bacteria are simpler cells with no nucleus; their DNA simply floats inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria within us.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of biology's most surprising ideas is that parts of your cells were once separate living things.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The theory, championed by Lynn Margulis from the late 1960s, says mitochondria began as free-living bacteria.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than a billion years ago, one cell engulfed another but did not digest it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two formed a partnership: the guest supplied energy and the host supplied shelter and food.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time the guest became a permanent part of the cell.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The evidence is strong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mitochondria have their own small loop of DNA, similar to bacterial DNA, and they divide on their own, much as bacteria do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chloroplasts in plants appear to have the same kind of origin, from captured cyanobacteria.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You inherit your mitochondria from your mother.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dividing, renewing, going wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You began as a single fertilised egg, and every one of your trillions of cells came from that cell dividing again and again.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before dividing, a cell copies its DNA, then splits so each new cell gets a full set.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This continues throughout life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lining of your gut is renewed every few days, and red blood cells last about four months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most nerve cells in your brain, however, are thought to last most of your life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Division is tightly controlled by signals telling a cell when to grow, stop or die.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cancer is what happens when mutations break those controls, so cells keep dividing when they should not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Understanding the cell is why modern cancer treatments can target specific faults.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Cells were first seen in the 1600s, and cell theory says all living things are made of cells and every cell comes from an existing cell.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Your heart and blood.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your heart beats about 100,000 times a day, pushing blood through tens of thousands of kilometres of vessels.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tireless pump.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your heart sits in the middle of your chest, tilted slightly left, and is about the size of your fist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its cardiac muscle resists fatigue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At rest it beats 60 to 100 times a minute, around 100,000 times a day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A natural pacemaker, the sinoatrial node, triggers each beat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The heart has two upper atria that receive blood and two lower ventricles that pump it out.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The right side sends oxygen-poor blood to the lungs to pick up oxygen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The left side pumps oxygen-rich blood to the whole body, so its ventricle has the thickest wall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four one-way valves keep blood moving the right way, and their closing makes the 'lub-dub' a doctor hears.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vessels and pressure.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Arteries have thick, elastic walls to handle the pressure of each beat; the pulse in your wrist is an artery stretching.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They branch into capillaries, so narrow that red blood cells pass in single file, where oxygen and nutrients move into tissues and waste moves out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Veins return blood at lower pressure, using one-way valves and squeezing leg muscles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laid end to end, an adult's vessels would stretch tens of thousands of kilometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood pressure, like 120/80, is the force on artery walls: the top number as the heart beats, the bottom between beats.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Persistently high pressure often has no symptoms but damages arteries, so regular checks from a GP or pharmacy matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What blood is made of.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An adult has about five litres of blood.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Just over half is plasma, a yellowish liquid carrying nutrients, hormones, salts and proteins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red blood cells, made in bone marrow, carry oxygen using haemoglobin, an iron-rich protein that makes blood red.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their flattened disc shape gives more surface area and lets them squeeze through tight capillaries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "White blood cells, far fewer in number, fight infection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Platelets are cell fragments that clump together to plug wounds and start clotting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red blood cells live about 120 days, and your body replaces them at roughly two million every second.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blood types and donation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Red blood cells carry markers called antigens.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ABO system sorts blood into groups A, B, AB and O, and the Rh factor adds positive or negative.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood with markers your immune system doesn't recognise can trigger a dangerous reaction, so blood is carefully matched.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "O negative can be given to almost anyone in an emergency, so it is always in demand.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AB positive people can usually receive red cells from any group.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, donations are collected by Australian Red Cross Lifeblood.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One donation is split into parts, such as red cells, plasma and platelets, so it can help several patients.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Feeding and protecting it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The heart can't feed itself from the blood inside its chambers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coronary arteries, wrapped around its surface like a crown, supply its muscle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over decades, fatty plaque can narrow them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a plaque ruptures, a clot can block the artery, starving the muscle beyond it of oxygen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is a heart attack, and fast treatment saves muscle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heart disease is a leading cause of death in Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Key risks include smoking, high blood pressure, high cholesterol, diabetes, inactivity and too much alcohol.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exercise, plenty of plants and less salt help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adults 45 and over, 30 for Aboriginal and Torres Strait Islander people, can ask a GP for a Heart Health Check.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For chest pain or pressure, pain spreading to the arm, jaw or back, or breathlessness, call 000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The heart is a fist-sized pump with four chambers, serving two circuits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How breathing works.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You will take around 20,000 breaths today without thinking about any of them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is the clever machinery that keeps the air moving.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Autopilot and diaphragm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You breathe roughly 12 to 20 times a minute, almost none of them by choice.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Breathing runs automatically yet can be taken over by will: you can hold your breath, sing a long note or blow out candles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you stop paying attention, the brainstem quietly takes control back.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every breath delivers oxygen your cells need to release energy from food, and removes the carbon dioxide they produce.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lungs have no muscles of their own.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The diaphragm, a dome of muscle beneath them, contracts and flattens, while rib muscles lift the ribcage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chest enlarges, pressure inside drops below the air outside, and air flows in.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breathing out at rest is mostly passive: the diaphragm relaxes and elastic lungs spring back.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In hard exercise, neck, chest and belly muscles help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hiccups are sudden spasms of the diaphragm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tree, then a swap.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Air passes the voice box, travels down the windpipe and splits into two main branches, one per lung, which divide again and again like an upside-down tree.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The smallest twigs end in tiny air sacs called alveoli.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are hundreds of millions, giving the lungs an enormous surface.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right lung has three lobes, the left only two, leaving room for the heart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The nose warms, moistens and filters the air.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each alveolus is wrapped in hair-thin capillaries.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oxygen crosses into the blood and latches onto haemoglobin in red blood cells, while carbon dioxide moves out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inhaled air is about 21 per cent oxygen, and exhaled air still has roughly 16 per cent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That leftover oxygen is one reason rescue breaths during CPR can help someone who is not breathing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The urge to breathe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold your breath and the urge to breathe becomes overwhelming.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surprisingly, that urge is not mainly caused by running low on oxygen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sensors in the brainstem and major arteries track carbon dioxide in the blood, which also changes its acidity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When carbon dioxide rises, they push you hard to breathe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This carries a safety lesson.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some swimmers and divers hyperventilate before going underwater, blowing off carbon dioxide so they can stay down longer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The urge to breathe is delayed, but oxygen keeps falling, and a person can black out without warning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a known cause of drowning, even among strong swimmers, so hyperventilating before breath-holding in the water is dangerous and should be avoided.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Built-in cleaning crew.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day you breathe in dust, pollen, smoke particles and microbes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your airways are lined with sticky mucus that traps particles, and with millions of microscopic hair-like structures called cilia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cilia beat in coordinated waves, moving mucus up to the throat, where it is usually swallowed without you noticing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists sometimes call this the mucociliary escalator.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coughing and sneezing are the emergency backups, blasting out irritants at high speed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cigarette smoke damages and slows the cilia, which is one reason people who smoke often develop a persistent cough: the body must cough up what the escalator can no longer clear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bushfire smoke is also hard on airways, so on smoky days it makes sense to follow local health advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breathing and how you feel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Breathing is closely tied to the nervous system.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you are anxious, breathing tends to become fast and shallow, and when you are relaxed it slows down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The link works in both directions, so deliberately slowing your breath, especially with a long, unhurried breath out, can help many people feel calmer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exercise does not grow new lung tissue, but it trains the breathing muscles, the heart and the muscles that use oxygen, so everyday activity feels easier.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lung function naturally declines a little with age, and smoking speeds that decline sharply.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breathlessness that is new, sudden or worsening deserves attention.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information rather than medical advice, so if you are worried about your breathing, talk to a doctor or check healthdirect, and in an emergency call triple zero.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Breathing runs on autopilot via the brainstem, and the diaphragm does the work of drawing air in.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. How digestion works.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "From first bite to final exit, your food travels through several metres of tubing and takes a day or more.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what happens along the way.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mouth to stomach.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The digestive tract is a long tube from mouth to anus, often quoted as about nine metres in an adult.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chewing breaks food up, and saliva, about half a litre to one and a half litres a day, contains amylase, which starts turning starch into sugar.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why bread tastes slightly sweet if chewed long enough.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waves of muscle contraction, called peristalsis, push food down the oesophagus, even if you're upside down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The stomach is a stretchy muscular bag that churns food with hydrochloric acid, which kills many microbes, and pepsin, which starts digesting protein.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mucus protects its lining, which renews every few days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a few hours, the thick liquid called chyme is released gradually into the small intestine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The small intestine.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Despite its name, the small intestine is the longest part of the tract, several metres long and a few centimetres wide.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bile from the liver breaks fat into droplets, and pancreatic enzymes break down carbohydrates, proteins and fats into sugars, amino acids and fatty acids.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Millions of finger-like villi, covered in even smaller microvilli, give a huge surface area to absorb nutrients into the blood.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood from the gut goes first to the liver, which processes nutrients, stores energy as glycogen and removes toxins, including alcohol.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The largest internal organ, it can regenerate remarkably.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pancreas also makes insulin, which helps cells absorb sugar.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The large intestine.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What's left, mostly fibre, water and bacteria, passes into the large intestine, or colon, about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 metres long.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here water and salts are absorbed, turning liquid waste into solid stool, which can take a day or more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The colon is home to trillions of bacteria, the gut microbiome.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They ferment fibre, produce some vitamins such as vitamin K, and help train the immune system.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fermenting fibre also makes short-chain fatty acids that help nourish the colon lining.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers are actively studying links between the microbiome and health, though many popular claims go beyond current evidence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hunger and fullness.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your gut and brain talk constantly, through hormones and the vagus nerve.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An empty stomach releases ghrelin, which increases hunger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As you eat, the stomach stretches and the intestine releases hormones that signal fullness.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fat tissue releases leptin, which helps regulate appetite over the longer term.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These signals take time to register, which is one reason eating quickly makes it easier to overeat.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Short sleep and stress also affect appetite; short sleep, for example, is linked to stronger hunger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gut even has its own vast network of nerves, sometimes called the second brain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When things go wrong.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reflux, where acid flows back into the oesophagus, causes heartburn; large meals, lying down after eating and alcohol worsen it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many adults make less lactase after childhood, so dairy may cause bloating.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coeliac disease, an immune reaction to gluten, affects roughly 1 in 70 Australians, and most don't know they have it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Irritable bowel syndrome causes pain and changed bowel habits without visible damage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms overlap, so see a GP rather than cutting out foods on your own.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Australians eat less fibre than recommended.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vegetables, fruit, legumes and whole grains keep you regular and feed healthy bacteria.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seek advice about persistent bowel changes, blood in stool or unexplained weight loss.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Free bowel cancer screening kits are available from age 45.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Digestion starts with chewing and saliva, then the stomach churns food with acid.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which idea is part of cell theory?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Every cell comes from another cell.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Where does the right side of the heart send blood?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To the lungs.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What happens when the diaphragm contracts?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It flattens and enlarges the chest.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is peristalsis?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Muscle waves that push food along.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

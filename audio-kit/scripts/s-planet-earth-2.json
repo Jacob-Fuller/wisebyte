@@ -1,0 +1,869 @@
+{
+ "id": "s-planet-earth-2",
+ "title": "Planet Earth & Climate · Episode 2",
+ "chapters": [
+  "How weather works",
+  "Reading the clouds",
+  "Droughts and flooding rains: Australia's weather"
+ ],
+ "units": [
+  {
+   "t": "Planet Earth & Climate. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How weather works, Reading the clouds and Droughts and flooding rains: Australia's weather.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How weather works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every forecast you check is the result of sunlight, spinning air and some of the most powerful computers on the planet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It starts with the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "All weather begins with sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Sun heats the tropics far more strongly than the poles, because near the equator its rays hit the ground almost head-on, while at high latitudes the same energy is spread over a larger area.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Land also heats and cools faster than water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The atmosphere and oceans constantly try to even out these differences, moving warm air towards the poles and cold air towards the equator.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That restless movement of air, heat and moisture is what we call weather.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weather is the day-to-day state of the atmosphere; climate is the long-term average, usually measured over 30 years or more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Highs, lows and fronts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Air has weight, pressing at sea level with an average of about 1013 hectopascals, the unit on weather maps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sinking air forms a high; it warms and dries, so highs usually bring clear skies, light winds and frosty winter nights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rising air forms a low; it cools, its moisture condenses into cloud, and lows bring wind and rain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Southern Hemisphere, winds circle anticlockwise around highs and clockwise around lows.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A front is the boundary between air masses, such as hot interior air and the cold Southern Ocean.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In southern Australia, cold fronts sweep in from the west every few days.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ahead of one, hot, dry northerlies raise summer fire danger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the wind swings south-west and the temperature can drop ten degrees within an hour: Melbourne's 'cool change'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clouds, rain and hail.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Air always contains invisible water vapour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When air rises, it expands and cools, and cool air holds less vapour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The vapour condenses into tiny droplets or ice crystals around specks of dust, salt or smoke.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Billions make a cloud.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air rises when heated from the ground, forced up by mountains, or lifted by fronts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cumulus are puffy fair-weather clouds, stratus flat grey sheets, cirrus wispy high ice clouds, and towering cumulonimbus bring lightning, hail and heavy rain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To fall as rain, droplets must grow enormously; a raindrop holds around a million cloud droplets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In ice clouds, crystals grow at the expense of supercooled water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hail forms as updrafts carry ice up and down, adding onion-like layers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raindrops are not teardrop-shaped; large ones flatten like a hamburger bun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forecasts and chance of rain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern forecasting feeds observations from weather stations, balloons, ships, aircraft, radar and satellites, including Japan's Himawari, into supercomputers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They divide the atmosphere into a 3D grid and use physics to calculate how it will change.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because tiny errors grow, forecasters run the model many times with slightly different starting conditions, called an ensemble.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forecasts improve by roughly a day of useful accuracy per decade, but detailed forecasts beyond about 10 days remain unreliable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In BOM forecasts, 'chance of rain' means the chance of at least 0.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "2 millimetres at that location, not the share of the area or day that will be wet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check expected amounts too: a 90% chance of 1 millimetre differs from a 40% chance of 30 millimetres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For severe weather, rely on official BOM and emergency service warnings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tropical cyclones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tropical cyclones, called hurricanes or typhoons elsewhere, form over tropical oceans warmer than about 26.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 degrees Celsius.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warm, moist air rises, its vapour condenses and releases heat, and that heat powers a spiralling storm that can be hundreds of kilometres across.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like other lows in the Southern Hemisphere, they spin clockwise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's cyclone season runs from November to April, with around ten forming in our region in a typical season.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Bureau of Meteorology rates them from category 1 to 5; a category 5 brings gusts above 280 kilometres an hour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storm surge and flooding rain often do more harm than wind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cyclone Tracy flattened much of Darwin on Christmas Day 1974, leading to far stronger building codes across the north.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Weather is driven by the Sun heating the Earth unevenly, with the atmosphere and oceans moving heat around.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Reading the clouds.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every cloud has a name, and most have a message about the weather to come.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A young pharmacist worked out how to read them over two hundred years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The man who named clouds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the early 1800s, clouds were thought too fleeting to classify.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then English pharmacist and amateur weather watcher Luke Howard gave a talk in London in 1802, published the next year, called On the Modifications of Clouds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowing from naturalists who sorted plants and animals into families, he proposed a few Latin names.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cirrus is a curl or wisp of hair.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cumulus is a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stratus is a layer or sheet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nimbus refers to rain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They could be combined, so a heaped rain cloud became cumulonimbus.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scheme was so clear that it spread across Europe, and the writer Goethe admired Howard enough to write poems in his honour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How a cloud is born.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Air always holds some invisible water vapour, and warm air holds more.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When air rises, the pressure drops, so it expands and cools.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its dew point it can no longer hold all its vapour, and the excess condenses into droplets or ice crystals around microscopic specks of sea salt, dust, smoke and pollen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air can be forced up by the Sun heating the ground, wind pushing it over mountains, or cold air sliding under warm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small fair weather cumulus about a kilometre across holds roughly 500 tonnes of water, about a hundred elephants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It floats because that weight is spread over billions of tiny droplets, which fall so slowly that gentle updrafts hold them up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High, middle and low.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The World Meteorological Organization's International Cloud Atlas recognises ten main cloud types, grouped by height.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High clouds, roughly five kilometres up or more, are made of ice crystals: wispy cirrus, patchy cirrocumulus and milky cirrostratus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Middle clouds take the prefix alto.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Altocumulus forms rows of puffy patches, and altostratus is a grey veil through which the Sun looks like a smudged coin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Low clouds include stratus, a flat grey blanket that can sit on hilltops as fog, stratocumulus in lumpy layers, and nimbostratus, the thick, dark sheet behind a long day of steady rain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cumulus and cumulonimbus are special because they can stretch from low levels to great heights.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The king of clouds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a hot, humid afternoon, a small cumulus can keep growing as warm, moist air surges upwards inside it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Condensing vapour releases heat, which makes the air rise even faster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A towering cloud like this is cumulus congestus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it keeps going, it becomes a cumulonimbus, whose top can reach twelve kilometres or more, and higher in the tropics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the rising air hits the stable layer at the base of the stratosphere, it cannot rise further and spreads sideways into a flat anvil.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inside, strong updrafts and downdrafts toss raindrops and ice about, building hail and separating electrical charges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cumulonimbus brings downpours, damaging winds, lightning and, occasionally, tornadoes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clouds as forecasts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Clouds are not perfect forecasters, but their patterns carry real information.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High cirrus streaks that thicken into a pale sheet of cirrostratus, sometimes with a halo around the Sun or Moon, often mean a warm front and its rain are approaching within a day or so.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small, flat-topped cumulus on a sunny morning suggest a settled day, but cumulus that swell into tall, cauliflower towers by midday warn of afternoon storms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lens-shaped lenticular clouds near mountains signal strong winds aloft.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clouds still hold surprises.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2017 the Atlas added asperitas, a dramatic, wave-like underside first championed by members of the public in the Cloud Appreciation Society.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Luke Howard's simple Latin cloud names, proposed in 1802, are still the basis of cloud naming today.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Droughts and flooding rains: Australia's weather.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why Australia swings between drought and flood, and what El Niño and La Niña actually mean.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why so dry.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dorothea Mackellar's 1908 poem My Country described 'a land of sweeping plains...",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "of droughts and flooding rains'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She was right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is the driest inhabited continent, and its rainfall varies more from year to year than almost anywhere else.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long droughts, like the Millennium Drought from about 1997 to 2009, can be broken by devastating floods, like those in Queensland in 2010-11.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of Australia lies between about 20 and 35 degrees south, where sinking dry air creates belts of high pressure, the same kind of belt that makes the Sahara and Kalahari.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High pressure means clear skies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The land is also flat, with few high mountains to force moist air upwards, and much of the interior is far from the sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So about 70% is arid or semi-arid, and most people live near the wetter coast.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "El Niño and La Niña.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The biggest driver of year-to-year rainfall in eastern Australia is the El Niño-Southern Oscillation, or ENSO, a pattern in the tropical Pacific Ocean.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Normally, trade winds pile warm water near Australia and Indonesia, which fuels rain clouds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During El Niño, the winds weaken and warm water spreads east towards South America.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rain moves with it, so eastern Australia often gets drier conditions, hotter days and higher bushfire risk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "La Niña is the opposite.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stronger trade winds pile even more warm water near Australia, bringing more evaporation, cloud and rain to eastern and northern Australia, and a higher chance of floods and cyclones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three La Niña years in a row from 2020 to 2022 brought record floods to parts of New South Wales and Queensland.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Indian Ocean and Southern Ocean.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Indian Ocean has its own pattern, the Indian Ocean Dipole, or IOD: a difference in sea temperature between the western and eastern Indian Ocean.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a positive IOD, cooler water near Australia means less moisture and often drier conditions for southern and central Australia in winter and spring.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A negative IOD tends to bring more rain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019 a strong positive IOD combined with other factors to produce extreme drought and heat, setting the stage for the Black Summer bushfires.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Southern Annular Mode describes the movement of the westerly winds circling Antarctica.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they and their cold fronts shift south, southern Australia gets less winter rain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they shift north, more storms reach Melbourne, Adelaide and Perth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The westerlies have tended to sit further south in recent decades, contributing to declining winter rainfall in south-west Western Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bushfire weather.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bushfires need fuel, dry conditions, heat and wind, plus an ignition source like lightning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wet La Niña years can grow extra grass and scrub, which then dries out and provides more fuel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hot, dry winds ahead of cold fronts create the most dangerous fire weather.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Fire Danger Rating system, updated in 2022, has four levels: Moderate, High, Extreme and Catastrophic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Black Summer fires of 2019-20 burned more than 24 million hectares.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Climate change is making dangerous fire weather more frequent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading the forecast.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Bureau of Meteorology monitors ENSO, the IOD and the Southern Annular Mode, and publishes long-range outlooks showing the chances of wetter or drier, warmer or cooler conditions over the coming months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These help farmers decide what to plant, water authorities plan storage and emergency services prepare.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For everyday life, it's worth knowing your local risks, whether flood, fire, cyclone or heat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Have an emergency plan, and follow warnings through the official apps of your state emergency services.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Australia is the driest inhabited continent, with rainfall that swings between drought and flood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does the Sun heat the tropics more strongly than the poles?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Near the equator the Sun's rays strike almost head-on.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does the cloud name 'cumulus' mean?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Heap.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is so much of Australia dry?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Sinking dry air, flat land and few mountains.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,881 @@
+{
+ "id": "s-oceans-2",
+ "title": "The Oceans · Episode 2",
+ "chapters": [
+  "Into the Challenger Deep",
+  "Living light: the glow of bioluminescence",
+  "Sharks: fear versus facts"
+ ],
+ "units": [
+  {
+   "t": "The Oceans. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Into the Challenger Deep, Living light: the glow of bioluminescence and Sharks: fear versus facts.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Into the Challenger Deep.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The deepest point in the ocean lies nearly 11 kilometres down, under pressure that could crush a submarine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two men first reached it in 1960 in a craft held up by petrol.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deepest place.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the western Pacific lies the Mariana Trench, a scar on the seafloor over 2,500 kilometres long, formed where one tectonic plate dives beneath another.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At its southern end is the Challenger Deep, the deepest known place in the oceans, about 10,900 metres down by most recent measurements.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put Mount Everest at the bottom and its summit would still sit more than two kilometres underwater.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is named after HMS Challenger, whose 1870s scientific voyage took a sounding there.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every ten metres of seawater adds roughly one atmosphere of pressure, so at the bottom it is more than a thousand times that at sea level, over a tonne on every square centimetre.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An ordinary submarine would be crushed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bathyscaphe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A crewed vessel needs a thick sphere, which spreads pressure evenly, but such a sphere sinks like a stone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The question was how to float back up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The solution came from the Swiss physicist Auguste Piccard, who had flown balloons into the stratosphere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His bathyscaphe, meaning \"deep boat\", was essentially an underwater balloon: a large petrol-filled float above a small, thick steel crew sphere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Petrol is lighter than water and compresses very little, so it keeps providing lift under enormous pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To descend, the craft carried tonnes of iron pellets as ballast, held by electromagnets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To rise, the crew released the pellets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Auguste and his son Jacques built the Trieste in Italy in the 1950s, and the US Navy later bought it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "23 January 1960.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 23 January 1960, Jacques Piccard and US Navy lieutenant Don Walsh squeezed into the Trieste's cramped sphere, only about two metres across inside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The descent took nearly five hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partway down they heard a loud crack, and later found that an outer window had fractured, though the inner structure held.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They settled onto the seabed, nearly 11 kilometres down, and spent only around twenty minutes there.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their landing stirred up fine sediment that made photographs impossible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Piccard reported seeing a flatfish through the porthole, but many biologists now doubt this, since fish are not thought to survive at that depth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ascent took over three hours, and both men returned to a hero's welcome.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fifty-two years later.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Trieste, no human went back for fifty-two years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Uncrewed vehicles such as Japan's Kaiko reached the deep in the 1990s, while crewed submersibles like Alvin explored shallower sites.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attention flowed to the Space Race, and it was said that more people had walked on the Moon than visited the deepest ocean.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 26 March 2012 filmmaker James Cameron dived alone in Deepsea Challenger, a vertical, torpedo-like submersible designed and built mostly in Sydney, with Australian engineer Ron Allum.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It used syntactic foam, packed with tiny hollow glass spheres, for buoyancy instead of a petrol float.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The descent took about two and a half hours, and he spent around three hours at the bottom before a hydraulic fault cut his time short.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He described a lunar-like, desolate landscape.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deep becomes reachable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2019 the American explorer Victor Vescovo began repeated dives in the Limiting Factor, a titanium-hulled submersible designed to reach the bottom of any ocean again and again.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On his Five Deeps Expedition he reached the deepest points of all five oceans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the following years the craft took a number of people to the Challenger Deep.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In June 2020, Kathryn Sullivan, a former NASA astronaut and the first American woman to walk in space, became the first woman to reach it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dives have also brought sobering news, as researchers have reported plastic debris and human-made pollutants even in the deepest trenches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The bottom of the world is no longer out of reach, and neither, it turns out, is our rubbish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Challenger Deep is nearly 11 kilometres down, where pressure is over a thousand times that at the surface.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Living light: the glow of bioluminescence.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the darkest places on Earth, animals make their own light.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They use it to hunt, hide, flirt and even call the police on their attackers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light from chemistry.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bioluminescence is cold light made by life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Usually a molecule called luciferin reacts with oxygen, helped by an enzyme called luciferase, and the energy comes out as light rather than heat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Different groups evolved their own versions, so glowing has arisen independently dozens of times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some animals make the light themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many deep-sea fish instead house glowing bacteria in special organs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sea is where it thrives.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Off California, researchers found roughly three-quarters of the deep-water animals they observed could make light.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most is blue or blue-green, which travels furthest in sea water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reds fade within metres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some dragonfish make red light near their eyes and can see it, a private searchlight for prey that cannot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hiding in plain light.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the ocean's twilight zone, faint light filters down from above.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Any animal swimming there casts a dark silhouette that predators below can spot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many fish, squid and shrimps solve this by lighting up their undersides to match the glow overhead, so their outline disappears.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is called counter-illumination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hatchetfish use rows of light organs along their bellies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Hawaiian bobtail squid uses glowing bacteria called Vibrio fischeri, held in a light organ.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each morning it expels most of them and regrows the colony, and it can adjust its brightness to match moonlight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is invisibility achieved by adding light rather than taking it away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lures, alarms, smoke screens.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The deep-sea anglerfish dangles a bacteria-lit lure from a modified fin spine on its head and swallows whatever comes to investigate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light also serves defence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny plankton flash when disturbed, and biologists have proposed a burglar alarm effect: the flash may attract larger predators that attack whatever is attacking the plankton.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Certain jellyfish give off pinwheels of light when grabbed, perhaps for the same reason.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others use light as a smoke screen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some deep-sea shrimps and squid squirt glowing fluid instead of dark ink, and the vampire squid can release sticky, glowing mucus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A predator lunging at the bright cloud may miss the animal slipping away into the dark.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fireflies and glow-worms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fireflies are actually beetles, and their flashes are a courtship language.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Males flash species-specific patterns in flight, and females answer from the ground with timed signals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some females exploit this.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In North America, females of the genus Photuris mimic the replies of another genus, lure in eager males and eat them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia and New Zealand have a different light show.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The glow-worms of caves and damp gullies, such as Springbrook in Queensland or Waitomo in New Zealand, are not worms but the larvae of fungus gnats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They hang sticky silk threads from the ceiling and glow blue to attract small flying insects, which become trapped and are reeled in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glowing seas, borrowed light.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes the glow comes to the shore.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tiny single-celled plankton called dinoflagellates flash when disturbed, so breaking waves, paddling feet and kayak strokes can light up electric blue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beaches in Tasmania, Jervis Bay and many places overseas occasionally put on this display.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some fungi glow too, including Australia's ghost fungus, which shines a faint green on rotting wood at night.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists have borrowed nature's lights.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Firefly luciferase is used in laboratories to detect chemical activity, and a green fluorescent protein from a jellyfish became a revolutionary tool for tagging cells and genes, earning the 2008 Nobel Prize in Chemistry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A glow first noticed in the sea now helps researchers watch diseases develop.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Bioluminescence is cold light made by a chemical reaction in a living thing, and most of it happens in the sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Sharks: fear versus facts.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Sharks are older than trees, come in more than 500 species and are far more at risk from us than we are from them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Older than trees.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sharks appeared more than 400 million years ago, earlier than trees, which evolved roughly 385 million years ago, and long before dinosaurs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They have survived several mass extinctions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their skeletons are made of cartilage, the flexible material in your nose and ears, which is why fossil sharks are mostly known from teeth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sharks replace their teeth throughout life, sometimes thousands over a lifetime.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The extinct megalodon, which died out around 3.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 million years ago, may have reached 15 metres or more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are over 500 known species, and most look nothing like the movie villain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The dwarf lanternshark is about 20 centimetres long and glows in the deep sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wobbegongs lie camouflaged on Australian reefs like shaggy rugs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Giants and survivors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The whale shark, the largest fish in the world, can exceed 12 metres yet feeds on plankton.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each year it gathers at Ningaloo Reef in WA.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Greenland shark grows so slowly that a 2016 study estimated some live for several centuries, possibly around 400 years, making it the longest-lived known vertebrate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sharks also reproduce differently from most fish, which scatter huge numbers of tiny eggs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sharks produce a few large, well-developed young, and fertilisation happens inside the female.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some species lay eggs in tough cases; the Port Jackson shark wedges its corkscrew-shaped egg cases into rocky crevices.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many give birth to live pups, and hammerheads and bull sharks nourish their young through a placenta-like connection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cannibal siblings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The grey nurse shark goes further than most.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In each of the mother's two uteri, the first embryo to develop eats its smaller siblings and spare eggs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A litter is usually just two pups, born every second year, and the pups get no parental care once born.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They must fend for themselves from day one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This slow, low-numbers way of reproducing is why many sharks struggle to recover when their numbers fall.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sharks that produce only a few young, mature late and grow slowly cannot quickly replace the animals that are lost.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shark bites are frightening and heavily reported, but rare.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Worldwide, researchers typically record around 50 to 80 confirmed unprovoked bites a year, with fatalities usually in single figures.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, a few people die from shark bites in a typical year, while roughly a hundred or more drown along the coast.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only a handful of species cause most serious bites, chiefly the white, tiger and bull shark.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The danger runs the other way.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A widely cited 2013 study estimated that humans kill around 100 million sharks a year, through fishing, bycatch and the fin trade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A major 2021 study found oceanic sharks and rays had fallen by about 70% since 1970, and around a third of shark and ray species are now threatened.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The east coast grey nurse shark is listed as critically endangered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why sharks matter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As predators and scavengers, sharks shape whole ecosystems.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When large sharks disappear, effects ripple down the food chain, sometimes letting prey overgraze seagrass or reefs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiger sharks are thought to help protect seagrass in Shark Bay, WA, by keeping grazing turtles and dugongs on the move.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia uses nets, baited drumlines, drones, tagging and alert apps, and which mix works best is debated, partly because nets also catch turtles, dolphins and harmless sharks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can lower your own risk: swim at patrolled beaches between the flags, avoid dawn, dusk and murky water, and stay clear of baitfish, birds and people fishing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rips are the far bigger danger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sharks have existed for over 400 million years, longer than trees, and come in more than 500 species, from hand-sized to bus-sized.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why can't an ordinary submarine reach the Challenger Deep?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Pressure over a thousand times sea level would crush it.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What usually produces the light in bioluminescence?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Luciferin reacting with oxygen and an enzyme.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Which of these appeared on Earth first?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Sharks.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

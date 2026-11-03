@@ -1,0 +1,869 @@
+{
+ "id": "s-universe-2",
+ "title": "The Universe · Episode 2",
+ "chapters": [
+  "Eclipses: the cosmic coincidence",
+  "The life and death of stars",
+  "Galaxies and the Milky Way"
+ ],
+ "units": [
+  {
+   "t": "The Universe. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Eclipses: the cosmic coincidence, The life and death of stars and Galaxies and the Milky Way.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Eclipses: the cosmic coincidence.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For a few minutes, day turns to night, the temperature drops and stars appear at noon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It happens because of one of the luckiest coincidences in the solar system.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A perfect fit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold your thumb at arm's length and it can hide a whole building.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Moon does the same trick with the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun is roughly 400 times the Moon's diameter, yet it also sits roughly 400 times farther from us.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both discs therefore look almost exactly the same size in our sky, about half a degree across.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No other planet has a moon that fits its sun so neatly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the Moon passes directly between Earth and the Sun, it can cover the blinding disc completely and leave the faint outer atmosphere, the corona, glowing like a silver crown.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is an accident of geometry, and we happen to live in the right era to enjoy it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Total, annular, partial.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Moon's orbit is not a perfect circle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If an eclipse happens when the Moon is near its closest point, it looks big enough to cover the Sun entirely, giving a total eclipse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near its farthest point, the Moon looks slightly too small and a bright ring of sunlight surrounds it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is an annular eclipse, from the Latin annulus, meaning ring.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone outside the narrow central path sees only a partial eclipse, with a bite taken out of the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The path of totality is usually only about 100 to 200 kilometres wide and races across Earth's surface faster than a jet airliner.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why eclipse chasers travel the world to stand in exactly the right strip of land.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why not every month.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Moon circles Earth roughly once a month, so you might expect an eclipse at every new moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The catch is that its orbit is tilted about five degrees compared with Earth's path around the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most months the new moon slides just above or below the Sun in our sky and nothing happens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eclipses can only occur when a new or full moon lines up with one of the two points where the orbits cross.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These alignments arrive in eclipse seasons, roughly every six months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient Babylonian astronomers noticed that eclipses repeat in a cycle of about 18 years and 11 days, now called the saros.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It let them predict eclipses long before anyone understood orbits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blood moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a lunar eclipse, Earth passes between the Sun and the full Moon, and our planet's shadow falls across the lunar surface.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might expect the Moon to vanish, but it usually glows deep copper or blood red.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reason is our atmosphere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight skimming past the edge of Earth is bent inwards towards the Moon, and most of its blue light is scattered out on the way, the same process that makes sunsets red.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In effect, the Moon is lit by every sunrise and sunset on Earth at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unlike solar eclipses, lunar eclipses can be seen by anyone on the night side of the planet, and they are completely safe to watch with the naked eye.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watching safely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even when most of the Sun is covered, the remaining sliver is intense enough to damage the retina.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The retina has no pain receptors, so you may not notice until afterwards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ordinary sunglasses are nowhere near dark enough.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safe options include certified eclipse glasses or solar viewers meeting the ISO 12312-2 standard, or an indirect method such as a pinhole projector, where you look at an image of the Sun cast onto paper.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Never look through binoculars, a camera or a telescope without a proper solar filter fitted to the front.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The one exception is the brief period of totality, when the Sun is completely hidden.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The moment the first bead of sunlight reappears, the glasses go back on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's turn comes on 22 July 2028, when totality crosses the country, including Sydney.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: The Sun is about 400 times wider than the Moon but also about 400 times farther away, so they look almost the same size.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The life and death of stars.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "How stars are born, why their mass decides their fate, and why many of them don't shine alone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Born in clouds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stars form inside giant, cold clouds of gas and dust called nebulae, made mostly of hydrogen.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Something, perhaps a nearby supernova or a collision between clouds, disturbs the gas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gravity pulls denser clumps together, and as they shrink they heat up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the core reaches about 10 million degrees, nuclear fusion ignites and a star is born.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Orion Nebula, a fuzzy patch in Orion's 'sword', the handle of the Saucepan in Australian skies, is a stellar nursery you can see with the naked eye.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Sun and starlight.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a star's core, hydrogen nuclei are squeezed so hard they fuse into helium, converting a little mass into a lot of energy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Sun converts about 4 million tonnes of matter into energy every second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That outward push balances gravity pulling inwards, and for most of a star's life the two stay locked in balance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun is a fairly ordinary star, 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 billion years old and roughly halfway through its life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its surface is about 5,500°C, its core about 15 million °C.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy can take tens of thousands of years to leave the core, then about eight minutes to reach Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colour shows temperature: reddish Antares is cooler, blue-white Rigel hotter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mass decides fate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A star's mass decides its colour, brightness and lifespan.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Small, cool red dwarfs use fuel so slowly they can shine for trillions of years, far longer than the universe has existed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most stars in the galaxy are red dwarfs, too faint to see by eye.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Massive blue stars burn hot and fast and last only a few million years: more fuel means a shorter life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In about 5 billion years, the Sun will swell into a red giant, perhaps engulfing Mercury, Venus and possibly Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long before then, in about a billion years, its growing brightness will have boiled away Earth's oceans.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It will puff off its outer layers as a planetary nebula, leaving a white dwarf: a dense, Earth-sized ember that cools over trillions of years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The death of a giant.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Massive stars end far more violently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They fuse heavier and heavier elements in their cores, up to iron.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fusing iron doesn't release energy, so the core collapses in less than a second and rebounds in a supernova, an explosion that can briefly outshine a galaxy of billions of stars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The collapsed core becomes a neutron star, so dense that a teaspoon would weigh billions of tonnes, or, if massive enough, a black hole.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stars in pairs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our solitary Sun is a little unusual: close to half of Sun-like stars have at least one companion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Algol, in Perseus, dims noticeably every 2.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9 days as a fainter partner crosses in front of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sirius is circled by a small, faint white dwarf, Sirius B.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a white dwarf pulls enough gas from a close partner, or merges with another white dwarf, it can blow apart in a type Ia supernova.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These reach a predictable peak brightness, so astronomers use them to measure distances across the universe, work that earned ANU's Brian Schmidt a share of the 2011 Nobel Prize in Physics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starlight is also old: light from Sirius, the brightest star in our night sky, left it about 8.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warrumbungle National Park in NSW became Australia's first Dark Sky Park in 2016.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Stars form in nebulae when gravity pulls gas together until the core ignites nuclear fusion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Galaxies and the Milky Way.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "On a dark night in outback Australia you can see our own galaxy's glowing core overhead, and two other galaxies with the naked eye.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our home galaxy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Milky Way is a vast system of stars, gas, dust and dark matter held together by gravity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a barred spiral: a central bar of stars inside a flat disc with spiral arms, all wrapped in a faint halo of old stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It spans roughly 100,000 light-years and holds perhaps 100 to 400 billion stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun sits in a minor arm, the Orion Arm, about 26,000 light-years from the centre.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We orbit at about 800,000 km/h, yet one lap takes around 230 million years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the centre lies a supermassive black hole, Sagittarius A*, about 4 million times the Sun's mass.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because we live inside the disc, we see it edge-on, as a milky band.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "\"Galaxy\" comes from the Greek for milk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A southern sky advantage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians have one of the best views of our galaxy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its brightest part, towards Sagittarius and Scorpius, rides high overhead on winter evenings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Aboriginal cultures trace figures in the dark dust lanes, not just the stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Emu in the Sky has its head in the dark Coalsack beside the Southern Cross, and its body along the Milky Way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For many groups its position is linked to the emu breeding season, though stories differ between Nations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look south on a dark night and you may spot the Large and Small Magellanic Clouds, dwarf galaxies about 160,000 and 200,000 light-years away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal people knew them for thousands of years before Magellan's crew recorded them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For the best view, try a dark site such as Warrumbungle National Park.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galaxy shapes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1920s, astronomer Edwin Hubble sorted galaxies by shape, and his scheme is still broadly used.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spiral galaxies, like ours, have flat discs with arms where new stars form, and many have a central bar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Elliptical galaxies are smooth, rounded collections of mostly older stars with little gas for new ones; the largest known galaxies are giant ellipticals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenticular galaxies sit in between, with a disc but no clear arms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Irregular galaxies have no tidy shape, often because gravity from neighbours has pulled them around.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collisions between galaxies are common over cosmic time, and they can transform one type into another.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Galaxies that eat galaxies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Big galaxies grow by merging with smaller ones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Sagittarius Dwarf Galaxy, found in 1994, is being stretched into streams of stars by our gravity right now.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Data from the Gaia spacecraft showed that a sizeable galaxy, nicknamed the Gaia Sausage, crashed into ours 8 to 11 billion years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many astronomers suspect Omega Centauri, a star cluster easily seen from Australia, is the leftover core of another victim.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, stars almost never hit one another, because the gaps between them are so vast.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our Local Group holds dozens of galaxies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its largest, Andromeda, is about 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million light-years away and approaching at about 110 km/s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2025 study put the odds of a merger within the next 10 billion years at about 50-50.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Andromeda is visible to the naked eye from the north of Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dark matter puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s, astronomer Vera Rubin and colleagues measured how fast stars orbit in spiral galaxies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stars far from the centre moved just as fast as those closer in, far faster than the visible matter's gravity could hold.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Something unseen was adding gravity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers call it dark matter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It seems to make up about 85% of all matter in the universe, forming huge halos around galaxies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody yet knows what it is, and a minority of physicists explore modified gravity instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every galaxy you see in the night sky is only the visible part of something much larger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Let your eyes adjust for 20 minutes under a dark sky and look for yourself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Milky Way is a barred spiral about 100,000 light-years across, holding perhaps 100 to 400 billion stars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do the Sun and Moon look almost the same size from Earth?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The Sun is 400 times larger but 400 times farther away.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What balances the pull of gravity inside a star like the Sun?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The push of energy released by hydrogen fusion.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do we see the Milky Way as a band across the sky?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. We live inside its flat disc and look along it edge-on.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

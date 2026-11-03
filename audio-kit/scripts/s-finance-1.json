@@ -1,0 +1,1194 @@
+{
+ "id": "s-finance-1",
+ "title": "Financial Literacy · Episode 1",
+ "chapters": [
+  "Budgeting that actually works",
+  "Building an emergency fund from scratch",
+  "How compound interest works",
+  "How credit scores work"
+ ],
+ "units": [
+  {
+   "t": "Financial Literacy. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Budgeting that actually works, Building an emergency fund from scratch, How compound interest works and How credit scores work.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Budgeting that actually works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A budget isn't a diet for your money.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's a plan that gives every dollar a job, and it takes about 20 minutes to set up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan, then track.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A budget is simply a plan: deciding in advance where your money goes instead of wondering afterwards where it went.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's not about never spending on fun; it's about spending on what matters to you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surveys consistently find money is one of the biggest sources of stress for Australians, and knowing your numbers replaces vague anxiety with a plan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with reality.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most banking apps sort your spending into categories automatically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look back over one to three months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people are surprised by the total of small regular purchases: coffees, takeaway, delivery fees and forgotten subscriptions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't judge yet; just get the facts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Include irregular costs like car rego, insurance and Christmas by dividing the yearly cost by 12.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 50/30/20 rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A simple starting framework, popularised by US senator and former Harvard professor Elizabeth Warren, is the 50/30/20 rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 50% of after-tax income goes on needs: rent or mortgage, groceries, utilities, transport and insurance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 30% goes on wants: eating out, entertainment, hobbies and holidays.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And 20% goes on savings and paying down debt faster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In high-cost cities, needs often take more than half, so treat the numbers as a guide and adjust them to fit your life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pay yourself first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most effective budgeting habit is automation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Set up an automatic transfer to a separate savings account on payday, before you can spend it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money you never see in your everyday account is much easier not to spend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Australians use 'buckets': separate accounts for bills, everyday spending, savings goals and emergencies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Life guarantees surprises: a car repair, a vet bill, a job loss.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emergency fund turns crises into inconveniences.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common target is three to six months of essential expenses in an easy-access, high-interest savings account.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That sounds like a lot, so start with a smaller goal like $1,000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without a buffer, surprises tend to land on a credit card, where they grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clear high-interest debt.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Credit cards often charge around 20% interest, so paying one off is like earning a guaranteed 20% return.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two popular methods: with the avalanche, you pay the minimum on everything and throw extra money at the debt with the highest interest rate, which saves the most money.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With the snowball, you clear the smallest balance first, building momentum through quick wins.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of buy now, pay later services too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They're convenient, but missed payments bring fees and they make it easy to overspend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cut leaks, make it stick.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The easiest savings are often recurring costs you've stopped noticing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cancel subscriptions you don't use.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once a year, compare your energy, insurance, internet and phone plans; loyalty is rarely rewarded, and switching can save hundreds of dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Government's Energy Made Easy site compares electricity and gas offers for free, in Victoria, use Victorian Energy Compare.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best budget is one you'll keep.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Include guilt-free fun money, or you'll eventually rebel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check in monthly for 15 minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give your savings a purpose, like a holiday or house deposit, and expect imperfect months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not personal financial advice; the National Debt Helpline, 1800 007 007, offers free help if debts feel overwhelming.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A budget is a plan for your money, and the first step is tracking where it currently goes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Building an emergency fund from scratch.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A blown tyre, a vet bill, a sudden gap between jobs: life sends invoices without warning.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emergency fund turns those moments from a crisis into an inconvenience, and you can start with very little.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A buffer changes everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two people face the same expensive car repair.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One pays from savings, feels annoyed and moves on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other uses a credit card, pays interest for months, and when the next surprise hits, the debt grows.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference is not income or intelligence; it is a buffer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common target is about three months of essential expenses: rent or mortgage, bills, groceries, transport and minimum debt repayments.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Casual workers, freelancers and single-income households may want more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starting from zero, break it down: first enough for one surprise bill, then one month of essentials, then two, then three.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add up essentials from bank statements or use Moneysmart's budget planner.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where to keep it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emergency fund needs to be accessible quickly, but not so close that you dip into it for takeaway.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A separate high-interest savings account, ideally not linked to a card, is a common choice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many pay bonus interest only if you meet conditions, such as a monthly deposit and no withdrawals, so read the terms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Losing the bonus in a month you use the fund is fine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have a home loan with an offset account, money held there reduces your interest.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deposits in authorised banks, building societies and credit unions are protected by the government's Financial Claims Scheme up to a limit; check the current limit at fcs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finding the money.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most reliable way to save is to make it automatic.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Set up a regular transfer to your emergency account on payday, before you can spend the money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with an amount that doesn't hurt, even a small sum each pay, and raise it when you can.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add windfalls such as a tax refund, a bonus or money from selling things you no longer use.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you cut a cost, like cancelling an unused subscription or switching to a cheaper phone plan, redirect that saving straight into the fund so it doesn't disappear into everyday spending.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some banks offer round-up features that move small change from each purchase into savings, which can help build the habit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules and refills.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emergency fund only works if it survives until an emergency.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Decide in advance what counts: unexpected, necessary and urgent things, like a failed hot water system, an urgent dental bill, a car repair you need for work, or essentials after losing your job.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holidays, gifts and planned bills like car registration or insurance are not emergencies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Predictable costs belong in a separate sinking fund.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frequent raids may mean your budget needs adjusting, not that you lack willpower.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using the fund is not failure; it did its job and you avoided debt.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then restart your automatic transfers and set a realistic timeframe to refill it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Review your target yearly, as your essential costs change.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have nothing yet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes the emergency arrives before the fund does.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Avoid the most expensive options first, such as payday loans and some consumer leases.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask the business you owe about a payment plan; many tradespeople, vets, utilities and hospitals offer them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you receive certain Centrelink payments, Services Australia may give you an advance payment, which you repay from future payments, and there are crisis payments for specific severe situations; check eligibility at servicesaustralia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The No Interest Loan Scheme can help eligible people with essential costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The National Debt Helpline, on 1800 007 007, offers free financial counselling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once the problem is handled, start your fund, even with a tiny first deposit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An emergency fund stops surprise costs becoming high-interest debt, and about three months of essentials is a common target.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How compound interest works.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Interest that earns interest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's the most powerful force in personal finance, working for you or against you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Interest on interest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Interest is the price of money: what a bank pays you for your savings, or a lender charges you for borrowing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Simple interest is paid only on your original amount, the principal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compound interest is paid on the principal plus the interest you've already earned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your money earns money, and then that money earns money too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same maths applies to investments that reinvest their returns.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put $10,000 in an account paying 5% a year and leave the interest in.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After one year you have $10,500.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In year two you earn 5% on $10,500, so you gain $525 and have $11,025.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The extra $25 is interest on interest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After 10 years you'd have about $16,300; after 20, about $26,500; after 30, about $43,200, more than four times the original, without adding a dollar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time beats amount.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Growth curves upward, gently at first, then steeply.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the example above, the first 10 years added about $6,300, while the last 10 added about $16,700 from the same $10,000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people give up in the early years, just before the curve bends upwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's a famous comparison at a 7% annual return.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alex invests $5,000 a year from age 25 to 35, then stops: $50,000 in total.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sam starts at 35 and invests $5,000 every year until 65: $150,000 in total.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 65, Alex has more than Sam despite contributing a third as much, because Alex's money had an extra decade to compound.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's never too late to start, but small amounts started early are extraordinarily powerful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule of 72.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A handy shortcut: divide 72 by the annual rate to estimate how many years it takes to double your money.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 6%, it doubles in about 12 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 9%, about 8 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 2%, a typical savings rate in some years, about 36 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works in reverse too: to double your money in 10 years, you'd need a return of about 7.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "2%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is an approximation, but it's accurate enough for rates between about 2% and 15%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works against you.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compounding is just as powerful in reverse.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Credit cards in Australia often charge around 20% interest a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the rule of 72, an unpaid balance would roughly double in under four years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paying only the minimum each month can stretch a modest debt over a decade or more, costing far more in interest than the original purchase.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why paying down high-interest debt is often one of the best 'returns' you can get: it's a guaranteed saving at that rate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frequency, fees, inflation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Interest can be added annually, monthly or even daily.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The more often it's added, the sooner it earns interest itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 5%, monthly compounding gives an effective annual return of about 5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "12%, against 5% for yearly compounding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When comparing savings accounts, look for the effective annual rate, and watch for 'bonus' rates that only apply if you meet conditions each month.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anything expressed as a yearly percentage compounds, including costs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A super or investment fund charging 1% more in fees each year doesn't sound like much, but over 30 years it can cut your final balance by tens of thousands of dollars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inflation compounds too, shrinking what your money can buy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So start early, be patient, keep fees low and pay off expensive debt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Compound interest pays interest on your original money plus the interest already earned, so growth snowballs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. How credit scores work.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A three- or four-digit number can decide whether you get a loan, and at what rate.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how to see yours for free.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What a score is.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you apply for a loan, credit card, phone plan or sometimes even a utility account, the provider checks your credit history to judge how likely you are to repay.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A credit score boils that history into a single number.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A higher score suggests lower risk, which can mean easier approval and sometimes better interest rates.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A low score doesn't mean rejection everywhere, but it can limit your options.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, credit reports are kept by credit reporting bodies, mainly Equifax, Experian and illion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each calculates its own score on its own scale: Equifax uses 0 to 1,200, while Experian and illion use 0 to 1,000.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So your score can differ between them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What's in your report.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your credit report includes personal details, the credit accounts you hold and their limits, and every time you've applied for credit, called an enquiry.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also includes up to 24 months of repayment history, showing whether you paid on time each month.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defaults, which are overdue debts of $150 or more that a lender has reported, can also appear, along with bankruptcies and similar insolvency records.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These generally stay on your report for years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenders may check one or more of the credit reporting bodies when you apply, and each may hold slightly different information.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What helps and hurts.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The single biggest factor is paying bills and loan repayments on time, every time.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Setting up direct debits for at least the minimum payment helps avoid accidental misses.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep credit card limits no higher than you need, since lenders consider your total available credit, not just what you've used.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A long, steady history of well-managed accounts also works in your favour.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Missing repayments, especially by more than 14 days, can show up in your history.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Defaults are more serious and can stay on your report for five years even after you pay them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many credit applications in a short period can lower your score, because it can look like financial stress.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy now, pay later became regulated as credit in 2025, so providers may now check and report to credit bureaus.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check and correct.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You have the right to a free credit report from each credit reporting body every three months, and also if you've been refused credit recently.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Request it directly from Equifax, Experian and illion, and look for the free option, as some services try to sell paid subscriptions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Checking your own report doesn't hurt your score.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do it once a year, and before applying for a big loan like a mortgage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reports sometimes contain mistakes, such as a debt that isn't yours or a default already paid.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask the bureau or the lender to correct it, free of charge.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it isn't resolved, complain to the Australian Financial Complaints Authority, AFCA.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of 'credit repair' companies that charge large fees; legitimate negative information can't simply be removed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protect your identity.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Identity thieves sometimes use stolen details to apply for credit in your name, which damages your report.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warning signs include enquiries you didn't make or accounts you don't recognise, which is another reason to check your report regularly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you think your identity has been stolen, you can ask the credit reporting bodies to place a ban on your credit file, stopping anyone accessing it for 21 days, extendable.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "IDCARE, a free national service, can help you respond.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guard your licence, passport and Medicare details carefully.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A credit score boils your credit history into one number that lenders use to judge how likely you are to repay.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the first step in building a budget?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Tracking where your money currently goes.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the main job of an emergency fund?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To keep surprise costs from becoming debt.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What makes compound interest different from simple interest?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. You earn interest on your earlier interest too.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is a credit score for?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It sums up your history for lenders.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

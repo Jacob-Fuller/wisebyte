@@ -1,0 +1,797 @@
+{
+ "id": "s-oceans-3",
+ "title": "The Oceans · Episode 3",
+ "chapters": [
+  "Whales: giants of the sea",
+  "The alien intelligence of octopuses",
+  "The Great Barrier Reef"
+ ],
+ "units": [
+  {
+   "t": "The Oceans. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Whales: giants of the sea, The alien intelligence of octopuses and The Great Barrier Reef.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Whales: giants of the sea.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The largest animal that has ever lived swims in our oceans, and humpbacks pass Australia's coast every winter singing songs that change each year.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mammals that went back.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whales breathe air, are warm-blooded, give birth to live young and feed them milk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They evolved from four-legged land mammals roughly 50 million years ago, and fossils such as Pakicetus, a wolf-sized animal from what is now Pakistan, show early stages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their front limbs became flippers, their back legs shrank to tiny internal bones and their nostrils moved to the top of the head as blowholes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "DNA studies show their closest living relatives are hippopotamuses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whales, dolphins and porpoises together are called cetaceans, in two groups.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Baleen whales, such as blue, humpback and southern right whales, have hundreds of keratin plates, like your fingernails, in the upper jaw to strain krill from water, and two blowholes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toothed whales, including sperm whales, orcas and dolphins, have one blowhole, hunt individual prey and mostly use echolocation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Record breakers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The blue whale is the largest animal known to have ever lived, larger than any dinosaur found so far.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can reach around 30 metres and well over 100 tonnes, and its heart alone can weigh around 180 kilograms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pygmy blue whales feed in Australian waters, including off Perth and in the Bonney Upwelling off South Australia and Victoria.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sperm whale has the largest brain of any animal and dives to depths of over a kilometre to hunt squid.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some bowhead whales in the Arctic are thought to live for more than 200 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The humpback highway.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humpback whales travel each year between feeding grounds in Antarctic waters and breeding grounds in the tropics, one of the longest mammal migrations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One Australian population travels up the east coast to waters inside and near the Great Barrier Reef; the other heads up the west coast to the Kimberley.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The northern migration runs roughly May to August, and the return south, often with calves, from about August to November.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Male humpbacks sing long, complex songs, mostly on the breeding grounds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "All males in a population sing roughly the same song, which slowly changes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers found new songs can sweep east across the South Pacific, from eastern Australia to French Polynesia, within a year or two, a kind of cultural transmission rare outside humans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whaling and recovery.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whaling was one of colonial Australia's earliest export industries, from the early 1800s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the early 1960s the east coast population had collapsed to perhaps a few hundred animals, and the east coast stations closed in 1962.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's last whaling station, at Cheynes Beach near Albany in WA, closed in 1978.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The International Whaling Commission agreed a moratorium on commercial whaling in 1982, effective from 1986.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Protected from hunting, the east coast humpbacks now number in the tens of thousands, and in 2022 they were removed from the national threatened list.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other species, such as blue whales, remain far below their pre-whaling numbers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watching whales well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is one of the best places in the world to watch whales, from shore, boats or planes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To protect them, there are legal approach distances.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vessels must generally stay at least 100 metres away, with larger distances for mothers with calves in many states, and swimmers, jet skis and drones have their own limits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules vary slightly by state, so check before heading out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you see a stranded, injured or entangled whale, do not try to free it yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Call your state's wildlife or marine rescue hotline, as entangled whales can be extremely dangerous.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Whales are mammals that evolved from land animals about 50 million years ago, and their closest living relatives are hippos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The alien intelligence of octopuses.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "An animal that thinks with its arms, tastes with its suckers, changes colour while colour-blind and escapes from aquariums.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An alien intelligence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Octopuses are molluscs, related to snails and clams.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our last common ancestor with them was probably a small worm-like creature that lived over 500 million years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That means octopus intelligence evolved completely independently of ours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philosopher Peter Godfrey-Smith, who spent years diving with octopuses off the New South Wales coast, describes them as the closest thing we'll meet to an intelligent alien.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Studying them helps scientists understand what minds are, and the different ways they can be built.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking arms, tasting skin.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An octopus has around 500 million neurons, similar to a dog.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But about two thirds are in its eight arms, not its central brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each arm has its own cluster of neurons that can process information and control movement semi-independently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An arm can explore a crevice and decide to grab something while the central brain focuses elsewhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even a severed arm can react to touch and grasp food for a while.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common octopus has up to around 2,000 suckers, each packed with chemical receptors, so octopuses 'taste' what they touch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2020, researchers described receptors that let them detect chemicals on surfaces and identify prey hidden in cracks without seeing it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A very different body.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Octopuses have three hearts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two pump blood through the gills; the third pumps it around the rest of the body.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That third heart stops when the octopus swims, which is partly why they tire quickly and prefer crawling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their blood uses a copper-based protein called haemocyanin to carry oxygen, which makes it blue, and it works well in cold, low-oxygen water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also have no bones.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their only hard part is a parrot-like beak, so they can squeeze through any gap larger than it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2016, an octopus named Inky escaped from New Zealand's National Aquarium through a gap in his tank, crossed the floor and slid down a drainpipe into the sea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Masters of disguise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Octopuses can change colour, pattern and even skin texture in a fraction of a second.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thousands of pigment cells called chromatophores, each controlled by tiny muscles and nerves, expand or shrink to show colour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other cells reflect light to create shimmering or white effects, and muscles raise bumps and spikes to mimic rocks or seaweed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remarkably, octopuses appear to be colour-blind, having only one type of light receptor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists are still working out how they match colours so well.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clever but short-lived.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Octopuses can learn to unscrew jar lids, even from the inside, navigate mazes and recognise individual humans, sometimes squirting water at people they dislike.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Indonesia, veined octopuses have been filmed carrying coconut shell halves and assembling them into portable shelters, a rare example of tool use by an invertebrate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Off New South Wales, gloomy octopuses live in small communities nicknamed Octopolis and Octlantis.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet most octopuses live only one to two years, and many species breed once and then die.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One deep-sea octopus was seen brooding her eggs for four and a half years, the longest known of any animal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why evolve a big, costly brain for so short a life?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It remains a mystery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Octopuses evolved intelligence separately from vertebrates, so studying them shows the different ways a mind can be built.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Great Barrier Reef.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The largest structure built by living things on Earth is made by animals smaller than your fingernail, and it is under more pressure than ever.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Animals and algae.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coral may look like rock or plants, but it is made of animals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each coral is a colony of thousands of tiny polyps, related to jellyfish and sea anemones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each polyp has stinging tentacles for catching plankton at night and builds a hard cup of limestone beneath itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over generations, colonies grow on the skeletons of those before them, creating reefs large enough to be seen from space.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reef-building corals have a secret partner: microscopic algae called zooxanthellae that live in their tissues.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They photosynthesise and share sugars, supplying most of the coral's energy, often cited as up to about 90%, and much of its colour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In return they get shelter and nutrients.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is why reefs grow in clear, sunlit, shallow water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Size and diversity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Great Barrier Reef stretches roughly 2,300 kilometres along the Queensland coast, from the Torres Strait to near Bundaberg, and its marine park covers an area larger than Italy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is around 3,000 individual reefs and hundreds of islands and cays.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It supports over 400 kinds of hard coral, more than 1,500 species of fish, six of the world's seven marine turtle species, dugongs, sharks and thousands of molluscs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every spring, a few nights after a full moon, many corals spawn at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reefs have grown along this coast for hundreds of thousands of years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The living reef began forming around 8,000 years ago, as rising seas flooded the shelf after the last ice age.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than 70 Traditional Owner groups hold ongoing connections to its sea country.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coral bleaching.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When sea temperatures stay just one or two degrees above the usual summer maximum for several weeks, the coral-algae partnership breaks down.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The coral expels its algae and turns white, revealing its skeleton through clear tissue.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is bleaching.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bleached corals are not dead, and if temperatures fall soon enough they can regain their algae and recover.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If heat stress is severe or prolonged, they starve and die.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reef had mass bleaching in 1998 and 2002, then in 2016, 2017, 2020, 2022, 2024 and 2025, with 2016 and 2017 killing a large share of shallow-water corals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main threats.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists and the reef's managers agree climate change is the greatest threat, through marine heatwaves that cause bleaching and ocean acidification, which makes it harder for corals to build skeletons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Other pressures add up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Runoff from farms and land clearing carries sediment and fertiliser that cloud the water and can fuel outbreaks of crown-of-thorns starfish, which eat coral.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stronger cyclones smash reefs apart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recovery takes years, often a decade or more for slow-growing corals, and the gaps between events have been getting shorter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parts of the reef have recovered well between events, but that resilience is being tested.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protecting the reef.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Great Barrier Reef Marine Park was created in 1975, following public campaigns against oil drilling and mining on the reef.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1981 it was inscribed on the World Heritage List.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004 the park was rezoned so about a third became green zones where fishing and collecting are banned, one of the largest such networks in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "UNESCO has several times considered listing the reef as 'in danger', which Australian governments have argued against.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1770, James Cook's Endeavour ran aground on it near present-day Cooktown.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Visiting well helps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choose eco-certified operators, never touch or stand on coral, follow zoning rules and take all rubbish home.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some sunscreen ingredients can harm coral in lab studies, though their real-world impact is debated and small next to warming.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest help is cutting emissions and improving water quality.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Corals are colonies of tiny animals that build limestone skeletons, and algae living inside them provide most of their food and colour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What are the closest living relatives of whales?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Hippopotamuses.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is octopus intelligence so interesting to scientists?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It evolved separately from ours.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What are corals?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Colonies of tiny animals.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

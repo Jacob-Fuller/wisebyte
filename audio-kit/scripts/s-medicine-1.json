@@ -1,0 +1,1164 @@
+{
+ "id": "s-medicine-1",
+ "title": "Medicine & Disease · Episode 1",
+ "chapters": [
+  "Germ theory: the idea that saved millions",
+  "Viruses: life's tiny hijackers",
+  "Vaccines: history, science and safety",
+  "Antibiotics and superbugs"
+ ],
+ "units": [
+  {
+   "t": "Medicine & Disease. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Germ theory: the idea that saved millions, Viruses: life's tiny hijackers, Vaccines: history, science and safety and Antibiotics and superbugs.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Germ theory: the idea that saved millions.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For most of history, doctors blamed disease on bad air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then a handful of stubborn scientists proved that invisible living things were to blame.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blaming bad air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For centuries, the leading explanation for epidemics was miasma: foul, poisonous air rising from rubbish, swamps and sewage.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Malaria literally comes from the Italian for 'bad air'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theory wasn't entirely foolish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Filthy places really were more dangerous, and cleaning up cities did reduce disease.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it pointed people at the smell rather than the cause.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors went from post-mortems to childbirth without washing, and nobody suspected that the real killers were too small to see.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Seeing the invisible.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1670s, Dutch cloth merchant Antonie van Leeuwenhoek ground tiny, powerful lenses and looked at pond water, rainwater and scrapings from his own teeth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He saw swarms of moving 'animalcules' and became the first person to describe bacteria.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet for almost 200 years few connected them with illness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many scientists believed microbes arose spontaneously from decaying matter, so they seemed a result of rot, not a cause of sickness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1860s Louis Pasteur boiled broth in flasks with long, swan-shaped necks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air could get in, but dust and microbes were trapped.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The broth stayed clear while the neck was intact; tilt the flask so broth touched the dust, and it quickly spoiled.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This helped overturn spontaneous generation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clues from the field.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1847, Hungarian doctor Ignaz Semmelweis noticed far more mothers died of childbed fever in a Vienna maternity ward run by doctors and students than in the midwives' ward.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a colleague died after cutting himself during an autopsy, with similar symptoms, Semmelweis suspected doctors carried 'cadaverous particles' from corpses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He made staff wash their hands in chlorinated lime, and deaths fell to around 1 to 2%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colleagues rejected his ideas, and he died in an asylum in 1865.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1854 cholera hit Soho, London.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "John Snow suspected contaminated water, mapped the deaths and found them clustered around a Broad Street pump.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearby brewery workers, who drank beer, were largely spared.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pump handle was removed and the outbreak, already waning, ended.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His work is often called the birth of modern epidemiology.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pasteur and Koch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pasteur showed that microbes spoil wine and milk, giving us pasteurisation, which uses gentle heat to kill them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later he developed vaccines, including one for rabies in 1885.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "German doctor Robert Koch turned germ theory into hard proof.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1876 he showed that a specific bacterium caused anthrax in animals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1882 he identified the bacterium behind tuberculosis, then one of Europe's biggest killers, and soon afterwards the cause of cholera.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Koch's postulates set a logical test: the germ should be found in every case of the disease, grown in pure culture, cause the disease in a healthy host, and be recovered again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His techniques, such as growing bacteria on solid plates, are still used.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lister and clean hands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1860s, even a successful operation often ended in death from infection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Glasgow surgeon Joseph Lister read Pasteur's work and reasoned that germs entered wounds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 1867 he used carbolic acid on instruments, dressings and wounds, even spraying it into the air during operations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Infection and death rates on his wards fell sharply.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many mocked him, but by the 1880s antiseptic surgery was spreading.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Listerine, 1879, was named in his honour, though Lister had no part in it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germ theory's simplest lesson is still powerful.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soap and water remove germs and break apart the fatty coat of some viruses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scrub for about 20 seconds, including backs of hands, between fingers and under nails, then dry well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wash before eating, after the toilet, after blowing your nose and after caring for someone sick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol-based sanitiser is a good backup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: For centuries disease was blamed on foul air, which pointed people at smell rather than the real cause.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Viruses: life's tiny hijackers.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "They can't eat, grow or reproduce on their own, yet they outnumber the stars in the observable universe and have left their fingerprints all over your DNA.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genes in a coat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A virus is astonishingly simple: a short set of genetic instructions, in DNA or RNA, inside a protein shell called a capsid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some, like flu and coronaviruses, add a fatty envelope taken from the last cell they infected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It has no machinery to make energy, build proteins or copy itself, and most are far smaller than bacteria, measured in tens to hundreds of nanometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So it hijacks a cell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surface proteins fit particular receptors on particular cells, like a key in a lock.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The COVID-19 virus uses its spike protein to latch onto a receptor called ACE2.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside, the cell reads the viral genes as its own and builds new viruses, which burst out or bud off, ready to infect neighbours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One cell can release thousands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slipping through the filter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1892, the Russian scientist Dmitri Ivanovsky studied a disease that left tobacco leaves blotchy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He passed sap from sick plants through a fine porcelain filter meant to trap bacteria.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To his surprise, the filtered sap could still infect healthy plants.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1898 the Dutch microbiologist Martinus Beijerinck repeated the work and concluded that something new was at play, an infectious agent much smaller than any bacterium that could only multiply inside living cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He used the Latin word virus, meaning poison or slimy liquid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tobacco mosaic virus became the first virus identified, and later one of the first photographed, once electron microscopes produced clear images in the late 1930s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alive or not.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Outside a cell, a virus is inert.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It doesn't eat, breathe, grow or respond to anything, and some can sit on a surface like a speck of dust.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many textbook definitions of life require an organism to run its own metabolism and reproduce by itself, and viruses fail both tests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet inside a cell they multiply furiously, and they clearly evolve by natural selection, the hallmark of living systems.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their genes mutate, and the versions best at spreading come to dominate, which is why new flu vaccines are needed most years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some biologists place viruses on the edge of life, while others argue they deserve a branch of their own.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no single agreed answer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria-eaters and giants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The vast majority of viruses infect bacteria, not us.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These are called bacteriophages, meaning bacteria eaters, and many look like tiny lunar landers, with a head and spidery legs that inject DNA into a bacterium.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists estimate there are around ten million trillion trillion viruses on Earth, far more than the stars in the observable universe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most float in the oceans, where they kill a large share of marine bacteria every day, releasing nutrients that feed other life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then there are the giants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mimivirus, identified in 2003 inside amoebae, was so large that researchers first mistook it for a bacterium.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It even carries genes once thought unique to cellular life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Viruses and us.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Retroviruses, such as HIV, insert their genes into the DNA of the cells they infect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When ancestors' egg or sperm cells were infected, those genes passed to every later generation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly eight per cent of the human genome is now these viral fossils, far more than the small fraction that codes for proteins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are silent, but a retrovirus-derived gene called syncytin helps form a key layer of the placenta.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antibiotics attack structures that bacteria have and viruses lack, so they do nothing against a cold or flu, and taking them needlessly can encourage resistant bacteria.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead we rely on the immune system, vaccines and antiviral drugs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smallpox, which killed hundreds of millions of people in the twentieth century, was declared eradicated in 1980.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A virus is genetic instructions in a protein coat that hijacks a cell to copy itself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Vaccines: history, science and safety.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One idea, tested on a boy in an English village in 1796, went on to wipe a disease that killed hundreds of millions off the face of the Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cowpox and the first vaccine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smallpox killed about 30% of those infected and scarred many survivors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People noticed survivors rarely caught it twice, so healers in China, India and the Ottoman Empire practised variolation: giving healthy people material from smallpox sores, usually causing a milder, protective infection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lady Mary Wortley Montagu helped popularise it in England from 1721.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It worked, but some patients died and could spread smallpox to others.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1796, English doctor Edward Jenner tested a rural belief that milkmaids who caught mild cowpox escaped smallpox.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He scratched cowpox material from milkmaid Sarah Nelmes into the arm of eight-year-old James Phipps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weeks later the boy resisted smallpox.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It would never pass an ethics committee today.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word vaccine comes from vacca, Latin for cow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smallpox and polio beaten.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smallpox killed an estimated 300 million people in the 20th century alone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A global campaign led by the World Health Organization tracked down every case.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last natural infection occurred in Somalia in 1977, and in 1980 smallpox was declared eradicated, the first human disease ever wiped out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Polio, which paralysed many thousands of children each year, was next.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jonas Salk's vaccine passed a huge 1954 field trial involving over a million American children and reached Australia in 1956.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia was declared polio-free in 2000, and wild polio now survives in very few countries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Training the immune system.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every vaccine shows the immune system something that looks like a germ without causing the disease.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Live attenuated vaccines, such as measles, mumps and rubella, MMR, use weakened germs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inactivated vaccines, like most flu shots, use killed germs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Subunit vaccines use one piece of the germ, such as a protein, and toxoid vaccines, like tetanus, use a harmless version of a toxin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newer mRNA vaccines, used against COVID-19, deliver temporary instructions for cells to make one harmless protein.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The HPV vaccine, which prevents several cancers, was developed at the University of Queensland.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fast, then watched.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vaccines face the same phased human trials as other medicines.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pfizer's Phase 3 trial enrolled over 40,000 volunteers and, with the virus spreading widely, reached a clear answer within months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time was saved by overlapping phases, by governments paying for doses early, and by regulators reviewing data as it arrived.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's TGA gave provisional approval in January 2021.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trials of thousands can't catch side effects affecting one person in 100,000, so monitoring continues.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians can report suspected side effects to the TGA, and AusVaxSafety surveys people afterwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021 a very rare clotting condition was linked to the AstraZeneca vaccine, and advice changed to prefer other vaccines for younger adults.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clinics ask you to wait about 15 minutes because severe allergy, though rare, can occur.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Herd immunity and myths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When enough people are immune, an infected person meets too few vulnerable people to keep the disease spreading.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This herd immunity protects newborns, people having cancer treatment and others who can't be vaccinated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measles is extremely contagious, so about 95% of people need to be immune, and it returns quickly when coverage slips.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most damaging myth began with a 1998 paper by Andrew Wakefield linking MMR to autism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was found fraudulent, retracted in 2010, and Wakefield lost his medical registration.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large studies, including one of over 650,000 Danish children, found no link, and vaccines don't overload the immune system.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your records on the Australian Immunisation Register and ask your GP what you need.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Variolation was risky, and Jenner's 1796 cowpox experiment gave the world its first vaccine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Antibiotics and superbugs.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A mouldy dish in 1928 changed medicine forever.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now the bugs are fighting back.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before antibiotics.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before antibiotics, a scratch from a rose thorn, an infected tooth or a farm cut could turn into a fatal infection.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pneumonia, tuberculosis, meningitis and infections after childbirth killed huge numbers of people.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surgery was risky largely because of infection afterwards, and in World War I infected wounds killed many soldiers who would survive today.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In September 1928, Alexander Fleming returned from holiday to his London laboratory and found that a dish of Staphylococcus bacteria had been contaminated by a mould.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around the mould, the bacteria had died.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was Penicillium, and he named the substance penicillin.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But he struggled to purify it, and for about a decade it stayed a laboratory curiosity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An Australian breakthrough.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The breakthrough came at Oxford University, led by Howard Florey, who was born in Adelaide, with biochemist Ernst Chain and a talented team including Norman Heatley.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1940, they purified penicillin, showed it cured infected mice and then treated the first human patients.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With American help, production was scaled up massively during World War II, saving countless wounded soldiers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fleming, Florey and Chain shared the 1945 Nobel Prize in Medicine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What they treat.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antibiotics attack features bacteria have but human cells don't.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Penicillin and its relatives stop bacteria building their cell walls, so they burst.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others block the tiny machines bacteria use to make proteins, or interfere with how they copy their DNA.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can also affect helpful gut bacteria, which is why they sometimes upset the stomach.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Viruses are different.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They have no cell walls or protein-making machinery of their own; they hijack your cells instead.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So antibiotics do nothing against colds, flu, COVID-19 or most sore throats and coughs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taking them for a cold won't help you recover faster, and it exposes your body's bacteria to the drug, which can help resistance develop.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antivirals and vaccines are the tools for viruses.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rise of superbugs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every time antibiotics are used, bacteria that happen to survive can multiply and spread their resistance, even swapping resistance genes with other bacteria.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Overuse in humans and animals speeds this up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result is superbugs: infections that some or most antibiotics can no longer treat.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A major study estimated that in 2019, drug-resistant bacterial infections directly caused about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "27 million deaths worldwide.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fleming himself warned in his 1945 Nobel lecture that misuse could lead to resistance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keeping them working.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everyone can help.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only take antibiotics when a doctor prescribes them, and don't pressure doctors for them for colds or flu.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take them exactly as directed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never share them or use leftovers; return unused medicines to a pharmacy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep your vaccinations up to date and wash your hands well, since preventing infections is the best protection.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Very few new classes of antibiotics have been found in recent decades, partly because they're less profitable than drugs taken daily.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists are searching soil, oceans and even the human body for new compounds, and using AI to screen millions of molecules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're also exploring bacteriophages, viruses that kill specific bacteria, used experimentally on otherwise untreatable infections.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Before antibiotics, minor infections could be fatal; penicillin was discovered by accident in 1928.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why was the miasma theory unhelpful even though cleaning up cities reduced disease?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It pointed people at the smell, not the real cause.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why can't a virus reproduce on its own?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It cannot make energy or proteins itself.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was variolation risky?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It used real smallpox, which could kill or spread.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why was penicillin not a medicine straight after its discovery in 1928?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It was too hard to purify at first.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

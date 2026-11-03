@@ -1,0 +1,1290 @@
+{
+ "id": "s-critical-thinking-1",
+ "title": "Critical Thinking · Episode 1",
+ "chapters": [
+  "Deduction, induction and abduction: three ways to reason",
+  "Correlation vs causation",
+  "How to spot misinformation",
+  "Why conspiracy theories feel so convincing"
+ ],
+ "units": [
+  {
+   "t": "Critical Thinking. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Deduction, induction and abduction: three ways to reason, Correlation vs causation, How to spot misinformation and Why conspiracy theories feel so convincing.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Deduction, induction and abduction: three ways to reason.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Sherlock Holmes called it deduction, but he was usually doing something else.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learn the three basic kinds of reasoning, and what each can and can't prove.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holmes reads Watson.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In A Study in Scarlet, published in 1887, Sherlock Holmes shakes hands with Dr John Watson and says, ‘You have been in Afghanistan, I perceive.’",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watson is astonished.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holmes later explains his chain of thought.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here was a gentleman of a medical type with a military air, so probably an army doctor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His face was tanned but his wrists were pale, so he had recently come from the tropics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He looked haggard and held his left arm stiffly, suggesting illness and an injury.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where might an English army doctor recently have suffered such hardship?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afghanistan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holmes called this the science of deduction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Logicians would say he was mostly doing something different.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To see why, we need three kinds of reasoning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deduction: certainty.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deduction moves from general statements to a conclusion that follows necessarily.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "All humans are mortal; Socrates is human; therefore Socrates is mortal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both starting statements, called premises, are true, the conclusion cannot be false.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is deduction's great strength: certainty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its weakness is that the conclusion contains nothing that wasn't already packed inside the premises.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deduction also depends completely on the premises being right.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An argument can be valid in structure and still reach a false conclusion if a premise is wrong: all birds can fly; penguins are birds; therefore penguins can fly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Logicians call an argument ‘sound’ only when it is valid and its premises are actually true.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Induction: patterns.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Induction works the other way, from particular observations to general conclusions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sun has risen every morning in recorded history, so it will rise tomorrow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every swan Europeans had ever seen was white, so all swans must be white.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of our everyday knowledge, and much of science, rests on reasoning like this, and usually it serves us well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But an inductive conclusion can always be overturned by new evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1697 the Dutch explorer Willem de Vlamingh and his crew saw black swans on a river in what is now Western Australia, which became known as the Swan River.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A belief backed by countless observations was undone by a single flock of birds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Induction also fails when we generalise from too few cases, such as judging a whole city on one rude waiter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Abduction: best explanation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The American philosopher Charles Sanders Peirce named a third kind, abduction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It starts with a surprising observation and asks what would best explain it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lawn is wet this morning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Did it rain, did the sprinkler run, or did dew form?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bone-dry footpath points to the sprinkler.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is also called inference to the best explanation, and it is what Holmes was really doing with Watson.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors diagnosing from symptoms and mechanics tracing an engine noise do the same.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is risky, because the best explanation you can think of may not be true: perhaps Watson was tanned from a holiday and hurt his arm falling off a horse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treating abduction as deduction is a known fallacy, affirming the consequent: ‘If it rained, the lawn would be wet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lawn is wet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Therefore it rained.’",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using all three together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In practice the three kinds of reasoning work as a team, and science is a good model.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A researcher notices something odd and uses abduction to propose a likely explanation, called a hypothesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They then use deduction to work out what should happen if that explanation is true: if this fertiliser helps plants grow, then plants given it should grow taller than identical plants without it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finally they gather observations and use induction to judge whether the evidence supports the idea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the cycle starts again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can do the same with everyday puzzles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you land on an explanation, ask what else could explain the facts, what your idea predicts, and whether you've checked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Holmes's first meeting with Watson shows reasoning from small clues to a big conclusion, though not strictly deduction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Correlation vs causation.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ice-cream sales and drownings rise together.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Does ice cream kill?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most useful idea for reading any headline.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moving together.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A correlation means two things tend to change together.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As ice-cream sales rise, so do drownings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Countries that eat more chocolate win more Nobel Prizes per person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People who carry lighters get lung cancer more often.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All of these correlations are real.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But in none of them does the first thing cause the second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Correlation doesn't imply causation' is one of the most important phrases in science, and one of the most ignored in headlines and advertising.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hidden factors and flipped arrows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Often a third factor, called a confounding variable, drives both things.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hot weather makes people buy ice cream and go swimming, so drownings rise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wealthier countries eat more chocolate and also fund more research.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smoking causes people to carry lighters and causes lung cancer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask: is something causing both?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes the arrow points the other way.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People who use walking sticks tend to be less mobile, but the sticks don't cause it; poor mobility leads people to use sticks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do diet soft drinks cause weight gain, or are people already worried about their weight more likely to choose them?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always consider whether the effect might be the cause.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pure coincidence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With enough data, some things line up by pure chance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For about a decade, the number of films Nicolas Cage appeared in each year closely tracked the number of people who drowned by falling into US swimming pools.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Per capita cheese consumption tracked the number of people who died by becoming tangled in their bedsheets.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The writer Tyler Vigen collects these 'spurious correlations'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you compare enough random things, some will match beautifully while meaning nothing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Observing and testing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many health headlines come from observational studies, where researchers observe what people do rather than assigning treatments.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They're valuable and sometimes the only ethical option: you can't randomly assign people to smoke.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But people who choose to do something differ in other ways.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good studies adjust for known confounders like age, income and smoking, but unknown ones can still mislead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gold standard for cause and effect is the randomised controlled trial.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Participants are randomly assigned to groups, such as a new drug or a placebo.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Randomisation makes the groups similar in every way, including factors nobody measured, so the treatment is the only systematic difference.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blinding, where people don't know their group, further reduces bias.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building the case, reading headlines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes causation can be shown without trials.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The link between smoking and lung cancer was proven by overwhelming evidence: it was very strong, appeared in study after study and different populations, more smoking meant more risk, quitting reduced it, smoking came first, and laboratory research showed how smoke damages cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epidemiologist Austin Bradford Hill set out such criteria in 1965, and they're still used.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Headlines often turn correlations into causes: 'Coffee makes you live longer' when coffee drinkers merely lived longer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watch for 'causes', 'boosts', 'prevents'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask: Was this an observational study or a randomised trial?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What else could explain the link?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Could the cause run the other way?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A correlation means two things change together, which doesn't mean one causes the other.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How to spot misinformation.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "False stories spread faster than true ones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Professional fact-checkers use a few simple habits you can copy in 30 seconds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why falsehood spreads.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A major 2018 MIT study of millions of tweets found that false news spread further, faster and deeper than true news, and was about 70% more likely to be retweeted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People, not bots, were mainly responsible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "False stories tend to be more novel and emotionally charged, triggering surprise, fear or disgust, which is what makes us share them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a post makes you instantly furious, frightened or triumphant, slow down.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Misleading content is often engineered to provoke emotion, because emotion bypasses careful thinking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watch especially for content that confirms what you already believe about people you disagree with.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The stronger your reaction, the more worth spending 30 seconds checking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mistakes and deception.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Misinformation is false or misleading information shared by people who believe it, like a relative forwarding a fake health tip.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Disinformation is false information spread deliberately to deceive, for profit, politics or to cause chaos.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's also malinformation: true information used out of context to mislead, like an old photo presented as happening today.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of what spreads online is a mix: a kernel of truth wrapped in exaggeration or missing context.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It isn't only 'other people' who fall for it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's designed to exploit everyone's instincts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "SIFT and lateral reading.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Digital literacy expert Mike Caulfield developed a four-step method called SIFT.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stop: pause before reacting or sharing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Investigate the source: who's behind this, and what's their expertise and agenda?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Find better coverage: see what trusted outlets or fact-checkers say.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trace claims, quotes and media to their original context.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most checks take under a minute.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Stanford researchers compared professional fact-checkers, historians and students evaluating websites, the fact-checkers were fastest and most accurate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their secret was lateral reading: rather than scrolling the site itself, they opened new tabs and searched for what others said about the source.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Professional-looking sites and official-sounding names are easy to fake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What independent sources say is much harder to fake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Images and fact-checkers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photos and videos are often real but taken out of context: an old flood picture reshared as a new disaster, or footage from another country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A reverse image search, using tools like Google Lens or TinEye, can reveal where and when an image first appeared.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For video, screenshot a key frame and search that.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clues like signs, shop names, number plates, weather and which side of the road cars drive on can confirm where it was taken.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Independent fact-checkers investigate viral claims and publish their evidence, including AAP FactCheck in Australia, and Full Fact and Snopes internationally.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Search the claim plus 'fact check'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Prebunking', learning manipulation techniques like fake experts and emotional language in advance, helps people resist misinformation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You're doing that right now.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Talking to believers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When friends or family share misinformation, mocking or lecturing usually backfires, making people defend their views harder.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's more effective to stay curious and respectful: ask where they heard it and what would change their mind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Share a reliable source privately rather than correcting them in public.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Explaining how a manipulation technique works can be more persuasive than arguing about the specific claim.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And model good behaviour yourself: when you share something that turns out to be false, correct it openly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: False stories spread faster than true ones, driven by people responding to emotion rather than by bots.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Why conspiracy theories feel so convincing.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Real conspiracies happen, yet most grand theories about secret plots fall apart.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learn why they grip clever people, and how to tell a real cover-up from a story.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some conspiracies are real.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1972, burglars were caught inside the Democratic Party's offices in the Watergate building in Washington.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over two years, journalists and investigators uncovered a cover-up that reached the White House, and President Richard Nixon resigned in 1974.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades, tobacco companies also played down what their own scientists knew about smoking's harms.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So powerful people sometimes collude and lie.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is what makes conspiracy theories plausible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question isn't whether conspiracies ever happen.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is how to tell real ones, uncovered through documents, whistleblowers and court cases, from the many theories that never produce solid evidence however long people look.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why they feel true.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When something shocking happens, a small, random cause feels insulting.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologists call this proportionality bias: a big effect seems to need a big explanation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1963 assassination of John F.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kennedy is a classic case.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A lone gunman changing history feels wrong, so a grand plot seems fitting.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recognise when an explanation appeals mainly because it feels emotionally right.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our ancestors who assumed a predator in a rustle in the grass were safer than those who assumed wind.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many researchers think this shaped minds that over-detect patterns and intentions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conspiracy theories turn chaos into a story with villains and a plan.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That can be comforting, since someone is in charge.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People are more drawn to them when anxious, powerless or uncertain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The self-sealing story.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is a warning sign worth memorising.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask a believer what evidence would change their mind.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the answer is 'nothing', or every piece of contrary evidence is explained away as part of the plot, the theory has become self-sealing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Missing evidence proves the cover-up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Official denials prove the cover-up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experts who disagree are in on it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This structure feels powerful because it can't be refuted, but that is exactly its weakness.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A claim that survives every possible observation tells you nothing about the world.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real investigations work the other way.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Journalists who exposed Watergate could point to money trails, tapes and witnesses.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a theory's main evidence is the absence of evidence, be cautious.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem of numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Apollo programme employed hundreds of thousands of people across government agencies, universities and private companies.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hoax would have needed all of them, plus rival scientists in the Soviet Union who tracked the missions, to stay silent for over fifty years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2016, physicist David Grimes published a model estimating how quickly large conspiracies would be likely to leak.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His rough conclusion was that secrets involving thousands of people tend to come out within a few years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't need the maths to see the logic.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People talk, change jobs, write memoirs, fall out with their bosses and seek fame.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real conspiracies usually involve small groups, and even those are often exposed eventually.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Motives and talking it through.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask not only who benefits from the alleged plot but who benefits from you believing it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some promoters sell supplements, courses or subscriptions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others earn advertising money, and outrage keeps people watching.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some foreign governments have spread divisive stories to weaken trust in other countries' institutions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None of this proves a claim false, but apply scepticism evenly, to governments and corporations and to influencers telling you what they are hiding.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone you care about is deep in a rabbit hole, mockery backfires.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask genuine questions: what first made you think this, and what would change your mind?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Find common ground and share your own uncertainty.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prebunking, such as Cambridge's online games, teaches manipulation tricks in advance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People rarely leave a belief by losing an argument, but often return through trusted friends.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Real conspiracies happen, but they are uncovered through documents, whistleblowers and court cases, not by theories that never produce solid evidence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which kind of reasoning was Holmes mostly using when he guessed Watson had been in Afghanistan?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Abduction.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does 'correlation doesn't imply causation' mean?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Linked trends need not be cause and effect.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do false stories tend to spread faster than true ones?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They're novel and emotional, so people share them.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How are real conspiracies usually uncovered?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Through documents, whistleblowers and court cases.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

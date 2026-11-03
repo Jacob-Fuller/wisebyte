@@ -1,0 +1,1152 @@
+{
+ "id": "s-art-1",
+ "title": "Art History · Episode 1",
+ "chapters": [
+  "The first artists",
+  "The colourful history of paint",
+  "Aboriginal art",
+  "Michelangelo and the Sistine Chapel ceiling"
+ ],
+ "units": [
+  {
+   "t": "Art History. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The first artists, The colourful history of paint, Aboriginal art and Michelangelo and the Sistine Chapel ceiling.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The first artists.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Tens of thousands of years before writing, people crawled into dark caves and painted animals so well they still take your breath away.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Older than writing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Writing is only about 5,000 years old, but people made pictures long before that.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Painted and engraved animals, people and hands have been found on every inhabited continent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time Europe was thought to be the birthplace of cave art.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Discoveries on Sulawesi, Indonesia, overturned that: hand stencils were dated in 2014 to about 40,000 years, a warty pig painting at least 45,500 years in 2021, and a scene of human-like figures with a pig at least 51,200 years in 2024.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These dates come from mineral crusts that formed over the paint, so they are minimum ages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hand stencil on the Indonesian island of Muna, dated in 2026, is at least 67,800 years old, the oldest known rock art.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Art is one of the oldest things our species does.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lascaux and Chauvet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In September 1940, four teenagers followed a hole near Montignac, France, and found Lascaux, with around 600 paintings and 1,500 engravings made roughly 17,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its Hall of the Bulls shows horses, deer and huge aurochs, an extinct wild cattle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Visitors' breath and body heat damaged the walls, so the cave closed to the public in 1963.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today people visit replicas.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1994, three explorers found Chauvet Cave in the Ardèche.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its paintings are more than 30,000 years old, roughly twice Lascaux's age, yet just as skilful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The artists used shading, scraped the rock paler, and drew overlapping outlines that suggest movement, like frames of animation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many animals are dangerous ones: cave lions, woolly rhinoceroses, mammoths and bears.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chauvet has never been opened to the public; a replica opened nearby in 2015.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's living art.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has one of the largest and longest rock art traditions in the world, created by Aboriginal and Torres Strait Islander peoples.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Kimberley, Gwion Gwion paintings show elegant figures with tassels and headdresses, and a painted kangaroo is about 17,000 years old.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arnhem Land and Kakadu sites such as Ubirr show fish and animals in 'x-ray' style.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Murujuga on the Burrup Peninsula holds more than a million engravings, and joined the World Heritage List in 2025.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "European cave art's meaning is guesswork, but much Australian rock art is different.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Traditional Owners still care for the sites and know the stories, and in places have repainted them within living memory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some Arnhem Land paintings show Macassan boats, European ships, horses and rifles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many sites are sacred.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Go with a guide or follow posted guidance, and never touch the paintings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why make it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For the ancient European caves, we can only infer purpose, and every theory is debated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early scholars suggested 'hunting magic', painting animals to help catch them, but the animals shown often don't match what people mostly ate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others argue the deep, hard-to-reach chambers point to ritual or spiritual experience.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Art may also have passed on knowledge about animals and seasons, told stories, or marked who belonged to a place.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Handprints feel like a signature: 'I was here.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is likely there was no single reason, just as there isn't for art today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What this means.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cave art is a reminder that people tens of thousands of years ago were not simple or primitive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They had the same brains we do, and the same urge to observe carefully, remember and share.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you look at a Chauvet lion or a Kimberley figure, you are seeing the work of someone who studied the world closely and wanted it to last.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can explore online virtual tours of Lascaux and Chauvet, visit rock art sites in Kakadu or near Sydney with a guide, and read about the Traditional Owners who care for them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Art is far older than writing, and some of the oldest known images come from Indonesia, not Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The colourful history of paint.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some colours were once worth more than gold.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others were made from snails, insects or even Egyptian mummies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The story of pigments is a story of trade, chemistry, danger and luck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth in your palm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pick up a lump of red or yellow earth, grind it to powder, mix it with water or fat, and you have paint.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ochre, a clay coloured by iron oxides, is among the oldest pigments people used.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans were collecting and processing it tens of thousands of years ago, and it appears in ancient rock art worldwide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, Aboriginal and Torres Strait Islander peoples have used ochre for a very long time, for painting rock, bark and bodies, and in ceremony.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some sources were highly valued and traded over long distances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heating yellow ochre turns it red, a trick early people seem to have discovered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth colours such as raw sienna and burnt umber remain on every artist's palette today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colours worth more than gold.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The finest medieval and Renaissance blue came from the mines of Badakhshan in what is now Afghanistan, where lapis lazuli was dug from the mountains.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Grinding the stone gave a dull greyish powder, so craftspeople kneaded it in a dough of wax and resin and washed out the pure blue particles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result, ultramarine, meaning 'from beyond the sea', could cost more than gold by weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contracts sometimes specified how much a painter had to use, and it was often kept for the robes of the Virgin Mary.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The city of Tyre, in today's Lebanon, became famous for a dye from murex sea snails.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each snail yields a tiny amount, so the dye needed vast numbers and smelled awful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In ancient Rome, a purple stripe marked senators, and emperors claimed the deepest purple for themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beautiful and deadly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many old pigments were dangerous.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lead white, the main white paint for centuries, was toxic, and painters who handled it often risked lead poisoning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1775 the Swedish chemist Carl Wilhelm Scheele made a vivid green from copper and arsenic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scheele's green, and the related emerald green, became fashionable in the nineteenth century for wallpapers, clothing and even sweets.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They released arsenic as they aged or got damp, harming the people who lived with them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then there was mummy brown, a rich paint made from ground-up Egyptian mummies and sold by colourmakers until the twentieth century.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some artists were horrified when they learned what it contained.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern artists' paints are far safer, and labels warn about the few hazardous pigments still sold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accidents and the paint tube.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1706 in Berlin, a colourmaker trying to make red ended up with deep blue, apparently because an ingredient was contaminated.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prussian blue, cheaper than ultramarine, became one of the first modern synthetic pigments, used in painting, printing and engineers' blueprints.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1856 eighteen-year-old William Henry Perkin, a London chemistry student, tried to make the malaria drug quinine from coal tar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He failed, but noticed a purple residue that dyed silk beautifully.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called it mauveine and started a business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mauve became a craze and helped launch the synthetic dye industry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1841 John Goffe Rand, an American portrait painter in London, patented a collapsible metal paint tube with a screw cap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paint became portable, making it easier to paint outdoors, as the French Impressionists often did.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colours still being invented.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The search for new colours has not ended.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2009 a team led by chemist Mas Subramanian at Oregon State University was experimenting with materials for electronics when a sample came out of the furnace a brilliant blue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Named YInMn blue after yttrium, indium and manganese, it was the first new inorganic blue pigment in about two centuries, and it is very stable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2014 a British company announced Vantablack, a coating of tiny carbon tubes that absorbs almost all visible light, making objects look like holes in space.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the sculptor Anish Kapoor obtained exclusive rights to use it in art, other artists protested.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The artist Stuart Semple responded by releasing his own pink paint that anyone could buy except Kapoor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ochre, a clay coloured by iron oxides, is one of humanity's oldest pigments and is still used today.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Aboriginal art.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The world's oldest continuous art tradition is also one of its most exciting contemporary art movements, and it has never been just one style.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not one style.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the time of British colonisation, Australia was home to more than 250 distinct Aboriginal languages, each belonging to its own peoples with their own Country, law and stories.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Art reflects that diversity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dot painting from the Central and Western Desert is famous, but it is only one tradition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arnhem Land is known for bark painting and fine cross-hatching called rarrk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Tiwi Islands have bold ochre designs and carved poles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "South-eastern peoples carved trees and made possum-skin cloaks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Torres Strait Islanders, a distinct culture, are renowned for masks, headdresses and linocut prints.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Art as law and story.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many Aboriginal cultures, art is not separate from law, religion and knowledge of the land.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Designs can record ancestral beings and their journeys, show waterholes and landmarks, or identify the family groups responsible for a place.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Dreaming' is the English word often used for this body of law and story, though each language has its own term, such as Tjukurrpa in parts of the Western Desert.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many prefer it to 'Dreamtime' because it is ongoing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Desert paintings often share a visual language: concentric circles can mean a waterhole or campsite, U shapes people seated, and lines travel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early Papunya paintings showed some sacred designs openly, which caused distress.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Artists responded partly by covering them with dots and infill, sharing a story publicly while keeping its deepest meanings for those entitled to know.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bark and Papunya.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rock art across Australia stretches back tens of thousands of years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bark painting, done with natural ochres on flattened stringybark, is strongly associated with Arnhem Land, and it became politically powerful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1963, Yolŋu people at Yirrkala sent federal parliament petitions typed on paper and framed by bark paintings, protesting a bauxite mine on their land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are foundational documents of the land rights movement and are still displayed at Parliament House in Canberra.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1971 at Papunya, west of Alice Springs, teacher Geoffrey Bardon encouraged senior men to paint a mural on the school wall.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Men began painting ancestral designs, once made in sand or on the body, in acrylic on board and later canvas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1972 they formed Papunya Tula Artists, owned by the artists.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Painters such as Clifford Possum Tjapaltjarri became internationally known.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two great painters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Albert Namatjira, a Western Arrernte man from Hermannsburg, Ntaria, learned watercolour in the 1930s and painted the MacDonnell Ranges in glowing colour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He became a national celebrity, and in 1957 he and his wife Rubina were among the first Aboriginal people granted full citizenship rights.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emily Kame Kngwarreye, an Anmatyerre woman from Utopia, began painting on canvas in her late 70s, around 1988.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In roughly eight years she produced thousands of works, from dense dots to sweeping lines.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She has since had major retrospectives in Canberra and London.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her name is now often spelt Kngwarray.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Respect and ownership.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Aboriginal law, the right to paint a story or design is usually inherited and held by specific people, with responsibilities to Country and kin.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Using designs without permission can be a serious breach.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Courts have recognised this, as in the 1994 'carpets case' over imported rugs copying artists' designs, and fake 'Aboriginal-style' souvenirs have led to penalties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Namatjira's family lost control of his copyright after his death and regained it only in 2017.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When buying, look for Aboriginal-owned community art centres or dealers who sign the Indigenous Art Code.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Name the specific nation, such as Warlpiri or Yolŋu, rather than lumping everyone together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid 'primitive': this is a living, contemporary practice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some communities avoid images or names of people who have died, so heed warnings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Let artists explain their work in their own words.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Aboriginal and Torres Strait Islander art is many traditions, reflecting 250 or more distinct languages and peoples.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Michelangelo and the Sistine Chapel ceiling.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A sculptor who didn't want the job spent four years painting a chapel ceiling twenty metres above the floor.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He didn't do it lying on his back, either.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A reluctant painter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1508, Michelangelo Buonarroti was in his early thirties and already famous for his marble David in Florence and his Pietà in Rome.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He thought of himself first as a sculptor.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pope Julius II, a forceful and warlike pope, had hired him to carve a grand tomb, but then turned to decorating the ceiling of the Sistine Chapel, built by his uncle, Pope Sixtus IV.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo had little experience of fresco and accepted reluctantly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The walls already held frescoes by leading painters such as Botticelli and Perugino.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ceiling, painted as a starry sky, was about to be transformed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Painting on wet plaster.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fresco means fresh in Italian.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The painter applies pigments mixed with water onto wet lime plaster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the plaster dries, a chemical reaction locks the colour into the wall, making it extremely durable.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The catch is speed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each day only as much plaster as could be painted before it set was laid.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These daily patches are called giornate, from the Italian for a day's work.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mistakes could not be painted over; the plaster had to be chipped away and redone.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo's team transferred his designs to the plaster using full-size drawings called cartoons, either by pricking holes along the lines or by pressing them into the soft surface.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Standing, not lying down.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A popular image shows Michelangelo lying on his back for years, paint dripping onto his face.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In reality, he designed a wooden scaffold that bridged the chapel just below the ceiling, leaving the floor free for services.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He and his assistants worked standing, heads tilted back and arms raised.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was still punishing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Michelangelo wrote a comic poem, with a little sketch in the margin, complaining about his aching neck, bent back and the paint dripping onto his face.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nor did he work entirely alone, as another myth claims.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Assistants ground pigments, prepared plaster and helped with some painting, although he painted the great majority of the figures himself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The story overhead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ceiling is about 40 metres long and 13 metres wide, with more than 300 figures.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Down the centre run nine scenes from Genesis, from God separating light from darkness to the story of Noah.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around them sit huge prophets and sibyls, prophetesses from the classical world, and muscular nude youths called ignudi on painted architecture that only looks three-dimensional.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo painted the scenes in reverse story order, starting near the entrance with Noah, and his figures grew larger as he went.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In The Creation of Adam, fingertips almost meet.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some writers say the shape around God resembles a brain, hidden by Michelangelo the anatomist, but there is no evidence he intended it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judgment and restoration.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ceiling was unveiled in 1512 and stunned everyone who saw it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than two decades later, Michelangelo painted The Last Judgment across the wall behind the altar, working from 1536 to 1541.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christ raises the saved while the damned tumble towards hell.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some church officials were scandalised by the nudity, and after his death Daniele da Volterra was hired to paint drapery over figures, earning the nickname Il Braghettone, the breeches maker.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For centuries, candle and incense smoke and old varnish darkened the ceiling.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A Vatican restoration from 1980 to 1994 revealed vivid pinks, greens, oranges and blues.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was controversial, with some critics arguing that final touches were lost.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chapel still hosts the conclave that elects a pope.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pope Julius II hired Michelangelo, who saw himself as a sculptor, to paint the Sistine Chapel ceiling in 1508.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did discoveries on Sulawesi show about cave art?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Some of the oldest paintings are in Indonesia.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How can ochre be turned into paint?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. By grinding it and mixing it with water or fat.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is 'rarrk'?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Fine cross-hatching from Arnhem Land.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How did Michelangelo see himself when he accepted the commission?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. First of all as a sculptor, new to fresco.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

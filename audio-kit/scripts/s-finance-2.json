@@ -1,0 +1,1302 @@
+{
+ "id": "s-finance-2",
+ "title": "Financial Literacy · Episode 2",
+ "chapters": [
+  "Comparing loans: the real cost of borrowing",
+  "Getting out of debt: a practical plan",
+  "How tax works in Australia",
+  "Doing your own tax return, step by step"
+ ],
+ "units": [
+  {
+   "t": "Financial Literacy. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Comparing loans: the real cost of borrowing, Getting out of debt: a practical plan, How tax works in Australia and Doing your own tax return, step by step.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Comparing loans: the real cost of borrowing.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The interest rate in the ad is only part of the story.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fees, terms, balloon payments and add-ons can turn a cheap-looking loan into an expensive one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here is how to read the numbers like a lender.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Total cost beats the rate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two car loans are advertised side by side.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One has a lower rate; the other has no upfront fee.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which is cheaper?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can't tell from the rates alone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "True cost is interest plus every fee: establishment, monthly account, early repayment and late fees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most useful single number is the total you will repay over the life of the loan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask lenders for it directly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenders advertising rates on many consumer loans must show a comparison rate, which rolls most fees into one percentage.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But it is based on a standard example loan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If yours is smaller or shorter, fixed fees weigh more and your real cost can be higher.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also excludes some costs, such as late fees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treat it as a guide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not credit advice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Secured, fixed or variable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A secured loan uses an asset, often the car you are buying, as security, so the lender can repossess it if you default.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the lender's risk is lower, secured loans generally have lower rates than unsecured ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fixed rate stays the same for the term, which makes budgeting easy, but fixed loans often charge break costs or limit extra repayments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A variable rate can rise or fall, but variable loans frequently allow extra repayments without penalty, which can save significant interest if you plan to pay off early.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask each lender three questions: can I make extra repayments, can I pay out the loan early, and what will each cost?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answers can matter as much as the rate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Balloons and long terms.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lenders and car dealers advertise the weekly repayment, because it feels affordable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two common ways to shrink it are a longer term and a balloon payment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A balloon, also called a residual, is a large lump sum due at the end of the loan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because part of the debt is pushed to the end, you pay interest on a bigger balance for longer, so the total cost rises.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the balloon falls due, you need the cash, or must refinance, or sell the car, which may by then be worth less than you owe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longer terms work the same way: smaller repayments, more total interest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always compare loans on total cost, not the weekly repayment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dealer finance and add-ons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Car yards and big retailers often offer finance on the spot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is convenient, but easy to focus on the car and skip comparing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get pre-approval or a quote from your own bank or credit union before you shop.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gives you a benchmark and strengthens your hand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watch for add-ons bundled into the loan, such as gap insurance, extended warranties or loan protection insurance.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sold this way, they have historically been poor value for many buyers, and when financed you pay interest on them too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recent rules restrict how some add-on insurance can be sold, including a deferred sales period, but you can still simply say no.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask for the price of the car and the loan separately.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenders, credit and method.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under responsible lending laws, licensed lenders must make reasonable inquiries about your income, expenses and needs, and must not offer an unsuitable loan, such as one you could repay only with substantial hardship.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be truthful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each formal application is usually recorded on your credit report, so ask about eligibility checks first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid payday lenders where possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People on low incomes may qualify for the No Interest Loan Scheme.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For each offer, write down the amount, term, rate, comparison rate, every fee, extra-repayment rules and any balloon, plus the total repayable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask whether you could cope if income fell or rates rose.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then sleep on it: 'today only' pressure is a warning sign.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Compare loans by the total amount repayable, because the headline rate ignores fees.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Getting out of debt: a practical plan.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Debt can feel like a fog where every bill blurs into one.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The way out starts with turning that fog into a list, then using free help that many people never know exists.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make a list, set priorities.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People in debt often avoid opening envelopes, and that is human.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But you can't plan around numbers you haven't seen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Set aside an hour and log in to every account.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For each debt, write who you owe, the balance, the interest rate, the minimum repayment and the due date.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Include credit cards, loans, buy now pay later, overdue bills, money owed to family, and any ATO or Centrelink debt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then sort them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Priority debts carry the most serious consequences: rent or mortgage, energy and water, and a car loan if you need the car for work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fines and tax debts can escalate too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cover these first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never take out a new high-cost loan to keep up with another debt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask for hardship help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you can't meet repayments, contact the lender before you fall far behind.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under the National Credit Code, you can ask for a hardship variation if illness, job loss or other changed circumstances make repayments hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Options can include a pause, reduced repayments for a period or a longer loan term.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenders must consider the request and respond.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy, water and phone companies have hardship programs too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask for the hardship team, explain what happened and what you can realistically afford, and get any agreement in writing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hardship arrangements can be noted on your credit report, but that is generally far less damaging than missed payments and defaults.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avalanche or snowball.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With essentials covered and minimums being paid, direct any extra money at one debt at a time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There are two popular methods.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The avalanche method targets the highest interest rate first, which usually saves the most money.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The snowball method targets the smallest balance first, whatever the rate, giving a quick win that builds momentum.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When one debt is cleared, roll its repayment into the next, so the amount you throw at debt keeps growing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mathematically the avalanche usually wins, but the snowball can suit people who need motivation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best method is the one you will actually stick with.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consolidation traps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A consolidation loan rolls several debts into one, ideally at a lower rate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A balance transfer moves credit card debt to a card with a low or zero rate for a promotional period.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both can work, but there are traps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Promotional rates end, and the balance often reverts to a high rate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "New purchases on a balance transfer card may attract full interest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A longer loan can lower repayments but raise the total cost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And if you keep using the old cards, you can end up with the new loan plus fresh debts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you consolidate, consider cancelling or lowering the limits on old cards, and plan to clear the balance before any promotional period ends.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Free help and last resorts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The free, independent National Debt Helpline, on 1800 007 007 or at ndh.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "org.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, connects you with counsellors who can explain options and negotiate with creditors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some private debt management and credit repair businesses charge large fees for things you can often do free, like requesting hardship.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speak to a free counsellor before signing anything.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can also complain to the Australian Financial Complaints Authority, also free.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When debts are truly unmanageable, federal law offers debt agreements and bankruptcy, administered by the Australian Financial Security Authority, afsa.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can stop collection action but are recorded on public registers and your credit report, and can limit borrowing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get independent advice first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, build a small emergency fund so the next repair doesn't go on a card.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Write down every debt, then protect housing, utilities and other high-consequence debts first.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How tax works in Australia.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The pay rise that 'pushes you into a higher bracket' won't leave you worse off.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how income tax actually works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where tax goes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Income tax is the Australian Government's biggest source of revenue.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It funds services like Medicare and hospitals, schools and universities, the pension and other welfare payments, defence, roads and much more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other taxes include the 10% GST on most goods and services, company tax, and excise on fuel, alcohol and tobacco.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The financial year runs from 1 July to 30 June, and the Australian Taxation Office, the ATO, collects the money.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brackets and the myth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's income tax is progressive: the more you earn, the higher the rate on the extra dollars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For residents in 2026-27, the first $18,200 is tax-free.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then 15% applies up to $45,000, 30% up to $135,000, 37% up to $190,000, and 45% above that.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 15% rate is legislated to fall to 14% from July 2027.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people also pay a 2% Medicare levy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common myth says a pay rise can 'push you into a higher bracket' and leave you worse off.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can't.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you earn $136,000, only the $1,000 above $135,000 is taxed at 37%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your marginal rate is the rate on your next dollar; your average rate is always lower.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pay as you go.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you're an employee, your employer withholds tax from each pay under the Pay As You Go, PAYG, system and sends it to the ATO.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They use your tax file number and whether you claim the tax-free threshold, which you should normally claim from only one job at a time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the financial year ends, your tax return works out exactly what you owed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If too much was withheld, you get a refund; if too little, you pay the difference.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you lodge it yourself, it is due by 31 October.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people use myTax in myGov, where income, bank interest and private health details are pre-filled, but you are still responsible for what you lodge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is worth waiting a few weeks after 30 June for pre-filling to complete.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deductions and other taxes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deductions reduce your taxable income.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can generally claim work expenses such as tools, uniforms with a logo, professional memberships and some work-from-home costs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ATO's three golden rules: you must have spent the money yourself and not been reimbursed; it must directly relate to earning your income; and you need a record, like a receipt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A $100 deduction saves $100 multiplied by your marginal tax rate, not $100.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other taxes matter too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GST is built into prices, though basic food, most health care and education are GST-free.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Profit from selling an investment such as shares attracts capital gains tax, with a 50% discount if you held it over a year; your main home is generally exempt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "HECS-HELP debts are repaid through the tax system once your income passes a threshold.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stay on the right side.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep receipts and records for five years, since the ATO can review your return.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use official sources like ato.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au for rates and rules, which change regularly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Capital gains rules in particular may change, so check before you sell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be very wary of scams.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fake ATO texts, emails and calls that threaten arrest or demand payment in gift cards or cryptocurrency are common.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ATO won't threaten you with immediate arrest or ask for payment that way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If unsure, don't use the contact details in the message; contact the ATO using the number on its official website.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only, and a registered tax agent can advise on your situation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Income tax is the government's biggest source of revenue and funds health, education, welfare, defence and more.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Doing your own tax return, step by step.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every year millions of Australians lodge a tax return from their couch in under an hour.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how to do it calmly, claim what you are entitled to, and keep the records that protect you if the ATO comes asking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know the calendar.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian financial year runs from 1 July to 30 June.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you lodge your own return, it is generally due by 31 October.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A registered tax agent can often give you extra time, provided you are on their books before that date.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't rush in on 1 July.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your employer, bank and health fund are still sending their information to the ATO.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wait until your income statement in myGov is marked 'tax ready', usually late July or August, and most of your details will be waiting for you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information, not tax advice, so check your situation at ato.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Set up and check prefill.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The simplest way to lodge is myTax, the ATO's free online return.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Create a myGov account, then link the ATO as a service.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You prove who you are with questions about a past notice of assessment, your bank account or a payment summary, or with a digital ID.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turn on two-step sign-in and never share your login.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salary, tax withheld, bank interest and health insurance details then fill in automatically.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Treat that as a starting point, not a guarantee.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare it with your payslips and add anything missing: a second job, side hustle, dividends or foreign income.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ATO matches data from many sources, so omissions are often caught later, with interest and penalties.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three rules for deductions.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deductions reduce your taxable income, so it is tempting to be generous.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ATO's rules boil down to three tests.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First, you spent the money yourself and were not reimbursed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, the expense relates directly to earning your income, not private life.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, you have a record to prove it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If something is partly for work and partly personal, like a phone or laptop, you can claim only the work share.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ordinary commuting, everyday clothes and childcare are generally not deductible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ATO publishes occupation guides, from nurses to tradies, spelling out what people in each job can usually claim.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep records as you go.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best time to organise tax records is the moment you buy something, not the following October.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photograph each work receipt into one folder, or use the free myDeductions tool in the ATO app.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It lets you snap receipts and log car trips and expenses through the year, then upload them to myTax.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Generally you must keep records for five years from the date you lodge.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For working from home, the ATO expects evidence of the hours you actually worked, such as a timesheet, roster or diary, not a rough guess made up at year's end.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The methods and rates are reviewed from time to time, so check the current rules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After you lodge.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you submit, myTax shows an estimate of your refund or the amount you owe.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ATO then issues a notice of assessment in your myGov inbox.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read it rather than just checking the bottom line.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It shows your taxable income, the tax on it, any Medicare levy, study loan repayments and credits for tax withheld.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you owe money and can't pay by the due date, contact the ATO early, as they can often arrange a payment plan.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you find an error, you can amend through myTax, usually within two years of your notice of assessment.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For complex affairs, a registered agent can be worth the fee, and you can check one on the Tax Practitioners Board register at tpb.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You, not the agent, are responsible for what your return says.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A self-lodged tax return is generally due by 31 October, but wait until your income statement is marked 'tax ready'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. When might your real cost be higher than the comparison rate suggests?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. When your loan is smaller or shorter than the example.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which is usually considered a priority debt?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Rent or mortgage repayments.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the Australian Government's biggest source of revenue?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Income tax.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. If you lodge your own tax return, when is it generally due?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. 31 October.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

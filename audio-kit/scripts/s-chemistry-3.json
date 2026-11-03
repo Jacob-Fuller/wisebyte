@@ -1,0 +1,845 @@
+{
+ "id": "s-chemistry-3",
+ "title": "Chemistry Basics · Episode 3",
+ "chapters": [
+  "Water is weird",
+  "Plastics: the miracle material",
+  "The chemistry of cooking"
+ ],
+ "units": [
+  {
+   "t": "Chemistry Basics. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Water is weird, Plastics: the miracle material and The chemistry of cooking.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Water is weird.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The most ordinary liquid on Earth breaks almost every rule in chemistry, and life depends on it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bent molecule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A water molecule is one oxygen atom bonded to two hydrogens, in a bent shape like a wide 'V' with an angle of about 104.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 degrees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oxygen pulls the shared electrons towards itself, so the oxygen end is slightly negative and the hydrogen ends slightly positive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That uneven charge makes water polar, a bit like a tiny magnet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The positive hydrogen of one molecule is attracted to the negative oxygen of its neighbour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These weak links are called hydrogen bonds, and they form and break trillions of times a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without them, water would boil at around minus 80°C, and Earth would have no liquid oceans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ice floats.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most substances are densest as solids: solid wax sinks in melted wax.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water does the opposite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it freezes, hydrogen bonds lock the molecules into an open, hexagonal lattice that takes up more space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ice is about 9% less dense than liquid water, so it floats.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why pipes burst in freezing weather and why icebergs show only about a tenth of their bulk above the surface.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water is actually densest at about 4°C.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Floating ice forms an insulating lid, so the water beneath stays liquid and fish and plants survive the winter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If ice sank, many lakes would freeze solid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This quirk has helped life persist through ice ages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat and sweat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water has a very high heat capacity: it takes a lot of energy to warm up and releases it slowly as it cools.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's why the sea is still cold in early summer and warm in autumn, and why coastal Sydney is milder than inland Dubbo.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oceans absorb enormous amounts of heat, moderating global climate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body, about 60% water, uses the same property to hold a steady temperature.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turning liquid water into vapour also takes a lot of energy, because hydrogen bonds must be broken.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When sweat evaporates, it carries heat away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why a breeze feels good, and why humid days feel worse: moist air slows evaporation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evaporative coolers, common in drier parts of Australia, work the same way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surface tension.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the surface of water, molecules are pulled inwards by their neighbours below, creating a kind of elastic skin called surface tension.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's strong enough for water striders to walk on ponds and for a carefully placed paper clip to float.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same sticky pull lets water climb up narrow tubes, a process called capillary action.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's part of how plants draw water from their roots up to their leaves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The universal solvent.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because it's polar, water pulls apart and surrounds many charged or polar molecules, dissolving them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It dissolves more substances than almost any other liquid, which is why it's called the universal solvent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It carries nutrients in your blood, minerals from rocks into rivers, and salt into the sea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's also why water is so hard to keep pure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearly every chemical reaction that keeps you alive happens in water, which is why scientists searching for life elsewhere start by looking for it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Water's bent, polar molecules cling together through hydrogen bonds, which explains most of its oddness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Plastics: the miracle material.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Plastics went from a Victorian curiosity to something found in the deepest ocean trench in barely a century.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's a story of long molecules, lucky accidents and an unsolved problem.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Molecules like chains.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word polymer comes from Greek for ‘many parts’.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A polymer is a giant molecule made by linking small building blocks, called monomers, into long chains, often thousands of units long.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Polyethylene, the plastic in shopping bags and milk bottles, is the small molecule ethylene joined end to end over and over.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nature made polymers long before chemists did.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silk, rubber, wool, the cellulose in wood and paper, and even your own DNA are polymers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What makes synthetic plastics so useful is that chemists can tune them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By choosing different monomers, chain lengths and links between chains, they can make materials that are soft or rigid, clear or coloured, stretchy or tough.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plastics by accident and war.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first plastics were chemically altered natural materials.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alexander Parkes showed Parkesine, made from cellulose, in London in 1862.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "John Wesley Hyatt developed celluloid around 1870, partly in a search for an ivory substitute for billiard balls, and it later became early film, though it was dangerously flammable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1907 Leo Baekeland created Bakelite, the first fully synthetic plastic: hard, heat resistant and insulating, it went into radios and telephones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1933, ICI chemists Eric Fawcett and Reginald Gibson found a waxy solid, polyethylene, in a high-pressure vessel; it soon insulated wartime radar cables.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1938 Roy Plunkett at DuPont found a slippery powder in an apparently empty cylinder, which became Teflon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wallace Carothers' nylon stockings sensationally went on sale in 1940, then went to war as parachutes and ropes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two families and codes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thermoplastics have long tangled chains that slide past one another when heated, so they soften and can be moulded again.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Polyethylene, polypropylene, PVC and PET, drink bottles, are thermoplastics, which makes recycling by melting possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thermosets, such as Bakelite, epoxy glue and fibreglass resin, form chemical cross-links as they set into one rigid network.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They char rather than melt, which makes them tough and very hard to recycle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The number from 1 to 7 inside a triangle of arrows, introduced in the United States in 1988, only identifies the plastic: 1 is PET, 2 is high-density polyethylene, 5 is polypropylene, 7 is everything else.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is not a recycling promise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What can be recycled depends on local facilities, so check your council's guidelines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slow to break down.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Global plastic production has grown from almost nothing in 1950 to roughly 400 million tonnes a year by the 2020s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A widely cited 2017 study estimated that of all plastic waste generated up to 2015, only around 9 per cent had been recycled, and the rest was burned, buried or left in the environment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part of the problem is chemistry.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same strong carbon chains that make plastics durable mean few microbes can digest them, so most do not biodegrade in any useful timeframe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight and waves slowly break them into smaller fragments instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recycling has limits too, because many plastics get shorter chains and weaker each time they are melted and reprocessed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny plastics everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plastic pieces smaller than five millimetres are called microplastics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some are made small, like the microbeads once common in face scrubs, but most come from larger items breaking down, tyres wearing on roads and synthetic fibres shed in the wash.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They have been found in Arctic snow, on remote mountaintops and in the deepest part of the ocean, the Mariana Trench.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies have also detected them in human blood and organs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What that means for health is genuinely uncertain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers are still developing reliable ways to measure such tiny particles and to work out whether, and at what levels, they cause harm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read early headlines with care.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Plastics are polymers, giant molecules built from thousands of small repeating units, which chemists can tune.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The chemistry of cooking.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every time you cook, you're running chemistry experiments.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding them makes you a better cook.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two kinds of browning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Maillard reaction creates hundreds of flavour compounds and a brown colour when food with proteins and sugars is heated.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It runs quickly above about 140°C, so it happens in a hot pan or oven but not in boiling water, which stays near 100°C.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gives seared steak, toast, roasted coffee and bread crusts their richness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "French chemist Louis-Camille Maillard described it in 1912.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pat meat dry and don't crowd the pan: surface water and trapped steam keep it too cool to brown.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caramelisation needs sugar alone and starts around 160°C for table sugar, producing amber colour and complex, slightly bitter flavour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fructose caramelises at a lower temperature.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caramel goes from golden to burnt in seconds; starting with a little water heats it more evenly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eggs and starch.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Egg white is mostly water plus folded proteins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heat makes them unfold, called denaturation, then tangle into a solid network.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "White begins to set around 62–65°C, and yolk thickens at roughly 65–70°C, which is how chefs make firm whites and runny yolks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Overcook and the network squeezes out water, turning rubbery; the grey-green ring around an overboiled yolk is iron sulfide.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acid can denature proteins too: ceviche 'cooks' fish in citrus juice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starch granules absorb water and swell when heated, called gelatinisation, which is how cornflour thickens gravy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On cooling, the chains realign and squeeze out water, called retrogradation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the main reason bread goes stale, fastest at fridge temperatures, so keep bread at room temperature or freeze it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fruit and onions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slicing an apple, banana or avocado lets an enzyme, polyphenol oxidase, meet oxygen, turning natural polyphenols into brown pigments.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is harmless, and you can slow it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lemon or lime juice lowers the pH, which the enzyme dislikes, and its vitamin C undoes the first step.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chilling slows it, blanching destroys the enzyme, and pressing cling wrap onto guacamole keeps air out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An avocado stone only protects the flesh it touches.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cutting an onion mixes enzymes with sulfur compounds, making a volatile gas, syn-propanethial-S-oxide, which irritates nerves in your eyes so tears flow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To cry less, chill the onion and use a sharp knife, which crushes fewer cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Garlic's pungent allicin forms only once a clove is cut or crushed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oil and water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oil and water don't mix, because water molecules cling to each other and push oil away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emulsion suspends tiny droplets of one liquid in the other.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mayonnaise is oil droplets in egg yolk and lemon juice or vinegar, held stable by lecithin in the yolk, an emulsifier with one end that attracts water and one that attracts oil.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Milk and butter are natural emulsions too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vinaigrettes separate because they lack a strong emulsifier; a spoonful of mustard helps hold them together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If mayo 'breaks', slowly whisk it, a little at a time, into a fresh yolk and it can usually be rescued.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seasoning logic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Salt does more than make food salty.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It suppresses bitterness, enhances other flavours, draws moisture out of vegetables such as eggplant and cabbage, and in brines helps meat hold its juices by changing how proteins behave.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salting pasta water seasons the pasta from within.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acid, from lemon, vinegar, wine or tomatoes, brightens flavours and balances richness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fat carries many flavour compounds, which is why low-fat versions can taste flat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use this to fix dishes: if food tastes flat, it may need salt; if it is heavy or dull, a squeeze of lemon often helps; if it is too sour, a pinch of sugar can balance it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Maillard browning needs proteins and sugars, and caramelisation needs only sugar; both start at high temperatures.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do water molecules cling to each other so strongly?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Positive hydrogens attract neighbouring negative oxygens.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What makes synthetic plastics so versatile?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Their building blocks and chains can be tuned.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why should you pat meat dry and avoid crowding the pan before searing?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Steam and surface water keep the meat cool.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

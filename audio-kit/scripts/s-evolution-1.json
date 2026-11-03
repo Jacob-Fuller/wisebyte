@@ -1,0 +1,929 @@
+{
+ "id": "s-evolution-1",
+ "title": "Evolution & Genetics · Episode 1",
+ "chapters": [
+  "How evolution works",
+  "Island evolution: giants, dwarfs and the dodo",
+  "Symbiosis: the partnerships that built life"
+ ],
+ "units": [
+  {
+   "t": "Evolution & Genetics. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How evolution works, Island evolution: giants, dwarfs and the dodo and Symbiosis: the partnerships that built life.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How evolution works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "No designer, no plan, just time, variation and small differences adding up over millions of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darwin and variation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1859, Charles Darwin published On the Origin of Species, arguing that living things change over generations through natural selection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His voyage on HMS Beagle stopped in Sydney and Hobart in 1836.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alfred Russel Wallace, working in South-East Asia, reached the same idea independently, and their work was presented together in 1858.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became the foundation of modern biology.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The raw material is variation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No two individuals are exactly alike: some giraffes have longer necks, some moths are darker, some bacteria resist a drug.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of it comes from genes passed to offspring.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New variation arises from mutations, small random changes in DNA, and from the reshuffling of genes in sexual reproduction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most mutations are neutral or harmful, but occasionally one helps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Selection, not strength.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every species produces more offspring than can survive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cod can release millions of eggs, and even slow-breeding elephants would overrun the planet if every calf lived.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So individuals compete for food, mates and safety.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those whose traits suit their environment are slightly more likely to survive and have young.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over many generations, helpful traits become more common.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's natural selection: simple, relentless and unguided.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Survival of the fittest', a phrase coined by philosopher Herbert Spencer, is often misunderstood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It doesn't mean the strongest survive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Fittest' means best suited to a particular environment: perhaps the best camouflaged, the most cooperative or the one needing the least food.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trait that helps in one place can hurt in another, and evolution has no goal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It keeps whatever works well enough, right now.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evolution in action.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Peppered moths in England were mostly pale, speckled like lichen on tree bark.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the Industrial Revolution, soot killed the lichen and blackened the trees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within decades, dark moths became far more common around industrial cities, because birds spotted and ate pale moths more easily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When clean-air laws cut pollution in the late 20th century, pale moths bounced back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria evolve even faster, sometimes reproducing every 20 minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When antibiotics kill most bacteria in an infection, any with a lucky mutation survive and multiply, and repeating this produces resistant 'superbugs'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why doctors say to take antibiotics exactly as prescribed and not for viral infections like colds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insects evolving resistance to pesticides works the same way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Evolution is supported by several independent lines of evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fossils show changing life forms through time, including transitional species like early whales with legs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "DNA comparisons show how closely species are related; humans and chimpanzees share roughly 98 to 99 per cent of their aligned DNA sequence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anatomy reveals shared designs, like the same bones in a human arm, a bat wing and a whale flipper.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And we observe evolution directly in bacteria, insects and even Darwin's finches in the Galapagos.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deep time and us.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth is about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 billion years old, and life appeared at least 3.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 billion years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's enough time for small changes to add up to the enormous variety of life today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans didn't evolve from modern chimpanzees; we share a common ancestor that lived roughly 6 to 7 million years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our own species, Homo sapiens, appeared in Africa around 300,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Go back far enough and every living thing, from koalas to mushrooms, shares a common ancestor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Natural selection acts on genetic variation between individuals, which comes from mutations and reshuffled genes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Island evolution: giants, dwarfs and the dodo.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Strand animals on an island and strange things happen.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Elephants shrink, rats grow huge and birds forget how to fly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Natural laboratories.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Islands have taught biologists more about evolution than almost anywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonists that drift, fly or blow in are cut off from their relatives, often with few competitors and no large predators, and over generations they can change dramatically.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darwin's 1835 visit to the Galapagos helped shape his thinking, and Wallace developed similar ideas in the Malay Archipelago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galapagos finches show adaptive radiation, where one ancestor spreads into many forms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over about two million years, one colonising group became more than a dozen species, with beaks for crushing seeds, probing cactus flowers, catching insects or even drinking seabird blood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a severe drought in 1977 left only large, hard seeds on Daphne Major, Peter and Rosemary Grant found that bigger-beaked birds survived better and the next generation had larger beaks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evolution can be measured within years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The island rule.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Biologists have noticed a broad tendency nicknamed the island rule.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Large mammals stranded on islands often become smaller over generations, perhaps because food is limited and there are fewer predators to outgrow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small animals such as rodents often become larger, perhaps because they no longer need to hide from predators and face less competition.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fossil record is full of examples.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dwarf elephants, some about the size of a large pig, once lived on Mediterranean islands including Sicily, Malta and Crete.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the Indonesian island of Flores, there were dwarf relatives of elephants alongside giant rats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is a tendency rather than a law, and scientists still debate how consistent it is, but the examples are striking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hobbit of Flores.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2003 researchers excavating Liang Bua cave on Flores found the skeleton of an adult human relative who stood about a metre tall.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was named Homo floresiensis and quickly nicknamed the hobbit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its brain was about the size of a chimpanzee's, yet stone tools were found in the same cave layers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later work dated the remains to between roughly 100,000 and 60,000 years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How the hobbits came to be so small is still debated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One idea is that they descended from Homo erectus and shrank under island conditions, like the island's elephants.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another is that they came from an older, already small-bodied lineage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, island life shaped human evolution too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forgetting how to fly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flying is expensive.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It needs big muscles and a light, demanding body.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On islands without ground predators, many birds evolved to give it up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dodo of Mauritius was a large, flightless relative of pigeons, and its closest living relative is the Nicobar pigeon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New Zealand, with no native land mammals other than bats, became a kingdom of birds, including the giant moa, the kiwi and the kakapo, a heavy, flightless, nocturnal parrot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Losing flight was sensible until humans arrived with rats, cats, pigs and hunting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dodo was gone within a century of Dutch sailors landing in 1598, with the last widely accepted sighting in 1662.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The moa vanished within a few centuries of people reaching New Zealand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fragile and precious.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Island species often evolve without defences against newcomers, so they are especially vulnerable.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A large share of recorded animal extinctions in the past five centuries have been island species, many caused by introduced rats, cats and other invaders.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has a famous case.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On Lord Howe Island, a large, flightless stick insect disappeared after black rats came ashore from a shipwreck in 1918.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2001, researchers found a tiny surviving population on Ball's Pyramid, a sheer volcanic spire in the ocean nearby.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Captive breeding programs have since raised many more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019 a major operation began to eradicate rodents from Lord Howe, opening the possibility of returning the insect home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Islands show both how easily species are lost and how they can be saved.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Islands isolate living things, and Galapagos finches show how fast evolution can run there.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Symbiosis: the partnerships that built life.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Nearly every cell in your body contains descendants of ancient bacteria.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Life on Earth is less a war of all against all than a tangle of deals, partnerships and double-crosses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deals, not just wars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Biologists sort close living-together relationships by who benefits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In mutualism, both partners gain: bees collect nectar while pollinating flowers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In commensalism, one gains while the other is barely affected, like barnacles riding on a whale.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In parasitism, one gains at the other's expense.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The German botanist Anton de Bary coined the word symbiosis in 1879.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These boxes are useful, but nature rarely respects them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A relationship can turn from helpful to harmful as conditions change, and each partner is under pressure to take a little more than it gives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symbiosis is best seen as a spectrum of bargains, constantly renegotiated by evolution.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria inside your cells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Life's most important partnership began well over a billion years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A single-celled organism took in a bacterium and, instead of digesting it, came to depend on it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That bacterium became the mitochondrion, which powers our cells using oxygen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later, an early cell took in a photosynthetic bacterium, which became the chloroplast in plants and algae.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1960s, the American biologist Lynn Margulis championed this idea, called endosymbiosis, against widespread scepticism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The evidence now backs her.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mitochondria and chloroplasts have their own small circular DNA, bacteria-like ribosomes and double membranes, and they divide by splitting in two.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Complex life, including us, is a partnership at its core.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lichens and corals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A lichen looks like a single organism, but it is a fungus living with an alga or a cyanobacterium.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fungus provides structure and shelter, and its partner makes food from sunlight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together they colonise bare rock, tree bark and frozen tundra where neither could live alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2016, researchers found that many lichens also contain a yeast, a third partner that went unnoticed for over a century.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reef-building corals work similarly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their cells house microscopic algae that photosynthesise and pass much of their food to the coral.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the water becomes too hot, the partnership breaks down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The coral expels the algae and turns white, an event known as coral bleaching.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deals and double-crosses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fig starts as an enclosed cluster of tiny flowers, and only a fig wasp, usually specialised to one or a few fig species, can pollinate it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A female squeezes in, often losing her wings, pollinates some flowers, lays eggs in others and dies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her offspring mate inside, and the females leave carrying pollen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neither partner can reproduce without the other, and the bond is tens of millions of years old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partnerships invite cheating.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bluestreak cleaner wrasse remove parasites from larger fish, but would often rather nibble their protective mucus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clients chase cheats away, and cleaners behave better when other fish are watching.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sabre-toothed blenny goes further: it mimics a cleaner, then bites chunks from fish.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partners close to home.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In parts of Africa, the greater honeyguide leads people to wild bees' nests, then eats the wax left once humans open the hive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yao honey hunters in northern Mozambique summon the bird with a special trilling call, and a 2016 study found it responded to that call far more than to other sounds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our microbes matter too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trillions of bacteria, mostly in the gut, help digest food, train the immune system and fend off germs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The claim that they outnumber our cells ten to one is a myth: a 2016 study put the ratio closer to one to one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wolbachia bacteria introduced into Aedes aegypti mosquitoes reduce their ability to spread dengue.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Mosquito Program, which began in Australia, released them in north Queensland, where local outbreaks have since become very rare.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Symbiosis is a spectrum of close partnerships, from mutual benefit to parasitism, renegotiated as conditions change.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Where does the variation that natural selection works on come from?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Genetic differences from mutations and gene reshuffling.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Peter and Rosemary Grant observe after the 1977 drought on Daphne Major?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The next generation had larger beaks.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is commensalism?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One partner benefits, the other barely affected.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

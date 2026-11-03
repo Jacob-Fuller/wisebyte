@@ -11,10 +11,20 @@ import { C, F, mix } from "../theme";
 import { Logo } from "../components/Icon";
 import { Tap } from "../components/ui";
 import { openDoc, EMAIL } from "../Sheets";
+import * as E from "../engine";
+import { AccountButton } from "./TempleScreen";
 
 const { POOL, CATS, PILLARS, WEIGHTS } = SCROLL;
-const BY_ID = Object.fromEntries(POOL.map(x => [x.id, x]));
-const BY_P = {}; POOL.forEach(x => (BY_P[x.p] = BY_P[x.p] || []).push(x));
+/* every lesson's teaching points are Scroll cards too (id "pt:<lesson>:<n>"), so Scroll, Read and Listen share one library */
+const firstSentences = (t, n) => { const m = String(t).split(/\n\s*\n/)[0].match(/[^.!?]+[.!?]+["'”’]?/g) || [t]; return m.slice(0, n).map(x => x.trim()).join(" "); };
+const POINTS = E.lessons().flatMap(l => { const cc = E.catOf(l), p = E.isPractical(l) ? "p" : "k";
+  return l.sections.map((sec, k) => ({ id: `pt:${l.id}:${k}`, p, deck: p + "L", type: "point", cat: cc.name, c: cc.color, t: sec.h, h: sec.key, b: firstSentences(sec.b, 2), lesson: l.id, lt: l.title })); });
+const ALL = POOL.concat(POINTS);
+const BY_ID = Object.fromEntries(ALL.map(x => [x.id, x]));
+const BY_P = {}; ALL.forEach(x => (BY_P[x.deck || x.p] = BY_P[x.deck || x.p] || []).push(x));
+const colorOf = x => x.c || (CATS[x.cat] || { c: C.accent }).c;
+/* a teaching point drops out of Scroll once its lesson is covered (read, or heard on audio) */
+const usable = x => x.type !== "point" || !E.isCovered(x.lesson);
 const dateKey = () => { const d = new Date(), p = n => String(n).padStart(2, "0"); return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`; };
 const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const BODY = "#A59D91", MUTED = C.muted, BRONZE = C.accent;
@@ -35,7 +45,8 @@ function markRead(id) {
   if (!S.seen.has(id)) { S.seen.add(id); persist("wbs-seen", [...S.seen]); }
 }
 function refill(p) {
-  const src = BY_P[p];
+  const src = BY_P[p].filter(usable);
+  if (!src.length) { S.decks[p] = []; return; }
   let fresh = src.filter(x => !S.seen.has(x.id) && !S.onScreen.has(x.id));
   if (!fresh.length) {
     src.forEach(x => S.seen.delete(x.id)); persist("wbs-seen", [...S.seen]);
@@ -50,8 +61,11 @@ function pickPillar() {
   let p = roll(); if (p === S.lastP && p !== "k") p = roll(); return p;
 }
 function draw() {
-  const p = pickPillar();
+  const pp = pickPillar();
+  /* Knowledge and Practical cards are half lesson teaching points, half stand-alone facts and skills */
+  let p = BY_P[pp + "L"] && Math.random() < 0.5 ? pp + "L" : pp;
   if (!S.decks[p] || !S.decks[p].length) refill(p);
+  if (!S.decks[p].length && p !== pp) { p = pp; if (!S.decks[p] || !S.decks[p].length) refill(p); }
   const d = S.decks[p]; let idx = d.length - 1;
   for (let i = d.length - 1; i >= 0; i--) { if (d[i].cat !== S.lastCat && !S.onScreen.has(d[i].id)) { idx = i; break; } }
   const x = d.splice(idx, 1)[0]; S.lastCat = x.cat; S.lastP = p; return x;
@@ -71,6 +85,7 @@ function shareText(x) {
     case "quote": return `“${x.h}”\n\n${x.t}, ${x.src}`;
     case "skill": return `${x.t}\n\n${x.steps.map((s, i) => `${i + 1}. ${s}`).join("\n")}`;
     case "puzzle": return `${x.t}: ${x.h}`;
+    case "point": return `${x.t}\n\n${x.h} ${x.b}`;
   }
   return x.t;
 }
@@ -86,7 +101,7 @@ const Txt = ({ children, style }) => <Text style={[{ fontFamily: F.body, fontSiz
 
 function Card({ x, onKeep }) {
   const [open, setOpen] = useState(false), [guess, setGuess] = useState(null);
-  const c = CATS[x.cat].c, kept = S.kept.includes(x.id);
+  const c = colorOf(x), kept = S.kept.includes(x.id);
   const more = label => <Tap onPress={() => setOpen(o => !o)} style={{ alignSelf: "flex-start", flexDirection: "row", alignItems: "center", gap: 6, minHeight: 44, marginVertical: -6 }}>
     <Text style={{ fontFamily: F.body5, fontSize: 16.5, color: mix(c, BODY, 0.8) }}>{label}</Text><Chev color={mix(c, BODY, 0.8)} open={open} /></Tap>;
   const extra = children => open ? <View style={{ borderLeftWidth: 2, borderLeftColor: c, paddingLeft: 14 }}>{children}</View> : null;
@@ -110,6 +125,9 @@ function Card({ x, onKeep }) {
   else if (x.type === "quote") body = <><Title t={x.t} /><Head quote t={`“${x.h}”`} /><Txt>{x.src}</Txt>{more("The context")}{extra(<Txt>{x.n}</Txt>)}</>;
   else if (x.type === "skill") body = <><Title t={x.t} /><View style={{ gap: 8 }}>{x.steps.map((s, i) => <View key={i} style={{ flexDirection: "row", gap: 8 }}>
     <Text style={{ width: 24, fontFamily: F.body7, fontSize: 16.5, lineHeight: 25, color: c }}>{i + 1}</Text><Txt style={{ flex: 1, lineHeight: 25 }}>{s}</Txt></View>)}</View>{more("Why it works")}{extra(<Txt>{x.n}</Txt>)}</>;
+  else if (x.type === "point") body = <><Title t={x.t} /><Head t={x.h} /><Txt>{x.b}</Txt>
+    <Tap onPress={() => E.startLesson(x.lesson)} style={{ flexDirection: "row", alignItems: "center", gap: 6, minHeight: 44, marginVertical: -6 }}>
+      <Text numberOfLines={1} style={{ flexShrink: 1, fontFamily: F.body5, fontSize: 16.5, color: mix(c, BODY, 0.8) }}>Lesson: {x.lt}</Text><Chev color={mix(c, BODY, 0.8)} /></Tap></>;
   else if (x.type === "puzzle") body = <><Title t={x.t} /><Head t={x.h} />{more("Show the answer")}{extra(<Txt>{x.a}</Txt>)}</>;
   return (
     <View style={{ backgroundColor: C.surface, borderWidth: 1, borderColor: C.line, borderTopWidth: 3, borderTopColor: c, borderRadius: 22, paddingTop: 14, paddingHorizontal: 22, paddingBottom: 22, gap: 12 }}>
@@ -159,7 +177,7 @@ function ScrollSheet({ view, setView, refresh, onKeep }) {
       return (
         <View key={id} style={{ flexDirection: "row", alignItems: "center", gap: 8, borderBottomWidth: 1, borderBottomColor: C.line }}>
           <Tap onPress={() => setView({ t: "reader", id })} style={{ flex: 1, paddingVertical: 12, minHeight: 56 }}>
-            <Text style={{ fontFamily: F.body6, fontSize: 11, letterSpacing: 1.5, textTransform: "uppercase", color: CATS[x.cat].c }}>{x.cat}</Text>
+            <Text style={{ fontFamily: F.body6, fontSize: 11, letterSpacing: 1.5, textTransform: "uppercase", color: colorOf(x) }}>{x.cat}</Text>
             <Text numberOfLines={2} style={{ fontFamily: F.display5, fontSize: 20, lineHeight: 24, color: C.ink }}>{x.type === "myth" ? x.h : x.t}</Text>
           </Tap>
           <Tap onPress={() => { onKeep(id, true); refresh(); }} style={{ minHeight: 44, paddingHorizontal: 8, justifyContent: "center" }}><Text style={{ fontFamily: F.body, fontSize: 14, color: MUTED }}>Remove</Text></Tap>
@@ -174,7 +192,7 @@ function ScrollSheet({ view, setView, refresh, onKeep }) {
       onPress={() => { if (armed !== key) return setArmed(key); setArmed(null); fn(); refresh(); }} />;
     body = <>
       <GroupTitle t="Your reading" />
-      <Group><SheetRow first title="Read today" val={S.day.n} /><SheetRow title="Read all time" val={S.total} /><SheetRow title="Cards in the library" val={POOL.length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")} /></Group>
+      <Group><SheetRow first title="Read today" val={S.day.n} /><SheetRow title="Read all time" val={S.total} /><SheetRow title="Cards in the library" val={ALL.length.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")} /></Group>
       <Group>
         <SheetRow first title="Privacy policy" val="›" onPress={() => openDoc("privacy")} />
         <SheetRow title="Terms of Use" val="›" onPress={() => openDoc("terms")} />
@@ -185,7 +203,7 @@ function ScrollSheet({ view, setView, refresh, onKeep }) {
         {confirmRow("history", "Reset reading history", "Clears what you’ve read and your counts", () => { S.seen = new Set(); S.day = { d: dateKey(), n: 0 }; S.total = 0; persist("wbs-seen", []); persist("wbs-day", S.day); persist("wbs-total", 0); persist("wbs-welcomed", false); toast("Reading history cleared"); })}
         {confirmRow("kept", "Clear kept cards", null, () => { S.kept = []; persist("wbs-kept", []); toast("Kept cards cleared"); })}
       </Group>
-      <Text style={{ fontFamily: F.body, fontSize: 13, lineHeight: 21, color: MUTED, textAlign: "center", marginTop: 8 }}>Wisebyte Scroll{"\n"}Everything you do stays on this device.</Text>
+      <Text style={{ fontFamily: F.body, fontSize: 13, lineHeight: 21, color: MUTED, textAlign: "center", marginTop: 8 }}>Wisebyte Scroll</Text>
     </>;
   }
   return (
@@ -246,11 +264,11 @@ export default function ScrollScreen() {
             <View style={{ paddingVertical: 3, paddingHorizontal: 7, borderRadius: 6, backgroundColor: BRONZE }}><Text style={{ fontFamily: F.body7, fontSize: 11, letterSpacing: 1.4, color: C.accentInk }}>SCROLL</Text></View>
           </View>
           <View style={{ flexDirection: "row", alignItems: "center", gap: 5 }}>
-            {stat(S.day.n, "today")}
             {stat(S.kept.length, "kept", () => setView({ t: "kept" }))}
-            <Tap onPress={() => setView({ t: "settings" })} accessibilityLabel="Settings" style={{ width: 44, height: 44, alignItems: "center", justifyContent: "center", marginRight: -6 }}>
+            <Tap onPress={() => setView({ t: "settings" })} accessibilityLabel="Scroll settings" style={{ width: 40, height: 44, alignItems: "center", justifyContent: "center" }}>
               <Svg width={22} height={22} viewBox="0 0 24 24"><Path d="M4 7h16M4 12h16M4 17h16" stroke={BODY} strokeWidth={1.8} strokeLinecap="round" /></Svg>
             </Tap>
+            <AccountButton compact />
           </View>
         </View>
         <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 6, paddingVertical: 2 }}>

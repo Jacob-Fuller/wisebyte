@@ -187,7 +187,7 @@ function LibraryHome() {
         <View style={{ flex: 1, gap: 2 }}>
           <Eyebrow text="Adyton" gr="ἄδυτον" color={C.gold} />
           <Text style={{ fontFamily: F.display7, fontSize: 23, lineHeight: 25, color: C.ink }}>The Inner Circle</Text>
-          <Text style={T.small}>{pr.open ? "The sanctum is open to you." : `Sealed. Unlock every achievement to enter · ${pr.got}/${pr.total}`}</Text>
+          <Text style={T.small}>{pr.open ? "The sanctum is open to you." : `Sealed. Opens at level ${pr.need} · You're level ${pr.level}`}</Text>
         </View>
       </Tap>
     </>
@@ -239,14 +239,12 @@ export function InnerScreen() {
       <View style={{ gap: 12, padding: 24, paddingHorizontal: 18, borderRadius: 12, borderWidth: 1, borderColor: "#5E5033", backgroundColor: C.surface }}>
         <View style={{ alignSelf: "center", width: 84, height: 84, borderRadius: 42, alignItems: "center", justifyContent: "center", borderWidth: 2, borderColor: C.gold, backgroundColor: C.goldSoft }}><Icon name="keyhole" size={40} color={C.gold} /></View>
         <Text style={[T.h2, { fontSize: 28, lineHeight: 30, textAlign: "center" }]}>Sealed</Text>
-        <Text style={[T.muted, { textAlign: "center" }]}>The door opens only for those who have unlocked every achievement.</Text>
+        <Text style={[T.muted, { textAlign: "center" }]}>The door opens at level {pr.need}, for those who have kept learning.</Text>
         <View style={{ gap: 5 }}>
-          <View style={{ flexDirection: "row", justifyContent: "space-between" }}><Text style={T.body}>Achievements unlocked</Text><Text style={{ fontFamily: F.mono, fontSize: 14, color: C.ink }}>{pr.got}/{pr.total}</Text></View>
+          <View style={{ flexDirection: "row", justifyContent: "space-between" }}><Text style={T.body}>Level {pr.level} of {pr.need}</Text><Text style={{ fontFamily: F.mono, fontSize: 14, color: C.ink }}>{fmt(pr.xpLeft)} XP to go</Text></View>
           <Bar pct={pr.pct} height={8} />
         </View>
       </View>
-      <SectionHead title="Still to unlock" right={pr.left.length} />
-      <View style={{ gap: 8 }}>{pr.left.map(a => <GRow key={a.id} icon={a.icon} title={a.name} sub={a.desc} onPress={() => openSheet("ach", { id: a.id })} />)}</View>
       <SectionHead title="What waits inside" />
       <View style={{ gap: 8 }}>
         <GRow locked icon="book" title="The Sanctum Teachings" sub={`${E.innerLessons().length} advanced lessons on ideas few people truly understand`} />

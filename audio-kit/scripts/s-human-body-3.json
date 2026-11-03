@@ -1,0 +1,941 @@
+{
+ "id": "s-human-body-3",
+ "title": "The Human Body · Episode 3",
+ "chapters": [
+  "Muscles and bones",
+  "Your skin: the organ you wear",
+  "How your senses work"
+ ],
+ "units": [
+  {
+   "t": "The Human Body. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Muscles and bones, Your skin: the organ you wear and How your senses work.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Muscles and bones.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your skeleton is living tissue that rebuilds itself constantly, and your muscles are the engines that move it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The living skeleton.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babies are born with around 270 to 300 bones or bony pieces, many of which fuse as they grow, leaving about 206 in adults.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than half your bones are in your hands and feet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The femur is the largest; the stapes in the middle ear, about the size of a grain of rice, is the smallest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bone isn't dead and dry.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has blood vessels and nerves, and it's made of flexible collagen hardened with calcium and phosphate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Osteoclasts break down old bone and osteoblasts build new bone, so your skeleton is gradually renewed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marrow makes blood cells, and bones store calcium.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weight-bearing exercise makes bones denser; long bed rest or spaceflight makes them lose mass.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How joints work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where bones meet, joints allow movement.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hinge joints, like the knee and elbow, bend mainly one way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ball-and-socket joints, like the hip and shoulder, rotate in many directions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shoulder is the most mobile joint, which is also why it dislocates more easily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smooth cartilage covers bone ends and synovial fluid lubricates them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cartilage has no blood supply, so it heals poorly, and its wear is part of osteoarthritis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ligaments connect bone to bone; tendons connect muscle to bone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Achilles tendon, at the back of the ankle, is the body's strongest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How muscles work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You have over 600 skeletal muscles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Protein filaments, actin and myosin, slide past each other when a nerve signal arrives, shortening the muscle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscles can only pull, so they work in pairs: to bend your elbow the biceps contracts while the triceps relaxes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Working muscles make heat, which is why shivering warms you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slow-twitch fibres resist fatigue and power posture, walking and long-distance running.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fast-twitch fibres are quick and powerful but tire sooner, suiting sprinting and heavy lifting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your mix is partly genetic, and training can't completely change it, but endurance work improves stamina and strength training thickens fibres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How bones heal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a bone breaks, bleeding forms a clot around the break.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within days, cells lay down a soft callus of cartilage and fibrous tissue that bridges the gap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the following weeks, osteoblasts replace it with a harder bony callus, and over months the bone is remodelled towards its original shape.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many simple fractures in adults take roughly six to eight weeks to heal enough for normal use, though full remodelling takes longer.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Children heal faster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Casts and splints hold the pieces in line so they knit correctly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smoking slows bone healing noticeably.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use it or lose it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From your 30s or 40s, muscle mass slowly declines; in older age this is called sarcopenia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bone density also falls, especially in women after menopause, raising the risk of osteoporosis, where bones break easily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weak muscles make falls more likely, a major cause of injury in older Australians.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strength training and weight-bearing exercise, like walking or stair climbing, build muscle and bone at any age, even in the 80s and 90s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bones need calcium, from dairy, leafy greens, canned fish with bones and fortified foods, and vitamin D, made by skin from sunlight, so balance sun protection with exposure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muscles need protein across the day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adults should do muscle-strengthening activity on at least two days a week.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A GP can check your bone health.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Bones are living tissue that supports you, protects organs and constantly rebuilds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Your skin: the organ you wear.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It is waterproof, self-repairing, temperature-controlled and covered in sensors, and you are wearing it right now.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meet the most underrated organ you have.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The organ you wear.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lay an adult's skin flat and it would cover roughly two square metres, about the area of a single bed, and weigh several kilograms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is the body's largest organ.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It keeps water in and germs out, shields you from sunlight, helps control temperature, makes vitamin D and heals itself after cuts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also a sensor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Specialised nerve endings respond to light touch, vibration, pressure, stretching, heat, cold and damage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are not spread evenly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fingertips, lips and tongue are packed with receptors, while your back has far fewer, which is why it is hard to tell whether one or two pencil points are pressing on it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fingerprint ridges form before birth and help with grip and fine texture.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even identical twins have different fingerprints, because small variations in the womb shape the ridges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Layers that renew.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skin has three layers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The epidermis is thin, but it faces the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its top is flattened dead cells packed with tough keratin, forming a waterproof, germ-resistant barrier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beneath it, the dermis is woven from collagen and elastin fibres that give strength and stretch, and holds blood vessels, nerve endings, hair roots and sweat glands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fat layer below cushions you, stores energy and holds in heat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eyelid skin is delicate, while the soles of your feet are thick.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the base of the epidermis, cells divide constantly and are pushed upwards, filling with keratin and dying on the way.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The journey takes roughly a month, so you grow a new outer skin many times a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular claim says most household dust is dead skin, but much indoor dust comes from outside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The colour of skin.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cells called melanocytes at the bottom of the epidermis make a pigment called melanin.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People of all skin tones have broadly similar numbers of melanocytes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What differs is how much melanin they make and what type.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More melanin, especially the darker form, gives deeper skin tones and stronger natural protection against ultraviolet radiation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When skin is exposed to the sun, melanocytes ramp up production.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is a tan: a sign skin has been damaged and is trying to defend itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists think skin colour varies so much because our ancestors lived under very different levels of sunlight, balancing protection from UV against the need to make vitamin D.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a high-UV country like Australia, sun protection matters for everyone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooling and goosebumps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a hot Brisbane afternoon, your skin becomes a cooling system.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Millions of sweat glands release watery sweat, and as it evaporates it carries heat away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood vessels near the surface widen, so warm blood sends heat out, which is why your face flushes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the cold the reverse happens: vessels narrow to keep warmth near your core.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second type of sweat gland, found mainly in the armpits and groin, releases a thicker sweat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is odourless at first, and the smell comes from skin bacteria breaking it down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Goosebumps are made by tiny muscles that pull hairs upright.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In furry animals this traps insulating air or makes them look bigger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In us, it is mostly a curious leftover.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing and sun protection.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As we age, skin makes less collagen and elastin, grows thinner and holds less moisture, which is why wrinkles and sagging appear.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But much of what people think of as ageing skin is actually sun damage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare the skin on someone's forearm with the inner upper arm and the difference can be striking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has some of the highest rates of skin cancer in the world, so sun protection is the single most useful habit: shade, clothing, a broad-brimmed hat, sunglasses and sunscreen, especially when the UV index is 3 or above.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Getting to know your own skin and checking for new or changing spots is also worthwhile.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice, so for any concern see a doctor or visit healthdirect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Skin is your largest organ, covering about two square metres and packed with touch sensors, especially in the fingertips.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How your senses work.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You have far more than five senses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And every one of them is your brain's interpretation, not a direct window on the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than five.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea of five senses goes back to Aristotle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists now count many more, depending on how you define a sense.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proprioception tells you where your limbs are without looking, which is how you can touch your nose with your eyes closed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The vestibular system in your inner ear senses balance and motion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separate receptors detect temperature and pain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Interoception reports your internal state, like hunger, thirst, a full bladder or a racing heart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All of them work the same basic way: specialised receptor cells convert physical signals into nerve impulses that the brain interprets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How we see.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light enters through the cornea and lens, which focus it onto the retina at the back of the eye.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The iris adjusts the pupil to control how much light gets in.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The retina holds about 120 million rods, which work in dim light but don't see colour, and about 6 million cones, which detect colour in three types, roughly sensitive to red, green and blue.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cones are packed into a small central spot, the fovea, which gives your sharpest vision.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The image on the retina is upside down; the brain flips it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each eye also has a blind spot where the optic nerve leaves, which your brain fills in.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hearing and balance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sound waves vibrate the eardrum.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three tiny bones amplify the vibrations and pass them to the cochlea, a fluid-filled spiral about the size of a pea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thousands of hair cells bend with the vibrations, different parts responding to different pitches.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Young people typically hear from about 20 to 20,000 vibrations per second, and the upper limit drops with age.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loud noise can permanently damage hair cells, which don't regrow in humans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next to the cochlea, three semicircular canals sense head rotation as fluid lags behind and bends hair cells, and tiny crystals shift with gravity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When these disagree with vision, as when reading in a car, you may get motion sickness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spinning makes you dizzy because the fluid keeps moving.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smell, taste and touch.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Taste and smell detect molecules.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Taste buds, mostly on the tongue, are replaced every week or two, which is why a burnt tongue recovers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans have around 400 types of smell receptor, and combinations let us tell apart far more odours than once believed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smell signals travel almost directly to brain areas for emotion and memory, which is why a scent can instantly bring back a place.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sudden loss of smell is worth mentioning to a doctor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Skin has receptors for light touch, pressure, vibration, stretch, heat, cold and pain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fingertips and lips are packed with them, so the brain's touch map, the 'homunculus', has huge hands and lips.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many receptors adapt quickly, so you stop noticing your clothes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People born unable to feel pain often suffer serious injuries unknowingly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brain-built reality.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your brain combines information from different senses, fills gaps and makes predictions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the McGurk effect, watching lips say one sound makes you hear another.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expectations change taste: the same wine can taste better when people are told it's expensive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some people have synaesthesia, such as seeing colours when hearing music.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perception is an active construction, not a camera recording.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protect what you have.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's strong sun makes sunglasses and hats worthwhile, as UV contributes to cataracts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regular eye tests can catch glaucoma before you notice vision loss.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common workplace guide treats noise averaging 85 decibels over eight hours as the limit before protection is needed; earbuds at high volume count.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See a doctor promptly about sudden loss of smell, hearing or vision, or new dizziness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Beyond the classic five, we also sense body position, balance, temperature, pain and internal states.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What do osteoblasts do?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Build new bone.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is it hard to tell whether one or two pencil points are touching your back?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The back has far fewer touch receptors.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is proprioception?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Sensing limb position without looking.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

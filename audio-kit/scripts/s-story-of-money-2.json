@@ -1,0 +1,929 @@
+{
+ "id": "s-story-of-money-2",
+ "title": "The Story of Money · Episode 2",
+ "chapters": [
+  "Bank runs: when everyone wants their money at once",
+  "Hyperinflation: when money stops working",
+  "Dollar Bill and the day Australia went decimal"
+ ],
+ "units": [
+  {
+   "t": "The Story of Money. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Bank runs: when everyone wants their money at once, Hyperinflation: when money stops working and Dollar Bill and the day Australia went decimal.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Bank runs: when everyone wants their money at once.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your bank does not keep your savings in a vault.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Usually that is fine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When everyone turns up at once, it can be catastrophic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where your money really is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you deposit money in a bank, it does not sit in a box with your name on it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Banks take deposits that customers can withdraw at any moment and use them to fund loans that will not be repaid for years, such as mortgages and business loans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They keep only a small portion as cash and reserves, betting, sensibly, that not everyone will want their money on the same day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This arrangement is the heart of banking, turning idle savings into homes and businesses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it creates a built-in fragility.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bank can be perfectly sound, with good loans that will be repaid, and still be unable to hand everyone their money back immediately.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The self-fulfilling panic.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a rumour spreads that your bank is in trouble.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even if you think it is false, you have a problem.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If others believe it and withdraw their money, the bank may run out of cash, and those who wait could lose out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the rational move is to join the queue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everyone reasons the same way, and the fear becomes reality.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists Douglas Diamond and Philip Dybvig described this trap in a famous 1983 model, showing a bank run can be a self-fulfilling prophecy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their work helped earn them a share of the 2022 Nobel Prize in economics, alongside Ben Bernanke, who studied how bank failures deepened the Great Depression.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melbourne in the 1890s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia knows this story well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1880s Melbourne boomed on gold wealth and borrowed British money, and land prices soared in a speculative frenzy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dozens of building societies and land banks lent freely against property.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the bubble burst at the end of the decade, borrowers defaulted and many of these institutions collapsed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1893 the crisis reached the major banks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Depositors rushed to withdraw their money, and many of the colonies' major banks suspended payments within a few weeks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some reopened after being reorganised, but savings were frozen or lost, and the colonies plunged into a deep depression that lasted much of the decade.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melbourne took years to recover.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stopping the run.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the film It's a Wonderful Life, 1946, George Bailey calms panicked customers by explaining that their money is not in a safe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is in the neighbours' houses, lent out so they could buy homes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real banks rely on something more powerful: a central bank willing to lend them cash against good assets in an emergency, acting as a lender of last resort.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most effective cure has been deposit insurance.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After thousands of American banks failed in the early 1930s, the United States created the FDIC in 1933.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia introduced its Financial Claims Scheme in 2008.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As of the mid-2020s it protects deposits up to 250,000 dollars per account holder at each authorised institution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the guarantee exists, the need to use it is far less likely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confidence itself is the protection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Runs in the digital age.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Runs have not disappeared.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In September 2007 queues formed outside Britain's Northern Rock, one of the first visible signs of the global financial crisis and the first run on a British bank in well over a century.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In March 2023 California's Silicon Valley Bank collapsed in a run of startling speed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many customers were tech firms with deposits far above the insured limit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As worries spread through group chats and social media, they tried to pull tens of billions of dollars in a single day using banking apps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There were no queues outside, just a flood of online transfers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regulators closed the bank within roughly two days, showing how quickly modern panic can spread.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Banks lend out most deposits and keep only a fraction on hand, which makes even healthy banks fragile.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Hyperinflation: when money stops working.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Imagine your wages losing half their value before you can spend them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Weimar Germany and Zimbabwe, that nightmare became daily life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wheelbarrows of cash.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the autumn of 1923, a German worker might be paid twice a day and hurry out at lunchtime to buy food before prices rose again.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photographs show children building towers from bundles of banknotes, and people reportedly burned money because it was cheaper than firewood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By November 1923, one US dollar was worth about 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 trillion German marks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lifetime savings were wiped out, and a pension that once supported a comfortable retirement could barely buy a loaf of bread.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was hyperinflation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Normal inflation slowly nibbles away at money's value.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hyperinflation devours it, until people stop trusting money altogether.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it means.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inflation is a general rise in prices over time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Central banks such as the Reserve Bank of Australia aim to keep it low and steady, at around 2 to 3 per cent a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hyperinflation is a different beast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common definition, from the economist Phillip Cagan in the 1950s, is prices rising at least 50 per cent in a month.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At that pace prices more than double every couple of months and rise well over a hundredfold in a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the worst cases it is far faster.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hungary after the Second World War holds the record: in July 1946 prices were doubling roughly every 15 hours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Episodes like this are rare, but they have happened on almost every continent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The printing press spiral.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost every hyperinflation starts with a government in deep trouble.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It owes more than it can raise through taxes or borrowing, so it has the central bank create money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1923 French and Belgian troops occupied Germany's industrial Ruhr after Germany fell behind on war reparations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germany backed passive resistance there, paying striking workers with newly printed money while output collapsed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When more money chases fewer goods, prices climb, the government needs more money, and it prints faster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cycle feeds itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychology speeds it up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If people expect money to be worth less tomorrow, they spend wages at once and shops raise prices early.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call this rising velocity of money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People turn to barter, foreign currency, land or gold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once trust is lost, it is very hard to win back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zimbabwe's trillions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of the best known modern examples was Zimbabwe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the 2000s, farm production collapsed after controversial land seizures, exports fell, and heavy government spending was increasingly funded by creating money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 2008 inflation was so extreme that official statistics stopped being reliable, with estimates running into the billions of per cent a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The central bank issued ever larger notes, culminating in a 100 trillion Zimbabwean dollar note, which soon became a collector's novelty.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2009 the country effectively gave up on its own currency, and people began using foreign money such as the US dollar and the South African rand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices stabilised almost immediately once that happened.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Endings and aftermath.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hyperinflations can end quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germany's ended in late 1923 with a new currency, the Rentenmark, strict limits on issuing it, and efforts to balance the budget.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within weeks prices steadied.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pattern repeats: a new or foreign currency and a government that stops printing to fund itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key is credibility, which is one reason many countries give central banks independence from day to day politics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The damage lasts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It hits savers, pensioners and people on fixed incomes hardest, while those with debts, land or foreign currency may come out ahead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how much 1923 contributed to the turmoil that followed, though many say the Great Depression did more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It did shape Germany's later caution about inflation, and so the European Central Bank.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hyperinflation devours money's value until people stop trusting money at all.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Dollar Bill and the day Australia went decimal.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "On one Monday in 1966, a whole nation swapped pounds, shillings and pence for dollars and cents.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The government's first choice of name, the royal, was so unpopular it was dropped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pounds, shillings and pence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of its history Australia counted money the British way.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pound was worth 20 shillings, and each shilling was worth 12 pence, so a pound held 240 pennies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices were written as £2 7s 6d, and totalling a shopping bill meant constant carrying of twelves and twenties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia had issued its own pound since 1910, but the arithmetic was inherited from medieval England.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the 1950s businesses, banks and schools were complaining.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children spent hours converting pence to shillings, and new adding machines and early computers suited tens far better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many countries had already gone decimal, and a government committee set up in 1959 recommended Australia follow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Royal, emu or ming.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choosing a name proved harder than the maths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The public sent in thousands of suggestions, from the austral and the kanga to the emu and the ming, a cheeky nod to Prime Minister Robert Menzies' nickname.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1963 the government announced the new unit would be called the royal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reaction was swift and scornful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newspapers mocked it, and many felt it sounded old-fashioned for a young country building its own identity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before the changeover the government backed down and settled on the dollar, a name already used in the United States, Canada and elsewhere, and easy to say.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fuss is a reminder that money is not just maths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It carries national pride.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "C-Day, 14 February 1966.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The changeover was set for Monday 14 February 1966, nicknamed C-Day.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To prepare people, the Decimal Currency Board ran one of the biggest public information campaigns Australia had seen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its star was a cartoon character called Dollar Bill, and a catchy jingle sung to the tune of the bush ballad ‘Click Go the Shears’ explained the change on radio and television.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The conversion rule was simple: ten shillings became one dollar, so one pound became two dollars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thousands of cash registers and machines had to be converted or replaced.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Old and new money circulated side by side for a while, with shopkeepers giving change in decimal currency to drain the old coins from circulation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Animals and silver.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Designer Stuart Devlin, a young Australian who later became a famous silversmith in London, put native animals on the coins instead of kings and coats of arms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The one cent showed a feathertail glider, the two cent a frilled-neck lizard, the five cent an echidna, the ten cent a lyrebird and the twenty cent a platypus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fifty cent carried the coat of arms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The monarch stayed on the other side.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One coin did not last.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The round 1966 fifty cent piece was 80 per cent silver, and as the silver price climbed, the metal became worth more than fifty cents.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People hoarded it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1969 it was replaced by the twelve-sided copper-nickel coin still used today.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plastic notes, vanishing coins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story did not stop in 1966.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1988, for the bicentenary of European settlement, the Reserve Bank issued a ten dollar note printed on plastic polymer instead of paper.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was developed in Australia partly to defeat counterfeiters, since a clear window and other features were very hard to copy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 1996 Australia had become the first country with a full series of polymer notes, and the technology has since spread to many countries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile inflation slowly shrank the value of small coins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1992 the one and two cent coins were withdrawn, and cash totals have been rounded to the nearest five cents ever since.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Card payments are still charged to the exact cent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Before 1966 Australians did their sums in a system of twelves and twenties, and a 1959 committee recommended going decimal.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why can a sound bank still be unable to repay all depositors at once?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Most deposits are lent out for years.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What distinguishes hyperinflation from normal inflation?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It destroys trust in money, so trade breaks down.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was the old pounds, shillings and pence system hard to use?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Twelves and twenties made adding up slow.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

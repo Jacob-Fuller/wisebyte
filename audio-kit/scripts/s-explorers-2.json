@@ -1,0 +1,1128 @@
+{
+ "id": "s-explorers-2",
+ "title": "Great Explorers · Episode 2",
+ "chapters": [
+  "Columbus, da Gama and the Age of Discovery",
+  "Magellan: the first voyage around the world",
+  "The longitude problem: how a clock saved sailors",
+  "James Cook's voyages"
+ ],
+ "units": [
+  {
+   "t": "Great Explorers. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Columbus, da Gama and the Age of Discovery, Magellan: the first voyage around the world, The longitude problem: how a clock saved sailors and James Cook's voyages.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Columbus, da Gama and the Age of Discovery.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In a few decades, European sailors reached India by sea and crossed the Atlantic, connecting the world, with enormous and often devastating consequences.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why sail.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spices such as pepper, cinnamon, nutmeg and cloves were hugely valuable in Europe, used to flavour food, make medicines and display wealth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They arrived overland through Middle Eastern and Venetian middlemen who raised prices at every step.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the Ottomans took Constantinople in 1453, the eastern Mediterranean trade was even more firmly in others' hands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portugal and Spain, on Europe's Atlantic edge, wanted direct sea routes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Religion also drove them: spreading Christianity and rivalry with Muslim powers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So did the simple hope of fortune and fame.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tools and Portugal's push.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Portuguese caravel was small, light and, with triangular lateen sails, could sail closer to the wind.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Larger carracks carried more cargo.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The magnetic compass, used in China first and in Europe by about 1200, showed direction under cloud.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The astrolabe and quadrant measured the Sun or Pole Star, giving latitude.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longitude could only be estimated until marine chronometers arrived in the 1700s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prince Henry 'the Navigator' sponsored voyages down Africa's west coast from the 1420s, though he didn't sail himself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crews learned the Atlantic's winds, including swinging far out to sea to catch favourable winds home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ships traded gold, ivory and, tragically, enslaved Africans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1488, Bartolomeu Dias rounded the southern tip of Africa, proving a sea route to the Indian Ocean, before his exhausted crew forced him back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Columbus sails west.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genoese sailor Christopher Columbus believed he could reach Asia by sailing west.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He badly underestimated Earth's size, educated Europeans already knew it was round, and experts rejected his plan for years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Backed by Queen Isabella and King Ferdinand of Spain, he sailed in 1492 with the Santa María, Pinta and Niña and reached the Bahamas on 12 October, landing on an island home to the Taíno people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Believing he'd reached Asia, he called the inhabitants 'Indians'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He made four voyages, and his governorship of Hispaniola was notoriously brutal, even by the standards of his time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Splitting the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Columbus's return sparked a dispute over who owned new lands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1494, Spain and Portugal signed the Treaty of Tordesillas, drawing a north-south line through the Atlantic: lands to the west went to Spain, to the east to Portugal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It later gave Portugal a claim to Brazil, reached by Pedro Álvares Cabral in 1500, which is why Brazilians speak Portuguese.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Amerigo Vespucci's voyages convinced many that a 'New World' had been found, and a 1507 map named it America.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Following Dias, Vasco da Gama left Lisbon in 1497, rounded Africa and, guided by a local pilot from East Africa, reached Calicut, India, in 1498.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scurvy killed many crew, but the spices were worth many times the voyage's cost.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portugal built a trading empire from East Africa to Indonesia, often using violence against established merchants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A connected, unequal world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1972, historian Alfred Crosby named the Columbian Exchange: the transfer of plants, animals, people and diseases between the Americas and the rest of the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Potatoes, maize, tomatoes, chillies and cacao went east, transforming diets from Ireland to China.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Horses, cattle, wheat, sugar cane and coffee went west.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smallpox and measles, to which Indigenous Americans had no prior exposure, devastated communities, and populations fell perhaps 90% in some regions within about a century.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inhabited continents were now linked by regular trade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silver from Potosí, in modern Bolivia, flowed to Europe and China, and from 1565 Spanish galleons crossed the Pacific from Mexico to Manila.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Demand for plantation labour drove the Atlantic slave trade, which carried about 12 million Africans across the ocean.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians now often prefer 'contact' or 'encounter' to 'discovery', since these lands were already home to millions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Europeans sought sea routes to Asia to reach valuable spices directly and cut out the middlemen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Magellan: the first voyage around the world.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Five ships and about 270 men set out in 1519.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three years later, one battered ship and 18 survivors limped home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They had sailed around the planet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The plan and the fleet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ferdinand Magellan was an experienced sailor who had fought for Portugal in India and South-East Asia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After falling out with Portugal's king, he offered his services to Spain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He proposed reaching the Spice Islands, the Moluccas in modern Indonesia, by sailing west around South America.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under the Treaty of Tordesillas, he argued, the islands might fall on Spain's side of the line.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The young King Charles I, later Emperor Charles V, backed him.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In September 1519, five ships left Sanlúcar de Barrameda: the Trinidad, San Antonio, Concepción, Victoria and Santiago, with about 270 men of many nationalities.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antonio Pigafetta, a scholar from Vicenza, kept the journal that is our main source.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spanish captains resented a Portuguese commander, and no one knew how big the ocean beyond South America would be.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mutiny and the strait.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fleet sailed down South America's coast, searching for a way through.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over the harsh winter at Port San Julián in Patagonia, in April 1520, several captains mutinied.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magellan crushed the revolt and executed or marooned the leaders.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Santiago was wrecked while scouting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In late 1520 the fleet navigated a treacherous winding channel at the continent's southern tip, now the Strait of Magellan, about 570 kilometres long.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the passage the San Antonio deserted and sailed home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To the south the crew saw fires on shore and named the land Tierra del Fuego.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crossing the Pacific.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emerging into calm waters in late November 1520, Magellan named the ocean the Pacific, meaning peaceful.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was far larger than anyone imagined, covering about a third of Earth's surface.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crossing took over three months without fresh food, and by chance the fleet missed almost every inhabited island.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "According to Pigafetta, sailors ate rat-infested biscuit crumbs, sawdust and leather strips softened in seawater, and rats sold for half a ducat each.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many died of scurvy, a disease caused by lack of vitamin C that bleeds the gums and weakens the body.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They finally reached Guam in March 1521.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Death at Mactan.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reaching the Philippines in March 1521, Magellan allied with Rajah Humabon of Cebu, converted him and many of his people to Christianity, and became involved in local rivalries.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He attacked the island of Mactan, whose chief, Lapulapu, refused to submit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magellan landed with about 50 men, too few against a much larger force, and his ships couldn't cross the shallow reef to help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was killed on 27 April 1521.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lapulapu is celebrated today as a national hero, the first in the Philippines to resist European colonisation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The alliance with Cebu collapsed, and several expedition leaders were killed at a feast hosted by Humabon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With too few men for three ships, the survivors burned the Concepción and reached Tidore, in the Moluccas, in November 1521, where they loaded cloves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One ship home.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Trinidad, leaking, tried to sail east across the Pacific to the Americas but was driven back and captured by the Portuguese.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Victoria, captained by Basque navigator Juan Sebastián Elcano, sailed across the Indian Ocean and around Africa, avoiding Portuguese ports.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Men kept dying of scurvy and hunger, and at Cape Verde 13 crew were detained ashore.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In September 1522, three years after leaving, the Victoria reached Spain with 18 of the original crew.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cloves covered much of the expedition's cost, and Elcano received a coat of arms showing a globe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The voyage proved the oceans are connected, the Americas were separate from Asia, and Earth was far bigger than Columbus believed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their log was a day behind Spain's calendar, because sailing west they saw one fewer sunrise, an early hint of the International Date Line.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Magellan set out in 1519 to reach the Spice Islands by sailing west, with a multinational fleet of five ships.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The longitude problem: how a clock saved sailors.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For centuries, ships could find how far north or south they were, but not how far east or west.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Solving it took a prize from Parliament and a self-taught clockmaker.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lost in the fog.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a foggy night in October 1707, a British fleet returning from the Mediterranean ran onto the rocks of the Isles of Scilly, off Cornwall.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Four warships sank and well over a thousand sailors drowned, including Admiral Sir Cloudesley Shovell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians still debate exactly what went wrong, but the disaster became a symbol of a problem every sailor knew.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Out of sight of land, crews worked out their position by estimating speed, heading and time elapsed, a method called dead reckoning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Small errors piled up day after day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A captain could believe he was safely at sea while his ship headed straight for a coastline he could not see.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longitude is a time problem.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finding latitude, your position north or south, was fairly simple.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sailors measured the Sun's height at noon, or the Pole Star at night, and used tables to turn the angle into a position.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longitude, your position east or west, was far harder because the Earth spins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It turns 360 degrees in 24 hours, which is 15 degrees every hour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So if you know the time at home and the local time where you are, the difference tells you how far east or west you have travelled.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Local noon is easy to spot from the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The hard part was knowing the time back home, because the clocks of the day could not keep accurate time on a rolling, damp ship.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prize and astronomers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trade and naval power depended on safe navigation, so in 1714 Parliament passed the Longitude Act.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It offered up to 20,000 pounds, a fortune then, for a method that found longitude to within half a degree, with smaller rewards for less accurate ones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A panel later called the Board of Longitude judged entries, and \"finding the longitude\" became a joke for chasing the impossible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most experts expected astronomy to answer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Moon moves steadily against the stars, so a navigator could measure the angle between the Moon and a bright star, look it up in tables, and find the time at Greenwich.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It worked, but needed clear skies, a precise instrument and hours of calculation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nevil Maskelyne's Nautical Almanac, first published in 1766, made it far more usable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Harrison's sea clocks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "John Harrison was a carpenter from the north of England with no formal clockmaking training.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the 1730s he built large sea clocks, H1 to H3, designed to keep time despite a ship's motion and temperature changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His fourth, H4, finished in 1759, looked like an oversized pocket watch, about 13 centimetres across.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a trial voyage to Jamaica in 1761 and 1762 it lost only a few seconds over weeks at sea, far better than the Act required.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the Board demanded more trials and insisted he explain his design so others could copy it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some historians call this reasonable caution; others see bias towards the astronomers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1773, after appealing to King George III, Harrison received a substantial sum from Parliament, though never officially the prize.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He died in 1776.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chronometers to GPS.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watchmaker Larcum Kendall made a copy of H4, known as K1, and James Cook carried it on his second Pacific voyage in the 1770s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cook praised its accuracy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the following decades, marine chronometers became cheaper and more reliable, and by the 1800s they were standard on naval and merchant ships.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Harrison's clocks survive and are displayed at the Royal Observatory in Greenwich.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1884 an international conference chose the meridian through Greenwich as the world's prime meridian, longitude zero.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea behind Harrison's work has never gone away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Satellite navigation works by measuring tiny differences in the time signals sent from satellites carrying atomic clocks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your phone finds where you are, in a sense, by solving the same time puzzle that once drowned sailors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Without a way to find longitude, even skilled navigators could be badly wrong about where they were.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. James Cook's voyages.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A farm labourer's son became the Pacific's greatest mapmaker.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His voyages changed science, and the fate of the peoples he met.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Labourer to captain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "James Cook was born in Yorkshire in 1728, the son of a farm labourer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He learned seamanship on coal ships out of Whitby, joined the Royal Navy in 1755 and rose quickly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During the Seven Years' War he helped chart the St Lawrence River, then made his name mapping Newfoundland with remarkable precision.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Largely self-taught, he was a skilled mathematician and astronomer, rare for someone without a privileged education.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1768 he was chosen to command a scientific voyage to the Pacific aboard the Endeavour, a converted Whitby coal ship.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venus and the south.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The official purpose of the first voyage, 1768 to 1771, was to watch Venus cross the Sun from Tahiti on 3 June 1769.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Transits come in pairs about eight years apart, with over a century between pairs, and astronomers hoped to calculate the Earth-Sun distance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cook also carried secret orders to seek the great southern continent, Terra Australis.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aboard was the wealthy young botanist Joseph Banks, who collected thousands of plants with Daniel Solander.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cook mapped both islands of New Zealand, partly seen by Abel Tasman in 1642.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early encounters with Māori ended in bloodshed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In April 1770 he reached Australia's east coast at Kamay, Botany Bay, named for Banks's new plants, where Gweagal men opposed the landing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On Possession Island in August 1770, Cook claimed the east coast for Britain without its peoples' consent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reef and science.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In June 1770 the Endeavour ran aground on the Great Barrier Reef.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The crew threw cannons, ballast and supplies overboard and, once afloat, slowed the leak by drawing a sail packed with oakum and wool under the hull: fothering.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They limped to the Endeavour River, near Cooktown, where repairs took about seven weeks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There they had extended contact with the Guugu Yimithirr people and recorded the word 'kangaroo', from gangurru.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Banks and Solander brought back many plants new to European science, and artist Sydney Parkinson made hundreds of drawings before dying on the voyage home.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first voyage was still deadly: over a third of the crew died, mostly of disease caught at Batavia, Jakarta.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cook later fought scurvy with fresh food, sauerkraut and strict cleanliness, and lost very few men to it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The later voyages.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On the second voyage, 1772 to 1775, Cook carried a copy of John Harrison's marine chronometer, accurate enough to calculate longitude at sea, and praised it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He crossed the Antarctic Circle, showing any southern continent must lie in the icy far south, not the temperate latitudes Europeans imagined.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the third voyage, 1776 to 1780, searching for a Northwest Passage above North America, he became the first European known to reach Hawai'i, in 1778.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He sailed north through the Bering Strait until ice blocked the way.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Back in Hawai'i, amid rising tensions over a stolen boat, he was killed in a confrontation at Kealakekua Bay on 14 February 1779.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His crew completed the voyage without him.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A contested legacy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cook's charts and Banks's enthusiasm for Botany Bay influenced Britain's decision to send convicts to New South Wales.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The First Fleet arrived in January 1788, but Captain Arthur Phillip found Botany Bay unsuitable, with poor soil and little fresh water, and moved about 12 kilometres north to Sydney Cove in Port Jackson, a harbour Cook had noted but not entered.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The founding, on 26 January, is now Australia Day, which many Aboriginal and Torres Strait Islander people mourn as the beginning of invasion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cook's maps were so accurate that some were used for over a century, and his voyages advanced botany, astronomy and knowledge of the Pacific.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet for many Aboriginal Australians, Māori and Pacific peoples, his arrival marks dispossession and disease.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both views reflect real history, and holding both is part of understanding the past honestly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: James Cook, a farm labourer's son, taught himself navigation, astronomy and surveying and became a brilliant chart maker.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did Europeans want direct sea routes to Asia?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To buy valuable spices without paying many middlemen.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was Magellan trying to reach by sailing west?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The Spice Islands in modern Indonesia.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why could navigators be badly wrong about their position at sea?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Small errors in dead reckoning built up daily.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does Cook's early career show?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Skill and study took a labourer's son to command.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

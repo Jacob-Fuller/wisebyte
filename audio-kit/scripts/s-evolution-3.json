@@ -1,0 +1,875 @@
+{
+ "id": "s-evolution-3",
+ "title": "Evolution & Genetics · Episode 3",
+ "chapters": [
+  "Evolution's leftovers: goosebumps, tailbones and the appendix",
+  "Extinction",
+  "Gene editing and CRISPR"
+ ],
+ "units": [
+  {
+   "t": "Evolution & Genetics. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Evolution's leftovers: goosebumps, tailbones and the appendix, Extinction and Gene editing and CRISPR.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Evolution's leftovers: goosebumps, tailbones and the appendix.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your body carries traces of ancestors who had fur, tails and much bigger jaws.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some leftovers have found new jobs; others are just along for the ride.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What vestigial means.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In The Descent of Man, published in 1871, Charles Darwin pointed to what he called rudimentary organs as evidence that humans share ancestry with other animals.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These were parts that seemed shrunken or purposeless in us but were fully functional in other species.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The modern term is vestigial.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is often misunderstood as meaning completely useless.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Biologists use it more carefully: a vestigial structure has lost its original function, or much of it, though it may have gained a new one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1800s some anatomists drew up long lists of supposedly useless organs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some items on those lists, such as the thymus, later proved essential.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why we get goosebumps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you are cold or deeply moved by music, tiny muscles at the base of your hair follicles contract, pulling hairs upright and raising little bumps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each of these arrector pili muscles attaches to a single hair.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In heavily furred mammals the same reflex fluffs up the coat, trapping a thicker layer of insulating air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also makes an animal look bigger, which is why a frightened or angry cat puffs up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans have lost most of our body fur, so the reflex achieves very little warmth or intimidation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These muscles may still play a supporting role in hair growth, but the visible goosebump is largely a leftover.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tail you once had.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the base of your spine sits the coccyx, or tailbone, made of several small fused vertebrae.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is what remains of the tail carried by our primate ancestors, and apes such as chimpanzees and gorillas lack an external tail too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Human embryos make the connection vivid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around the fourth to sixth week of development an embryo has a distinct tail with more vertebrae than an adult keeps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later the tail stops growing and its extra cells are removed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the coccyx is not useless.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It anchors muscles, tendons and ligaments of the pelvic floor, and bears some of your weight when you lean back to sit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The appendix rethought.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darwin suggested the appendix was a shrunken remnant of a larger organ that helped ancestral primates digest leaves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For over a century it was treated as a useless troublemaker, famous mainly for appendicitis, which can be life-threatening if the organ bursts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The picture has changed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The appendix is rich in lymphoid tissue, involved in immune defence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers have also proposed that it acts as a safe house for beneficial gut bacteria, helping repopulate the intestine after an illness such as severe diarrhoea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comparative studies suggest an appendix has evolved independently many times in different mammals, which hints at some advantage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, people who have it removed live normal, healthy lives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Teeth, muscles and ears.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our ancestors had larger jaws and chewed tougher food.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Human jaws became smaller over hundreds of thousands of years, a change many researchers link to cooking and softer diets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Teeth shrank less, so wisdom teeth often find no room and can stay trapped, impaction, causing pain or infection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A significant minority of people never develop one or more at all.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Touch your thumb to your little finger and flex your wrist: many people see a thin cord rise at the inner wrist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is the palmaris longus tendon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly one in seven people, varying between populations, lack it in one or both arms, with no noticeable loss of grip strength.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small ear muscles, used by some animals to swivel their ears, survive too, and a few humans can still wiggle theirs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A vestigial structure has lost its original function, or much of it, but it is not necessarily useless.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Extinction.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Over 99% of all species that have ever lived are gone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What wiped them out, and are we living through the next great loss?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extinction is normal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Extinction is the permanent loss of a species, and it is a normal part of life's history.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 99% of all species that have ever existed are now extinct.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A typical species lasts around one to ten million years in the fossil record, though some survive far longer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What matters is the rate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of the time, species vanish slowly, called background extinction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One widely used estimate is roughly one extinction per million species per year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Occasionally something far more dramatic happens: a mass extinction, often defined as the loss of at least three-quarters of Earth's species in a geologically short time, perhaps thousands to a few million years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These events reshape life, clearing space for new groups.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The big five.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists recognise five mass extinctions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The end-Ordovician, about 445 million years ago, struck as ice ages dropped sea levels.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Late Devonian, around 372 million, hit reefs and marine life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The end-Permian, about 252 million, was the worst, wiping out roughly 90% of marine species.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The end-Triassic, 201 million, cleared the way for dinosaurs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The end-Cretaceous, 66 million years ago, killed the non-bird dinosaurs and around three-quarters of all species.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Permian and Triassic events coincide with enormous volcanic eruptions that released carbon dioxide, causing warming, ocean acidification and oxygen-starved seas.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Cretaceous is linked to an asteroid about 10 kilometres wide striking near Chicxulub in Mexico, as huge Indian eruptions also ran.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change faster than species can adapt or move is what kills.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today's losses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today, extinctions are running far above the background rate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A major 2019 global assessment by the scientific body IPBES estimated that around one million animal and plant species are threatened with extinction, many within decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The main drivers are habitat destruction, especially clearing land for farming, overhunting and overfishing, invasive species, pollution and climate change.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether this already counts as a 'sixth mass extinction' is debated: the losses so far are well short of three-quarters of species.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But many scientists warn that, at current rates, we could be heading that way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's losses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has one of the world's worst records for mammal extinctions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 1788, more than 30 native mammals have been lost, including the lesser bilby and the pig-footed bandicoot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The main culprits are feral cats and foxes, along with land clearing and changed fire patterns.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small ground-dwelling mammals fared worst, and many survivors cling on in small pockets or on islands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some losses unfolded in plain sight.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Christmas Island pipistrelle, a bat weighing a few grams, declined steeply through the 2000s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rescue was approved in July 2009, but searchers found only one bat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its last call was recorded on 26 August 2009.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bramble Cay melomys, a rodent on a tiny Torres Strait cay, was flooded repeatedly by rising seas and declared extinct in 2019, widely described as the first mammal lost to human-driven climate change.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What helps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The news isn't all bad.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Conservation works when it tackles the real causes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, fenced predator-free sanctuaries and islands cleared of cats, foxes and rats have allowed species like bilbies, bettongs and numbats to recover in places.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lord Howe Island's rodent eradication, carried out in 2019, has helped native birds and insects rebound.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Individuals can help too: keep cats indoors or contained, choose native plants, support habitat protection, and report sightings of threatened species to citizen science programs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every species kept alive keeps options open for the future.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: More than 99% of all species that ever lived are extinct, so what matters is how fast species are being lost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Gene editing and CRISPR.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A tool borrowed from bacteria now lets scientists rewrite DNA letter by letter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has already cured patients, and caused a scandal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From bacteria to tool.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "CRISPR began in bacteria.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many store short snippets of viral DNA in a region of their genome called CRISPR.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the virus returns, the bacterium makes RNA copies that guide cutting proteins, such as Cas9, to the matching viral DNA.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 2000s scientists realised this was an immune defence, and that reprogramming the guide could in principle direct the cut to almost any sequence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2012 Jennifer Doudna and Emmanuelle Charpentier showed CRISPR-Cas9 could be programmed to cut chosen DNA in a test tube, and within months teams including Feng Zhang's showed it worked in human cells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earlier tools, such as zinc finger nucleases and TALENs, were slow and costly to redesign for each target.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "CRISPR was cheap, fast and flexible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doudna and Charpentier won the 2020 Nobel Prize in Chemistry.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How the edit works.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The system has two main parts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A short guide RNA, designed to match about 20 letters of target DNA, leads the Cas9 protein to the right spot in the genome.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cas9 then cuts both strands of the DNA.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cell rushes to repair the break.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often the repair is sloppy, adding or deleting a few letters, which usually disables the gene.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If scientists also supply a template, the cell can sometimes copy it in, inserting a corrected sequence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newer versions, called base editing and prime editing, can change individual letters without fully cutting the DNA, making edits more precise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curing sickle cell.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first approved CRISPR medicine, Casgevy, was approved in the United Kingdom in November 2023 and in the United States soon after.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It treats sickle cell disease and beta thalassaemia, inherited blood disorders caused by faulty haemoglobin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors collect a patient's blood stem cells and edit them to switch back on a form of haemoglobin normally made only before birth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After chemotherapy clears the old bone marrow, the edited cells are returned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many trial patients became free of severe pain crises or regular transfusions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The treatment is gruelling and extremely expensive, costing millions of dollars per patient.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Somatic versus germline.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where the change is made matters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Somatic editing changes cells in one patient, such as blood or liver cells, and isn't passed to children, like any other medical treatment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germline editing changes embryos, eggs or sperm, so every cell of the resulting person, and all their descendants, would carry the edit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That raises deep questions of safety and consent, and Australia, like many countries, prohibits heritable changes to the human genome.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In November 2018, Chinese scientist He Jiankui announced the birth of twin girls from embryos edited to disable the CCR5 gene, aiming at HIV resistance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A third edited child followed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The edits were medically unnecessary and imprecise, and consent was a serious concern.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was sentenced to three years in prison in 2019, and the case prompted calls for stronger oversight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crops, promise and questions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genetic modification of crops long predates CRISPR; the first GM food, a slow-softening tomato, went on sale in the US in 1994.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia nearly all cotton is GM, and GM canola has been grown in several states since 2008, though Tasmania keeps a moratorium.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2019, simple CRISPR edits that add no new DNA are not treated as GMOs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trials are testing treatments for inherited blindness, high cholesterol and rare liver diseases, and gene drives could spread edits through pests like malaria-carrying mosquitoes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Questions remain: unintended edits, who can afford treatment, and where treating disease ends and enhancement begins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you read about a 'breakthrough', check whether it was in cells, animals or human trials, and whether it was peer reviewed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: CRISPR is a bacterial immune system that scientists reprogrammed in 2012 to cut chosen DNA, winning the 2020 Nobel Prize in Chemistry.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What do biologists mean by a vestigial structure?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One that has lost much of its original function.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Since extinction is normal, what matters when judging today's losses?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. How quickly species vanish compared with normal.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Where did the CRISPR system originally come from?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A bacterial defence against viruses.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

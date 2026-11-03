@@ -1,0 +1,929 @@
+{
+ "id": "s-maths-2",
+ "title": "Everyday Maths · Episode 2",
+ "chapters": [
+  "Check digits: the hidden maths that catches typos",
+  "Measuring the world: the metric story",
+  "Making sense of big numbers"
+ ],
+ "units": [
+  {
+   "t": "Everyday Maths. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Check digits: the hidden maths that catches typos, Measuring the world: the metric story and Making sense of big numbers.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Check digits: the hidden maths that catches typos.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Mistype one digit of a card number online and the website often knows instantly, before it has contacted any bank.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The secret is a single extra digit doing some clever arithmetic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catching typos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day, millions of long numbers are typed, read aloud, copied and scanned.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People make predictable mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A well-known 1969 analysis by the Dutch mathematician Jacobus Verhoeff found that the most common slip by far is getting a single digit wrong, such as typing 7 for 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next is swapping two neighbouring digits, so 58 becomes 85.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cheap fix is one extra digit whose only job is to check the others.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simple version: make all digits add to a multiple of 10.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For 2 4 7 3, the sum is 16, so the check digit is 4, giving 24734.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone types 24834, the sum is 21 and the error shows.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But swap two digits, as in 27434, and the sum is unchanged.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supermarket barcodes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look at the barcode on a packet in your pantry.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 13-digit number beneath it, called an EAN-13, ends in a check digit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The recipe multiplies the first 12 digits alternately by 1 and 3, adds the results, and picks the final digit that brings the total to a multiple of 10.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because neighbouring digits carry different weights, swapping them usually changes the total, and the system spots it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The one blind spot is swapping two neighbouring digits that differ by exactly 5, such as 1 and 6.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Australian products have barcodes starting with 93, a prefix GS1 assigned to Australia, though it shows where a company registered, not where a product was made.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Books and the number 11.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The older 10-digit ISBN multiplied the first digit by 10, the second by 9, and so on down to the check digit, multiplied by 1.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The total must divide exactly by 11.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For 0-306-40615-2, the first nine digits give 0 + 27 + 0 + 42 + 24 + 0 + 24 + 3 + 10 = 130.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adding the check digit 2 gives 132, which is 12 times 11.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because 11 is a prime number, this system catches every single wrong digit and every swap of neighbouring digits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes the check digit has to be 10, which is written as an X.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2007, books have used 13-digit ISBNs that follow the barcode recipe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cards and the ABN.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Card numbers end in a check digit from the Luhn formula, created by IBM engineer Hans Peter Luhn and patented in 1960.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the right, double every second digit starting next to the check digit, add together the digits of any two-digit result, 8 doubled is 16, so 7, then add everything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A valid number totals a multiple of 10.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is how a payment page flags a mistyped number instantly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the check is public and easy to satisfy, so it says nothing about whether a card is real, active or yours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ABN has 11 digits and a published check: after adjusting the first digit, each digit gets a weight and the total must divide by 89.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Overseas, IBANs use division by 97.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fixing errors too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A check digit can tell you something is wrong, but not what.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Error-correcting codes add enough carefully designed extra information to repair mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1940s the American mathematician Richard Hamming, frustrated that his weekend computer jobs kept failing because of errors, devised codes that could find and fix a flipped digit automatically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later codes, such as Reed-Solomon codes from 1960, protect data on CDs, in deep space communications and in QR codes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A QR code can be printed with different levels of protection, and at the highest level it can still be read even if around 30 per cent of it is damaged or covered.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Behind everyday convenience sits some elegant mathematics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: One extra digit, calculated from the others, lets a computer detect the most common typing mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Measuring the world: the metric story.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Revolutionaries once set out to measure the planet to define the metre.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today a metre, a second and a kilogram are fixed by the laws of nature themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From muddle to metre.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In eighteenth-century France, units of length, weight and volume varied from region to region and even market to market, so merchants and tax collectors could exploit the confusion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Revolution of 1789, reformers wanted a rational system based on nature, belonging to no nation: for all times and all peoples.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1791 the French Academy of Sciences decided the metre would be one ten-millionth of the distance from the North Pole to the equator through Paris.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 1792, astronomers Delambre and Méchain spent around seven years surveying from Dunkirk to Barcelona, through revolution and war.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because of small errors and the Earth's imperfect shape, the official metre came out about 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 millimetres short of the intention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was close enough, and it stuck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Units that fit together.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The genius of the metric system is that its units connect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A litre is the volume of a cube ten centimetres on each side, and the kilogram was originally defined as the mass of one litre of water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everything scales by tens, so converting is a matter of moving a decimal point, and prefixes like kilo, centi and milli work the same way for every unit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Temperature joined in too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Celsius scale puts 0 at the freezing point of water and 100 at its boiling point, though the Swedish astronomer Anders Celsius originally set it the other way around in 1742, with 100 for freezing and 0 for boiling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was flipped shortly after his death.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From vault to nature.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1889 the standard kilogram became a platinum-iridium cylinder, about 39 millimetres tall, kept under three glass bell jars in a vault at Sèvres near Paris.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was called Le Grand K, and by definition it weighed exactly one kilogram.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over decades, copies and original drifted apart by tens of micrograms, roughly a grain of sand, and nobody could say which had changed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So scientists chose constants that never change.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1967 the second became 9,192,631,770 oscillations of radiation from a caesium atom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1983 the metre became the distance light travels in a vacuum in 1/299,792,458 of a second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 20 May 2019 the kilogram was redefined using the Planck constant, measured with devices called Kibble balances, and Le Grand K retired.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any well-equipped laboratory can now reproduce a kilogram.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia goes metric.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia moved to decimal currency in 1966, and the Metric Conversion Act of 1970 set the country on course to change its measurements too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over the following decade, temperatures, distances, weights and volumes all changed over.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One of the most visible moments came on 1 July 1974, when road signs switched from miles to kilometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today most of the world uses metric for daily life, with the United States the best-known exception.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, older units hang on in Australia in surprising places.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Television and phone screens are sold by size in inches, tyre pressures are often given in pounds per square inch, and many people still describe a newborn's weight, or their own height, in imperial units.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When units go wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1999, NASA's Mars Climate Orbiter reached Mars and vanished.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Software from one team produced thruster data in imperial pound-force seconds, while another team's software expected metric newton-seconds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The small, repeated error steered the probe too close to the planet, where it was destroyed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1983, an Air Canada Boeing 767 ran out of fuel at cruising height, partly because a fuel calculation had mixed up pounds and kilograms during the airline's switch to metric.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The aircraft carried far less fuel than the crew believed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pilots glided the powerless jet to a disused airbase at Gimli, in Manitoba, and everyone on board survived.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became known as the Gimli Glider.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The metric system replaced confusing local units with a metre based on the size of the Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Making sense of big numbers.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A million seconds is under two weeks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A billion seconds is over 31 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our brains blur the gap, and that matters every time you read a headline.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Million to trillion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each of these words is a thousand times the one before.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A million is 1,000,000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A billion is a thousand millions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trillion is a thousand billions, a 1 followed by twelve zeros.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the words sound similar, people treat them as neighbours, but a billion is a thousand times a million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "British usage once called a million million a 'billion', the long scale.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The UK officially adopted the short scale in 1974, and Australia uses it too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time makes the gap felt.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A day has 86,400 seconds, so a million seconds is about 11.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A billion seconds is about 31.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trillion seconds is roughly 31,700 years, back to the last ice age, before farming, writing or cities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money and population.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine spending $1,000 every day.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A million dollars would last 1,000 days, roughly two years and nine months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A billion dollars would last a million days, about 2,700 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dividing national figures by population also helps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has roughly 27 million people, mid-2020s, so a $1 billion government scheme works out to about $37 per person, while $1 trillion would be about $37,000 each.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dividing by population turns abstract numbers into something you can judge: is this a lot, or not much at all?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientific notation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists handle huge and tiny numbers with scientific notation: a number between 1 and 10, multiplied by a power of ten.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The power tells you how many places to move the decimal point.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The speed of light, about 300,000,000 metres per second, is 3 × 10⁸.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth is about 4.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 × 10⁹ years old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny numbers use negative powers: a hydrogen atom is about 10⁻¹⁰ metres across, a ten-billionth of a metre.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also makes calculation easier.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To multiply, multiply the front numbers and add the powers:, 2 × 10³, ×, 3 × 10⁴, is 6 × 10⁷.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orders of magnitude and ratios.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each power of ten is an order of magnitude, so 'three orders of magnitude' means about 1,000 times bigger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Several scales are logarithmic, where each step multiplies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every extra 10 decibels means ten times the sound intensity, so a 90-decibel lawnmower has about 1,000 times the intensity of a 60-decibel conversation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Star brightness works backwards: five magnitudes brighter looks 100 times brighter, and smaller numbers mean brighter stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This means thinking in ratios.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A $10,000 pay rise is life-changing on $40,000 and modest on $400,000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going from 1,000 to 2,000 followers is the same doubling as 1 million to 2 million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Young children, and adults without formal schooling, tend to space numbers in a compressed, roughly logarithmic way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask how big a change is in absolute terms, and relative to where it started.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fermi estimates and headlines.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicist Enrico Fermi was famous for rough but surprisingly good estimates.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the first atomic bomb test in 1945 he dropped scraps of paper, watched how far the blast moved them, and estimated the yield at about 10 kilotons; later analysis put it at roughly twice that.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try one: hairdressers in a city of five million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About one haircut every two months is 30 million a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At eight a day for 240 days, each does about 2,000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So around 15,000 hairdressers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Errors often partly cancel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Headline numbers need a scale.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Divide by population or by 365, and compare with the relevant total: a $500 million cut matters differently against a $2 billion budget than a $600 billion one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check whether it's millions or billions, a common reporting error.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Each of million, billion and trillion is a thousand times the one before, which our brains tend to blur.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which errors are most common when people type numbers?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A single wrong digit, then swapped neighbouring digits.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was the original aim for the length of the metre?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One ten-millionth of pole to equator.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Roughly how long is a billion seconds?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About 31.7 years.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

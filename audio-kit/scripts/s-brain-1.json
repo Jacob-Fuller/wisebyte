@@ -1,0 +1,917 @@
+{
+ "id": "s-brain-1",
+ "title": "The Brain · Episode 1",
+ "chapters": [
+  "How neurons talk",
+  "Reflexes: when your spine decides first",
+  "The science of pain"
+ ],
+ "units": [
+  {
+   "t": "The Brain. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How neurons talk, Reflexes: when your spine decides first and The science of pain.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How neurons talk.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every thought, memory and movement comes down to cells sending electrical and chemical messages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how they do it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anatomy of a neuron.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A neuron has three main parts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Branching dendrites receive signals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cell body combines those inputs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A long, thin axon carries the output away, sometimes over a metre, like those from your lower spine to your toes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many axons are wrapped in myelin, a fatty insulating layer that speeds signals up enormously; the signal jumps between small gaps in the myelin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain has around 86 billion neurons, a figure from careful cell-counting studies, plus a similar number of supporting glial cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oligodendrocytes make myelin in the brain and spinal cord, and Schwann cells do so elsewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astrocytes help feed neurons, and microglia clear debris and prune unused synapses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glia means 'glue', but they take an active part.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The electrical signal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A resting neuron keeps a small voltage across its membrane, about minus 70 millivolts, by pumping ions in and out.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When enough input pushes it past a threshold, channels open, sodium rushes in, and a spike of voltage, the action potential, races down the axon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Potassium flows out to reset it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's all-or-nothing: a neuron either fires or it doesn't.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stronger stimuli make neurons fire more often, not more strongly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Signals in thin, unmyelinated fibres crawl at about a metre per second, while in myelinated axons they can travel over 100 metres per second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Across the synapse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most neurons don't quite touch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Between them is a synapse, far narrower than a human hair.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When an action potential arrives, the axon releases neurotransmitter molecules from vesicles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They cross in a fraction of a millisecond and bind to receptors on the next neuron, making it more or less likely to fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then they are broken down or recycled.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain has an estimated 100 trillion or more synapses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glutamate is the main excitatory neurotransmitter and GABA the main inhibitory one.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each neuron adds up both to decide whether to fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too much excitation can cause seizures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol and some sedatives enhance GABA, slowing reactions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dopamine and serotonin act more like volume controls, tuning whole networks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wiring by use.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1949, psychologist Donald Hebb proposed that when one neuron repeatedly helps another fire, the connection strengthens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is often summarised as 'neurons that fire together, wire together'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1973, researchers reported long-term potentiation in the hippocampus, a memory hub, where repeated stimulation made synapses stronger for hours or longer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practice physically strengthens pathways, adding receptors and even new connections, while unused connections can weaken and be pruned.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is how skills and memories are built, and why regular practice and review beat a single long session.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faults and interfaces.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In multiple sclerosis, the immune system attacks myelin, slowing signals.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parkinson's disease involves loss of dopamine-producing neurons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alzheimer's disease damages synapses and neurons and involves abnormal protein build-ups.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many medicines act at synapses; some antidepressants, for example, affect how serotonin is recycled.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because neurons communicate electrically, activity can be recorded and decoded.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brain-computer interfaces place sensors near the motor cortex and translate firing patterns into commands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In trials in the early 2000s, people with paralysis learned to move a cursor by imagining moving a hand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melbourne company Synchron's Stentrode is threaded up the jugular vein beside the motor cortex, avoiding open brain surgery.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a small Australian trial, recipients with motor neurone disease used it to text, shop and bank online.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is still experimental.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A neuron receives signals through dendrites and sends them along an axon, often insulated with myelin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Reflexes: when your spine decides first.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Touch a hot pan and your hand is gone before you feel the pain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That split-second move is made without your brain's permission.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Descartes and the fire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "René Descartes' Treatise of Man, published in 1664 after his death, included a famous drawing of a boy with his foot near a fire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Descartes imagined that heat tugged on tiny threads in the nerves, opening valves in the brain that sent spirits to the muscles to pull the foot away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The details were wrong, but the core idea was striking: some actions might happen mechanically, like clockwork, without any conscious choice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the following centuries, scientists found that many automatic responses do not even need the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are handled lower down, in the spinal cord, by circuits we now call reflex arcs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The knee jerk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a doctor taps the tendon below your kneecap, your lower leg kicks forward.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1875 two German neurologists, Wilhelm Erb and Carl Westphal, independently described this reflex, and it has been tested ever since.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tap briefly stretches the quadriceps muscle at the front of the thigh.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stretch sensors in the muscle, called muscle spindles, fire signals along a sensory nerve into the spinal cord.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There, the sensory neuron connects directly to a motor neuron, which sends a command straight back, telling the muscle to contract.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With only one connection in the chain, it is a monosynaptic reflex.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In everyday life it helps keep you upright.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anatomy of a reflex.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A reflex arc has five basic parts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A receptor detects a change such as stretch, heat or pressure.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sensory neuron carries the signal to the spinal cord or brainstem.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A processing step links it to an outgoing motor neuron, sometimes through extra cells called interneurons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finally a muscle or gland responds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "British physiologist Charles Sherrington spent decades mapping these circuits and coined the word synapse for the gap between nerve cells.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He showed that reflexes coordinate muscles in pairs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the quadriceps contracts in the knee jerk, signals simultaneously relax the hamstrings behind the thigh so they do not fight the movement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sherrington shared the 1932 Nobel Prize.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pulling back from danger.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Step on a sharp object and your foot lifts before you have time to think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This withdrawal reflex is more complex than the knee jerk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It uses several interneurons in the spinal cord to activate a group of muscles that pull the limb away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the same moment, a linked circuit called the crossed extensor reflex stiffens your other leg so it can take your weight and you do not topple.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Signals also travel up to the brain, which is why you then feel the pain, look down and perhaps say something unprintable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reflex circuit is short and conscious pain takes longer to form, so the movement often comes first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Babies, speed and skill.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newborn reflexes fade within months as the brain's higher regions take control.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stroke a cheek and the baby turns to feed; touch a palm and they grip; sense a fall and they fling out their arms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1896 Joseph Babinski described how stroking the sole makes the big toe curl down in healthy adults.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it points up and the toes fan out, it can signal damage to nerve pathways from the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A spinal reflex takes only a few tens of milliseconds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A conscious reaction to something you see takes around a fifth to a quarter of a second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In sprinting, a runner who reacts within a tenth of a second of the gun has false started, because a genuine response cannot reliably be that fast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catching a ball feels like a reflex but is learned.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The idea that the body can react automatically goes back to Descartes, and we now know many reflexes are handled by the spinal cord.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The science of pain.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Pain feels like a simple signal from an injury, but it is really the brain's best guess about danger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That surprising idea changes how we understand hurt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nail through the boot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A case reported in the British Medical Journal in 1995 describes a builder who jumped onto a 15 centimetre nail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It went straight through his boot and he was in agony, needing strong pain relief.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When doctors removed the boot, the nail had passed between his toes without touching his foot.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other people suffer serious injuries in emergencies or sport and feel little at first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pain is not a direct readout of damage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is something the brain produces to protect you from what it judges to be a threat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nerve endings called nociceptors detect potential harm, such as intense pressure, heat, cold or chemicals from damaged tissue, and signal the spinal cord and brain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That detection, nociception, is not the same as pain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Context shapes pain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warning signals do not simply switch pain on.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many brain regions weigh them against context, memories, attention, mood and expectations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why the same injury can feel very different in different situations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A paper cut on a stressful day may sting more than a scrape in an exciting footy match.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anxiety and fear tend to amplify pain, while distraction and feeling safe can reduce it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stub your toe and you often feel a sharp first jolt, then a duller throb, as faster and slower nerve fibres deliver their messages in turn.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In phantom limb pain, people feel pain in an amputated limb because the brain's map of the body still includes it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All pain is real, whatever its source.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turning pain down.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bang your elbow and you rub it without thinking.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1965, Ronald Melzack and Patrick Wall proposed gate control theory: circuits in the spinal cord act like a gate, letting more or fewer pain signals through.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Touch and pressure signals can partly close it, which is why rubbing helps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The details have been revised, but the idea that the nervous system actively modulates pain remains influential.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1970s, scientists found brain receptors for opium-derived drugs like morphine, because the body makes its own, including endorphins, endogenous plus morphine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They dampen pain during stress, injury and exercise and play a role in some placebo effects.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opioid medicines are powerful but can cause dependence, so Australia regulates them tightly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When pain outstays its welcome.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Acute pain is the short-term pain of an injury and usually fades as tissue heals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chronic pain generally means pain lasting longer than about three months, and it is common.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian health organisations estimate around one in five adults lives with it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many cases the nervous system itself has changed, becoming more sensitive so it produces pain more easily, a process called central sensitisation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The alarm system has become overprotective, sounding off even when the danger is small or gone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This does not mean the pain is imagined.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treating chronic pain often takes more than looking for ongoing damage, and may need to address the nervous system's sensitivity as well.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living well with pain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding pain as a protective output of the brain has changed how many people are treated.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For persistent pain, care often combines several elements: graded physical activity that gradually builds confidence and capacity, good sleep, stress management, and pain education that explains how the nervous system works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychological therapies can help reduce fear and restore valued activities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medicines still have a place, but for many types of chronic pain, relying on them alone tends to work less well than a combined approach.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian researchers have been prominent in pain education.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you live with pain, talk to your GP.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "healthdirect and Painaustralia are helpful starting points.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pain is produced by the brain and does not always match the amount of tissue damage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the axon do?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Carries signals away from the cell body.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What do scientists now know about many automatic responses?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Many are handled in the spinal cord.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the case of the builder and the nail reveal?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Severe pain can occur with no injury.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

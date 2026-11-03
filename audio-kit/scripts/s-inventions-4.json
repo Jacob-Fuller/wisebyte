@@ -1,0 +1,869 @@
+{
+ "id": "s-inventions-4",
+ "title": "Great Inventions · Episode 4",
+ "chapters": [
+  "The story of flight",
+  "The shipping container: the box that changed the world",
+  "Genuinely Australian inventions"
+ ],
+ "units": [
+  {
+   "t": "Great Inventions. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The story of flight, The shipping container: the box that changed the world and Genuinely Australian inventions.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The story of flight.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "People dreamed of flying for thousands of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then, in just 25 years, they went from a 12-second hop to crossing the Pacific.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From balloons to box kites.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People long dreamed of flying.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first humans actually to fly went up in a Montgolfier hot-air balloon in 1783, but balloons go wherever the wind takes them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1800, English engineer George Cayley identified the four forces of flight: lift, drag, thrust and weight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fixed wing could provide lift while something else provided thrust, and in 1853 one of his gliders carried a man across a small valley.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1890s Otto Lilienthal made around 2,000 glider flights, inspiring others, before dying in a crash in 1896.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Sydney, Lawrence Hargrave invented the strong, stable box kite in 1893.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1894 four of them lifted him about five metres at Stanwell Park.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He shared his work freely rather than patenting it, and it influenced early European aeroplanes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He featured on the old paper $20 note.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Wright brothers, 1903.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 17 December 1903, near Kitty Hawk, North Carolina, Orville Wright flew about 37 metres in 12 seconds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later that day Wilbur flew about 260 metres in 59 seconds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their key insight was control.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brothers, bicycle makers from Ohio, realised a flying machine had to be steered in three dimensions, so they twisted, or warped, the wings to roll the aircraft, alongside a rudder and elevator.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They built their own wind tunnel to test wing shapes, and with mechanic Charlie Taylor built a light petrol engine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rival claims exist, notably for Brazil's Alberto Santos-Dumont, who flew publicly in Paris in 1906, but most historians credit the Wrights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How wings really lift.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common explanation says air over the curved top of a wing must travel further, so it speeds up to 'meet' the air underneath at the back.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This equal-transit-time idea is a myth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing forces the air to meet up, and in fact air over the top arrives well before the air underneath.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What really happens is that the wing, tilted slightly into the airflow, turns a large mass of air downward.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pushing air down pushes the wing up, as Newton's third law describes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same flow creates lower pressure above the wing and higher pressure below.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both descriptions are true at once, which is why planes can even fly upside down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia takes to the air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1919 brothers Ross and Keith Smith, with mechanics Wally Shiers and Jim Bennett, flew a Vickers Vimy from England to Darwin in about 28 days, winning a 10,000-pound government prize.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1928 Charles Kingsford Smith and Charles Ulm, with American crew Harry Lyon and James Warner, made the first flight across the Pacific, from California to Brisbane.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kingsford Smith also made the first Tasman crossing that year, and disappeared over the Andaman Sea in 1935.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In November 1920, Hudson Fysh, Paul McGinness and Fergus McMaster founded Qantas at Winton, Queensland, and it began airmail flights between Charleville and Cloncurry in 1922.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aircraft cut outback journeys from days to hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1928 the first Flying Doctor flight used an aircraft leased from Qantas.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jets and safety.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Propeller aircraft have limits on speed and altitude.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1930s Frank Whittle in Britain and Hans von Ohain in Germany independently developed the jet engine, which sucks in air, compresses it, burns fuel in it and blasts the exhaust out the back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first jet airliner, the de Havilland Comet, entered service in 1952, but crashes caused by metal fatigue taught hard lessons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boeing's 707 from 1958 and 747 from 1970 made long-haul flying ordinary, and in 2018 Qantas launched non-stop flights between Perth and London.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Commercial air travel is now one of the safest ways to travel, largely because accidents are investigated in detail and the lessons shared worldwide, helped by the cockpit flight recorder developed in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cost is significant greenhouse gas emissions, and cleaner fuels are an active area of research.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The path to powered flight ran through Cayley's four forces, Lilienthal's gliders and Lawrence Hargrave's box kite.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The shipping container: the box that changed the world.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A plain steel box, invented by a trucking boss frustrated by slow docks, quietly made global trade cheap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost everything you own has probably travelled in one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Docks before the box.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a busy port in the early 1950s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cargo ship arrives loaded with thousands of separate items: sacks of coffee, crates of machinery, barrels of oil, bales of wool.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gangs of dockworkers unload them piece by piece, using nets, hooks and sheer muscle, then sort everything onto trucks and trains.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was called break bulk shipping, and it was painfully slow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A ship could spend days or even weeks tied up in port, earning nothing while it was unloaded and reloaded.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The work was dangerous, and goods were often damaged or quietly stolen along the way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shipping a product across the ocean could cost a large share of its value, which made a lot of international trade simply not worth doing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trucker's idea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Malcolm McLean, an American trucking entrepreneur from North Carolina, built a large haulage business from a single truck.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story goes that he grew frustrated waiting at a port as cargo was carried onto a ship one item at a time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why not lift the whole load aboard?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the mid 1950s he bought a shipping company and set engineers to work on strong steel boxes that could be lifted off a truck chassis and stacked on a ship.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 26 April 1956 a converted tanker, the Ideal X, sailed from Newark to Houston carrying 58 containers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The breakthrough was the cost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One widely quoted estimate puts loading at roughly 16 cents a ton, instead of almost six dollars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ships were unloaded in hours, not days, and sealed boxes reduced theft and damage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Agreeing on a size.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early years, companies used containers of different sizes with different corner fittings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A box built for one company's ships, cranes and trucks might not fit anyone else's, which defeated the whole point.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During the 1960s, industry groups and international bodies worked through bitter arguments to agree on standards.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The International Organization for Standardization published rules for container dimensions and for the steel corner castings used to lift and lock them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two lengths became dominant: 20 feet and 40 feet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Capacity is still measured in TEU, or twenty-foot equivalent units.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "McLean also made his company's patented corner fitting design freely available, which helped the industry settle on a common approach that anyone could use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ports move, cities change.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Container shipping needed huge flat areas for stacking boxes, giant cranes and easy road and rail access.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Old docks squeezed into crowded city centres could not provide that.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In New York, much shipping moved from the Manhattan and Brooklyn piers to new terminals across the harbour in New Jersey.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In London, the historic docks in the East End declined and closed, and trade shifted to ports further down the Thames and on the coast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia saw similar changes as container terminals were built at places such as Port Botany in Sydney.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Far fewer people were needed to load ships, so many waterfront jobs disappeared, which led to long and difficult industrial disputes in ports around the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Globalisation and fragility.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once shipping was cheap and reliable, companies could spread production across the globe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pair of runners might be designed in one country, made from materials sourced in several others, assembled in Asia and sold in an Australian shopping centre, with shipping adding only a little to the price.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ships have grown enormously since the Ideal X: the largest carry more than 20,000 TEU and are around 400 metres long.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For an island trading nation like Australia, most imports by volume arrive by sea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In March 2021 the Ever Given ran aground and blocked the Suez Canal for about six days, and hundreds of ships queued.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During COVID-19, containers piled up in the wrong places and freight costs soared.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These events showed how much daily life depends on a system most people never think about.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Loading ships by hand was slow, costly and full of theft.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Genuinely Australian inventions.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "From flight recorders to the tech inside Wi-Fi, some of the world's most useful ideas have Australian fingerprints.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is what is truly ours, and what is shared.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The black box flight recorder.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1953 and 1954, a series of de Havilland Comet jet crashes left investigators puzzled.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "David Warren, a scientist at the Aeronautical Research Laboratories in Melbourne, realised that a recording of the crew's voices and instrument readings would help explain future crashes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 1958 he had a working prototype that stored hours of cockpit sound and flight data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simpler instrument-only recorders were being developed elsewhere, but Warren's combination of voices and data was new.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia became one of the first countries to require cockpit voice recorders, in the 1960s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Despite the name, 'black boxes' are painted bright orange so they are easier to find.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ultrasound and the bionic ear.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Medical ultrasound builds pictures from sound echoes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scottish doctor Ian Donald pioneered its use in pregnancy in the 1950s, but at the Ultrasonics Institute in Sydney, George Kossoff and David Robinson's team developed grey-scale imaging in the early 1970s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earlier scans showed mostly stark outlines; grey-scale revealed shades of soft tissue.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian company Ausonics commercialised it, and it became standard worldwide.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cochlear implant bypasses the damaged inner ear and stimulates the hearing nerve with electrical signals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Single-channel implants already existed, so Graeme Clark didn't invent the idea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Melbourne team's achievement was a multi-channel implant that conveyed speech far more clearly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first patient, Rod Saunders, received one in 1978.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cochlear Limited commercialised it in the 1980s, and it has become one of the world's leading hearing implant makers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spray-on skin.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Severe burns heal slowly, and large skin grafts can leave heavy scarring.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1990s in Perth, plastic surgeon Dr Fiona Wood and scientist Marie Stoner developed a way to spray a patient's own skin cells onto a wound to help new skin grow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early versions grew the cells in a laboratory first.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The later ReCell device processes a small sample of healthy skin into a cell suspension during the operation itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wood led the burns team at Royal Perth Hospital that treated many survivors of the 2002 Bali bombings, and she was named Australian of the Year in 2005.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wi-Fi and Google Maps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia didn't invent Wi-Fi outright, but the true story is still impressive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1990s a CSIRO team including radio astronomer John O'Sullivan tackled a stubborn problem: indoors, radio signals bounce off walls and the echoes smear fast data together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using mathematics from radio astronomy, they developed a way around it, with a US patent granted in 1996.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became part of widely used Wi-Fi standards, 802.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "11a and 802.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "11g, and earned CSIRO hundreds of millions of dollars in licensing settlements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Google Maps began as Where 2 Technologies, a Sydney start-up founded by Danish-born brothers Lars and Jens Rasmussen with Noel Gordon and Stephen Ma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Google bought it in 2004 and launched Maps in 2005, with much early development done in Sydney.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you read that something was 'invented in Australia', ask which part, and who else helped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hills Hoist and plastic money.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1945 Lance Hill, in Adelaide, built a rotary clothesline with a winding crank to raise and lower it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Demand led him to start a business with his brother-in-law Harold Ling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hill did not invent the rotary clothesline: earlier designs had been patented in Australia, including by Gilbert Toyne decades before.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His success came from a sturdy, adjustable design and post-war mass production.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon after decimal currency arrived in 1966, forgers produced convincing fake $10 notes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Reserve Bank and CSIRO spent about two decades developing banknotes on polymer, a plastic film.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first, a commemorative $10 note, was issued in 1988, and by 1996 Australia had a full set.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A clear window is very hard to copy, and the notes last several times longer than paper; dozens of countries now use polymer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: David Warren's flight recorder was new because it captured cockpit voices as well as instrument data.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did George Cayley realise about how an aeroplane could work?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A fixed wing can give lift while another part gives thrust.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was the main problem with break bulk shipping?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Ships sat idle in port while cargo was unloaded.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What was new about David Warren's flight recorder?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It also recorded cockpit voices.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,1392 @@
+{
+ "id": "inner-2",
+ "title": "The Sanctum Teachings · Episode 2",
+ "chapters": [
+  "Ergodicity and the Maths of Ruin",
+  "Fat Tails and Power Laws",
+  "The Evolution of Cooperation",
+  "Second-Order Thinking"
+ ],
+ "units": [
+  {
+   "t": "The Sanctum Teachings. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Ergodicity and the Maths of Ruin, Fat Tails and Power Laws, The Evolution of Cooperation and Second-Order Thinking.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Ergodicity and the Maths of Ruin.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A bet can make the average player richer every round while making almost every actual player poorer.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why is one of the most important ideas in all of risk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bet that looks good.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A stranger offers a coin game.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heads, your wealth rises by 50 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tails, it falls by 40 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Half the time you gain 50, half the time you lose 40, so on average you gain 5 per cent per flip.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet if you play repeatedly with everything you own, you will almost certainly end up nearly broke.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trap is a quiet assumption: that the average across many people tells you what happens to one person across time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ten thousand people flipping once gain 5 per cent in total, the ensemble average.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One person flipping ten thousand times follows the time average.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A system is ergodic when these agree.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wealth compounds, multiplying rather than adding, so it is not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Physicist Ole Peters argues economics went astray by treating such situations as ergodic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The arithmetic of decline.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with 100 dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flip heads and you have 150.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flip tails and you fall to 90, because 40 per cent of 150 is 60.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reverse the order and 100 becomes 60, then 90.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One win plus one loss multiplies your wealth by 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 times 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6, which is 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A typical pair of flips costs you 10 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over a hundred flips, a typical player sees roughly fifty heads and fifty tails, leaving about 0.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "9 to the power of 50 of their stake: around half of one per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile the ensemble average is 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "05 to the power of 100, about 131 times the stake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That average is real, but propped up by a tiny number of astronomically lucky players while nearly everyone else is ruined.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ruin is final.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose someone offers you a fortune to play one round of Russian roulette with a six-chamber revolver.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Across a crowd, five in six walk away rich, so the ensemble looks attractive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But one person who keeps accepting survives ten rounds with probability five sixths multiplied by itself ten times, roughly 16 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Play long enough and death becomes a certainty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any strategy with even a small probability of total loss, repeated often enough, eventually meets that loss.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ruin is an absorbing state: once you are bankrupt, dead or banned from the table, you cannot use the good outcomes that would have followed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The average never gets to rescue you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Betting less.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1956 John Kelly, a researcher at Bell Labs, worked out how a gambler with an edge should size bets to make wealth grow fastest over time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He maximised the expected logarithm of wealth, which captures compounding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In our coin game, staking everything gives a typical growth rate of about minus 5 per cent per flip.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stake a quarter of your wealth each flip, and a typical player grows roughly 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 per cent per flip.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same favourable odds become an engine of wealth simply by betting smaller.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bet more than Kelly and growth falls.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This also defends ordinary caution against the charge of loss aversion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 50 per cent loss needs a 100 per cent gain to recover, so deep drawdowns cost more than they seem.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Survival comes first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The practical moral is simple to state and hard to live by: survive first, then optimise.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A business that grows quickly on heavy debt may look brilliant in average conditions, yet a single bad year can wipe it out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An investor using leverage can be right about the long run and still be forced to sell at the bottom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warren Buffett's well known first rule, don't lose money, is usually read as a joke, but in a non-ergodic world it is close to a mathematical principle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diversification, insurance, emergency savings and modest position sizes all trade a little expected gain for a large reduction in the chance of ruin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice, but the idea holds: you only get the long run if you stay in the game.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A bet can have a positive average payoff and still be ruinous to keep taking, because the crowd's average is not one person's path.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Fat Tails and Power Laws.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some quantities behave politely, clustering around an average.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others are ruled by rare giants.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mistaking one kind of world for the other is how sensible people get blindsided.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two kinds of randomness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fill a stadium with a thousand randomly chosen adults and weigh them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Add the heaviest person on Earth and the average barely changes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repeat with wealth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add one of the world's richest people and they may hold most of the stadium's total wealth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The average now describes nobody.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The writer and former trader Nassim Nicholas Taleb popularised this thought experiment, and named the two worlds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mediocristan is the land of the bell curve: height, weight, calorie intake, a dentist's income.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single observation changes the total meaningfully.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extremistan is the land of power laws: wealth, book sales, pandemic deaths, financial losses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One observation can dwarf the rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A useful test: is the quantity physically constrained, or can it scale?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A baker can only bake so many loaves, but a book can be copied without limit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bell curve's promise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The normal distribution, the familiar bell curve, describes things like human height, measurement errors and many test scores.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It arises when an outcome is the sum of many small, independent influences, none of which dominates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its tails thin out astonishingly fast.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each extra standard deviation from the mean makes an event dramatically rarer, so events many standard deviations out become vanishingly unlikely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why you will never meet an adult three metres tall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under a bell curve, averages and past samples are trustworthy guides.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The danger begins when this model is applied to quantities that do not come from many small independent influences, such as market prices, which can move together in a panic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Power laws.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a power law, the probability of exceeding some size falls away as a power of that size.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead of plunging like a bell curve, the tail declines gently, which is why it is called fat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earthquakes follow such a pattern: each step up in magnitude is roughly ten times rarer yet releases about thirty times more energy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the tail is fat enough, the variance can be infinite, and with a fatter tail still, even the average is undefined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economist Vilfredo Pareto noticed in the late nineteenth century that a small share of people held most of the wealth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 80/20 rule is a loose rule of thumb inspired by his work, not a law of nature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In such domains, the outliers are the story.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Black swans.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Europeans once treated 'all swans are white' as safe, until explorers found black swans in Western Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Taleb borrowed the image for his 2007 book The Black Swan: outliers that carry extreme impact and are rationalised afterwards as predictable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consider a turkey, fed generously every day for a thousand days.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each meal increases its statistical confidence that humans are benevolent, right up until the day before a festive feast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its confidence peaks when the risk is greatest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On Black Monday in October 1987, the Dow Jones Industrial Average fell more than 20 per cent in a single day, a move that standard bell-curve models treated as nearly impossible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were describing the wrong world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living with fat tails.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If extreme events cannot be forecast reliably, change your exposure to them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, distrust averages and standard deviations in fat-tailed domains, and ask what the worst plausible case would do to you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, never assume the biggest loss in your data is the biggest loss possible: the next record may be far larger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, cap your downside, through diversification, insurance and avoiding heavy debt, so no single shock can ruin you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taleb also advocates a barbell approach, combining very safe holdings with a small amount of exposure to large positive surprises.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The deeper habit is to ask of any risk, 'Which world am I in?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "because the right strategy in Mediocristan can be fatal in Extremistan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In some domains no single observation moves the total much, while in others one observation can dominate everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Evolution of Cooperation.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why would selfish players ever learn to trust each other?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A puzzle about two prisoners, and a computer tournament in the 1980s, revealed a surprisingly hopeful answer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prisoner's dilemma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two suspects are held in separate cells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each can betray the other or stay silent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both stay silent, both serve a short sentence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you betray and your partner stays silent, you go free.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both betray, both serve a long sentence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the other does, betrayal is better for you: it either sets you free or spares you the worst outcome.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So two rational prisoners both betray, and both end up worse off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mathematician John Nash showed this mutual betrayal is an equilibrium.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is stable not because it is good, but because neither player can escape it alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The game was devised around 1950 by Merrill Flood and Melvin Dresher at RAND, and Albert Tucker gave it the prisoner story.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same trap appears in arms races, price wars and shared fishing grounds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shadow of the future.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everything changes when the game repeats.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you will face the same partner tomorrow, betraying today may cost you their cooperation for weeks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The political scientist Robert Axelrod called this the shadow of the future: the longer and more certain the relationship, the more cooperation pays.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is a catch.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If both players know exactly when the final round occurs, logic says to betray in that round, since no future remains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the second last round becomes the last, and the argument unravels backwards to the first move.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is called backward induction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So cooperation is most robust when the end is uncertain or distant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Open-ended relationships, like those between neighbours or long-term trading partners, sustain trust best.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Axelrod's tournaments.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1980, Axelrod invited game theorists, economists, psychologists and others to submit programs for a round-robin of the repeated prisoner's dilemma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some entries were elaborate, trying to model opponents or exploit their weaknesses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The winner was the shortest program submitted: Tit for Tat, entered by the mathematical psychologist Anatol Rapoport.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its rule was almost childishly simple.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooperate on the first move, then copy whatever the other player did last time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Axelrod then ran a second, larger tournament.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Entrants knew Tit for Tat had won and tried to beat it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It won again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He described the findings in his 1984 book The Evolution of Cooperation, a landmark across many disciplines.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why Tit for Tat won.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Axelrod found four traits behind its success.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was nice: it never betrayed first, so it never started trouble.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was retaliatory: it punished betrayal at once, so exploiters could not profit for long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was forgiving: after punishing once, it returned to cooperation as soon as the other player did, avoiding endless feuds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And it was clear: its behaviour was so easy to read that opponents quickly learned cooperation was their best response.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oddly, Tit for Tat can never outscore its opponent in a single match.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At best it ties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It won by eliciting cooperation from many partners, not by defeating any of them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Axelrod's lesson for life: do not envy the other player's score.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooperation in the wild.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Axelrod found striking evidence in the First World War.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drawing on research by Tony Ashworth, he described \"live and let live\" truces along parts of the Western Front.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same small units faced each other for long periods, which created a repeated game.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soldiers fired in predictable patterns or aimed to miss, avoided shelling at meal times, and answered real attacks with prompt retaliation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Commanders later disrupted the truces by rotating troops and ordering raids.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooperation needs no friendship in advance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strict Tit for Tat has a weakness: one misread move can trigger endless retaliation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later researchers, including Martin Nowak and Karl Sigmund, found that more forgiving strategies, such as Win Stay, Lose Shift, often do better when errors occur.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reputations, contracts and courts all lengthen the shadow of the future.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In the prisoner's dilemma, each player's best individual move leaves both worse off, and that stable trap is called a Nash equilibrium.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Second-Order Thinking.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every decision has the consequence you intended, and then the consequences of that consequence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The second wave is where most clever plans quietly fall apart.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And then what.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A city wants less traffic, so it builds a wider road.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Traffic eases at first.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then driving becomes more attractive, more people drive, new housing appears along the route, and within some years the road can be as congested as before.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Transport researchers call this induced demand.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first-order effect was real, but it was not the end of the story.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Second-order thinking is the habit of asking \"and then what?\"",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "repeatedly, tracing how people and systems respond rather than stopping at the immediate result.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The investor Howard Marks calls a related idea second-level thinking: seeing what everyone else sees is rarely enough.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most poor decisions are not stupid at the first step.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They fail because nobody looked at the second or third.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When measures become targets.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1975 the British economist Charles Goodhart observed that statistical relationships used for monetary policy tended to break down once authorities tried to control them.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The anthropologist Marilyn Strathern put it best: when a measure becomes a target, it ceases to be a good measure.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A number is useful because it correlates with something you value.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reward the number and people find the cheapest ways to move it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call centres judged on call length may rush customers off the phone, and schools judged on test scores may teach to the test.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The social scientist Donald Campbell argued in the 1970s that the higher the stakes riding on an indicator, the more it gets distorted.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016, Wells Fargo employees were found to have opened accounts customers had not authorised, under pressure to meet sales targets.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Incentives that backfire.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story goes that British officials in Delhi offered a bounty for dead cobras.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People began breeding cobras for the reward, and when the bounty ended, they released their worthless snakes, leaving more cobras than before.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tale is widely told but possibly embellished, with little firm documentation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A better-documented parallel is colonial Hanoi in the early twentieth century, where a bounty on rat tails reportedly led some people to release tailless rats to keep breeding.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the details, the pattern is real.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1936 the sociologist Robert K.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Merton described the unintended consequences of purposeful action, partly caused by focusing so hard on the goal that side effects are ignored.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are not always bad, but the more complex the system, the more of them there are.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chesterton's fence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The writer G.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "K.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chesterton offered a parable in his 1929 book The Thing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A reformer finds a fence across a road for no apparent reason and wants it torn down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A wiser reformer, Chesterton suggested, would say: go and find out why it was built, and only then may you remove it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The point is not that every old rule deserves to survive.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many fences really are pointless.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The point is that the reason for something is often invisible precisely because it is working.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fence that keeps cattle off a road prevents accidents nobody sees.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In organisations, odd procedures sometimes encode hard-won lessons from past failures.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Removing them without understanding can reintroduce the very problem they quietly solved.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking two steps ahead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can practise second-order thinking deliberately.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask \"and then what?\"",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "at least twice, following the chain past the obvious first result.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask how each affected group will respond, especially people with incentives to game your new rule.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consider time horizons: many choices feel good in ten minutes and bad in ten years, or the reverse, like exercise and saving.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When designing a measure, pair it with others that are hard to game together, and watch what people actually do, not only the numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before deleting an old rule, look for its forgotten purpose.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finally, stay humble: in complex systems you will still miss things, so prefer reversible experiments, small pilots and quick feedback.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal is not perfect foresight.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is to stop being surprised by what was foreseeable.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Second-order thinking means asking what happens after the obvious result, tracing how people and systems respond to a change.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. When is a system called ergodic?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. When its ensemble average equals its time average.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. In the stadium thought experiment, why does adding a billionaire change things so much more than adding the heaviest person?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Wealth can scale without limit, but body weight cannot.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. In a single prisoner's dilemma, why do rational players both betray?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Betrayal is the better move whatever the other player does.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why can building a wider road fail to reduce congestion in the long run?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Easy driving draws more drivers, called induced demand.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

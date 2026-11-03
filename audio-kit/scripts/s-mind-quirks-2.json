@@ -1,0 +1,917 @@
+{
+ "id": "s-mind-quirks-2",
+ "title": "Quirks of the Mind · Episode 2",
+ "chapters": [
+  "Why you can't tickle yourself",
+  "The Dunning–Kruger effect",
+  "Why you understand less than you think"
+ ],
+ "units": [
+  {
+   "t": "Quirks of the Mind. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Why you can't tickle yourself, The Dunning–Kruger effect and Why you understand less than you think.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Why you can't tickle yourself.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Try it now: tickle the sole of your own foot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reason reveals one of the brain's cleverest tricks, a system that predicts the future a fraction of a second ahead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An ancient question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People have puzzled over this for more than two thousand years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Problems, a collection of ancient Greek writings traditionally attributed to Aristotle, asks why you cannot tickle yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charles Darwin also noticed that tickling depends on the touch being unexpected.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The skin receives much the same stimulation either way, so the difference must lie in the brain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1897 the psychologists Granville Stanley Hall and Arthur Allin described two sensations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One is a light, feathery touch that causes an itchy, crawling feeling, which they called knismesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other is the heavier touch to the ribs, armpits and feet that makes people squirm and laugh, which they called gargalesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People can sometimes give themselves the first, but the laughter producing kind almost always needs someone else, and tickling is strongly social.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain's prediction machine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every time your brain sends a command to your muscles, it also makes a copy of that command, sometimes called an efference copy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Using this copy, the brain predicts what you should feel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the actual sensations arrive, they are compared with the prediction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anything that matches is treated as expected and turned down in intensity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anything that does not match stands out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This system is constantly at work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It helps you tell the difference between touching something and being touched, and lets your brain focus on surprises in the world rather than the predictable results of your own actions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you try to tickle yourself, your brain knows exactly what is coming.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tickling robot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1990s Sarah Jayne Blakemore, Daniel Wolpert and Chris Frith at University College London tested this idea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Participants moved a handle with one hand, and a robot copied the movement, stroking soft foam across the palm of their other hand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the robot copied the movement exactly and instantly, it did not feel very ticklish.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the researchers added a delay of a fraction of a second, or changed the direction of the stroke, participants rated the sensation as increasingly ticklish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The more the sensation failed to match the prediction, the stronger it felt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why a shove escalates.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This prediction system has a curious side effect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2003 study published in Science, pairs of volunteers took turns pressing on each other's finger, each told to press back with exactly the same force they had just felt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neither intended to escalate, yet the force rose sharply round after round, by roughly 40 per cent each turn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because each person felt their own press as weaker than it really was, they pushed harder to match what they had received.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The researchers suggested this may help explain why physical scuffles, such as children's tit for tat shoving, so often escalate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each side genuinely feels it is only responding in kind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A self that knows itself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the brain fails to predict the consequences of its own actions properly, self produced sensations might feel as though they come from outside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers have explored whether this could help explain symptoms of schizophrenia, such as hearing one's own inner speech as an external voice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A study by Blakemore and colleagues published in 2000 found that people with such symptoms rated self tickling as more intense than other participants did.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is an active area of research and the full picture is complex.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The failure to tickle yourself points to something deep.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your brain constantly predicts what it will feel, and uses those predictions to sort sensations into those caused by you and those caused by the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Light and laughter-producing tickles are different, and the second almost always needs another person.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Dunning–Kruger effect.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why the least skilled are sometimes the most confident, why experts often doubt themselves, and why the famous graph is a myth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unskilled and unaware.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologists David Dunning and Justin Kruger tested students on logical reasoning, grammar and humour, then asked them to rate themselves against peers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those in the bottom quarter, around the 12th percentile on average, estimated they were around the 62nd, comfortably above average.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Top performers slightly underestimated themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The paper's title summed it up: 'Unskilled and unaware of it'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dunning has said he was partly inspired by a 1995 news story about a bank robber who believed lemon juice on his face would hide him from security cameras.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The double burden.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dunning's explanation is a double burden.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you don't know grammar well, you can't write well, and you also can't recognise good or bad grammar, including your own mistakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Incompetence hides itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A new chess player may not see why a move is terrible, and a learner driver may not notice hazards an experienced driver scans for automatically.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Top performers in the study didn't badly misjudge their own scores; they misjudged others, assuming everyone found the task as easy as they did.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is the curse of knowledge: once you know something well, it's hard to imagine not knowing it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's why experts can be poor teachers, skipping steps that seem obvious.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Mount Stupid myth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Online, the effect is often drawn as a curve where beginners' confidence rockets to a peak called 'Mount Stupid', crashes into a 'valley of despair', then slowly climbs with expertise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That graph wasn't in the original study and doesn't match the data.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Dunning and Kruger's results, confidence rose steadily with actual skill; it just rose far less steeply than skill did.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Low performers didn't think they were experts, only a bit above average.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The meme is a catchy story about learning, but it's a later internet invention, not a research finding.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A statistical critique.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some researchers argue much of the pattern would appear even without a special blind spot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two things combine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people rate themselves somewhat above average, the better-than-average effect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And self-estimates are noisy, so they drift back towards the middle, known as regression to the mean.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together these make low scorers seem to overestimate and high scorers underestimate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Analyses published since 2016, using random or simulated data, reproduced much of the famous chart.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Debate continues: some find a real but smaller effect, while the idea that self-assessment is often inaccurate is widely supported.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everyone, and staying calibrated.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The effect isn't about 'stupid people'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A brilliant doctor can be overconfident about investing; a skilled engineer about nutrition.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a well-known 1981 study, most American student drivers rated themselves safer than the median driver, which can't be true of most.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Risk is greatest where feedback is slow or unclear, such as health, long-term finances or complex projects, because reality doesn't correct you quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To stay calibrated, ask for honest feedback, even when uncomfortable.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Test yourself: explain an idea aloud, try a practice question, or predict an outcome and check it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning more reveals the size of the field.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For important decisions, get a qualified second opinion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saying 'I might be wrong' is wisdom, as Socrates suggested 2,400 years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1999, Dunning and Kruger found that the lowest performers greatly overestimated their own ability.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why you understand less than you think.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You use a zip every day.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Could you explain how it actually works?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people are surprised by how quickly their confidence collapses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Explain a zip.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try a quick experiment.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a scale of one to seven, how well do you understand how a zip works?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now explain, step by step, how the teeth lock together and how the slider separates them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people start confidently and stall within a sentence or two.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a well-known 2002 study, Yale psychologists Leonid Rozenblit and Frank Keil asked people to rate their understanding of everyday objects such as zips, flush toilets and locks, then write detailed explanations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After trying, people's ratings dropped noticeably.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The researchers named this the illusion of explanatory depth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We feel we understand things deeply because we know what they look like and how to use them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bicycle test.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a bicycle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now imagine drawing one accurately: frame, pedals, chain and wheels.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easy, surely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "British psychologist Rebecca Lawson tested this in the mid 2000s by asking people to draw or complete diagrams of bicycles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many made errors that would make a real bike impossible to ride, such as attaching the chain to the front wheel or joining the frame in ways that would stop the handlebars turning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regular cyclists did better, but even some of them slipped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The point isn't that people are foolish.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Using something is a different skill from knowing how it works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our everyday knowledge is mostly useful shortcuts, not a detailed blueprint.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the illusion exists.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One reason is efficiency.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Storing the full workings of every gadget would waste mental effort.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't need to understand a toilet's valve to flush it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mind keeps a rough outline and leans on the world as a reference.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you look at a bicycle, the details are right there, so it feels as if they are in your head too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Explanations also come in layers, and each can hide the next.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You know a car burns fuel to move, but not how that turns the wheels.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We stop at the first layer and mistake it for the bottom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cognitive scientists Steven Sloman and Philip Fernbach describe knowledge as a community effort.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No one understands how to make a pencil from scratch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because we can look things up or ask someone, community knowledge feels like ours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strong opinions, shallow knowledge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many of us hold firm opinions on complex issues such as tax, health systems or climate policy while knowing little about how the proposals would work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2013 study, Fernbach and colleagues asked people in the United States to rate their understanding of political policies, then explain in detail how those policies would work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, people rated their understanding lower and their views tended to become less extreme.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simply listing reasons for their position didn't have the same effect.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reasons let you stay on familiar ground.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mechanisms force you to confront the gaps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asking someone to explain the how, rather than defend the why, can make a heated conversation calmer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test and calibrate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can turn the illusion into a learning tool.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before you decide you understand something, explain it out loud as if teaching a curious twelve year old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The method is often linked to physicist Richard Feynman.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wherever you stumble or reach for jargon, you have found a gap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fill it, then try again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Writing works even better, because vague ideas look obviously vague on paper.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None of this means you should feel embarrassed about not knowing how a zip works.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Relying on others is sensible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson is calibration.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you feel very certain about something complex, ask whether you could explain how it works to a sceptical friend.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If not, hold your view more loosely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Listen to people who disagree, and be ready to say, 'I'm not sure; let me find out.'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: We feel we understand everyday things deeply until we try to explain how they work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which kind of tickling almost always needs another person?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A firm touch that makes you squirm and laugh.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Dunning and Kruger find about the lowest scorers?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They overestimated their ability.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What happened when people tried to explain how everyday objects work?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Their ratings went down afterwards.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

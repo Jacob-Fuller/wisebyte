@@ -1,0 +1,1314 @@
+{
+ "id": "s-religions-1",
+ "title": "World Religions · Episode 1",
+ "chapters": [
+  "The world's religions",
+  "Hinduism",
+  "Jainism: the path of harming nothing",
+  "Judaism"
+ ],
+ "units": [
+  {
+   "t": "World Religions. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The world's religions, Hinduism, Jainism: the path of harming nothing and Judaism.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The world's religions.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Around three in four people on Earth identify with a religion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing the basics of what they believe helps you understand your neighbours, the news and much of history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common threads, real differences.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Religions differ enormously, yet scholars notice common threads.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most offer an account of ultimate reality, whether one God, many gods, or an impersonal truth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most teach a way to live, with ideas of right and wrong, compassion and duty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most have rituals such as prayer, festivals and ceremonies for birth, marriage and death, and most build communities.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For many adherents, religion is a whole way of life, shaping food, clothing, family and the calendar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The differences matter just as much.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Judaism, Christianity and Islam teach one God and are called Abrahamic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hinduism includes many deities, which many Hindus see as forms of one reality.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buddhism does not centre on a creator God.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some traditions teach resurrection and judgement, others rebirth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each has wide internal diversity, so ask individuals what they believe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The big numbers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Counting believers is difficult, so these figures are rounded estimates, drawn mainly from large Pew Research Center surveys.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around three in four people identify with a religion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christianity is the largest, with roughly 2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "3 billion people, nearly three in ten.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Islam follows with about 2 billion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hinduism has about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 billion, most in India.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buddhism has several hundred million, depending on how it is counted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judaism is much smaller, about 15 million, but deeply influential.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "9 billion people describe themselves as having no religion, many in China, though that group includes people with spiritual beliefs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other traditions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beyond these five traditions, many others matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sikhism, founded by Guru Nanak in the Punjab region around 500 years ago, has about 25 to 30 million followers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It teaches devotion to one God, equality and service.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jainism, from India, emphasises non-violence towards all living things.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shinto in Japan honours kami, spirits found in nature and ancestors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taoism and Confucianism have shaped Chinese culture for over 2,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Baha'i Faith, founded in the 1800s, teaches the unity of religions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Countless Indigenous traditions around the world connect spirituality to land and ancestors.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First Peoples' spirituality.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal traditions are among the oldest continuous belief systems on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English speakers often call them the Dreaming, though each language group has its own words, such as Tjukurpa in parts of Central Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancestral beings shaped the land, animals and laws, and remain present in Country.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stories, songs, dances and art carry this knowledge, sometimes along songlines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beliefs vary between hundreds of nations, and some knowledge is sacred and restricted, so that protocol deserves respect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Torres Strait Islander spirituality is tied to the sea, the stars and totemic clan relationships.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Christian missions spread from the 1800s, sometimes as part of harmful government policies, and today many people combine faith with traditional beliefs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 1 July, Torres Strait Islanders mark the Coming of the Light, the arrival of missionaries on Erub, Darnley Island, in 1871.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Religion in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Census religion question is optional, but it gives a long-term picture.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1966, fewer than 1% of Australians reported no religion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 2021 it was about 39%, up from 30% in 2016.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christianity remained the largest group at about 44%, led by Catholics, about 20%, and Anglicans, about 10%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Islam, about 3%, Hinduism, almost 3%, and Buddhism, over 2%, followed, with Hinduism adding the most followers, largely through migration.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2026 Census will show whether these trends continue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few habits help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask rather than assume, because believers practise differently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use the names communities use for themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wishing a colleague a happy Diwali, Eid or Hanukkah is usually welcome.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curiosity and respect open more doors than debate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most religions share beliefs about ultimate reality, a moral code, rituals and community, but differ on God, the afterlife and how to live.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Hinduism.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The world's third-largest religion has no single founder, no single holy book and no single creed, yet it has shaped the lives of over a billion people for thousands of years.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A family of traditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hinduism is often described as the world's oldest living major religion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has no single founder or date of origin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It grew over thousands of years in South Asia, drawing on the Vedic culture of northern India, whose earliest hymns date to roughly 1500 to 1200 BCE, and on many local traditions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word Hindu came from outsiders naming people who lived beyond the Indus River.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Hindus call their tradition Sanatana Dharma, the eternal way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is less a single system than a family of traditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some Hindus focus devotion on Vishnu, others on Shiva, others on the Goddess, Devi or Shakti.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practice varies by region, language, caste background and family custom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 billion Hindus live today, roughly 95% in India.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Self, duty and liberation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brahman is the ultimate reality underlying everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each living being has an Atman, an eternal self or soul.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hindu schools understand the relationship differently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Advaita Vedanta teaches that Atman and Brahman are ultimately one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Devotional schools see the soul as distinct from God, yet deeply connected through love.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four ideas are key.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dharma is duty or right living, and it differs by stage of life and role.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Karma is action, and Hindus believe actions have consequences shaping this life and future ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Samsara is the cycle of birth, death and rebirth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moksha is liberation from that cycle, the ultimate goal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Classical texts also name four aims of life: dharma, artha, prosperity, kama, pleasure and love, and moksha.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A full life balances all of them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gods and goddesses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hindu worship includes many deities.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vishnu, the preserver, is believed to descend to Earth in forms called avatars, most famously Rama and Krishna.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shiva is associated with destruction and renewal, meditation and dance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Devi appears in many forms, including Lakshmi, goddess of prosperity, Parvati and the warrior goddess Durga.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ganesha, with his elephant head, is the remover of obstacles and is often worshipped before new beginnings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Hindus see these deities as different faces of one divine reality.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A family may have a favourite deity at home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sacred texts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hinduism has a vast body of sacred writing, much of it in Sanskrit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Vedas are the oldest, collections of hymns and ritual knowledge passed down orally for centuries before being written.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Upanishads explore philosophical questions about Brahman and Atman.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two great epics are beloved across South Asia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Ramayana tells the story of Prince Rama.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Mahabharata is one of the longest poems ever composed, at around 100,000 verses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within it sits the Bhagavad Gita, a dialogue between Krishna and the warrior Arjuna about duty and devotion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Worship and festivals.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Worship, called puja, takes place at a home shrine or temple.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It often involves offering flowers, food, light and incense before a sacred image called a murti.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diwali, the festival of lights, usually falls in October or November and celebrates light over darkness and good over evil.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Families light oil lamps, share sweets and honour Lakshmi.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holi, in spring, is famous for coloured powder.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Navaratri honours the Goddess over nine nights.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pilgrimage to sites like Varanasi on the Ganges is also important.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, Hinduism rose to almost 3% of the population at the 2021 Census, largely through migration from India, Nepal, Sri Lanka and Fiji.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It added more followers than any other religion between 2016 and 2021.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At temples, visitors usually remove shoes and dress modestly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If invited to a celebration, accept any sweets offered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hinduism has no single founder and grew over thousands of years into a family of related traditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Jainism: the path of harming nothing.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some monks sweep the ground before every step so they won't crush an insect.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Behind that gesture lies one of the world's oldest and most demanding ideas: that every living thing has a soul.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An ancient Indian faith.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jainism grew up on the Ganges plain of northern India, in the same restless era as the Buddha.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its most famous teacher, Mahavira, is usually dated to the sixth or fifth century BCE.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jains do not call him the founder, though.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In their tradition he is the twenty-fourth and last Tirthankara of our age, a \"ford-maker\" who crossed the river of rebirth and showed others the way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His predecessor, Parshvanatha, is widely accepted by historians as a real figure who lived a few centuries earlier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today there are roughly four to five million Jains, mostly in India, with communities in Britain, North America, East Africa and Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Souls everywhere.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the heart of Jain teaching is the jiva, the soul.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every soul is by nature perfectly knowing, perceiving and blissful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem is karma.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many religions karma is a moral law of cause and effect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Jainism it is an extremely fine substance that clings to the soul whenever we act with passion, greed or violence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That build-up keeps the soul trapped in the cycle of birth and death.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Souls are found not only in humans and animals but in plants, and even in tiny beings in earth, water, fire and air.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal of life is to stop new karma attaching and to burn away the old, until the soul rises free.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ahimsa: the first vow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because so many beings have souls, the Jain duty not to harm reaches further than in almost any other tradition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jains are strict vegetarians.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many also avoid root vegetables such as onions, garlic and potatoes, because pulling them up kills the whole plant and the small creatures in the soil.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Traditionally many avoid eating after sunset, when insects could fall unseen into food.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Monks and nuns may carry a soft brush to clear the ground before they sit or walk, and some wear a cloth over the mouth to avoid harming tiny beings in the air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Harsh speech and hateful intentions count as harm too, so ahimsa is a discipline of the mind as much as the body.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many-sided truth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of Jainism's most admired ideas is anekantavada, often translated as \"many-sidedness\".",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reality is complex, Jain philosophers argued, and any statement about it is true only from a particular standpoint.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To illustrate this, Jains, like Buddhists and Hindus, tell the story of the blind men and the elephant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One touches the trunk and says an elephant is like a snake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another feels a leg and says it is like a tree.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each is partly right and wrong to think he has the whole truth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jain logicians built this into a careful system for qualifying statements with words like \"in some respect\".",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many modern Jains see it as a partner to ahimsa: intellectual humility as a form of non-violence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Branches, temples and reach.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Monks and nuns take five great vows: non-violence, truthfulness, not stealing, chastity and non-possession.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How far to take non-possession helped split Jainism in two.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Digambara, \"sky-clad\", monks go naked and hold that women must be reborn as men to reach liberation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Svetambara, \"white-clad\", monks and nuns wear simple white robes, and the tradition teaches that women can be liberated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lay Jains follow gentler versions of the vows.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jain temples are known for carved marble, as at Dilwara and Ranakpur.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The festival of Paryushana ends with the words \"Micchami Dukkadam\", roughly \"may my wrongs be forgiven\".",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gandhi, raised in Gujarat, counted the Jain thinker Shrimad Rajchandra among his guides.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jain communities also fund hospitals for animals and birds, including one in Old Delhi.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Jainism is an Indian religion built on non-violence, self-discipline and freeing the soul.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Judaism.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One of the world's oldest monotheistic religions, with only about 15 million adherents, yet its ideas helped shape both Christianity and Islam.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Covenant and Exodus.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Judaism traces its story to Abraham, who according to the Hebrew Bible left Mesopotamia in response to God's call, perhaps around 4,000 years ago by traditional reckoning.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jews believe God made a covenant, a binding agreement, with him: his descendants would be God's people and be faithful to God.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It passed to his son Isaac and grandson Jacob, also called Israel, whose twelve sons became ancestors of the twelve tribes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Covenant is central to Jewish life.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The central story of Jewish memory is the Exodus.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to the Torah, the Israelites were enslaved in Egypt until Moses led them to freedom.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Mount Sinai, God gave Moses the Torah, including the Ten Commandments.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how these events relate to the archaeological record, but Jews have retold the story every year for millennia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Texts and core beliefs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Torah means teaching.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Narrowly, it is the first five books of the Bible, handwritten on scrolls and read in synagogues.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The full Hebrew Bible is the Tanakh: Torah, Nevi'im, Prophets, and Ketuvim, Writings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Talmud, compiled between about 200 and 500 CE, records rabbinic debate and law.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Study is itself worship.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judaism centres on belief in one God.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Shema, recited morning and evening, begins: Hear, O Israel, the Lord is our God, the Lord is One.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tradition counts 613 commandments, or mitzvot, covering worship, ethics, food, kashrut, and daily life.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judaism stresses ethical action, including justice and charity, more than doctrine about the afterlife.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shabbat and festivals.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shabbat runs from sunset on Friday to nightfall on Saturday, recalling that God rested on the seventh day of creation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It begins with candles and a family meal with blessings over wine and braided challah bread.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Observant Jews refrain from work, which traditionally includes cooking, driving and using electrical devices.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others mark the day more simply.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The calendar is lunisolar: lunar months, with a leap month to keep festivals in season.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rosh Hashanah, the new year, begins ten High Holy Days that end with Yom Kippur, a day of fasting and prayer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Passover retells the Exodus at a ritual meal, the Seder.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hanukkah recalls the rededication of the Temple in Jerusalem in the second century BCE.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 13, boys celebrate a Bar Mitzvah, and girls in many communities a Bat Mitzvah at 12 or 13.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Branches and history.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Babylonians destroyed the First Temple in 586 BCE, and the Romans destroyed the Second in 70 CE.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After that most Jews lived in the diaspora, scattered across many lands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Communities developed distinct cultures, such as Ashkenazi in Europe and Sephardi and Mizrahi in the Mediterranean and Middle East.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Persecution recurred over centuries, culminating in the Holocaust, in which about six million Jews were murdered.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today the main branches include Orthodox, Conservative and Reform, which is called Progressive in Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rabbi, a teacher of Jewish law and tradition, often leads prayer and study.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Jews are secular but culturally Jewish.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judaism in Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jews have been in Australia since 1788, when a small number of Jewish convicts arrived on the First Fleet.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today about 100,000 Australians identify as Jewish, mostly in Melbourne and Sydney, including many Holocaust survivors and their descendants.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notable Jewish Australians include General Sir John Monash, a commander in the First World War, and Sir Isaac Isaacs, the first Australian-born Governor-General.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you are invited to a Shabbat dinner or Seder, bring flowers or kosher wine, and ask your host about customs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hosts usually welcome curiosity shown with respect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Jews believe God made a covenant with Abraham's descendants, and they remember the Exodus from Egypt every year.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which statement about religions is accurate?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Most share beliefs, a moral code, rituals and community.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which statement best describes Hinduism's origins?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It grew over millennia with no single founder.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How do Jains regard Mahavira?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As the last Tirthankara, or ford-maker.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does the idea of the covenant mean in Judaism?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A binding agreement with God.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

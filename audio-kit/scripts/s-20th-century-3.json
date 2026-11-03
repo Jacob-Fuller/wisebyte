@@ -1,0 +1,941 @@
+{
+ "id": "s-20th-century-3",
+ "title": "The 20th Century · Episode 3",
+ "chapters": [
+  "The end of empires",
+  "The civil rights movement",
+  "Apartheid: rise and fall"
+ ],
+ "units": [
+  {
+   "t": "The 20th Century. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The end of empires, The civil rights movement and Apartheid: rise and fall.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The end of empires.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1945, European empires ruled a large share of the world's people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within about three decades, most colonies had become independent nations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Empires lose their grip.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 20th century, Britain's empire covered about a quarter of the world's land.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "France, the Netherlands, Belgium and Portugal also held vast colonies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "World War II weakened these powers economically and militarily, and damaged their prestige: Japan had defeated European forces across Asia, capturing Singapore from Britain in 1942.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colonised peoples who had fought for the Allies asked why freedom should apply to Europe but not to them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1941 Atlantic Charter had promised people the right to choose their own government, and the new United States and Soviet superpowers both opposed old-style empires.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Independence and war.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "India's movement, led by Mahatma Gandhi and Jawaharlal Nehru, used mass nonviolent protest, such as the 1930 Salt March.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A weakened Britain decided to leave quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In August 1947 it partitioned the subcontinent into mostly Hindu India and mostly Muslim Pakistan, with hastily drawn borders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 15 million people moved, and hundreds of thousands to two million died in violence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where colonial powers resisted, wars followed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Indonesia fought the Netherlands until 1949, backed by Australian waterside workers who refused to load Dutch ships.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vietnam defeated France at Dien Bien Phu in 1954.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Algeria's war against France, 1954 to 1962, killed hundreds of thousands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain brutally suppressed the Mau Mau uprising in Kenya.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portugal held on to Angola and Mozambique until a 1974 revolution at home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Africa and its challenges.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ghana became the first sub-Saharan British colony to gain independence in 1957.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1960, the Year of Africa, 17 nations followed, and Harold Macmillan told South Africa's parliament that a 'wind of change' was blowing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "White-minority rule lasted in Zimbabwe until 1980 and apartheid South Africa until 1994.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New nations inherited problems.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonial borders, drawn by Europeans during the Scramble for Africa after the 1884–85 Berlin Conference, grouped rival groups together or split peoples apart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colonial economies exported raw materials like cotton, cocoa, copper and rubber rather than building local industry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some colonies had very few university graduates to run a government.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "India and Botswana built lasting democracies; others suffered civil wars, coups or dictatorships, sometimes backed by Cold War superpowers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate colonial legacies versus later choices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Non-alignment and our region.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United States and Soviet Union courted new nations with aid and weapons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1955, leaders from 29 Asian and African countries met at Bandung in Indonesia to oppose colonialism.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1961 the Non-Aligned Movement was founded in Belgrade by leaders including Nehru, Nasser, Sukarno and Tito.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1956 Suez Crisis, when Britain and France failed to retake the canal from Egypt under American pressure, showed how far the old powers had declined.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Closer to home, Australia administered Papua from 1906 and later governed German New Guinea under League of Nations and then United Nations mandates.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The combined territory became independent as Papua New Guinea on 16 September 1975, under Michael Somare.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Samoa, 1962, Nauru, 1968, and Fiji, 1970, also gained independence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The United Nations now has 193 members, up from 51 in 1945.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legacies today.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imperial history is still visible everywhere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English, French, Spanish and Portuguese are spoken across continents because of it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Commonwealth of Nations, a voluntary association of mostly former British territories, has over 50 members, including Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain returned Hong Kong to China in 1997, and Timor-Leste, abandoned by Portugal in 1975 and then occupied by Indonesia, became independent in 2002.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The UN still lists around 17 'non-self-governing territories'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New Caledonia, a French territory near Australia, voted against independence in referendums in 2018, 2020 and 2021.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debates continue about apologies, reparations and returning museum artefacts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: World War II weakened the European empires and made old-style colonial rule hard to defend.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The civil rights movement.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Bus boycotts, sit-ins and marches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How ordinary people used nonviolent protest to dismantle legal segregation in America, and inspired Australians too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jim Crow and Brown.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Civil War ended slavery in 1865, southern states passed Jim Crow laws segregating Black and white Americans in schools, transport, restaurants and hospitals, and used poll taxes, literacy tests and intimidation to stop Black citizens voting.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plessy v.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ferguson, 1896, approved 'separate but equal', though Black facilities were far worse.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lynchings terrorised Black communities.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NAACP lawyers led by Thurgood Marshall spent years challenging school segregation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Brown v.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Board of Education, 1954, the Supreme Court unanimously ruled separate schools inherently unequal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many southern states resisted, and in 1957 the Little Rock Nine needed federal troops to escort them into a high school in Arkansas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boycotts, sit-ins, marches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In December 1955, Rosa Parks, an experienced activist and secretary of the local NAACP branch, refused to give up her bus seat to a white passenger in Montgomery, Alabama, and was arrested.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black residents boycotted the buses for 381 days, walking or sharing carpools, until the Supreme Court ruled bus segregation unconstitutional.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 26-year-old minister, Martin Luther King Jr.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", emerged as a leader.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then came sit-ins at lunch counters from February 1960 and the 1961 Freedom Riders, who were violently attacked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1963, Birmingham police turned fire hoses and dogs on young protesters, shocking the nation on television.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In August, around 250,000 people joined the March on Washington, where King gave his 'I Have a Dream' speech.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laws and new voices.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "President Lyndon B.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Johnson pushed through the Civil Rights Act of 1964, banning segregation in public places and discrimination in employment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In March 1965, state troopers attacked peaceful marchers at Selma, Alabama, on 'Bloody Sunday'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Voting Rights Act followed, outlawing literacy tests and sending federal officials to register voters; in Mississippi, Black registration jumped from under 10% to around 60% within a few years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not everyone shared King's strategy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Malcolm X argued for the right to self-defence, and from 1966 'Black Power' called for pride, self-reliance and political power.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "King broadened his focus to poverty and the Vietnam War before he was assassinated on 4 April 1968.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A week later, Congress passed the Fair Housing Act.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Freedom Ride.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inspired by the American movement, University of Sydney students led by Charles Perkins toured country towns in NSW by bus in February 1965.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Perkins, an Arrernte and Kalkadoon man, became one of the first Aboriginal university graduates in 1966.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The students surveyed living conditions and exposed segregation at swimming pools, clubs, cinemas and shops.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Moree, where Aboriginal children were barred from the town pool, and in Walgett, they faced angry crowds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The publicity helped build support for the 1967 referendum, in which about 90.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8% of Australians voted to count Aboriginal people in the census and let the federal government make laws for them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unfinished business.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The civil rights movement transformed American law and politics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black elected officials, rare in the South in 1965, now number in the thousands, and in 2008 Barack Obama was elected the first Black president.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet gaps in wealth, health, schooling and incarceration rates remain large.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2013 the Supreme Court struck down a key part of the Voting Rights Act, and later protests, such as those after the murder of George Floyd by a police officer in 2020, echoed earlier struggles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The movement's methods, patient organising, boycotts, legal challenges and disciplined nonviolent protest, are still studied by campaigners worldwide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After slavery, southern states enforced segregation, until the Supreme Court ruled segregated schools unconstitutional in 1954.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Apartheid: rise and fall.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For more than four decades, South Africa's laws sorted every person by race and decided where they could live, work, love and vote.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then, against most predictions, the system was dismantled without the all-out civil war many had feared.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building apartheid.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Discrimination long predated apartheid.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the Union of South Africa formed in 1910, most black people were denied the vote.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Natives Land Act of 1913 restricted black land ownership, and pass laws controlled travel and work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1912 black leaders founded what became the African National Congress.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word apartheid, Afrikaans for apartness, entered politics in the 1940s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1948 the National Party won office and built the system.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Population Registration Act of 1950 classified everyone as white, coloured, Indian or black.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cross-racial marriage was banned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Group Areas Act created separate residential areas, and communities such as District Six and Sophiatown were bulldozed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separate and unequal schools, hospitals and beaches followed, and Bantu Education prepared black children for labouring lives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The homelands.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most ambitious part of apartheid was the homeland system.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The government divided black South Africans into ethnic groups and assigned each to a territory, or Bantustan, often scattered fragments of poor land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The aim was to declare these homelands independent, so black people would become citizens of them rather than of South Africa, leaving a white-ruled state with no black citizens at all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four homelands, including Transkei, were declared independent, though almost no other country recognised them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Millions were forcibly moved there in the 1960s and 1970s, often to places with few jobs or services.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Workers who needed city jobs became migrants in their own country, living in hostels far from their families.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resistance and repression.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Through the 1950s the ANC led nonviolent campaigns and in 1955 adopted the Freedom Charter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 21 March 1960 at Sharpeville, police opened fire on a pass-law protest, killing 69 people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ANC was banned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nelson Mandela and others concluded that peaceful protest was failing, and in 1961 Umkhonto we Sizwe began sabotage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the Rivonia trial in 1964 Mandela was sentenced to life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 16 June 1976 thousands of Soweto students marched against being taught some subjects in Afrikaans.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Police opened fire, and a photograph of dying twelve-year-old Hector Pieterson travelled the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds were killed in the unrest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Steve Biko's Black Consciousness movement urged pride; he died in police custody in 1977.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1980s protests and boycotts led to states of emergency.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The world turns away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "International pressure grew steadily.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United Nations condemned apartheid, and many countries imposed trade, arms and financial sanctions, especially in the 1980s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Banks refused new loans and companies pulled out, damaging an already struggling economy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sport mattered deeply to many white South Africans, and sporting boycotts struck at their sense of belonging in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "South Africa was excluded from the Olympics for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, a 1971 tour by the Springbok rugby team sparked large protests and clashes, and later governments of both major parties took strong anti-apartheid positions in the Commonwealth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how much sanctions alone forced change compared with internal resistance and economic decline, but together they made apartheid increasingly costly to keep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Release and 1994.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the late 1980s many in government realised apartheid could not survive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 2 February 1990 President F.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "W.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "de Klerk announced the ANC would be legalised.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 11 February Nelson Mandela walked out of prison after 27 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Negotiations were interrupted by violence that killed thousands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1993 the assassination of ANC leader Chris Hani brought the country to the brink, but Mandela's appeal for calm held.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He and de Klerk shared the Nobel Peace Prize.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 27 April 1994 South Africans of every race voted together for the first time, many queueing for hours.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ANC won about 62 per cent, and Mandela became president of a government of national unity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Truth and Reconciliation Commission heard testimony.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apartheid law was gone, but its economic legacy of deep inequality remains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After 1948, South Africa's government turned long-standing discrimination into a total legal system that classified everyone by race.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why were European empires harder to maintain after World War II?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The war left them weaker and less respected.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did the Supreme Court decide in Brown v. Board of Education?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Segregated public schools were unconstitutional.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the Population Registration Act of 1950 do?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Placed each person in a racial group.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

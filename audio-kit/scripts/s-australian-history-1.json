@@ -1,0 +1,863 @@
+{
+ "id": "s-australian-history-1",
+ "title": "Australian History · Episode 1",
+ "chapters": [
+  "The First Fleet and colonisation",
+  "Matthew Flinders: the man who named Australia",
+  "The gold rushes"
+ ],
+ "units": [
+  {
+   "t": "Australian History. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The First Fleet and colonisation, Matthew Flinders: the man who named Australia and The gold rushes.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The First Fleet and colonisation.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1788, eleven ships arrived in Sydney Cove.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For Britain it was a new colony; for the land's Aboriginal owners, it was an invasion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A continent already home.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When Europeans arrived, Australia was home to hundreds of distinct Aboriginal nations and more than 250 languages, with Torres Strait Islander peoples to the north.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Archaeologists agree people have lived here for more than 50,000 years, and excavations at Madjedbebe in Arnhem Land suggest about 65,000, though that date is still debated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aboriginal peoples managed the land with fire, fish traps and trade networks, and lived by complex systems of law, kinship and knowledge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dutch sailors had mapped parts of the coast from 1606, and James Cook charted the east coast in 1770, claiming it for Britain despite its people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why Britain came.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Britain had shipped around 50,000 convicts to its American colonies until the American Revolution ended that option in the 1770s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Harsh laws made minor thefts serious crimes, and prisons and hulks overflowed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1786 the government chose Botany Bay as a penal colony.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strategic interests, such as a Pacific base and timber and flax for the navy, may also have played a part.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Captain Arthur Phillip became first governor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The First Fleet left Portsmouth on 13 May 1787 with eleven ships and roughly 1,400 people, about 750 of them convicts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It called at Tenerife, Rio de Janeiro and Cape Town.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Botany Bay proved unsuitable, so Phillip moved to Port Jackson, and on 26 January 1788 raised the British flag at Sydney Cove.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hunger, then growth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Few convicts had farming skills.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crops failed in poor, sandy soils, cattle strayed, and supplies were delayed; the store ship Guardian never arrived after hitting an iceberg in 1789.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rations were cut severely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Second Fleet arrived in 1790 with hundreds of convicts dead or dying from neglect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A smallpox epidemic in 1789 devastated Aboriginal communities around Sydney.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only in the mid-1790s did Hawkesbury River farms ease food shortages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 162,000 convicts were transported to Australia between 1788 and 1868.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Well-behaved convicts could earn a 'ticket of leave', and many emancipists became farmers, merchants and builders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governor Lachlan Macquarie, 1810 to 1821, championed them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Free settlers arrived in growing numbers from the 1820s, and many Australians today have convict ancestors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Encounters and conflict.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Relations with the Eora began with some curiosity but deteriorated as colonists took fish, land and water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hoping to learn the language, Phillip had Aboriginal men captured, including Arabanoo and, later, Bennelong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bennelong escaped, then chose to return, and sailed to England with Phillip in 1792.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1790 Phillip was speared at Manly but did not retaliate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain treated the land as terra nullius in practice and made no treaties.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As colonists took land for farming and grazing, Aboriginal people resisted, and frontier conflict continued for over a century.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pemulwuy led resistance around Sydney until he was killed in 1802.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Massacres occurred across the country; after Myall Creek in 1838, seven colonists were hanged, a rare punishment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Disease, violence and loss of land caused catastrophic population decline.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remembering 26 January.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The anniversary of the First Fleet's landing gradually became a national holiday, observed on 26 January by all states and territories only from 1994.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For many Aboriginal and Torres Strait Islander people, it marks the beginning of dispossession.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 26 January 1938, the 150th anniversary, Aboriginal activists including William Cooper, Jack Patten and William Ferguson held a Day of Mourning in Sydney, and the date has been a day of protest ever since.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today Australians hold a range of views: some celebrate, some mourn, some want the date changed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Understanding these perspectives is part of understanding Australian history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Aboriginal and Torres Strait Islander peoples had lived in Australia for more than 50,000 years before Europeans arrived.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Matthew Flinders: the man who named Australia.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "He sailed all the way around the continent, was locked up for six and a half years, and published his great work the day before he died.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then his grave was lost under a railway station.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tasmania is an island.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Matthew Flinders, born in 1774 in Lincolnshire, said Robinson Crusoe made him want to go to sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He joined the Royal Navy at fifteen and sharpened his navigation and chart making under William Bligh on Bligh's second breadfruit voyage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1795 he reached the young colony of New South Wales and befriended the ship's surgeon George Bass, who shared his appetite for exploring the coast in tiny boats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europeans had long wondered whether Van Diemen's Land, Tasmania, joined the mainland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1798 and 1799 Flinders and Bass sailed the sloop Norfolk all the way around it, settling the question.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The passage became Bass Strait, at Flinders' suggestion, giving ships from Britain a shorter if stormy route to Sydney.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around the continent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flinders persuaded Sir Joseph Banks and the Admiralty to back a survey of the continent's coastline.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He sailed in 1801 in HMS Investigator with scientists and artists, including botanist Robert Brown and botanical artist Ferdinand Bauer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He charted the south coast, then the east, rounding Cape York into the Gulf of Carpentaria.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ship was rotting so badly that he cut the survey short.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He reached Sydney in June 1803, completing the first known voyage all the way around Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bungaree, a Kuring-gai man from the Broken Bay area, sailed with him and helped communicate with Aboriginal groups.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He is regarded as the first Australian-born person to circumnavigate the continent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So did Trim, Flinders' clever black cat with white paws, who has statues near Flinders' own, including outside the State Library of NSW.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shipwreck and prison.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1803 Flinders set off for England as a passenger aboard HMS Porpoise, which struck a reef off the Queensland coast, now called Wreck Reef.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The survivors camped on a sandbank while Flinders took a ship's cutter, a small open boat, back to Sydney to organise a rescue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He then continued towards England in the tiny, badly leaking schooner Cumberland, and in December 1803 put in at Mauritius, then a French colony.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain and France were at war again, and the governor, Charles Decaen, suspected him of spying.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flinders was detained for six and a half years, and used the time to work on his charts and journals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trim, who had stayed with him, vanished on the island.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Naming Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Released in 1810, Flinders reached England in poor health and spent his last years preparing his account of the voyages.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The continent was known by names including New Holland and Terra Australis, the \"southern land\".",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flinders preferred a shorter form, Australia, which he found more pleasing to the ear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was not the first to use the word, but he was its most influential champion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His book, A Voyage to Terra Australis, used Australia in its text, though his publishers kept the older name in the title.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Governor Lachlan Macquarie read it and began using Australia in official correspondence from 1817.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The book was published on 18 July 1814.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flinders died the next day, aged forty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lost and found.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flinders was buried in a London cemetery, but over the following decades the burial ground was cleared and built over during the expansion of Euston railway station.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His exact resting place was lost, and a story grew that he lay beneath one of the platforms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019, archaeologists excavating for the High Speed 2 rail project found a coffin with a lead breastplate bearing his name, among tens of thousands of burials.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2024 his remains were reburied in his home village of Donington, Lincolnshire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia his name lives on in places such as Flinders Street in Melbourne, the Flinders Ranges and Flinders University.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Flinders joined the navy at fifteen and, with George Bass, proved in 1798 and 1799 that Tasmania is an island.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The gold rushes.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the 1850s, gold transformed Australia almost overnight, nearly tripling its population and sparking its most famous rebellion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gold fever.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In February 1851, Edward Hargraves found gold near Bathurst in New South Wales.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within months, richer finds followed in the new colony of Victoria, at Ballarat, Bendigo and Mount Alexander.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shepherds, clerks, sailors and shopkeepers abandoned their jobs, and some ships in Melbourne's harbour were left stranded when their crews deserted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People poured in from Britain, Ireland, Europe, the United States and China.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's non-Indigenous population grew from about 430,000 in 1851 to over 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 million by 1861.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gold wealth paid for public buildings, railways and banks, and Melbourne earned the nickname 'Marvellous Melbourne' by the 1880s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many newcomers brought ideas about democracy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Life on the diggings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diggers lived in tents and bark huts, using picks, shovels, pans and cradles to wash gold from dirt.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As surface gold ran out, they sank deep shafts, and later companies crushed quartz with machinery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supplies were expensive and diseases like dysentery spread.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few struck it rich, like the 72-kilogram 'Welcome Stranger' nugget found at Moliagul in 1869.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most found little, and many made their fortunes by selling supplies, food and services to diggers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the late 1850s, around 40,000 Chinese people were in Victoria.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Resentment led to violent attacks, like the Buckland River riot in 1857 and the Lambing Flat riots in NSW in 1860–61.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colonies imposed special taxes on Chinese arrivals, so many ships landed at Robe in South Australia instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This hostility fed into the later White Australia policy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eureka and its legacy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Miners paid an expensive monthly licence, 30 shillings at first, whether they found gold or not, and police conducted brutal 'licence hunts'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diggers had no vote.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anger boiled over at Ballarat in 1854 after a hotel keeper was acquitted of killing a miner.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Led by Peter Lalor, miners swore allegiance to the Southern Cross flag and built a rough stockade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early on 3 December 1854, soldiers and police attacked; the fight lasted about 15 minutes, and around 30 people died, mostly miners.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Public sympathy swung behind the miners.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Melbourne juries refused to convict 13 men charged with treason.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The licence was replaced with a cheap miner's right that came with a vote, and Victoria introduced the secret ballot in 1856, which became known worldwide as the 'Australian ballot'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later rushes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gold fever did not end with the 1850s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finds at Gympie in 1867 helped rescue Queensland from debt, and the Palmer River rush in the 1870s drew thousands of Chinese miners to Cape York.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1892 Arthur Bayley and William Ford found gold at Coolgardie in Western Australia, and in 1893 Paddy Hannan's find at Kalgoorlie started another stampede.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water was so scarce that engineer C.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Y.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "O'Connor designed a pipeline of over 500 kilometres from near Perth, completed in 1903.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The WA rush multiplied that colony's population, and many eastern miners there helped sway it towards joining Federation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What gold left behind.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rushes left grand streetscapes in towns like Ballarat, Bendigo and Beechworth, and Sovereign Hill in Ballarat recreates goldfields life for visitors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They also sped up the dispossession of Aboriginal peoples, such as the Wadawurrung around Ballarat and the Dja Dja Wurrung around Bendigo, whose lands and waterways were overrun and damaged.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Digging and sluicing stripped forests and choked creeks with silt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gold remains important: Australia is one of the world's largest gold producers, with much of it mined in Western Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In an old goldfields town, look for the Chinese joss houses, mullock heaps and ornate banks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Gold finds in 1851 triggered rushes that nearly tripled Australia's population and made Melbourne rich.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which statement about Australia before 1788 is supported by the evidence?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. People had lived here for over 50,000 years.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Flinders and Bass prove in 1798 and 1799?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Tasmania is an island, separated from the mainland by a strait.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How did the gold rushes change Australia?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Population nearly tripled and wealth grew.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

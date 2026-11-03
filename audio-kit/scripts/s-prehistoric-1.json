@@ -1,0 +1,893 @@
+{
+ "id": "s-prehistoric-1",
+ "title": "Prehistoric Life · Episode 1",
+ "chapters": [
+  "The first life on Earth",
+  "Fossils",
+  "Dinosaurs: rulers of the Mesozoic"
+ ],
+ "units": [
+  {
+   "t": "Prehistoric Life. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The first life on Earth, Fossils and Dinosaurs: rulers of the Mesozoic.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The first life on Earth.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some of the oldest evidence of life on Earth is in Western Australia, and you can still see its living relatives at Shark Bay.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hostile young planet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth formed about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "54 billion years ago from dust and rock orbiting the young Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early on, a Mars-sized body is thought to have smashed into it, flinging out the debris that became the Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The surface was bombarded by space rocks and the air had no oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet it may have cooled faster than once thought.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny zircon crystals from the Jack Hills in Western Australia, about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 billion years old, are the oldest known pieces of Earth, and their chemistry suggests liquid water, perhaps even oceans, existed remarkably early.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How life began.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How non-living chemistry became life is a great open question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1952, Stanley Miller and Harold Urey passed sparks through gases and water and made amino acids, showing life's ingredients can form naturally.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leading ideas include deep-sea hydrothermal vents and shallow ponds that dry out and refill, concentrating chemicals, an echo of Darwin's 'warm little pond'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many researchers think early life used RNA, which can both store information and speed up reactions, before DNA and proteins took over.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All living things share the same basic genetic code, pointing to LUCA, the last universal common ancestor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It wasn't the first life, but the population all survivors descend from, probably single-celled microbes in a warm, oxygen-free place.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One 2024 study estimated about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 billion years ago; the timing is debated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oldest evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some of the oldest widely accepted evidence of life comes from the Pilbara in Western Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rocks about 3.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 billion years old contain stromatolites, layered structures built by microbial communities, and the 3.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 billion-year-old stromatolites at Strelley Pool are well studied.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older claims exist, including possible 3.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 billion-year-old stromatolites in Greenland, but they are contested because non-living processes can mimic life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can see living stromatolites at Hamelin Pool in Shark Bay, a World Heritage Area.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The water is about twice as salty as seawater, which keeps away snails and other grazers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Microbial mats trap and bind sediment into domes, often growing a fraction of a millimetre a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some are thought to be a few thousand years old.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They offer a glimpse of what coastlines may have looked like for much of Earth's history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oxygen revolution.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For its first two billion years, Earth's air had almost no oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That changed when cyanobacteria began photosynthesising, using sunlight to split water and releasing oxygen as waste.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At first the oxygen was absorbed by iron dissolved in the oceans, which rusted and settled to form banded iron formations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Pilbara's huge iron-ore deposits in the Hamersley Range formed in this era, so Australia's iron exports partly owe their existence to ancient microbes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 billion years ago, oxygen began building up in the atmosphere, an event called the Great Oxidation Event.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was toxic to many microbes but opened the way for complex life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Complex cells to animals.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The complex cell, or eukaryote, has a nucleus and internal compartments, and plants, animals and fungi are all built from them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A key event was when one microbe engulfed another without digesting it, and the swallowed partner became the mitochondrion, the cell's power station.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plants gained chloroplasts by absorbing cyanobacteria.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This idea, endosymbiosis, was championed by Lynn Margulis in the 1960s and is widely accepted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Complex cells appear in the fossil record at least 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 billion years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soft-bodied multicellular life appeared in the Ediacaran from about 635 million years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From around 538 million years ago, most major animal groups appear within perhaps 20 million years, the Cambrian explosion, bringing eyes, shells, legs and jaws.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sites include the Emu Bay Shale on Kangaroo Island.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Earth formed about 4.5 billion years ago, yet zircon crystals from Western Australia suggest liquid water existed within a few hundred million years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Fossils.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Almost nothing that dies becomes a fossil.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The few that do are messages from deep time, and Australia holds some of the most important.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rare event.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most living things vanish after death.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scavengers eat them, bacteria break them down and weather scatters the rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To become a fossil, an organism usually needs to be buried quickly in mud, sand, volcanic ash or sediment, which cuts off oxygen and scavengers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hard parts such as bones, teeth and shells survive best, so the record is dominated by shelled sea creatures.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only a tiny fraction of all species are thought to be preserved, mostly those living in or near water where sediment builds up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gaps are expected, not suspicious, and predictions still work: in 2004, researchers searched rocks of the right age and found Tiktaalik, a transitional fish with limb-like fins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bone to stone, and traces.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once buried, minerals such as silica or calcite can seep into bone or wood and gradually turn it to stone, keeping fine detail.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes the original dissolves, leaving a mould that fills to form a cast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soft tissue is rare: insects in amber, mammoths in Siberian permafrost, animals in tar pits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trace fossils record behaviour instead of bodies: footprints, burrows, bite marks, nests and coprolites, the polite name for fossilised dung.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They can show how fast an animal moved or what it ate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Lark Quarry near Winton, Queensland, thousands of dinosaur footprints about 95 million years old were once read as a stampede.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers now think the animals were wading or swimming.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dating fossils.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists date fossils in two main ways.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Relative dating uses superposition: in undisturbed layers, deeper rock is older.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Widespread index fossils help match layers across regions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For actual ages, scientists use radiometric dating, measuring the steady decay of radioactive elements such as uranium or potassium in volcanic ash layers above and below a fossil.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common myth is that dinosaurs are carbon dated.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radiocarbon dating only works back to about 50,000 years, so it suits mammoths and early human sites, not dinosaurs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finds that changed science.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1800s, Mary Anning, a working-class woman from Lyme Regis in England, found the first ichthyosaur skeleton to be recognised scientifically and one of the first plesiosaurs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Her finds helped establish that extinction was real, yet she was largely denied credit in her lifetime.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Megalosaurus, 1824, and Iguanodon, 1825, were the first dinosaurs named, and early reconstructions got a lot wrong: Iguanodon's thumb spike was first placed on its nose like a rhino's horn.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1946, geologist Reg Sprigg noticed strange impressions in the Ediacara Hills of the Flinders Ranges.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were soft-bodied sea-floor creatures over 550 million years old, among the oldest large, complex life known.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Ediacaran period, named in 2004, was the first new geological period in over a century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finding fossils yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fossil hunting can be a rewarding hobby, but rules matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Collecting is generally banned in national parks and many protected sites, and important fossils, such as those at Ediacara, are protected by law.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules vary between states, so check before you dig, and always get landholder permission on private land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you find something that looks significant, photograph it where it lies, note the location and contact your state museum.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many major Australian finds, including dinosaurs around Winton, were first spotted by farmers and members of the public.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Museum fossil days and guided digs are a great way to start.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fossilisation is rare: an organism usually needs quick burial, so the record favours hard parts and watery places.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Dinosaurs: rulers of the Mesozoic.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "They dominated the land for over 150 million years, left thousands of footprints in outback Queensland, and one branch of the family still visits your backyard.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What counts as a dinosaur.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Richard Owen coined 'dinosaur', meaning 'terrible lizard', in 1842.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientifically, dinosaurs are reptiles that walked with their legs held straight beneath the body, not sprawled to the side like a lizard.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That rules out pterosaurs, flying reptiles, marine reptiles such as plesiosaurs and mosasaurs, and the sail-backed Dimetrodon, which was closer to mammal ancestors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They lived through the Mesozoic Era.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Triassic, 252 to 201 million years ago, saw the first small dinosaurs around 230 million years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Jurassic brought giant sauropods and Stegosaurus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cretaceous, ending 66 million years ago, gave us Tyrannosaurus and Triceratops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "rex lived closer in time to us than to Stegosaurus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Branches and real sizes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since the 1880s, scientists have sorted dinosaurs by hip shape.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The lizard-hipped saurischians include meat-eating theropods like Tyrannosaurus and Velociraptor, and huge plant-eating sauropods like Brachiosaurus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bird-hipped ornithischians were plant-eaters such as Triceratops, Stegosaurus and duck-billed hadrosaurs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confusingly, birds evolved from the lizard-hipped branch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers propose redrawing this tree, but museums still use the two-branch system.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "rex reached about 12 metres and perhaps 8 tonnes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Argentinosaurus may have been 30 metres or more and 60 tonnes, though estimates vary.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real Velociraptor, from Mongolia, was turkey-sized and feathered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than 1,000 non-bird species have been named.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Birds are dinosaurs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1861, quarry workers in Germany found Archaeopteryx, a roughly 150-million-year-old animal with feathered wings but also teeth, clawed fingers and a long bony tail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It hinted at a link between dinosaurs and birds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the 1990s, discoveries in north-eastern China have revealed dozens of feathered dinosaurs, many unable to fly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Birds share wishbones, hollow bones and egg-brooding behaviour with theropods like Velociraptor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists now agree that birds are a branch of the dinosaur family tree.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes the magpie on your fence, and the emu and cassowary, living dinosaurs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's dinosaur country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian fossils are rarer than North America's, but discoveries keep coming.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around Winton, rocks about 95 million years old have yielded the sauropods Diamantinasaurus and Savannasaurus and the predator Australovenator, nicknamed 'Banjo'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021, scientists described Australotitan from near Eromanga, estimated at 25 to 30 metres long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muttaburrasaurus and the armoured Kunbarrasaurus are Queensland finds too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Lark Quarry, more than 3,000 small footprints were long read as a stampede, though some researchers now argue the dinosaurs were wading.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Victoria, Dinosaur Cove yielded Leaellynasaura.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 110 million years ago, Australia was joined to Antarctica, inside the polar circle, so these dinosaurs coped with months of winter darkness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common myths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Popular culture gets a lot wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humans and non-bird dinosaurs never met: the last of them died about 66 million years before our species appeared.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most dinosaurs were not giants; many were dog-sized or smaller.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The old image of sluggish, cold-blooded creatures dragging their tails has been replaced by active, fast-growing animals, many with feathers, though their metabolism is still researched.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nor were they failures.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dinosaurs thrived for more than 150 million years and, through birds, are still here.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next time you visit a museum, look for feathers, posture and scale, and you will see how far the science has moved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Dinosaurs are a specific group of land reptiles that walked with legs straight under the body, and they lived through the Triassic, Jurassic and Cretaceous until 66 million years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What are the Jack Hills zircons in Western Australia known for?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Being the oldest known pieces of Earth.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What usually has to happen for an organism to become a fossil?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It is buried quickly, shutting out oxygen.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Which of these was a true dinosaur?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Triceratops.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

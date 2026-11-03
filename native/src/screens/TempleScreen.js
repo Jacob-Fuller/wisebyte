@@ -1,7 +1,8 @@
 import React from "react";
 import { View, Text } from "react-native";
 import * as E from "../engine";
-import { goTab } from "../bus";
+import { goTab, ui } from "../bus";
+import { Auth } from "../auth";
 import { C, F, PC } from "../theme";
 import { Icon, Logo } from "../components/Icon";
 import { T, Tap, Eyebrow, Btn, Bar } from "../components/ui";
@@ -20,12 +21,26 @@ export function Header() {
           <Icon name="flame" size={15} color={C.spark} />
           <Text style={{ fontFamily: F.mono7, fontSize: 13, color: C.spark }}>{E.liveStreak()}</Text>
         </View>
-        <Tap onPress={() => goTab("me")} accessibilityLabel="Your profile and progress" style={{ minHeight: 44, flexDirection: "row", alignItems: "center", gap: 5, paddingHorizontal: 11, borderRadius: 999, backgroundColor: C.surface, borderWidth: 1, borderColor: C.line }}>
-          <Icon name="bolt" size={15} color={C.ink} />
-          <Text style={{ fontFamily: F.body7, fontSize: 13, color: C.ink }}>Lv {E.level()}</Text>
-        </Tap>
+        <AccountButton />
       </View>
     </View>
+  );
+}
+
+/* the account menu, top right on every tab: level plus the user's initial */
+export function AccountButton({ compact }) {
+  const u = Auth.user(), on = ui.tab === "me";
+  const avatar = (
+    <View style={{ width: 30, height: 30, borderRadius: 15, alignItems: "center", justifyContent: "center", backgroundColor: on ? C.accent : C.accentSoft }}>
+      {u && u.email ? <Text style={{ fontFamily: F.display7, fontSize: 17, lineHeight: 20, color: on ? C.accentInk : C.accent }}>{u.email[0].toUpperCase()}</Text> : <Icon name="user" size={17} color={on ? C.accentInk : C.accent} />}
+    </View>
+  );
+  if (compact) return <Tap onPress={() => goTab("me")} accessibilityLabel="Account" style={{ width: 40, height: 44, alignItems: "center", justifyContent: "center", marginRight: -4 }}>{avatar}</Tap>;
+  return (
+    <Tap onPress={() => goTab("me")} accessibilityLabel="Account" style={{ minHeight: 44, flexDirection: "row", alignItems: "center", gap: 7, paddingLeft: 11, paddingRight: 5, borderRadius: 999, backgroundColor: C.surface, borderWidth: 1, borderColor: on ? C.accent : C.line }}>
+      <Text style={{ fontFamily: F.body7, fontSize: 13, color: C.ink }}>Lv {E.level()}</Text>
+      {avatar}
+    </Tap>
   );
 }
 

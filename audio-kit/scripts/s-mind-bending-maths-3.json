@@ -1,0 +1,977 @@
+{
+ "id": "s-mind-bending-maths-3",
+ "title": "Mind-Bending Maths · Episode 3",
+ "chapters": [
+  "Fractals: the infinite detail of coastlines, ferns and clouds",
+  "Chaos and the butterfly effect",
+  "Benford's law: why so many numbers start with 1"
+ ],
+ "units": [
+  {
+   "t": "Mind-Bending Maths. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Fractals: the infinite detail of coastlines, ferns and clouds, Chaos and the butterfly effect and Benford's law: why so many numbers start with 1.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Fractals: the infinite detail of coastlines, ferns and clouds.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "How long is a coastline?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The honest answer is 'it depends on your ruler', and that puzzle opened the door to a whole new kind of geometry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The growing coastline.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try measuring a rocky coastline on a map with dividers set to 100 kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You cut across bays and headlands and get one number.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Set the dividers to 10 kilometres and you follow more of the wiggles, so the total grows.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walk the shore with a one-metre ruler, tracing around every rock, and it grows again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the mid twentieth century the English scientist Lewis Fry Richardson noticed this when comparing published lengths of coasts and borders, which often disagreed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1967 Benoit Mandelbrot built on this in a famous paper titled 'How Long Is the Coast of Britain?'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His point was that for shapes like coastlines, length is not a fixed property.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It depends on the scale you measure at.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repeating shapes in nature.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fern frond is made of smaller leaflets shaped much like the whole frond.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A floret of romanesco broccoli looks like a miniature of the whole head.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is self-similarity, and shapes with rough detail across many scales are called fractals, a word Mandelbrot coined in 1975 from the Latin fractus, meaning broken.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In nature the repetition is imperfect and limited, but it appears in river networks, trees, lightning and clouds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Branching solves practical problems.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your windpipe splits again and again, ending in hundreds of millions of tiny air sacs, packing tens of square metres of surface for oxygen into your chest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood vessels branch so almost every cell sits near a capillary.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The infinite snowflake.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1904 the Swedish mathematician Helge von Koch described a startling shape.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with an equilateral triangle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the middle third of each side, add a smaller triangle pointing outwards, turning each side into four shorter pieces.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repeat on every piece, forever.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each round multiplies the outline's length by four thirds, so the edge grows without limit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the area settles at exactly eight fifths of the starting triangle's.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scale a line up by three and you get three copies; a square gives nine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A Koch side gives four, so its dimension is the power of three that makes four: about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "26.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mandelbrot estimated about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 for Britain's rugged west coast, while smoother coastlines came out closer to 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Mandelbrot set.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous fractal comes from a very short rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with zero.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Square it and add a fixed number, called c.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then take the result, square it and add c again, over and over.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For some values of c the numbers stay small forever.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For others they rush off towards infinity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The numbers involved are complex numbers, which can be plotted as points on a flat plane.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colour every point that stays small black, and you get the Mandelbrot set, named after Benoit Mandelbrot, who studied it using computers at IBM around 1980.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its boundary is endlessly intricate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zoom in anywhere along the edge and you find spirals, seahorse shapes and tiny copies of the whole set.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fractals at work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computer graphics pioneers realised that repeatedly adding smaller random bumps to a shape produces convincing mountains, coastlines and clouds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fractal techniques helped create a computer-generated planet surface for the 1982 film Star Trek II: The Wrath of Khan, and similar ideas still build landscapes in films and video games.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some mobile phone antennas use fractal-like shapes, which let a compact antenna work across a wide range of frequencies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists use fractal dimension to describe the roughness of surfaces, the branching of blood vessels in medical scans and the sprawl of growing cities.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mandelbrot himself applied fractal thinking to financial markets, arguing that prices are wilder and more prone to sudden jumps than standard models assume.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The more finely you measure a jagged coastline, the longer it gets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Chaos and the butterfly effect.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A weather scientist rounded off a number and went to get a coffee.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When he came back, he had discovered why the future can never be fully predicted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The clockwork universe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Isaac Newton showed that simple laws could explain the motions of the planets, the universe began to look like a precise machine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1814, the French mathematician Pierre-Simon Laplace described an imaginary intellect that knew the position of every particle and every force acting on them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For such a being, he wrote, nothing would be uncertain, and the future would be as clear as the past.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later writers called it Laplace's demon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea was not foolish.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronomers could predict eclipses centuries ahead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It seemed that the only obstacle to predicting anything, including the weather, was gathering enough data and doing enough calculation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Poincaré's error.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1880s, King Oscar II of Sweden offered a prize for proof that the solar system was stable in the long run.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The French mathematician Henri Poincaré studied a simplified version, three bodies moving under each other's gravity, and won in 1889.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then, as his paper was being prepared for publication, a serious error was found.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Correcting it, Poincaré realised the three-body problem could behave in extraordinarily tangled ways, with tiny changes leading to vastly different orbits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The printed copies had to be recalled and destroyed, reportedly at a cost greater than the prize money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His corrected work is now seen as an early glimpse of chaos theory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lorenz's coffee break.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Edward Lorenz was a meteorologist at the Massachusetts Institute of Technology who had built a simple weather model on an early computer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1961, wanting to look at one run more closely, he restarted it partway through, typing in numbers from an earlier printout.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The printout had rounded to three decimal places, so instead of 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "506127 he entered 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "506.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference was about one part in four thousand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He went for a coffee while the slow machine worked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When he returned, the new forecast had tracked the old one for a while, then drifted further and further away until the two bore no resemblance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lorenz realised this was not a computer fault.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a property of the weather.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The butterfly effect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lorenz published in 1963, but his work reached a wide audience after a 1972 talk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its title, reportedly suggested by a colleague, asked: ‘Does the flap of a butterfly's wings in Brazil set off a tornado in Texas?’",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a question, not a claim that butterflies control the weather.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By coincidence, a plot of his equations looks like a pair of butterfly wings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A chaotic system is deterministic: the same start always gives the same result, with no randomness in the rules.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The catch is sensitive dependence on initial conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny differences grow, roughly doubling again and again, until they swamp everything.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since we can never measure perfectly, predictions eventually fail.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Release a double pendulum twice from what looks like the same position and the swings soon diverge wildly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living with chaos.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chaos explains why weather forecasts are reliable for a few days, useful for about a week, and of little value beyond about two weeks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Forecasters deal with this honestly through ensembles, running a model many times with slightly different starting conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the runs agree, confidence is high; if they spread out, the outlook is uncertain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chaos turns up elsewhere too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1976, the Australian-born scientist Robert May showed that a very simple equation for animal populations could swing from steady numbers to wild booms and busts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even planetary orbits are thought to be chaotic over tens of millions of years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laplace's demon would need infinitely precise data, and nature never provides that.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After Newton, many scientists believed that perfect knowledge of the present would allow perfect prediction of the future.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Benford's law: why so many numbers start with 1.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In many tables of real-world numbers, from river areas to company accounts, almost a third begin with the digit 1.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pattern is real, it can be explained, and it has helped auditors spot cooked books.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Worn pages, odd pattern.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before calculators, scientists looked up logarithms in thick books of tables.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1881 the astronomer Simon Newcomb noticed that the early pages, covering numbers starting with 1, were far more worn than the later ones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People were looking up numbers beginning with 1 much more often than those beginning with 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His short note was largely forgotten.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1938 the physicist Frank Benford, working at General Electric, noticed the same thing independently.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He collected more than 20,000 numbers from around 20 very different sources, including river areas, city populations, physical constants and magazine figures.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same lopsided pattern appeared again and again, and it now carries his name.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lopsided pattern.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might expect each leading digit, 1 to 9, to turn up about 11 per cent of the time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In data that follow Benford's law, they don't.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 30.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 per cent of numbers start with 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 17.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 per cent start with 2, 12.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 per cent with 3 and 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 per cent with 4.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The share keeps falling: 7.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "9 per cent for 5, 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 for 6, 5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 for 7 and 5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 for 8, down to just 4.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 per cent for 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The formula uses logarithms: the chance of a leading digit d is the base 10 logarithm of one plus one divided by d.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why growth favours 1.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a town of 100 people growing by 10 per cent a year.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doubling to 200 takes a little over seven years, all spent starting with a 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going from 200 to 300 takes a little over four.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going from 900 to 1,000, a rise of just 11 per cent, takes about a year, and then it must double again to escape the 1s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Populations, prices, investments and revenues grow by multiplying, so they linger on low leading digits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pattern also holds in any units: convert dollars to yen, or kilometres to miles, and it stays the same.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1961 Roger Pinkham showed that any law of leading digits independent of units would have to be Benford's law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it doesn't apply.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Benford's law is not a law of nature that every list must obey.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It works best for numbers that spread across several orders of magnitude, say from tens to tens of thousands, and that arise from natural processes or from combining other numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It fails for data stuck in a narrow range.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adult heights in centimetres almost all start with 1, because nearly everyone is between 100 and 199 centimetres tall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also fails for numbers that people assign, such as phone numbers, postcodes and lottery numbers, and for prices deliberately set at points like $9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "99 or $49.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before applying the law to any data set, ask whether there is a good reason to expect it to fit at all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catching cooked books.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People who invent numbers tend to spread first digits fairly evenly, because that feels random.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real financial data, such as invoices, often follow Benford's law closely, so the gap is a useful screening tool.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mark Nigrini helped popularise it in auditing in the 1990s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A deviation does not prove fraud and often has an innocent explanation, such as many identical fees.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also easy to misuse.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the 2020 US election, online posts claimed some vote counts broke the law and proved fraud.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Statisticians replied that precinct totals cluster in a narrow range, so no fit was expected.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always ask whether the data should fit the pattern first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Benford's law was spotted twice, first in worn logarithm books and later in thousands of real-world numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does a coastline's measured length keep growing as the ruler gets shorter?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A shorter ruler follows more of the bays and wiggles.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Laplace's imaginary intellect illustrate?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Perfect data would make the future knowable.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the worn pages in the logarithm books suggest?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Numbers starting with 1 were looked up far more often.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

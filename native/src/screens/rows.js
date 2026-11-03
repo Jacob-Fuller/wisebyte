@@ -10,7 +10,7 @@ import { plural, today } from "../util";
 
 export function LessonRow({ l, right, bg }) {
   const c = E.catOf(l), r = E.state.lessons[l.id], lv = E.LEVELS[l.level] || E.LEVELS.beginner;
-  const badge = right !== undefined ? right : r ? <Badge kind="review" icon="repeat" text="Review" /> : null;
+  const badge = right !== undefined ? right : r ? <Badge kind="review" icon="repeat" text="Review" /> : E.state.heard[l.id] ? <Badge kind="soon" text="Heard" /> : null;
   return <Row color={c.color} title={l.title} bg={bg} onPress={() => E.startLesson(l.id)} right={badge}
     meta={<><Meta>{c.name}</Meta><Pips n={lv.n} label={lv.name} /><Meta>{E.lessonMins(l)} min</Meta></>} />;
 }

@@ -1,0 +1,1164 @@
+{
+ "id": "s-human-body-2",
+ "title": "The Human Body · Episode 2",
+ "chapters": [
+  "Your microbiome: the trillions living inside you",
+  "The liver: your chemical factory",
+  "Your kidneys: the body's master filters",
+  "Hormones: the body's chemical messengers"
+ ],
+ "units": [
+  {
+   "t": "The Human Body. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Your microbiome: the trillions living inside you, The liver: your chemical factory, Your kidneys: the body's master filters and Hormones: the body's chemical messengers.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Your microbiome: the trillions living inside you.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You are not just you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your gut is home to a vast, bustling community of microbes that digest food you cannot, train your immune system and may even chat with your brain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An inner rainforest.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your large intestine is like a rainforest: warm, dark and teeming.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It hosts trillions of microorganisms, mostly bacteria, along with archaea, fungi and viruses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together they are the gut microbiota, and their combined genes are the microbiome.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds of species may live in one gut, in a mix so individual it is compared to a fingerprint.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are long-term residents that are helpful or harmless, weighing perhaps a couple of hundred grams, about a mango.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades, people repeated that microbes outnumber human cells ten to one, based on a rough 1970s estimate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016, researchers recalculated it as closer to one to one, with tens of trillions of each.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catchy statistics can outlive their evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eating what you cannot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We lack the enzymes to break down many types of dietary fibre, such as those in legumes, oats, wholegrains, vegetables and fruit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That fibre reaches the large intestine largely intact, where microbes ferment it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This produces gases, which explains the noisy consequences of a big serve of baked beans, and short-chain fatty acids.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One of these, butyrate, is a key fuel for the cells lining the colon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Short-chain fatty acids also appear to influence inflammation and metabolism elsewhere in the body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gut bacteria help make some vitamins too, including vitamin K.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a real sense, eating fibre is a way of feeding the microbes that help feed you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Immunity and a first gift.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A baby's gut is thought to be largely free of microbes before birth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonisation begins during and after delivery, from the mother, the environment and early feeding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vaginal and caesarean births tend to start with different communities, though the differences seem to narrow over time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breast milk contains sugars the baby cannot digest but certain beneficial bacteria can.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of the body's immune tissue sits along the gut.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germ-free laboratory animals develop abnormal immune systems, suggesting microbes help train it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A diverse community also provides colonisation resistance: it takes up space and resources, making it harder for harmful bacteria to settle in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The microbiome becomes adult-like within a few years, then keeps responding to diet, illness, travel, medicines and age.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Transplants and the brain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most dramatic proof that gut microbes matter is faecal microbiota transplantation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It sounds unappealing, but for people with recurring Clostridioides difficile infections, often triggered by antibiotics, screened stool from a healthy donor can restore a healthy community and has proved remarkably effective.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers are also exploring the gut-brain axis, the network of nerves, hormones and immune signals linking gut and brain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Animal studies suggest microbes can influence behaviour and mood, and human studies have found associations with various conditions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But association is not cause, and much of this work is early.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of headlines claiming a particular bacterium causes or cures complex conditions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The science is fascinating, but still unfolding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caring for your microbes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best-supported advice is not exotic.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Eat a wide variety of plant foods, such as vegetables, fruit, legumes, wholegrains, nuts and seeds, to provide the range of fibres that different microbes thrive on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fermented foods such as yoghurt, kefir and kimchi contain live microbes and may increase diversity, though more research is needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Probiotic supplements vary greatly in evidence depending on the strain and condition, and many claims run ahead of the science.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antibiotics are life-saving when needed, but they can kill helpful bacteria and sometimes cause diarrhoea, so use them only when appropriate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Talk with your GP or an accredited practising dietitian about specific gut concerns.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your gut hosts trillions of microbes, and the old claim that they outnumber your cells ten to one is wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The liver: your chemical factory.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Quietly tucked under your ribs is an organ that stores fuel, builds proteins, breaks down toxins and can even regrow itself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meet the liver.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The organ that regrows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Greek myth, Prometheus stole fire from the gods and was chained to a rock.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each day an eagle ate his liver, and each night it grew back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether or not the storytellers knew it, they picked exactly the right organ.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The liver is famous among doctors for its ability to regenerate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a large part is removed, the remaining tissue can grow and restore much of the organ's size and function within weeks to months.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is what makes living donor liver transplants possible: part of a healthy adult's liver can be given to someone else, and both pieces can grow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few organs can do anything like it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First stop for everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your liver sits in the upper right of your abdomen, behind the lower ribs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At around one and a half kilograms, it is the largest solid organ inside the body.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of its blood arrives through the hepatic portal vein, straight from the stomach and intestines, so nearly everything you absorb passes through the liver first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a meal, with help from insulin, the liver links surplus sugar into glycogen for storage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hours later, as blood sugar dips, it breaks glycogen down and releases sugar, keeping your brain fuelled overnight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a long fast it can make new sugar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also packages fats and makes cholesterol.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is both pantry and kitchen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proteins, bile and colour.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver makes most of the clotting factors that stop bleeding after a cut.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also produces albumin, the most abundant blood protein, which keeps fluid inside blood vessels.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a struggling liver can cause easy bruising or swollen legs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors check liver function with a blood test.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also makes bile, a greenish-yellow fluid stored in the gallbladder.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bile breaks fat into tiny droplets, a bit like washing-up liquid on a greasy pan, so enzymes can digest it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bile carries away bilirubin, a yellow substance made from old red blood cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gut bacteria change it further, giving poo its brown colour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If bilirubin builds up in the blood, skin and eyes turn yellow, a sign called jaundice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clearing chemical waste.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Breaking down proteins releases ammonia, which is harmful to the brain at high levels.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver converts it into urea, a much safer substance that the kidneys flush out in urine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The liver also alters many medicines, hormones and foreign substances so they are easier to excrete.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol is a major example.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver breaks it down at a fairly fixed pace, often estimated at around one standard drink an hour, and nothing such as coffee or a cold shower speeds it up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also why detox teas and cleanses are unnecessary for healthy people: the liver and kidneys already do this job continuously, and do it well.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The silent organ.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver has few pain nerves and plenty of spare capacity, so it can be quite damaged before you feel unwell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fat build-up in the liver is now common, often linked with being overweight, type 2 diabetes and inactivity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It frequently causes no symptoms at first and can often improve with changes to diet, activity and weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy drinking and viral hepatitis are other major causes of damage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia offers vaccination against hepatitis B, and effective treatments now exist for hepatitis C.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have concerns about your liver, your GP can arrange simple blood tests, and healthdirect offers reliable background.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The liver can regenerate after part is removed, which makes living donor transplants possible.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Your kidneys: the body's master filters.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two fist-sized organs filter your entire blood supply many times a day, balancing water, salt and acid with exquisite precision.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A surprising workload.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each kidney is about the size of a fist, yet together they receive about a fifth of the blood your heart pumps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day they filter something like 180 litres of fluid, enough to fill a large bathtub.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A typical adult makes only around one and a half litres of urine, so the kidneys reclaim about 99 per cent of it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The working unit is the nephron, and each kidney has roughly a million.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In its glomerulus, a tangle of capillaries, blood pressure pushes water and small molecules through a fine filter while blood cells and most proteins stay behind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Along the tube that follows, cells take back sugar, salts, amino acids and most of the water, and add extra wastes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What remains becomes urine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Balancing water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Work outdoors in the Pilbara all day without drinking enough and your urine turns darker and smaller in volume.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drink plenty on a cool day and it turns pale and plentiful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kidneys are following instructions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When your blood becomes too concentrated, sensors in the brain trigger the release of antidiuretic hormone, also called vasopressin, from the pituitary gland.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It makes the final parts of the nephron more permeable to water, so more is reabsorbed and urine becomes concentrated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol suppresses this hormone, partly why drinking makes people urinate more and can leave them dehydrated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Urine colour is a rough guide to hydration, though some vitamins, foods and medicines change it too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than filtering.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sodium and potassium must stay in a narrow range for nerves and muscles, including the heart.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The kidneys fine-tune both.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When blood flow to them falls, they release renin, starting a chain of reactions that narrows blood vessels and makes the body retain salt and water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More fluid means higher pressure, and several common blood pressure medicines act on this pathway.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kidneys also remove acid and hold onto bicarbonate, a natural buffer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When their oxygen falls, as at altitude or after blood loss, they release erythropoietin, EPO, telling the bone marrow to make more red blood cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "EPO is a vital medicine, but was notoriously misused as a doping drug.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also complete the activation of vitamin D, needed to absorb calcium for healthy bones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stones and silent damage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kidney stones are hard deposits that form when minerals in urine, most often calcium combined with oxalate, become concentrated enough to crystallise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A small stone may pass unnoticed, but one moving down the narrow tube to the bladder can cause sudden, severe pain that many rank among the worst they have experienced.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dehydration is a common contributor, which matters in hot parts of Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long-term diabetes and high blood pressure are two leading causes of chronic kidney disease.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the kidneys have so much reserve, it often causes no symptoms until a lot of function is lost.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simple blood and urine tests can pick it up early, when steps to protect the kidneys work best.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living with one, or none.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With so much spare capacity, most people can live a normal life with just one kidney, which is why living kidney donation is possible.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first successful kidney transplant took place in Boston in 1954, between identical twins, which avoided the problem of rejection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When both kidneys fail, a person needs dialysis, where a machine or the lining of the abdomen filters the blood, or a transplant.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia you can register as an organ and tissue donor through the Australian Organ Donor Register, run by Services Australia, and it is important to talk about your wishes with family.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For kidney health questions, see your GP or healthdirect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your kidneys filter around 180 litres of fluid a day but make only about one and a half litres of urine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Hormones: the body's chemical messengers.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A tiny drop of the right chemical can make your heart race, your stomach growl or a child grow taller.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hormones are the body's slow but powerful postal service.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Messages in the blood.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nearly step on a snake on a bush track and your heart pounds within seconds.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nerves start that response almost instantly, but hormones help drive it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hormone is a chemical messenger made in one place and carried in the blood to cells elsewhere, where it changes what they do.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only cells with the matching receptor respond, like a letter only the right key can open.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nerves are like phone calls: fast, targeted and brief.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hormones are more like a broadcast: slower to arrive, but able to reach the whole body and keep working for minutes, hours or even years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word comes from a Greek term meaning to set in motion, popularised by physiologist Ernest Starling in 1905.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glands and thermostats.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Glands that release hormones straight into the blood make up the endocrine system: the thyroid, the adrenal glands on top of the kidneys, the pancreas, and the ovaries or testes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fat tissue, the gut, the heart and the kidneys release some too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the brain, the hypothalamus monitors the body and signals the pea-sized pituitary, often called the master gland, which tells other glands to speed up or slow down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Levels stay steady through negative feedback, like a thermostat.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When thyroid hormone falls, the signals urge the thyroid to make more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it rises enough, they ease off.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thyroid needs iodine, and since 2009 iodised salt has been required in most commercial Australian bread to top up intake.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fight, flight and cortisol.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you get a fright, your adrenal glands release adrenaline, also called epinephrine.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It quickens the heart, widens the airways, sends more blood to the muscles and releases stored fuel, preparing you to fight or flee.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The adrenals also make cortisol, often labelled the stress hormone, though that undersells it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cortisol helps regulate blood sugar, blood pressure, inflammation and energy use.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It follows a daily rhythm too, typically rising in the early morning to help you wake and falling towards night.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short bursts of these hormones are normal and useful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Problems are more likely when stress is intense and long-lasting, which is one reason sleep, exercise and rest matter for the whole body.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insulin and hope.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After a meal, sugar enters your blood.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pancreas releases insulin, which signals cells in the muscles, liver and fat to take that sugar in, bringing blood levels back down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between meals, another hormone, glucagon, does the reverse.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In type 1 diabetes, the immune system destroys the cells that make insulin.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the 1920s, that meant a grim and usually short life.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1921, Frederick Banting and Charles Best, working with colleagues at the University of Toronto, extracted insulin.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In early 1922 a teenage boy, Leonard Thompson, became the first person treated with it, and his condition improved.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within a few years insulin was being produced on a large scale, saving countless lives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hunger, sleep and love.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ghrelin, made mainly in the stomach, tends to rise before meals and stirs up hunger.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leptin, released by fat tissue, helps tell the brain how much energy is stored.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melatonin, from the pineal gland, rises as light fades and signals that it is time for sleep, which is why bright screens late at night can make it harder to drift off.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oxytocin plays key roles in childbirth and breastfeeding and is involved in bonding.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is nicknamed the love hormone, but its effects are complex and depend on context, so the nickname oversimplifies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hormone problems can cause vague symptoms such as tiredness or weight changes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A GP can arrange tests, and healthdirect is a reliable starting point.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hormones are chemicals released into the blood that change how distant cells behave.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did a 2016 recalculation suggest about microbial and human cells in the body?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The ratio is roughly one to one.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why are living donor liver transplants possible?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The liver can regrow after part is removed.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Roughly what share of the filtered fluid do the kidneys take back?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About 99 per cent.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How do hormones mainly reach their target cells?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Carried in the bloodstream.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,1182 @@
+{
+ "id": "s-happiness-1",
+ "title": "The Science of Happiness · Episode 1",
+ "chapters": [
+  "What actually makes people happy",
+  "Why new things stop making us happy",
+  "Gratitude",
+  "Awe: the emotion that makes you feel small, in a good way"
+ ],
+ "units": [
+  {
+   "t": "The Science of Happiness. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: What actually makes people happy, Why new things stop making us happy, Gratitude and Awe: the emotion that makes you feel small, in a good way.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. What actually makes people happy.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Money, success, relationships, genes?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Decades of research give some surprising and reassuring answers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measuring happiness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologists usually split happiness, or subjective wellbeing, into two parts: how satisfied you are with your life as a whole, and how you feel from moment to moment.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Life satisfaction is often measured with the Cantril ladder, which asks people to rate their life from 0, the worst possible, to 10, the best possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Daily emotions are tracked with diaries and phone apps that ping people at random times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Happiness Report, published since 2012 using Gallup World Poll data, ranks countries each year.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finland has topped it for many years running, Nordic neighbours sit close behind, and Australia regularly places in the top 20.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Relationships come first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Harvard Study of Adult Development began in 1938, following Harvard students alongside young men from poor Boston neighbourhoods, and was later extended to their children.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's one of the longest-running studies of adult life ever conducted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its fourth director, psychiatrist Robert Waldinger, summarised the findings: good relationships are the clearest predictor of long, healthy, happy lives, more than wealth, fame or social class.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People most satisfied in their relationships at 50 were the healthiest at 80, as if warm connections buffered the knocks of ageing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Loneliness, by contrast, is linked to poorer health and shorter lives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quality mattered more than the number of relationships.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money and genes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Money affects happiness, especially when it lifts people out of poverty and financial stress.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A well-known 2010 study by Daniel Kahneman and Angus Deaton suggested daily emotional wellbeing stopped rising above about US$75,000 a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023, Kahneman and Matthew Killingsworth found happiness keeps rising with income for most people, but levels off for the least happy fifth or so.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research by Elizabeth Dunn and Michael Norton found spending on others lifts mood more than spending on yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twin studies suggest roughly a third to a half of differences in wellbeing is linked to genes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A popular claim that 50% is genetic, 10% circumstances and 40% deliberate has been criticised as too neat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Genes set tendencies, not destiny.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Habits that help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular physical activity is one of the most reliable mood boosters, and even a brisk walk helps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After a poor night's sleep, people rate their mood and patience noticeably lower.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acts of kindness increase happiness in the giver, a finding repeated in studies across many countries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time outdoors in green spaces and near water is linked to better mood and lower stress.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologist Mihaly Csikszentmihalyi found people are often happiest in 'flow', fully absorbed in an activity that stretches their skills, like playing music, surfing, gardening or engaging work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flow tends to happen when the challenge sits just a little beyond what feels comfortable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't chase it directly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economists reported that life satisfaction tends to follow a gentle U-shape, dipping in the mid-40s to early 50s and rising again later, though the dip's size is contested.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The stereotype of a gloomy old age isn't supported.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies by Iris Mauss found people who place great value on happiness, and constantly check whether they're happy enough, can end up less happy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Setting a high bar turns ordinary moments into disappointments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Happiness tends to arrive as a by-product of connecting with people, doing meaningful things and getting absorbed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accepting negative emotions as normal is linked to better wellbeing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protect time for people, move most days, guard your sleep, and spend on shared experiences or other people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If low mood persists for weeks, raise it with a GP; depression is common and treatable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Happiness research separates overall life satisfaction from daily mood, and measures both.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Why new things stop making us happy.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The new car, the pay rise, the bigger house.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The thrill fades fast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Understanding the 'hedonic treadmill' can save you money and disappointment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hedonic treadmill.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1971, Brickman and Campbell described the 'hedonic treadmill': as life improves, expectations rise with it, so we end up feeling much as before.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pay rise thrills for a few months, then becomes normal, and we want the next one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 1978 study compared 22 Illinois lottery winners with similar people who hadn't won.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The winners weren't significantly happier, and they enjoyed everyday pleasures, like chatting with a friend, less.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People recently paralysed were less happy, but less unhappy than most would predict.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The study was small, and larger recent studies find modest, lasting gains in life satisfaction from big wins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adaptation also varies, and some changes, like disability or long-term unemployment, can leave a lasting mark.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why we adapt.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our nervous systems notice change more than steady states.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A strong smell fades within minutes, and so do a humming fridge, a new sofa and a once-stunning view.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anything constant stops carrying new information.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evolution may explain why: permanent satisfaction wouldn't have pushed our ancestors to seek food, safety or better shelter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same system helps people recover from setbacks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adaptation has a partner, comparison.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economist Richard Easterlin noted in 1974 that richer people within a country were happier, yet average happiness in the United States hadn't risen much as the nation grew richer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This Easterlin paradox is still debated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other research finds people report lower wellbeing when neighbours earn more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Social media makes the comparison group enormous.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We mispredict our feelings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologists Daniel Gilbert and Timothy Wilson study 'affective forecasting': how well we predict our future feelings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We're surprisingly poor at it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People overestimate how happy a new job, house or partner will make them, and how devastated they'd be by a breakup, a rejection or a lost election.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This mistake is called the impact bias.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One cause is focalism: we zoom in on the change and forget the ordinary things that will still fill our days, like commuting, cooking and chatting.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Another is that we underestimate our 'psychological immune system', the natural ways we make sense of setbacks and cope with them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expect both good and bad events to fade sooner than you think.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slowing adaptation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Several habits can slow adaptation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Add variety: change how, where or with whom you enjoy something.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Savour pleasant moments by pausing to notice them, and share them with others, which tends to amplify them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise gratitude by naming what you already have.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imagine losing something, a Stoic technique often called negative visualisation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spacing pleasures out helps too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2009 study led by Leif Nelson found people enjoyed TV shows more when ad breaks interrupted them, because the interruptions reset adaptation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ending a good thing slightly early can leave you wanting more rather than bored.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing with adaptation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some things resist adaptation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experiences keep giving through anticipation, memories and the stories we tell, and they're harder to compare with other people's.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close relationships renew through shared growth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some ongoing stresses persist too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists Alois Stutzer and Bruno Frey found people with long commutes reported lower life satisfaction, and higher pay or cheaper housing didn't seem to fully make up for it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Persistent noise and chronic pain keep demanding attention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So weigh daily factors above one-off features.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bigger kitchen soon feels normal, but a 90-minute commute is felt every working day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask how you'll feel in six months, not six days, and picture an ordinary Tuesday in the new situation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: People adapt to good and bad changes, returning towards their usual level of happiness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Gratitude.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One of the simplest, most researched ways to feel better.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And it takes about five minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than good manners.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gratitude means affirming that there is goodness in your life and recognising that its sources lie partly outside yourself, in other people or in luck.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologist Robert Emmons describes it in these two steps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can be a passing emotion, like the warmth when a stranger returns your lost wallet, or a lasting trait.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most major traditions value it, from Stoicism and Buddhism to Christianity, Islam and Judaism.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2003 study, Emmons and Michael McCullough asked students to write weekly for ten weeks about five things they were grateful for, five hassles, or five neutral events.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The gratitude group felt more optimistic and positive about their lives, reported fewer physical complaints and exercised more than the hassles group.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later studies found similar, usually modest, benefits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thanking other people.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2005 study led by Martin Seligman, participants wrote a letter to someone kind they'd never properly thanked, then read it to them in person.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This 'gratitude visit' gave the largest short-term happiness boost of the exercises tested, lasting about a month.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recipients are usually more moved than writers expect.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2018 study by Amit Kumar and Nicholas Epley found writers underestimated how surprised and happy recipients would feel, and overestimated how awkward it would be.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gratitude also binds people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sara Algoe's 'find, remind and bind' theory says it helps us find good partners and friends and draws us closer to them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adam Grant and Francesca Gino found that being thanked made people more willing to help others too, not just the person who thanked them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it works.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain has a negativity bias: criticism, threats and losses grab attention more than praise, safety and gains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That helped our ancestors scan for danger, but it skews how we see an ordinary good day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gratitude redirects attention to what is going well and balances the scales.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also counters hedonic adaptation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Noticing a warm home, clean water or a reliable friend makes them feel fresh instead of invisible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And because gratitude focuses on what others have given, it turns attention outward, away from rumination about ourselves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grateful people also tend to report better sleep, though that research is mostly correlational.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How to practise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quality beats quantity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In one study by Sonja Lyubomirsky and colleagues, people who counted their blessings once a week became happier, but those who did it three times a week didn't, perhaps because it turned into a chore.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be specific: not 'my family', but 'my sister calling to check on me when I was sick'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Focus on people more than possessions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try imagining life without something good, like your health or a friendship.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Link the habit to a routine, like the drive home or brushing your teeth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And say thanks out loud: a text to someone who helped you costs little and means more than you'd guess.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Honest about limits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reviews that pool dozens of studies find gratitude exercises give small but genuine gains in wellbeing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They often beat comparison activities only slightly, and effects on anxiety and depression are small.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many studies used university students and short follow-ups.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gratitude is free, quick and low risk, but it's one helpful habit among several, not a cure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone with persistent low mood or anxiety should talk to a GP or mental health professional.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It isn't toxic positivity either.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It doesn't mean ignoring injustice or being told to 'just be grateful' about unsafe conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works best alongside acknowledging difficulties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can be grieving or angry and still notice a kind neighbour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both can be true.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Gratitude is noticing the good in your life and recognising its sources lie partly outside yourself, and weekly practice lifted mood in a key study.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Awe: the emotion that makes you feel small, in a good way.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Standing under a star-filled sky, hearing a choir swell, watching a stranger's act of courage.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Awe is one of the least studied emotions, yet it may be one of the most powerful for our wellbeing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under a desert sky.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture lying on red earth in outback Australia, far from any town, as the Milky Way spills across the sky in a band so bright it casts a faint glow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might feel tiny, a little dizzy and strangely calm.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is awe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time psychologists paid it little attention, focusing on fear and anger.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That changed in 2003, when Dacher Keltner and Jonathan Haidt published an influential paper defining awe as a response to vastness, something much larger than the self, combined with a need for accommodation, meaning your mental frameworks must stretch to make sense of it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can come from nature, art, music, ideas or people.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Awe is the emotion of wonder at the edges of understanding.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small self, kinder self.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In awe research, one consistent finding is the small self.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People often feel smaller, and in experiments sometimes draw themselves smaller.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most find it relieving: everyday worries seem to shrink alongside the self.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early brain imaging suggests awe may quieten self-focused thinking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In one study, Paul Piff's team had participants gaze for a minute at towering eucalyptus trees on a California campus, while others looked at a plain building.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Afterwards, someone nearby dropped a handful of pens.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who had looked at the trees picked up more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other experiments found that awe, induced through videos of natural wonders, made people more generous in sharing resources.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When your own concerns feel less pressing, other people's needs come into sharper focus.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body on awe.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Have you felt shivers down your spine during powerful music, or the hair on your arms rise at the top of a mountain?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Goosebumps and chills are commonly reported during awe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers suggest awe is linked with the vagus nerve, part of the system that helps calm the body, and people often report slower breathing, widened eyes and a dropped jaw, the classic expression of amazement.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One line of research has linked frequent positive emotions, awe among them, with lower levels of inflammatory markers, though such findings are early and should not be overstated.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What seems clear is that awe is not just a thought.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a whole-body experience, which makes it noticeably different from simple happiness or excitement.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From orbit to other people.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Looking back at Earth from orbit, many astronauts see a fragile blue ball in black space with no borders between nations.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1987 writer Frank White coined the term overview effect for this shift: a sense of the unity of life, concern for the planet and impatience with conflicts that look trivial from that height.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Earthrise photograph from Apollo 8 in 1968 gave many people on the ground a taste of it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You do not need a rocket.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keltner's research, gathering stories from people in many countries, found that one of the most common sources of awe is other people, especially courage, kindness or overcoming adversity, which he calls moral beauty.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others include nature, singing together, music, art, big ideas, and holding a newborn.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Awe walks.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a study published in 2020, researchers asked older adults to take a weekly fifteen-minute walk.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some were simply told to walk, while others were encouraged to take an awe walk, deliberately looking for things that amazed them, from the intricate pattern of a leaf to the sweep of clouds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over eight weeks, the awe walkers reported more positive emotions and less daily distress.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In photos they took of themselves, they also made themselves smaller in the frame and smiled more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can try a version of this anywhere.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look up at the night sky, watch the sunrise, listen to a piece of music with full attention, or read about the scale of the universe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Awe seems to be a free, renewable resource that most of us underuse.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Awe is the feeling of encountering something vast that stretches your understanding.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What are the two parts psychologists measure in happiness?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Life satisfaction and daily mood.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did the 1978 lottery study suggest about big windfalls?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Winners drifted back towards their usual happiness.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the weekly gratitude-writing study find?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Writers felt more optimistic than those listing hassles.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. According to Keltner and Haidt, awe involves vastness and what else?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A need to stretch your thinking.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

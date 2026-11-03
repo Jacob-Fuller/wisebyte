@@ -1,0 +1,1140 @@
+{
+ "id": "s-music-2",
+ "title": "Music · Episode 2",
+ "chapters": [
+  "The Stradivarius mystery",
+  "A guide to classical music",
+  "Opera, explained: drama at full volume",
+  "The night The Rite of Spring caused an uproar"
+ ],
+ "units": [
+  {
+   "t": "Music. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The Stradivarius mystery, A guide to classical music, Opera, explained: drama at full volume and The night The Rite of Spring caused an uproar.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The Stradivarius mystery.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Violins made in a small Italian town three centuries ago sell for millions of dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But when top players are blindfolded, can they actually tell the difference?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The master of Cremona.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cremona, in northern Italy, was the heart of violin making for generations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Amati family established the craft there in the 1500s, and the Guarneri family also worked in town.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antonio Stradivari was born around 1644 and may have trained with Nicolò Amati.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He worked for an extraordinary length of time, making violins, violas, cellos, guitars and harps until he died in 1737, in his early nineties.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Estimates suggest he made a thousand or more instruments, and roughly 650 are thought to survive, though the numbers are approximate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experts generally regard instruments from about 1700 to 1720 as his golden period, when his designs were most refined.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searching for the secret.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A string alone makes little sound.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its vibrations pass through the bridge into the body, a thin spruce top and maple back, which amplifies and shapes the tone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny differences in wood density, thickness and varnish change which frequencies are boosted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People have long hunted for a lost secret.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One theory points to the Maunder Minimum, a period of low solar activity in the Little Ice Age, when slow-growing trees may have produced unusually dense wood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other research suggests the wood was treated with minerals or chemicals, perhaps against woodworm.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None is proven, and many experts think Stradivari's skill matters more than any single ingredient.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blindfold tests.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 2010, the French acoustics researcher Claudia Fritz and American violin maker Joseph Curtin ran careful experiments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the first, published in 2012, experienced violinists wore modified welder's goggles so they could not see which instrument they were playing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They tried violins by Stradivari and Guarneri alongside high quality new ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Players could not reliably tell old from new, and the most preferred instrument was a new one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A larger 2014 follow-up with leading soloists found similar results, and later concert hall tests found listeners often thought the new violins projected better.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These studies do not prove old violins are poor, only that their superiority is far less obvious than legend suggests.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the legend endures.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If blindfolded players struggle to pick them, why do Stradivari violins stay so valuable?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are rare historical objects, like Old Master paintings, and their price reflects scarcity, craftsmanship and provenance as much as sound.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many have names and long histories, passing through the hands of famous musicians.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some violinists argue that lab tests cannot capture what it feels like to live with an instrument for years, learning its responses in large halls.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Belief may play a part too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing you are playing a three hundred year old masterpiece can change how you play and how listeners hear.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers still debate how much of the magic is acoustic and how much is psychological.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Million-dollar instruments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2011, the Stradivari known as the Lady Blunt sold for about 15.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "9 million US dollars, with the proceeds going to relief efforts after the earthquake and tsunami in Japan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few working musicians could ever afford such prices, so many of the finest instruments are owned by banks, foundations, governments or wealthy collectors, who lend them to talented performers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, for example, some leading players perform on historic Italian instruments on loan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few are kept almost unplayed in museums, such as the Messiah violin at the Ashmolean Museum in Oxford, prized partly because it looks nearly new.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most are still played, which many musicians feel is what they were made for.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Antonio Stradivari worked in Cremona into his early nineties, and his instruments from about 1700 to 1720 are called his golden period.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. A guide to classical music.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Three centuries, three giants and a lot of music that still turns up in films, ads and ringtones.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how to find your way in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What 'classical' means.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In everyday speech, 'classical music' means the tradition of Western art music written for orchestras, choirs, soloists and small ensembles over roughly the last four centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians divide it into periods: the Baroque, about 1600 to 1750; the Classical period, about 1750 to 1820, which confusingly gives the whole tradition its name; and the Romantic period, about 1820 to 1900.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then came a burst of twentieth-century experiment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dates are rough, since composers did not wake up in a new era.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing the periods helps you hear why a piece sounds the way it does.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Baroque and Bach.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Baroque music is busy, decorated and driven by a continuous bass line, often a cello with a harpsichord filling in chords.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Opera was born in Italy around 1600, and the concerto flourished.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vivaldi's The Four Seasons, 1725, paints spring birdsong and winter ice in four violin concertos.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Handel's Messiah, first performed in Dublin in 1742, is still sung by Australian choirs every Christmas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Johann Sebastian Bach, 1685 to 1750, was better known as an organist than a composer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He wrote more than a thousand works, including the Brandenburg Concertos and the Mass in B minor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His gift was counterpoint: several independent melodies played at once that fit together, as in a fugue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His music fell from fashion until Mendelssohn revived the St Matthew Passion in 1829.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Classical clarity and Mozart.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the dense layers of the Baroque, composers turned to clarity: a clear melody over simpler accompaniment, in balanced phrases.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The piano replaced the harpsichord.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was the age of the symphony and the string quartet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Haydn wrote more than 100 symphonies and is often called the father of both.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sonata form, which presents two contrasting themes, develops them and brings them back, shaped instrumental music for 150 years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mozart, 1756 to 1791, toured Europe as a child prodigy from age six.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 35 years he wrote over 600 works, including 41 symphonies and operas like The Marriage of Figaro and The Magic Flute.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He died in Vienna working on his Requiem.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The film Amadeus popularised a murderous rivalry with Salieri that historians don't support.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beethoven and the Romantics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beethoven, 1770 to 1827, began losing his hearing in his late twenties and was almost completely deaf by his final years.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1802 he wrote a despairing letter, the Heiligenstadt Testament, yet kept composing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Fifth Symphony opens with perhaps the most famous four notes in music, and his Ninth, 1824, added singers to its finale.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His music was more personal and dramatic than that of earlier composers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Romantic composers valued feeling and imagination over balance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Orchestras and pieces grew larger, often linked to stories or landscapes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chopin wrote intimate piano music, Tchaikovsky the ballets Swan Lake and The Nutcracker, Wagner operas of four or five hours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dvořák and Grieg drew on folk music.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today's sweeping film scores grow out of this era.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How to start listening.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need training to enjoy classical music.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with short, well-known pieces: a movement of Vivaldi's The Four Seasons, Mozart's Eine kleine Nachtmusik, the opening of Beethoven's Fifth, or Tchaikovsky's Nutcracker suite.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many are free on streaming services and on radio such as ABC Classic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Listen actively the first time, with no phone, and notice what repeats and what changes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a piece grabs you, explore more by the same composer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then try it live: the Sydney, Melbourne and other state symphony orchestras run affordable concerts, and hearing a full orchestra in person is a different experience from headphones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: 'Classical music' usually means the Western art music tradition, grouped into broad periods that explain how a piece sounds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Opera, explained: drama at full volume.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Opera combines music, theatre, poetry, costume and spectacle, and its singers fill huge halls without microphones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how the most extravagant art form began and how to enjoy it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reviving the Greeks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1500s scholars, poets and musicians in Florence, the Florentine Camerata, became fascinated by Greek tragedy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They believed, partly correctly, that Greek plays were sung or chanted, and tried setting drama to music with a single voice singing clearly over simple accompaniment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This led to the first operas around 1600.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The earliest still regularly staged is Monteverdi's L'Orfeo, first performed in Mantua in 1607, retelling the myth of Orpheus in the underworld.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early operas were for princes at court.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1637 the first public opera house opened in Venice, and anyone with a ticket could attend.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Audiences chatted, ate and played cards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Baroque stars included castrati, male singers castrated before puberty, a cruel practice that died out in the nineteenth century.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The words you need.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A little vocabulary helps enormously.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The libretto, meaning 'little book', is the opera's text, written by a librettist, while the composer writes the music.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many operas begin with an overture, an orchestral piece that sets the mood before the curtain rises.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of the story moves forward in recitative, singing close to the rhythms of speech, often lightly accompanied, where plot and conversation happen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then the action pauses for an aria, a solo song in which a character expresses feelings at length, where singers show off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Duets, trios and larger ensembles let several characters sing at once, sometimes each with different words and emotions, something spoken theatre cannot easily do.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The chorus represents crowds, soldiers, villagers or spirits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The great composers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mozart, writing in the 1780s and early 1790s, gave opera human characters: The Marriage of Figaro, Don Giovanni and The Magic Flute.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early nineteenth century Rossini, Bellini and Donizetti perfected bel canto, 'beautiful singing', with dazzling vocal agility.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Verdi, Rigoletto, La Traviata, Aida, and Puccini, La Boheme, Tosca, Madama Butterfly, combined thrilling melodies with intense drama, and remain among the most performed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They make good starting points.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Richard Wagner wanted opera as a total work of art.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His four-opera Ring cycle takes around fifteen hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short musical themes, leitmotifs, represent characters and ideas, a technique film composers borrowed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Bayreuth theatre, opened in 1876, hid the orchestra and darkened the hall, helping create modern quiet, dark audiences.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His antisemitic writings make him a troubling figure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Filling a hall unamplified.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An opera singer may need to be heard over dozens of players in a theatre seating a couple of thousand people, without a microphone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part of the answer is training: years developing breath control and an efficient, open throat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another part is acoustics.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers have found that trained classical singers, particularly men, often produce a concentration of energy at high frequencies, around three thousand cycles per second, sometimes called the singer's formant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An orchestra is comparatively quiet in that range, and human ears are especially sensitive to it, so the voice carries over the instruments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voices are classified by range, high to low: soprano, mezzo-soprano and contralto for women, and tenor, baritone and bass for men.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Composers write roles for particular voice types.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opera in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has a proud opera tradition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Helen Porter Mitchell, born in Melbourne in 1861, took the stage name Nellie Melba in honour of her home city and became one of the world's most celebrated sopranos.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peach Melba and Melba toast were named after her.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Joan Sutherland, born in Sydney in 1926, became a superstar of bel canto opera, nicknamed La Stupenda.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main opera theatre at the Sydney Opera House bears her name.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today Opera Australia is the national company, and state companies perform around the country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If opera seems intimidating, remember that most performances show translated text as surtitles above the stage, a practice that spread from the 1980s, so you can follow every word.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Opera began in Italy around 1600 in an attempt to recreate sung Greek drama, and public opera houses made it popular.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The night The Rite of Spring caused an uproar.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In Paris in 1913, a new ballet about an ancient sacrifice provoked jeers, shouting and scuffles in the audience.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within a year, its music was being cheered.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ballets Russes, pagan rites.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the First World War, Europe's most exciting dance company was the Ballets Russes, run by the Russian impresario Sergei Diaghilev.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His star dancer was Vaslav Nijinsky, and his young composer was Igor Stravinsky, who had already scored hits in Paris with The Firebird, 1910, and Petrushka, 1911.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With the painter Nicholas Roerich, Stravinsky devised a ballet about pagan rituals in prehistoric Russia, with Nijinsky as choreographer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Rite of Spring has no conventional plot.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tribes celebrate spring with dances, and a young woman is chosen for sacrifice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Sacrificial Dance she dances in a frenzy until she dies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It premiered on 29 May 1913 at the new Théâtre des Champs-Élysées in Paris.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music like nothing before.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The music opens with a bassoon playing a folk-like melody so high in its range that many listeners could not identify the instrument.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soon the orchestra builds layers of overlapping tunes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then comes a famous passage where strings hammer the same harsh chord again and again, with accents falling in unpredictable places, so the listener cannot settle into a regular beat.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elsewhere the time signature changes almost every bar.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stravinsky used a very large orchestra, with extra woodwinds, brass and percussion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many melodies were based on or inspired by Russian folk tunes, but they were reshaped into something entirely new and startling.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dancing against ballet.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Classical ballet prized elegance: turned-out feet, lifted bodies and the illusion of weightlessness.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nijinsky did the opposite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His dancers turned their toes inwards, hunched their shoulders, jumped heavily, landed with a thud and stamped in rhythmic groups.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roerich's costumes were heavy, colourful smocks inspired by old Russian peasant dress.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To many in the audience it looked ugly or even ridiculous, and to others daringly modern.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dancers found the shifting rhythms extremely hard to follow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nijinsky's choreography was performed only a handful of times and then largely lost, until it was reconstructed for the Joffrey Ballet in 1987 from notes, drawings and memories.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uproar in the theatre.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soon after the curtain rose, parts of the audience began to laugh, whistle and jeer, while others shouted back in defence of the work.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The noise grew so loud that the dancers struggled to hear the orchestra, and Nijinsky stood on a chair in the wings shouting the counts to them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stravinsky left his seat and went backstage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exactly what happened is hard to pin down.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many famous descriptions were written years or decades later and contradict each other.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some describe fist fights and objects being thrown, and stories circulated of police being called.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians agree there was a real uproar, but caution that the legend of a full-scale riot has probably grown.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From scandal to classic.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ballet was performed only a few more times in 1913.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But in April 1914 the music was played as a concert piece in Paris without dancers, and this time it was a triumph, with Stravinsky reportedly carried from the hall on admirers' shoulders.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Freed from the startling choreography, audiences could focus on the score's raw power.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Rite became one of the most influential works of the century, shaping later classical music, jazz and film scores.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1940, Walt Disney used it in the film Fantasia, set to scenes of the early Earth and dinosaurs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it is a regular part of orchestral programmes, and dozens of choreographers have created their own versions of the ballet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Rite of Spring was a Ballets Russes work about ancient pagan rituals, ending with a young woman dancing herself to death.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is unusual about Stradivari's working life?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He kept making instruments until his early nineties.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does knowing the main periods of classical music help you do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Hear why a piece sounds the way it does.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did the Florentine Camerata create the first operas?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They wanted to recreate ancient Greek drama as sung.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What happens in the ballet's final scene?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A chosen young woman dances in a frenzy until she dies.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

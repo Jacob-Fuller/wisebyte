@@ -1,0 +1,1272 @@
+{
+ "id": "s-planet-earth-1",
+ "title": "Planet Earth & Climate · Episode 1",
+ "chapters": [
+  "Inside the Earth",
+  "Plate tectonics",
+  "Volcanoes, earthquakes and tsunamis",
+  "Supervolcanoes: the truth about Yellowstone"
+ ],
+ "units": [
+  {
+   "t": "Planet Earth & Climate. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Inside the Earth, Plate tectonics, Volcanoes, earthquakes and tsunamis and Supervolcanoes: the truth about Yellowstone.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Inside the Earth.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Nobody has ever drilled even halfway through the crust, yet we know the Earth has a solid metal heart as hot as the surface of the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A layered planet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Earth has a radius of about 6,371 kilometres and is built in layers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a peach: the skin is the crust, the flesh is the mantle and the stone is the core.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The layers formed early, when heavy metals sank towards the centre and lighter rock floated to the top.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mantle makes up roughly 84% of the planet's volume and reaches down about 2,900 kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is often drawn as molten lava, but it is almost entirely solid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under enormous heat and pressure it creeps a few centimetres a year, rather like a glacier or very stiff toffee.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hotter rock rises and cooler rock sinks in slow convection currents that carry heat out of the planet and help drive the plates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crust.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There are two kinds of crust.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oceanic crust is usually only 5 to 10 kilometres thick and made of dense, dark basalt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is created at mid-ocean ridges and destroyed where it sinks into the mantle, so almost none is older than about 200 million years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Continental crust is typically 30 to 50 kilometres thick, and up to about 70 under ranges like the Himalayas.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is lighter, so it floats higher and rarely sinks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why continents hold Earth's oldest rocks, including zircon crystals from the Jack Hills in Western Australia dated to about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 billion years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crust and top of the mantle form the rigid lithosphere, broken into tectonic plates that ride on the softer asthenosphere beneath.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The core.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The core begins about 2,900 kilometres down.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The outer core, roughly 2,200 kilometres thick, is liquid metal: mostly iron with some nickel and lighter elements.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The inner core is a solid ball about 1,220 kilometres in radius, roughly two-thirds the size of the Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its temperature is estimated at around 5,000 to 6,000 degrees Celsius, similar to the surface of the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It stays solid despite that heat because the pressure at the centre, millions of times the air pressure at the surface, squeezes the atoms together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The inner core is slowly growing as the planet cools and the liquid metal around it freezes onto it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading seismic waves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The deepest hole ever drilled, Russia's Kola Superdeep Borehole, stopped at about 12 kilometres, a tiny scratch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost everything we know about the deep Earth comes from earthquake waves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "P-waves are push-pull waves that travel through solids and liquids.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "S-waves are side-to-side waves that cannot pass through liquid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waves speed up, slow down and bend at layer boundaries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1909 Andrija Mohorovičić found the base of the crust, now called the Moho.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a large quake, S-waves never arrive across a broad shadow zone on the far side, showing the outer core is molten.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1936 Danish seismologist Inge Lehmann explained puzzling faint P-waves by proposing a solid inner core.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth's average density, about 5.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 times water, also says heavy metal lies deep inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The magnetic field.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The swirling liquid iron in the outer core acts like a giant dynamo.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the electrically conducting metal moves, driven by heat and Earth's rotation, it generates electric currents that produce a magnetic field.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It makes a compass point roughly north and deflects most of the solar wind, a stream of charged particles from the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some particles are funnelled towards the poles, making the upper atmosphere glow: the aurora australis, sometimes seen from Tasmania and southern Victoria.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The field isn't fixed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The magnetic poles wander, and the north magnetic pole has moved hundreds of kilometres over the past century.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The whole field has flipped many times, as volcanic rock records the field as it cools.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last reversal was about 780,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reversals are irregular and take thousands of years, with no good evidence they caused mass extinctions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Earth is layered like a peach: a thin crust, a thick mantle of solid rock that slowly flows, and a metal core.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Plate tectonics.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The ground beneath you is moving.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is drifting north faster than your fingernails grow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cracked shell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth's outer shell, the lithosphere, isn't one solid piece.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's broken into several major plates and many smaller ones, fitting together like a cracked eggshell.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They ride on the asthenosphere, a layer of hot rock that is solid but flows extremely slowly, like very stiff putty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The plates move a few centimetres a year, roughly as fast as fingernails grow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over millions of years, that is enough to open oceans and build mountain ranges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plate tectonics also shapes life: mountains alter climates, opening and closing oceans separate species, and carbon is recycled over long timescales, helping keep Earth habitable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drift, then proof.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1912, German meteorologist Alfred Wegener proposed that the continents were once joined in a supercontinent he called Pangaea, meaning 'all lands'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coastlines of South America and Africa fit like jigsaw pieces, matching fossils and rocks appear on continents now separated by oceans, and signs of ancient glaciers turn up in today's tropics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But he couldn't explain what moved the continents, and most geologists rejected the idea for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The proof came from the ocean floor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1950s and 60s, scientists mapped a vast underwater mountain range down the middle of the Atlantic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rocks on either side carried mirror-image magnetic stripes, recording reversals in Earth's magnetic field as new crust formed and spread outwards.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the late 1960s, plate tectonics was geology's unifying theory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boundaries and hotspots.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most geological action happens at plate boundaries.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where plates pull apart, magma rises to form new crust, as along the Mid-Atlantic Ridge and through Iceland.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where they collide, an ocean plate may dive beneath another, subduction, making trenches and volcanoes, or two continents crumple into mountains like the Himalayas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where they slide past each other, you get faults like California's San Andreas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some volcanoes sit far from any edge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hotspot is where unusually hot rock rises from the mantle and melts through the plate above.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The plate moves on while the hotspot stays roughly put, leaving a chain of volcanoes that grow older with distance, like the Hawaiian Islands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eastern Australia's Cosgrove track, identified in 2015, runs over 2,000 kilometres from central Queensland to Victoria, the longest known on any continent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia on the move.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian plate is one of the fastest-moving continental plates, heading north-north-east at about 7 centimetres a year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has been moving north since it split from Antarctica tens of millions of years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The movement is so large that Australia's national datum, used by GPS, had to be shifted by about 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 metres to catch up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If current movement continues, Australia is expected to collide with parts of South-East Asia in perhaps 50 million years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pangaea wasn't the first supercontinent, and it won't be the last.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Geologists have found evidence of several earlier ones, and plate movements suggest the continents will gather again in perhaps 200 to 250 million years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Names proposed include Amasia and Pangaea Ultima.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quakes in the middle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because Australia sits in the middle of its plate, far from boundaries, large earthquakes are much rarer than in New Zealand or Indonesia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But stresses from the plate's movement still cause quakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1989 Newcastle earthquake, magnitude 5.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "6, killed 13 people and caused billions of dollars of damage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021, a magnitude 5.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9 quake near Mansfield in Victoria was felt as far away as Sydney and Adelaide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Geoscience Australia records many earthquakes across the country every year, most too small to feel.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Earth's outer shell is split into plates that move a few centimetres a year, enough to reshape the planet over millions of years.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Volcanoes, earthquakes and tsunamis.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australia feels rock-solid, yet in 1989 an earthquake killed 13 people in Newcastle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what makes the ground shake and mountains explode.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Runny or sticky magma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whether a volcano oozes or explodes depends on its magma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Runny, low-silica basalt lets gas escape and builds broad shield volcanoes like Hawaii's.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thick, silica-rich magma traps gas like a shaken soft drink until pressure blasts it apart, building steep stratovolcanoes such as Mount Fuji.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Explosive eruptions can be huge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vesuvius buried Pompeii in 79 AD.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tambora in 1815 was the largest in recorded history, and its ash and sulfur haze cooled the climate, making 1816 the 'year without a summer'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Krakatoa in 1883 was heard across the Indian Ocean, including parts of Western Australia, and its tsunamis killed tens of thousands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has volcanoes too: Mount Gambier, last erupted roughly 5,000 to 6,000 years ago, is thought dormant, not extinct.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ring of Fire quakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Pacific is ringed by a horseshoe of subduction zones about 40,000 kilometres long.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This Ring of Fire holds roughly three-quarters of the world's active volcanoes and most earthquakes, including nearly all the largest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Indonesia has more active volcanoes than any other country, and New Zealand, Papua New Guinea and Vanuatu are often shaken.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia sits mid-plate, far from the edges.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest quake recorded was Chile in 1960, at magnitude 9.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2004 Sumatra quake, about 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1, generated tsunamis that killed roughly 230,000 people in 14 countries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2011 a magnitude 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "0 to 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 quake off Japan caused a tsunami that killed around 18,000 and the Fukushima accident.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At subduction zones, plates lock for centuries then slip at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists cannot predict the exact time and place of a quake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measuring earthquakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1935 seismologist Charles Richter created a scale to compare California earthquakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today scientists mainly use the moment magnitude scale, which suits very large quakes, though news reports still often say 'Richter'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The scale is logarithmic: each whole number up means about ten times more ground shaking and roughly 32 times more energy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So a magnitude 7 releases about 1,000 times the energy of a magnitude 5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magnitude measures the size of the quake itself.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Intensity describes how strongly shaking was felt in a particular place, which depends on distance, depth and local soil.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A moderate quake directly under a city can do more damage than a huge one far offshore.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's big quakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is not immune.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stress transmitted through the plate still cracks its interior.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 14 October 1968, a quake of about magnitude 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 wrecked much of the Wheatbelt town of Meckering in Western Australia and tore open a fault scarp tens of kilometres long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 22 January 1988, three quakes, the largest about magnitude 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6, struck near Tennant Creek in the Northern Territory within 12 hours, the biggest recorded on the mainland.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because both hit sparsely populated areas, no one died.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The magnitude 5.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "6 Newcastle quake of 28 December 1989 was far smaller, yet it killed 13 people, nine in the collapse of the Newcastle Workers Club, because it struck a city partly built on soft ground.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It led to tougher building standards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tsunamis and safety.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tsunami is usually caused when an undersea earthquake lifts or drops the sea floor, moving the whole column of water above it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Landslides and eruptions can also cause them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In deep ocean it travels around 800 kilometres an hour yet is under a metre high, so ships barely notice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In shallow water it slows and piles up into a wall of water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often the first sign is the sea drawing back from shore.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In an earthquake, drop, take cover under a sturdy table and hold on.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most injuries come from falling objects, so avoid windows and don't run outside past falling masonry.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near the coast, strong or long shaking, or a retreating sea, means move to high ground without waiting for an alert.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Joint Australian Tsunami Warning Centre monitors the region.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Runny magma makes gentle, flowing eruptions, while thick, gassy magma makes explosive ones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Supervolcanoes: the truth about Yellowstone.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A few volcanoes have erupted on a scale that dwarfs anything in recorded history.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Are they overdue to do it again?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real answer is calmer than the headlines.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What makes a supervolcano.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Volcanologists measure eruptions on the Volcanic Explosivity Index, from 0 to 8.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each step up means roughly ten times more material.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A VEI 8 eruption blasts out more than 1,000 cubic kilometres of ash, pumice and rock.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For comparison, Mount St Helens in 1980 produced around one cubic kilometre.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A volcano capable of this is called a supervolcano, a popular rather than strictly scientific term that spread through television documentaries around the year 2000.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supervolcanoes rarely look like classic cones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their eruptions empty such a vast underground magma reservoir that the ground collapses, leaving an enormous depression called a caldera.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yellowstone's past.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yellowstone, mostly in Wyoming, has produced three huge caldera-forming eruptions in 2.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "1 million years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first, about 2.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 million years ago, was the largest, at around 2,500 cubic kilometres.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second, about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3 million years ago, was much smaller.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The third, about 631,000 years ago, produced around 1,000 cubic kilometres and formed today's caldera.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since then it has mostly produced slow lava flows, the latest about 70,000 years ago.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why is it volcanic, far from any plate boundary?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hotspot, a plume of hot rock rising from the mantle, stays put while the North American plate slides south west over it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older calderas trail across Idaho's Snake River Plain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yellowstone holds more than half of the world's active geysers, including Old Faithful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is Yellowstone overdue.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common claim online is that Yellowstone is overdue, because its big eruptions average about 700,000 years apart.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This reasoning fails.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three events are far too few to establish a pattern, the gaps were quite different, and volcanoes are not clocks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies of the magma beneath Yellowstone suggest the reservoir is mostly solid crystal mush, with only a modest fraction of molten rock, far less than a supereruption would likely need.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United States Geological Survey monitors the area closely with seismometers, GPS and gas sensors.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It considers a future supereruption possible but highly unlikely in any given year, and judges smaller lava flows or steam explosions much more likely.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toba and the human story.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The largest eruption of the past couple of million years happened at Toba, on Sumatra, about 74,000 years ago.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It ejected something like 2,800 cubic kilometres and left a caldera now filled by Lake Toba, about 100 kilometres long.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1990s some researchers proposed that Toba caused a volcanic winter so severe it pushed early humans to the brink of extinction, a genetic bottleneck.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea became famous, but newer evidence has weakened it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archaeological sites in India and South Africa suggest people carried on making tools and finding food through the eruption.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many scientists now think Toba's climate effects were real but shorter or more patchy than once feared.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Closer to home: Taupō.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The world's most recent supereruption happened not far from Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 25,500 years ago, the Taupō volcano in New Zealand's North Island produced the Oruanui eruption, ejecting more than 1,000 cubic kilometres of material.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ash fell over much of New Zealand and as far as the Chatham Islands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lake Taupō, New Zealand's largest lake, now fills part of the collapsed caldera.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taupō erupted again around 232 CE in the Hatepe eruption, one of the most violent of the past few thousand years, though not on a super scale.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It remains an active system that scientists watch carefully.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like Yellowstone, its quiet beauty, with hot springs and steaming vents, sits on top of an extraordinary history.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A supereruption ejects more than 1,000 cubic kilometres of material, leaving a vast collapsed caldera.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which best describes the mantle?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Solid rock that flows very slowly.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How can plates that move only a few centimetres a year reshape the planet?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The movement adds up over millions of years.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do some volcanoes erupt explosively while others ooze lava?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Thick magma traps gas, while runny magma lets it escape.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What defines a supereruption on the Volcanic Explosivity Index?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An eruption ejecting more than 1,000 cubic kilometres of material.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

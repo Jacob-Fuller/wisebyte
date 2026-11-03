@@ -1,0 +1,1170 @@
+{
+ "id": "s-animals-2",
+ "title": "Amazing Animals · Episode 2",
+ "chapters": [
+  "Masters of disguise: how animals hide",
+  "The great animal migrations",
+  "Hibernation: the art of switching off",
+  "Emperor penguins: fathers of the Antarctic winter"
+ ],
+ "units": [
+  {
+   "t": "Amazing Animals. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Masters of disguise: how animals hide, The great animal migrations, Hibernation: the art of switching off and Emperor penguins: fathers of the Antarctic winter.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Masters of disguise: how animals hide.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A bird that becomes a broken branch, a fish that looks like seaweed, a cuttlefish that changes its skin in a blink: inside nature's art of hiding.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bird, a branch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At dusk in an Australian park, you might walk right past a tawny frogmouth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By day this bird sits motionless on a branch, its mottled grey and brown feathers matching the bark.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it senses danger, it stretches, points its beak upward, narrows its eyes to slits and freezes, looking just like a broken stump.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The disguise works because of the whole package: colour, shape and stillness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is the heart of camouflage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is not just about being the right colour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is about defeating the eyes and brain of whoever is looking, whether a hungry predator or prey to be ambushed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over millions of years, animals have evolved many ways to do it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blending and breaking up.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The simplest strategy is background matching, as with a grasshopper on dry grass.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But light comes from above, so a body's top is bright and its belly shadowed, which makes it look solid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many animals counter this with countershading: darker on top, paler underneath.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It cancels the shadow, flattening the body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many fish, sharks and dolphins use it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From above, dark backs blend with the deep water; from below, pale bellies blend with the bright surface.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our brains are good at spotting outlines, so another strategy is to destroy them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Disruptive colouration uses bold contrasting patches across the body's edges, so the eye sees separate shapes, not one animal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the First World War, ships were painted in dazzle stripes to confuse submarine crews judging their speed and direction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pretending to be something else.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some animals are perfectly visible but go unnoticed because they look like something boring or inedible.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is called masquerade.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stick insects look like twigs, and many sway as if in the wind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leaf insects have fake veins and even nibbled edges.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some caterpillars and spiders look like bird droppings, which few predators want to eat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One of the most beautiful examples lives in southern Australia's cool waters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The leafy seadragon, a relative of seahorses, is covered in leaf-like flaps of skin and drifts slowly through kelp and seagrass, looking like floating seaweed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is the marine emblem of South Australia, and divers can stare at weed for a long time before realising it is looking back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mimicry and living screens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dangerous animals often advertise with warning colours, such as the yellow and black of wasps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Predators learn to avoid them, which lets harmless species cheat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hoverflies cannot sting but look like wasps: Batesian mimicry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When several dangerous species share a warning pattern, it is Müllerian mimicry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mimic octopus of Southeast Asia can change its shape and movement to resemble a flatfish, a lionfish or a sea snake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cuttlefish skin holds thousands of elastic pigment sacs called chromatophores, each wrapped in muscles controlled directly by nerves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stretching or squeezing them changes colour and pattern in well under a second, and bumps on the skin can match rough rock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most appear colour-blind, yet match colours well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Point Lowly, near Whyalla, small male giant cuttlefish have been seen posing as females to slip past larger rivals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An endless arms race.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Camouflage is a product of natural selection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Individuals that are slightly harder to spot are more likely to survive and pass on their genes, while predators with sharper eyes catch more food.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result is an ongoing arms race.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A classic example is the peppered moth in England.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the Industrial Revolution, soot darkened tree trunks, and a dark form of the moth, once rare, became common in industrial areas because birds found the pale moths easier to spot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After clean air laws cut pollution in the twentieth century, the pale form became common again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today camouflage faces new challenges, as climate change shifts the timing of seasons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In some places, animals that turn white for winter are now sometimes stranded in white coats on brown, snowless ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Camouflage is about defeating the eyes and brain of the observer, using behaviour and shape as well as colour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The great animal migrations.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A young bird flies from Alaska to Tasmania without landing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moths navigate by the stars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Migration is one of nature's most astonishing feats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why animals migrate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Migration is a regular, usually seasonal movement between places, often a round trip repeated every year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Animals migrate to take advantage of resources that come and go: summer insects in the Arctic, fresh grass after rain, safe breeding beaches or warmer winter refuges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a gamble, because the journey is costly and dangerous, but the reward is abundant food or safer places to raise young.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Arctic tern holds the distance record.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It flies from the Arctic to the Antarctic and back each year, tracked at roughly 70,000 kilometres or more, and sees more daylight than any other animal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Birds over oceans.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In October 2022, a five-month-old bar-tailed godwit tagged in Alaska flew about 13,500 kilometres to Tasmania in around 11 days, without landing to feed, drink or rest.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was its first journey, and the longest nonstop bird flight recorded.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beforehand, godwits eat until fat is a large share of their weight, while organs they won't need, such as parts of the gut, shrink.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Millions of shorebirds travel the East Asian–Australasian Flyway, breeding in Siberia and Alaska and spending the rest of the year on Australian and New Zealand coasts, such as Roebuck Bay and Moreton Bay.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They refuel on the Yellow Sea's tidal mudflats, where large areas have been lost to reclamation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several species have declined sharply, and the far eastern curlew, the world's largest shorebird, was listed as critically endangered in Australia in 2015.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crabs and moths.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On Christmas Island, tens of millions of red land crabs live in the forest.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With the first heavy rains of the wet season, usually October to December, they march to the coast to breed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Females release eggs into the sea at high tide before dawn, near the last quarter moon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rangers close roads and build crab bridges; invasive yellow crazy ants are a serious threat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each spring, billions of bogong moths fly up to about 1,000 kilometres from the plains of southern Queensland, New South Wales and Victoria to cool caves in the Australian Alps, returning in autumn.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research published in 2025 showed they use the starry sky, including the Milky Way, as a compass, plus magnetism.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long a food for Aboriginal peoples, they crashed in the 2017 to 2019 drought and are now endangered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Relays and herds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In North America, eastern monarch butterflies fly up to around 4,000 kilometres to overwinter in fir forests in the mountains of central Mexico.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No single butterfly makes the whole round trip.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The migrating 'super generation' lives for many months, while summer generations carrying the journey north live only a few weeks each.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Monarchs navigate by a sun compass, correcting for the sun's movement with an internal clock in their antennae.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They reached Australia in the 1870s, where they are called wanderers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In East Africa, more than a million wildebeest, with zebras and gazelles, loop through the Serengeti and Masai Mara following the rains.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hundreds of thousands of calves are born within a few weeks, which overwhelms predators.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mara River crossings usually happen from around July to October.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The herds feed lions, hyenas and crocodiles, and fertilise the grasslands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finding the way.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Migrating animals use a toolkit of cues.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many birds use a sun compass by day and star patterns by night; in the 1960s, planetarium experiments showed that indigo buntings learn to orient using the stars around the pole.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magnetic sensing, landmarks such as coastlines and mountains, and smell also play roles: salmon return to home streams partly by scent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many young birds make their first migration alone, guided by inherited directions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Migrating animals now face habitat loss, climate change and artificial light at night, which disorients birds and moths.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turning off unneeded outdoor lights and protecting wetlands genuinely helps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Animals migrate to reach resources that come and go, accepting a costly, dangerous journey for abundant food or safe breeding.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Hibernation: the art of switching off.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some animals survive hard times by turning their bodies almost all the way down.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few cool themselves to below freezing and still wake up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than a long sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We say animals sleep through winter, but hibernation is different.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hibernator deliberately lowers its metabolism, the rate its body burns energy, to a tiny fraction of normal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Body temperature drops, breathing slows and a ground squirrel's heart may fall from hundreds of beats a minute to a handful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Biologists call this state torpor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hibernation is long torpor, lasting weeks or months, and the body controls it and can reverse it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many small animals use shorter daily torpor.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hummingbirds burn energy so fast that a cold night without food could kill them, so some let their body temperature fall overnight and warm up at dawn.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small Australian marsupials such as dunnarts, some possums and gliders, and many microbats do the same.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Below freezing and back.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Arctic ground squirrel of Alaska and northern Canada holds a remarkable record.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During hibernation its body temperature can fall to almost minus three degrees Celsius, the lowest core temperature measured in a mammal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its body fluids do not freeze, because they are supercooled, staying liquid below the usual freezing point.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, the squirrel cannot stay that cold all winter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like most small hibernators, it wakes every week or few, rewarming to normal temperature for a short time before dropping again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These arousals burn a large share of its stored energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists still debate why they are needed, with ideas including resetting the immune system or restoring the brain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bears break the rules.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bears were once said not to be true hibernators, because their body temperature drops only a few degrees.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today most biologists count them as hibernators of a special kind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A black or brown bear in its den slows its metabolism dramatically while staying relatively warm, which helps a mother give birth and nurse tiny cubs in mid-winter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The astonishing part is what bears do without.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can go for months without eating, drinking, urinating or defecating.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their bodies recycle waste products into new protein, and they lose surprisingly little bone or muscle despite lying still.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medical researchers study bears closely, hoping to help bedridden patients or people with kidney disease.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian hibernators.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia might not seem like hibernation country, but some of its animals do it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Short-beaked echidnas in cooler regions, such as Tasmania and the alpine high country, can hibernate for several months, letting their body temperature fall close to their surroundings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mountain pygmy possum, a small, endangered marsupial found only in the alpine areas of Victoria and New South Wales, hibernates for months beneath the winter snowpack among boulder fields.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In spring and summer it feasts on Bogong moths, which migrate to the mountains, and builds fat for the long sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fewer moths in recent years has worried researchers, because the possums depend on that rich food supply to survive winter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surprises and future uses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hibernation has surprised scientists more than once.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1946 naturalist Edmund Jaeger found a common poorwill, a North American nightbird, torpid in a rock crevice in winter, showing that at least one bird could hibernate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004 researchers reported that the fat-tailed dwarf lemur of Madagascar hibernates for months in tree holes, the first primate known to do so.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These discoveries have sparked medical interest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If doctors could safely slow a human's metabolism, it might protect organs during surgery, buy time for trauma or stroke patients, or one day help astronauts on very long journeys.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For now that remains research, not reality.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hibernators remind us that bodies can be far more flexible than we assume.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hibernation is a controlled, reversible shutdown of metabolism, and many small animals use shorter daily torpor.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Emperor penguins: fathers of the Antarctic winter.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "While most birds leave the Antarctic winter behind, emperor penguins walk into it to breed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fathers then stand in the dark for two months with an egg on their feet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest penguin.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emperor penguins stand a little over a metre tall and can weigh more than 30 kilograms when well fed, making them the largest living penguins.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They live only around Antarctica and spend most of their lives at sea, hunting fish, krill and squid.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What makes them unique is their timing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Antarctic animals breed in the brief summer, when food is plentiful and temperatures are mild.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emperors do the opposite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In autumn they march, waddle and toboggan on their bellies across the sea ice to traditional breeding sites, sometimes many kilometres from open water.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There, in the coldest, darkest season on the planet, they court, pair up and raise a single chick.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two months in the dark.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After courtship, around May or June, the female lays one large egg.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Weakened by fasting, she must return to the sea to feed, so the egg is passed to her partner.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is delicate: if it rolls onto the ice, it can freeze and the embryo dies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The male balances it on his feet under a warm brood pouch, and she sets off on her long trek.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For about 65 days he stands through the polar night, in temperatures that can fall below minus 40 degrees Celsius, eating nothing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Counting courtship, he may fast around four months, living on stored fat and moving as little as possible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If his partner is late, he can produce a nourishing throat secretion for the newly hatched chick.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The power of the huddle.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alone, a male emperor would struggle to survive the winter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Together they manage it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the worst weather, males press tightly into huddles of thousands of birds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside a dense huddle the temperature can climb above 30 degrees Celsius, so warm that birds sometimes break away to cool down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Huddles are not static.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers filming colonies found the birds shuffle in small, coordinated steps, sending slow waves through the group, so the huddle gradually moves and reorganises.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Birds on the windy edge work inwards while others drift outwards.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result is a remarkably fair system, in which no bird stays in the warm centre or on the freezing edge for too long.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The worst journey.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The emperors' winter breeding was so mysterious that scientists once took terrible risks to study it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1911, on Robert Falcon Scott's Antarctic expedition, Edward Wilson, Henry Bowers and Apsley Cherry-Garrard set out in the winter darkness for the emperor colony at Cape Crozier.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They hoped the embryos would reveal clues to how birds evolved from reptiles.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In temperatures below minus 50 degrees Celsius, they man-hauled sledges for weeks, lost their tent in a blizzard and nearly died.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They returned with three eggs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wilson and Bowers later perished with Scott on the return from the South Pole.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cherry-Garrard told the story in his classic book The Worst Journey in the World.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seen from space.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonies are remote, so scientists now find many from space.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The birds leave large brown stains of guano on the white ice, visible in satellite images, and high-resolution pictures can help estimate numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surveys have revealed colonies no one knew existed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same technology shows the danger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emperors need stable sea ice from autumn until their chicks grow waterproof feathers in summer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022, early sea ice break-up in one region of west Antarctica likely killed almost all chicks in several colonies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because sea ice is shrinking as the climate warms, many scientists warn that emperor numbers could fall steeply this century.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Emperor penguins are the largest penguins and the only penguins that breed through the Antarctic winter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does the tawny frogmouth hide when it senses danger?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It freezes and looks like a broken stump.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do animals migrate despite the risks?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To reach food or safe breeding places that come and go.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What best describes hibernation?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A controlled, reversible drop in metabolism.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What makes the breeding of emperor penguins unusual?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They breed on sea ice in winter.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

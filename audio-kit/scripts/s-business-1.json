@@ -1,0 +1,1176 @@
+{
+ "id": "s-business-1",
+ "title": "Starting a Business · Episode 1",
+ "chapters": [
+  "Finding an idea worth building",
+  "How businesses make money",
+  "Unit economics: does each sale actually make money",
+  "Marketing basics"
+ ],
+ "units": [
+  {
+   "t": "Starting a Business. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Finding an idea worth building, How businesses make money, Unit economics: does each sale actually make money and Marketing basics.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Finding an idea worth building.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Many new products fail not because they were built badly, but because nobody wanted them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fix starts long before you build anything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with a problem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The strongest business ideas rarely begin with 'wouldn't it be cool if'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They begin with a problem real people have often, which costs them time, money or stress.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask three questions: how painful is it, how often does it happen, and what are people doing about it now?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If people already cobble together spreadsheets, workarounds or paid help, that's a strong signal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If nobody has ever tried to solve it, it may not hurt enough to pay for.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ideas often come from your own work and frustrations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tradespeople build quoting software because they hated doing quotes at night.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change creates openings too: new technology, regulations or shopping habits create problems that established firms are slow to notice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test the riskiest assumption.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every idea rests on assumptions: that people have this problem, that they'll pay, that you can reach them, that you can deliver at a profit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Write them down and ask which one, if false, would kill the business.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's your riskiest assumption, and the one to test first and most cheaply.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Founders often do the opposite, spending months perfecting a logo, website or app while the basic question, does anyone actually want this, goes unanswered until launch day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talking to customers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Customer conversations are the cheapest research there is, but most people do them badly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you describe your idea and ask 'would you use this?'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", friendly people will say yes to be polite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rob Fitzpatrick's book The Mom Test suggests a better approach: talk about their life, not your idea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask about specifics in the past.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When did this last happen?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What did you do?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What did it cost you?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Have you looked for a solution?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Past behaviour is far more reliable than predictions about the future.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Signals that matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not all positive feedback is equal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Great idea' costs nothing and predicts almost nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stronger signals involve a commitment: someone agrees to a second meeting, introduces you to their boss, joins a waitlist with their details, pays a deposit or pre-orders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The more a person gives up, the more you can trust their interest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A handful of people willing to pay before the product is finished is worth more than hundreds saying they love the concept in a survey.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A minimum viable product, MVP, is the simplest version of your offer that tests this.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dropbox's Drew Houston made a demo video before the product was ready, and its waitlist reportedly jumped from about 5,000 to 75,000 people overnight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Competition and practice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "New founders often panic when they find a competitor, or claim they have none.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But competition usually proves people will pay to solve the problem, and no competitors can mean no market.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real question is what you'll do better for a specific group: cheaper, faster, simpler, more local, or built for a niche the big players ignore.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A competitor's one- and two-star reviews are a free list of unmet needs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before quitting your job or spending your savings, write down exactly who your customer is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talk to at least ten of them about the problem, not your solution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Design a cheap test, such as a landing page or pre-sale, and set a clear bar for success in advance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's far cheaper to change course now than after launch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Good business ideas usually start with a painful, frequent problem that people already try to solve, not a clever solution.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How businesses make money.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A great product isn't a business until you know who pays, how much, and whether what's left over covers the costs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Model and value.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A business model is the logic of how a business works: who it serves, what it offers, how it reaches them, and how the money flows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One cafe sells coffee by the cup; another sells beans by subscription; a third runs a coffee-making course.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Getting the model right often matters as much as the product, because a loved product can still lose money on every sale.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A value proposition answers why a particular customer would choose you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It relieves a pain, creates a gain or does a job they need done.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Quality accounting services' is vague.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Fixed-fee bookkeeping for tradies, done by Friday, no surprise bills' is specific.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your real competitor is often the customer's current workaround, or simply putting up with the problem.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Revenue streams.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There are many ways to charge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One-off sales are the classic model: a product or job for a price.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Subscriptions, like streaming services or software, bring recurring revenue that is easier to predict.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Usage-based pricing charges by amount used, like electricity or cloud storage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marketplaces such as Airtasker or Airbnb take a commission for connecting buyers and sellers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Media businesses often sell advertising and give content away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Freemium offers a free basic version and charges for more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 'razor and blades' model sells a cheap device and profits on refills.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Costs and break-even.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fixed costs, like rent, insurance, software subscriptions and salaried staff, stay roughly the same whether you sell ten items or a thousand.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Variable costs rise with each sale: ingredients, packaging, shipping and payment fees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High fixed costs mean you need lots of sales to break even, but extra sales can then be very profitable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High variable costs are less risky to start but may limit your margins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Break-even is where revenue equals costs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Divide monthly fixed costs by the contribution margin, the price minus variable costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A candle maker with $2,000 of fixed costs who sells $30 candles costing $10 each to make earns $20 per candle, so she needs 100 sales a month to break even.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unit economics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unit economics looks at the profit or loss on a single sale or customer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two numbers are especially useful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customer acquisition cost, or CAC, is what you spend on marketing and sales to win one new customer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customer lifetime value, or LTV, is the total profit a typical customer brings over the whole relationship.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it costs $200 to win a customer who only brings $150 in profit, growing faster just loses money faster.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A commonly quoted rule of thumb, especially for subscription businesses, is an LTV at least three times CAC.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The one-page canvas.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2010, Alexander Osterwalder and Yves Pigneur published Business Model Generation, which popularised the Business Model Canvas.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It fits a business onto one page using nine blocks: customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partners and cost structure.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can sketch several versions in an afternoon and spot weak links before investing real money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To test your own idea, fill in each block in a few words, then run rough numbers: price, variable cost, fixed costs, break-even and the cost of winning a customer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be conservative, because founders usually overestimate sales and underestimate costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treat every number as a guess to test.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For significant money or tax decisions, ask a qualified accountant.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A business model explains how a business creates value for customers and captures some as profit, and its value proposition is the specific reason a customer picks you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Unit economics: does each sale actually make money.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A business can grow fast, win millions of customers and still be heading for ruin.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unit economics is the simple maths that tells you which kind of business you have.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Profit on one sale.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Company accounts can hide a lot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Revenue may soar while losses grow faster.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unit economics asks a simple question: looking at one unit, such as a cup of coffee, a delivery, a subscription or a customer, does the business make or lose money?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If each unit loses money, growth just loses money faster.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imagine a coffee cart selling coffee at five dollars a cup.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beans, milk, cup and lid cost about one dollar seventy, and card fees add ten cents.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These variable costs rise with every cup.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What is left, roughly three dollars twenty, is the contribution margin, the amount each sale contributes to fixed costs and profit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If fixed costs such as permits, insurance and the owner's wage are 800 dollars a week, the cart must sell about 250 cups to break even.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cost of winning customers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For many businesses, especially subscriptions and online services, the biggest cost is not making the product but finding the customer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Customer acquisition cost, or CAC, is the total spent on marketing and sales in a period divided by the new customers gained.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a business spends 10,000 dollars on advertising and wins 200 customers, its CAC is 50 dollars each.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The number is easy to underestimate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Free trials, discounts, sales staff wages and referral rewards all count.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "CAC also tends to rise as a business grows, because the easiest and most enthusiastic customers are won first, and later ones take more effort and money to persuade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What a customer is worth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The partner to CAC is customer lifetime value, or LTV.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It estimates how much profit, not just revenue, a typical customer generates over the whole time they stay.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A simple version multiplies the margin per period by how many periods customers usually remain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A gym member who pays 20 dollars a week, of which 12 dollars is margin, and stays about a year on average, is worth roughly 600 dollars in margin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Investors often compare the two numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common rule of thumb says LTV should be around three times CAC or more, and that the acquisition cost should be earned back within a reasonable time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a guide, not a law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The MoviePass warning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "MoviePass is one of the best-known examples of broken unit economics.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2017 the American service cut its subscription to about ten US dollars a month, letting members see up to one movie in a cinema every day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The catch was that MoviePass paid cinemas close to the full ticket price for each film.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A single ticket could cost more than a month's subscription.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customers loved it, and membership soared into the millions within a year.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But every enthusiastic moviegoer deepened the losses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The company tried restrictions, price changes and limits, which angered customers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The service shut down in 2019, and its parent company filed for bankruptcy in early 2020.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asking the right questions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unit economics is useful whether you run a market stall or assess a startup.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key questions are simple.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What is the price, and what are the true variable costs of each sale?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much does it cost to win a customer, and how long do they stay?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How long until a new customer pays back what it cost to win them?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some businesses deliberately lose money on early customers, expecting costs to fall with scale or customers to buy more later.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Occasionally that works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often it does not, and the plan rests on hope rather than evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The healthiest businesses can show that each unit makes money now, so every extra sale makes the company stronger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Unit economics asks whether one sale makes money after its variable costs, before fixed costs are covered.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Marketing basics.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Marketing isn't shouting louder than everyone else.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's knowing exactly who you serve and making it easy for them to find and choose you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than advertising.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people think marketing means advertising.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Advertising is only one part.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marketing covers who your customers are, what you offer, how you price it, where it can be bought and how people hear about it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A plumber who answers the phone promptly, turns up on time and leaves a tidy job is marketing just as much as one who buys billboard space.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its best, marketing starts before the product is made, by understanding what customers need, and continues long after the sale.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Know your customer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Everyone' is not a customer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Appeal to everybody and your message usually excites nobody.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, describe your ideal customer in concrete terms: who they are, what problem they have, what they've already tried, where they spend time and what makes them trust a business.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some businesses write this up as a customer profile or persona.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best source is real conversations and reviews, not guesswork.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Using your customers' own words in your marketing makes it feel instantly relevant.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Positioning and the 4 Ps.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Positioning, popularised by Al Ries and Jack Trout from the 1970s, is the place your business occupies in the customer's mind: the cheap one, the fast one, the premium one.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choose no position and customers will choose one for you, or forget you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A clear position often means deliberately not serving some people, like a gym for over-50s.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1960, E.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jerome McCarthy summarised the marketing mix as the 4 Ps.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Product is what you offer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Price signals quality, so too cheap can look poor.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place is where customers buy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Promotion is how you communicate.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A premium product sold at a discount in the wrong place sends a confusing message.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Channels and word of mouth.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A channel is any route to customers: search, social media, email, local papers, flyers or direct sales.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "New businesses often spread themselves thin.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's usually better to pick one or two channels where your customers already spend time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A wedding photographer might focus on Instagram and venue referrals; an accountant on search results and local networks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Track where customers actually come from.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People trust friends, family and colleagues far more than advertising, so word of mouth is the main source of customers for many small businesses.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Encourage it with an experience worth talking about, and ask happy customers for reviews.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reply to negative reviews calmly; buyers judge a business by its replies too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reach, memory, first steps.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research from the Ehrenberg-Bass Institute at the University of South Australia, in Byron Sharp's 2010 book How Brands Grow, argued that brands grow mainly by reaching many occasional buyers, and by being easy to think of and easy to buy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consistent colours, logos and slogans help.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The findings are influential but still debated, and small local businesses face different conditions from supermarket brands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To start, write one sentence on who you serve and why they should choose you.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Make sure product, price, place and promotion tell the same story.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Commit to one or two channels, ask for reviews when customers are happiest, and ask every new customer how they found you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Marketing is everything that shapes whether the right people know about, want and choose your offer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is usually the strongest starting point for a business idea?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A frequent problem people already try to solve.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does a value proposition describe?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Why a specific customer would choose you.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. In the coffee cart example, what is the contribution margin?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About 3 dollars 20, the price less variable costs.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Which action counts as marketing, according to the lesson?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A plumber who turns up on time and leaves a tidy job.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

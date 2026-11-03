@@ -1,0 +1,815 @@
+{
+ "id": "s-music-3",
+ "title": "Music · Episode 3",
+ "chapters": [
+  "From blues to hip hop",
+  "Music and the brain",
+  "Earworms: why songs get stuck in your head"
+ ],
+ "units": [
+  {
+   "t": "Music. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: From blues to hip hop, Music and the brain and Earworms: why songs get stuck in your head.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. From blues to hip hop.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Almost every song on your playlist can trace its family tree back to the blues, and to a few machines that changed how music was heard.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The blues.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The blues emerged in African American communities in the southern United States in the late 1800s and early 1900s, drawing on work songs, field hollers and spirituals rooted in the experience of slavery and its aftermath.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its most famous structure, the 12-bar blues, repeats a pattern of three chords over twelve bars, and its 'blue notes' bend slightly below the standard pitches of a Western scale.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Musicians such as W.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "C.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Handy, Bessie Smith and Robert Johnson helped spread it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blues shaped jazz, rhythm and blues, rock and roll, soul and much of the popular music that followed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recording changes everything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of history, you could only hear music when someone played it in front of you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1877 Thomas Edison demonstrated the phonograph, recording sound on a tin foil cylinder.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gramophone discs followed, then 1920s radio, bringing music into millions of homes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Records fixed a performance permanently, so one recording, not the written song, became the version people loved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the Second World War, magnetic tape made editing easy, and multitrack recorders let musicians layer parts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The long-playing record, 1948, held about twenty minutes a side, encouraging whole albums.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the late 1960s the studio was an instrument.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cassettes and the 1979 Walkman made music mobile; CDs, MP3s and, from the late 2000s, streaming followed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rock and roll.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1950s, rock and roll fused rhythm and blues with country and gospel, driven by a strong backbeat on beats two and four.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black musicians such as Chuck Berry, Little Richard and Sister Rosetta Tharpe were central to its sound, and Elvis Presley became its biggest star.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The electric guitar, amplified to compete with drums, became its signature instrument.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was also a social shift: marketed directly to teenagers, who now had money to spend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1960s, British bands such as the Beatles and the Rolling Stones sent it back across the Atlantic, reshaped.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hip hop and dance music.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hip hop grew from 1970s Bronx block parties among African American and Caribbean-born young people; a 1973 party where DJ Kool Herc played is often cited as its start.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "DJs extended funk drum breaks by switching between two turntables, and MCs rhymed over the top.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its four elements are DJing, MCing, breakdancing and graffiti, and sampling fragments of old recordings became central.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It grew into one of the world's best-selling genres, including a strong Australian scene.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Disco built music around a steady four-on-the-floor kick drum.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When it faded in the US, Black and gay club scenes kept experimenting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the mid-1980s Chicago gave rise to house and Detroit to techno, built on cheap drum machines and synthesisers like the Roland TR-808 and TB-303, fuelling the rave scene.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian music, and listening deeper.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Johnny O'Keefe's Wild One, 1958, was an early Australian rock and roll hit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AC/DC formed in Sydney in 1973 and its 1980 album Back in Black is among the best-selling ever.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kylie Minogue went from Neighbours to pop stardom with The Loco-Motion in 1987.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yothu Yindi's Treaty, 1991, sung partly in the Yolŋu language Gumatj, became a national hit, and Mandawuy Yunupingu was Australian of the Year for 1992.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Countdown and triple j launched countless careers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost every genre borrows from earlier ones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look up who influenced an artist you like, and check credits for who wrote, produced and sampled each track.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Support live venues, community radio and triple j Unearthed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The blues grew from African American communities in the US South around the turn of the twentieth century and shaped almost everything after.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Music and the brain.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Music gives you no food, shelter or money, yet it can make your skin tingle and bring back memories you thought were lost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A whole-brain workout.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no single music centre in the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sound areas decode pitch and timbre, movement regions track the beat, hence the foot tapping, memory areas recognise familiar tunes, and emotional and reward systems respond to how it feels.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music can make us sad, joyful or calm within seconds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One explanation is that it borrows the cues of emotional speech: happy music is faster, higher and brighter, sad music slower, lower and softer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another is expectation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain constantly predicts what comes next, and composers delay, confirm or surprise those predictions to create tension and release.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some features travel across cultures: people can often tell a lullaby from a dance song even in an unfamiliar tradition.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chills and dopamine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A shiver or goosebumps at a key moment, called frisson, often arrives with something unexpected: a sudden change in volume, a new voice, a surprising chord after a long build-up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not everyone gets chills, and some studies suggest people high in openness to experience report them more often.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2011 McGill University study used brain scans on people listening to music that gave them chills.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At peak pleasure, the striatum, part of the reward system that also responds to food, released dopamine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A different part of the striatum released it in the seconds before the peak, in anticipation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That helps explain why a favourite song's build-up can feel almost as good as the moment itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music and memory.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few notes of an old song can transport you to a particular summer, car trip or school dance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Music is closely bound up with autobiographical memory and tends to be tied to emotion, which helps memories stick.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies consistently find that people remember and feel most strongly about music from their teens and early twenties, part of a wider pattern psychologists call the reminiscence bump.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's one reason many adults feel the best music was made when they were young.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Songs also make words easier to remember, which is why children learn the alphabet with a tune.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music and dementia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carers have long noticed that people with dementia, including some who struggle to recognise family, can still sing along to songs from their youth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Musical memory seems to rely partly on brain areas affected relatively late in some forms of dementia, such as Alzheimer's disease.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music does not cure dementia or reverse its progress.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But there is reasonable evidence that personally meaningful music can lift mood, reduce agitation and help people connect with those around them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Australian aged-care homes now use personalised playlists, and registered music therapists work in hospitals and care settings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Does music make you smarter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1993 a short paper in Nature reported that students who listened to ten minutes of a Mozart sonata did slightly better on a spatial reasoning task for the next 10 to 15 minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Media turned this into 'Mozart makes babies smarter', and in 1998 Georgia's governor proposed a classical CD for every newborn.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later studies struggled to repeat it; enjoyable music can briefly lift mood and alertness, and Mozart has no special power.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children who learn instruments often do better at school, but families who pay for lessons differ in many ways.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Randomised studies are mixed, and reviews find little broad gain in intelligence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practice does improve listening, timing and coordination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learn an instrument because you want to play.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Music engages hearing, movement, memory and emotion at once, and stirs feeling by mimicking speech and playing with expectation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Earworms: why songs get stuck in your head.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Almost everyone has had a few seconds of a song loop endlessly in their mind.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers have studied which tunes stick, why, and what actually helps get rid of them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The itch you can't scratch.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word earworm translates the German Ohrwurm, and psychologists call it involuntary musical imagery.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is usually not a whole song but a fragment, often the chorus or a catchy hook, that repeats on a loop.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In some large surveys, around nine in ten people say they get earworms at least weekly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are mildly annoying or even pleasant, and fade within minutes or hours.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most obvious trigger is hearing a song recently, especially more than once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memories can trigger them too: a word, place or person linked to a song can set it going years later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People report more earworms when tired, stressed or doing tasks that need little thought, such as showering or chores.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy music listeners and musically trained people report them more often.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sticky tune.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A study led by Kelly Jakubowski of Goldsmiths, University of London, analysed reports from around 3,000 people about songs that most often got stuck.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compared with similarly popular songs that rarely stuck, the earworms tended to have faster tempos and melodies with a fairly common overall shape, the rising and falling pattern found in many nursery rhymes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But they also had something distinctive, such as unusual leaps between notes or repeated phrases.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frequently named songs included Lady Gaga's 'Bad Romance' and Kylie Minogue's well named 'Can't Get You Out of My Head'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Familiar enough to be easy, unusual enough to grab attention.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why fighting backfires.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No one is entirely sure why earworms happen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Musical memories may be especially easy to replay, because melody and rhythm bind them together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another idea links to the Zeigarnik effect, from Bluma Zeigarnik's 1920s report that people remembered interrupted tasks better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later attempts to repeat it have given mixed results, so treat it as a hypothesis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What is clear is that earworms thrive when the mind is idle and wanders, and fade when it is occupied.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trying to banish one by force of will can backfire.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Daniel Wegner's 'white bear' studies found that people told not to think of a white bear kept thinking of it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The more you check whether the song has gone, the more you remind yourself of it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What actually helps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few strategies have been tested.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2015 study at the University of Reading, people who chewed gum after hearing catchy songs reported fewer intrusive thoughts of them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The likely reason is that chewing ties up some of the mental machinery used to imagine speaking or singing to yourself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other research suggests a moderately challenging task, such as an anagram or a sudoku, can crowd out an earworm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key word is moderately: tasks that are too easy leave room for the song, while tasks that are too hard make the mind wander.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some people swear by listening to the whole song through, to give it an ending, but evidence for that is thinner.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often, accepting the earworm and letting your attention move on works as well as anything.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A feature, not a bug.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before writing, much of human culture was carried in songs, chants and rhymes, because melody and rhythm make words easier to remember.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Advertisers exploit the same quirk with jingles, and teachers use it with songs for the alphabet or times tables.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain's tendency to replay sound patterns, even uninvited, may be the flip side of a powerful system for learning and keeping them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For most people earworms are harmless.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hearing music that seems to come from outside your head is not an earworm, and is worth mentioning to a doctor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If intrusive music or thoughts become constant and distressing, talk to a GP, as occasionally it can be part of a broader issue such as obsessive compulsive disorder.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An earworm is a short fragment of music that replays in your mind unbidden, and nearly everyone gets them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the 12-bar blues?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A repeating three-chord pattern over 12 bars.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which features tend to make music sound happy?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Faster, higher and brighter.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is an earworm?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A fragment of music that replays in your mind unbidden.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,1326 @@
+{
+ "id": "s-chemistry-2",
+ "title": "Chemistry Basics · Episode 2",
+ "chapters": [
+  "Radioactivity: the restless atom",
+  "Chemical reactions",
+  "Enzymes: life's tiny machines",
+  "Acids and bases"
+ ],
+ "units": [
+  {
+   "t": "Chemistry Basics. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Radioactivity: the restless atom, Chemical reactions, Enzymes: life's tiny machines and Acids and bases.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Radioactivity: the restless atom.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some atoms are quietly falling apart all around you, and learning to understand them gave us carbon dating, cancer treatment and nuclear power.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Discovered by accident.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1896 Henri Becquerel was testing whether uranium salts, after soaking up sunlight, gave off X-rays.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cloudy Paris weather interrupted him, so he put the salts and wrapped photographic plates in a drawer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When he developed the plates anyway, they showed clear images.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The uranium was giving off invisible, penetrating radiation all on its own.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marie Curie found the rays' strength depended on the amount of uranium, not its chemical form, so it came from inside the atom.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She coined the word radioactivity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With her husband Pierre she discovered polonium, named for her homeland, and radium in 1898.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She won the 1903 Nobel Prize in Physics and the 1911 Nobel Prize in Chemistry, the first person to win two.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She died in 1934 of an illness linked to radiation exposure; her notebooks are still radioactive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alpha, beta and gamma.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An atom is radioactive when its nucleus has an unstable mix of protons and neutrons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To settle down, it throws off energy or particles, called decay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1900s Ernest Rutherford and others identified three main types.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alpha particles are clumps of two protons and two neutrons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are heavy and slow, and a sheet of paper or the outer layer of your skin stops them, though they are harmful if breathed in or swallowed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beta particles are fast electrons, stopped by a thin sheet of aluminium.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gamma rays are high-energy electromagnetic waves, like extremely powerful X-rays, and need thick lead or concrete to block them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alpha or beta decay turns an atom into a different element.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Predictable randomness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radioactive decay is truly random.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no way to predict when any particular unstable atom will break down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet in a large collection of atoms, the pattern is beautifully regular.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The half-life is the time for half the atoms in a sample to decay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After one half-life, half remain; after two, a quarter; after three, an eighth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Half-lives range from tiny fractions of a second to billions of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Uranium-238 has a half-life of about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 billion years, roughly the age of the Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon-14, constantly made in the atmosphere and absorbed by living things, has a half-life of about 5,730 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measuring how much is left in old bones, wood or charcoal lets scientists date them back roughly 50,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Splitting the atom.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In late 1938, Otto Hahn and Fritz Strassmann found that bombarding uranium with neutrons produced barium, a much lighter element.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their former colleague Lise Meitner and her nephew Otto Frisch worked out why: the nucleus had split in two.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They called it fission.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pieces weigh slightly less than the original atom, and the missing mass becomes a huge amount of energy, as Einstein's E equals mc squared predicts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each split also frees more neutrons, which can split more atoms in a chain reaction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Controlled, the heat boils water to drive turbines in a nuclear power station.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uncontrolled, it is the basis of the atomic bomb.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia holds some of the world's largest known uranium resources, and whether it should have nuclear power remains a lively debate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radiation in daily life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everyone receives low-level natural background radiation from rocks and soil containing uranium, thorium and potassium, from radon gas seeping out of the ground, and from cosmic rays, which is why long-haul flights add a little extra.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even bananas and your own body contain slightly radioactive potassium.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The doses are tiny.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, ARPANSA oversees radiation safety and publishes clear information.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same property that makes radiation dangerous also makes it useful.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aimed radiotherapy beams destroy cancer cells while sparing as much healthy tissue as possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short-lived radioactive tracers reveal how the heart, bones or thyroid work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technetium-99m has a half-life of about six hours and is made from materials produced at the OPAL reactor at Lucas Heights in Sydney.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Talk to your doctor about any specific scan or treatment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Radioactivity was discovered in 1896 when uranium fogged photographic plates, and Marie Curie went on to name it and find two new elements.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Chemical reactions.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Cooking, rusting, burning, breathing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chemical reactions rearrange atoms into new substances, and they're happening in you right now.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Atoms rearranged.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a chemical reaction, bonds break and new bonds form, producing substances with different properties.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hydrogen and oxygen are gases, yet burning hydrogen in oxygen makes water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1770s and 1780s, French chemist Antoine Lavoisier used careful weighing to show that mass is conserved.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A burning log seems to vanish, but most of its atoms go into the air as carbon dioxide and water vapour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chemists write this as equations: 2H₂ + O₂ → 2H₂O.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Numbers in front count molecules, and numbers after a symbol count atoms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because atoms are never created or destroyed, an equation must balance: here, four hydrogen and two oxygen atoms on each side.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That lets chemists calculate exactly how much of each ingredient they need.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spotting a reaction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Melting ice or dissolving sugar are physical changes: the substance stays the same, and the change is often reversible.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chemical changes, like rusting or baking a cake, create something new.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clues include a new colour or smell, gas bubbles, light or heat, or a solid forming.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evaporate salt water and you get the salt back, so dissolving is physical.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can't un-bake a cake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breaking bonds takes energy; forming bonds releases it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Exothermic reactions release more than they absorb and give off heat, like burning fuel or iron oxidising in hand warmers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Endothermic reactions draw in heat, like photosynthesis storing sunlight in sugar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even exothermic reactions often need a spark to start, called activation energy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speeding things up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reactions happen when particles collide with enough energy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heating makes particles move faster and collide harder.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a rough rule, many reactions go about twice as fast for every 10°C rise, one reason refrigeration slows food spoiling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Higher concentration or pressure means more frequent collisions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smaller pieces offer more surface area, which is why fine flour or coal dust can explode while a sack of flour won't.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Catalysts speed reactions without being used up, by offering an easier pathway.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your car's catalytic converter turns toxic exhaust gases into less harmful ones, and enzymes are the biological catalysts running your body.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oxidation and rust.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oxidation once meant combining with oxygen.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now it means losing electrons, and its partner, reduction, means gaining them; the two always happen together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rusting is slow oxidation of iron into iron oxide, needing oxygen and water.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Salt speeds it up, so cars in coastal towns rust faster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galvanising coats steel in zinc, which corrodes first and protects the iron beneath.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Burning is fast oxidation, releasing heat and light.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your cells use controlled oxidation too: cellular respiration combines glucose with oxygen to release energy step by step, producing the carbon dioxide you breathe out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Balance and Haber-Bosch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many reactions run both ways.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a closed container they reach equilibrium: forward and reverse reactions happen at the same rate, so amounts stop changing even though molecules keep reacting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1884, Henri Le Chatelier described how such a system shifts to partly counteract any disturbance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Haemoglobin picks up oxygen in your lungs, where it is plentiful, and releases it in tissues, where it is scarce.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1900s, Fritz Haber and Carl Bosch combined nitrogen from air with hydrogen to make ammonia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the reaction is reversible, they used high pressure, high temperature and an iron catalyst to push it towards ammonia quickly enough to be practical.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps feed around half the world's population, but uses much energy, mostly from natural gas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Haber also developed chemical weapons in World War I: chemistry can serve good or harm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In a reaction, atoms rearrange into new substances, and none are created or destroyed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Enzymes: life's tiny machines.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Reactions that would take millions of years on their own happen in your cells in a split second, thanks to molecules called enzymes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The problem of slow chemistry.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your cells break down sugars, copy DNA, build proteins and clear waste every second.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Left alone at body temperature, most of these reactions would crawl along at a hopeless pace, some taking millions of years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A lab chemist might use strong acids, high pressure or fierce heat, but none are options inside a cell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Life solved the problem with enzymes: large molecules, nearly all proteins, that make specific reactions happen enormously faster without being used up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Such molecules are called catalysts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People used enzymes for thousands of years in brewing, baking and cheesemaking.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1897 Eduard Buchner showed that juice from ground-up yeast, with no living cells, could still ferment sugar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1926 James Sumner crystallised the enzyme urease and showed it was a protein.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lowering the hill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a reaction as a ball that must be pushed over a hill before it can roll down the other side.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That hill is the activation energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even if the products are more stable than the starting materials, few molecules have enough energy to get over the top, so the reaction is slow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An enzyme provides an easier route, effectively lowering the hill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can hold reacting molecules close together in exactly the right orientation, stretch or strain chemical bonds so they break more easily, and position charged parts of itself to stabilise the awkward arrangement at the top of the hill.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An enzyme does not change where the reaction ends up, only how quickly it gets there, and it emerges unchanged, ready to work again.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shape is everything.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Enzymes are choosy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most work on one molecule, or a small family, called substrates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An enzyme is a chain of amino acids folded into a precise shape, with a pocket called the active site.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1894 Emil Fischer likened the fit to a key in a lock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1958 Daniel Koshland refined this with induced fit: the active site is flexible and moulds around the substrate, like a glove tightening around a hand.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Disturb the fold and the enzyme stops working.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warming speeds an enzyme up at first, but beyond a point heat shakes the fold apart, called denaturation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You see it in a cooked egg: the white turns solid as its proteins unravel, for good.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most human enzymes work best near body temperature.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pepsin thrives in strong stomach acid; small-intestine enzymes prefer milder conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switches and medicines.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cell cannot leave all its enzymes running at full speed, or it would waste resources and overproduce some products.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So enzymes are regulated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often the end product of a chain of reactions binds to an enzyme near the start and slows it down, a neat feedback that keeps supplies in balance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other molecules act as inhibitors, either jamming the active site or binding elsewhere and changing the enzyme's shape.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medicine makes heavy use of this.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aspirin works partly by blocking enzymes involved in making substances that cause pain and inflammation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Penicillin blocks enzymes bacteria need to build their cell walls.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many other drugs target specific enzymes too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only, so ask a doctor or pharmacist about any particular medicine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enzymes in daily life.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Biological laundry powders contain enzymes that break down protein, fat and starch stains, so they work well in cooler water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cheesemakers have long used rennet, which contains an enzyme that curdles milk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enzymes help clarify fruit juice, make sweet syrups from starch and tenderise meat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Papaya and pineapple contain such enzymes, which is why fresh pineapple can stop jelly setting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In research, an enzyme from a hot spring bacterium, able to survive repeated heating, made possible the PCR technique used to copy DNA.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists are now improving enzymes and designing new ones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frances Arnold shared the 2018 Nobel Prize in Chemistry for using directed evolution to breed better enzymes in the lab.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most of the reactions life depends on are far too slow without help, and enzymes are proteins that speed up specific reactions without being used up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Acids and bases.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "From lemon juice to stomach acid to drain cleaner, acids and bases are everywhere, and the pH scale measures them.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sour and slippery.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When acids dissolve in water, they release hydrogen ions, H+.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Acids taste sour, like lemons, vinegar and yoghurt, and strong ones corrode metals and burn skin.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bases remove hydrogen ions or release hydroxide ions, OH−; those that dissolve in water are called alkalis.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They often feel slippery and taste bitter, like soap.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never taste unknown chemicals: strong bases like drain cleaner are as dangerous as strong acids.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Indicators change colour with acidity.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Litmus turns red in acid and blue in base.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red cabbage juice is red-pink in acid, purple near neutral and green or yellow in strong bases.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hydrangeas act as living indicators: blue flowers in acidic soil, pink in alkaline.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pH scale.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "pH measures how acidic or basic a solution is, usually from 0 to 14.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pure water is neutral at 7.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lemon juice is about 2, stomach acid about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5–3.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5, coffee about 5, blood about 7.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4, seawater about 8.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 and bleach 12–13.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The scale is logarithmic: pH 3 is ten times more acidic than pH 4 and a hundred times more than pH 5.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Danish chemist Søren Sørensen introduced it in 1909.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your stomach makes hydrochloric acid to digest protein and kill microbes, while a layer of mucus stops it digesting the stomach itself.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your blood must stay between about 7.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "35 and 7.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "45, as shifts outside that range can be life-threatening.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your lungs and kidneys adjust it constantly, partly through how much carbon dioxide you breathe out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strength and neutralising.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strong and weak don't mean concentrated and dilute.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A strong acid, like hydrochloric acid, splits almost completely into ions in water.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A weak acid, like the acetic acid in vinegar, releases only a small fraction.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Concentration is how much acid is dissolved in the water, so a very dilute strong acid can be gentler than a concentrated weak one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among bases, sodium hydroxide, some drain cleaners, is strong; ammonia is weak.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An acid and a base neutralise each other, forming water and a salt.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antacid tablets neutralise excess stomach acid.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farmers spread lime on acidic soils, common in parts of Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Baking soda reacts with acidic ingredients, releasing carbon dioxide bubbles that make cakes rise.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When pH drifts.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tooth enamel starts to dissolve below about pH 5.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frequent sugary drinks, which mouth bacteria turn into acid, and acidic drinks like soft drink and juice can harm teeth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saliva helps by neutralising acid between meals.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oceans absorb roughly a quarter of the carbon dioxide humans emit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It forms carbonic acid in seawater, lowering pH.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Average surface ocean pH has fallen from about 8.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 to about 8.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 since the industrial revolution.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the scale is logarithmic, that means roughly 30% more hydrogen ions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oceans are not acidic yet; they are becoming less alkaline.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes it harder for corals, oysters and some plankton to build shells and skeletons from calcium carbonate, adding pressure on reefs like the Great Barrier Reef.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safe at home.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many household cleaners are acids or bases.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Descalers and some toilet cleaners are acidic.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oven cleaners, drain cleaners and ammonia sprays are alkaline, as is household bleach, which contains sodium hypochlorite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never mix cleaning products.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bleach with acidic cleaners can release chlorine gas, and bleach with ammonia releases toxic chloramine gases; both can badly damage the lungs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep chemicals in their original labelled containers, out of reach of children, and wear gloves with strong products.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a chemical is swallowed or splashed in the eyes, rinse with water and call the Poisons Information Centre on 13 11 26, or 000 in an emergency.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Acids release hydrogen ions in water, bases accept them, and indicators show which is which.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did Becquerel's developed photographic plates show?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Uranium emits rays even without sunlight.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why must a chemical equation balance?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Atoms are only rearranged, never created or lost.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does a catalyst such as an enzyme do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Speeds up a reaction without being used up.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Which description fits an acid?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It releases hydrogen ions in water.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

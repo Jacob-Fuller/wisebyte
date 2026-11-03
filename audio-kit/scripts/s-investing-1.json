@@ -1,0 +1,1224 @@
+{
+ "id": "s-investing-1",
+ "title": "Investing · Episode 1",
+ "chapters": [
+  "Risk and return",
+  "How the stock market works",
+  "Moats: why some companies stay on top",
+  "What is a business worth? Valuation explained"
+ ],
+ "units": [
+  {
+   "t": "Investing. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Risk and return, How the stock market works, Moats: why some companies stay on top and What is a business worth? Valuation explained.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Risk and return.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "There is no such thing as a high return with no risk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why is the first real lesson of investing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No free returns.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The risk-return trade-off is the closest thing investing has to a law of nature.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Money in a government-guaranteed bank account is very unlikely to lose value in dollar terms, so it pays a modest interest rate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shares in companies can fall sharply, so investors demand the prospect of a higher long-run return to hold them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If an asset offered high returns with no risk, everyone would buy it until its price rose and its future return shrank.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is why any offer of 'high returns, no risk' should set off alarm bells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What risk means.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people think of risk as losing money, and that matters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Professionals use a broader meaning: uncertainty about outcomes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A term deposit paying 4% has little uncertainty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A share fund might return 25% one year and lose 15% the next.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That swing is volatility: how widely and how often a price moves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cash barely moves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The main Australian share index fell roughly half between late 2007 and early 2009, and more than a third in about a month in early 2020.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both times it recovered, but anyone forced to sell near the bottom locked in heavy losses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The asset classes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Investments are grouped into asset classes that behave in broadly similar ways.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cash, such as savings accounts and term deposits, is the most stable but usually earns the least.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fixed interest, mainly bonds, pays regular interest and tends to be steadier than shares.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Property can deliver rent and capital growth but is lumpy, costly to buy and sell, and can fall in value.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shares, Australian and international, have historically delivered the highest long-run returns of the main classes, with the biggest swings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cash and bonds are often called defensive assets; property and shares are growth assets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time and temperament.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your time horizon is how long until you need the money.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over ten or twenty years, diversified share portfolios have historically been far more likely to end up ahead, though that is a pattern from the past, not a guarantee.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money for a house deposit in two years usually belongs somewhere stable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money you won't touch for decades, like much of your super, can generally afford more growth assets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two more limits apply.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Risk tolerance is emotional: can you watch your balance drop 30% without panicking?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Risk capacity is financial: could you afford that drop?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nervous young worker has high capacity; a brave retiree drawing on savings has less.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real returns, real plans.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 5% return sounds decent, but if prices rise 4%, your real return is only about 1%, and after tax it may be near zero.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So cash is not truly risk-free over long periods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Reserve Bank targets inflation of 2-3% on average, which roughly halves the value of a dollar every 25 to 35 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think in buckets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emergency money belongs in cash, and short-term goals suit cash or conservative options.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long-term money, like super, can usually lean towards growth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check which option your fund has you in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not personal advice; speak to a licensed financial adviser, and see ASIC's Moneysmart for free guidance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Investments that can earn higher returns usually come with a higher chance of losses along the way.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How the stock market works.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "What you're actually buying when you buy a share, why prices jump around, and how ordinary people build wealth with it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What a share is.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A share, or stock, is a small slice of ownership in a company.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a company has a million shares and you own 1,000, you own 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1% of it, including a claim on 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1% of its future profits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Companies sell shares to raise money without borrowing, and shareholders can usually vote on big decisions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the company does well, your slice becomes more valuable; if it fails, it can become worthless.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A stock exchange is a marketplace where shares are traded.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's main one is the ASX, formed in 1987 from the merger of earlier state exchanges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most trading is electronic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A company's first public sale of shares is an initial public offering, or IPO.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After that, investors trade with each other, and the company doesn't get the money from those trades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What moves prices.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If more people want to buy than sell, the price rises.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Underneath, buyers are betting on future profits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices react to earnings, scandals, interest rates and the economy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the short term, fear and excitement drive them; in the long run, they tend to follow real profits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rising market is a bull market, and a fall of 20% or more from a peak is a bear market.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Markets fell sharply in 1987, in the 2008–09 financial crisis, and in early 2020, when the ASX lost over a third of its value in about a month.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Broad markets have historically recovered, though it can take years, and past performance guarantees nothing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How investors earn.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There are two main ways to make money from shares.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the price rises and you sell for more than you paid, that's a capital gain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And many companies pay part of their profits to shareholders as dividends, usually twice a year in Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian companies often attach franking credits to dividends.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They represent company tax already paid, and can reduce the tax you owe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reinvesting dividends to buy more shares is a powerful way to compound growth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Index funds, not gambling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An index tracks a group of stocks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ASX 200 tracks the 200 largest companies on the ASX; the S and P 500 tracks 500 large US companies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An index fund, often an exchange-traded fund, ETF, simply buys every company in an index, giving you a tiny slice of hundreds of businesses at low cost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most professional fund managers fail to beat their index over the long term, once fees are included.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holding a broad index fund for decades is very different from day-trading or chasing tips on social media.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Studies consistently find most day traders lose money over time, after costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Invest for the long term, diversify, keep fees low, don't try to time the market, and never invest money you might need soon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not personal advice; a licensed adviser can help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules of the game.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fair market needs everyone to have access to the same important information.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under the ASX's continuous disclosure rules, a listed company must immediately announce anything a reasonable person would expect to affect its share price materially, such as a big new contract, a profit downgrade or a takeover offer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If news is about to break, the company can ask for a trading halt so no one trades on half the story.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buying or selling shares using price-sensitive information that isn't public, or tipping someone else off, is insider trading.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's a serious crime in Australia, carrying up to 10 years' jail, and the corporate regulator, ASIC, investigates suspicious trades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A share is a small slice of ownership in a company, bought and sold on exchanges like the ASX.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Moats: why some companies stay on top.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most successful businesses attract copycats that eat away their profits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few seem untouchable for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference is what investors call a moat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The castle and the moat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a medieval castle full of treasure.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The treasure is a company's profits, and every competitor would love to storm the walls.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Investor Warren Buffett popularised the idea that the best businesses are protected by a wide economic moat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In ordinary markets, high profits are a signal to others.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a cafe makes a fortune, new cafes open next door, prices fall and profits shrink back to normal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call this competition doing its job.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A moat interrupts that process, letting a company earn unusually high returns for many years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spotting a real moat is hard, and mistaking temporary success for a lasting advantage is one of the most common errors in business and investing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Locked-in customers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A telephone is useless if you are the only owner, and more useful with every new person who joins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is a network effect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Card payment networks are a classic case: shops accept a card because customers carry it, and customers carry it because shops accept it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A better rival struggles to get everyone to switch together, which helps explain why digital markets end up dominated by one or two giants, and why regulators watch them closely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switching costs work differently.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moving a large company's accounting software means years of records, trained staff and connected systems.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing banks means updating direct debits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Businesses deepen these costs with loyalty schemes and bundles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When convenience turns into dependence, a company has the most power over price.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cost and intangible edges.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some companies win by producing more cheaply than rivals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A huge retailer can negotiate lower supplier prices, spread advertising across thousands of stores and fund efficient logistics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call these economies of scale.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Location can matter too: a quarry near a city has a lasting advantage, because rock is heavy and costly to transport.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But a rival's cleverer method can erase a cost advantage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other moats are intangible.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A patent gives an inventor exclusive rights for a limited time, usually up to 20 years, in exchange for disclosing how the invention works.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drug revenues can fall sharply when a major patent expires and cheaper generics arrive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Government licences can limit a market to a few operators.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trusted brand can allow higher prices, though familiarity alone does not guarantee pricing power.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moats can dry up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "History is full of companies that looked unbeatable.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 2000s Nokia sold more mobile phones than anyone, and BlackBerry was the device of choice for business.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within a few years touchscreen smartphones with app stores had pushed both aside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newspapers once held a powerful moat in classified advertising: to sell a car or find a job, you went to the paper with the most readers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The internet drained that moat remarkably quickly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These stories show moats are not permanent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They need constant maintenance and are vulnerable to shifts that make the old advantage irrelevant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A company that grows complacent behind its walls may not notice the water level falling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking like an analyst.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can use moat thinking on any business, from a local bakery to a global tech giant.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask: if a well-funded competitor tried to copy this company tomorrow, what would stop them?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the honest answer is not much, high profits are unlikely to last.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Analysts look for evidence such as steady returns on capital over many years, loyal customers and the ability to raise prices without losing sales.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A great company is not automatically a great investment if its share price already reflects all that strength.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information rather than financial advice, and moneysmart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au has helpful guidance if you are thinking about investing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A moat is any lasting advantage that stops rivals from competing away a company's profits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. What is a business worth? Valuation explained.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two experts can look at the same company and arrive at prices billions apart.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Valuation is part maths, part judgement, and understanding it changes how you see every price tag in the market.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Price versus value.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Price is what you pay; value is what you get.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warren Buffett, a student of the investor Benjamin Graham, put it that way.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A price is a fact, such as the latest share price or an agreed sale.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Value is an estimate of what the business is really worth to its owners, and estimates differ.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A buyer and a seller can disagree sharply, both in good faith.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most serious valuation rests on one idea: a business is worth the cash it will generate for its owners over its remaining life.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everything else, from complex spreadsheets to rules of thumb, is a way of estimating that cash and what it is worth today.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money today beats tomorrow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Would you rather have 100 dollars today or in a year?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost everyone says today.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money in hand can be invested, it avoids the risk of a broken promise, and inflation can erode what future money buys.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So analysts discount future amounts back to the present.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you could earn 10 per cent elsewhere, 100 dollars in a year is worth about 90.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "91 dollars today, because that sum grows to 100 at 10 per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the base of discounted cash flow, DCF.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An analyst forecasts the free cash flow in each future year, meaning cash left after running the business and making necessary investments.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each year is discounted to today's dollars, then the results are added up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Discount rate and risk.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody can forecast forever, so analysts model five or ten years in detail, then add one terminal value for everything after.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common method treats the business as growing steadily for ever: next year's cash flow divided by the discount rate minus the growth rate.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often this is most of the total.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The discount rate is where judgement and risk enter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is the return investors require for backing this business instead of another.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A stable utility earns a lower rate than an uncertain young technology firm.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small changes matter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One million dollars of cash flow growing 2 per cent for ever is worth 12.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million at a 10 per cent rate, but about 14.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3 million at 9 per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comparison and debt.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "DCF is rigorous but laborious, so analysts also use multiples, much like valuing a house from recent sales nearby.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The price to earnings ratio compares share price with profit per share.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enterprise value to EBITDA compares the whole business, debt included, with earnings before interest, tax, depreciation and amortisation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If similar firms trade at ten times EBITDA, a business earning five million might be worth about fifty million.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Multiples are quick and market-based, but if the whole market is overpriced they copy the error.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enterprise value is the whole operating business.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Equity value is roughly that minus net debt, debt less spare cash.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An 800,000 dollar house with a 500,000 dollar mortgage gives you only 300,000 of equity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Garbage in, garbage out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Valuation models look precise, with numbers to the last dollar, but they rest on forecasts of growth, margins and risk that nobody can know.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the example showed, a one percentage point change in the discount rate can shift a valuation by more than ten per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The long-term growth rate has a similar effect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Careful analysts therefore present a range, test pessimistic and optimistic scenarios, and check the answer against multiples.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many experienced investors also want a margin of safety, another idea linked to Graham: buy only when the price is comfortably below their estimate of value, so that errors in their assumptions do not ruin them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The price of a business is what someone pays; its value is an estimate of the cash it can produce for its owners.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why don't low-risk investments usually offer high returns?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Because investors would buy them until prices rose and returns shrank.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does owning a share mean?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. You own a small part of the company.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. In business, what is an economic moat?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A lasting edge that protects profits.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. According to most serious valuation, what is a business worth?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The cash it will produce for its owners over time.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

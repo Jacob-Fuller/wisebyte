@@ -1,0 +1,923 @@
+{
+ "id": "s-thought-experiments-3",
+ "title": "Thought Experiments · Episode 3",
+ "chapters": [
+  "The veil of ignorance: designing a fair society",
+  "The paradox of the heap: where do boundaries go",
+  "What is knowledge? The three-page paper that broke a definition"
+ ],
+ "units": [
+  {
+   "t": "Thought Experiments. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The veil of ignorance: designing a fair society, The paradox of the heap: where do boundaries go and What is knowledge? The three-page paper that broke a definition.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The veil of ignorance: designing a fair society.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Imagine designing the rules of society without knowing whether you would be born rich or poor, healthy or sick.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "John Rawls's thought experiment reshaped debates about justice, and drew powerful critics who saw things very differently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Behind the veil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine you are about to be born into a society, but you do not know who you will be.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might be born into wealth or poverty, with great talents or a serious disability, into a majority or a minority.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before you find out, you help choose the basic rules: how wealth is shared, which freedoms are protected, how opportunities are distributed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the heart of the most famous thought experiment in modern political philosophy, set out by John Rawls in his 1971 book A Theory of Justice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rawls called it the original position, with a 'veil of ignorance' hiding your sex, class, abilities, religion and idea of a good life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you do not know whether you will be rich, you cannot rig the rules for the rich.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The principles that emerge should be acceptable from every position.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two principles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rawls argued that people behind the veil would choose two principles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, everyone gets an equal right to the most extensive basic liberties compatible with the same for others, such as free speech and conscience.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These rank above the second principle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, inequalities are acceptable only if positions are open to all under fair equality of opportunity, and if they work to the greatest benefit of the least advantaged.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That last part is the difference principle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It does not demand equal incomes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paying some people more, say to encourage training, can be justified if it lifts up the worst-off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rawls thought people would reason cautiously, focusing on the worst outcome: a 'maximin' strategy, maximising the minimum.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The economist John Harsanyi argued that rational people would instead maximise average wellbeing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nozick's challenge.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rawls's most famous critic was his Harvard colleague Robert Nozick, whose 1974 book Anarchy, State, and Utopia defended a libertarian view.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A distribution is just, he argued, if people acquired their holdings fairly and transferred them voluntarily, whatever pattern results.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He illustrated this with the basketball star Wilt Chamberlain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose society begins with a distribution you consider perfectly fair, and then a million fans each happily pay a small sum to watch Chamberlain play.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He becomes rich, and the pattern is upset.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet every step was voluntary.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How could the result be unjust?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nozick concluded that maintaining any fixed pattern would require continual interference in free choices, and that redistributive taxation risks treating people's labour as a resource others may claim.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other critics.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Criticism came from other angles too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Communitarians, such as Michael Sandel in a 1982 book, argued that the people behind the veil are 'unencumbered selves', stripped of the loyalties, traditions and communities that make us who we are.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The feminist philosopher Susan Moller Okin argued that Rawls had not taken justice within the family seriously enough, even though families shape children's opportunities so profoundly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The economist and philosopher Amartya Sen, with the philosopher Martha Nussbaum, developed the capabilities approach.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They argued that justice should focus less on resources and more on what people can actually do and be, since people with different needs convert the same income into very different lives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fairness test.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rawls refined his views over the following decades, notably in Political Liberalism in 1993, which asked how people with deeply different religious and moral beliefs can share a stable, fair society.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His work and the responses to it frame much of today's argument about tax, welfare, health care and opportunity, across the political spectrum.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even people who reject his conclusions often find the veil of ignorance a useful thinking tool.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When debating a policy, from school funding to disability support, ask: would I accept this rule if I did not know which side of it I would end up on?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That question does not settle every disagreement, and reasonable people still reach different answers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it pushes us to see a society from more than our own seat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: John Rawls asked which rules people would choose for society if they did not know their own place in it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The paradox of the heap: where do boundaries go.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One grain of sand is not a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adding a single grain never turns a non-heap into a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So, it seems, there are no heaps at all.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This ancient puzzle about vagueness still divides logicians today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The puzzle of the heap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One grain of sand is not a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adding a single grain to something that is not a heap never makes it a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So two grains is not a heap, nor three, nor a million.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet a million grains clearly is a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each premise looks true and each step looks valid, but the conclusion is absurd.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the sorites paradox, named from soros, the Greek word for heap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is credited to Eubulides of Miletus, a 4th-century BC philosopher also linked to the liar paradox.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A matching version, the bald man, runs the other way: removing one hair never turns a man who is not bald into a bald one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vagueness everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sorites is not really about sand.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It arises with any vague term: a word with borderline cases where it is unclear whether it applies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tall, old, rich, red, child and crowd are all vague.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone 190 centimetres tall is clearly tall and someone 150 centimetres is not, but what about 175?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There seems to be no single millimetre at which a person becomes tall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet if no small change can make a difference, the same reasoning concludes that nobody is tall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most everyday words are vague, so this is no mere curiosity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It asks whether ordinary logic, built for sharp categories, can handle ordinary language.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hidden sharp line.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Stoic Chrysippus, a great logician of the ancient world, is reported to have advised a wise person to fall silent somewhere before the doubtful cases and decline to answer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics mocked this.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But some modern scholars think he may have meant that a boundary exists and cannot be known.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is close to epistemicism, defended by the British philosopher Timothy Williamson in his 1994 book Vagueness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It says there is a precise number of grains at which a pile becomes a heap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We cannot know it, because meaning is fixed by patterns of use too complex to survey.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This keeps classical logic intact, but many find it unbelievable that one grain could make the difference.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing the logic.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supervaluationism, developed in a 1975 paper by the philosopher Kit Fine, imagines every acceptable way of making a vague word precise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A statement is true if it is true on every sharpening, false if false on every one, and neither otherwise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another approach uses degrees of truth, drawing on fuzzy logic introduced by the engineer Lotfi Zadeh in 1965.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On this view, 'this pile is a heap' might be true to degree 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics note that both theories face higher-order vagueness: where exactly do the borderline cases begin?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The American philosopher Peter Unger went further and accepted the paradox's conclusion, arguing that ordinary vague objects such as heaps do not strictly exist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bright lines in life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In practice we handle vagueness with bright lines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Childhood fades into adulthood gradually, yet laws set fixed ages for voting, driving and drinking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody changes overnight on their eighteenth birthday, but a clear rule is fairer and easier to apply than case-by-case judgement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speed limits, blood alcohol thresholds and pass marks work the same way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sorites also underlies slippery slope arguments, which claim that because no clear line separates a small step from an extreme outcome, we should not take the first step.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Recognising the structure helps you judge when such arguments hold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medical definitions, legal standards like reasonable care and debates about when life begins all lack sharp edges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes clear thinking means living with blurred boundaries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Tiny, harmless steps can seem to prove an absurd conclusion about a vague word like heap.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. What is knowledge? The three-page paper that broke a definition.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For a long time, a neat definition of knowledge seemed good enough.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then, in 1963, a little-known philosopher published three pages that sent the field scrambling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowledge versus luck.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose you believe it will rain tomorrow, and it does.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Did you know?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you checked a reliable forecast, perhaps yes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you had a hunch, you were only lucky.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epistemology, from the Greek word for knowledge, studies questions like this.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowledge cannot be mere true belief, because a lucky guess can be true.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ideas reaching back to Plato's Theaetetus suggested an answer, which many 20th-century philosophers settled on: justified true belief.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To know something, you must believe it, it must be true, and you must have good reasons or evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The forecast reader has justification; the hunch follower does not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time this was treated as a neat standard definition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three pages in 1963.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1963, Edmund Gettier, a young philosopher at Wayne State University in Detroit, published a paper in the journal Analysis titled Is Justified True Belief Knowledge?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It ran to about three pages, and it is now one of the most widely cited articles in modern philosophy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stories say he wrote it partly under pressure to publish, and he published little else.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In his first case, Smith has strong evidence that Jones will get a job, and has counted ten coins in Jones's pocket.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He concludes that the successful applicant has ten coins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But Smith gets the job himself, and also has ten coins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His belief is true and justified, yet he did not know.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was right by coincidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older cases of lucky truth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gettier was not the first to notice the problem.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 8th century, the Indian Buddhist philosopher Dharmottara described a traveller who sees a shimmering mirage, believes there is water ahead, and finds water hidden under a rock at that very spot.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1948, Bertrand Russell described someone who looks at a stopped clock that happens to show the right time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They form a justified true belief about the time, but do not really know it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roderick Chisholm later offered a person who sees what looks like a sheep in a field.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is really a dog, but a genuine sheep happens to be out of sight elsewhere in the field.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In each case, luck breaks the link between justification and truth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fourth condition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gettier's paper set off decades of attempts to fix the definition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One proposal added a fourth condition: the belief must not be reasoned from anything false.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smith's reasoning depended on the false belief that Jones would get the job.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But critics found cases without obvious false steps, such as someone who looks at the one real barn in a district full of convincing fake barn fronts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The causal theory said the fact must cause the belief in the right way.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reliabilism said knowledge comes from reliable belief-forming processes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each approach handled some cases and stumbled on others.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1994, Linda Zagzebski argued that as long as justification can fall short of guaranteeing truth, a clever enough counterexample can always be built.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where things stand.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today there is no universally accepted definition of knowledge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Timothy Williamson at Oxford argues that knowledge cannot be broken into simpler parts and should be treated as a basic concept in its own right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others keep refining definitions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experimental philosophers have tested Gettier cases on people from different cultures and found that many share the intuition that these lucky believers lack knowledge, though how widely is still debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The puzzle has practical echoes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In science, journalism and everyday life we often reach correct conclusions for the wrong reasons.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being right and knowing why are not the same thing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Knowledge was long defined as justified true belief, because a lucky guess can be true without being knowledge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the purpose of the veil of ignorance?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To strip away bias so rules are fair from every position.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What makes the heap argument a paradox?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each step seems valid, yet the result is absurd.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is true belief alone not enough for knowledge?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A lucky guess can be true without being knowledge.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

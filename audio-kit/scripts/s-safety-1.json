@@ -1,0 +1,1314 @@
+{
+ "id": "s-safety-1",
+ "title": "First Aid & Safety · Episode 1",
+ "chapters": [
+  "CPR: how to save a life",
+  "Choking: back blows and chest thrusts",
+  "Stopping severe bleeding",
+  "Heart attack and stroke: spotting the signs"
+ ],
+ "units": [
+  {
+   "t": "First Aid & Safety. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: CPR: how to save a life, Choking: back blows and chest thrusts, Stopping severe bleeding and Heart attack and stroke: spotting the signs.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. CPR: how to save a life.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When someone's heart stops, the next few minutes decide everything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anyone can help, and doing something is always better than doing nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arrest and the action plan.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A heart attack is a blocked blood supply to the heart muscle; the person is usually awake and in pain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cardiac arrest is different: the heart's rhythm fails and it stops pumping, and the person collapses and stops breathing normally.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brain damage starts within minutes, and survival falls with every minute without CPR.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia only around one in ten people survive an out-of-hospital cardiac arrest, but prompt CPR and defibrillation by bystanders improve those odds greatly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ANZCOR action plan is DRSABCD.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check Danger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check Response.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Send for help: call Triple Zero, 000, use speaker, and send someone for a defibrillator.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Open the Airway.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check Breathing for up to 10 seconds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start CPR.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attach a Defibrillator when it arrives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gasping is not breathing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One big reason bystanders hesitate is uncertainty about breathing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the first minutes of cardiac arrest, many people make slow, irregular gasping or snoring sounds, called agonal breathing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can look like breathing, but it isn't effective, and it is a sign of cardiac arrest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ANZCOR guidance is clear: if the person is unresponsive and not breathing normally, start CPR.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't waste time searching for a pulse; it is unreliable even for trained people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you start CPR on someone who turns out not to need it, the risk of harm is low.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The risk of waiting is far higher.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compressions and breaths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kneel beside the person, on their back on a firm surface.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Place the heel of one hand on the lower half of the breastbone, other hand on top, arms straight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Press down about one third of the chest depth and let it fully rise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aim for 100 to 120 compressions a minute; the beat of 'Stayin' Alive' is about right.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ribs may crack.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep going: a broken rib heals, but a stopped heart doesn't restart on its own.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The standard ratio is 30 compressions then 2 rescue breaths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tilt the head back, lift the chin, pinch the nose, seal your mouth over theirs and blow for about a second, watching the chest rise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are untrained, unable or unwilling to give breaths, ANZCOR advises continuous compressions alone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defibrillators and children.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An automated external defibrillator, or AED, analyses the heart's rhythm and delivers a shock only if it detects a rhythm that can be corrected.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need training: switch it on and follow the spoken instructions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expose the chest, dry it if wet, stick the pads where pictured and stand clear when told.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resume CPR immediately afterwards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "AEDs are found in shopping centres, gyms, sporting clubs and workplaces, and using one within minutes can dramatically increase survival.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a child, use the heel of one or two hands; for an infant under one, two fingers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Press about one third of the chest depth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use paediatric pads if available, otherwise adult pads.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If others are there, swap every two minutes or so, and continue until the person responds, paramedics take over or you can't go on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't let fear stop you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people worry they will do it wrong or be sued.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Someone in cardiac arrest has no effective circulation, so your CPR can only improve their chances.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good Samaritan laws in the Australian states and territories generally protect people who help in good faith.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are unsure, call Triple Zero, 000: the operator will talk you through each step.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once the person starts breathing normally, place them in the recovery position and watch them closely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information, not a substitute for training.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A first aid course, ideally refreshed every year for CPR, gives you hands-on practice and the confidence to act.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In cardiac arrest the heart stops pumping, survival falls with every minute without CPR, and the Australian action plan is DRSABCD.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Choking: back blows and chest thrusts.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most people picture the Heimlich manoeuvre.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian first aid guidelines teach something different, and the reason is a surprising story about evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A silent emergency.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Movies make choking loud, but a person with a fully blocked airway usually can't speak, cough or breathe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They may clutch their throat, look panicked, and their lips and face may turn blue or grey.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain is starved of oxygen within minutes, so the response must be fast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choking is a risk at every age.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Toddlers explore with their mouths, and grapes, nuts, popcorn and hard lollies are common culprits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older adults are at risk too, especially when swallowing has weakened after a stroke or with conditions such as dementia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meat is a classic cause in adults.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coughing is good news.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The simplest test is whether the person can cough effectively.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A strong, noisy cough means air is still moving, and coughing is the body's best tool for clearing the airway.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Encourage them to keep coughing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't slap their back or give them water while they cough well.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stay with them and watch closely, because a partial blockage can become a complete one.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If coughing doesn't clear it, call Triple Zero, 000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A weak, silent or ineffective cough, difficulty breathing or an inability to speak signals a severe blockage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then you act and call for help at the same time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Back blows first.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under Australian guidelines from the Australian and New Zealand Committee on Resuscitation, ANZCOR, the first step for a conscious adult or child with severe choking is back blows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Call 000, or have someone else call.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stand slightly behind the person, support their chest with one hand and bend them well forward, so gravity helps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With the heel of your other hand, give a sharp blow between the shoulder blades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check after each blow whether the object has come out, rather than automatically delivering all five.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The aim is a sudden jolt that loosens the blockage so it falls forward out of the mouth, not deeper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then chest thrusts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If five back blows haven't cleared the airway, switch to chest thrusts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Support the person's back with one hand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place the heel of your other hand on the lower half of the breastbone, the same spot used for CPR, and push in sharply.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chest thrusts are slower and sharper than CPR compressions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each one squeezes a burst of air out of the lungs, like a cough you create for them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check after each thrust.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the blockage remains after five, go back to five back blows, and keep alternating until the object comes out, help arrives, or the person becomes unresponsive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heimlich and babies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1974 the American surgeon Henry Heimlich popularised abdominal thrusts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are still taught in places such as the United Kingdom and United States, though advice varies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ANZCOR's guideline says abdominal thrusts are not recommended, citing reports of life-threatening complications such as injured organs, and finds back blows and chest thrusts work with low risk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you live in Australia, learn the local method.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For babies under one, call 000 and lay the baby face down and head-down along your thigh or forearm, supporting the head and jaw.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Give up to five back blows, then turn them over for up to five two-finger chest thrusts, and keep alternating.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If anyone collapses and stops breathing normally, start CPR.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Severe choking is usually silent, because a fully blocked airway leaves no air to speak, cough or breathe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Stopping severe bleeding.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A person can lose a dangerous amount of blood in minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most powerful tool for stopping it is something everyone already owns: their hands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Minutes matter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An adult holds roughly five litres of blood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A wound to a major vessel in the arm, leg, neck or groin can bleed heavily enough to become life-threatening within minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paramedics are fast, but not always fast enough, so the person beside the injured one matters most.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bleeding is life-threatening if blood is spurting or pulsing, flowing steadily, pooling on the ground, or soaking through clothing and bandages.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First check for danger to yourself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then call Triple Zero, 000, or ask someone else to call while you act.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put the phone on speaker so the operator can coach you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Press hard.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian first aid guidelines are clear: direct pressure is usually the quickest and most effective way to stop bleeding.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Put a pad, such as folded cloth, gauze or a clean T-shirt, on the wound and press down hard with both hands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If nothing is available, use bare hands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Infection can be treated in hospital, but blood loss cannot be undone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lean in and use your body weight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep the pressure steady rather than lifting to check, because each peek can let a fragile clot break.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wear gloves if you have them, but don't waste time hunting for them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add, don't remove.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The instinct is to peel away a blood-soaked dressing and replace it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Resist it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Removing the first pad can tear away the clot forming underneath and restart the bleeding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place a second pad over the first and bind it firmly with a bandage, or keep pressing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Help the person lie down, especially if the bleeding is from a leg or is severe, and keep the injured part still.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lying down reduces the risk of fainting and helps blood reach the brain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If an object such as a knife or glass is stuck in the wound, leave it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It may be plugging the hole.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pad around it and press on the pads either side, then call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using a tourniquet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tourniquet is a tight band around an arm or leg, above a wound, that cuts off blood flow to the limb.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Old first aid courses taught people to fear them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Military experience, including in Iraq and Afghanistan, showed they save lives in catastrophic limb bleeding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian guidelines now say to use one for life-threatening limb bleeding that direct pressure cannot control, if one is available and you are trained.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Place it a short distance above the wound, not over a joint or the wound itself, following the product's instructions, and tighten until the bleeding stops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Note the time it was applied and tell paramedics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never loosen it yourself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shock and minor bleeds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even after bleeding is controlled, the body may struggle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shock is a dangerous drop in blood flow to the organs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Signs include pale, cold, clammy skin, a rapid weak pulse, fast breathing, anxiety, confusion and drowsiness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep the person lying down, reassure them and cover them to stop heat loss.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give no food or drink, since they may need surgery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If they become unresponsive and stop breathing normally, start CPR.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most bleeding is minor.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rinse small cuts, press with a clean cloth and cover.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a nosebleed, sit up, lean forward and pinch the soft part of the nose for at least ten minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tilting the head back is wrong, as blood runs down the throat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Severe bleeding can become life-threatening within minutes, so act while you call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Heart attack and stroke: spotting the signs.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Heart attacks and strokes are medical emergencies where every minute counts.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Recognising the warning signs, and calling for help fast, can save a life or prevent lifelong disability.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time is muscle.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A man feels heavy pressure in his chest while mowing the lawn and tells himself it is indigestion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A woman notices her husband's speech is slurred at dinner, but he says he is just tired.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scenes like these happen in Australian homes every day, and the delay can be devastating.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a heart attack, part of the heart muscle is starved of blood.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In most strokes, part of the brain is.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The longer the blockage lasts, the more tissue dies, so doctors say 'time is muscle' for the heart and 'time is brain' for strokes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern hospital treatments can open blocked vessels, but many work best when given early, which only happens if someone calls for help quickly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heart attack or arrest.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your heart muscle is fed by its own blood vessels, the coronary arteries.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over years, fatty plaque can build up inside them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a plaque cracks, a clot can form on top and block the artery.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The heart muscle beyond the blockage is starved of oxygen and begins to die.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors call this a myocardial infarction, or heart attack.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is different from a cardiac arrest, though the two are often confused.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a cardiac arrest, the heart's electrical rhythm goes haywire and it stops pumping effectively, so the person collapses, stops breathing normally and becomes unresponsive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A heart attack can trigger a cardiac arrest, which is one reason it must never be ignored or treated as something to wait out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heart attack: signs and action.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Heart Foundation describes warning signs such as pain, pressure, heaviness or tightness in the chest, which may spread to the arm, shoulder, neck, jaw or back.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others include shortness of breath, nausea, a cold sweat and feeling light-headed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Women, older people and people with diabetes may have less typical symptoms, such as unusual tiredness or breathlessness.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms can come and go.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have warning signs, stop and rest.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If they are severe, get worse quickly or last longer than 10 minutes, call Triple Zero, 000, for an ambulance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do not drive yourself, because paramedics can start treatment straight away.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Follow the operator's advice, including any about aspirin.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the person collapses and is not breathing normally, start CPR and send for a defibrillator.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Untrained bystanders can use one by following its spoken instructions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stroke and F.A.S.T.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most strokes are ischaemic, caused by a clot or plaque blocking an artery to the brain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others are haemorrhagic, where a blood vessel bursts and bleeds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, brain cells lose oxygen and die.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers estimate that in a typical large stroke the brain can lose close to two million nerve cells every minute without treatment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hospitals can now dissolve or remove many clots, but only if the person arrives quickly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Stroke Foundation's F.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "S.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "test is a simple check.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Face: has the mouth drooped?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arms: can they lift both?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speech: is it slurred?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time: if you see any sign, call Triple Zero, 000, straight away.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other signs include sudden one-sided weakness, vision loss, dizziness or a severe headache.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Note when symptoms began.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give no food or drink, and stay with them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mini strokes and prevention.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes stroke symptoms appear and then disappear within minutes or hours.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is often a transient ischaemic attack, or TIA, sometimes called a mini stroke.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can be a warning that a major stroke may follow, so it needs urgent medical attention even if the person feels fine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For both heart attack and stroke, many risk factors can be reduced: high blood pressure, high cholesterol, smoking, diabetes, physical inactivity, excess weight and heavy drinking.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular health checks with a GP help find problems early.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information, not medical advice.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For more, see the Heart Foundation, the Stroke Foundation and healthdirect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In an emergency, always call Triple Zero, 000, and consider a first aid course, which teaches CPR and defibrillator use hands on.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In heart attacks and strokes, delay causes damage, so calling for help quickly matters more than anything.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does cardiac arrest differ from a heart attack?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Arrest stops the heart pumping; an attack blocks blood supply.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is severe choking often silent?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. No air can pass, so they can't speak or cough.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does the person next to an injured person matter most in severe bleeding?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Help may not arrive before the blood loss is critical.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why do doctors say 'time is muscle' for heart attacks?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Heart muscle dies the longer a blockage lasts.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

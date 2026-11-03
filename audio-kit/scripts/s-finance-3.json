@@ -1,0 +1,1182 @@
+{
+ "id": "s-finance-3",
+ "title": "Financial Literacy · Episode 3",
+ "chapters": [
+  "Superannuation explained",
+  "Super housekeeping: find, combine and check your fund",
+  "Insurance without the confusion",
+  "Income protection: insuring your pay"
+ ],
+ "units": [
+  {
+   "t": "Financial Literacy. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Superannuation explained, Super housekeeping: find, combine and check your fund, Insurance without the confusion and Income protection: insuring your pay.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Superannuation explained.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It's probably your second-biggest asset after a home, and most people barely look at it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ten minutes here could be worth tens of thousands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What super is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Superannuation, or super, is money set aside during your working life and invested to support you in retirement.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It became compulsory for most employees in 1992, and Australia's system now holds more than $4 trillion, one of the largest retirement savings pools in the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your employer must pay a percentage of your ordinary earnings into your fund on top of your wages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This Super Guarantee rose to 12% on 1 July 2025.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a $70,000 salary, that is $8,400 a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your payslips and fund account to confirm it is arriving, and report unpaid super to the ATO.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Self-employed people aren't covered, so they make their own contributions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it grows.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your super isn't sitting in a bank account.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your fund invests it in a mix of Australian and international shares, property, infrastructure, bonds and cash.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people stay in their fund's default 'balanced' or 'growth' option, often a MySuper product.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the money stays invested for 40 years or more, compounding does enormous work: much of your final balance comes from investment returns, not from contributions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Balances will fall in some years when markets drop, but this is a very long game, and the simple idea is small amounts, invested steadily, growing into a large sum.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because it is locked away until retirement, it is also protected from being spent early.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fees matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fees are charged as a dollar amount, a percentage of your balance, or both.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A difference of just 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5% or 1% a year sounds tiny.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over a working lifetime, though, it can mean tens of thousands of dollars less in retirement, because fees compound just as returns do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ATO's free YourSuper comparison tool lets you compare MySuper products by fees and past returns.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The regulator, APRA, also tests these products each year, and funds that fail the performance test must tell their members.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare your fund against others at least occasionally, rather than leaving it untouched for decades.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One fund, with cover.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people end up with several super accounts from different jobs, each charging fees and often insurance premiums.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 2021, your existing fund is generally 'stapled' to you and follows you to new jobs, which helps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Link the ATO to your myGov account to find all your accounts, including lost super, and consolidate them online in minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most funds automatically include life cover, paid to your beneficiaries, total and permanent disability cover and sometimes income protection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Premiums come out of your balance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can be good value, but check the amounts suit you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before closing an account, check whether it holds insurance you want, as that cover ends when the account closes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nominate your beneficiaries too; a binding nomination gives more certainty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tax perks and access.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Super is taxed lightly to encourage saving.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Employer contributions are generally taxed at 15%, below most people's income tax rate, and investment earnings are generally taxed at no more than 15%, though extra tax is planned for very large balances.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can add extra through salary sacrifice or personal contributions you claim as a tax deduction, up to an annual cap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower-income earners may qualify for government co-contributions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can generally access super once you reach preservation age, 60 if born on or after 1 July 1964, and retire, or at 65 even if you keep working.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early access is allowed only in narrow cases such as severe financial hardship.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of anyone offering early release; illegal schemes bring heavy penalties.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the ATO website for current limits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Super is money set aside from your pay and invested for retirement, and your employer must add to it on top of your wages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Super housekeeping: find, combine and check your fund.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Many Australians have super scattered across funds they barely remember, each quietly charging fees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A once-a-year check-up can tidy it up, but there are traps to look out for before you hit 'combine'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The scattered super problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture someone who worked at a café, then a retail chain, then an office.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the rules changed, each employer could open a new default super account.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each one may charge administration and investment fees, and sometimes insurance premiums, nibbling at small balances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since late 2021, stapling means your existing fund generally follows you to a new job unless you choose otherwise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But old accounts don't vanish by themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The quickest way to see them all is myGov, with the ATO linked: it lists every account in your name, plus lost super and unclaimed super held by the ATO.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check insurance first.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is the trap that catches people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many super accounts include default insurance: cover if you die or become totally and permanently disabled, and sometimes income protection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you roll an account into another fund, the old cover normally ends.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If your health has changed since you joined, you may struggle to get equivalent cover elsewhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before consolidating, download the insurance details for each account and compare the type of cover, the amounts and the cost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cover in an account that has stopped receiving contributions can also be switched off after a period of inactivity unless you ask to keep it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide deliberately, rather than letting a rollover decide for you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep, or combine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Defined benefit funds, common in older public sector and some corporate schemes, calculate your benefit by formula rather than balance, so leaving can mean giving up valuable entitlements.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some employers also pay into a specific fund with cheaper fees or tailored insurance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Funds can no longer charge exit fees, but investments may be sold and re-bought during a transfer, and your money can be out of the market for a few days.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once you have chosen a fund, select the accounts and the receiving fund in myGov, and the request is sent electronically.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Transfers take days to weeks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check that old accounts show zero, tell your employer which fund to use, and avoid anyone charging to 'find your lost super'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The official tools are free.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is your fund any good.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A single account is tidy, but it should also be a good one.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ATO's YourSuper comparison tool ranks MySuper products, the default options most people are in, by fees and net returns over several years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under the annual performance test, products that underperform a benchmark must write to their members to say so, and repeat failures can be closed to new members.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you get one of those letters, take it seriously.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare long-term returns after fees, not one good year, and check that the investment mix suits how long you have until retirement.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fees that look small as a percentage can add up to a large sum over decades, thanks to the same compounding that grows your balance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beneficiaries and check-ups.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Super is generally held in trust, so it does not automatically follow your will.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most funds let you nominate who receives your balance and any insurance payout if you die.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A valid binding nomination generally directs the trustee to pay the people you name, while a non-binding one is only a guide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some binding nominations lapse after a set period unless renewed, and marriage, separation or a new child can make an old nomination wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Set a yearly reminder to check contributions, fees, insurance, investment option and beneficiaries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moneysmart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au has plain-language guides to every step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Old super accounts keep charging fees, so it pays to find them even though stapling now slows new duplicates.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Insurance without the confusion.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most of us pay for insurance for years without reading a word of the policy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how it actually works, and how to avoid a nasty surprise at claim time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pooling and priorities.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thousands of people each pay a small, predictable premium into a pool.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In any year, only a few suffer a big loss, like a house fire or serious car crash, and the pool pays.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insurers use statistics to set premiums and add costs and profit, so on average customers pay in more than they get back.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's fine: you're buying protection, not an investment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The golden rule is to insure what you can't afford to lose: your house, a year of income, or liability for injuring someone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Extended warranties and insurance on cheap items such as phones are often poor value, because Australian Consumer Law already gives you a repair, replacement or refund for major faults.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An emergency fund lets you 'self-insure' small losses and choose higher excesses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cover for you.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Medicare gives free public-patient treatment in public hospitals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Private hospital cover lets you choose your doctor, and extras cover pays towards dental and physio.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2019, hospital policies are grouped as Gold, Silver, Bronze and Basic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Medicare Levy Surcharge taxes higher earners without appropriate hospital cover, and Lifetime Health Cover adds 2% to premiums for each year over 30 before you first join, up to 70%, removed after ten continuous years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your income is often your biggest asset.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Income protection commonly pays up to around 70% of income if illness or injury stops you working.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Life cover pays your beneficiaries a lump sum; total and permanent disability, TPD, cover pays if you can never work again; trauma cover pays on diagnosis of serious illness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Super funds often provide some by default, but premiums reduce your balance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cover for your things.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Home building insurance covers the structure; contents covers your belongings, and renters usually need only contents.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check whether flood, storm and bushfire are covered, as these matter hugely in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For cars, Compulsory Third Party, CTP, insurance, generally tied to your registration, covers injuries you cause to other people, but not damage to cars or property.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Third-party property cover pays for damage you do to other people's cars and property.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adding fire and theft covers your own car for those events, and comprehensive cover also pays for damage to your own car.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crashing into a luxury car without property cover can be very costly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Excess and premium.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The excess is the amount you pay out of your own pocket when you make a claim.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If your car repair costs $4,000 and your excess is $800, the insurer pays $3,200.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing a higher excess usually lowers your premium, which can make sense if you have savings to cover it and rarely claim.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some policies have different excesses for different situations, such as young or unlisted drivers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Premiums also depend on your address, claims history and what's being insured.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't just auto-renew.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Premiums often rise each year, so compare at renewal and ask your current insurer for a better price.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fine print and gaps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every policy has a Product Disclosure Statement, PDS, and home insurance also has a shorter Key Facts Sheet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few minutes on the right sections can save thousands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check exclusions, limits such as caps on jewellery or laptops, and definitions like 'flood'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Answer questions honestly, because misleading information can void a claim.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the insurer's complaints process fails, the Australian Financial Complaints Authority, AFCA, offers a free dispute service.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being underinsured means your cover can't replace what you lose.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After bushfires and floods, many households found their sum insured couldn't cover a rebuild, as costs had risen or demolition and code upgrades weren't counted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use a building cost calculator, tally contents room by room, and review cover yearly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only; talk to a licensed adviser.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Insurance pools many people's premiums to pay large losses, so insure what you couldn't afford to lose and self-insure the rest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Income protection: insuring your pay.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your ability to earn may be worth more than your house or car, yet many people insure those and not their income.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how income protection works, and the questions to ask before you buy or keep it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insuring your pay.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask people for their most valuable asset and they name their home or car.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But for a working adult, the pay they expect to earn over coming decades is often worth far more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Illness or injury that stops you working for months can drain savings fast while bills keep arriving.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Income protection pays a regular monthly benefit while you can't work because of a covered illness or injury.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It replaces only part of your income, commonly up to around 70 percent in many current policies, which keeps an incentive to return to work.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It differs from life insurance, which pays on death, and total and permanent disability cover, which pays a lump sum.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Definitions of being unable to work vary, so read the product disclosure statement.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waiting and benefit periods.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two choices shape both the cost and usefulness of a policy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The waiting period is how long you must be unable to work before benefits start, often 30, 60 or 90 days, or longer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A longer wait usually means a cheaper premium, which can suit you if you have sick leave or an emergency fund to bridge the gap.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The benefit period is how long payments can continue once they start, such as two years, five years or until a set age.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Longer periods cost more but protect against long-term illness, which does the most financial damage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think about how long your savings and leave could realistically carry you, then compare combinations.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside or outside super.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people already have income protection through their super fund without realising it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check your fund's website or annual statement.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cover inside super is paid from your super balance, which spares your weekly budget but reduces your retirement savings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It often has shorter benefit periods and stricter definitions than standalone policies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Default cover can be switched off if your account has been inactive for a period, or for some younger members and low balances, unless you opt in.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A standalone policy, bought directly or through an adviser, can usually be tailored more closely.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can hold both, but benefits may be offset so you can't claim more than the limits allow.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare before you add or cancel anything.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tax and premiums.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tax treatment surprises some people.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you pay premiums for income protection held outside super, the ATO generally lets you claim them as a deduction, because the policy replaces taxable income.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The flip side is that benefit payments are generally taxable income too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Premiums paid from within super aren't claimed in your personal return.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a policy bundles income protection with other cover, such as life insurance, only the income protection part is usually deductible, and your insurer should show the split.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Premiums can be stepped, rising with age, or level, starting higher but rising more slowly.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both generally increase over time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the ATO website for the rules that apply to you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Disclosure and other safety nets.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When applying, you'll be asked about your health, job, income and lifestyle.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Answer fully and honestly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under Australian law you must take reasonable care not to make a misrepresentation, and inaccurate answers can let the insurer reduce a payout, refuse a claim or cancel the policy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get quotes from more than one insurer or speak to a licensed adviser, and compare disability definitions, benefit amounts, waiting and benefit periods and exclusions, not just price.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Income protection is one layer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paid personal leave covers short absences.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Workers compensation may cover work-related injury or illness.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Services Australia income support is means-tested and usually far below a working wage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing where these end helps you choose how much private cover makes sense.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Income protection replaces part of your income, typically a monthly benefit of up to about 70 percent, if illness or injury stops you working.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the Super Guarantee require employers to do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Add a share of your pay to super on top of wages.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does 'stapling' mean in Australian super?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Your fund usually follows you to a new job.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the golden rule for deciding what to insure?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Insure losses you couldn't afford to cover yourself.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How does income protection differ from life insurance?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It replaces part of your pay when you can't work.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

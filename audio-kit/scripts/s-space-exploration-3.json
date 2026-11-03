@@ -1,0 +1,845 @@
+{
+ "id": "s-space-exploration-3",
+ "title": "Space Exploration · Episode 3",
+ "chapters": [
+  "Voyager: the longest journey",
+  "Mars: the red frontier",
+  "Planetary defence: dodging asteroids"
+ ],
+ "units": [
+  {
+   "t": "Space Exploration. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Voyager: the longest journey, Mars: the red frontier and Planetary defence: dodging asteroids.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Voyager: the longest journey.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two spacecraft launched in 1977 with a tiny fraction of a modern smartphone's computing power are still talking to Earth from interstellar space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A once-in-175-years chance.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s, NASA engineer Gary Flandro noticed that in the late 1970s Jupiter, Saturn, Uranus and Neptune would line up in a way that happens only about once every 175 years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A spacecraft could fly past one planet and use its gravity to slingshot towards the next, saving years of travel and enormous amounts of fuel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This 'gravity assist' turned an impossible grand tour into a practical one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA built two identical spacecraft, Voyager 1 and Voyager 2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Confusingly, Voyager 2 launched first, on 20 August 1977, followed by Voyager 1 on 5 September.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voyager 1 was on a faster path, so it overtook its twin and reached Jupiter first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Revealing new worlds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the Voyagers, the giant planets' moons were little more than dots of light.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At Jupiter in 1979, the probes found active volcanoes on the moon Io, the first ever seen beyond Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They imaged Europa's cracked icy crust, hinting at an ocean beneath, and found thin rings around Jupiter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Saturn in 1980 and 1981 they revealed intricate structure in the rings and studied the hazy moon Titan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voyager 1 was then bent up and out of the plane of the planets for a close look at Titan.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Voyager 2 carried on alone, becoming the only spacecraft ever to visit Uranus, in 1986, and Neptune, in 1989.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pale Blue Dot, golden record.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 14 February 1990, at the urging of astronomer Carl Sagan, Voyager 1 turned its camera back towards home from about six billion kilometres away.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth appears as a speck less than a pixel wide, suspended in a beam of sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The photo became famous for its perspective, not its detail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon afterwards the cameras were switched off for good to save power.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each Voyager also carries a gold-plated copper record, with contents chosen by a committee chaired by Sagan.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It holds greetings in 55 languages, sounds of rain, surf, whales and a mother's kiss, 115 images, and music from Bach to Chuck Berry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cover shows how to play it and the Sun's position among pulsars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finding it is very unlikely; it is partly a message to ourselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Into interstellar space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Sun blows a constant stream of charged particles, the solar wind, which inflates a vast bubble around the solar system called the heliosphere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its outer boundary, the heliopause, is where the solar wind gives way to the thin gas between the stars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In August 2012 Voyager 1 crossed that boundary, becoming the first human-made object to reach interstellar space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Voyager 2 crossed in November 2018.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neither has left the solar system in every sense, because the Sun's gravity still rules a region far beyond, including the Oort Cloud of comets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voyager 1 is now more than 24 billion kilometres away, so far that its radio signals take nearly a full day to reach us.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kept alive from Canberra.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each Voyager runs on generators that turn the heat of decaying plutonium into electricity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Output drops by a few watts a year, so engineers have switched off heaters and instruments one by one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The transmitters use roughly the power of a refrigerator light bulb.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023 Voyager 1 began sending gibberish because of a failed memory chip.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small team spent months diagnosing it from over 20 light-hours away, moved the affected code elsewhere, and restored contact in 2024.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After Neptune, Voyager 2 was flung south, out of view of the Deep Space Network's stations in California and Spain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only the 70-metre dish at Tidbinbilla near Canberra can send it commands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When that dish was offline for upgrades in 2020, Voyager 2 could be heard but not commanded for months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A rare lineup of the outer planets let one spacecraft swing from planet to planet, using each one's gravity as a slingshot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Mars: the red frontier.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Mars once had rivers and lakes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today it's a freezing desert patrolled by robots, and the most likely destination for humans beyond the Moon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small red world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mars is the fourth planet from the Sun and about half Earth's diameter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its surface gravity is about 38% of ours, so a 70-kilogram person would feel like they weighed about 27 kilograms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Martian day, called a sol, lasts about 24 hours and 40 minutes, remarkably close to our own, but a Martian year takes 687 Earth days.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its red colour comes from iron oxide, essentially rust, in its dust and rocks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It has two small, lumpy moons, Phobos and Deimos, which may be captured asteroids.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Harsh and giant.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mars is harsh.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its air pressure is less than 1% of Earth's, and it is mostly carbon dioxide, too thin to breathe or to keep liquid water stable for long.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The average temperature is around −60°C, though a summer afternoon near the equator can briefly rise above 0°C.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With no global magnetic field, harmful radiation reaches the ground.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dust storms are common, and some grow to cover almost the whole planet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Olympus Mons, the largest known volcano, is about 22 kilometres high, two and a half times Mount Everest.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Valles Marineris stretches about 4,000 kilometres, nearly as long as Australia is wide, and plunges up to 7 kilometres deep.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower gravity and no moving tectonic plates let volcanoes grow for ages over the same hot spots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Robot explorers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mariner 4 sent back the first close-up photos in 1965, showing a cratered surface.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Viking landers tested soil for life in 1976; most scientists read the results as inconclusive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004 Spirit and Opportunity were planned to last about 90 sols; Opportunity worked over 14 years and drove over 45 kilometres before a dust storm ended it in 2018.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curiosity, car-sized and nuclear-powered, landed in Gale Crater in 2012 via a rocket-powered 'sky crane'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It confirmed the crater once held a lake that could have supported microbes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perseverance landed in Jezero Crater, an ancient river delta, in 2021 and has sealed rock samples in tubes, but NASA's Mars Sample Return plan lost its funding in early 2026, so no mission is approved to bring them home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its helicopter Ingenuity made the first powered flight on another planet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The water story.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Orbiters and rovers have found dried riverbeds, ancient deltas, lakebed sediments and minerals that only form in water, strong evidence that liquid water flowed on Mars billions of years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The planet may have had a thicker atmosphere then, before much of it was stripped into space.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, most of its water is frozen.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The polar caps contain water ice topped seasonally by carbon dioxide frost, and ice lies buried beneath large areas of the surface.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2008 NASA's Phoenix lander scraped up and confirmed water ice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether small amounts of liquid water exist today is still debated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Getting humans there.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth and Mars line up favourably about every 26 months, so launch windows are limited.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A trip takes around six to nine months each way, and crews would likely wait a year or more for the planets to realign, making a round mission two to three years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Radio messages take 3 to 22 minutes each way, so real-time help isn't possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other challenges include radiation, landing heavy loads in thin air, toxic perchlorate salts in the soil and isolation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carrying everything from Earth is too expensive, so planners want to 'live off the land'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Perseverance's toaster-sized MOXIE experiment made oxygen from Martian carbon dioxide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buried ice could provide water and, combined with carbon dioxide, methane rocket fuel.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Timelines have slipped, and most experts expect a landing at least a decade away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Mars is about half Earth's width with 38% of its gravity, a day almost like ours, and a rusty red surface.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Planetary defence: dodging asteroids.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The dinosaurs had no space program.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We do, and in 2022 humanity knocked an asteroid off course for the very first time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth is still hit.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tonnes of space dust and small rocks fall on Earth every day, mostly burning up as shooting stars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Larger impacts are rarer but real.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 66 million years ago an asteroid roughly ten kilometres wide struck near Mexico's Yucatán Peninsula, and the resulting global catastrophe wiped out the non-bird dinosaurs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Impacts on that scale are thought to happen only every hundred million years or so.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smaller ones are far more frequent and can still devastate a city or region.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The good news is that, of all natural disasters, an asteroid impact is the only one we can, in principle, see coming years ahead and prevent entirely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is the job of planetary defence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tunguska and Chelyabinsk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 30 June 1908, something exploded in the air above Tunguska in Siberia, flattening an estimated 80 million trees across about 2,000 square kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most scientists think it was a stony asteroid or comet fragment perhaps 50 to 60 metres across.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The area was so remote that very few people were hurt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 15 February 2013, a rock about 20 metres wide burst over the Russian city of Chelyabinsk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its blast wave arrived well after the flash, shattering windows across the city, and about 1,500 people were injured, mostly by flying glass.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many had rushed to windows to look.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experts now advise treating a very bright fireball like lightning: move away from windows and wait for the boom.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Such events are extremely rare.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If anyone is injured, call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watching the skies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since the 1990s, telescopes have systematically scanned the sky for near-Earth objects, asteroids and comets whose orbits bring them close to ours.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surveys such as Catalina, Pan-STARRS and ATLAS photograph the sky night after night, looking for moving dots, and astronomers then calculate each orbit decades ahead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists believe more than 90 percent of near-Earth asteroids larger than a kilometre, the kind that could cause global disaster, have been found, and none poses a known threat for at least the next century.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smaller objects, still big enough to destroy a city, are far less complete.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New facilities, including the Vera C.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rubin Observatory in Chile and planned space telescopes, should find many more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "False alarms and Apophis.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When an asteroid is first spotted, its path is uncertain, like predicting where a thrown ball will land from a split-second glimpse.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes Earth falls inside the early range of possibilities, so the odds look worrying, then drop to zero as observations accumulate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004 the asteroid Apophis, about 340 metres wide, briefly showed a chance of nearly 3 percent of hitting Earth in 2029.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Further tracking ruled out any impact in 2029 and for at least the next century.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, on 13 April 2029 it will pass within about 32,000 kilometres of Earth, closer than many communications satellites, and may be visible to the naked eye from parts of the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In early 2025, asteroid 2024 YR4 followed a similar pattern before being ruled out as a threat to Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "DART: the first nudge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finding a dangerous asteroid is only half the problem; we also need a way to move it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The simplest idea is a kinetic impactor: hit it hard with a spacecraft, years ahead, so a tiny change in speed grows into a miss by the time it reaches Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA's Double Asteroid Redirection Test, or DART, tried this on a harmless target.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dimorphos is a moonlet about 160 metres wide, orbiting a larger asteroid called Didymos.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 26 September 2022, DART slammed into it at over 20,000 kilometres per hour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dimorphos had orbited Didymos in about 11 hours and 55 minutes; afterwards its orbit was about 32 minutes shorter, far more than the minimum mission goal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The European Space Agency's Hera mission is following up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Space rocks strike Earth all the time, and an asteroid impact is the one natural disaster we could see coming years ahead and prevent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What made the Voyagers' grand tour of the outer planets practical?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A rare planetary lineup allowing gravity assists.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is Mars red?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its dust and rocks contain iron oxide, or rust.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is an asteroid impact unlike other natural disasters?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It can be seen coming years in advance.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,610 @@
+{
+ "id": "s-cyber-2",
+ "title": "Cybersecurity · Episode 2",
+ "chapters": [
+  "Backing up: never lose your photos again",
+  "Hacking: myth and reality"
+ ],
+ "units": [
+  {
+   "t": "Cybersecurity. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Backing up: never lose your photos again and Hacking: myth and reality.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Backing up: never lose your photos again.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1998, a single command wiped out most of Pixar's Toy Story 2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What saved the film was a backup nobody knew existed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even experts lose data.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1998, while Pixar was making Toy Story 2, someone ran a command that began deleting the film's files from the shared drives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Characters, sets and animation disappeared as staff watched.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The studio's regular backups turned out not to be working properly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The film was rescued because technical director Galyn Susman, working from home after having a baby, had a fairly recent copy on her home computer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was carefully driven back to the studio and most of the work was restored.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Data vanishes in ordinary ways: a phone dropped in the surf, a stolen laptop, a drive that quietly fails, an accidental delete, a fire or flood.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every drive eventually fails.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question is not whether something will go wrong, but whether you will lose anything when it does.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 3-2-1 rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A widely quoted rule of thumb, popularised by photographer Peter Krogh, is 3-2-1.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep at least three copies of anything important: the original plus two backups.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Store them on at least two different kinds of storage, such as your computer's internal drive and an external drive, so one type of failure cannot take them all.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep at least one copy offsite, somewhere physically separate, so a fire, flood or burglary at home leaves something behind.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today that is usually a cloud backup service, but a drive kept at a relative's house or your workplace also counts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is not magic, but it makes you think about every way your data could be destroyed at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A copy out of reach.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people assume their files are safe in iCloud, Google Drive, OneDrive or Dropbox.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of these are built mainly to sync, keeping files identical across devices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a deleted folder or overwritten document can spread to every device within seconds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many keep deleted files and older versions for a limited time, so learn how long and how to restore them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ransomware is software that encrypts your files and demands payment, often in cryptocurrency, for the key.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paying guarantees nothing and funds criminals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A drive that is permanently plugged in can be encrypted too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a backup drive unplugged except during backups, or use a cloud service that keeps older versions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Cyber Security Centre lists regular backups among its essential strategies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phones and photos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For many people the irreplaceable files are photos and videos of children, travels and people who are no longer here.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most now live on a phone, which is easy to lose, drop or break.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "iPhones and Android phones can both back up automatically to the cloud, but the free storage is often small.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once it fills up, backups can silently stop.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your phone's settings to see when it last backed up successfully.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paying a few dollars a month for more storage is cheap insurance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every so often, download your photo library to a computer or external drive as well, so your memories do not depend on a single company or account login.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test it, then automate it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pixar's backups were running, or so everyone thought, until the day they were needed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every few months, pick a random file or photo and try to recover it from each backup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check that it opens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make sure you know your cloud password and have two-factor authentication sorted, or your backup may be locked behind a login you cannot remember on the day your phone is lost.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody remembers to copy files by hand every week, so automate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn on automatic phone backups, use Time Machine on a Mac or File History on Windows with an external drive, and add a cloud service for the offsite copy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with photos, important documents and tax records.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any backup is infinitely better than none.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Data is lost through ordinary accidents and failures, even at world-class studios, so it can happen to you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Hacking: myth and reality.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Forget the hoodie in a dark room typing green code.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real hacking is often slower, stranger and much more human than the movies suggest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hackers and their hats.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word 'hacker' began as praise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1950s and 1960s, members of a model railway club at the Massachusetts Institute of Technology used 'hack' for a clever, playful technical solution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only in the 1980s, as computers spread and break-ins made headlines, did it come to mean someone who enters systems without permission.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Security people now borrow hat colours from old Western films.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "White hats test systems with permission and help fix weaknesses; many are penetration testers, paid to attack an organisation's defences before criminals do.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Black hats break in illegally for money, data, disruption or bragging rights.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grey hats probe without permission but report the flaw rather than exploit it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even then, unauthorised access to a computer is a crime in Australia under Commonwealth and state laws.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easy doors, many attackers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real attacks are rarely feats of genius.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Criminals use automated tools to scan the internet for computers running outdated software with publicly known flaws, then exploit the ones that haven't been patched.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others use leaked passwords, cloud storage left open to the world, or accounts without multi-factor authentication.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 'zero-day' is a flaw the software maker doesn't know about, so no fix exists.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are rare and valuable, and mostly used by well-resourced groups, including some linked to governments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attackers range from opportunists with ready-made tools, to organised gangs, to state-linked groups pursuing espionage or disruption, to hacktivists with political aims.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian Signals Directorate defends against serious cyber threats and publishes an annual cyber threat report.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hacking people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Often the easiest way into a system is through a person.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Social engineering means manipulating people into handing over access or information.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Examples include a phishing email, a phone call pretending to be IT support, a fake courier who tailgates staff through a secure door, or a USB stick left in a car park labelled 'salaries'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The American hacker Kevin Mitnick, once among the FBI's most wanted, became famous for talking his way into systems rather than cracking code.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He later worked as a security consultant.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technology can't fully fix this problem, which is why training people to pause and verify matters so much.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ransomware threat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ransomware is malicious software that encrypts an organisation's files, then demands payment, usually in cryptocurrency, for the key.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many gangs also steal data first and threaten to publish it, called double extortion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some operate like businesses, with specialists, customer support for paying victims, and affiliates who rent their ransomware.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017 the WannaCry attack spread worldwide within days and disrupted parts of Britain's National Health Service.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hospitals, councils, schools and businesses of all sizes are targets.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paying guarantees nothing and funds further crime, so governments generally advise against it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2025, many Australian businesses must report ransom payments to the government.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Offline backups are the best defence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defenders and bounties.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The good news is that most attacks target easy weaknesses, so basic hygiene defeats many of them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep devices and apps updated, use unique passwords or passkeys, turn on multi-factor authentication, and keep a backup that isn't permanently connected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be sceptical of unexpected messages and verify requests independently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Companies also invite hackers to help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bug bounty programs reward anyone who finds a security flaw and reports it privately, so it can be fixed before criminals find it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Netscape ran one of the first in 1995, and payouts for serious flaws can now reach tens or hundreds of thousands of dollars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If hacking fascinates you, learn legally through capture-the-flag competitions, practice labs and TAFE or university courses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The word 'hacker' began as praise for clever tinkering, and hat colours now separate permission from crime.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the Toy Story 2 story show about backups?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Even top studios can nearly lose everything.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What makes a hacker a 'white hat'?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They test systems with permission.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 2,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

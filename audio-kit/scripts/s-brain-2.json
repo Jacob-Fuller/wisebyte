@@ -1,0 +1,893 @@
+{
+ "id": "s-brain-2",
+ "title": "The Brain · Episode 2",
+ "chapters": [
+  "Dopamine, serotonin and friends",
+  "Why we dream",
+  "The mystery of consciousness"
+ ],
+ "units": [
+  {
+   "t": "The Brain. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Dopamine, serotonin and friends, Why we dream and The mystery of consciousness.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Dopamine, serotonin and friends.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Pop culture calls dopamine the 'pleasure chemical' and serotonin the 'happy chemical'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The truth is more interesting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Messengers, not labels.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neurotransmitters carry signals between neurons across tiny gaps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hormones travel through the blood to distant organs, over seconds to days.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some, like adrenaline, act as both.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each chemical affects many systems, depending on which receptors and brain regions are involved; dopamine alone has five main receptor types.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So labels like 'the happy chemical' are misleading.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You also can't measure your brain's levels with a blood test.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, a few key players help explain motivation, mood, stress and how many medicines and drugs work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dopamine and serotonin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research by Kent Berridge and others suggests dopamine is more about wanting than liking: motivation, anticipation and learning which actions bring rewards.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its neurons fire when a reward beats expectations and dip when it falls short.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unpredictable rewards, like slot machines or notifications, tap this system powerfully.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dopamine loss in Parkinson's disease affects movement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 90% of the body's serotonin is in the gut, where it helps regulate digestion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It affects mood, sleep and appetite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea that depression is simply low serotonin is now considered too simple; a widely publicised 2022 review found no consistent evidence for it, though some researchers disputed how it was reported.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antidepressants help many people, probably through more complex effects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide on medication with a doctor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bonding and stress.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oxytocin is made in the hypothalamus and released by the pituitary.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It triggers contractions in childbirth and milk release, and is involved in bonding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it's no simple 'love hormone': some studies found it can increase closeness to one's own group while increasing defensiveness towards outsiders, and early findings that nasal sprays boost trust haven't reliably replicated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a threat, adrenaline rapidly raises heart rate and breathing and sharpens alertness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cortisol, released more slowly by the adrenal glands, raises blood sugar and helps you cope over hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It normally peaks soon after waking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both are life-saving in short bursts, but chronic stress is linked to poor sleep, weakened immunity, weight gain and higher risk of heart disease and depression.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Endorphins and melatonin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Endorphins are the body's own opioids, released during injury, intense exercise and laughter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They help explain why people sometimes feel little pain right after a serious injury.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 'runner's high' was long credited to endorphins, though endocannabinoids also play a big role.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opioid drugs like morphine act on the same receptors, which is why they relieve pain so powerfully and can be addictive and dangerous in overdose.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melatonin comes from the pineal gland and is controlled by a master clock in the hypothalamus that responds to light.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It rises as darkness falls and drops in the morning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bright, blue-rich light at night can suppress it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is mainly used for jet lag and sleep timing problems.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia it is a pharmacy or prescription medicine, so ask a pharmacist or GP.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond the myths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Popular advice promises to boost or reset one chemical, from 'dopamine detox' to foods that raise serotonin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brain chemistry doesn't work that simply, and there is little evidence for most such claims.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The principles behind them can still be sensible.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cutting back on constant notifications can make everyday activities feel more rewarding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regular exercise, daylight, good sleep and time with people you care about all support mood and stress resilience.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If low mood, anxiety or stress persists for weeks, talk to a GP, who can discuss options including therapy and medication.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Brain chemicals work through many receptors, so labels like 'happy chemical' mislead.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Why we dream.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You spend about six years of your life dreaming.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists still debate why, but they've learned a lot about how.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catching REM.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1950s, Eugene Aserinsky, a student in Nathaniel Kleitman's Chicago sleep lab, wired sleepers to an old brainwave machine, starting with his eight-year-old son, Armond.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Several times a night the pens traced bursts of rapid, jerky eye movements while the brain looked almost awake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He first suspected a faulty machine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1953 he and Kleitman published their discovery of rapid eye movement, or REM, sleep.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few years later William Dement woke volunteers at different moments.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roused from REM, most described vivid dreams; at other times, far fewer did.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dreams do occur outside REM, but they tend to be shorter and less story-like.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forgotten and familiar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people dream several times a night but remember few dreams.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brain chemistry during sleep, including low noradrenaline, seems to make storing dreams hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waking during or just after a dream helps recall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Writing dreams down immediately, lying still with eyes closed for a moment, and intending to remember all improve it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologist Calvin Hall began systematically cataloguing dream reports in the mid-20th century, and his coding system is still used.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dreams are less bizarre than we assume: they often feature familiar people and places and recent worries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear, anxiety and frustration are common.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being chased, falling, flying and being unprepared for an exam recur across cultures.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading in dreams is often difficult and unstable, perhaps because language areas work differently in REM.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why we dream.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sigmund Freud's The Interpretation of Dreams, published in late 1899 though dated 1900, argued dreams disguise hidden wishes, a theory few scientists accept today.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1977, activation-synthesis proposed dreams are the brain making sense of random brainstem activity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others suggest dreams consolidate memories or rehearse responses to threats, as Finnish researcher Antti Revonsuo argued in 2000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep researcher Matthew Walker and others suggest REM acts as 'overnight therapy', processing emotional memories while stress chemicals like noradrenaline are low.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some studies find people react less intensely to emotional images after sleep, though findings are mixed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In PTSD, nightmares can replay trauma.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imagery rehearsal, rewriting a nightmare's ending while awake and rehearsing it, can reduce nightmares.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lucid and animal dreams.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a lucid dream, you know you're dreaming.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s and 80s, researchers including Keith Hearne and Stephen LaBerge showed it was real: sleepers signalled with pre-agreed eye movements while recordings confirmed REM.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around half of people report at least one lucid dream, but frequent ones are rare.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Daytime reality checks, 'am I dreaming?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", and setting an intention before sleep may help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "REM-like sleep has been found in mammals and birds, with signs in some reptiles and octopuses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We can't ask animals what they experience.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But in a 2001 study, patterns of hippocampal neurons firing as rats ran a maze were replayed during their REM sleep.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether animals experience anything like human dreams is unknown.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nightmares and sleep problems.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nightmares are common, especially in children and stressful times.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frequent, distressing ones may be linked to anxiety, trauma, some medications, alcohol or sleep disorders.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleepwalking and sleep talking usually happen in non-REM sleep, not during dreams.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "REM sleep behaviour disorder, where people act out dreams because muscle paralysis fails, is uncommon but important to diagnose, as it can be an early sign of Parkinson's disease and related conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular sleep hours and a calm wind-down routine help sleep overall.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If nightmares or sleep problems are affecting your life, a GP can help or refer you to a sleep specialist.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: REM sleep, with vivid dreams, was discovered in the early 1950s when eyes were seen darting beneath sleepers' lids.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The mystery of consciousness.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why does it feel like something to be you?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Science can map the brain in astonishing detail, yet this question remains unsolved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it feels like.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Right now you are experiencing colours, sounds, thoughts and feelings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In his 1974 essay 'What Is It Like to Be a Bat?'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", philosopher Thomas Nagel argued that a creature is conscious if there is something it is like to be that creature.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bat navigating by echolocation presumably has experiences, but ones we may never be able to imagine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists can show which brain processes accompany experiences.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Explaining why there is any experience at all, rather than just information processing in the dark, is extraordinarily hard.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hard problem.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the mid-1990s, Australian philosopher David Chalmers split the puzzle in two.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 'easy problems' cover how the brain processes information, directs attention and controls behaviour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are not actually easy, but they are the kind science knows how to tackle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 'hard problem' asks why any of this is accompanied by subjective experience.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chalmers illustrated it with a philosophical zombie: a being physically identical to you, but with no inner experience.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some philosophers think the problem will dissolve with more knowledge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others think it reveals a deep gap in our understanding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hunting for correlates.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neuroscientists look for the neural correlates of consciousness: the minimal brain activity needed for a specific experience.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In binocular rivalry, each eye sees a different image, yet people consciously see only one at a time, switching back and forth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comparing brain activity when the same image is seen or not seen shows that much processing is unconscious.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In blindsight, people with damage to the visual cortex can point to objects they insist they cannot see.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consciousness also shifts with state: it fades in deep sleep and vanishes under general anaesthesia, which doctors use safely every day but still don't fully understand.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meditation and psychedelics alter it too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rival theories.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Global Workspace Theory, from Bernard Baars and Stanislas Dehaene, says information becomes conscious when it is broadcast widely across the brain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Integrated Information Theory, from Giulio Tononi, ties consciousness to how much a system integrates information.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A large 'adversarial collaboration' tested both, with mixed results, and some researchers questioned whether the second counts as science at all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Illusionists, influenced by Daniel Dennett, argue that inner experience is a trick the brain plays.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Panpsychists, such as Philip Goff, suggest consciousness is a basic feature of matter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most scientists sit in between: consciousness arises from brain activity, but how is unknown.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it matters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is not just an armchair puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a landmark 2006 study, brain scans showed an apparently unresponsive patient following instructions, such as imagining playing tennis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later studies found similar hidden awareness in a minority of such patients.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anaesthetists work to prevent awareness during surgery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2012 Cambridge Declaration said many animals, including mammals, birds and octopuses, have the brain structures needed for consciousness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2024 New York declaration saw a realistic possibility in reptiles, fish and some invertebrates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The UK recognised octopuses, crabs and lobsters as sentient in a 2022 law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether AI could ever be conscious remains deeply uncertain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying curious, and humble, is the honest position.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Consciousness is subjective experience: there is something it is like to be you.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why is 'the happy chemical' a misleading label?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each acts via many receptors and regions.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did waking sleepers during REM show?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Most described vivid dreams.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does it mean for a creature to be conscious, in Nagel's sense?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. There is something it is like to be that creature.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

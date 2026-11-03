@@ -1,0 +1,1362 @@
+{
+ "id": "topic-thinking-1",
+ "title": "Critical Thinking Shorts",
+ "chapters": [
+  "Philosophical razors: shaving away bad explanations",
+  "The wisdom of crowds: when many guesses beat experts",
+  "Berkson's paradox: when filtering creates false patterns",
+  "The lady tasting tea: how to design a fair test"
+ ],
+ "units": [
+  {
+   "t": "Critical Thinking Shorts.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Philosophical razors: shaving away bad explanations, The wisdom of crowds: when many guesses beat experts, Berkson's paradox: when filtering creates false patterns and The lady tasting tea: how to design a fair test.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Philosophical razors: shaving away bad explanations.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your car won't start.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Is it a flat battery, or sabotage by a jealous neighbour?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A handful of simple rules called 'razors' can save you from chasing the wrong answer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What a razor is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a detective with ten suspects and one afternoon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She needs a way to decide where to look first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinkers have long used short rules for exactly this job, nicknamed 'razors' because they shave away explanations that are possible but improbable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A razor never proves anything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It doesn't tell you the answer is definitely the simple one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It tells you where the smart money is, so you can spend your attention sensibly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think of razors as tie breakers and starting points, not verdicts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Used well, they stop you getting lost in elaborate theories.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Used badly, as a way to end every conversation, they become a lazy excuse not to think.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Occam's razor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous razor is named after William of Ockham, an English friar and philosopher who lived around 1287 to 1347.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The slogan 'entities should not be multiplied beyond necessity' was written by later scholars, but the idea runs through his work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In plain terms: when two explanations fit the facts equally well, favour the one that asks you to assume less.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If your biscuits vanish, a hungry teenager requires one assumption.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A burglar who ignored your laptop and took only the Tim Tams requires several.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice the key phrase: equally well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Occam's razor doesn't say simple explanations are always true.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Complexity has to earn its place by explaining something the simpler version can't.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hanlon's razor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A colleague leaves you off an important email chain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might think they are freezing you out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hanlon's razor suggests a gentler first guess: they probably forgot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The usual wording is 'never attribute to malice that which is adequately explained by stupidity', credited to a man named Robert Hanlon, who submitted it to a joke book about Murphy's Law around 1980.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A kinder version: don't assume bad intent when busyness, ignorance or a simple mistake would do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps because our brains are quick to see enemies, and it saves friendships and wasted anger.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It isn't naive, though.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the 'mistakes' keep happening in one direction, the pattern itself becomes evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hitchens's razor and horses.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Someone says a celebrity is secretly a lizard.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You ask for evidence, and they reply, 'Prove they're not.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christopher Hitchens's answer: 'What can be asserted without evidence can also be dismissed without evidence.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The person making a claim should supply reasons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can set it aside until they do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That doesn't mean it is false.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medical students learn: when you hear hoofbeats, think of horses, not zebras.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A headache and runny nose is most likely a cold, not an exotic disease.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If your internet drops, a tired router is a horse and a targeted hack is a zebra.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is about base rates, how often each explanation occurs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zebras do exist, so rule out the horses first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When razors cut wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the 1840s, astronomers knew Uranus wasn't moving quite as the maths predicted.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The simple response would have been small measurement errors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, some argued for a more complicated answer: an unseen planet tugging on it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1846, Neptune was found close to where the calculations said it would be.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The elaborate explanation was right because it explained what the simpler one couldn't.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is how to treat every razor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People are sometimes genuinely malicious, and zebras sometimes turn up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When something surprising happens, ask what simple explanation fits all the facts, could it be a mistake, and who is making the claim.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treat your first answer as a working hypothesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A razor that stops you looking becomes a blindfold.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A razor is a rule of thumb that shaves away unlikely explanations to show where to look first, without proving anything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The wisdom of crowds: when many guesses beat experts.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1906 hundreds of people guessed the weight of an ox.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hardly anyone was spot on, but together they were astonishingly close.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's why, and when crowds turn foolish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ox at Plymouth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1906 the scientist Francis Galton visited a livestock fair in Plymouth, England.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Visitors could pay a small fee to guess the weight of an ox once it had been slaughtered and dressed, with prizes for the closest entries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galton, who was not a great admirer of ordinary people's judgement, collected the 787 legible tickets and analysed them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The guesses were all over the place.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the middle value, the median, was 1,207 pounds, about 547 kilograms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The actual weight was 1,198 pounds, so the crowd was out by less than one per cent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later analyses found the average was even closer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galton published the result in Nature in 1907 under the title ‘Vox Populi’, the voice of the people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why errors cancel out.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How can a crowd of non-experts beat almost every individual in it?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each guess contains some genuine information and some error.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One person overestimates because the ox looks bulky; another underestimates because they're thinking of a smaller breed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If those errors point in different directions, they cancel out when averaged, while the useful information adds up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result is often better than most individual guesses, and sometimes better than an expert's.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "James Surowiecki popularised the idea in his 2004 book The Wisdom of Crowds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By his account, on Who Wants to Be a Millionaire?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "the contestants' chosen friends gave the right answer about 65 per cent of the time, while the studio audience's most popular answer was right about 91 per cent of the time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surowiecki argued that wise crowds need four ingredients.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diversity: people should bring different information and perspectives, not all the same views.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Independence: each person's judgement should be their own, rather than copied from those around them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decentralisation: people should be able to draw on local and specialised knowledge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And aggregation: there must be some way of combining all the private judgements into one answer, such as an average, a vote or a market price.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take away any of these and the magic fades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same principles underpin tools from averaged economic forecasts to pooled product ratings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A room of people who all read the same article, or who call out their guesses one after another, is less a crowd of independent minds than one opinion repeated many times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When crowds go wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Independence is the fragile ingredient.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2011 study, Jan Lorenz and colleagues in Switzerland asked groups to estimate factual quantities, such as crime figures, over several rounds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some groups were shown what the others had guessed before answering again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing others' answers narrowed the range of guesses and made people more confident, but the group's estimates did not become more accurate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crowd had lost its diversity without gaining any wisdom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a larger scale, similar dynamics help explain stock market bubbles, fads and panic buying, where people react to each other rather than to independent information.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A crowd that copies itself doesn't cancel out its errors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can amplify them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crowd inside you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can even borrow the effect for yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2008 Edward Vul and Harold Pashler asked people to answer factual questions, then unexpectedly asked them to guess again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The average of a person's two guesses was more accurate than either guess alone, and the benefit was larger when the second guess came three weeks later rather than straight away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The delay helped because it made the second guess more independent of the first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers call this the crowd within.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A practical version: when you estimate something important, such as how long a job will take, make a guess, then assume your first answer was wrong, think about why, and make a second estimate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then average the two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A crowd's middle guess of an ox's weight in 1906 came within about one per cent of the truth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Berkson's paradox: when filtering creates false patterns.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why do the best restaurants seem to be in the worst locations, and why do attractive dates seem more likely to be rude?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answer is a sneaky trick of selection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A strange hospital pattern.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1946, the American statistician Joseph Berkson pointed out a puzzle in medical research.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Among hospital patients, two unrelated conditions could appear linked, found together more or less often than in the general population.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reason was how patients got into the data.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People are admitted because they have one condition or another, or both.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studying only hospital patients filters the population by those very conditions, and that filtering alone can create a statistical relationship that doesn't exist in the wider world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is now called Berkson's paradox.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a cousin of selection bias, and once you know it, you spot it in dating, hiring, restaurants and headlines.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dating puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The mathematician Jordan Ellenberg popularised this example.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose someone will only date a person who is reasonably kind, reasonably attractive, or both.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the general population, imagine kindness and looks are unrelated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now look only at the people this person actually dates.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anyone neither kind nor attractive has been filtered out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among those left, the attractive ones only needed to clear one bar, so many aren't especially kind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kind ones are often not especially attractive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within this group, looks and kindness seem to be opposites, and it feels as though attractive people are more likely to be rude.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing about the people changed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The filter created the pattern.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Draw it to see it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a square scatter plot with talent along one axis and charm along the other.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the traits are unrelated, the dots fill the square evenly, with no tilt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now add a rule: only people whose talent plus charm exceeds a certain total are admitted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Draw a diagonal line across the lower left corner and remove every dot beneath it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The remaining dots now slope downwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among those who passed, the most talented tend to be less charming, and the most charming less talented.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A negative correlation has appeared from nowhere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the essence of the paradox.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also explains why great food can seem to hide in awkward locations: a restaurant in a bad spot survives only if the food is excellent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colliders and selection.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers call a variable influenced by two other factors a 'collider'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Filtering on it, or statistically controlling for it, can create a misleading link between those factors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A well-known puzzle involves birth weight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babies of smokers tend to be lighter, and low birth weight raises risk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet among only low birth weight babies, some studies found those born to smokers did slightly better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smoking wasn't protective.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Low birth weight can come from smoking or from other, often more serious problems, so comparing within that group mixed very different situations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same trap appears in admissions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Among admitted students, a weak school record must be offset by a strong entrance test, so the test may seem to predict nothing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hiring shows it too, and in early COVID-19 studies of only tested or hospitalised patients.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spotting the filter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key defence is a simple question: how did these cases end up in front of me?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the group was selected on the very traits you're comparing, be suspicious of any pattern within it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your social circle, your newsfeed, a hospital ward, a list of successful companies and the people you have dated are all filtered samples.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Patterns within them may be produced by the filter rather than the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When possible, look at a broader, unfiltered group.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When that isn't possible, be careful about drawing big conclusions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Data never simply speaks for itself.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It always arrives through some process, and understanding that process is half the work of understanding the data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Looking only at hospital patients can create links between diseases that don't exist outside.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The lady tasting tea: how to design a fair test.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A scientist claimed she could taste whether the milk or the tea went into the cup first.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Working out how to test her claim properly helped shape the modern experiment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea at Rothamsted.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1920s, at the Rothamsted agricultural research station north of London, the statistician Ronald Fisher offered a colleague a cup of tea.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dr Muriel Bristol, a scientist who studied algae, declined because he had poured the milk in after the tea.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She preferred milk first, and insisted she could taste the difference.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher was sceptical.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to later accounts from people who were there, a test was quickly arranged, and she reportedly identified the cups correctly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher used the story to open a chapter of his 1935 book The Design of Experiments.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Behind a light-hearted example lay a serious question: how do you fairly test a claim?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What would luck look like.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fisher's key move was to assume the claim is false.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose Bristol has no ability and is simply guessing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This assumption is now called the null hypothesis.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then ask whether her actual performance would be surprising by comparison.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His design used eight cups, four milk-first and four tea-first, in random order.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She would pick out the four milk-first cups.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are 70 ways to choose four cups from eight, and only one is fully correct.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A guesser has a 1 in 70 chance of a perfect score, about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three right and one wrong can happen 16 ways, so scoring at least three out of four by luck is 17 in 70, about 24 per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's too common to prove anything.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide what counts as convincing before you run the test.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why randomise.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why serve the cups in random order?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine the four milk-first cups were all prepared and served first.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They might be slightly cooler, or the taster might notice a pattern.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any success could then come from those clues rather than from tasting the milk.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher argued that randomisation is the most reliable protection against hidden factors like these, including ones nobody has thought of.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He also stressed keeping everything else the same: the same cups, the same tea and the same amount of milk.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He developed these ideas through crop experiments at Rothamsted, where treatments were assigned to plots of land at random so that differences in soil couldn't bias the results.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Size matters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fisher's framework also shows why the number of trials matters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With six cups, three of each, there are only 20 ways to choose, so even a perfect score has a 1 in 20 chance of happening by luck, or five per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With just four cups, two of each, a guesser gets a perfect score one time in six.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A test that small could never convince anyone, however good the taster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher suggested treating results that would happen by chance less than about one time in 20 as worth taking seriously.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That convention later hardened into the famous 0.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "05 threshold for statistical significance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He saw it as a rough guide to which results deserve attention, not a magic line between truth and falsehood.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trials, and a warning.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fisher's ideas now run through modern research.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drug trials assign patients to treatment or placebo at random and ask how likely the results would be if the drug did nothing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farmers test crop varieties in randomised plots.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technology companies run A/B tests, randomly showing different web page versions to different users.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three questions travel well.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What would I expect to see if this claim were false?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Could something else explain the result?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was the test big enough to tell?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet Fisher himself erred.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1950s he argued that the smoking and lung cancer link might not be causal, suggesting an inherited factor could explain both.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asking about hidden causes is legitimate, but the evidence against smoking became overwhelming.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher was a keen pipe smoker and had consulted for the tobacco industry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A casual claim at afternoon tea led Ronald Fisher to ask how to test any claim fairly.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is a philosophical razor best used for?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Deciding which explanation to investigate first.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was striking about the guesses at the Plymouth fair?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The crowd's median was about one per cent out.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did hospital data suggest links between unrelated conditions?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Admission filtered patients by those conditions.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What question did the tea story lead Fisher to explore?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. How to fairly test whether a claim is true.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

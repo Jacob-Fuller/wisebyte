@@ -1,0 +1,1218 @@
+{
+ "id": "s-decisions-2",
+ "title": "Better Decisions · Episode 2",
+ "chapters": [
+  "Outcome bias: why good decisions can end badly",
+  "The framing effect: same facts, different choices",
+  "The paradox of choice: can more options make us less happy",
+  "Game theory for everyday life"
+ ],
+ "units": [
+  {
+   "t": "Better Decisions. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Outcome bias: why good decisions can end badly, The framing effect: same facts, different choices, The paradox of choice: can more options make us less happy and Game theory for everyday life.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Outcome bias: why good decisions can end badly.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A coach made one of the most criticised calls in sport, and a poker player says we judged it all wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learn to tell a smart choice from a lucky one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The worst call ever.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In February 2015 the Seattle Seahawks were seconds from winning the Super Bowl.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trailing the New England Patriots by four points, they had the ball about a metre from the line with 26 seconds left.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most fans expected a handoff to their powerful running back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, coach Pete Carroll called a pass.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was intercepted, and the Patriots won.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Headlines called it one of the worst calls in the game's history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet some analysts argued it was reasonable: interceptions that close to the line are rare, and an incomplete pass would stop the clock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Former poker player Annie Duke, in her 2018 book Thinking in Bets, calls judging by results alone ‘resulting’.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In poker you can play a hand perfectly and still lose to the last card.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In life there are fewer hands and messier information.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The surgeon experiment.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1988 the psychologists Jonathan Baron and John Hershey gave volunteers descriptions of decisions made under uncertainty, such as a doctor's choice about whether to go ahead with a risky operation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everyone received the same information that had been available to the decision-maker at the time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The only thing that changed was the outcome: in some versions the patient lived, and in others the patient died.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People rated the decision itself as worse, and the decision-maker as less competent, when the outcome was bad.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the choice had been made with exactly the same knowledge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Baron and Hershey called this outcome bias.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four kinds of result.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a simple grid.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A good decision with a good outcome is a deserved success.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A good decision with a bad outcome is bad luck.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bad decision with a bad outcome is a predictable failure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And a bad decision with a good outcome is a lucky escape, which may be the most dangerous of all.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think of someone who drives home after too many drinks and arrives safely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The outcome teaches them nothing useful, or worse, teaches them it was fine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each lucky escape can make the next risky choice feel safer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Outcome bias collapses these four boxes into two: it worked, so it was right; it failed, so it was wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hindsight makes it worse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Outcome bias has a close relative: hindsight bias, the feeling that we ‘knew it all along’.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s the psychologist Baruch Fischhoff showed that once people learnt how an event turned out, they judged that outcome to have been more predictable than people who hadn't been told.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their memories of what they had predicted earlier also shifted towards what actually happened.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together these biases make the world seem more orderly than it really is.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also make us unfair judges.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Workers, doctors, pilots and leaders can be blamed for bad outcomes they could not reasonably have foreseen, while people who took foolish risks and got away with them can be rewarded and promoted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judge the process.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fix is to judge decisions by the process behind them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask: what did we know at the time?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What options did we consider?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Did we think about the risks and how likely they were?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was there information we could reasonably have gathered but didn't?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Armies, hospitals and airlines have long used structured reviews after events, and these work best when they examine successes and failures with the same honesty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A simple personal tool is a decision journal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before an important choice, write down what you expect to happen and why.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later, compare that with what actually happened.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time you'll see whether your judgement is sound, or whether you've simply been lucky.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Judging a decision only by how it turned out, which poker players call ‘resulting’, is a mistake.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The framing effect: same facts, different choices.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Would you choose a treatment with a 90 per cent survival rate?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What about one with a 10 per cent death rate?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're identical, yet the wording changes what people choose.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An imaginary outbreak.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1981 the psychologists Amos Tversky and Daniel Kahneman published a now-famous problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a disease outbreak expected to kill 600 people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One group chose between two programs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With Program A, 200 people will be saved.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With Program B, there's a one-third chance all 600 are saved and a two-thirds chance no-one is saved.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most chose A, the sure thing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second group got the same choice in different words.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With Program C, 400 people will die.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With Program D, there's a one-third chance nobody dies and a two-thirds chance all 600 die.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now most chose D, the gamble.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet A and C describe exactly the same outcome, as do B and D.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gains safe, losses risky.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The outbreak problem revealed a pattern that Kahneman and Tversky built into their prospect theory.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When outcomes are described as gains, such as lives saved, people tend to be cautious and prefer a certain result.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the same outcomes are described as losses, such as deaths, people become more willing to gamble to avoid a sure loss.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part of the reason is loss aversion: losses tend to feel more painful than equivalent gains feel good, with many studies putting the ratio at roughly two to one, though estimates vary.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Logically, the wording should make no difference.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologically, the frame sets the reference point against which everything else is judged.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors are not immune.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You might hope experts would see through framing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1982 study in the New England Journal of Medicine, Barbara McNeil and colleagues, including Tversky, asked people to choose between surgery and radiation therapy for lung cancer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surgery carried a higher risk of dying during or soon after treatment, but better long-term survival.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the results were presented as chances of surviving, surgery looked more attractive than when the very same results were described as chances of dying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effect appeared among patients, among students, and among physicians.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since then, many guides to communicating medical risk have encouraged presenting figures in more than one way, for example giving both survival and death rates together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Framing in shops and news.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1988 study, Irwin Levin and Gary Gaeth asked people to evaluate minced beef described as either ‘75 per cent lean’ or ‘25 per cent fat’.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Same meat, but the ‘lean’ version was rated better quality and less greasy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gap shrank when people tasted the beef, though it didn't vanish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yoghurt is ‘95 per cent fat free’ rather than ‘5 per cent fat’.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fee is a ‘discount for paying cash’ rather than a ‘surcharge for paying by card’.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A broader kind of framing highlights different aspects of an issue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1997 study, readers of a news story about a planned Ku Klux Klan rally were more tolerant of it when it was framed as free speech than as a threat to public order.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is a policy ‘tax relief’ or a ‘cut to services’?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defusing the frame.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can't avoid frames, because every description has to start somewhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But you can learn to notice them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you face an important choice, deliberately flip the wording: if you're told nine out of ten customers are satisfied, remind yourself that one in ten isn't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a deal is framed as avoiding a loss, ask how it looks as a plain gain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turn percentages into concrete counts, such as ‘out of 100 people like me, how many?’",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This makes risks much easier to compare.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be especially wary when someone else has chosen the frame for you and stands to gain from your decision.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And when you present information to others, giving both frames is often the fairest thing you can do.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Describing identical options as lives saved or lives lost flips people's choices.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The paradox of choice: can more options make us less happy.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Twenty-four jams, hundreds of streaming shows, dozens of super funds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More choice sounds like freedom, so why does it sometimes leave us stuck?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The jam study.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a California supermarket, psychologists Sheena Iyengar and Mark Lepper set up a tasting booth for gourmet jams.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some days it offered 24 flavours, others just six.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The big display drew more shoppers to stop.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But when it came to buying, the result flipped: about three per cent of those at the large display bought a jar, against about thirty per cent at the small one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Published in 2000, it was cited in business books, TED talks and marketing meetings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004, Barry Schwartz built on it in The Paradox of Choice, arguing that beyond a point, more options leave us less satisfied: more regret, higher expectations and more self-blame.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then came replications.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As researchers tried to repeat choice overload experiments, the picture grew messier.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2010, Benjamin Scheibehenne, Rainer Greifeneder and Peter Todd pooled about fifty experiments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On average, the effect of the number of options was close to zero.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some studies found overload, some found more options led to more buying, and many found no difference.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2015 analysis by Alexander Chernev, Ulf Bockenholt and Joseph Goodman found overload was more likely when options were complex and hard to compare, decisions were difficult or time-pressured, or people had no clear preferences.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you already love apricot jam, a huge range is no problem.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One striking study is a starting point for science, not the final word.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maximisers and satisficers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economist Herbert Simon coined 'satisficing': choosing the first option that meets your standards rather than searching for the absolute best.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Schwartz and colleagues contrasted satisficers with maximisers, who feel they must examine every option.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2002 study, high maximisers reported more regret and less happiness and life satisfaction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A later study of university graduates found maximisers tended to land jobs with higher starting salaries, but felt less satisfied with them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Being a satisficer does not mean having low standards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It means knowing what is good enough for you, then stopping, rather than chasing a perfect option that may not exist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big decisions and defaults.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choice overload matters most for complex decisions such as insurance, energy plans and retirement savings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research by Iyengar and colleagues on American retirement plans found that as the number of investment funds offered rose, participation tended to dip slightly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When overwhelmed, people often delay or accept the default.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, many workers never actively choose a super fund, and their contributions go into a default fund, which is part of why rules about default products matter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To compare super funds, energy plans or insurance, government tools such as Moneysmart and the ATO's YourSuper comparison tool can narrow the field.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing well.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can protect yourself from the downsides of abundant choice.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, decide what matters before you look: write down two or three must-haves and ignore options that fail them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, limit your search, perhaps to three options or a time limit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, for small decisions such as toothpaste or tonight's show, deliberately satisfice: pick something good enough and move on.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fourth, once you have chosen, stop shopping around, because constantly checking alternatives keeps regret alive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finally, use trusted recommendations and comparison tools to do some of the sorting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't have to experience every option to enjoy choice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A famous study found shoppers stopped for a big jam display but bought far more from a small one.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Game theory for everyday life.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why rivals end up in price wars, why cooperation survives among strangers, and what a 1950s puzzle reveals about neighbours, workmates and nations.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thinking strategically.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Game theory is the study of strategic decisions: situations where the outcome for you depends not only on your own choice but also on the choices of others.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 'games' can be chess, poker, business competition, wage negotiations, elections or arms races.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern game theory was launched by mathematician John von Neumann and economist Oskar Morgenstern in their 1944 book 'Theory of Games and Economic Behavior'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's now used across economics, politics, biology and computer science.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't need the maths to benefit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The core habit is simple: before acting, think about how others will respond, and what each person gains or loses from each choice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're doing the same.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prisoner's dilemma.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous game was developed at the RAND Corporation around 1950, and mathematician Albert Tucker gave it its prison story.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two suspects are questioned separately.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both stay silent, each gets one year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If one betrays, the betrayer walks free and the other gets ten years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both betray, each gets five.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever your partner does, betraying looks better, so two rational players betray and get five years each.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a Nash equilibrium, an idea John Nash described in 1950 and shared a 1994 Nobel Memorial Prize for.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a set of choices where no player can do better by changing only their own choice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bad situations can be stable: everyone may want change, but no one gains by moving first.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dilemmas and commons.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once you recognise the pattern, you see it everywhere.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two petrol stations on the same corner would both profit if prices stayed high, but each is tempted to undercut.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Athletes may dope because they fear rivals do.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If everyone stays back late to look committed, no one gains an edge, yet everyone loses their evenings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem often isn't bad people.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's bad incentives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ecologist Garrett Hardin popularised the 'tragedy of the commons' in 1968: on a shared pasture, each herder gains from one more cow while overgrazing is everyone's cost.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Overfishing and pollution follow the same logic.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet Elinor Ostrom, the first woman to win the economics Nobel, 2009, showed communities often manage shared resources for centuries using local rules, monitoring and fair penalties.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooperate, then copy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real life is rarely a one-off.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1980, political scientist Robert Axelrod ran computer tournaments where strategies played the prisoner's dilemma against each other many times.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The winner was the simplest entry, 'tit-for-tat', submitted by Anatol Rapoport: cooperate on the first move, then copy whatever the other player did last time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Axelrod concluded that successful strategies were nice, never betray first, retaliatory, respond to betrayal, forgiving, return to cooperation quickly, and not envious, content to do well without beating the other player.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later research found that slightly more forgiving variants can do better when mistakes happen.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most relationships, at work, with neighbours or with a co-parent, are repeated games, so reputation and trust are worth more than a one-off win.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing the game.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not every game is a conflict.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In coordination games, everyone wins by choosing the same option.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which side of the road to drive on matters little, as long as everyone agrees; Australians drive on the left.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economist Thomas Schelling, a 2005 Nobel laureate, showed people often coordinate on obvious 'focal points' without talking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He also studied credible commitment: limiting your own options can strengthen your position.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A union that publicly commits to a strike, or a seller with a firm 'no discounts' policy, changes what others expect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A threat only works if people believe you'll follow through.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When stuck in a dilemma, change the game: agreements, contracts, shared rules or clear communication.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look for positive-sum options too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many negotiations are about making the pie bigger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Game theory studies strategic situations, where your best move depends on what others do, so think about their response before you act.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does ‘resulting’ mean?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Judging a choice only by its result.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. In the outbreak problem, why is the switch in people's choices surprising?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Programs A and C described exactly the same outcome.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the jam study find?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Shoppers stopped at the big display but far fewer bought there.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is the core habit of thinking with game theory?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Think about how others will respond before you act.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

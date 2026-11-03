@@ -1,0 +1,947 @@
+{
+ "id": "s-ai-3",
+ "title": "Artificial Intelligence · Episode 3",
+ "chapters": [
+  "The bitter lesson: why scale keeps winning",
+  "AI images and deepfakes",
+  "Using AI well"
+ ],
+ "units": [
+  {
+   "t": "Artificial Intelligence. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The bitter lesson: why scale keeps winning, AI images and deepfakes and Using AI well.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The bitter lesson: why scale keeps winning.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For seventy years, researchers have tried to make AI smarter by teaching it what humans know.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Again and again, they were beaten by simpler methods with more computing power.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One famous essay asked what that means.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bitter lesson.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 2019, Rich Sutton, a pioneer of reinforcement learning, published a short essay called ‘The Bitter Lesson’.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His claim: looking back over decades of AI research, general methods that make the most of computation, chiefly search and learning, win by a large margin in the end.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers kept building in their own understanding, such as how chess masters think or how language works.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It helped in the short term and felt satisfying.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it plateaued, and was overtaken by methods that simply scaled up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why the lesson is ‘bitter’: it suggests much of that careful effort is wasted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sutton later shared the Turing Award, computing’s highest honour, with Andrew Barto.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Computation compounds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The engine behind the lesson is the long fall in the cost of computation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For decades the number of transistors on a chip roughly doubled every couple of years, a trend known as Moore’s law, and specialised AI chips have added more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A method that improves with more computation gets better almost automatically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One built on hand-crafted human knowledge improves only as fast as people can write that knowledge down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scaling can even be forecast.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2020, OpenAI researchers reported that a language model’s error falls along a smooth power-law curve as size, data and computation grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022, DeepMind’s Chinchilla work showed many large models had too little data for their size.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chess and Go.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chess was the first clear example.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many researchers hoped to win by capturing how grandmasters understand the board.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, IBM’s Deep Blue beat Garry Kasparov in 1997 largely through enormous search, examining huge numbers of positions per second, combined with expert-tuned evaluation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Go repeated the story with a twist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016, DeepMind’s AlphaGo beat Lee Sedol, having learned partly from human games and partly from playing itself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The following year, AlphaGo Zero learned purely from self-play, given nothing but the rules, and became stronger still.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Human knowledge had been a helpful crutch that was eventually not needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speech and vision.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same pattern played out elsewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early speech recognition tried to apply linguistic knowledge about how words and sounds work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From the 1970s, statistical methods that learned probabilities from recorded speech pulled ahead, and deep neural networks took over in the 2010s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In computer vision, researchers spent years hand-designing features, carefully engineered methods for detecting edges, corners and textures.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then in 2012, a deep network that learned its own features from over a million labelled images beat them decisively.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each time, the experts’ knowledge was genuine and hard-won.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It just mattered less than a general learning method with enough data and computation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The critics.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The bitter lesson has thoughtful critics.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Successful methods do contain human insight: convolutional networks for vision build in the idea that a pattern means the same thing wherever it appears in an image, and that idea came from people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are practical limits too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High-quality data is finite, and training ever larger models consumes vast amounts of money, electricity and chips.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers argue that current systems still struggle with reliable reasoning, learning from few examples and understanding the physical world, and that new ideas, not just more scale, will be needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, the past decade’s biggest leaps came less from elegant theories of intelligence than from learning methods scaled to a size earlier generations could barely imagine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sutton argued that general methods which scale with computation eventually beat methods built on human knowledge.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. AI images and deepfakes.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Type a sentence, get a photo that never existed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding how image generators work is the first step to not being fooled by them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pictures from words.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AI image generators turn a text prompt into a new picture.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Type 'a kookaburra in a raincoat, watercolour style' and seconds later you get an image no one has ever painted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These systems are trained on enormous collections of images paired with captions, often billions of pairs gathered from the internet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They learn statistical links between words and visual features: what 'watercolour' looks like, the shape of a kookaburra, how light falls on wet fabric.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The model doesn't paste together pieces of stored photos.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It generates new pixels based on the patterns it has learned.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diffusion and steering.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many leading generators use diffusion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In training, you take a real image and add random noise a little at a time until it becomes pure static, like an old TV with no signal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then you train a neural network to reverse each small step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After enough practice, the model can start from static and remove noise step by step until a clear image emerges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starting from different noise each time, the same prompt gives different pictures.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prompt steers each step.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The text is converted into numbers that capture its meaning, nudging the image towards the description.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the model has learned associations, not rules about the world, it has struggled with finger counts and legible signs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newer systems do better, but mistakes slip through.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What deepfakes are.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A deepfake is synthetic media that makes a real person appear to do or say something they never did.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The term emerged around 2017 from face-swapping videos.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, tools can clone a voice from a short recording and generate realistic video.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some uses are harmless, such as film effects or clearly labelled satire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The harms include non-consensual sexual images, political fakes and scams.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a widely reported 2024 case in Hong Kong, an employee at an engineering firm transferred roughly US$25 million after a video call in which the 'executives' were deepfakes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Criminals also use cloned voices to impersonate family members.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spotting fakes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Older fakes gave themselves away with warped hands, mismatched earrings, garbled text, odd shadows or overly smooth skin.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those clues are worth checking, but they are becoming less reliable as the technology improves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Better habits focus on context.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Who posted this first, and are they credible?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is a reputable news outlet reporting it?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look for the same moment from other angles: a real event is usually captured by many people, while a fake often exists as a single striking image.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some companies add invisible watermarks or 'content credentials' to AI images, but these aren't universal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a clip provokes strong emotion, slow down and check where it came from before sharing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Law, ownership and care.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2024 Australia made it a federal criminal offence to share sexually explicit deepfakes of adults without consent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Defamation, fraud and harassment laws can also apply.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The eSafety Commissioner can help remove image-based abuse, and you can report it at esafety.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are targeted, keep evidence such as screenshots and links, report it, and consider legal advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Copyright is unsettled.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Generators were largely trained on web images, often without artists' permission.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Developers say learning patterns is lawful; creators call it unfair copying, and cases, including by Getty Images, are under way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, copyright generally requires a human author, so purely AI-made images may not be protected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use image AI openly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't depict real people without consent, and check a tool's terms before commercial use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Image generators learn word-to-image patterns from vast caption pairs and generate new pixels, not stored photos.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Using AI well.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "AI assistants can save you hours or quietly lead you astray.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The difference usually comes down to how you use them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast but fallible.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Think of an AI chatbot as a very fast, widely read assistant who is eager to please and sometimes confidently wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can draft an email in seconds, explain a tricky concept five ways and summarise a long document.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it doesn't know your situation unless you tell it, it can misunderstand you, and its errors can sound completely convincing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People who get the most from AI stay in charge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They give clear direction, review everything important and treat the output as a draft, not a final answer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You remain responsible for what you do with it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Context and conversation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AI can't read your mind, and vague requests get generic answers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compare 'Write a letter to my landlord' with 'Write a polite but firm email to my landlord in Brisbane asking for a leaking tap to be repaired.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "I reported it three weeks ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep it under 150 words.'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second gives goal, situation, tone and length.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can also ask it to take a role, such as a patient maths tutor, or show an example of the style you want.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your first prompt rarely gives the perfect result, so treat it as a conversation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Say what to change: 'shorter', 'less formal', 'more Australian examples'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Break big tasks into steps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A powerful trick is to ask the AI to interview you first: 'Before you write my CV summary, ask me five questions about my experience.'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why AI makes things up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Language models generate text that sounds right from patterns, which isn't the same as checking it is right.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lacking reliable information, they can fill the gap with fluent inventions: a fake statistic, a book that doesn't exist, a made-up quote.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is called hallucination.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023, New York lawyers were fined for filing a court document citing cases a chatbot had invented.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Similar incidents have occurred elsewhere, including in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Web-searching tools reduce the problem but don't eliminate it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The costlier a mistake, the more checking it deserves.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a birthday poem, errors hardly matter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For medication doses, tax rules or a contract, they matter a lot.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confirm that cited sources exist and say what is claimed, cross-check key facts with trusted sources such as government agencies, and confirm advice applies in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protect your privacy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What you type into an online AI tool is sent to the company that runs it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Depending on the service and your settings, conversations may be stored, reviewed by staff or used to improve future models.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So treat a chatbot like any online service.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never share passwords, full card or bank details, or identity documents.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Think twice before pasting in medical records, legal disputes or anything about other people, such as a client's details or a friend's private message.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the privacy settings, which often let you limit how your data is used.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At work, follow your employer's AI policy, because putting confidential information into public tools can breach privacy obligations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strengths and limits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AI earns its keep where a good first draft saves time and you can judge the result.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paste in a confusing insurer's letter, with personal details removed, and ask what it means.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turn a brain dump into a to-do list, rehearse asking for a pay rise with the AI playing the boss, or ask it to quiz you on a topic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use it to get started or unstuck, then add your own judgement.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be careful with very recent events unless it can search the web.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For health, finances or legal rights, use it to prepare questions, then talk to a doctor, licensed financial adviser or lawyer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leaning on it too heavily can stop you building a skill.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chatbots are no substitute for friends, family or professional support.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are struggling, Lifeline is on 13 11 14.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Treat an AI assistant as a fast, well-read helper whose work you must still check.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the main claim of Sutton’s ‘Bitter Lesson’ essay?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Methods that scale with computation win in the long run.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How does an AI image generator produce a picture?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It generates new pixels from learned patterns.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How should you treat an AI assistant's output?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As a draft to check, as it can be wrong.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

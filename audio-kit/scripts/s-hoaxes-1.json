@@ -1,0 +1,875 @@
+{
+ "id": "s-hoaxes-1",
+ "title": "Hoaxes, Frauds & Mistakes · Episode 1",
+ "chapters": [
+  "The Mechanical Turk: a chess machine with a secret",
+  "Clever Hans and the AI that learned the wrong lesson",
+  "N-rays: the rays only believers could see"
+ ],
+ "units": [
+  {
+   "t": "Hoaxes, Frauds & Mistakes. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The Mechanical Turk: a chess machine with a secret, Clever Hans and the AI that learned the wrong lesson and N-rays: the rays only believers could see.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The Mechanical Turk: a chess machine with a secret.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For over 80 years, a turbaned automaton beat chess players across Europe and America.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The truth inside its cabinet still echoes through modern AI.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A chess-playing marvel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1770 the engineer Wolfgang von Kempelen presented a chess-playing 'machine' to Empress Maria Theresa's court in Vienna.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A life-sized figure in Ottoman-style robes and a turban sat behind a large wooden cabinet with a chessboard on top.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its mechanical arm grasped pieces and moved them, and it shook its head at illegal moves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It usually won.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kempelen seemed slightly embarrassed by the fame and reportedly kept it packed away for years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before each game, the operator opened the cabinet doors one at a time, shining a candle through a tangle of cogs and levers, and lifted the robes to show more machinery.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The whirring was mostly for effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never seeing everything at once, onlookers felt sure nothing was hidden.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who was inside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The secret was simple and daring: a skilled chess player was hidden inside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A moving seat let him slide along as each door opened, keeping him behind panels and fake machinery.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each piece on the board carried a magnet that tugged a small metal marker, so he could follow the game.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He planned moves on his own small pegboard and steered the Turk's arm with levers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A candle gave light, and smoke escaped through the figure's turban.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the decades, a series of strong players worked as operators, cramped and sweating in the dark.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The theatre worked: people left certain the machine held only machinery, exactly as intended.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fame, doubt and fire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1780s the Turk toured Europe, and accounts say it played Benjamin Franklin in Paris.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Kempelen died in 1804, the showman Johann Nepomuk Maelzel, who also promoted the metronome, bought it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stories say it played Napoleon in 1809, though some tales were embroidered, so hold them loosely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maelzel took it to the United States in 1826, drawing large paying crowds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not everyone was fooled.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1836 Edgar Allan Poe argued in an essay that a person must be concealed inside, noting that a true machine would win every game while the Turk sometimes lost.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some of his other reasoning was wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Turk burned in a Philadelphia museum in 1854, and a few years later the son of its last owner confirmed the secret in print.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Artificial artificial intelligence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Turk's name came back in 2005, when Amazon launched Amazon Mechanical Turk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It lets businesses post small online tasks that are easy for people but hard for computers, such as describing a photo, checking whether two products are the same or transcribing a blurry receipt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thousands of workers around the world complete them for small payments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Amazon called the idea 'artificial artificial intelligence'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Like the original Turk, it looks like a computer doing the work, but humans are quietly inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Platforms like this became a major source of the labelled data that later trained machine learning systems, including image recognisers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans behind the curtain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Turk's lesson is still relevant.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern AI systems learn from huge amounts of data that people have created, sorted and labelled, often low-paid workers in many countries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans also rate chatbot answers to teach them which responses are helpful, and moderate the disturbing content that filters miss.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some start-ups have been caught presenting services as automated while staff did much of the work behind the scenes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None of this means AI is fake.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It means the line between machine and human effort is often blurrier than it looks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like eighteenth century audiences, we tend to see intelligence where clever presentation invites us to.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1770 Wolfgang von Kempelen unveiled a chess-playing 'machine', and its demonstrations were staged to convince people nothing was hidden.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Clever Hans and the AI that learned the wrong lesson.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A horse that seemed to do maths, and computers that seemed to diagnose disease, turned out to be solving a different problem altogether.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how AI can be right for the wrong reasons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The horse who could count.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Berlin in the early 1900s, the retired schoolteacher Wilhelm von Osten toured with his horse, Hans.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask Hans to add five and three and he tapped his hoof eight times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He seemed to handle fractions, dates and even spelling, and von Osten genuinely believed his horse could think.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1904 a commission of experts found no sign of deliberate trickery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the psychologist Oskar Pfungst ran careful experiments.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the questioner did not know the answer, or Hans could not see them, his accuracy collapsed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hans was not counting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was reading tiny, unconscious changes in posture and expression that told him when to stop tapping.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Right answers, wrong reasons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Clever Hans had learned something impressive, just not what people thought.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Machine learning systems do the same.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A model uses whatever patterns help it get right answers on its training examples, whether or not they are the ones we intended.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If an accidental feature lines up with the answers, the model may latch on, because that is often easier than learning the real thing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers call this shortcut learning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2016 researchers deliberately trained a wolf-versus-husky classifier on photos where only the wolves had snow behind them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It did well, but a highlighting tool showed it was largely looking at the snow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High accuracy alone doesn't show what a system has learned.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real cases, one legend.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2018 study, deep learning models trained on chest X-rays could identify which hospital an image came from, using clues such as markings and equipment.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because some hospitals had sicker patients, the hospital itself helped predict disease, and the models did worse on X-rays from elsewhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019 dermatologists reported that a skin cancer classifier was more likely to call a mole cancerous if it had been marked with a surgical skin marker, which doctors often draw on suspicious spots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The systems had partly learned doctors' habits, not the disease.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A famous tale of a tank-spotting network that really detected cloudy weather is probably a myth: researchers have found no solid evidence it happened.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We no longer need it, as documented examples are plentiful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Catching shortcuts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pfungst exposed Clever Hans by changing the conditions: he hid the questioner and used questions nobody in the room knew the answer to.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AI researchers use similar tricks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most important is testing a model on data from different sources than it was trained on, such as X-rays from another hospital or photos from another country.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If performance drops sharply, a shortcut may be to blame.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers also use tools that highlight which parts of an input influenced a decision, and they deliberately alter images or text to see whether irrelevant changes flip the answer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Collecting more varied training data, where accidental patterns no longer line up with the answers, makes shortcuts harder to learn.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking like Pfungst.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The deepest lesson of Clever Hans is about us, not the horse.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Von Osten was honest, and the experts who first examined Hans were not fools.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They simply did not ask what else might explain the results.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2021 review of dozens of published AI models for diagnosing COVID-19 from chest scans found none ready for clinical use, with many suffering from flaws such as biased or mismatched data.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Impressive accuracy figures can hide a narrow trick.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whenever you hear that an AI can detect something remarkable, think like Pfungst: what exactly was it tested on, and could it be picking up on something other than what we think?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Clever Hans seemed to do maths but was really reading unconscious cues from the people around him.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. N-rays: the rays only believers could see.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1903 a respected French physicist discovered a new kind of radiation, and other scientists soon confirmed it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There was just one problem: it didn't exist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An age of invisible rays.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the end of the 1800s physics was full of astonishing discoveries.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1895 Wilhelm Röntgen found X-rays.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The next year Henri Becquerel found that uranium gave off its own radiation, and soon Marie and Pierre Curie were isolating new radioactive elements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1903 René Blondlot, a respected physicist at the University of Nancy, announced another kind, which he named N-rays after his home city.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The claim seemed like the next exciting chapter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "N-rays supposedly made a small spark or a faintly glowing screen grow slightly brighter, and observers judged this by eye in a darkened room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is a very weak signal: in dim light the eye struggles to judge small differences in brightness, and tiny flickers are easy to read as meaningful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, other scientists reported observations of their own.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others couldn't see them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not everyone was convinced.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicists in Germany and Britain, among them some of the most skilled experimenters of the day, set up the apparatus and saw nothing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supporters had an answer ready: perhaps the sceptics' eyes were not sensitive enough, or they lacked the right technique.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a warning sign worth remembering.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a result can only be seen by people who already believe in it, and failures are explained away as the observer's fault, the claim has become very difficult to test.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A real effect should show up for careful researchers whether or not they hope to find it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The disagreement rumbled on, until a visiting American physicist decided to investigate for himself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The missing prism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1904 the American physicist Robert W.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wood, of Johns Hopkins University, visited Blondlot's laboratory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blondlot demonstrated how an aluminium prism supposedly spread N-rays into a spectrum, with readings taken in a darkened room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "While the room was dark, Wood quietly removed the prism and kept it out of sight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blondlot carried on reading out measurements as if nothing had changed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wood also reported other secret checks in which observers kept seeing effects that should have vanished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He published his account in the journal Nature later that year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without accusing anyone of dishonesty, the report made it clear that the observations depended on what the observers expected, not on any real rays.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Self-deception, not fraud.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no good evidence that Blondlot set out to deceive anyone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was an accomplished scientist who had done respected earlier work measuring the speed of electrical waves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What went wrong was more ordinary and more unsettling: he and others genuinely perceived what they expected to perceive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After Wood's report, interest in N-rays faded quickly, especially outside France, though Blondlot is said to have kept believing in them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The episode is now a classic case study in how expectation shapes observation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chemist Irving Langmuir later popularised the phrase ‘pathological science’ for cases like this, where researchers fool themselves with effects so faint they sit right at the edge of what can be detected.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clever Hans and blinding.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A similar lesson came from a horse.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In early 1900s Berlin, a horse called Clever Hans appeared to answer arithmetic questions by tapping his hoof.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1907 the psychologist Oskar Pfungst showed that Hans was responding to tiny, unconscious cues from the people around him, who tensed and relaxed as he neared the right answer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the questioner didn't know the answer, or Hans couldn't see them, his skill vanished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The solution to both stories is blinding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a well-run modern trial, the people measuring results don't know which participants received the treatment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wood, in effect, ran a blind test.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whenever you can, test a claim in a way that stops the tester's hopes from steering the result.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After X-rays and radioactivity, physicists were primed to believe new rays existed, and N-rays were judged by eye.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did the operator open the cabinet doors one at a time before each game?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To persuade onlookers nothing was hidden.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How did Pfungst show that Hans wasn't really counting?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He hid the questioner or used unknown answers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did N-rays seem believable in 1903?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Recent finds such as X-rays made new rays plausible.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

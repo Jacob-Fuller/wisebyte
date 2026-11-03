@@ -1,0 +1,1188 @@
+{
+ "id": "s-language-3",
+ "title": "Words & Language · Episode 3",
+ "chapters": [
+  "Does your language shape how you think",
+  "Grammar myths",
+  "The secret history of punctuation",
+  "How to write clearly"
+ ],
+ "units": [
+  {
+   "t": "Words & Language. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Does your language shape how you think, Grammar myths, The secret history of punctuation and How to write clearly.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Does your language shape how you think.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Do Inuit really have hundreds of words for snow?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Does a language without left and right change how you see the world?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The truth is stranger and more subtle than the myths.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whorf's big idea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Benjamin Lee Whorf was a chemical engineer who worked for a fire insurance company in Connecticut and studied linguistics in his spare time, partly under Edward Sapir.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He noticed workers being careless near drums labelled ‘empty’ that still held explosive vapour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word, he suggested, was shaping their behaviour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1930s he argued that speakers of very different languages think differently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This became the Sapir-Whorf hypothesis, though neither man stated it formally.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The strong version says language sets the limits of thought.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is almost certainly false: babies and animals reason without words, and we keep inventing words for new ideas.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The weak version, linguistic relativity, says language nudges what you notice and remember.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two famous myths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whorf claimed the Hopi language of Arizona had no words or grammar for time as we understand it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1983 the linguist Ekkehart Malotki documented extensive Hopi time expressions, including words for days, seasons and units of time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The claim that Inuit have dozens or hundreds of words for snow grew from a modest remark by the anthropologist Franz Boas, who mentioned four root words.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It swelled with each retelling until Laura Martin and Geoffrey Pullum debunked it in the 1980s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inuit languages build long words from many parts, so counting words misleads, and English has plenty of snow words too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No left or right.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some of the strongest evidence for linguistic relativity comes from Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Speakers of Guugu Yimithirr, from Cape York in Queensland, do not use words like left, right, in front or behind to say where things are.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They use cardinal directions, even at small scales: there is an ant on your northern leg.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "John Haviland and Stephen Levinson found that speakers kept remarkably accurate track of direction at all times, even indoors or after travelling, because their language demands it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When people turned around and recreated arrangements of objects, such speakers preserved compass direction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English and Dutch speakers preserved left and right.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colour, number and time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Russian has separate basic words for lighter blue, goluboy, and darker blue, siniy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2007 study, Russian speakers were slightly faster at telling two shades apart across that boundary, but not when they silently repeated numbers, which suggests language was involved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Pirahã of the Amazon have no exact number words.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In several experiments they struggled with exact quantities beyond about three, though results varied.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Number words may be a cognitive tool for exactness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English speakers lay time out left to right, Hebrew and Arabic speakers often right to left, and Kuuk Thaayorre speakers on Cape York east to west, whichever way they face.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aymara links the past with the front, since you can see it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the debate stands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most researchers now accept a modest form of relativity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Language does not trap anyone's mind, but it guides attention, makes some distinctions easier to notice and remember, and provides tools like number words.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caution is still essential.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some well-publicised findings, such as grammatical gender changing how people describe objects, have proved hard to replicate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Claims linking grammar to behaviour like saving money remain contested.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics such as the psychologist Steven Pinker argue that thought runs on something deeper than any particular language.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning another language may not rewire your mind, but it can show you distinctions you never noticed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Language may nudge what we notice and remember, but it does not set the limits of what we can think.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Grammar myths.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You were probably told never to split an infinitive or end a sentence with a preposition.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neither rule was ever part of English grammar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's where they came from, and what actually matters.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two kinds of rule.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Descriptive grammar observes how fluent speakers actually use a language, the way a biologist describes an animal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By that standard, native speakers rarely make mistakes in everyday speech.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prescriptive grammar sets out how people ought to write or speak, usually in formal settings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some prescriptive rules are genuinely useful conventions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others were invented by 18th and 19th-century writers who admired Latin, and teachers have repeated them ever since, even though great writers have ignored them for centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Latin's long shadow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An infinitive is the 'to' form of a verb.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Splitting it means putting a word in between: 'to boldly go'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule against this became popular in the 19th century, partly because a Latin infinitive is a single word and can't be split.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English isn't Latin, and writers since the Middle Ages have split infinitives.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes it reads better: 'to more than double sales' is clearer than any alternative.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ban on ending a sentence with a preposition is often traced to John Dryden, who in 1672 criticised Ben Jonson for it, again under Latin's influence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In English it's natural; 'To whom are you talking?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "sounds stiff.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The joke 'This is the sort of English up with which I will not put' is attributed to Churchill, but there's no good evidence he said it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Words and old habits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Using 'literally' to mean 'very much' goes back to at least the 1700s and appears in Dickens, Twain and Fitzgerald.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Major dictionaries record it, noting some people object.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Words meaning 'truly' often become intensifiers: 'very' comes from an old French word for 'true'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In writing where precision matters, though, the figurative use can confuse.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule that 'less' suits uncountable things and 'fewer' countable ones seems to begin with Robert Baker in 1770, who said he merely preferred it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English speakers had used 'less' with countable nouns for about a thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Singular 'they', as in 'Someone left their umbrella', dates to the 1300s and appears in Shakespeare and Jane Austen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starting a sentence with 'And' or 'But' is fine; the King James Bible does it constantly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Double negatives.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'I didn't do nothing' is often called illogical, as if two negatives must cancel out.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But language isn't arithmetic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many languages, including Spanish, Italian and Russian, routinely stack negatives for emphasis, and Chaucer and Shakespeare did it in English too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everyone understands what the speaker means.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The double negative became non-standard in written English over several centuries, and it now signals informal speech.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So the real reason to avoid it in a job application is social, not logical: it sounds casual to many readers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules that matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some conventions genuinely help readers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Apostrophes distinguish 'its' from 'it's'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Commas change meaning: 'Let's eat, Grandma' versus 'Let's eat Grandma'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dangling modifiers confuse: 'Walking to work, the rain soaked me' suggests the rain was walking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Subject-verb agreement helps readers track who does what.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The test for any rule: does following it make your meaning clearer?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Linguists talk about register, the style that suits a situation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A text to friends, a eulogy, a contract and a job application call for different choices.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Formal writing has conventions worth knowing, because some readers judge them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But correcting everyday speech mostly signals status, not logic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aim for clarity and suitability.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Descriptive grammar records how people really use language; prescriptive grammar tells people how they should.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The secret history of punctuation.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ancient Romans wrote without spaces, commas or full stops.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The marks we now take for granted were invented one by one, often by monks and printers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Words without spaces.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine reading a book where every line looked like THISISHOWMOSTANCIENTTEXTSLOOKED.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much ancient Greek and Latin was written like this, which scholars call scriptio continua.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There were no spaces between words, no lower case letters and very little punctuation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It worked because reading was usually done aloud, often by trained readers who prepared a text in advance, much as an actor studies a script.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reader worked out where words and sentences broke by sounding them out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To us it seems maddening, but to a skilled Roman reader it was normal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Punctuation, as we know it, began as helpful notes for performers, telling them where to pause and breathe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dots, spaces and monks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 200 BCE, Aristophanes of Byzantium, who worked at the great library in Alexandria, is credited with a simple system.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He placed dots at different heights beside the text.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A low dot marked a short pause, a middle dot a slightly longer one and a high dot the end of a complete thought.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The short section was a 'komma', Greek for a piece cut off, and the complete thought was a 'periodos', a full circuit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those words became our comma and period.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many writers ignored the system.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The space between words may be the most important mark of all.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From around the 7th century, Irish and Anglo-Saxon scribes copying Latin began leaving gaps, because Latin was foreign to them and spaces made it easier to read.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spaces also helped make silent reading more common.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The printers step in.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When printing spread across Europe in the late 1400s, punctuation became more consistent, because thousands of copies came from the same set of type.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of the most influential printers was Aldus Manutius in Venice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1490s his press printed a work by the scholar Pietro Bembo that used the semicolon, a mark that became popular across Europe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aldus is also associated with italic type and with the elegant small books that were the paperbacks of their day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Printers needed rules so that compositors setting type would make the same choices, and over time they settled on many conventions we still follow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of what we call correct punctuation began as a printing house's house style.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The apostrophe's troubled life.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The apostrophe came into English in the 16th century, borrowed from French and Italian printing, where it marked missing letters, as in 'don't' for 'do not'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its use for possession, as in 'the dog's bone', developed gradually and was not fully settled until around the 1700s and 1800s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even then, awkward exceptions remained, such as 'its' for possession and 'it's' for 'it is', which still trip up careful writers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The so-called greengrocer's apostrophe, as in 'banana's $3 a kilo', is a much mocked error, but it shows how slippery the rules are.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some place names have dropped the apostrophe altogether, and Australian naming authorities generally prefer place names without it, as in Kings Cross.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Failed marks and texting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1962, American advertising executive Martin Speckter proposed the interrobang, a question mark and exclamation mark merged into one symbol, for startled questions such as 'You did what?'",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It had brief fame and appeared on some typewriters, but never entered everyday writing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Punctuation spreads only when many writers, printers and readers adopt it together, so the core marks have changed little in centuries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Send a friend a text that says 'Fine.'",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "and they may worry you are upset.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In casual messaging, the full stop at the end of a short message can look deliberate, and some research suggests readers find such messages less sincere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exclamation marks often signal warmth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is not decline.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is punctuation adapting to make meaning clear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ancient Greek and Latin were usually written as one unbroken stream of letters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. How to write clearly.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Clear writing isn't a talent you're born with.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's a handful of habits anyone can learn, and they'll make your emails, reports and messages easier to read and harder to ignore.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think, then lead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most muddled writing comes from muddled thinking.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before writing anything important, try to state your main point in one or two plain sentences, as if explaining it to a friend.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you can't, you're not ready.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then ask who your reader is, what they know and what you want them to do.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many of us were taught to build up to a conclusion, like a school essay.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But busy readers skim and may never reach your last paragraph.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lead with the decision, request or key finding.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Can you approve the budget by Friday?'",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "beats three paragraphs of background.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Journalists call this the inverted pyramid; the military says 'bottom line up front'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clear subject lines and headings do the same job.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plain words, short sentences.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Write 'use' rather than 'utilise', 'start' rather than 'commence', 'about' rather than 'in relation to', and 'help' rather than 'facilitate'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jargon has its place when every reader shares it, but it shuts others out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plain language isn't dumbing down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Government Style Manual recommends it, and studies of legal and medical documents show plain versions are understood better, even by experts.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long sentences force readers to hold too much in their heads.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plain-language guides commonly suggest an average of around 15 to 20 words, one main idea each.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mix lengths to avoid sounding choppy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a sentence passes about 30 words, split it, often at an 'and', 'which' or 'however'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shorter paragraphs help, especially on phones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Active voice.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the active voice, the doer comes first: 'The committee approved the plan.'",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the passive, the action comes first and the doer may vanish: 'The plan was approved.'",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Active sentences are usually shorter, clearer and more direct.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The passive can conveniently hide responsibility, as in the classic non-apology 'Mistakes were made.'",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the passive isn't a crime.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's useful when the doer is unknown or unimportant, as in 'The bridge was built in 1932', or when you want to focus on what happened.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cut the clutter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Clutter creeps in everywhere: 'at this point in time' means 'now', 'due to the fact that' means 'because', and 'in order to' is usually just 'to'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Words like 'very', 'really' and 'basically' rarely add much.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another problem is nominalisation, which the writing scholar Helen Sword calls 'zombie nouns': verbs turned into heavy nouns.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'We made a decision to conduct a review' becomes 'We decided to review'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "William Strunk's advice, first published in 1918, still holds: 'Omit needless words.'",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orwell and editing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In his 1946 essay 'Politics and the English Language', George Orwell argued that vague, inflated language helps people hide bad ideas.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His six rules: avoid familiar metaphors, prefer short words, cut any word you can, use the active over the passive, avoid jargon and foreign phrases when an everyday equivalent exists, and break any of these rules sooner than say anything outright barbarous.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost no one writes clearly in a first draft.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blaise Pascal apologised in 1656 for a long letter because he hadn't had time to make it shorter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leave a gap between drafting and editing, even an hour.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read aloud to catch clumsy sentences and missing words.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your point is up front, cut what doesn't earn its place, and ask whether your reader will know what to do next.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Clear writing starts with a clear main point, stated first for busy readers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why is the strong version of the Sapir-Whorf idea almost certainly false?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. People can think about things they have no words for.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does descriptive grammar do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Records how people actually use language.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why could ancient texts be written without spaces or punctuation?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Reading was usually aloud, by trained readers.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does 'bottom line up front' mean for your writing?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Put the key point or request first.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

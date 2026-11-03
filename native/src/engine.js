@@ -23,7 +23,7 @@ export const RULES = {
     quizCorrect: 3, quizPerfect: 20,
     challengePoint: 2, beatYesterday: 15,
     recallRight: 5, reviewRight: 3,
-    dailyComplete: 50, quoteRead: 10, masteryCorrect: 5, mastery: 100,
+    dailyComplete: 50, quoteRead: 10, masteryCorrect: 5, mastery: 100, heard: 10,
     masteryPass: 8,
   },
   goldenChance: 1 / 8,
@@ -241,10 +241,10 @@ function buildActivity(a, o) {
 const STORE_KEY = "wisebyte.v3";
 const freshStats = () => ({ answered: 0, correct: 0, run: 0, bestRun: 0, perfectLessons: 0, goldens: 0, recalls: 0, recallsRight: 0,
   challenges: 0, beatYesterday: 0, dailyCompletes: 0, lookups: 0, speedBest: 0, perfectFob: 0, perfectTimeline: 0, perfectOpposites: 0, perfectCapitals: 0, perfectCritical: 0, perfectGk: 0 });
-export const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, quotes: {}, mastered: {}, inner: {}, notify: { on: false, time: "08:00", asked: false }, stats: freshStats() });
+export const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, quotes: {}, mastered: {}, inner: {}, covered: {}, heard: {}, notify: { on: false, time: "08:00", asked: false }, stats: freshStats() });
 export const mergeProfile = p => {
   const m = Object.assign(freshProfile(), p && typeof p === "object" ? p : {});
-  for (const k of ["days", "lessons", "words", "custom", "ach", "scores", "quotes", "mastered", "inner"]) if (!m[k] || typeof m[k] !== "object" || Array.isArray(m[k])) m[k] = {};
+  for (const k of ["days", "lessons", "words", "custom", "ach", "scores", "quotes", "mastered", "inner", "covered", "heard"]) if (!m[k] || typeof m[k] !== "object" || Array.isArray(m[k])) m[k] = {};
   m.stats = Object.assign(freshStats(), (p && p.stats) || {});
   m.notify = Object.assign({ on: false, time: "08:00", asked: false }, (p && p.notify) || {});
   return m;
@@ -281,6 +281,39 @@ export const allWords = () => lib().concat(Object.values(state.custom));
 export const catOf = l => WB.CATEGORIES[l.cat] || { name: l.cat, color: "#888" };
 export const wcatOf = e => WB.WORD_CATS[e.cat] || WB.WORD_CATS.everyday;
 export const lessonMins = l => { const w = l.sections.reduce((a, s) => a + s.b.split(/\s+/).length, 0); return Math.max(1, Math.round(w / 200)); };
+
+/* ---- coverage: one record per lesson across Read, Scroll and Listen ----
+   covered  = the user has met the lesson's content (read it, or heard its episode)
+   mastered = they have also answered its questions (state.lessons holds the review record) */
+export const isCovered = id => !!(state.lessons[id] || state.covered[id]);
+let seenCache = { src: null, map: {} };
+/* how many of a lesson's teaching points the user has already seen as Scroll cards */
+export function scrollSeen(id) {
+  const arr = Store.get("wbs-seen", []);
+  if (seenCache.src !== arr) { const m = {}; for (const k of arr) if (k.startsWith("pt:")) { const lid = k.slice(3, k.lastIndexOf(":")); m[lid] = (m[lid] || 0) + 1; } seenCache = { src: arr, map: m }; }
+  return seenCache.map[id] || 0;
+}
+/* suggestions skip what the user has covered anywhere, and prefer lessons Scroll hasn't already shown them */
+function freshPool(pool) {
+  const fresh = pool.filter(l => !isCovered(l.id)); if (!fresh.length) return pool;
+  const unseen = fresh.filter(l => !scrollSeen(l.id));
+  return unseen.length ? unseen : fresh;
+}
+/* an audio episode finished: its lessons count as covered, and their questions wait in Review */
+export function markHeard(ids) {
+  const d = day(); let n = 0;
+  for (const id of ids) {
+    if (!lessonById(id)) continue;
+    if (!state.covered[id]) state.covered[id] = today();
+    if (!state.lessons[id] && !state.heard[id]) { state.heard[id] = today(); n++; }
+    if (id === d.lotd) d.know = true;
+    if (id === d.potd) d.practical = true;
+  }
+  if (n) { d.lesson += n; addXp(n * RULES.xp.heard); }
+  wrapUp().forEach(x => toast(x.text));
+  changed();
+  return n;
+}
 
 export function day(k = today()) {
   return state.days[k] || (state.days[k] = { lesson: 0, word: false, quiz: false, challenge: false, know: false, practical: false, expr: false, goal: false, done: false, words: 0, challenges: 0, secs: 0, xp: 0 });
@@ -347,7 +380,15 @@ function srUpdate(rec, right) {
   else { rec.box = 0; rec.due = addDays(today(), 1); }
 }
 function lessonRecall(id, right) {
-  const r = state.lessons[id]; if (!r) return;
+  const r = state.lessons[id];
+  if (!r) {
+    if (!state.heard[id]) return;
+    state.stats.recalls++;
+    /* a heard lesson becomes a learned one once its question is answered from memory */
+    if (right) { state.stats.recallsRight++; state.lessons[id] = { box: 1, due: addDays(today(), RULES.intervals[1]), learnedAt: state.covered[id] || today(), best: 0, attempts: 0, via: "audio" }; delete state.heard[id]; }
+    else state.heard[id] = addDays(today(), 1);
+    return;
+  }
   srUpdate(r, right); state.stats.recalls++; if (right) state.stats.recallsRight++;
 }
 export function addWord(w, source) {
@@ -363,12 +404,15 @@ function updateWord(w, right) {
 }
 export const struggling = w => { const r = state.words[w]; return !!r && (r.lapses >= 2 || (r.wrong >= 2 && r.wrong >= r.right)); };
 export const mastered = w => { const r = state.words[w]; return !!r && r.box >= RULES.masteredBox; };
-export const allDueLessons = () => Object.keys(state.lessons).filter(id => lessonById(id) && (lessonById(id).audience || "adult") === aud() && state.lessons[id].due <= today())
-  .sort((a, b) => state.lessons[a].due.localeCompare(state.lessons[b].due));
+/* lessons due for review, including lessons only heard on audio (their questions turn "covered" into "mastered") */
+const dueOf = id => state.lessons[id] ? state.lessons[id].due : state.heard[id];
+export const allDueLessons = () => Object.keys(state.lessons).concat(Object.keys(state.heard).filter(id => !state.lessons[id]))
+  .filter(id => lessonById(id) && (lessonById(id).audience || "adult") === aud() && dueOf(id) <= today())
+  .sort((a, b) => dueOf(a).localeCompare(dueOf(b)));
 export const REVIEW_CAP = 10;
 export const reviewsLeft = () => Math.max(0, REVIEW_CAP - (day().reviewed || 0));
 function reviewQueue() {
-  const items = allDueLessons().map(id => ({ k: "l", id, due: state.lessons[id].due }));
+  const items = allDueLessons().map(id => ({ k: "l", id, due: dueOf(id) }));
   return items.sort((a, b) => a.due.localeCompare(b.due)).slice(0, reviewsLeft());
 }
 export const dueLessons = () => reviewQueue().filter(x => x.k === "l").map(x => x.id);
@@ -389,15 +433,13 @@ export function categoryStats() {
 /* daily picks (stable for the day) */
 export function lessonOfDay() {
   const d = day(); if (d.lotd && lessonById(d.lotd) && (lessonById(d.lotd).audience || "adult") === aud()) return lessonById(d.lotd);
-  const pool = lessons().filter(l => !isPractical(l)), fresh = pool.filter(l => !state.lessons[l.id]);
-  const src = fresh.length ? fresh : pool;
+  const src = freshPool(lessons().filter(l => !isPractical(l)));
   const l = src[hashStr(today() + aud() + "L") % src.length]; d.lotd = l.id; save(); return l;
 }
 /* the lesson the app shows on a given day (today: the real lesson of the day; later days: the same rule, nothing saved) */
 export function lessonForDate(k) {
   if (k === today()) return lessonOfDay();
-  const pool = lessons().filter(l => !isPractical(l)), fresh = pool.filter(l => !state.lessons[l.id]);
-  const src = fresh.length ? fresh : pool;
+  const src = freshPool(lessons().filter(l => !isPractical(l)));
   return src[hashStr(k + aud() + "L") % src.length];
 }
 export const hooksNotify = { firstLesson: null, refresh: null };
@@ -459,7 +501,11 @@ export function checkAchievements() {
 }
 export function wrapUp() {
   const out = checkDay();
-  if (pendingLevelUp) { out.push({ cls: "", icon: "bolt", text: `Level up! Level ${pendingLevelUp} · ${rank(pendingLevelUp).name}` }); pendingLevelUp = null; }
+  if (pendingLevelUp) {
+    out.push({ cls: "", icon: "bolt", text: `Level up! Level ${pendingLevelUp} · ${rank(pendingLevelUp).name}` });
+    if (pendingLevelUp === INNER_LEVEL) out.push({ cls: "gold", icon: "eye3", text: "The Inner Circle is open to you" });
+    pendingLevelUp = null;
+  }
   checkAchievements().forEach(a => out.push({ cls: "gold", icon: a.icon, text: `Achievement: ${a.name}` }));
   save();
   return out;
@@ -524,8 +570,7 @@ const LIFE_IDS = new Set((WB.COLLECTIONS.find(c => c.id === "life") || { ids: []
 export function isPractical(l) { return l.cat === "life" || LIFE_IDS.has(l.id) || PRACTICAL_EXTRA.includes(l.id); }
 export function practicalOfDay() {
   const d = day(); if (d.potd && lessonById(d.potd) && (lessonById(d.potd).audience || "adult") === aud()) return lessonById(d.potd);
-  const pool = lessons().filter(isPractical), fresh = pool.filter(l => !state.lessons[l.id]);
-  const src = fresh.length ? fresh : pool;
+  const src = freshPool(lessons().filter(isPractical));
   const l = src[hashStr(today() + aud() + "P") % src.length]; d.potd = l.id; save(); return l;
 }
 export const quotePool = () => QUOTES.map((x, i) => ({ ...x, i, id: x.q }));
@@ -557,10 +602,11 @@ export function memoryStrength() {
   const t = today(), score = recs.reduce((a, r) => a + (r.due < t ? Math.min(r.box, 4) / 8 : Math.min(r.box + 1, 5) / 5), 0);
   return { pct: Math.round(100 * score / recs.length), n: recs.length };
 }
+/* The Inner Circle opens at a fixed level, so new content and achievements never move the goalposts */
+export const INNER_LEVEL = 15;
 export function innerProgress() {
-  checkAchievements();
-  const got = ACHIEVEMENTS.filter(a => state.ach[a.id]).length, total = ACHIEVEMENTS.length;
-  return { got, total, pct: Math.floor(100 * got / total), open: got === total, left: ACHIEVEMENTS.filter(a => !state.ach[a.id]) };
+  const lv = level(), need = xpForLevel(INNER_LEVEL);
+  return { level: lv, need: INNER_LEVEL, pct: Math.min(100, Math.floor(100 * state.xp / need)), open: lv >= INNER_LEVEL, xpLeft: Math.max(0, need - state.xp) };
 }
 export const innerWords = () => WB.WORDS.filter(e => e.audience === "inner");
 export const innerLessons = () => WB.LESSONS.filter(l => l.audience === "inner");
@@ -665,9 +711,10 @@ export function startWord(w, isWotd) {
   const e = entry(w); if (!e) return;
   start({ mode: "word", e, isWotd, color: wcatOf(e).color, steps: [{ t: "w-card" }, { t: "w-reward" }] });
 }
+const recallSub = (id, l) => state.lessons[id] ? `You learned about <b>${esc(l.title)}</b> ${ago(state.lessons[id].learnedAt)}.` : `You heard about <b>${esc(l.title)}</b> ${ago(state.covered[id] || today())}.`;
 export function startRecall() {
   const ids = dueLessons().slice(0, 5); if (!ids.length) return toast("Nothing to recall right now");
-  start({ mode: "recall", total: ids.length, steps: [...ids.map(id => { const l = lessonById(id); return { t: "q", q: qLesson(l, rand(l.quiz.length), `You learned about <b>${esc(l.title)}</b> ${ago(state.lessons[id].learnedAt)}.`), head: "Quick recall" }; }), { t: "summary" }] });
+  start({ mode: "recall", total: ids.length, steps: [...ids.map(id => { const l = lessonById(id); return { t: "q", q: qLesson(l, rand(l.quiz.length), recallSub(id, l)), head: "Quick recall" }; }), { t: "summary" }] });
 }
 function wordSteps(list, kinds) {
   return list.map(e => { let k = pick(kinds); if (k === "odd" && !canOdd(e)) k = "meaning"; return { t: "q", q: wordQ[k](e) }; });
@@ -702,7 +749,7 @@ export function startMastery(id) {
   start({ mode: "mastery", subject: x, total: steps.length, steps: [{ t: "m-intro" }, ...steps, { t: "summary" }] });
 }
 export function startFullReview() {
-  const ls = dueLessons().map(id => { const l = lessonById(id); return { t: "q", q: qLesson(l, rand(l.quiz.length), `You learned about <b>${esc(l.title)}</b> ${ago(state.lessons[id].learnedAt)}.`) }; });
+  const ls = dueLessons().map(id => { const l = lessonById(id); return { t: "q", q: qLesson(l, rand(l.quiz.length), recallSub(id, l)) }; });
   const steps = shuffle(ls).map((st, i, a) => ({ ...st, head: `Review · ${i + 1} of ${a.length}` }));
   if (!steps.length) return toast("Nothing is due right now");
   start({ mode: "memory", total: steps.length, steps: [...steps, { t: "summary" }] });
@@ -715,7 +762,7 @@ export function startInner(kind) {
     return { t: "q", head: `Lexicon · ${i + 1} of 10`, q: { src: "word", w: e.w, prompt: `What does <b>${esc(e.w)}</b> mean?`, options: m.options.map(esc), answer: m.answer, explain: esc(`${e.w}: ${e.def}`) } }; }); }
   start({ mode: "inner", kind, total: steps.length, steps: [...steps, { t: "summary" }] });
 }
-export function startRandomLesson() { const pool = lessons(), fresh = pool.filter(l => !state.lessons[l.id]); startLesson(pick(fresh.length ? fresh : pool).id); }
+export function startRandomLesson() { startLesson(pick(freshPool(lessons())).id); }
 
 /* --- moving through steps --- */
 export const hooksPlayer = { speak: null };
@@ -773,6 +820,8 @@ function finishLesson() {
   if (P.replay) { xp = Math.round(xp * RULES.xp.replayFactor); lines.push(["Review", "½ XP"]); }
   if (P.golden) { xp *= 2; lines.push(["Golden Lesson", "2×"]); state.stats.goldens++; }
   addXp(xp);
+  if (!state.covered[l.id]) state.covered[l.id] = today();
+  delete state.heard[l.id];
   const rec = state.lessons[l.id];
   if (!rec) state.lessons[l.id] = { box: 0, due: addDays(today(), 1), learnedAt: today(), best: right, attempts: 1 };
   else { rec.best = Math.max(rec.best, right); rec.attempts++; const was = rec.due; srUpdate(rec, right >= Math.ceil(n * 0.6)); if (rec.due < was) rec.due = was; }

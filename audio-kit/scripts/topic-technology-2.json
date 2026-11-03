@@ -1,0 +1,616 @@
+{
+ "id": "topic-technology-2",
+ "title": "Technology Shorts · Episode 2",
+ "chapters": [
+  "How your phone camera takes a photo",
+  "How files get squeezed: the art of compression"
+ ],
+ "units": [
+  {
+   "t": "Technology Shorts. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How your phone camera takes a photo and How files get squeezed: the art of compression.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How your phone camera takes a photo.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A phone camera's lens is smaller than a pea, yet it can rival cameras costing thousands of dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The secret is less about glass and more about software.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light in buckets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A digital camera uses an image sensor, a silicon chip covered in millions of light-sensitive sites called photosites.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each works like a bucket left out in the rain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During an exposure, photons strike the silicon and knock electrons loose, and the photosite collects them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brighter light means more charge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards the charge is measured and turned into a number.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost all phones use CMOS sensors, built like computer chips, which made them cheap and power-efficient.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A photosite counts light but cannot see colour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most sensors put a red, green or blue filter over each one, in a checkerboard patented by Kodak's Bryce Bayer in 1976, with twice as many green as red or blue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Software estimates the two missing colours at each point from its neighbours, called demosaicing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The small-sensor problem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phones are thin, so their sensors and lenses must be small.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A full-frame professional sensor is about 36 by 24 millimetres, and most phone sensors are a fraction of that area.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A smaller sensor gathers less light, so in a dim room each photosite may collect only a few photons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light arrives randomly, so with few photons the counts fluctuate from one photosite to the next, and the image fills with grainy speckles called noise.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The electronics add a little of their own.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a physical limit, not a manufacturing fault, and explains why phone photos once looked so poor indoors and at night.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cramming in more megapixels can make it worse, because each photosite becomes smaller still.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many photos in one.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The breakthrough was computational photography.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A modern phone is often already capturing frames before you press the shutter, and combines several into one picture.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Averaging many frames cancels much of the random noise, much as averaging many people's guesses cancels individual errors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combining shorter and longer exposures keeps detail in both a bright sky and dark shadows, a technique called high dynamic range, or HDR.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Night modes capture frames over a second or more and align them to correct for shaky hands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All this happens in moments on dedicated processors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The photo you see is not a single instant of light but a carefully assembled composite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Software makes choices.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After merging frames, the phone keeps editing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It adjusts white balance so a white shirt looks white under orange indoor light, sharpens edges, smooths skin and boosts colours to look pleasing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many phones recognise what is in the scene, such as food, faces or sky, and treat each part differently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portrait mode imitates the soft background blur of a large lens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tiny lens produces little natural blur, so software estimates how far away each part of the scene is, using two cameras, depth sensors or machine learning, then blurs the background artificially.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look closely at hair or glasses edges and you can sometimes spot mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Different brands make different choices, which is why the same scene can look noticeably different on two phones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still a photograph.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "All cameras interpret the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Film chemistry favoured some colours over others, and photographers have always chosen exposure and framing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But phones push interpretation much further, and the line between capturing and creating has blurred.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some features can erase unwanted people from the background, or combine the best expressions from several shots of a group.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A well-known controversy arose in 2023 over phone photos of the Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tester showed that one brand's processing added lunar detail missing from a deliberately blurred original, drawing on a model trained on what the Moon looks like.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most processing is harmless and simply produces better pictures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, a modern phone photo is best seen as the camera's best estimate of a scene, not a perfect copy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A camera sensor counts photons in millions of tiny photosites, and software later guesses the missing colours.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How files get squeezed: the art of compression.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A whole CD's worth of music can shrink to about a tenth of its size, so thousands of songs fit on your phone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compression works by finding patterns, and by cleverly throwing away what your eyes and ears will not miss.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making files smaller.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One minute of uncompressed CD-quality stereo audio takes about ten megabytes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Uncompressed high definition video would need hundreds of megabytes every few seconds, far more than a typical home connection could carry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet you stream films on a train and store thousands of photos on a phone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trick is compression: representing the same information, or something close enough, in fewer bits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lossless compression shrinks a file so it can be rebuilt perfectly, bit for bit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lossy compression goes further by discarding details people are unlikely to notice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most media you enjoy relies on clever lossy methods built on top of lossless ideas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patterns and short codes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a clear blue sky, where a row holds a thousand identical blue pixels.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead of storing blue a thousand times, store 'blue, repeated 1,000 times'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is run length encoding.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A more powerful method from Abraham Lempel and Jacob Ziv in the late 1970s replaces repeated sequences with a short pointer: 'go back this far and copy this many characters'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Variations power ZIP files, PNG images and web page transfers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Morse code already used another idea: the common letter E is one dot, while rare Q gets a long pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1952, David Huffman, then an MIT student, published a method for building the best such code.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Truly random data cannot be shrunk at all.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How JPEG fools your eyes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lossy image compression exploits quirks of human vision.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "JPEG, a standard from the early 1990s, first separates brightness from colour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our eyes are far more sensitive to brightness differences than colour ones, so JPEG usually stores colour at lower resolution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next it splits the image into small blocks, typically eight by eight pixels, and describes each as a mix of smooth patterns, from broad gradients to fine stripes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fine, busy patterns matter least to our eyes, so they are rounded off heavily or thrown away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lossless coding then packs what remains.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Push the quality setting down and the trick shows: blurry edges, smudged colours and visible square blocks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How MP3 fools your ears.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Audio formats such as MP3, developed in Germany in the late 1980s and early 1990s, and the later AAC, use psychoacoustics, the science of how we perceive sound.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We cannot hear very high or very low frequencies well, and a loud sound masks quieter sounds at nearby frequencies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An encoder analyses music in short slices, works out which parts would be masked or inaudible, and spends fewer bits on them or drops them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The result can be roughly a tenth the size of the original CD audio while sounding very similar to most listeners.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At low bit rates, you may hear swirly, watery artefacts, particularly in cymbals and applause.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Video and lost generations.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consecutive video frames are usually very similar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a newsreader shot, the background barely changes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Codecs such as H.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "264, H.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "265 and AV1 store full keyframes only occasionally, and describe how blocks have moved since an earlier frame, plus small corrections.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When data goes missing, streams turn into smeared blocks because movement is applied to the wrong picture until the next keyframe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confetti, rain and fast panning are hard to compress.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lossy formats also cause generation loss.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each time you edit and re-save a JPEG, or share a photo through apps that recompress it, more detail is lost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep an original of anything important, and make compressed copies from that master.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Compression stores the same information in fewer bits, either perfectly rebuilt, lossless, or close enough, lossy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does a phone sensor get colour information?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Filters over photosites, with software filling the gaps.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the difference between lossless and lossy compression?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Lossless rebuilds exactly, lossy discards some detail.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 2,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

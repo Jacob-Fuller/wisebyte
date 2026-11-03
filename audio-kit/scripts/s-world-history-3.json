@@ -1,0 +1,923 @@
+{
+ "id": "s-world-history-3",
+ "title": "World History: The Big Picture · Episode 3",
+ "chapters": [
+  "World War I and the ANZACs",
+  "World War II: how it began and ended",
+  "The Cold War"
+ ],
+ "units": [
+  {
+   "t": "World History: The Big Picture. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: World War I and the ANZACs, World War II: how it began and ended and The Cold War.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. World War I and the ANZACs.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The war that was meant to be over by Christmas lasted four years, killed millions and shaped Australia's sense of itself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A spark, then a chain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 28 June 1914 Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, was shot dead in Sarajevo by Gavrilo Princip, a young Bosnian Serb nationalist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Austria-Hungary blamed Serbia and declared war a month later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why did a regional crisis spread?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Europe was split into alliance blocs: Germany and Austria-Hungary on one side, France, Russia and Britain on the other.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Countries had huge armies and war plans that relied on mobilising quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Empires competed for colonies and naval power, and nationalism ran high.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Russia backed Serbia, Germany backed Austria-Hungary, and when Germany invaded neutral Belgium to attack France, Britain declared war.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As part of the British Empire, Australia was automatically at war.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trenches and new weapons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everyone expected a short war.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead, by late 1914 the Western Front was a line of trenches from the Belgian coast to Switzerland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Machine guns, barbed wire and artillery made attacking across 'no man's land' suicidal, and huge offensives gained only a few kilometres at enormous cost.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the first day of the Somme in 1916, the British Army suffered about 57,000 casualties.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soldiers lived with mud, rats, lice, disease and constant shelling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was an industrial war with terrible new weapons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Poison gas, first used on a large scale in 1915, caused blindness and suffocation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tanks appeared in 1916.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aircraft moved from scouting to bombing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "German submarine attacks on shipping helped bring the United States into the war in 1917.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gallipoli and sacrifice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1915 the Allies tried to knock the Ottoman Empire out of the war by seizing the Dardanelles strait.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 25 April, the Australian and New Zealand Army Corps landed at what became known as Anzac Cove.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They faced steep cliffs and determined Ottoman defenders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The campaign dragged on for eight months before the Allies withdrew.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 8,700 Australians died.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The day of the landing became Anzac Day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia had fewer than five million people, yet about 417,000 men enlisted, all volunteers; two referendums on conscription were narrowly defeated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 60,000 died and around 156,000 were wounded, gassed or taken prisoner.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most deaths came on the Western Front, at places like Pozieres, Fromelles and Passchendaele.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than 1,000 Aboriginal and Torres Strait Islander men also served, despite discrimination at home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The end.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1917 Russia collapsed into revolution and left the war, but American troops and resources tipped the balance towards the Allies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germany's final offensives in 1918 failed, its allies surrendered and its people were starving.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An armistice took effect at 11 am on 11 November 1918, the 'eleventh hour of the eleventh day of the eleventh month', now marked as Remembrance Day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 20 million soldiers and civilians had died.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The influenza pandemic that followed killed tens of millions more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medicine had advanced too, with blood transfusions, better surgery and new understanding of what was then called 'shell shock'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A flawed peace.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 1919 Treaty of Versailles forced Germany to accept blame, give up territory and colonies, limit its army and pay heavy reparations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian Prime Minister Billy Hughes was there and fought for Australia to control German New Guinea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four empires, the German, Austro-Hungarian, Russian and Ottoman, had collapsed, redrawing maps across Europe and the Middle East.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Germans resented the treaty bitterly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That resentment helped fuel the rise of Hitler and a second, even deadlier world war just 20 years later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A peace that humiliates the loser can plant the seeds of the next conflict.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A single assassination in 1914 became a world war because of rival alliances, huge armies and imperial rivalry.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. World War II: how it began and ended.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The deadliest conflict in human history, and how it still shapes the world you live in.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The road to war.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "World War II ran from 1939 to 1945 and was the deadliest conflict in human history, with an estimated 70 to 85 million deaths, most of them civilians.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It drew in most nations, including every great power, and was fought across Europe, Africa, Asia and the Pacific.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around a million Australians served, from a population of about seven million, and nearly 40,000 died.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It grew from the aftermath of World War I.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germany faced harsh terms under the Treaty of Versailles, including lost territory and reparations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the Great Depression brought mass unemployment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adolf Hitler and the Nazis exploited the anger, took power in 1933, built a dictatorship and rearmed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain and France tried appeasement, giving in to some demands, such as letting Germany take part of Czechoslovakia in 1938, to keep the peace.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Poland to the world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In August 1939 Germany and the Soviet Union signed a pact not to attack each other, secretly agreeing to divide Poland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germany invaded on 1 September.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain and France declared war two days later, and Prime Minister Robert Menzies announced that Australia was at war too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast tanks and aircraft swept through western Europe, and France fell in June 1940.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain held out in the Battle of Britain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In June 1941 Hitler broke the pact and invaded the Soviet Union, opening the war's largest and bloodiest front.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In December, Japan attacked Pearl Harbor, bringing in the US, and swept through South-East Asia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Singapore fell in February 1942, with around 15,000 Australians taken prisoner, and Darwin was bombed days later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The main Allies were Britain and its Commonwealth, the Soviet Union and the US; the Axis was Germany, Italy and Japan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Holocaust.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Nazi regime systematically murdered around six million Jews, about two thirds of Europe's Jewish population, in what is known as the Holocaust or Shoah.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Millions of others were also killed, including Roma, disabled people, Soviet prisoners of war, Poles and political opponents.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victims were shot in mass executions or murdered in death camps such as Auschwitz-Birkenau.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scale and deliberate planning shocked the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Holocaust led directly to new international laws on genocide and human rights after the war.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tide turns.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1942 and 1943 the tide turned.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The US defeated Japan's navy at the Battle of Midway in June 1942.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian troops halted the Japanese advance on the Kokoda Track in Papua.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "British and Commonwealth forces, including Australians, won at El Alamein in Egypt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Soviet victory at Stalingrad in early 1943 destroyed an entire German army.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 6 June 1944, D-Day, Allied troops landed in Normandy, France, opening a second front in the west.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germany was now squeezed between Soviet forces in the east and the Western Allies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The end and the legacy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hitler took his own life in Berlin, and Germany surrendered in May 1945.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In August the US dropped atomic bombs on Hiroshima and Nagasaki, killing well over 100,000 people, and the Soviet Union declared war on Japan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Japan announced its surrender on 15 August, now Victory in the Pacific Day in Australia, and signed formally on 2 September.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The war reshaped the world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United Nations was founded in 1945 to prevent another global conflict.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US and Soviet Union became rival superpowers, beginning the Cold War.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "European empires weakened and many colonies soon gained independence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, the main alliance shifted from Britain towards the US, and a huge postwar migration program, under the slogan 'populate or perish', brought millions from Europe and later the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: World War II, 1939 to 1945, was the deadliest conflict in history, rooted in the aftermath of World War I and the Depression.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Cold War.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For over 40 years, two superpowers came close to destroying the world without ever fighting each other directly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Allies become rivals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United States and the Soviet Union fought on the same side in World War II, but had little else in common.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The US was a capitalist democracy; the USSR was a communist one-party state.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the war ended, Soviet forces controlled Eastern Europe and installed communist governments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1946 Winston Churchill warned that an 'iron curtain' had descended across Europe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germany was split into a democratic West and a communist East, and Berlin was split too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1948-49 the Soviets blockaded West Berlin, and the Western allies supplied the city entirely by air for almost a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NATO formed in 1949 and the Soviet bloc answered with the Warsaw Pact in 1955.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "East Germany built the Berlin Wall in 1961 to stop people fleeing west.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It stood until 1989.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The nuclear arms race.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The US used atomic bombs in 1945, and the Soviet Union tested its own in 1949.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both sides then raced to build more and bigger weapons, including hydrogen bombs hundreds or even thousands of times more powerful than the Hiroshima bomb.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the peak, in the mid-1980s, there were around 70,000 nuclear warheads in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The strategy was mutually assured destruction, aptly abbreviated MAD.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It held that neither side would attack, because it would be destroyed in return.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cold War, roughly 1947 to 1991, was called 'cold' because the superpowers never fought each other directly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Schoolchildren practised 'duck and cover' drills.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thirteen days in 1962.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In October 1962, US spy planes discovered Soviet nuclear missiles being installed in Cuba, just 145 kilometres from Florida.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For thirteen tense days, the world stood on the edge of nuclear war.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "President John F.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kennedy ordered a naval blockade of Cuba.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eventually Soviet leader Nikita Khrushchev agreed to remove the missiles in exchange for a US promise not to invade Cuba, and a secret deal to remove US missiles from Turkey.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, a direct hotline was set up between Washington and Moscow, so leaders could talk quickly in a crisis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rivalry by other means.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead of fighting each other, the superpowers backed opposing sides in conflicts around the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Korean War, 1950-53, ended in a stalemate that still divides the peninsula.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Vietnam, the US fought to stop the communist North taking over the South.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 60,000 Australians served there between 1962 and 1973, and 523 died.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The war sparked huge protests in Australia, including over conscription.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proxy conflicts also raged in Afghanistan, Angola and Latin America.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rivalry extended into space.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Soviet Union launched Sputnik, the first satellite, in 1957, and Yuri Gagarin became the first human in space in 1961.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 20 July 1969 Apollo 11 landed on the Moon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Honeysuckle Creek and the Parkes radio telescope helped broadcast those first pictures.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The end and the legacy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the 1980s the Soviet economy was struggling.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mikhail Gorbachev, leader from 1985, introduced reforms known as glasnost, openness, and perestroika, restructuring, and signed arms reduction treaties with Ronald Reagan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1989 peaceful revolutions swept Eastern Europe, and on 9 November the Berlin Wall opened.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germany reunified in 1990, and on 26 December 1991 the Soviet Union dissolved into 15 countries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The legacy is all around us.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NATO still exists and has expanded.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thousands of nuclear weapons remain, though far fewer than at the peak.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Satellites, GPS and the early internet came from the rivalry.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many of today's tensions, from Ukraine to Korea, have roots in Cold War divisions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After World War II the US and Soviet Union became opposing superpowers, and Europe divided into two armed blocs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did the assassination in Sarajevo grow into a world war?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Interlocking alliances and war plans pulled in the great powers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was 'appeasement'?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Giving in to some of Hitler's demands for peace.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was the Cold War called 'cold'?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The two sides never fought directly.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

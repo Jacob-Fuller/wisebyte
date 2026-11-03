@@ -1,0 +1,941 @@
+{
+ "id": "s-mythology-3",
+ "title": "Mythology · Episode 3",
+ "chapters": [
+  "Ireland's gods, heroes and fairy mounds",
+  "Māui and the myths of Polynesia",
+  "The Dreaming: law, land and story"
+ ],
+ "units": [
+  {
+   "t": "Mythology. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Ireland's gods, heroes and fairy mounds, Māui and the myths of Polynesia and The Dreaming: law, land and story.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Ireland's gods, heroes and fairy mounds.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Before St Patrick, Ireland had shining gods who vanished into the hills, a hero who could fight an army alone, and a giant who supposedly built a causeway to Scotland.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stories saved by monks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pre-Christian Irish left no written scriptures.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Poets and druids, trained for years, carried genealogies, laws and tales in memory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What we have comes mostly from manuscripts copied by monks between roughly the eighth and fifteenth centuries, long after Ireland became Christian.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes the stories wonderful but tricky.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scribes preserved them with affection, yet they also reshaped them, turning old gods into ancient kings and fitting Irish history into a biblical timeline.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scholars sort the tales into groups: the Mythological Cycle, the Ulster Cycle, the Fenian Cycle and the Cycles of the Kings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Invaders and shining ones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The medieval Lebor Gabála Érenn, the \"Book of the Taking of Ireland\", tells of Ireland settled in waves: Cessair and Partholón, then Nemed, then the Fir Bolg, each struggling against the monstrous Fomorians.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then came the Tuatha Dé Danann, magical beings who arrived wrapped in mist, and finally the Milesians, ancestors of the Irish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compiled largely in the eleventh century, it is legend, not a record of real migrations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many scholars see the Tuatha Dé as former gods.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Dagda owned a cauldron that never ran empty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lugh, master of every craft, led them to victory over the Fomorians.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brigid, linked with poetry and healing, lives on as St Brigid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Morrígan, goddess of war, could become a crow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the Milesians won, the Tuatha Dé withdrew into the sídhe, the ancient mounds, and became the fairy folk of folklore.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cú Chulainn, the Hound.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The boy Sétanta, nephew of King Conchobar of Ulster, arrived late to a feast at the smith Culann's house.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Culann's ferocious guard dog attacked him, and he killed it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing the smith's grief, the boy offered to be his hound until a new one was raised.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So he became Cú Chulainn, \"Culann's Hound\".",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In battle he could be seized by a terrifying frenzy, the ríastrad, which twisted his body into a monstrous shape.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the epic Táin Bó Cúailnge, the \"Cattle Raid of Cooley\", Queen Medb of Connacht invades Ulster to seize a prize bull.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Ulster warriors lie helpless under a curse, so the teenage Cú Chulainn holds back her army alone, fighting a long series of duels at a river ford.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hero's death.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Irish heroes lived under geasa, sacred prohibitions that could not be broken without disaster.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cú Chulainn was bound never to eat dog meat, yet also never to refuse hospitality.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before his last battle, three old women offered him dog meat, and either choice meant breaking a geis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weakened, he fought on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mortally wounded, he tied himself to a standing stone so that he could die on his feet, facing his enemies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They dared not approach until a crow, the sign of the Morrígan, landed on his shoulder.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bronze statue of the dying Cú Chulainn stands in Dublin's General Post Office as a memorial to those who fought in the 1916 Easter Rising.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fionn, swans and Youth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Fenian Cycle follows Fionn mac Cumhaill and his war band.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As a youth he served a poet who had spent seven years trying to catch the Salmon of Knowledge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Told to cook it but not taste it, Fionn burnt his thumb, sucked it, and gained all its wisdom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later folklore made him a giant who built the Giant's Causeway as a road to Scotland, a playful tale about land formed by cooling lava.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Children of Lir, a jealous stepmother turns four children into swans for nine hundred years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the spell breaks, they age and die.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fionn's son Oisín rides to Tír na nÓg, the Land of Youth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After what seems three years, he visits home and finds three hundred have passed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Touching the ground, he ages instantly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most Irish myths survive only because medieval Christian scribes wrote them down, and they reshaped them as they did.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Māui and the myths of Polynesia.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "He fished up islands, slowed the sun and stole fire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Māui, the trickster demigod, is a hero across thousands of kilometres of Pacific Ocean.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hero of the Pacific.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture the vast triangle of Polynesia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It runs from Aotearoa New Zealand in the south-west to Hawaiʻi in the north and Rapa Nui, or Easter Island, in the east.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Island peoples with shared ancestral roots tell stories of the same mischievous hero: Māui, a clever, cheeky, slightly reckless demigod whose adventures explain features of the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a well-known telling, Māui was born early and his mother, Taranga, wrapped him in her topknot and cast him into the sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Seaweed and jellyfish protected him, and a sky ancestor raised him.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a boy he returned to announce himself to his surprised family.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He begins as an outsider who must prove himself, as the youngest of several brothers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fishing up a land.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous Māui story in Aotearoa tells how he hid in the bottom of his brothers' canoe when they went fishing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Far out to sea, he revealed himself and lowered a magical hook made from the jawbone of his grandmother, Murirangawhenua.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He caught something enormous and hauled it up: a vast fish, which became the North Island.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its Māori name, Te Ika a Māui, means the fish of Māui.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His brothers began hacking at the fish before it had settled, which is said to explain the North Island's mountains and valleys.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The South Island is often known as Te Waka a Māui, his canoe, and Stewart Island as Te Punga a Māui, its anchor stone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sun and fire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sun once raced across the sky so fast that people lacked daylight to fish, farm and cook.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Māui and his brothers plaited strong ropes, went to where the sun rose and snared it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Māui beat it with his grandmother's jawbone until it agreed to travel more slowly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Hawaiian tradition, a similar feat happens on Haleakalā, 'house of the sun', on Maui.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In another story, Māui put out the village fires and visited the fire goddess Mahuika, who kept fire in her fingernails.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He tricked her into giving up nail after nail until one was left.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She threw it at him, setting the land ablaze.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Māui called on rain, and the last sparks escaped into certain trees, such as the kaikōmako.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why rubbing sticks of those woods together makes fire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The death of a trickster.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Māui's final adventure is his most daring.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He wanted to defeat death itself, so that people could live forever.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Death was personified by Hine nui te pō, the great woman of the night, a guardian of the underworld.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Māui planned to crawl through her body while she slept, which would reverse the course of death.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He took birds with him and warned them to keep quiet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But as he crawled, the sight was so comical that a little fantail, the pīwakawaka, burst into laughter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hine nui te pō woke and crushed Māui, and so all people remain mortal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like Gilgamesh, the hero fails to escape death, and the story asks listeners to accept mortality as part of life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stories still alive.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These stories are not museum pieces.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Māori trace their whakapapa, or genealogy, back through gods and ancestors, so myths and family history are deeply connected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Māori creation traditions describe the sky father Ranginui and earth mother Papatūānuku, pushed apart by their son Tāne to let light into the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Matariki, the Māori new year marked by the rising of the Pleiades star cluster, became a New Zealand public holiday in 2022.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Māui reached a global audience in Disney's 2016 film Moana.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people enjoyed it, while some Pacific voices criticised the way Māui was portrayed and argued that sacred figures should be depicted with care.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That debate shows how much these stories still matter to the people who own them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Māui is a clever, underestimated demigod whose stories are told across Polynesia, from Aotearoa to Hawaiʻi.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Dreaming: law, land and story.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For tens of thousands of years, Aboriginal and Torres Strait Islander peoples have carried knowledge in story, song and country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Dreamtime' barely begins to describe it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than Dreamtime.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Australians first meet Aboriginal spirituality through the word 'Dreamtime', imagined as a magical era long ago.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That misses a great deal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Dreaming links creation, law, kinship, land and daily responsibility.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It explains how the world came to be, and it tells people how to live and how to care for country.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's First Peoples have lived here for at least 50,000 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no single version: each nation has its own beliefs and words.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anthropologists popularised 'Dreamtime' in the late 1800s, translating an Arrernte word.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Aboriginal people find it clumsy, because it suggests something imaginary when these beliefs describe what is most real.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Anangu speak of Tjukurpa, and the Warlpiri of Jukurrpa.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1950s W.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "E.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "H.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stanner called it an 'everywhen': ancestral events continue to shape the present.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancestors and country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many Dreaming accounts, ancestral beings travelled across a formless or sleeping land, and their actions created its features.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A waterhole may mark where an ancestor rested, a ridge where one lay down, a rock formation where a battle took place.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These beings took many forms: animals, plants, people, stars, and powerful figures like the Rainbow Serpent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its stories appear in different ways across much of the continent and are often tied to water and fertility.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because ancestors are believed to remain present in the land, country is not just scenery or property.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is family, history and law all at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Aboriginal people speak of belonging to country, rather than country belonging to them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Songlines across country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The journeys of ancestral beings are often remembered as songlines, sometimes called Dreaming tracks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A songline can stretch hundreds or even thousands of kilometres, crossing the lands of many nations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each group holds responsibility for its own section of the song.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Singing the verses in order works like a map.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It names waterholes, landmarks and food sources in sequence, which could help people travel safely through dry country.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Songlines also carry law, kinship rules and seasonal knowledge, and some follow patterns in the stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers studying memory are keenly interested in how songs, places and stories together can hold huge amounts of information without writing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For the custodians, though, songlines are first and foremost sacred.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every story is shared.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A key point for outsiders is that Dreaming knowledge is not public property.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some stories are open, often told to children and visitors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others are restricted to people who have gone through certain ceremonies, or are known as men's business or women's business and kept within those groups.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Certain sites are sacred and should not be photographed or entered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rights to tell a story, paint its designs or sing its songs belong to particular custodians, who inherit that responsibility through kinship.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is why respectful books, galleries and tourism operators work with traditional owners and seek permission.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also why this lesson does not retell specific sacred stories: the respectful way to hear them is from the people who hold them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A living tradition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At Uluru, Tjukurpa is present for the Anangu traditional owners, and the climbing route has deep spiritual significance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For decades signs asked tourists not to climb, and many did anyway.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the park was handed back to Anangu ownership in 1985 and leased to the national parks agency, the joint management board voted to end the climb.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It closed permanently in October 2019.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Visitors now walk around the base, where guides share stories that are open to the public.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colonisation caused enormous harm, including dispossession, language loss and the removal of children.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet ceremony, song and story survive, and communities are reviving languages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the 1970s, painters from Papunya in the Western Desert have shared permitted aspects of their Dreamings through acrylic art.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you hear a Welcome to Country, you hear a very old relationship with land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Dreaming is a living system of law, belief and knowledge, and 'Dreamtime' is only a clumsy English label for it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why are Irish myths tricky to treat as pure pre-Christian belief?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Monks wrote them down and reshaped them.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What pattern do Māui's stories share?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An underestimated outsider proves himself.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do many Aboriginal people find 'Dreamtime' a clumsy translation?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It suggests something imaginary, not real.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

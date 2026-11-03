@@ -2,7 +2,7 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const mem = {};
-const KEYS = ["wisebyte.v3", "wb-auth", "wisebyte.sub.wisebyte", "wbs-day", "wbs-kept", "wbs-seen", "wbs-total", "wbs-welcomed"];
+const KEYS = ["wisebyte.v3", "wb-auth", "wisebyte.sub.wisebyte", "wbs-day", "wbs-kept", "wbs-seen", "wbs-total", "wbs-welcomed", "wbgo", "wbgo-manifest"];
 
 export async function loadAll() {
   try {

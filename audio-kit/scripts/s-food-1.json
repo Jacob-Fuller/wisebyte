@@ -1,0 +1,1302 @@
+{
+ "id": "s-food-1",
+ "title": "Food & Cooking · Episode 1",
+ "chapters": [
+  "Knife skills",
+  "Pots and pans: what your cookware is doing",
+  "The science of flavour",
+  "Food safety at home"
+ ],
+ "units": [
+  {
+   "t": "Food & Cooking. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Knife skills, Pots and pans: what your cookware is doing, The science of flavour and Food safety at home.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Knife skills.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One good knife, used well, makes cooking faster, safer and far more enjoyable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choosing your knives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need a block of 15 knives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A chef's knife, 20 to 25 centimetres long, does most of the chopping, slicing and dicing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A paring knife, around 8 to 10 centimetres, handles peeling and hulling strawberries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A serrated bread knife saws through crusty bread and ripe tomatoes without squashing them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hold a chef's knife before buying: it should feel balanced, with knuckle clearance above the board.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Western, especially German-style, knives use tougher steel and a thicker curved blade suited to rocking.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japanese-style knives, such as the gyuto and santoku, use harder steel that holds a finer edge, often around 15 degrees per side versus roughly 20, but thin edges can chip on bones or frozen food.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neither is better overall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A mid-priced knife kept sharp beats an expensive neglected one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pinch and claw grips.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most chefs use a pinch grip: thumb and the side of the index finger pinch the flat of the blade just in front of the handle, with the other three fingers around the handle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This gives far more control than a pointing finger on top.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stand square to the board and let the knife do the work, with a smooth forward or rocking motion rather than pushing straight down, which crushes food.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your guiding hand uses the claw grip.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Curl your fingertips under, behind your knuckles, with the thumb tucked back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The flat of the blade rests against your knuckles as a guide, and you walk the claw back as you cut.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It feels awkward at first, so practise slowly on a cucumber or carrot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Professional chefs are fast because the motion is automatic, not because they rush.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The basic cuts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Uniform pieces cook at the same rate, which is the main reason cuts matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slicing means cutting across into even pieces.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dicing means cutting into cubes: large, medium or small.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mincing is chopping very finely, used for garlic, ginger and herbs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Julienne is thin matchsticks, around 3 millimetres wide, and brunoise is tiny cubes cut from those matchsticks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chiffonade suits leafy herbs like basil: stack the leaves, roll them tightly and slice across to make fine ribbons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To dice an onion, halve it through the root, peel, make horizontal and vertical cuts toward the root without cutting through it, then slice across.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safe workspace.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most knife injuries happen when something moves unexpectedly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Put a damp tea towel or non-slip mat under your board.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before cutting something round, like a potato, slice a thin piece off one side so it sits flat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use wooden or plastic boards; glass, marble and stone blunt knives and are slippery.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a separate board for raw meat, or wash it thoroughly after use.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sharp knife is safer than a blunt one, because a blunt blade needs more force and is more likely to slip.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wash knives by hand and dry them straight away; dishwashers dull edges.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Store knives in a block, on a magnetic strip or with guards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carry a knife point down, and if you drop one, step back and never try to catch it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Honing and sharpening.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Honing and sharpening are different jobs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A honing steel, the rod that often comes with knife sets, doesn't really sharpen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It realigns an edge that has bent slightly with use, and a few light strokes before cooking keep a knife performing well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sharpening grinds away a little metal to form a fresh edge.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whetstones give the best results: a medium grit around 1,000 for regular sharpening, and a finer stone of 3,000 or more for polishing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pull-through sharpeners are easier but can remove more metal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many kitchen shops offer sharpening services.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A simple test: a sharp knife slices a tomato skin cleanly without pressing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A chef's knife, paring knife and bread knife cover almost everything, and a well-kept knife matters more than a costly one.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Pots and pans: what your cookware is doing.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Cast iron, stainless steel, non-stick and copper each handle heat differently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Know their personalities and your cooking gets easier overnight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spreading and holding heat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pan has two main heat jobs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first is conducting heat sideways from the burner, so the whole base is evenly hot instead of scorching in the middle with cool edges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Metals vary hugely: copper conducts roughly twenty-five times better than stainless steel, and aluminium is not far behind copper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second job is storing heat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A thick, heavy pan holds more energy, so when you drop in a cold steak the temperature does not crash and you still get a good sear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cast iron is a poor conductor but a great heat store.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single material does everything perfectly, which is why cooks collect a few different pans for different tasks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cast iron and carbon steel.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cast iron is heavy, nearly indestructible and can last for generations.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It heats slowly and unevenly, so preheat it gently for several minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once hot it holds heat beautifully, ideal for searing and frying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its seasoning is not grime.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When thin layers of oil are heated past their smoke point, the oil polymerises into a hard, slick coating bonded to the metal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular myth says never to use detergent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern dishwashing liquid is mild and will not strip well-polymerised seasoning, although soaking or a dishwasher can cause rust.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dry the pan straight away and wipe on a little oil.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon steel is close to cast iron in chemistry but rolled thinner, so it heats faster and is much lighter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Woks and omelette pans are often carbon steel, and are seasoned too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stainless, copper and aluminium.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stainless steel resists rust, does not react with acidic foods like tomato or wine, and can go from stovetop to oven.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On its own it conducts heat poorly, so good pans are clad, with aluminium or copper sandwiched between steel.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food sticks when the pan is not hot enough, because proteins bond to the metal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flick in a drop of water: if it skitters as a bead, the pan is hot, thanks to the Leidenfrost effect, where a cushion of steam holds the droplet up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then add oil and food.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Copper is the most responsive metal, heating and cooling almost instantly, and is usually lined with tin or stainless steel because it reacts with some foods.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plain aluminium is light, cheap and conductive but reacts with acidic foods and dents easily.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hard-anodised aluminium is tougher.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Non-stick, and using it safely.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1938 the DuPont chemist Roy Plunkett was experimenting with refrigerant gases.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One cylinder seemed empty, but cut open it held a waxy white solid: the gas had polymerised into PTFE, a material so slippery and unreactive that almost nothing sticks to it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1950s the French engineer Marc Grégoire bonded PTFE to aluminium, reportedly at his wife Colette's suggestion, creating Tefal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At ordinary temperatures PTFE is inert.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Above roughly 260 degrees Celsius it breaks down, releasing fumes that can cause flu-like symptoms in people and can kill pet birds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An empty pan on high can get that hot within minutes, so cook on low to medium heat and replace badly scratched pans.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "PFOA, a chemical once used to make PTFE, raised health and environmental concerns and has been phased out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Induction and what to buy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An induction cooktop does not heat a coil or flame.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rapidly changing magnetic field makes electric currents flow inside the pan's base, so the pan itself becomes the heat source.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That works only with magnetic metals such as cast iron, carbon steel and many stainless steels.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plain aluminium, copper and glass will not work without a magnetic base.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A quick test is whether a fridge magnet sticks firmly to the bottom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When building a kitchen, a few good pieces usually beat a big boxed set.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A heavy frying pan in cast iron or carbon steel, a non-stick pan for eggs, a clad stainless saucepan and a big pot for stock and pasta cover most cooking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Good cookware spreads heat evenly and holds enough of it that cold food does not crash the pan's temperature.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The science of flavour.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Taste happens on your tongue, but flavour happens mostly in your nose.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing the difference turns good cooks into great ones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taste versus flavour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In everyday speech taste and flavour are interchangeable, but scientists separate them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Taste is what receptors in the tongue and mouth detect: sweet, salty, sour, bitter and umami.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sweet signals energy, salty signals sodium and sour signals acidity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bitter may have evolved as a warning, though we learn to love it in coffee, dark chocolate and beer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The old tongue map is a myth: every area with taste buds detects all five.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fat is a candidate for a sixth taste, still debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flavour is the bigger experience: taste plus aroma, texture, temperature and sensations like chilli burn or fizz.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even sound counts, as people rate crisps as fresher when the crunch is louder.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing which sense each element hits shows what a dish is missing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smell does the heavy lifting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your tongue reports a handful of tastes, but your nose tells apart a vast range of aromas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As you chew, aroma travels from the back of your mouth up into your nasal cavity, called retronasal smell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why food seems bland with a blocked nose.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pinch yours while eating a jellybean and you notice only sweetness until you let go.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The claim that 80% of flavour is smell isn't precise, but smell supplies most of the variety.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The food pairing hypothesis says ingredients that share key aroma compounds go well together, like tomato and basil.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2011 analysis of about 56,000 recipes found Western cuisines often follow this, while East Asian cuisines, such as Korean, tend to avoid it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shared aromas create harmony; clashing ones create excitement.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Umami explained.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1908, Japanese chemist Kikunae Ikeda identified glutamate as the source of the deep savoury taste of kombu seaweed broth and named it umami, roughly 'pleasant savoury taste'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was accepted internationally as a basic taste after its receptors were found around 2000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glutamate is abundant in parmesan, ripe tomatoes, mushrooms, soy sauce, fish sauce, anchovies and Vegemite.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Umami gets a big boost from synergy: combining glutamate with compounds in meat, fish and dried shiitake intensifies it far more than either alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "MSG is purified glutamate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food regulators including FSANZ consider it safe, and controlled studies haven't confirmed 'Chinese restaurant syndrome'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chilli heat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chilli heat comes from capsaicin, which switches on a nerve receptor called TRPV1, whose normal job is detecting painful heat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So the burn is a pain signal rather than a taste, and your body reacts as if your mouth were genuinely hot, with sweating, flushing and watering eyes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "American physiologist David Julius used capsaicin to track down that receptor, work that earned a share of the 2021 Nobel Prize in Physiology or Medicine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Menthol tricks cold-sensing nerves in a similar way, which is why mint feels cool.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Capsaicin dissolves in fat, so milk, yoghurt or coconut milk soothe a burning mouth better than water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Birds barely feel capsaicin, so they eat chillies happily and spread the seeds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contrast and seasoning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cold dulls sweetness and aroma, which is why ice cream mix tastes cloyingly sweet when warm, and why chilled dishes like gazpacho need more seasoning.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Contrast matters too, because senses adapt to constant sensations: crunch on soft food, a sharp pickle beside rich meat, or salt flakes on caramel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Season to taste means taste, adjust and taste again, at each stage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flat?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add salt first, then acid.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too salty?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dilute with more unsalted base, or balance with acid, fat or a little sweetness; the idea that a potato draws out salt is largely a myth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too sour?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add sweetness or fat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too sweet?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add acid or salt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too bitter?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salt, sweetness and fat help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too hot?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add dairy, more base or a touch of sugar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adjust in small amounts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Taste is what receptors on the tongue detect, while flavour combines taste with smell, texture, temperature and more.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Food safety at home.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australians get food poisoning millions of times a year, and much of it starts in home kitchens.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few habits prevent most of it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria and the danger zone.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Food Standards Australia New Zealand estimates Australians have around 4 to 5 million cases of food poisoning each year, with tens of thousands of hospitalisations.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many are never diagnosed and are dismissed as a '24-hour bug'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Causes include Campylobacter, Salmonella, Listeria, toxin-producing E.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "coli and norovirus.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pregnant women, babies, young children, older people and anyone with a weakened immune system face a higher risk, especially from soft cheeses, deli meats and raw eggs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most bacteria multiply fastest between 5°C and 60°C, the danger zone, and some can double every 20 minutes or so.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep the fridge at 5°C or below, ideally 3 to 4°C, the freezer at about minus 18°C, and hot food above 60°C.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some bacteria make toxins that cooking doesn't destroy, so prevention matters more than reheating.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time rules and leftovers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 2-hour/4-hour rule guides ready-to-eat food that has been left out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It counts the total time between 5°C and 60°C.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under 2 hours, use it or refrigerate it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between 2 and 4 hours, use it straight away.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over 4 hours, throw it out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a hot Australian day, bring an esky with ice bricks to picnics and barbecues.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leftovers are safe if handled well.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Refrigerate cooked food once it stops steaming, and divide large batches into shallow containers so they cool faster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eat within 2 to 3 days or freeze.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reheat until steaming hot throughout, ideally 75°C, and only once.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rice needs extra care: spores of Bacillus cereus survive cooking and produce toxins if rice sits at room temperature, so cool and refrigerate it quickly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raw meat, heat and eggs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cross-contamination spreads bacteria from raw meat, poultry or seafood to food that won't be cooked again.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Store raw meat in sealed containers on the bottom shelf.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use separate boards for raw meat and salads, or wash boards and knives in hot soapy water between uses, and wash your hands with soap for about 20 seconds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't wash raw chicken: splashing spreads Campylobacter around the kitchen, and cooking kills it anyway.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cook chicken, mince, sausages, burgers and rolled or stuffed meats to 75°C in the thickest part, because mincing and rolling mix surface bacteria inside.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cheap meat thermometer removes guesswork.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dishes with raw or lightly cooked eggs, such as homemade mayonnaise, aioli and eggnog, are a leading cause of Salmonella outbreaks in Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use pasteurised egg products and keep raw-egg sauces in the fridge for no more than a day.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms and getting help.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Food poisoning usually causes nausea, vomiting, diarrhoea, stomach cramps and sometimes fever, headache or aches.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Symptoms can start within a few hours of eating or take several days, depending on the cause; Listeria can take weeks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That means the last meal you ate isn't always the culprit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most cases pass within a few days.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main priority is fluids: sip water or oral rehydration solution from a pharmacy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See a doctor if you have blood in your stool, signs of dehydration such as dizziness or very little urine, a high fever, or symptoms lasting more than a few days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seek help early if you are in a high-risk group.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four everyday habits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most home food poisoning can be prevented with four habits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Clean: wash hands before cooking and after handling raw meat, and keep benches, boards and tea towels clean.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chill: refrigerate food promptly and check your fridge with a cheap thermometer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separate: keep raw and ready-to-eat foods apart.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cook: cook high-risk foods thoroughly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Also avoid cooking for others while you have vomiting or diarrhoea, and for at least 48 hours after symptoms stop.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't use cracked or dirty eggs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When in doubt, throw it out: a smell test can't detect many harmful bacteria.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Food poisoning is common in Australia, and bacteria multiply fastest between 5°C and 60°C.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the main trade-off of hard, thin Japanese-style knife edges?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They hold a finer edge but can chip.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does a heavy pan help when you add a cold steak?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It holds more heat, so it stays hot.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the difference between taste and flavour?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Taste is tongue-based; flavour adds smell and texture.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why is the temperature range of 5°C to 60°C called the danger zone?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Bacteria multiply fastest in that range.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

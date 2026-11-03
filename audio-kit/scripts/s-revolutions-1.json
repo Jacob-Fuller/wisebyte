@@ -1,0 +1,869 @@
+{
+ "id": "s-revolutions-1",
+ "title": "The Age of Revolutions · Episode 1",
+ "chapters": [
+  "The Scientific Revolution",
+  "The American Revolution",
+  "The French Revolution"
+ ],
+ "units": [
+  {
+   "t": "The Age of Revolutions. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The Scientific Revolution, The American Revolution and The French Revolution.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The Scientific Revolution.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In about 150 years, a handful of thinkers overturned 2,000 years of assumptions about the universe, and invented a new way of finding out what's true.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The old picture.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Medieval scholars mostly accepted the ancient Greek view.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth was motionless at the centre, with the Sun, Moon, planets and stars circling it on perfect crystalline spheres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aristotle taught that heavy things fell because it was their nature to seek the centre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ptolemy, writing in Alexandria around AD 150, made this a detailed mathematical model.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowledge came largely from ancient authorities and careful reasoning, not new experiments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The system predicted the sky reasonably well, but it needed ever more fixes, such as small circles within circles called epicycles, to match what astronomers actually saw.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth joins the planets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nicolaus Copernicus argued in 1543 that a Sun-centred system explained planetary motion more elegantly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It accounted for puzzles like Mars looping backwards across the sky: the faster-moving Earth overtakes it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If Earth was just another planet, humans weren't at the physical centre of creation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tycho Brahe recorded planetary positions with great accuracy, without a telescope.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After his death in 1601, Johannes Kepler used those records to show that planets move in ellipses, speeding up near the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His laws, published 1609 to 1619, ended the insistence on perfect circles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galileo's telescope findings and his 1632 Dialogue defending Copernicus led to his 1633 trial by the Roman Inquisition.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was forced to recant and spent his last years under house arrest, still producing a major book on motion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1992 the Church formally acknowledged its error.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newton ties it together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1687, Isaac Newton published the Principia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His three laws of motion and his law of universal gravitation showed that the same force that makes an apple fall keeps the Moon in orbit and the planets circling the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kepler's ellipses followed naturally.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newton's physics later let Edmond Halley predict the return of the comet now named after him.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newton also developed calculus, as did Leibniz, independently, and showed that white light is a mixture of colours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His work dominated physics for over 200 years, until Einstein refined it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newton's own deep faith is a reminder that the revolution's pioneers didn't see science and religion as enemies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside the body.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The revolution wasn't only about the sky.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1543, Andreas Vesalius, a young professor in Padua, published a lavishly illustrated book on human anatomy based on his own dissections.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It corrected many errors handed down from the ancient physician Galen, whose descriptions were partly based on animals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1628, English doctor William Harvey showed by measurement and experiment that the heart pumps blood around the body in a continuous circuit, rather than blood being constantly made and used up.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Microscopes soon revealed a hidden world: in the 1670s, Antonie van Leeuwenhoek was the first to describe bacteria and other single-celled life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A new method.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Francis Bacon urged building knowledge from observation and experiment rather than authority, while René Descartes championed doubt and mathematical reasoning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Societies like London's Royal Society, founded in 1660, shared results; its motto, Nullius in verba, means 'take nobody's word for it'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its journal, first published in 1665, is still running.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experiments had to be repeatable and claims open to challenge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This method, not any one discovery, is the real revolution: a way of catching and correcting our mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate whether 'revolution' is the right word, since change took generations and Newton also spent years on alchemy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But its habits are easy to borrow: ask what evidence supports a bold claim, test ideas in small experiments, and update your views when better evidence arrives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: For centuries Europeans followed Aristotle and Ptolemy: Earth sat still at the centre of a universe of perfect spheres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The American Revolution.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Thirteen colonies rejected the most powerful empire on Earth, and wrote ideas about liberty and equality that the new nation itself took centuries to live up to.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thirteen colonies, one debt.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 1770 the colonies from New Hampshire to Georgia held around two million people, including hundreds of thousands of enslaved Africans, mostly in the south.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonists largely governed themselves through elected assemblies, and many prospered from farming, fishing and trade.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain won the costly Seven Years' War in 1763, partly to protect the colonies, and was left with a huge debt.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It wanted the colonists to help pay for their own defence, and to stop settlers pushing west onto Indigenous lands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No taxation without representation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Britain passed taxes including the Stamp Act of 1765, which taxed printed documents from newspapers to playing cards, and later duties on glass, paper and tea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonists had no members in Parliament and argued it had no right to tax them: 'no taxation without representation'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boycotts forced some repeals, but protests turned violent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "British soldiers killed five colonists in the Boston Massacre in 1770, and in 1773 protesters threw 342 chests of tea into Boston Harbour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain closed Boston's port with laws colonists called the Intolerable Acts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In April 1775, British troops and militiamen clashed at Lexington and Concord.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The colonies formed a Continental Army under George Washington.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many colonists still hoped for reconciliation, not independence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Declaring independence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thomas Paine's pamphlet Common Sense, published in January 1776, sold in huge numbers and persuaded many that independence was the answer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 4 July 1776, the Continental Congress adopted the Declaration of Independence, largely written by Thomas Jefferson.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It proclaimed that all men are created equal, with rights to life, liberty and the pursuit of happiness, and that governments get their power from the consent of the governed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It then listed grievances against King George III.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ideals clashed with reality.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jefferson himself enslaved over 600 people during his life, a contradiction critics pointed out even then.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Winning, and who lost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Washington's army suffered defeats and a freezing, hungry winter at Valley Forge in 1777-78.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The victory at Saratoga in 1777 convinced France to join, bringing money, troops and a navy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1781, American and French forces trapped a British army at Yorktown, which surrendered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Treaty of Paris in 1783 recognised the United States.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The war's cost deepened France's own financial crisis, helping trigger the French Revolution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was also a civil war.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roughly 15 to 20 per cent of colonists stayed loyal to the Crown, and tens of thousands fled, many to Canada.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain's governor of Virginia offered freedom to enslaved people who fought for Britain in 1775, and thousands took it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Indigenous nations sided with Britain; after independence, westward expansion onto their lands accelerated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Government, and Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The weak Articles of Confederation couldn't even raise taxes reliably.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1787, delegates in Philadelphia wrote a Constitution creating a president, a two-house Congress and a Supreme Court, each checking the others.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bill of Rights, 1791, protected free speech, religion and fair trials.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The new system allowed slavery to continue and excluded women and Indigenous peoples from full citizenship.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's 1901 Constitution borrowed several ideas, including a Senate representing the states.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before the revolution, Britain had transported roughly 50,000 convicts to America.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Independence closed that option, and its jails and hulks overflowed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It chose Botany Bay, and the First Fleet arrived in 1788, with devastating consequences for Aboriginal and Torres Strait Islander peoples.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The slogan later reached Australia: in November 1854, the Ballarat Reform League's charter declared 'taxation without representation is tyranny'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After the Seven Years' War, Britain taxed its 13 American colonies, which had long governed themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The French Revolution.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Liberty, equality, fraternity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And then the guillotine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The French Revolution invented modern politics, including its dangers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A kingdom in crisis.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "France was divided into three 'estates': the clergy, the nobility, and everyone else, about 97% of the population, who paid most of the taxes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobles and clergy had privileges and exemptions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The government was nearly bankrupt after costly wars, including helping the Americans win independence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bad harvests in 1788 sent bread prices soaring.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Louis XVI summoned the Estates-General, which hadn't met since 1614.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each estate had one vote, so the privileged could outvote the Third Estate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In June 1789 its deputies declared themselves the National Assembly, and swore on a tennis court not to disband until France had a constitution.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 14 July, crowds stormed the Bastille, a symbol of royal power, seizing gunpowder.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is now France's national day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Rights of Man.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In August 1789, the Assembly abolished feudal privileges and adopted the Declaration of the Rights of Man and of the Citizen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It stated that men are born and remain free and equal in rights, and that sovereignty belongs to the nation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It promised equality before the law, freedom of expression and the presumption of innocence, and it influenced constitutions and rights charters worldwide.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its limits were soon challenged.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Writer Olympe de Gouges published a Declaration of the Rights of Woman in 1791, and was executed two years later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slavery in France's colonies was abolished in 1794, after enslaved people in Saint-Domingue rose up, though Napoleon restored it in 1802.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Monarchy to Terror.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At first many hoped for a constitutional monarchy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In October 1789, thousands of Parisian women marched to Versailles over bread prices and forced the royal family to Paris.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In June 1791 the king and queen tried to flee but were stopped at Varennes, shattering trust.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "War with Austria and Prussia in 1792 fuelled fears of betrayal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That September, the Convention abolished the monarchy and declared a republic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Louis XVI was guillotined in January 1793, Marie Antoinette in October.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under Robespierre and the Committee of Public Safety, the Reign of Terror, 1793-94, officially executed around 17,000 people, and many more died in prison or in civil war.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suspicion alone could mean arrest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Robespierre was guillotined in July 1794.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Napoleon takes charge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Terror, an unstable Directory ruled until 1799, when a popular young general from Corsica, Napoleon Bonaparte, took power in a coup.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1804 he crowned himself emperor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He conquered much of Europe before a disastrous invasion of Russia in 1812 and final defeat at Waterloo in 1815, followed by exile on the remote island of St Helena.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Napoleonic Code of 1804 was a clear system of civil law that guaranteed legal equality for men and protected property rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It spread across Europe and still underpins legal systems in many countries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legacy and myths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Revolution shattered the idea that kings rule by divine right.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It spread citizenship and equality before the law across Europe, and inspired revolutions in 1830 and 1848.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even our political vocabulary comes from it: in the National Assembly, supporters of radical change sat on the left and defenders of the king on the right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also became a warning that revolutions can devour their own.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's no good evidence Marie Antoinette said 'let them eat cake'; a similar line appears in Rousseau's Confessions, written when she was a child, attributed to 'a great princess'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One real legacy is the metric system, designed in the 1790s to replace hundreds of confusing local measures with units based on tens.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia adopted it in the 1970s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Revolutionary decimal time, with 10-hour days, was far less successful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: By 1789 France was bankrupt, hungry and unequal, and the Third Estate rebelled.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why did the old Earth-centred model need epicycles?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To keep matching what astronomers saw.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did Britain want the colonies to pay more after 1763?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its war with France left it deep in debt.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was the Estates-General voting system unfair to the Third Estate?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One vote per estate let the other two outvote it.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

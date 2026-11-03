@@ -1,0 +1,911 @@
+{
+ "id": "s-story-of-money-1",
+ "title": "The Story of Money · Episode 1",
+ "chapters": [
+  "Shells, silver and plastic: a history of money",
+  "The Medici: the bankers who built a Renaissance",
+  "How banks create money out of thin air"
+ ],
+ "units": [
+  {
+   "t": "The Story of Money. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Shells, silver and plastic: a history of money, The Medici: the bankers who built a Renaissance and How banks create money out of thin air.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Shells, silver and plastic: a history of money.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Money is one of humanity's strangest inventions: a shared story that strangers agree to believe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how it went from clay tablets to tap and go.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The barter myth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The textbook story says a baker wants shoes, the shoemaker wants fish, and nobody can trade until someone invents money.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has been told since Adam Smith's day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But anthropologists have struggled to find any society that ran on everyday barter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In small communities, people shared, gave gifts and kept informal track of who owed whom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Barter mostly showed up between strangers, or where money had collapsed, such as prisoner of war camps where cigarettes became currency.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "David Graeber made the argument famous in his 2011 book Debt: The First 5,000 Years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Credit and obligation probably came before coins, not after.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money began as a way of keeping score.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debts in clay.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 4,000 years ago in Mesopotamia, in what is now Iraq, scribes pressed marks into wet clay to record who owed what.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Temples and palaces collected grain, managed workers and lent out goods, so they needed a common yardstick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They settled on weights of silver, measured in shekels, alongside measures of barley.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A farmer might owe a debt valued in silver but pay it in grain at harvest, while the silver stayed locked in the temple.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One of money's oldest jobs is as a unit of account.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Paying with a physical object came later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shells, stones and coins.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People have used remarkable things as money.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cowrie shells circulated for centuries across parts of Africa and Asia because they were durable, hard to fake and easy to count.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the island of Yap, people used huge carved stone discs called rai, some too heavy to move, so ownership changed by community agreement while the stone stayed put.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first stamped coins appeared in Lydia, in what is now western Turkey, around the 600s BC.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Made of electrum, a natural mix of gold and silver, they were stamped by the state to vouch for their weight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ruler's stamp turned a lump of metal into something people could trust without weighing it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paper and punched coins.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heavy iron and copper coins were a nuisance, so merchants in Sichuan, China, began depositing coins for paper receipts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Song dynasty, around the early 1000s, the government issued official paper money.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Europe, paper money grew out of goldsmiths and banks writing receipts for gold deposits, which were passed around as payment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works only if people believe it can be spent, and Chinese dynasties learned that printing too many notes made them lose value.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The paper wasn't valuable; the promise was.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In colonial New South Wales, coins were so scarce that rum acted like a currency.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1813 Governor Macquarie had a hole punched out of Spanish silver dollars, making two coins, the holey dollar and the dump, which stayed in the colony.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia went decimal in February 1966.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gold, faith and data.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the late 1800s many leading economies were on the gold standard, with paper money swappable for a fixed amount of gold.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Second World War, currencies were linked to the US dollar, which was convertible to gold, until President Nixon ended that in 1971.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since then most money has been fiat: valued because governments declare it legal tender, accept it for taxes, and central banks try to keep it stable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia issued the world's first polymer banknote in 1988.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet cash is shrinking as people tap cards and phones, and most money is now numbers in accounts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bitcoin, launched in 2009, tried to work without a central issuer, though its price swings wildly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money works because enough people agree that it does.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Money probably began as a way of keeping score of debts, not as a fix for awkward barter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Medici: the bankers who built a Renaissance.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A family of Florentine money-changers became bankers to the Pope, patrons of genius and rulers of a city.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their tricks still shape finance today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Men at the bench.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1300s Italian cities such as Florence, Venice and Genoa were the trading hubs of Europe, awash with coins from dozens of states.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Merchants needed someone to weigh, test and swap these coins, and to move money safely over long distances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money-changers set up at tables, and the Italian word for such a bench, banco, gave us the word bank.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A banker who could not pay was said to be banca rotta, a broken bench, the root of our word bankrupt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1397 Giovanni di Bicci de' Medici founded the Medici Bank in Florence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within a few decades it would become the most powerful bank in Europe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "God's banker.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Medici's greatest client was the papacy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Church collected revenue from England to Poland and needed to move it to Rome without carting silver across the Alps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Medici's network of trusted agents could do it, and for long stretches of the 1400s they were the Pope's main bankers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later family members became popes, including Leo X and Clement VII.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There was an awkward problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Church condemned usury, meaning interest on a loan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer was the bill of exchange.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Florentine merchant handed over florins and received a document payable months later in another currency, say in Bruges or London.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rates were set so the banker profited, but on paper it was a currency exchange, not a loan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In practice, interest was hidden inside the exchange.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A multinational company.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At its height the Medici Bank had branches in Rome, Venice, Milan, Geneva, Avignon, Bruges and London, among other places.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each was run by a manager who often held a share of the profits, giving him a reason to work hard, while the family in Florence kept overall control.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Branches were set up as separate partnerships, so a disaster in one city would not automatically drag down the rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Medici and other Italian merchants also kept careful accounts using double-entry bookkeeping, recording every transaction as both a debit and a credit so errors stood out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The method was spreading among Italian traders by the 1300s, and the friar Luca Pacioli described it in print in 1494.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money, art and power.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Giovanni's son Cosimo de' Medici used the bank's fortune to become the unofficial ruler of Florence from 1434, steering politics through allies rather than holding a crown.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was also a generous patron.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He funded churches, the library of the monastery of San Marco and artists such as Donatello, and supported scholars who translated ancient Greek philosophy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His grandson Lorenzo the Magnificent continued the tradition, and the young Michelangelo spent time in his household.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part of this giving was genuine love of learning and beauty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part of it was likely an attempt to win public support, and perhaps to ease consciences troubled by the Church's teaching on wealth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, Florence was transformed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fall of the bank.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under Lorenzo, who was more interested in politics and poetry than ledgers, the bank weakened.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some branch managers made reckless loans to princes, who were powerful, unpredictable and hard to sue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The London branch lent heavily to King Edward IV during the Wars of the Roses and suffered heavy losses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bruges branch, under Tommaso Portinari, lent to Charles the Bold, Duke of Burgundy, who was killed in battle in 1477.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One by one, branches closed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1494, when the Medici were driven out of Florence, the bank collapsed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson echoes through financial history: lending to the mighty can feel safe until the mighty decide, or are unable, to pay.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Banking in Renaissance Italy began with money-changers working at benches in the street.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How banks create money out of thin air.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When a bank approves a home loan, it doesn't hand over someone else's savings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It creates brand new money with a few keystrokes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The loan creates money.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a couple borrowing $600,000 for a house.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people assume the bank passes along other customers' savings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not quite.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the loan is approved, the bank records a loan the couple owes it, and a matching deposit paid to the seller's account.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That deposit didn't exist a moment earlier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is brand new money, spendable like any other in a bank account.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bank of England explained this in a 2014 article, 'Money creation in the modern economy', and the Reserve Bank of Australia describes it the same way.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most money in the economy is created like this.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What counts as money.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The balance in your banking app is not cash in a vault with your name on it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a promise from your bank to pay you, an IOU you can use to make payments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you tap your card, the bank moves that promise to someone else's account.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These deposits count as part of the money supply, and they dwarf physical cash.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Banknotes are issued by the Reserve Bank, and coins by the federal government and made by the Royal Australian Mint.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But most day to day money is bank deposits, so private banks create most of a modern country's money, under rules set by public authorities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Textbook versus reality.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many textbooks describe a money multiplier: savers deposit money, the bank keeps a fraction in reserve and lends the rest, which is deposited and lent again.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It isn't completely wrong, because lending ripples through the system.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But central banks have said it gets cause and effect backwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Banks don't usually wait for deposits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They lend when they find creditworthy borrowers, and the deposits are created in the process.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, they manage the consequences, such as holding enough reserves to settle payments with other banks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the amount of money depends heavily on how much people and businesses want to borrow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Created and destroyed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Repaying a loan does the opposite of taking one.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the couple makes a mortgage repayment, their deposit and the loan balance both fall, and that money effectively vanishes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The money supply grows when new lending outpaces repayments and can shrink when people rush to pay down debt, as in some economies after the 2008 financial crisis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A surge in lending pumps new money into houses, cars and businesses, which can push prices up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What limits lending?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Banks need borrowers likely to repay, because bad loans cost money.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "APRA requires them to hold enough capital and liquid assets.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Funding costs interest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And when the RBA raises its cash rate, fewer people borrow and less money is created.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a powerful but imprecise lever.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When trust breaks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Banks hold only a small portion of assets as ready cash and reserves.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's fine, because depositors don't all want their money on the same day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But if people fear a bank is in trouble, they may rush to withdraw, and the fear becomes self fulfilling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a bank run.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customers queued outside Northern Rock in Britain in 2007, and in 2023 depositors pulled billions from Silicon Valley Bank in hours, largely through phone apps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Financial Claims Scheme protects deposits up to a set limit per person per bank; check the current figure at fcs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None of this means banks print free money, since every loan carries risk and must be repaid.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is general information, not financial advice; see moneysmart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: When a bank approves a loan, it creates a new deposit that didn't exist a moment earlier.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the evidence suggest about how money began?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Credit and obligation probably came before coins.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Where does the word ‘bank’ come from?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The Italian word banco, meaning bench.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What happens when a bank approves a home loan?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It records the loan and creates a matching new deposit.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

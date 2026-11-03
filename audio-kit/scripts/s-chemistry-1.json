@@ -1,0 +1,1164 @@
+{
+ "id": "s-chemistry-1",
+ "title": "Chemistry Basics · Episode 1",
+ "chapters": [
+  "What atoms are made of",
+  "Solid, liquid, gas … and stranger things",
+  "The periodic table",
+  "Carbon: the element of everything"
+ ],
+ "units": [
+  {
+   "t": "Chemistry Basics. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: What atoms are made of, Solid, liquid, gas … and stranger things, The periodic table and Carbon: the element of everything.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. What atoms are made of.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Everything you can touch is made of atoms, and atoms are almost entirely empty space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Atoms are real.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greek thinker Democritus proposed around 400 BC that matter is made of tiny, uncuttable particles; atomos means 'uncuttable'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For two thousand years this stayed a guess, and Aristotle's view that matter is continuous won out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1808, English chemist John Dalton revived the idea with evidence: elements combine in fixed proportions by weight, which made sense if they came in discrete units.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even then, many scientists treated atoms as a handy bookkeeping device.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1905, Albert Einstein explained Brownian motion, the jittery dance of tiny particles in water, giving strong evidence that atoms really exist.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jean Perrin's experiments soon confirmed it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny, with a core.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Atoms are roughly 0.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "1 to 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 nanometres across; a nanometre is a millionth of a millimetre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds of thousands of carbon atoms side by side would just span a human hair, and one grain of table salt holds around a billion billion atoms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light microscopes cannot show them, because atoms are smaller than the wavelength of visible light.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1989, IBM researchers spelled out their logo with 35 xenon atoms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "J.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "J.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thomson discovered the electron in 1897.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1909, Geiger and Marsden, working under New Zealand-born Ernest Rutherford, fired alpha particles at gold foil; a few bounced almost straight back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1911 Rutherford concluded that atoms have a tiny, dense, positive nucleus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "James Chadwick found its neutral neutrons in 1932.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mostly empty space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If an atom were the size of a football stadium, the nucleus would be about the size of a pea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 99.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9% of an atom's mass sits in that nucleus, while nearly all its volume is space where electrons might be found.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quantum physics describes electrons as fuzzy clouds of probability, not tiny planets on neat orbits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So why can't your hand pass through a table?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electrons repel other electrons, and a quantum rule called the Pauli exclusion principle stops them crowding into the same state.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you 'touch' something, your atoms never actually touch the object's atoms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What you feel is electromagnetic repulsion across a tiny gap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elements and isotopes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every atom with one proton is hydrogen; six protons, carbon; eight, oxygen; 79, gold.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That count, the atomic number, fixes the element.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Atoms of one element can carry different numbers of neutrons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These versions, called isotopes, behave almost identically in chemistry but differ in mass and stability.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon-12 makes up about 99% of natural carbon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carbon-14 is radioactive: its unstable nucleus breaks down by releasing a beta particle, other isotopes release alpha particles or gamma rays.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each radioactive isotope has a half-life, the time for half a sample to decay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon-14's is about 5,730 years, which allows radiocarbon dating of once-living material up to about 50,000 years old.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uranium-238's is about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 billion years, which helps date rocks and the Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many smoke alarms contain a trace of americium-241.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electrons and quarks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chemistry is mostly about electrons.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Atoms are most stable with a full outer shell, so they share, give away or take electrons to form bonds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sodium readily gives up its single outer electron and chlorine readily takes one, forming table salt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon, with four outer electrons, shares them in long chains and rings, forming the backbone of every living thing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helium's shell is already full, so it barely reacts, making it safe for party balloons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deeper still, protons and neutrons are made of quarks, bound by the strong force.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A proton has two 'up' quarks and one 'down'; a neutron has one up and two down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electrons, as far as we know, are not made of anything smaller.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The idea of atoms is ancient, but solid evidence came only in the last two centuries.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Solid, liquid, gas … and stranger things.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "School taught us three states of matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nature has more, including one that fills the stars and one that was only made in a lab in 1995.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Particles on the move.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everything is made of atoms and molecules that never stop moving.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a solid, they are locked in place and can only vibrate, which is why a brick keeps its shape.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a liquid, they are still packed closely but can slide past one another, so water takes the shape of its container.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a gas, they fly about freely, bouncing off each other and the walls, with mostly empty space between them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The molecules in the air you are breathing travel at roughly 500 metres per second, faster than a passenger jet, colliding with each other billions of times every second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing state.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heat a solid and its particles vibrate harder until they break out of their fixed places and it melts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep heating and some escape as a gas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "While ice melts, its temperature stays at 0°C, because the energy goes into breaking the bonds holding particles in place rather than making them move faster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boiling also depends on the air pressure above.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water boils at 100°C at sea level but only around 70°C on the summit of Mount Everest, which makes a decent cup of tea surprisingly hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some substances skip the liquid stage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dry ice, which is frozen carbon dioxide, turns straight into gas, a change called sublimation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glass and pitch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Glass has jumbled atoms like a liquid yet is rigid, so scientists call it an amorphous solid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story that old windows are thicker at the bottom because glass flowed over centuries is a myth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Old panes were spun or blown unevenly, and glaziers often fitted the thick edge down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At room temperature, glass would take far longer than the age of the universe to sag visibly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pitch, a tar-like substance that shatters under a hammer, truly flows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1927 Professor Thomas Parnell at the University of Queensland poured heated pitch into a funnel and, three years later, cut its stem open.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A drop takes the best part of a decade to fall, and fewer than a dozen have.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A camera set up in 2000 failed at the crucial moment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plasma and condensates.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heat a gas enough and collisions knock electrons off their atoms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The result is plasma, a mix of free electrons and positive ions that conducts electricity and responds strongly to magnetic fields.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lightning, neon signs, auroras and every star, including the Sun, are plasma, so most of the ordinary visible matter in the universe is thought to be in this state.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the other extreme, Bose and Einstein predicted in the 1920s that atoms cooled near absolute zero would fall into one quantum state and act as a single giant wave.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1995 Eric Cornell and Carl Wieman in Colorado cooled rubidium atoms to around 170 billionths of a degree above absolute zero and made one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They shared the 2001 Nobel Prize in Physics with Wolfgang Ketterle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The in-betweens.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mix cornflour with water and you get oobleck, a goo that pours like a liquid but turns firm when you punch it or run across it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scientists call it a non-Newtonian fluid, because its thickness changes with the force applied.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Liquid crystals flow like a liquid but line up in an orderly way like a crystal, and turning them with electric fields is how many screens control light.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sand and grain can pour through a funnel like water, yet hold up a person standing on a beach.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nature is under no obligation to follow the labels people invented.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Solids, liquids and gases differ in how freely their particles move.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The periodic table.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One chart organises every element in the universe, and when it was invented, it predicted elements nobody had found yet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bold gamble.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the 1860s, chemists knew about 60 elements but had no pattern linking them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Russian chemist Dmitri Mendeleev wrote each element's properties on cards and arranged them by atomic weight, grouping similar behaviour in columns.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legend says the answer came in a dream.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His crucial move was boldness: he left gaps for undiscovered elements and described them, calling them eka-aluminium, eka-silicon and eka-boron.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gallium, 1875, scandium, 1879, and germanium, 1886, matched his predictions closely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When gallium's first density disagreed, he suggested the sample was impure, and a remeasurement proved him right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the table is ordered by atomic number, the count of protons, as Henry Moseley showed in 1913 using X-rays.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rows and columns.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each row, or period, begins a new shell of electrons, and the table has seven periods.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each column, or group, holds elements with the same number of outer electrons, which is why they behave alike.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Group 1, the alkali metals such as sodium and potassium, are so reactive they are stored under oil and fizz or explode in water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Group 17, the halogens such as fluorine and chlorine, are highly reactive non-metals; chlorine compounds disinfect swimming pools.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Group 18, the noble gases helium, neon and argon, barely react at all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Argon makes up almost 1% of the air you breathe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Metals and the middle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than three-quarters of elements are metals: usually shiny, good conductors, and easy to hammer or draw into wire.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mercury is the only metal liquid at room temperature.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Non-metals such as carbon, oxygen and the halogens cluster on the right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between them, the metalloids silicon and germanium have mixed properties; silicon's controllable electrical behaviour underpins computer chips.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wide central block holds the transition metals, including iron, copper, gold and platinum, many making coloured compounds and useful catalysts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The lanthanides, with scandium and yttrium, are the rare earths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most aren't especially rare, just hard to find in concentrated, mineable deposits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neodymium makes powerful magnets for wind turbines and electric cars, and Australia mines rare earths at Mount Weld in Western Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Names and new elements.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some symbols reveal Latin names: Na for sodium, natrium, K for potassium, kalium, Fe for iron, ferrum, Au for gold, aurum, Pb for lead, plumbum, which gives us 'plumber'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Swedish village of Ytterby lent its name to four elements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curium, einsteinium and mendelevium honour scientists.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "IUPAC approves new names.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost all elements up to uranium, 92, occur naturally; technetium and promethium are found only in tiny traces.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heavier ones are made by smashing atoms together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Element 118, oganesson, completed the seventh row, named in 2016 with nihonium, moscovium and tennessine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Superheavy atoms last milliseconds or less.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Physicists suspect an 'island of stability' where some might last longer, and labs are chasing elements 119 and 120.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Made in stars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hydrogen, helium and a little lithium formed in the first few minutes after the Big Bang, about 13.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "8 billion years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stars then fuse lighter elements into heavier ones, building carbon, oxygen and more up to iron, where fusion stops releasing energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elements heavier than iron form mainly in extreme events, such as supernova explosions and collisions between neutron stars.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A neutron star merger observed in 2017 was seen producing heavy elements, probably including gold and platinum.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The calcium in your bones and the iron in your blood were made inside stars that died before the Sun was born.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As Carl Sagan put it, we are made of star stuff.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Mendeleev's table left gaps for undiscovered elements, and their predicted properties proved right.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Carbon: the element of everything.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The same atom makes a diamond, a pencil, a soccer-ball-shaped molecule and most of you.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carbon's secret is its talent for holding hands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The great connector.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each carbon atom has four electrons available for bonding, so it can link with up to four other atoms.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crucially, it bonds strongly with other carbon atoms, forming long chains, branches and rings that act as frameworks for other elements.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That flexibility makes carbon the backbone of proteins, fats, sugars and DNA.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chemistry of carbon compounds is so vast that it has its own branch, organic chemistry, covering many millions of known substances.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon is common too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After hydrogen, helium and oxygen, it is the fourth most abundant element in the universe by mass, and it makes up around a fifth of your body by mass.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born in stars.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Big Bang produced almost no carbon.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is forged inside stars, where three helium nuclei fuse into one carbon nucleus.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1950s, the British astronomer Fred Hoyle realised that by the known physics this reaction should be far too rare to make the carbon we see.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since carbon obviously exists, he reasoned, carbon nuclei must have a particular energy state that made the reaction much more likely.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1953 he persuaded sceptical experimental physicists at Caltech to look for it, and they found it close to where he had predicted.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The carbon in your cells was made this way, in stars that lived and died long before the Sun formed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diamond, graphite and ‘lead’.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In diamond, each carbon atom is locked to four neighbours in a rigid 3D framework, making it the hardest natural material known.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Natural diamonds form over a hundred kilometres down in the mantle, under enormous heat and pressure, and rise in rare volcanic eruptions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In graphite, atoms bond to three neighbours in flat hexagon sheets, stacked like pages and held together weakly, so they slide and graphite is soft and slippery.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the surface graphite is more stable, so diamonds are technically turning into it, far too slowly to notice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pencils contain no lead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pure graphite deposit found at Borrowdale, England, in the sixteenth century looked like lead ore, so it was called black lead.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pencil ‘lead’ is graphite mixed with clay: more clay makes a harder H pencil, more graphite a softer B pencil.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buckyballs and graphene.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1985, Harold Kroto, Robert Curl and Richard Smalley blasted graphite with a laser and found a stable molecule of exactly 60 carbon atoms: a hollow sphere of 12 pentagons and 20 hexagons, like a soccer ball.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They named it buckminsterfullerene, after Buckminster Fuller's geodesic domes, or buckyball.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The three shared the 1996 Nobel Prize in Chemistry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buckyballs have since been detected in space.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Graphene is a single sheet of graphite, one atom thick.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2004 at the University of Manchester, Andre Geim and Konstantin Novoselov pressed sticky tape onto graphite and kept peeling flakes until some were one atom thick.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Graphene is strong, flexible, nearly transparent and conducts well.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They won the 2010 Nobel Prize in Physics.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon on the move.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The carbon in your body has been on a long journey.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plants pull carbon dioxide from the air and use sunlight to build it into sugars.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Animals eat the plants, and both release carbon dioxide as they breathe and decay.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oceans absorb vast amounts of carbon dioxide, and over millions of years carbon is locked away in limestone and other rocks, then slowly returned by volcanoes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fossil fuels such as coal, oil and gas are the remains of ancient living things, carbon buried and stored for millions of years.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Burning them releases that carbon into the air far faster than natural processes can remove it, which is the main reason carbon dioxide levels in the atmosphere are rising.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Carbon forms four strong bonds, so it can build the chains and rings that underpin the molecules of life.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What finally turned atoms from a useful idea into accepted fact?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Evidence from chemistry and from jittery particles in water.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. In which state are particles packed closely but able to slide past one another?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Liquid.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did Mendeleev's table convince chemists it reflected something real?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It predicted unknown elements that were later found.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why is carbon the backbone of the molecules of life?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It forms strong bonds that build chains and rings.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

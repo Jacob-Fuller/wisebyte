@@ -1,0 +1,1230 @@
+{
+ "id": "s-thought-experiments-1",
+ "title": "Thought Experiments · Episode 1",
+ "chapters": [
+  "The trolley problem: would you pull the lever",
+  "The ship of Theseus: what makes you the same person",
+  "The ring of Gyges: would you be good if no one could see",
+  "The experience machine: would you plug in"
+ ],
+ "units": [
+  {
+   "t": "Thought Experiments. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The trolley problem: would you pull the lever, The ship of Theseus: what makes you the same person, The ring of Gyges: would you be good if no one could see and The experience machine: would you plug in.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The trolley problem: would you pull the lever.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A runaway tram, five people on the track and one lever in your hand.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This simple puzzle has become one of the most argued-about scenarios in moral philosophy, and it now shapes how we think about self-driving cars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The puzzle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture yourself beside a railway line.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tram with failed brakes is hurtling towards five workers who cannot get out of the way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You stand next to a lever.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pull it, and the tram swings onto a side track, where it will kill one worker instead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do nothing, and five people die.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people say they would pull the lever.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the puzzle is not really about trams.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a carefully built thought experiment, a stripped-down scenario that isolates one question so we can examine our moral instincts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do the numbers alone matter, or does how a death comes about matter too?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The British philosopher Philippa Foot introduced it in 1967, and Judith Jarvis Thomson later named it and invented many variations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The footbridge twist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thomson's most famous variation puts you on a footbridge above the track.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no lever.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The only way to stop the tram is to push a very large stranger off the bridge into its path.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His body would halt it, saving five, but he would die.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The arithmetic is identical: one life for five.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet in surveys, most people who would pull the lever say they would not push the man.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many find pushing deeply wrong, even if they struggle to explain why.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That gap makes the puzzle so productive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the numbers are the same, something else must be driving our judgement, and philosophers have spent decades working out what it is, and whether it should count.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The case for counting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One family of answers is consequentialism: the rightness of an action depends on its results.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best-known version, utilitarianism, associated with Jeremy Bentham and John Stuart Mill, aims for the greatest overall wellbeing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the lever case, five deaths are worse than one, so you should pull.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A consistent consequentialist may say the same about the footbridge, arguing our reluctance to push is a gut reaction, not a moral insight.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Defenders note the approach is impartial and takes every life equally seriously.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics reply that if outcomes are all that matter, it could justify terrible things, such as harvesting one healthy patient's organs to save five others, which almost everyone rejects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The case for limits.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rival tradition, linked to Immanuel Kant, holds that people must never be treated merely as a means to an end.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pushing the man uses his body as a tool to stop the tram, which looks like exactly that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pulling the lever is different: the one worker dies as a side effect of redirecting the threat, not as the means of stopping it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the heart of the doctrine of double effect, which traces back to the medieval thinker Thomas Aquinas.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It says causing harm as a foreseen side effect can sometimes be permissible when causing the same harm intentionally would not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics question whether that distinction can carry so much moral weight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brains and machines.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 2001, Joshua Greene and colleagues scanned people's brains as they considered trolley dilemmas.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Up-close, personal harms like pushing seemed to trigger stronger emotional responses, while impersonal cases like the lever invited calculation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greene proposed a 'dual process' account in which both systems compete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some later studies have questioned how well the results hold up, and philosophers ask whether the emotion tracks something real.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then came autonomous vehicles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Someone must decide in advance what software does when a crash is unavoidable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2018 Moral Machine project from MIT collected millions of responses worldwide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It found broad agreement on sparing more lives and humans over animals, but regional differences on other questions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Engineers stress that real crashes are rarely neat dilemmas, and avoiding collisions is the goal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The trolley problem asks whether it is right to divert a runaway tram so it kills one person instead of five.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The ship of Theseus: what makes you the same person.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Replace every plank of a ship, one by one, and is it still the same ship?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This ancient puzzle leads straight to one of the most personal questions in philosophy: what makes you, you, over a lifetime of change?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ship of new planks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greek writer Plutarch, around the turn of the second century, told of the ship in which the hero Theseus was said to have sailed home from Crete.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Athenians kept it for generations, removing old timbers as they decayed and fitting new ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philosophers used it in arguments about growth: some said it stayed the same ship, others that it did not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carry the process to the end, with not one original plank left.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Is it still Theseus's ship?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If yes, what makes it so?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If no, at which plank did it stop being the original?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neither answer is as comfortable as it first seems.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hobbes's twist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1600s the English philosopher Thomas Hobbes added a complication.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose someone collected every old plank as it was removed and later reassembled them, in order, into a ship.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now there are two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One sits in the harbour, continuously maintained, with no original material.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other is built entirely of the original timbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which is the ship of Theseus?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both have a strong claim: one has continuity of history and use, the other continuity of material.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our everyday idea of 'the same thing' bundles features that usually travel together but can come apart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You are a ship too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You are a bit like that ship.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many of your cells are replaced over time, from skin to blood to the lining of your gut, although some, including most neurons in the brain, can last a lifetime.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your beliefs, tastes and memories change even more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The child in your earliest photos shares little with you in material, knowledge or personality, yet you feel certain that child was you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philosophers call this the problem of personal identity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It matters for everyday things, like holding someone responsible for a promise or a crime, and for deeper ones, like what it would mean to survive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory and its limits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1600s John Locke argued that a person is a thinking being who can consider itself as itself at different times.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You are the same person as someone in the past if you remember that person's experiences from the inside, not because you share a body.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That explains why memory loss feels so frightening.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearly a century later, Thomas Reid offered the brave officer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A boy is flogged for stealing; as an officer he remembers the flogging; as a general he remembers being the officer but has forgotten the flogging.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On Locke's view the general is the officer and the officer is the boy, yet the general is not the boy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later philosophers repaired the theory with overlapping chains of memory and psychological connection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is there a fixed self.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long before Locke, Buddhist thinkers took another route.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Questions of King Milinda, the monk Nagasena asks the king whether his chariot is the axle, the wheels, the frame or the reins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None alone is the chariot, nor is it separate from them: 'chariot' names parts working together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Likewise 'Nagasena' names a changing combination of body, feelings, perceptions and mental activity, with no unchanging core.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This idea, anatta or non-self, is central to many Buddhist traditions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1984 Derek Parfit imagined a teleporter that destroys you and builds an exact copy on Mars.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Is that you?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He concluded there may be no fact of the matter, and that psychological continuity matters more than identity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many philosophers disagree.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: If every part of an object is gradually replaced, it is unclear whether it is still the same object.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The ring of Gyges: would you be good if no one could see.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A shepherd finds a ring that makes him invisible, and soon he has seduced a queen and murdered a king.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plato used the story to ask the most uncomfortable question in ethics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ring in a chasm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early in Plato's Republic, written around 375 BC, a young man named Glaucon tells a story.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A shepherd called Gyges is tending his flock in Lydia, in what is now western Turkey, when an earthquake splits the ground.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the chasm he finds a hollow bronze horse holding the body of a giant, wearing only a gold ring.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gyges takes it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later he discovers that turning the ring's setting towards his palm makes him invisible, and turning it back makes him visible again.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He wastes no time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He gets himself sent to the palace as a messenger, seduces the queen, kills the king with her help and takes the throne.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glaucon's challenge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Glaucon, one of Plato's older brothers, imagines two such rings: one given to a just man, one to an unjust man.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He bets that both would behave the same way, taking whatever they pleased.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody is so iron-willed, he says, as to resist when there is no risk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If so, justice is not valued for itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a compromise: we avoid harming each other because we fear being harmed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He then raises the stakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A perfectly unjust man with a spotless reputation grows rich and admired, while a perfectly just man branded wicked is whipped, imprisoned and executed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which life is better?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glaucon and his brother Adeimantus ask Socrates to prove that justice benefits the just person even when every outside reward is stripped away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Socrates' long answer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Answering the challenge takes up most of the rest of the Republic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Socrates argues that the soul has three parts: reason, which seeks truth; spirit, which feels pride, anger and honour; and appetite, which craves food, sex and money.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a just person, reason rules, spirit supports it and appetite is kept in its place.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In an unjust person, the parts are at war, and appetite or ambition takes control.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The unjust ruler with the magic ring is therefore not free at all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He is a slave to cravings that can never be satisfied: restless, suspicious and alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Justice, Plato concludes, is to the soul what health is to the body, and no amount of wealth makes up for a sick soul.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another Gyges.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gyges may have been a real person.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A king of Lydia by that name ruled in the 7th century BC and founded a dynasty that later included the famously wealthy Croesus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The historian Herodotus, writing in the 5th century BC, tells a very different tale of his rise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "King Candaules is so proud of his wife's beauty that he insists his bodyguard Gyges hide in the royal bedroom to see her undressed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The queen spots him and gives him a stark choice: kill the king and marry her, or die.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He chooses the throne.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no magic ring in Herodotus, but both stories share hidden watching and power gained by stealth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The test of the ring.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Readers often compare Gyges' ring to the One Ring in Tolkien's The Lord of the Rings, which also grants invisibility and corrupts its wearer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whether Tolkien had Plato in mind is uncertain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today many people carry a weaker version in their pockets: anonymous accounts, deleted messages and private browsing offer a taste of acting unseen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thought experiment lasts because it is so personal.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It asks not what rules a society needs, but what you would do if consequences vanished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try a small ring: a mistake in your favour at the till, an unwatched moment at work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some philosophers say Plato's answer merely redefines justice as inner balance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, the old saying holds: integrity is doing the right thing when no one is watching.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In Plato's Republic, a shepherd finds a ring of invisibility and uses it to seize a kingdom.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The experience machine: would you plug in.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Imagine a machine that could give you any life you wanted, every moment indistinguishable from reality.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people say they would refuse, and that refusal tells us something surprising about happiness.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A perfect simulation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1974, the American philosopher Robert Nozick described a thought experiment in his book Anarchy, State, and Utopia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose brilliant neuroscientists could build a machine that stimulates your brain so you would think and feel you were writing a great novel, making a friend or reading an interesting book.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All the while you would actually be floating in a tank with electrodes attached to your head.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You could choose your experiences from a vast library, and you would not know you were plugged in.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every moment would feel completely real.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nozick even allowed for occasional breaks to choose the next stretch.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then he asked: should you plug in for life?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why most say no.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people, when first asked, say they would not plug in, even though the machine promises delight, achievement and love.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That reaction matters because of Nozick's target: hedonism, the view that pleasant experience is the only thing good in itself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 18th-century English philosopher Jeremy Bentham built his utilitarianism on the idea that pleasure and pain are all that ultimately matter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If hedonism were true, the machine would be an easy choice, since it can deliver better feelings than real life ever could.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hesitation suggests we value something beyond our own experiences.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you feel a real but imperfect life beats a perfect simulated one, you are not a pure hedonist.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became one of the most discussed thought experiments of the 20th century.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doing, being and reality.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nozick suggested three things the machine cannot give us.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, we want to actually do certain things, not just have the experience of doing them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We want to really write the novel, not merely feel as if we had.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, we want to be a certain kind of person.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the tank you would be, as Nozick put it, an indeterminate blob, with no genuine courage, kindness or wit, because you never act.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, the machine limits us to a man-made reality, a world no deeper than its programmers imagined.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plugging in, he wrote, is a kind of suicide.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together these points suggest a good life involves real contact with the world and real achievement, not just good feelings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reversal.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not everyone accepts Nozick's conclusion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some philosophers argue that our reluctance to plug in might reflect a bias towards the familiar, sometimes called status quo bias, rather than a deep truth about value.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To test this, the philosopher Felipe De Brigard reversed the scenario in a 2010 study.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He asked people to imagine discovering that they were already in an experience machine, and that their real life outside was very different.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Would they unplug?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many said they would rather stay.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If people prefer to keep the life they know, real or simulated, then the original intuition may be less about reality and more about fear of losing what is familiar.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The debate continues.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the machine reveals.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When The Matrix appeared in 1999, many viewers recognised Nozick's idea.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The character Cypher bites into a steak he knows is not real and decides he would rather return to the comfortable illusion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today virtual reality, immersive games and feeds tuned to our preferences offer partial versions of the machine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None comes close, but each asks how much of your time you want to spend in experiences rather than reality.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The machine is useful because it separates what ordinary life bundles together: feeling good and doing good.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some philosophers say well-being includes real relationships, knowledge and authenticity; others defend hedonism.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, ask yourself: would you plug in?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If not, what would you miss?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your answer summarises what you think life is for.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Robert Nozick imagined a machine that could give you any experiences you wanted, indistinguishable from real life.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the trolley problem designed to test?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Whether numbers alone decide right, or the manner of a death counts too.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What difficulty does the ship of Theseus puzzle raise?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Whether an object stays the same after all its parts are replaced.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How does Gyges use the ring once he discovers its power?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He seduces the queen and takes the throne.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does Nozick's experience machine do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Makes chosen experiences feel real.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,791 @@
+{
+ "id": "s-oceans-1",
+ "title": "The Oceans · Episode 1",
+ "chapters": [
+  "The five zones of the ocean",
+  "Ocean currents: the planet's conveyor belt",
+  "Life in the deep sea"
+ ],
+ "units": [
+  {
+   "t": "The Oceans. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The five zones of the ocean, Ocean currents: the planet's conveyor belt and Life in the deep sea.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The five zones of the ocean.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most of the living space on Earth is dark, cold and crushing, and we have seen almost none of it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A mostly deep planet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ocean covers about 71% of Earth's surface and holds around 97% of its water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its average depth is roughly 3,700 metres, and because life exists at every depth, the ocean makes up the vast majority of the living space on the planet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists divide the water column into layers based mainly on how much sunlight reaches them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From top to bottom they are the sunlight, twilight, midnight, abyssal and hadal zones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each has its own conditions, and the animals in each are shaped by the challenges of light, food, cold and pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight and twilight.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sunlight zone runs from the surface to about 200 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is the only layer with enough light for photosynthesis, so tiny drifting plants called phytoplankton grow here.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They produce roughly half of the oxygen made on Earth each year and form the base of almost every ocean food chain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This warm zone holds coral reefs, kelp forests, tuna, turtles, dolphins and most fisheries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between about 200 and 1,000 metres lies the twilight zone, with faint blue light but too little for plants.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lanternfish, small squid and krill relatives have large eyes and make their own light.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each night vast numbers swim up to feed in darkness, then sink at dawn to hide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is often described as the largest migration on Earth by numbers of animals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The midnight zone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From about 1,000 to 4,000 metres is the midnight zone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No sunlight reaches it at all; the only light comes from animals themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Temperatures sit around 2 to 4 degrees Celsius.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With no plants, food mostly arrives as 'marine snow', a slow drift of dead plankton, droppings and other debris from above, plus the occasional carcass.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Animals here tend to be slow-moving and energy-saving, with big mouths and stretchy stomachs to make the most of rare meals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sperm whales dive into this zone to hunt squid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The abyss and trenches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Below about 4,000 metres is the abyssal zone, named from a Greek word meaning 'bottomless'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of it is flat, muddy seafloor called the abyssal plain, covering a huge part of the planet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deepest layer, the hadal zone, named after Hades, exists only in ocean trenches below about 6,000 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deepest known point is the Challenger Deep in the Mariana Trench, in the western Pacific, at roughly 11,000 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surprisingly, life is found even there, including amphipods, sea cucumbers and microbes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pressure and the unknown.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water is heavy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For every 10 metres you descend, pressure increases by roughly one atmosphere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 1,000 metres it is about 100 times surface pressure; in the Challenger Deep it is more than 1,000 times, roughly the weight of a small car on every square centimetre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deep-sea animals cope because they lack air-filled spaces that would be crushed, and their proteins and cell membranes work under pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We have seen little of it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the mid-2020s, efforts such as Seabed 2030 had mapped roughly a quarter of the seafloor in high resolution, and the share seen directly is well under 1%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ocean has absorbed about 90% of the extra heat trapped by greenhouse gases and roughly a quarter of human carbon dioxide emissions, and new deep-sea species are described every year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The ocean covers about 71% of Earth, averages about 3,700 metres deep and is divided into five zones by sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Ocean currents: the planet's conveyor belt.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Rivers larger than any on land flow through the sea, carrying heat, food, plastic and even Nemo's dad.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rivers in the sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An ocean current is a steady, directional flow of seawater.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some are shallow and fast, others deep and slow, and the largest carry far more water than all the rivers on land combined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Antarctic Circumpolar Current, which loops around Antarctica from west to east, moves over 100 times the flow of all the world's rivers put together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Currents shift heat from the tropics towards the poles, shape the climate of whole continents, carry larvae and nutrients that feed fisheries, and decide where floating things end up, from seeds to shipwreck debris.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wind and the conveyor belt.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Currents in the upper few hundred metres are driven mainly by wind.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Steady winds such as the trade winds drag the surface water along.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because Earth spins, moving water is deflected by the Coriolis effect: to the left in the Southern Hemisphere and to the right in the Northern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Continents then block and redirect the flow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before engines, knowing the currents could shave weeks off a voyage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deep currents work differently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around Antarctica and in the far North Atlantic, seawater becomes cold and salty, partly because forming sea ice leaves salt behind.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That dense water sinks and creeps along the ocean floor, and elsewhere water rises to replace it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This thermohaline circulation links all the oceans in a 'global conveyor belt', and a parcel of water can take around 1,000 years to complete the loop.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Gulf Stream question.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Gulf Stream carries warm water from the Gulf of Mexico up the east coast of North America and across the Atlantic.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With prevailing winds, the wider current system it belongs to gives Britain and north-west Europe milder winters than places at the same latitude in Canada.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This system, the Atlantic Meridional Overturning Circulation, may be weakening as melting ice adds fresh water that is less likely to sink.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How much it has slowed, and whether it could approach a tipping point this century, is actively debated among scientists.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's two currents.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The East Australian Current is the one the turtles ride in the 2003 film Finding Nemo.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It flows south from the Coral Sea along Queensland and New South Wales, carrying warm water and tropical fish larvae, which is why reef fish sometimes turn up around Sydney in late summer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of it peels away eastwards, forming swirling eddies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the climate warms, it has pushed further south, contributing to warming off Tasmania that has helped shrink its giant kelp forests dramatically.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most currents on the western side of continents carry cold water towards the equator.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Western Australia is an exception.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Leeuwin Current carries warm, low-nutrient tropical water south along the WA coast and around Cape Leeuwin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps explain why corals grow at Ningaloo and at the Houtman Abrolhos Islands off Geraldton.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gyres, plastic and you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where major currents connect, they form enormous rotating gyres, five main ones in the subtropical oceans.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Floating debris collects towards their calm centres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Great Pacific Garbage Patch is not a solid island of rubbish but a vast area of scattered plastic, mostly small fragments, with discarded fishing gear making up much of its weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1992, thousands of bath toys lost from a ship helped scientists track these currents.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Currents shape daily life too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shifts in Pacific currents and winds drive El Niño and La Niña, which influence droughts, floods and bushfire seasons in eastern Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Upwelling of cold, nutrient-rich water supports rich fishing grounds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rip currents are a leading cause of coastal drowning in Australia: if caught, stay calm, float and signal for help rather than fighting the flow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ocean currents are steady flows of water that move heat, nutrients and life around the globe, and the largest dwarf any river.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Life in the deep sea.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In total darkness, scalding vents feed giant worms, fish carry their own lanterns, and a few humans have visited the very bottom.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An alien world on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Below about 200 metres, sunlight fades, and below 1,000 metres it disappears entirely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The water is near freezing and the pressure is immense.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time, scientists assumed such a place would be almost lifeless.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1870s, the British research ship HMS Challenger dredged the deep seafloor during a voyage around the world and brought up thousands of previously unknown species.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today we know the deep sea is home to an astonishing variety of animals and microbes, many still undescribed, living in ways that seem alien to us.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vents and tube worms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1977, scientists in the submersible Alvin near the Galápagos Islands found hot springs on the seafloor, surrounded by crowded communities of life.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At these hydrothermal vents, seawater seeps into the crust, is heated by magma and gushes out loaded with minerals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Black smokers blast out water hotter than 350 degrees Celsius, kept from boiling by the enormous pressure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria here get energy from chemicals such as hydrogen sulfide, a process called chemosynthesis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The giant tube worm can grow up to about two metres, with a red plume sticking out of a white tube.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As an adult it has no mouth or gut.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Billions of bacteria inside it turn vent chemicals into food.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some scientists think life on Earth may have begun at vents, one of several competing ideas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living light.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the dark ocean, making your own light is normal.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Studies suggest around three-quarters of animals in the deep water column are bioluminescent, using a chemical reaction or glowing bacteria.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it is blue, because blue light travels furthest through seawater.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Animals use light to lure prey, startle predators, find mates and hide: some fish glow faintly on their bellies to match the dim light from above and erase their silhouette.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few dragonfish produce red light that most deep-sea animals cannot see, like a private torch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The female anglerfish dangles a lure of light-producing bacteria, then swallows prey with needle-like teeth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In some species, tiny males bite on and fuse to her permanently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bottom of the trench.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Challenger Deep in the Mariana Trench is roughly 11,000 metres deep, enough to swallow Mount Everest with more than two kilometres of water to spare.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1960, Jacques Piccard and US Navy officer Don Walsh reached the bottom in the bathyscaphe Trieste.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody returned until 2012, when James Cameron made a solo dive in Deepsea Challenger, a submersible designed and built in Sydney.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2019, Victor Vescovo's submersible has made repeated dives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crewed dives are expensive and risky, so most exploration uses robots.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tethered remotely operated vehicles carry cameras and arms, autonomous vehicles map the seafloor, and baited 'landers' float back up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022, a team led by scientists from the University of Western Australia filmed a snailfish at about 8,300 metres off Japan, the deepest fish ever recorded.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the deep sea matters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The deep ocean is not just a curiosity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It stores enormous amounts of carbon, helping regulate the climate, and its organisms have produced enzymes and compounds used in medicine and research.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also holds metal-rich rocks called polymetallic nodules, containing cobalt, nickel and manganese used in batteries.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Companies want to mine them, but many scientists warn that deep-sea ecosystems grow and recover extremely slowly, over decades to millions of years, and that we understand them too poorly to judge the damage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether and how to allow deep-sea mining is one of the big ocean debates of this decade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The deep sea is dark, cold and under immense pressure, yet it is full of life that scientists once thought could not exist.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What mainly defines the ocean's five zones?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. How much sunlight reaches each layer.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do ocean currents matter to the planet?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They move heat, nutrients and life around the globe.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the HMS Challenger voyage in the 1870s show about the deep sea?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. That it holds many unknown species.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

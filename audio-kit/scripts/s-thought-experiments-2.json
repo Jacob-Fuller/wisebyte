@@ -1,0 +1,1194 @@
+{
+ "id": "s-thought-experiments-2",
+ "title": "Thought Experiments · Episode 2",
+ "chapters": [
+  "Can a machine have a mind",
+  "The drowning child: Peter Singer’s challenge",
+  "Zeno’s paradoxes: why Achilles can never win",
+  "Pascal’s wager: betting on God"
+ ],
+ "units": [
+  {
+   "t": "Thought Experiments. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Can a machine have a mind, The drowning child: Peter Singer’s challenge, Zeno’s paradoxes: why Achilles can never win and Pascal’s wager: betting on God.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Can a machine have a mind.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "If an AI talks about its feelings, is anyone home?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Philosophers have argued about machine minds for decades, and the question is no longer purely theoretical.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ELIZA effect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the mid-1960s, MIT's Joseph Weizenbaum wrote ELIZA, a simple program that mimicked a psychotherapist by reflecting users' words back as questions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It had no understanding at all, only pattern-matching tricks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet people quickly became emotionally engaged with it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By Weizenbaum's own account, his secretary asked him to leave the room so she could talk with it privately.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our tendency to read minds into machines became known as the ELIZA effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a crucial warning for today: fluent conversation alone tells us surprisingly little about whether anything is going on inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Chinese Room.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1980, the philosopher John Searle imagined being locked in a room with a huge rulebook.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slips of Chinese characters are pushed under the door.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can't read Chinese, but the rulebook tells you which characters to send back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your replies are so good that people outside assume a fluent speaker is inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet you understand nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searle argued a computer running a program is in the same position, shuffling symbols without grasping meaning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best-known reply says the person needn't understand, just as one neuron in your brain doesn't understand English.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding, if it exists, belongs to the whole system of person, rulebook and room.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searle rejected this and similar replies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Function or flesh.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Underneath the Chinese Room dispute is a deeper question: is a mind defined by what it does, or by what it's made of?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Functionalism holds that mental states are defined by their role: what causes them, how they interact with other states, and what behaviour they produce.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pain is whatever plays the 'pain role'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If so, minds could in principle run on silicon as well as neurons, just as a calculation can run on an abacus or a laptop.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others suspect consciousness depends on biology, such as living brains being tied to bodies that must regulate themselves to stay alive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still others think we don't know enough to say.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer decides whether machine minds are even possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hard problem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1990s, the Australian philosopher David Chalmers drew a distinction that reshaped the debate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 'easy problems' of consciousness are explaining how the brain processes information, focuses attention and controls behaviour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're hard in practice, but we know roughly what an answer would look like.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 'hard problem' is explaining why any of this processing is accompanied by experience: why there is something it feels like to taste coffee or see red.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing in a wiring diagram seems to explain that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This applies directly to AI.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We might one day fully explain what an AI system does, and still be unsure whether it feels anything, or is, as philosophers put it, dark inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Testing, and why it matters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How would we know if a machine was conscious?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Asking it doesn't settle much.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Language models are trained on vast amounts of human writing, including countless descriptions of feelings, so they can talk about inner experience fluently whether or not they have any.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can also be trained to deny it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers propose checking AI against features that scientific theories of consciousness link to awareness, but others say those theories are too uncertain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confident claims either way go beyond the evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The stakes are real.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If AI could have unpleasant experiences, it might deserve moral consideration.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But wrongly believing a chatbot has feelings can lead to unhealthy attachment, misplaced trust or manipulation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enjoy AI tools, and remember the ELIZA effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: People readily attribute understanding and feelings to machines, so fluent conversation alone tells us little about what is inside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The drowning child: Peter Singer’s challenge.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You would ruin your shoes to save a child drowning in front of you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An Australian philosopher asked why distance should make any difference, and the question changed how millions think about giving.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shallow pond.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine you are walking past a shallow pond and see a child drowning.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You could wade in, but you would ruin your clothes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost everyone agrees you must save the child.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peter Singer, a philosopher born in Melbourne in 1946, used this scene in his 1972 essay Famine, Affluence, and Morality.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cost there was muddy clothes; later retellings added expensive shoes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He wrote it during the 1971 crisis in East Pakistan, now Bangladesh, where war, a devastating cyclone and mass displacement left millions of refugees facing hunger and disease.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aid from rich nations fell far short.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His principle: if we can prevent something very bad without sacrificing anything of comparable moral importance, we ought to do it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distance and bystanders.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The argument's power lies in the next step.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you must ruin your clothes to save the child in the pond, why not spend the same amount to save a child dying of a preventable disease far away?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Singer argued that distance in itself has no moral weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A child's life is not worth less because it is further from you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearness makes suffering more vivid, not more important.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another objection is that millions of people could help, so the burden cannot fall on me.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Singer imagined several adults standing around the pond, all ignoring the child.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That does not make it acceptable for you to walk past too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others' failure does not cancel your duty, so giving is an obligation, not just generosity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much is enough.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Followed to its conclusion, Singer's principle is extremely demanding.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you should give whenever it costs you nothing of comparable importance, you should keep giving until giving more would harm you or your dependants as much as it helps others.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Singer accepted this but also offered a weaker version: we should at least prevent bad outcomes when the cost to us is genuinely insignificant, such as a new jacket we do not need.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In later books, including The Life You Can Save in 2009, he suggested more modest guidelines based on income.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A realistic standard that most people actually meet, he argued, does more good than a perfect one they ignore.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Effective altruism.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Singer's ideas helped shape the effective altruism movement, which emerged in the late 2000s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its central claim is that if we give, we should use evidence to find where our money or time does the most good.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2009, the Oxford philosophers Toby Ord and William MacAskill helped found Giving What We Can, whose members pledge to give at least 10 per cent of their income to highly effective charities.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Charity evaluators compare causes such as malaria prevention and deworming by estimating their cost per life improved.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The movement has drawn both admiration and controversy, especially after the 2022 collapse of the crypto exchange FTX, whose founder had been a prominent supporter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The critics answer back.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics have pushed back in several ways.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Following the English philosopher Bernard Williams, some argue that a morality demanding constant sacrifice leaves no room for the personal projects, friendships and commitments that give life meaning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others say the pond is too simple: a single rescue is certain and immediate, while aid to distant countries is uncertain, can be misdirected, and does not tackle the political causes of poverty.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Still others defend special duties to family and community.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet even many critics concede Singer's basic point that wealthy people can do a great deal of good at little cost to themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than fifty years on, the shallow pond remains a test many readers find hard to walk past.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Singer's principle: if we can prevent something very bad without sacrificing anything of comparable moral importance, we ought to.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Zeno’s paradoxes: why Achilles can never win.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Around 2,500 years ago, a Greek thinker ‘proved’ that a runner can never catch a tortoise and that a flying arrow never moves.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It took mathematicians two thousand years to say clearly what was wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A defender of the One.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zeno lived in Elea, a Greek colony in southern Italy, in the 5th century BC.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He followed the philosopher Parmenides, who argued that reality is a single, unchanging whole and that motion and change are illusions of the senses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people found this absurd.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zeno's response was clever.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rather than prove Parmenides directly, he showed that the ordinary belief in motion leads to absurdities of its own.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He reportedly wrote a book of around forty such arguments, but it has not survived.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We know his most famous paradoxes mainly through Aristotle, who described them in his Physics in order to refute them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plato's dialogue Parmenides depicts Zeno visiting Athens with his teacher.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Racing a tortoise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Achilles, the swiftest hero of Greek legend, races a tortoise given a head start.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When Achilles reaches where the tortoise began, it has crept ahead a little.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When he reaches that point, it has moved again, by less.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This continues forever, so Zeno concluded Achilles can never catch it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real runners overtake slower ones all the time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The challenge is to explain exactly where the reasoning goes wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dichotomy is stranger still.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To reach a door, you must first walk halfway, before that a quarter, before that an eighth, without end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With no first step, it seems you can never start.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A later story says Diogenes answered by simply walking across the room, which shows motion happens but not why the argument fails.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The arrow that never flies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The arrow paradox works differently.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture an arrow in flight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At any single instant, it occupies a space exactly equal to its own length.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In that instant it is not moving, because an instant has no duration in which movement could happen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the whole flight is made up of instants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the arrow is at rest in every one of them, when does it actually move?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zeno concluded that motion is impossible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The paradox puzzled thinkers for centuries because it seems to attack the very idea of something moving at a particular moment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aristotle replied that time is not made of indivisible instants, just as a line is not made of points laid end to end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Infinite sums that add up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of the modern answer lies in mathematics.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Add a half, a quarter, an eighth, a sixteenth and so on forever, and the total never exceeds one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gets closer and closer to one, and mathematicians say the infinite sum equals exactly one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So infinitely many steps can add up to a finite distance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If each step takes proportionally less time, they can be completed in a finite time, and Achilles catches the tortoise at a precise, calculable point.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient mathematicians glimpsed this idea, but the rigorous theory of limits that makes it precise was developed in the 19th century by mathematicians including Augustin-Louis Cauchy and Karl Weierstrass.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Calculus also defines speed at an instant as a limit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still puzzling, still useful.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most mathematicians regard the paradoxes as resolved.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some philosophers are less sure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mathematics shows the infinite sum has a finite value, but critics ask how anyone can complete an infinite sequence of distinct tasks one after another.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thought experiments about supertasks ask whether a lamp switched on and off infinitely many times in two minutes is on or off at the end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Physics adds a twist: it is an open question whether space and time are infinitely divisible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zeno did not change anyone's mind about whether things move.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He showed that our ideas about space, time and infinity were less clear than we thought.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bertrand Russell praised his arguments as immeasurably subtle and profound.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Zeno devised his paradoxes to defend his teacher's claim that change and motion are illusions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Pascal’s wager: betting on God.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A brilliant 17th-century mathematician argued that believing in God is simply the smart bet.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His reasoning helped invent decision theory, and its flaws are as instructive as its strengths.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A prodigy turned mystic.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blaise Pascal was born in France in 1623.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As a teenager he wrote a notable work on conic sections, and at around nineteen he began building one of the first mechanical calculators to help his father with tax accounts.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1654 he exchanged letters with Pierre de Fermat about dividing the stakes in an unfinished game of chance, helping lay the foundations of probability theory.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That year, on 23 November, he had an intense religious experience, which he recorded on a paper he kept sewn into his coat.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He planned a great defence of Christianity, but died in 1662 aged 39, leaving fragments.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Published in 1670 as the Pensées, they include the wager.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The infinite payoff.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pascal did not claim to prove that God exists; he thought reason alone could not settle it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He asked instead: given that we cannot be certain, what is the rational way to live?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We cannot sit on the fence, he said, because living as though God does not exist is itself a bet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He then weighed the outcomes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bet on God and God exists: eternal happiness, an infinite reward.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bet on God and God does not exist: you lose little, perhaps some worldly pleasures.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bet against God and God exists: you lose the infinite reward.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bet against and God does not exist: you gain only a finite amount.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So any chance at all makes belief the rational bet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is an early use of expected value: weighing each outcome by both its size and its probability.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "I cannot make myself believe.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An obvious objection is that you cannot choose to believe something just because it would be useful.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pascal anticipated this.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He suggested that a person who wanted to believe but could not should begin by acting as believers do: attending Mass, taking holy water and following religious practice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time, he thought, habit would shape the heart and belief would follow.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics find this troubling, since it seems to cultivate belief through habit rather than evidence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Defenders reply that Pascal was being psychologically realistic.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many of our deepest attitudes, from confidence to kindness, grow from repeated action rather than argument alone.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The many gods objection.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous objection is that Pascal framed the choice as a simple pair: the Christian God or no god.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But there are many religions with different demands, and some imagined gods might punish exactly the beliefs that others reward.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once all these possibilities are included, the wager no longer points clearly in one direction.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other critics question whether a god would reward belief adopted as a calculated bet, and whether infinite values can be handled sensibly in such calculations.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A related puzzle, Pascal's mugging, has a stranger demanding money by promising an astronomically large reward.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny probabilities multiplied by huge payoffs can justify almost anything.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A lasting legacy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Few philosophers today think the wager settles whether one should believe in God.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But its influence reaches far beyond religion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The philosopher of science Ian Hacking argued it was one of the earliest examples of decision theory, the study of how to choose rationally when outcomes are uncertain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its structure of listing options, outcomes and probabilities, then weighing them, is now used in fields from insurance and medicine to public policy and climate planning.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Debates about rare but catastrophic risks often echo Pascal's reasoning.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the stakes are high and the facts uncertain, how we frame a decision can matter as much as the evidence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pascal's wager comes from notes for an unfinished book by a mathematical genius who underwent a profound religious conversion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the ELIZA effect?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The tendency to read understanding into simple machines.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the core of Singer's principle?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. We should prevent great harm if the cost is minor.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did Zeno create his paradoxes?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To defend his teacher's denial of motion.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What question was Pascal's wager designed to answer?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. How to choose rationally without certainty.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

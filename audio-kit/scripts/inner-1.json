@@ -1,0 +1,1302 @@
+{
+ "id": "inner-1",
+ "title": "The Sanctum Teachings · Episode 1",
+ "chapters": [
+  "Gödel: The Truths No Proof Can Reach",
+  "Thinking Like Bayes",
+  "Arrow's Impossibility: Why No Vote Is Perfectly Fair",
+  "The Hard Problem of Consciousness"
+ ],
+ "units": [
+  {
+   "t": "The Sanctum Teachings. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Gödel: The Truths No Proof Can Reach, Thinking Like Bayes, Arrow's Impossibility: Why No Vote Is Perfectly Fair and The Hard Problem of Consciousness.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Gödel: The Truths No Proof Can Reach.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1931 a young Austrian logician proved that no single set of rules can capture every truth about numbers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is what he really showed, and what people wrongly think he showed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hilbert's dream.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Königsberg, September 1930.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "David Hilbert, the leading mathematician of his age, ends a radio address with a defiant line: 'We must know, we will know.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His programme aimed to rebuild mathematics as a formal game of symbols, with axioms as starting positions and rules of inference as legal moves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two properties mattered most.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The system should be complete, so every statement could be proved or disproved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And it should be consistent, never proving both a statement and its negation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ideally, consistency would itself be proved with simple, finite reasoning nobody could doubt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The day before Hilbert's speech, at a conference in the same city, a quiet young Austrian named Kurt Gödel briefly announced a result that would make this dream impossible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first theorem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gödel's first incompleteness theorem says that if a system's axioms can be listed mechanically, it is consistent, and it handles ordinary addition and multiplication, then some statement can be neither proved nor disproved.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The system is incomplete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Truth and provability come apart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gödel gave every symbol, formula and proof a unique number, so arithmetic could talk about its own proofs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A diagonal construction, a rigorous cousin of the liar paradox, produced a sentence G equivalent to 'G has no proof in this system'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the system proved G, it would be proving something false.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a consistent system cannot prove G, which is exactly what G says.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hence G is true.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adding G as an axiom does not help: the theorem applies again to the enlarged system.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No self-certification.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gödel's second theorem is like asking a witness to vouch for their own honesty.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The reasoning behind the first theorem can be carried out inside the system, so it can prove 'if I am consistent, then G is true'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it could also prove 'I am consistent', it would prove G, which we know it cannot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a consistent system of this kind cannot prove its own consistency.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was the sharpest blow to Hilbert, whose hope was to establish the consistency of all mathematics using a small, trustworthy fragment.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consistency proofs remain possible, but only by assuming something stronger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1936 Gerhard Gentzen proved arithmetic consistent, using a principle of transfinite induction that reaches beyond arithmetic itself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What Gödel did not prove.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gödel gets quoted in support of almost anything, from God to the limits of minds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of this is a stretch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theorems apply only to formal systems meeting specific conditions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some useful systems escape entirely: arithmetic with addition but no multiplication, known as Presburger arithmetic, is complete and decidable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Incompleteness does not mean mathematics is inconsistent or unreliable; everyday mathematics carries on untroubled.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nor does it say some truths are forever unknowable, since a statement unprovable in one system may be provable in a stronger one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The argument that Gödel shows minds are not machines, pressed by John Lucas and Roger Penrose, remains heavily disputed, partly because humans cannot verify their own consistency either.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Halting and beyond.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1936 Alan Turing tackled Hilbert's question of whether a mechanical procedure can decide if any statement is provable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He invented the Turing machine and used a diagonal argument like Gödel's.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suppose a program could check whether any program halts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build a contrary program that asks the checker about itself and does the opposite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contradiction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So no general halting checker can exist, and incompleteness follows quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The continuum hypothesis, about whether an infinite size lies between the whole numbers and the real numbers, was shown by Gödel in 1940 and Paul Cohen in 1963 to be neither provable nor disprovable from the standard ZFC axioms.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Goodstein's theorem is true yet unprovable in Peano arithmetic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematics is an open landscape, where choosing axioms is an act of judgement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hilbert hoped to rebuild mathematics as a formal system that was complete, consistent and mechanically checkable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Thinking Like Bayes.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A test that is 90 per cent accurate says you have a rare disease, yet your real chance of having it is about one in twelve.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why will change how you weigh every piece of evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Priors: where you start.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thomas Bayes, an eighteenth-century Presbyterian minister, worked on a problem in probability that few cared about.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He died in 1761 without publishing it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His friend Richard Price found the essay, edited it and sent it to the Royal Society, which published it in 1763.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If we know how likely some evidence is given a cause, how likely is the cause given the evidence?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bayes' theorem is the rule for flipping the arrow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your phone buzzes at 3 am saying you've won a luxury car.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You already hold a strong opinion: almost certainly a scam.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is your prior, the probability you give a hypothesis before the new evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ignoring priors doesn't make you objective; you've just assumed one unexamined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "State it openly, ground it in frequencies, and stay willing to revise it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How strongly evidence points.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A dog barks in the night.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Is it a burglar?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That depends on two numbers, not one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How likely is barking if there is a burglar, and how likely if there is not?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If your dog barks at every possum, both numbers are high and the bark tells you little.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ratio between them, the likelihood ratio, measures the strength of the evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Evidence ten times more probable under one hypothesis shifts the odds tenfold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bayes' theorem in its tidiest form says posterior odds equal prior odds multiplied by the likelihood ratio.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This exposes a trap: evidence that fits your theory perfectly is worthless if it would have appeared just as readily had your theory been false.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The medical test.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose a disease affects 1 per cent of people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A test detects it in 90 per cent of those who have it, and wrongly flags 10 per cent of those who do not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You test positive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people guess your chance of being ill is around 90 per cent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now imagine 1,000 people tested.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ten have the disease and 9 test positive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Of the 990 healthy people, 99 also test positive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So only 9 of 108 positives are genuine: about 1 in 12, or 8 per cent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It still raised your risk from 1 in 100 to 1 in 12.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today's conclusion becomes tomorrow's prior.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A second independent positive lifts the odds to 9 to 11, or 45 per cent, and a third to about 88 per cent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Base-rate neglect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologists Daniel Kahneman and Amos Tversky studied a classic puzzle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a city, 85 per cent of cabs are Green and 15 per cent are Blue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A witness to a hit-and-run says the cab was Blue, and tests show the witness identifies colours correctly 80 per cent of the time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people conclude the cab was probably Blue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The correct answer is about 41 per cent, because there are so many more Green cabs for the witness to mistake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ignoring how common something is in the first place is called base-rate neglect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gerd Gigerenzer has shown the error often shrinks when problems are posed as natural frequencies, such as '9 out of 108 people', rather than as percentages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extraordinary claims.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2011 physicists on the OPERA experiment reported neutrinos that appeared to travel faster than light.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many physicists suspected an error, and a poorly connected fibre-optic cable was eventually found among the faults.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That caution was Bayes, not closed-mindedness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A claim that contradicts well-tested knowledge has a tiny prior, so the evidence needs a huge likelihood ratio to lift it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A surprising measurement is far more likely to come from a hidden mistake than from overturned physics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carl Sagan popularised the slogan 'extraordinary claims require extraordinary evidence'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The flip side: a prior of exactly zero can never be raised by any evidence, so wise thinkers keep even unlikely ideas slightly open.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A prior is the probability you give a hypothesis before weighing new evidence, and Bayes' theorem flips evidence back to cause.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Arrow's Impossibility: Why No Vote Is Perfectly Fair.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Three friends, three restaurants, and a majority that goes round in circles.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1951 an economist proved that this tangle can never be fully untied by any ranked voting system.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Condorcet's circle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three friends are choosing dinner.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ana ranks pizza, then sushi, then tacos.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ben ranks sushi, then tacos, then pizza.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cara ranks tacos, then pizza, then sushi.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pizza beats sushi two to one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sushi beats tacos two to one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surely pizza beats tacos?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No: Ben and Cara prefer tacos, so tacos wins two to one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The group's majority preference runs in a circle, even though each person is entirely rational.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Marquis de Condorcet, a French mathematician and philosopher, described this in 1785, and it bears his name: the Condorcet paradox.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It means 'the will of the majority' can be incoherent, and whoever controls the order of head-to-head votes can steer the result.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The impossibility.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1951 the American economist Kenneth Arrow asked: could any rule at all turn individual rankings into a sensible group ranking?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He proposed minimal conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unrestricted domain: voters may rank options any way they like.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unanimity: if everyone prefers A to B, so does the group.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Independence of irrelevant alternatives: the group's choice between A and B depends only on how voters rank A against B, not on a third option C.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Non-dictatorship: no single voter always decides.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The group ranking must also be a proper ordering, without circles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arrow's theorem states that with at least three options, no rule satisfies all of these.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Any method meeting the first three must be a dictatorship.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He shared the 1972 Nobel memorial prize in economic sciences with John Hicks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The spoiler effect.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Independence of irrelevant alternatives sounds abstract until you meet a spoiler.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under first past the post, used in British and United States elections, each voter marks one candidate and the most votes wins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suppose 45 per cent prefer a conservative candidate, while 55 per cent prefer one of two progressive candidates, splitting 35 to 20.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The conservative wins, even though a majority might have preferred either progressive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The minor candidate did not win but changed who did.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Commentators have argued that minor candidates swung close contests, such as Ralph Nader in Florida in the 2000 US presidential election, though such claims rest on assumptions about how his supporters would otherwise have voted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spoilers push people towards tactical voting, abandoning their favourite to avoid a worse result.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's preferential vote.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 1918, members of the federal House of Representatives have been elected by preferential voting, known overseas as instant-runoff or ranked-choice voting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Voters number every candidate in order.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If no one has an absolute majority of first preferences, the candidate with the fewest votes is excluded and their ballots flow to the next preference, repeating until someone passes 50 per cent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This largely tames the classic spoiler: a Greens or independent voter can rank a favourite first without wasting the vote.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Senate uses a different, proportional method, the single transferable vote.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arrow's theorem still applies, though.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Preferential voting can violate independence of irrelevant alternatives, and it can eliminate a broadly liked centrist who would beat every rival head to head, simply because they attracted too few first preferences.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Escapes and what it means.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Arrow's theorem has escape hatches, each with a price.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If preferences are single-peaked, arranged along a left to right line, Duncan Black showed majority rule produces no cycles and the median voter's favourite wins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Score or approval methods fall outside Arrow's framework because they use more information than rankings, but they raise new dilemmas, such as how generously to rate a second choice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gibbard's theorem shows any deterministic method choosing among three or more outcomes is either dictatorial or, in some situations, rewards tactical voting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elections aren't rigged by mathematics.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rather, 'the will of the people' is not always a single, well-defined thing waiting to be measured; the voting rule helps construct it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So choosing a rule is a genuine political decision.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No system is perfectly fair, but some are fairer in the situations that actually occur.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Majority preferences can form a loop even when every individual voter is perfectly consistent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Hard Problem of Consciousness.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Science can map the neurons that fire when you taste coffee.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Explaining why that firing feels like anything at all may be the deepest unsolved puzzle there is.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hard problem.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1994, at a conference in Tucson, Arizona, a young Sydney-born philosopher named David Chalmers drew a line that still shapes the field.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Questions about how the brain discriminates stimuli, integrates information, focuses attention and reports its states are the 'easy problems'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They may take centuries, but they are easy in principle, because explaining a function means describing a mechanism.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hard problem is different: why is all this processing accompanied by experience at all?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He set this out in a 1995 paper.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bite into a lemon.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beyond the chemistry, there is the sharp quality of sourness itself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philosophers call such felt qualities qualia: the redness of red, the ache of a headache.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether qualia exist in the robust sense some intend is disputed, but there is something to explain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bats and Mary's room.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1974 the philosopher Thomas Nagel asked what it is like to be a bat, which builds a picture of the world from echoes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We could learn every fact about bat neurophysiology and still not know what echolocating feels like.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Objective science describes the world from no point of view, while experience seems tied to one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1982 the Australian philosopher Frank Jackson imagined Mary, a brilliant scientist who has lived in a black and white room and knows every physical fact about colour vision.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On leaving, she sees red for the first time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If she learns something new, not all facts are physical.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jackson later changed his mind and defended physicalism.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics say Mary gains a new ability, or a new way of grasping an old fact.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philosophical zombies.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture your exact physical duplicate, atom for atom, who walks, talks, laughs at jokes and insists it is conscious, yet has no inner experience.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Philosophers call such a being a zombie.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody claims zombies exist.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question is whether they are conceivable without contradiction.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chalmers argues they are, and that if a zombie world is even possible in principle, then physical facts alone do not fix the facts about consciousness, so physicalism is false.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Opponents attack each step.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some deny zombies are truly conceivable once consciousness is understood.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others grant they seem conceivable but deny this shows they are possible, just as water once seemed conceivably distinct from H2O before chemistry showed they are the same.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The main positions.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicalism holds that consciousness is ultimately physical, and that the explanatory gap reflects the limits of our concepts.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its roots include the identity theory developed in Adelaide in the 1950s by U.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place and J.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "J.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "C.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smart.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dualism holds that experience involves something non-physical, whether a separate substance, as Descartes proposed, or irreducible mental properties, a view Chalmers has defended.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Panpsychism, revived by thinkers such as Galen Strawson and Philip Goff, suggests that some simple form of experience is a fundamental feature of matter, which raises the puzzle of how tiny experiences combine into a unified mind.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Illusionism, argued by Keith Frankish and in related form by Daniel Dennett, claims phenomenal consciousness as we conceive it does not exist; our brains merely represent themselves as having it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it matters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doctors must judge whether patients in unresponsive states retain awareness, and brain imaging studies have suggested that some do.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Animal welfare law depends on which creatures can suffer, and some jurisdictions now formally recognise animals such as octopuses and crabs as sentient.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As artificial intelligence grows more fluent at describing inner lives, we need principled ways to ask whether anything is felt behind the words, a question no major theory can yet settle.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Theories such as global workspace theory and integrated information theory make testable predictions, and researchers have begun pitting them against each other in organised experiments.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet even a perfect map of the neural correlates of consciousness might leave Chalmers' question standing: why does any of this activity feel like something at all?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Explaining the brain's functions is hard work, but explaining why they come with felt experience is a different kind of problem.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did Hilbert hope to achieve for mathematics?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A complete and consistent system, checkable by finite reasoning.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is a prior in Bayesian thinking?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Your probability for a hypothesis before the new evidence.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does the Condorcet paradox show?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Majority preferences can loop even when each voter is consistent.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. According to Chalmers, which of these is the hard problem?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Explaining why brain processing comes with experience.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

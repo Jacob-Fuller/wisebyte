@@ -1,0 +1,815 @@
+{
+ "id": "s-memory-learning-1",
+ "title": "Memory & Learning · Episode 1",
+ "chapters": [
+  "The forgetting curve",
+  "Mnemonics, chunking and how memory works",
+  "The memory palace"
+ ],
+ "units": [
+  {
+   "t": "Memory & Learning. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The forgetting curve, Mnemonics, chunking and how memory works and The memory palace.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The forgetting curve.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Within a day you'll forget much of what you learn today, unless you review it at the right moments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is why Wisebyte brings things back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The curve of forgetting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "German psychologist Hermann Ebbinghaus wanted to study memory scientifically.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He memorised lists of nonsense syllables, like 'DAX' or 'ZOF', so meaning wouldn't help him, then tested himself after delays from minutes to a month.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His measure was 'savings': how much less time it took to relearn a list than to learn it the first time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He published in 1885, and a careful repeat in 2015 found a strikingly similar curve.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory dropped steeply at first: around half a list was gone within an hour, and roughly two thirds within a day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then forgetting slowed, leaving a long, gentle tail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meaningful or emotional material fades more slowly, but the basic shape applies to most things we learn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why memories fade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologists see several causes of forgetting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some traces may simply weaken with disuse, called decay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More important is interference: similar memories compete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Old learning can block new learning, as when you keep typing an old password, and new learning can overwrite old, as when a new phone number pushes out the previous one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often a memory isn't gone at all but can't be reached without the right cue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tip-of-the-tongue feeling is a classic example: you know a name, can recall its first letter, yet it won't come until something jogs it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spacing beats cramming.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ebbinghaus found that each time he relearned a list, it faded more slowly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reviewing just as you start to forget makes memory stronger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is spaced repetition: review after a day, then three days, a week, a month, with gaps growing as memory strengthens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's the system behind flashcard apps and Wisebyte's Review tab, where intervals grow when you get something right and shrink when you miss.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cramming, called massed practice, can get you through tomorrow's test but fades within a week.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same study time spread over several days gives much better long-term memory: the spacing effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It feels less efficient because you must work to bring things back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologist Robert Bjork calls this a 'desirable difficulty': harder in the moment, but it makes learning stick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beginnings and endings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Items at the start and end of a list are remembered better than those in the middle, a pattern called the serial position effect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first few items get the most rehearsal and have a better chance of reaching long-term memory: the primacy effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last few are still fresh in working memory: the recency effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1966, Murray Glanzer and Anita Cunitz showed the two have different causes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Making people count backwards for 30 seconds before recalling wiped out the recency advantage but left primacy untouched.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's one reason the middle of a long lecture or study session tends to blur.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shorter sessions create more beginnings and endings, and the middle material deserves extra review.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep and real life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Memories aren't finished when you close the book.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During sleep, especially deep slow-wave sleep, the hippocampus appears to replay recent experiences, helping move them into longer-lasting storage in the cortex: consolidation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies repeatedly find that people who sleep after learning remember more, and even a nap can help.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An all-nighter before an exam works against you twice: you're tired in the test, and what you studied never consolidates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To remember something, learn it, test yourself soon after, then review with growing gaps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use a new person's name in conversation, then recall it later that day and the next morning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short daily language practice usually beats one long weekly session.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Write practice questions and answer them days later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Forgetting is fastest right after learning, then slows down, a pattern Ebbinghaus measured in the 1880s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Mnemonics, chunking and how memory works.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Simple tricks that make information stick, from ROY G BIV to phone numbers, and the science of why they work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How memory works.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Remembering has three stages.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Encoding gets information in, storage keeps it there, and retrieval gets it back out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most 'bad memory' is really poor encoding: you never properly paid attention, like forgetting a name seconds after hearing it because you were planning what to say.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mnemonics mostly help encoding by making information meaningful, and they give you a hook for retrieval.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Working memory, the mental scratchpad, is also surprisingly small.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1956, psychologist George Miller suggested it holds 'seven, plus or minus two' items.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More recent research by Nelson Cowan and others puts the true limit nearer four meaningful chunks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why you can lose a phone number between reading it and dialling it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chunking information.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The way around the limit is chunking: grouping items into meaningful units.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "0412345678 is ten items, but 0412 345 678 is three chunks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "FBICIAABC is nine letters, but FBI, CIA, ABC is three familiar acronyms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chess masters can recall a whole board at a glance, but only if the pieces are in positions from real games, because they see patterns rather than individual pieces.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chunking is one reason experts seem to have super memories: their knowledge lets them group new information into bigger chunks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acronyms, sentences, song.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Acronyms turn a list into a single word: ROY G BIV gives the rainbow's colours, and many first-aid courses teach DRSABCD for the emergency action plan.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the letters don't form a word, make a sentence: 'My Very Educated Mother Just Served Us Noodles' gives the planets in order from the Sun.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Silly or personal sentences stick best, so make your own.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rhyme and rhythm add extra cues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Thirty days hath September, April, June and November' has helped people for centuries, and advertising jingles stick for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people learned the alphabet through a song and still hum it to find a letter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Setting a list or sequence of steps to a familiar tune or beat can help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Association and keywords.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The more connections a memory has, the easier it is to find.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Link new facts to things you know: Canberra sounds like 'can, bra', so picture a bra in a can.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even better is elaboration: ask why and how something is true and explain it in your own words.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking about meaning builds much stronger memories than simply repeating.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The keyword method applies this to foreign vocabulary.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Spanish 'pato', meaning duck, sounds like 'pot', so picture a duck wearing a pot on its head.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1975, Richard Atkinson and Michael Raugh tested it on Russian vocabulary, and learners using it remembered far more words than those who simply rehearsed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also works for names, like noticing that Rose has rosy cheeks, and for medical terms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Draw it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of the simplest memory boosters is to draw what you want to remember.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016, researchers at the University of Waterloo in Canada gave volunteers lists of simple words and about 40 seconds for each, asking them either to draw the word or to write it out repeatedly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drawn words were remembered far better, in some experiments about twice as often, and artistic skill made no difference.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drawing seems to work because it combines thinking about meaning, making a picture and moving your hand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quick sketches in the margins of your notes, or a rough diagram of a process, can turn a forgettable page into a memorable one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Memory has three stages, and working memory holds only about four meaningful chunks at a time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The memory palace.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The 2,500-year-old technique memory champions use to remember almost anything, and how to build your own tonight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An ancient trick.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The memory palace, or method of loci, 'loci' is Latin for places, dates back to ancient Greece.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Legend says the poet Simonides stepped out of a banquet moments before the hall collapsed, then identified the unrecognisable victims by remembering where each had sat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roman orators such as Cicero and Quintilian later described walking through an imagined building, each room holding the next point of a speech.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works because human brains evolved to remember places and routes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can probably walk through your childhood home in your mind, yet struggle to recall ten random words from yesterday.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The method borrows that spatial memory to store lists, numbers and abstract facts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hippocampus, central to navigation, is also central to forming new memories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build and fill it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pick a place you know well, such as your home or your walk to the shops, and choose about ten distinct spots in a fixed order: front door, hallway mirror, lounge, TV, kitchen bench, fridge, back door.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Always walk it in the same direction and rehearse it until you can list the spots easily.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then turn each item into a vivid image at a spot.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The stranger and more exaggerated, the better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To remember 'milk, eggs, batteries', picture a giant cow blocking the front door, eggs exploding against the hallway mirror and batteries fizzing and sparking over the lounge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add sound, smell and movement.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ordinary images fade; absurd ones stick, because the brain notices what's surprising or emotional.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recall and abstract ideas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To recall the list, walk the route in your mind and see what's waiting at each spot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the route is fixed, you get the order for free and can even recall the list backwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An empty spot tells you exactly which item you've forgotten, which is handy for speeches.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first attempts feel slow and silly, but with practice, placing an image takes a few seconds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For abstract ideas, convert them into something you can picture: for 'rising costs', imagine a price tag growing into a balloon and lifting off the couch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For names, 'Rose' becomes a rose and 'Barker' a barking dog.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory athletes turn digits into images too, such as 1 = a candle and 2 = a swan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Does it really work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Competitive memory athletes use the method to memorise shuffled decks of cards in under a minute and thousands of digits of pi.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2017 study published in the journal Neuron, ordinary volunteers trained with the technique for 30 minutes a day over six weeks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their recall of a 72-word list more than doubled, and their brain connectivity shifted to resemble that of memory champions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four months later, much of the improvement was still there.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everyday uses.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everyday uses include shopping lists, the key points of a presentation, a set of instructions, the order of topics in an exam essay, or the names of people at a meeting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can build several palaces from places you know: your gym, your parents' house, your favourite cafe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The technique helps you get information in.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To keep it for months, combine it with spaced review, walking through the palace again a day later, then a few days later, then a week later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The memory palace, or method of loci, works by borrowing our strong memory for places.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. When is forgetting fastest?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Right after learning.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why can you lose a phone number between reading it and dialling it?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Working memory holds only about four chunks at a time.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does the memory palace work so well?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It borrows our strong memory for places.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,0 +1,1170 @@
+{
+ "id": "s-universe-1",
+ "title": "The Universe · Episode 1",
+ "chapters": [
+  "A tour of the solar system",
+  "Venus: Earth's hellish twin",
+  "Jupiter and Saturn: the giants",
+  "The Moon: our strange companion"
+ ],
+ "units": [
+  {
+   "t": "The Universe. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: A tour of the solar system, Venus: Earth's hellish twin, Jupiter and Saturn: the giants and The Moon: our strange companion.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. A tour of the solar system.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One star, eight planets, five recognised dwarf planets and countless icy leftovers, all born from a collapsing cloud 4.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "6 billion years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born from a cloud.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 4.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "6 billion years ago, part of a giant cloud of gas and dust collapsed under its own gravity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it fell to the centre and became hot and dense enough for nuclear fusion: the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rest flattened into a spinning disc, where dust stuck into pebbles, then boulders, then planets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why the planets orbit in roughly the same plane and direction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun holds about 99.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8% of the system's mass.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close to the young Sun it was too hot for ices, so only rock and metal clumped into small planets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beyond the frost line, ice was plentiful, so cores grew big enough to pull in huge amounts of gas, forming the gas giants Jupiter and Saturn and the ice giants Uranus and Neptune.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Planets of extremes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mercury is the smallest planet, swinging from about 430°C by day to around minus 180°C at night.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venus is hotter, about 465°C, because its thick carbon dioxide atmosphere traps heat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It spins backwards so slowly that its day is longer than its year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mars has ancient river valleys and Olympus Mons, a volcano about 22 kilometres high, roughly two and a half times the height of Everest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jupiter is more than twice as massive as all the other planets together, and its Great Red Spot is a storm wider than Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Saturn's density is low enough that it would float in a big enough bathtub.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uranus is tipped about 98 degrees, probably from an ancient collision.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neptune has winds around 2,000 km/h.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sense of scale.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Space diagrams mislead because they can't show true distances.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth is about 150 million kilometres from the Sun, and sunlight takes about 8 minutes to reach us.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shrink the Sun to the height of a front door and Earth becomes a 5-cent coin roughly 215 metres away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jupiter would be about a kilometre off, and Neptune over 6 kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voyager 1, launched in 1977 and the most distant human-made object, is now more than 160 times Earth's distance from the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Canberra's Deep Space Communication Complex is the only station able to command Voyager 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Belts and a demoted planet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Between Mars and Jupiter lies the asteroid belt, whose combined mass is only a few per cent of our Moon's.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jupiter's gravity likely stopped it forming a planet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is mostly empty space, and spacecraft cross it easily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond Neptune, about 30 to 50 times Earth's distance from the Sun, is the Kuiper Belt of icy bodies, including Pluto.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Oort Cloud is thought to supply long-period comets, though it has never been directly observed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clyde Tombaugh found Pluto in 1930, and an 11-year-old English schoolgirl, Venetia Burney, suggested its name.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After astronomers found Eris in 2005, a definition was needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2006 the IAU ruled a planet must orbit the Sun, be nearly round and have cleared its orbital neighbourhood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pluto fails the third test.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some scientists still disagree.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing it for yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need a telescope to start exploring.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mercury, Venus, Mars, Jupiter and Saturn are all visible to the naked eye.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venus is often the brightest point in the sky after the Moon, appearing as the 'evening star' after sunset or the 'morning star' before dawn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Planets usually shine steadily while stars twinkle, and they follow roughly the same path as the Sun and Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ordinary binoculars reveal Jupiter's four largest moons, first seen by Galileo in 1610.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A free stargazing app will show which planets are up tonight from anywhere in Australia, and dark country skies make the view far better.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The solar system formed 4.6 billion years ago from a collapsing cloud, and the frost line explains why small rocky planets sit inside and giants outside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Venus: Earth's hellish twin.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It is almost the same size as Earth and the brightest planet in our sky.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Land on it, though, and you would be crushed, cooked and dissolved within hours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The morning and evening star.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have ever noticed a brilliant 'star' low in the west after sunset or in the east before dawn, it was probably Venus.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It orbits closer to the Sun than we do, so it never strays far from the Sun in our sky and shows only around twilight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its thick, bright clouds reflect about three quarters of the sunlight that hits them, making it dazzling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ancient peoples sometimes thought the morning and evening appearances were two different objects; the Greeks called them Phosphorus and Hesperus before realising they were the same planet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venus is so bright that it is regularly reported as a UFO, and under very dark skies it can even cast a faint shadow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twin on the outside.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On paper, Venus looks like Earth's sibling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its diameter is about 95 percent of Earth's, its mass about 80 percent, and it is made of similar rock.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time people imagined steamy swamps or oceans under its permanent clouds, and early science fiction filled it with jungles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The truth only emerged with radio telescopes and spacecraft in the 1960s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venus's atmosphere is about 96 percent carbon dioxide, and so dense that surface pressure is around 90 times Earth's, like being nearly a kilometre deep in the ocean.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Above sit thick clouds of sulfuric acid droplets.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the two planets shared at birth, they took very different paths.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hotter than Mercury.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mercury is much closer to the Sun, yet Venus is the hottest planet in the solar system.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its surface sits at roughly 465°C, day and night, from pole to equator.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cause is a runaway greenhouse effect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight that gets through the clouds warms the ground, but the dense carbon dioxide traps the heat trying to escape to space.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many scientists think Venus may once have been cooler, possibly with shallow oceans.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the young Sun brightened, the water evaporated, adding more heat-trapping vapour until the oceans were lost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That history is still debated, but Venus shows how powerfully an atmosphere can control a planet's temperature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longer than a year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venus takes about 225 Earth days to orbit the Sun but about 243 to spin once on its axis, so its day is longer than its year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also rotates in the opposite direction to most planets, so the Sun would rise in the west and set in the east, if you could see it through the clouds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody is certain why.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ideas include a giant collision early in its history, or the slow effect of the Sun's tides on its heavy atmosphere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oddly, while the planet itself turns at a crawl, its upper atmosphere races around the whole planet in about four Earth days, driven by hurricane-force winds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Landers and a transit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Landing on Venus is brutally hard, yet the Soviet Union did it repeatedly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venera 7 sent faint signals from the surface in December 1970, the first data from the surface of another planet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1975 Venera 9 and 10 returned the first pictures of the ground.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1982 Venera 13 sent colour images and survived about two hours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA's Magellan orbiter later mapped almost the whole planet by radar through the clouds, revealing volcanoes and lava plains.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Occasionally Venus crosses the Sun's face, a transit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Timing one from distant places could reveal the Earth-Sun distance, so Britain sent Lieutenant James Cook to Tahiti for the June 1769 transit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His sealed orders then led to New Zealand and, in 1770, Australia's east coast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The next transit is in 2117.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Venus is the brightest natural object in the night sky after the Moon, and it only appears around twilight.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Jupiter and Saturn: the giants.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Jupiter could swallow every other planet with room to spare, and Saturn is light enough, in a sense, to float.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meet the two kings of the solar system.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "King of the planets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jupiter is about 11 times wider than Earth and roughly 318 times more massive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Put all the other planets together and Jupiter still outweighs them more than twice over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Despite its size, it spins faster than any other planet, a day lasting just under 10 hours, which visibly flattens it at the poles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Galileo pointed his telescope at it in January 1610, he saw four small points of light that changed position night after night.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were moons circling Jupiter: Io, Europa, Ganymede and Callisto.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was powerful evidence that not everything in the heavens orbits Earth, and it helped undermine the old Earth-centred view.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ganymede is larger than the planet Mercury.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not a failed star.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jupiter is often called a 'failed star' because it is mostly hydrogen and helium, like the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The label misleads.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To ignite hydrogen fusion in its core, an object needs roughly 80 times Jupiter's mass, and Jupiter was never close.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gives off more heat than it receives from the Sun, left over from its formation and slow contraction, but it does not shine by fusion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its interior is extraordinary all the same.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under crushing pressure, hydrogen is thought to become an electrically conducting fluid called metallic hydrogen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swirling currents in it probably generate Jupiter's enormous magnetic field, the strongest of any planet, which traps radiation lethal to unshielded spacecraft electronics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Great Red Spot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jupiter's colourful stripes are bands of cloud driven by powerful jet streams flowing east and west.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its most famous feature is the Great Red Spot, a high-pressure storm that spins anticlockwise and is wider than Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers have tracked it continuously since at least the 1830s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Giovanni Cassini described a spot in 1665, but historians are unsure whether it was the same storm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The spot has been shrinking over the past century and has become rounder, though it is still enormous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NASA's Juno spacecraft, orbiting Jupiter since 2016, has measured that the storm reaches hundreds of kilometres down into the atmosphere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody is quite sure why it has lasted so long or what gives it its reddish colour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rings and a floating planet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Saturn's rings are countless pieces of ice, from tiny grains to house-sized chunks, each orbiting like a miniature moon.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main rings span roughly 280,000 kilometres, about three quarters of the distance to the Moon, yet are often only about ten metres thick.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galileo saw them in 1610 but his blurry telescope made him think Saturn had 'ears'; Christiaan Huygens worked out in the 1650s that they were a ring.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether they formed with Saturn or are much younger is still debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saturn's average density is about 0.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "7 grams per cubic centimetre, less than water's 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "0, so it would float in a big enough bathtub.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea falls apart quickly, since Saturn has no solid surface.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its low density and fast spin make it the most flattened planet.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its north pole sits a six-sided jet stream wider than Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cassini's Grand Finale.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Cassini-Huygens mission, a partnership between NASA, the European Space Agency and the Italian Space Agency, arrived at Saturn in 2004.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its Huygens probe parachuted onto Titan in January 2005, the most distant landing ever made, revealing riverbeds and lakes of liquid methane and ethane.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cassini also found jets of water vapour spraying from the small moon Enceladus, evidence of a hidden ocean.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 2017 the spacecraft was almost out of fuel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To avoid any risk of it crashing into, and contaminating, a moon that might host life, controllers steered it through the gap between Saturn and its rings 22 times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then, on 15 September 2017, they sent it plunging into Saturn's atmosphere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It transmitted data until the very end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Jupiter has more than twice the mass of all the other planets combined, and its moons helped overturn the Earth-centred universe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Moon: our strange companion.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It was born in a collision, it's slowly drifting away, and it controls the tides at your local beach.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Born in a collision.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The leading explanation is the giant-impact hypothesis.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 billion years ago, a Mars-sized body, sometimes called Theia, smashed into the young Earth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The collision flung molten rock into orbit, which clumped together to form the Moon.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evidence includes the Moon's small iron core and the remarkable similarity between Apollo Moon rocks and rocks on Earth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dark patches you can see are called maria, Latin for 'seas', because early astronomers thought they were oceans.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are plains of solidified lava that flooded huge impact basins roughly 3 to 3.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9 billion years ago.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With no wind, rain or moving plates, craters last billions of years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Binoculars show bright rays spreading from young craters like Tycho.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One face, many phases.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Moon spins once in exactly the time it takes to orbit Earth, about 27 days, so the same side always faces us.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth's gravity gradually slowed its spin until it locked into step, a process called tidal locking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The far side isn't permanently dark; it gets just as much sunlight.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans first saw it in 1959, in photos from a Soviet probe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Moon makes no light of its own; half of it is always lit by the Sun.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As it orbits, we see different amounts of that lit half, giving the phases in a cycle of about 29.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Australia, the Moon appears 'upside down' compared with northern hemisphere pictures, so a waxing crescent is lit on the left.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tides and drifting.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Moon's gravity pulls hardest on the ocean facing it, creating a bulge, and least on the far side, where another bulge forms.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As Earth rotates through the two bulges, most coasts get two high tides a day.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Sun and Moon line up at full and new moon, we get extra-large spring tides.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's north-west has some of the world's largest tides, over 10 metres.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apollo astronauts left mirrors on the Moon.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lasers fired at them show it is drifting away by about 3.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 centimetres a year, roughly the rate your fingernails grow.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tidal forces are also lengthening Earth's day: hundreds of millions of years ago, a day was around 22 hours.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sun, Moon, shadow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By a remarkable coincidence, the Sun is about 400 times wider than the Moon and about 400 times further away, so they look almost the same size in our sky.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the Moon passes directly in front of the Sun, it can block it completely in a total solar eclipse.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Earth passes between the Sun and Moon, its shadow falls on the Moon, often turning it red, in a lunar eclipse.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Eclipses don't happen every month because the Moon's orbit is tilted slightly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the Moon drifts away, it will look too small to cover the Sun, and total solar eclipses will end.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who owns the Moon.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Officially, nobody owns the Moon.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 1967 Outer Space Treaty, joined by Australia and more than 100 other countries, says no nation can claim the Moon or any other celestial body, and that space should be used for peaceful purposes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But plans to mine lunar water ice raise a new question: can a company own what it digs up?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2020, Australia was one of eight founding signatories of the Artemis Accords, US-led principles that support using space resources and call for protecting historic sites such as the Apollo landing areas.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dozens more countries have since signed, while China and Russia are planning their own lunar research station instead.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Moon most likely formed when a Mars-sized body hit the young Earth, and its dark seas are ancient lava plains.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why are the inner planets rocky and the outer ones giants?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Ice beyond the frost line let cores hold gas.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is Venus only seen around dawn or dusk?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its orbit is inside Earth's, so it stays near the Sun.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why were the four moons Galileo saw around Jupiter so important?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They showed not everything orbits Earth.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What evidence supports the idea that a Mars-sized body hit the young Earth?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Moon rocks closely resemble rocks on Earth.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

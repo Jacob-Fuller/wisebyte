@@ -1,0 +1,1284 @@
+{
+ "id": "s-emotional-intelligence-1",
+ "title": "Emotional Intelligence · Episode 1",
+ "chapters": [
+  "What emotions actually are",
+  "Fear: how your brain keeps you alive",
+  "Managing big emotions",
+  "Anger: why letting off steam backfires"
+ ],
+ "units": [
+  {
+   "t": "Emotional Intelligence. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: What emotions actually are, Fear: how your brain keeps you alive, Managing big emotions and Anger: why letting off steam backfires.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. What emotions actually are.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Emotions aren't the opposite of thinking.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They're fast, ancient information systems, and understanding them is the first step to handling them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What emotions do.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emotion is a coordinated response of body and mind to something significant.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fear sharpens attention to threats; disgust makes you pull away from spoiled food; anger mobilises energy to overcome obstacles; sadness slows us down and can draw support.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charles Darwin argued in 1872 that emotions evolved because they helped ancestors survive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're fast signals about what matters, often arriving before you've consciously worked it out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1960s and 70s, Paul Ekman, studying people in many cultures including the Fore of Papua New Guinea, argued six basic emotions have universally recognised faces.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lisa Feldman Barrett and others challenge this, finding culture and context shape emotions heavily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most researchers now accept a mix of shared biology and cultural learning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Body and brain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emotions are deeply physical.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A racing heart, tight chest, butterflies in the stomach or tense shoulders are all part of the emotional response, not side effects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brain regions like the amygdala help detect threats quickly, sometimes before you're aware, while areas of the prefrontal cortex help interpret and regulate responses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hormones like adrenaline and cortisol prepare the body for action.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the loop runs both ways, the body influences feelings too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's why slow breathing, a walk or loosening your shoulders can genuinely calm emotions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moods and naming.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emotion is usually brief, lasting seconds to minutes, and triggered by something specific: you're angry at a rude driver.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A mood lasts hours or days and often has no clear cause.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many researchers map feelings along two dimensions: pleasant to unpleasant, and calm to activated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Excitement and anxiety are both high-energy, which partly explains why one can tip into the other.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emotional granularity is the ability to distinguish similar feelings, like frustrated, disappointed, resentful or embarrassed, rather than just 'bad' or 'stressed'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People with higher granularity tend to cope better with stress and, in some studies, are less likely to turn to binge drinking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A precise name suggests a precise response.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's a skill anyone can practise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decisions and intelligence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neuroscientist Antonio Damasio studied patients with damage to parts of the prefrontal cortex linking emotion and reasoning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They scored normally on intelligence tests, yet struggled terribly with everyday decisions, sometimes deliberating endlessly over when to book an appointment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Damasio concluded that emotions tag options as good or bad before we reason them through.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emotions can mislead, as when anger drives rash decisions, but deciding without emotion works badly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emotional intelligence, introduced by Peter Salovey and John Mayer in 1990 and popularised by Daniel Goleman, is perceiving, understanding and managing emotions in yourself and others.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Claims that it matters more than IQ are overstated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the skills are real and teachable, and linked to better relationships and wellbeing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Working with emotions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A useful habit is to treat emotions as messages rather than commands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, notice what's happening in your body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then name the feeling as precisely as you can.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask what it might be telling you: anger often signals that something feels unfair, anxiety that something matters and feels uncertain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then decide what, if anything, to do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the basics too, since being hungry, tired or run-down amplifies everything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Avoid big decisions at an emotional peak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And if strong emotions regularly feel unmanageable, talking to a GP or psychologist is a sensible, practical step.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Emotions are rapid responses that prepare us to act on what matters, though how universal they are is debated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Fear: how your brain keeps you alive.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A snake-shaped stick on a bush track can make you leap before you know why.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fear is fast, ancient and occasionally wrong, by design.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The body's alarm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you sense a threat, your body changes in a fraction of a second.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sympathetic nervous system and adrenaline raise your heart rate and blood pressure and speed up breathing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood is diverted to large muscles and away from digestion, which is why fear can bring a churning stomach or dry mouth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pupils widen, sugar is released for energy and sweating increases.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Goosebumps are a leftover from ancestors whose fur stood on end to look bigger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The phrase 'fight or flight' was popularised by physiologist Walter Cannon in the early twentieth century.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers now add freezing, since stillness makes animals harder to spot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Freezing is an involuntary reflex, not a choice or a sign of weakness, so people who froze in a crisis should not blame themselves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The amygdala shortcut.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deep in each temporal lobe sits an almond-shaped cluster of neurons called the amygdala, named from the Greek word for almond.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Studying rats from the 1980s, neuroscientist Joseph LeDoux traced how threat signals reach it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A quick, rough 'low road' runs from the thalamus, a sensory relay station, straight to the amygdala.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A slower 'high road' passes through the cortex, which analyses the scene in detail.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The low road lets you jump at a stick that looks like a snake before your cortex has decided it is a stick.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mistakes are cheap and missing a real snake is not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "LeDoux has since stressed that the amygdala drives defensive reactions, not necessarily the conscious feeling of fear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Woman without fear.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some of the most striking evidence comes from a woman known in research as S.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "M.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rare genetic condition, Urbach-Wiethe disease, damaged the amygdala on both sides of her brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2011 study led by Justin Feinstein, she handled snakes at an exotic pet shop and had to be stopped from touching dangerous ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At a haunted house attraction she laughed at the performers and even startled one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She also struggled to recognise fear in other people's faces.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is a twist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a later study, breathing air enriched with carbon dioxide, which creates a feeling of suffocation, brought on a panic attack.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Threats from inside the body, it seems, can trigger fear without the amygdala.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learned and prepared fears.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why do so many people fear snakes and spiders, which rarely harm anyone in cities, but not cars or power points, which kill far more?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologist Martin Seligman proposed in 1971 that evolution has 'prepared' us to learn certain fears quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experiments by Susan Mineka and colleagues supported this.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Laboratory-raised rhesus monkeys showed little fear of snakes at first, but after watching videos of other monkeys reacting fearfully to snakes, they quickly developed the fear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the videos were edited so the monkeys seemed to fear flowers, the watchers did not learn to fear flowers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans also pick up fears by watching others, especially parents.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some fears may be prepared, but which ones a person develops depends heavily on experience.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anxiety, phobias and thrills.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fear responds to a specific, present danger, such as a car swerving towards you, and fades once the threat passes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anxiety is a drawn-out apprehension about things that might happen, like a medical result or next week's interview.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both are useful in moderation; mild anxiety can sharpen preparation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Problems arise when they are out of proportion to the danger, last long or interfere with life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anxiety disorders are among the most common mental health conditions, and effective treatments exist, especially exposure-based therapy, which helps people safely face what they fear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A GP is a good first step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people also enjoy fear when they know they are safe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers at Aarhus University's Recreational Fear Lab, studying visitors to a haunted house, found enjoyment peaked at moderate levels of fear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fear triggers a rapid, automatic set of bodily changes, including freezing, that prepare you to survive danger.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Managing big emotions.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You can't stop feeling things.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But you can change what happens next.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evidence-based ways to handle anger, anxiety and overwhelm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regulate, don't suppress.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emotional regulation means influencing which emotions you have, when you have them and how you express them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is not suppression, which pushes feelings down behind a neutral face.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research by Stanford psychologist James Gross and others found that habitual suppression tends to backfire.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It does little to reduce the inner experience, raises physical signs of stress, and can make relationships feel less close, because others sense something is being held back.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthy regulation works differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It changes the emotion itself, or the way you respond to it, rather than just covering it up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Five points of influence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gross's widely used process model describes five points where you can shape an emotion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Situation selection: choose whether to enter a situation at all, such as skipping a party where an ex will be.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Situation modification: change it, such as moving a tense chat onto a walk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attentional deployment: shift your focus, such as distracting yourself during a painful injection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cognitive change: rethink what the situation means.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Response modulation: change how you act once the emotion has arrived, for instance by breathing slowly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earlier strategies are often easier, because the emotion hasn't built up steam yet.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pause and ride it out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strong emotions push you to act at once: shout, send the angry email, storm out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A short pause lets the thinking parts of the brain catch up with the fast, reactive ones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Count to ten, step away, or say 'let me get back to you on that'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some therapists teach STOP: Stop, Take a breath, Observe what you're feeling, Proceed deliberately.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For messages, draft it but don't send it until tomorrow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Intense emotions tend to peak and fade within minutes if you stop feeding them with fresh thoughts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alan Marlatt's 'urge surfing' treats an impulse like a wave: notice where you feel it and let it crest and subside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dialectical behaviour therapy adds 'opposite action': gently do the opposite of what an unhelpful emotion urges.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reframe and name it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cognitive reappraisal means changing the meaning you give a situation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A friend didn't reply: instead of 'they're ignoring me', consider 'they're probably busy'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A racing heart before a speech can be relabelled as excitement, which studies suggest can improve performance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The aim is a more accurate, balanced view, not fake positivity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reappraisal reduces negative emotion without suppression's costs, and it is a core skill in cognitive behavioural therapy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Naming helps too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dan Siegel's phrase is 'name it to tame it'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brain imaging by Matthew Lieberman at UCLA found that simply saying 'I feel anxious' reduces amygdala activity and increases activity in parts of the prefrontal cortex.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "James Pennebaker found that writing about difficult experiences for 15 to 20 minutes a day over a few days often benefited mood and even physical health.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People and the basics.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We don't regulate alone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humans lean on each other, a process called co-regulation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2006 study led by James Coan, married women waited for a possible mild electric shock while their brains were scanned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holding their husband's hand reduced threat-related brain activity, a stranger's hand helped less, and the effect was strongest in the happiest marriages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choose carefully, though: anxious people can also wind each other up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Basics matter too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sleep loss makes the amygdala more reactive, and hunger can make people irritable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exercise eases anxiety, while alcohol worsens mood and sleep afterwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If emotions regularly feel overwhelming, a GP or psychologist can help, and in Australia a GP may refer you for Medicare-subsidised sessions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lifeline, 13 11 14, offers 24-hour support.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Emotional regulation means influencing your emotions rather than bottling them up, because suppression tends to backfire.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Anger: why letting off steam backfires.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Punch a pillow, scream into the void, smash plates in a rage room.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It feels like it should help.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The research says it usually makes things worse.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What anger is for.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anger has a bad reputation, but it exists for a reason.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It flares when we feel wronged, blocked or treated unfairly, and it prepares the body to push back.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heart rate and blood pressure rise, adrenaline surges, muscles tense and attention narrows onto the problem.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In our evolutionary past that energy helped people defend food, territory or family.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it can still be useful.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anger signals that something matters, it can give us courage to stand up for ourselves or others, and it has fuelled many campaigns against injustice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trouble is not feeling anger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is what we do next, and one of the most popular answers is wrong.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The steam engine theory.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aristotle wrote about catharsis, the purging of emotions, when he described how audiences felt after watching tragedy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Centuries later Sigmund Freud and others pictured emotions as fluid or steam in a closed system.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bottle it up and the pressure grows until it bursts out somewhere harmful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Let it out safely and you return to calm.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This hydraulic picture shaped twentieth century advice: hit a punching bag, scream into a pillow, play violent games to get aggression out of your system.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It lives on in rage rooms, where customers pay to smash crockery and old televisions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The picture feels right because anger feels like pressure.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But feelings are not steam, and the brain is not a kettle.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The punching bag test.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2002 psychologist Brad Bushman tested catharsis on about 600 university students.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each wrote an essay and received harsh feedback, supposedly from another student, including that it was one of the worst essays the reader had seen.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One group then hit a punching bag while thinking about the person who insulted them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second hit the bag while thinking about getting fit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A third sat quietly for a couple of minutes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards everyone could blast their insulter with unpleasant noise through headphones.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The group who vented while focused on their anger felt the most anger and were the most aggressive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The quiet group were the least angry and least aggressive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doing nothing beat letting off steam.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why venting feeds anger.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venting fails because it is rehearsal.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Replaying an insult, ranting about it or acting out hitting someone keeps the alarm system switched on and the offence at the front of your mind.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists call the mental version rumination, one of the strongest predictors of anger lasting longer and spilling onto innocent targets.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A revved-up body is also primed to read new frustrations as further attacks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021 Sophie Kjærvik and Brad Bushman pooled more than 150 studies.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Activities that lower arousal, such as slow breathing, relaxation, mindfulness, yoga and simply pausing, reliably reduced anger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hitting things, and in some studies vigorous exercise straight after a provocation, generally did not.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regular exercise is still good for mood and health.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you are boiling, though, cool the body first: breathe out longer than you breathe in, step away, or delay your reply.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using anger well.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stuffing anger down has costs too, including strain on relationships and health.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The skill lies between exploding and bottling.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once the first surge settles, ask what the anger points to.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was a boundary crossed?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is something unfair?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then say so plainly, focusing on the behaviour and its effect rather than attacking the person.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'I was embarrassed when the mistake was raised in front of everyone' invites a conversation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'You always humiliate me' invites a fight.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Talking helps only when it moves towards understanding or solving the problem.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anger that is understood can lead to useful change.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anger that is merely released usually leads to more anger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If anger often arrives too fast and hard, harms relationships, or has been linked to violence, see a GP for a referral.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In immediate danger, call 000.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Anger is an emotion built to confront perceived wrongs, and the trouble lies in what we do with it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is a good description of emotions?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Fast responses that prepare us to act.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why should someone who froze during a crisis not blame themselves?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Freezing is an involuntary reflex, not a weakness.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does habitual suppression tend to backfire?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It barely changes the feeling and raises stress.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is the main problem with anger according to this lesson?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. What we do with it, because the feeling can be useful.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

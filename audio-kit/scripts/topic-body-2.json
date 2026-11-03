@@ -1,0 +1,869 @@
+{
+ "id": "topic-body-2",
+ "title": "The Human Body Shorts · Episode 2",
+ "chapters": [
+  "Fever: why your body turns up the heat",
+  "The lymphatic system: your hidden drainage network",
+  "Why we age: the biology of growing old"
+ ],
+ "units": [
+  {
+   "t": "The Human Body Shorts. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Fever: why your body turns up the heat, The lymphatic system: your hidden drainage network and Why we age: the biology of growing old.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Fever: why your body turns up the heat.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A fever is not your body losing control of its temperature.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a deliberate decision, and one that animals have been making for hundreds of millions of years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resetting the thermostat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your body temperature is controlled by the hypothalamus, a small region at the base of the brain that works like a thermostat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During an infection, immune cells release signalling molecules, including cytokines such as interleukin 1 and interleukin 6.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These trigger a substance called prostaglandin E2, which raises the hypothalamus's set point.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suddenly your normal temperature feels too cold.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You shiver, your skin turns pale as blood vessels narrow to save heat, and you reach for a blanket, all to warm up to the new target.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the fever breaks and the set point drops, the opposite happens: you feel hot, flush and sweat heavily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The myth of 37 degrees.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The figure of 37 degrees Celsius traces largely to German physician Carl Wunderlich, who in 1868 published an analysis of a huge number of armpit readings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His work helped make the thermometer a standard medical tool.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern measurements suggest the average is often a little lower, commonly around 36.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 to 36.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 degrees, depending on the person and where it is measured.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your temperature also follows your body clock, usually lowest in the early morning and highest in the late afternoon or evening.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Age, activity and, for women, the menstrual cycle shift it too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers have found evidence that average temperatures have drifted down since Wunderlich's day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lizards with a fever.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s physiologist Matthew Kluger studied desert iguanas, which cannot make their own body heat and control temperature by moving between warm and cool spots.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When infected with bacteria, the lizards chose warmer places, raising their temperature by around two degrees, a so-called behavioural fever.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lizards kept at cooler temperatures were much more likely to die.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Similar behaviour has since been seen in fish, insects and other animals.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because fever appears across so many branches of the animal kingdom, and costs a lot of energy, most scientists conclude it evolved because it helps fight infection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trait this costly and this useless would probably have been lost long ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How heat helps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fever seems to help in several ways.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many immune processes run faster when warm, including the movement of white blood cells and the production of some defensive molecules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some bacteria and viruses multiply less efficiently in warmer surroundings, and the body also restricts the iron many bacteria need to grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "History offers a grim illustration.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1917 Austrian psychiatrist Julius Wagner-Jauregg deliberately infected patients with neurosyphilis, then an incurable brain infection, with malaria to induce high fevers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some improved, and he won the Nobel Prize in 1927.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The treatment was dangerous and was abandoned once penicillin arrived, but it showed that fever could attack a disease.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fever, heat stroke, and help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a fever the brain has raised its set point and the body still regulates around it, so infection fevers rarely climb much above about 41 degrees.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In heat stroke the set point is unchanged: the body absorbs or makes heat faster than it can lose it, and temperature keeps rising.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fever medicines act on the set point, so they do not treat heat stroke.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is an emergency: call 000 and start cooling the person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most fevers pass within a few days, and medicines mainly improve comfort, so follow the label or ask a pharmacist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get urgent help for a baby under three months with fever, or for anyone with a stiff neck, a rash that does not fade when pressed, trouble breathing, severe drowsiness or confusion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000 if a febrile seizure lasts more than five minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In a fever the brain deliberately raises its target temperature, which is why you shiver and feel cold as it rises.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The lymphatic system: your hidden drainage network.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Alongside your blood vessels runs a second network that most people barely know exists.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without it, you would swell up like a balloon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The leak problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your smallest blood vessels, the capillaries, are deliberately leaky.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As blood flows through, pressure pushes plasma into the tissues, carrying oxygen and nutrients to cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it seeps back, but not all.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each day several litres are left among the cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If nothing collected it, your tissues would swell and your blood volume would steadily fall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the job of the lymphatic system, a network of thin-walled vessels that begin as tiny dead-end tubes woven among the tissues.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They soak up the excess fluid, now called lymph, along with proteins, debris and sometimes germs, and carry it back towards the bloodstream.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A system with no pump.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blood has the heart to push it around, but lymph has no central pump.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lymphatic vessels contain one-way valves, like those in veins, that stop fluid flowing backwards.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The walls of larger vessels can contract rhythmically, and each time nearby muscles squeeze, or your chest rises and falls as you breathe, lymph is nudged further along.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it eventually drains through the thoracic duct into large veins near the left collarbone, rejoining the blood.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This helps explain why ankles often swell after hours of sitting still on a long flight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With the leg muscles inactive, fluid moves along more slowly, and gravity lets it pool in the feet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Checkpoints for germs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Along the lymphatic vessels sit lymph nodes, small bean-shaped structures found in clusters in places such as the neck, armpits and groin.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Estimates vary, but a typical adult has several hundred.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As lymph passes through, the nodes filter out debris and microbes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are also packed with lymphocytes, the immune cells that recognise specific invaders.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because fluid from every tissue flows through them, nodes act as checkpoints where immune cells meet evidence of infection.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they detect a threat, lymphocytes multiply rapidly, which is why the glands in your neck can swell and become tender during a sore throat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tonsils, spleen and thymus are also part of the wider lymphatic family.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Milky vessels and fat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1622 Italian anatomist Gaspare Aselli, dissecting a recently fed dog, noticed thin white threads across its intestines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cutting one released a milky fluid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called them lacteals, from the Latin for milk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decades later Jean Pecquet traced the fluid to the thoracic duct, and in the 1650s Olaus Rudbeck and Thomas Bartholin described the wider lymphatic network.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aselli's vessels had a real purpose.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most nutrients go straight into blood vessels leading to the liver, but fats are packaged into large particles called chylomicrons that enter the lacteals instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a fatty meal, gut lymph turns cloudy and white.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This fat-rich fluid travels up the thoracic duct and enters the bloodstream near the collarbone, reaching the body before it passes through the liver.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When drainage fails.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When lymphatic vessels are blocked or damaged, fluid builds up as lymphoedema, a persistent swelling often in an arm or leg.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia and similar countries a common cause is cancer treatment, because surgery or radiation may damage lymph nodes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cancers can spread via lymph vessels, so surgeons often check the first node a tumour drains into, called the sentinel node.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In parts of the tropics, mosquito-borne parasitic worms cause lymphatic filariasis, which in severe cases brings enormous swelling called elephantiasis.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Textbooks long taught that the brain had no lymphatic vessels.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2015 two teams, one in the United States and one in Finland, independently reported them in the meninges, the membranes wrapping the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They appear to drain fluid, waste and immune cells towards nodes in the neck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their role in disease remains uncertain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fluid constantly leaks out of your capillaries, and the lymphatic system collects it and returns it to the blood.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why we age: the biology of growing old.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some tortoises seem barely to age, while mice are old at three.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What is actually happening inside our cells as the years go by, and why did evolution let it happen at all?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not wear and tear.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The body is not a car slowly wearing out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It constantly repairs itself: cells are replaced, proteins recycled and damaged DNA fixed, often thousands of times a day in a single cell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing seems to happen as damage accumulates faster than repair can keep up, and as the repair systems themselves weaken.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing is also the biggest single risk factor for heart disease, many cancers and dementia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why hasn't evolution removed it?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Biologists including Peter Medawar and George Williams noted that most wild animals die young, so natural selection is strong in youth and weak in later life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A gene harming only in old age is barely selected against, and one that helps us grow fast and breed early may be favoured despite later damage, an idea called antagonistic pleiotropy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shrinking telomere.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Telomeres are repeating stretches of DNA at the ends of chromosomes, often compared to the plastic tips on shoelaces.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each time most cells divide, the telomeres shorten, because the copying machinery cannot fully copy the very ends.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they become too short, the cell typically stops dividing or dies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1960s, Leonard Hayflick showed that normal human cells grown in the laboratory divide only a limited number of times, now called the Hayflick limit.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An enzyme called telomerase can rebuild telomeres and is active in some cells, such as certain stem cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many cancer cells switch it on, which helps them divide indefinitely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That link shows why simply boosting telomerase is not a safe anti-ageing shortcut.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zombie cells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When cells are damaged or their telomeres run short, some enter a state called senescence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They stop dividing, which helps prevent damaged cells turning cancerous.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But they do not always die.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can linger and release inflammatory chemicals that disturb surrounding tissue, earning the nickname zombie cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Normally the immune system clears them, but with age they seem to build up in many tissues.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The low-grade chronic inflammation that tends to rise with age, called inflammaging, may be partly driven by them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In mice, clearing senescent cells has improved some measures of health.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drugs designed to do this, called senolytics, are being tested in people, but it is too soon to know whether they will be safe and useful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A web of causes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2013, scientists proposed a widely cited framework of nine hallmarks of ageing, later expanded.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They include DNA damage, shortening telomeres, changes in how genes are switched on and off, faulty protein folding, faltering mitochondria, the cells' energy producers, senescent cells, exhausted stem cells and altered communication between cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chronic inflammation is often added too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crucially, these processes are interlinked.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Damaged mitochondria can produce harmful molecules that damage DNA, which can push cells into senescence, which drives inflammation, which harms stem cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing looks less like a single cause and more like a web of problems feeding one another.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That complexity is one reason no single pill or treatment has been shown to halt human ageing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slowing the clock.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The naked mole-rat, a small burrowing rodent, can live over 30 years, many times longer than a mouse, with few signs of ageing for most of its life.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greenland sharks are estimated to live for centuries, and some tortoises have passed a hundred years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the laboratory, genetic changes, certain drugs and reduced calorie intake without malnutrition have extended the lifespan of worms, flies and mice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Translating this to people is harder: trials take decades, and mouse results often fail to carry over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No supplement has been proven to slow human ageing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The evidence supports regular activity including strength training, not smoking, limited alcohol, a plant-rich diet, sleep, sun protection and social connection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice; ask your GP about health checks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ageing is a build-up of damage and declining repair, which evolution does little to prevent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does a person with a rising fever shiver and feel cold?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The brain has raised its target temperature.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does the body need a lymphatic system?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To return fluid that leaks from capillaries.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why has evolution not eliminated ageing?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Natural selection is weak late in life.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

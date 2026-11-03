@@ -1,0 +1,1380 @@
+{
+ "id": "s-mind-bending-maths-1",
+ "title": "Mind-Bending Maths · Episode 1",
+ "chapters": [
+  "The power of doubling",
+  "The doomsday rule: find the weekday of any date in your head",
+  "The Monty Hall problem: the puzzle that fools almost everyone",
+  "The pigeonhole principle: the simplest idea that proves surprising things"
+ ],
+ "units": [
+  {
+   "t": "Mind-Bending Maths. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The power of doubling, The doomsday rule: find the weekday of any date in your head, The Monty Hall problem: the puzzle that fools almost everyone and The pigeonhole principle: the simplest idea that proves surprising things.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The power of doubling.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Fold a sheet of paper 42 times and, in theory, it would reach past the Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doubling is the simplest pattern in maths, and the one our brains are worst at imagining.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chessboard legend.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An old legend says the inventor of chess was offered any reward by a delighted ruler.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He asked for something that sounded modest: one grain of wheat on the first square, two on the second, four on the third, doubling each time across all 64 squares.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ruler laughed and agreed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He should not have.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By square 11 the pile holds 1,024 grains, still only a handful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By square 21 it passes a million.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The final square alone needs about 9.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 quintillion grains, and the whole board adds up to 18,446,744,073,709,551,615 grains, which is 2 multiplied by itself 64 times, minus one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The world would need many centuries of harvests to grow that much.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paper to the Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Take a sheet of paper about 0.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "1 millimetres thick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each fold doubles it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After 20 folds, if that were possible, it would be about 105 metres tall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After 30 folds it would pass 100 kilometres, reaching the edge of space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After 42 folds it would stand about 440,000 kilometres high, past the Moon's average distance of about 384,000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In reality each fold needs far more paper.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2002 the American student Britney Gallivan folded a very long strip 12 times, a record.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our intuition is built for adding.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thirty steps of one metre cover 30 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thirty steps doubling in length would total over a million kilometres, nearly 27 times around the Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers call this 'exponential growth bias'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Late warnings, quick sums.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A lily patch doubles in area every day and covers the pond on day 48.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On what day was it half covered?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many say day 24, but it is day 47.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four days before the end, only about 6 per cent is covered.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early on the numbers look tiny, and by the time the problem is obvious, few doublings remain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why acting a few days sooner matters so much early in an outbreak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To estimate doubling time, divide 72 by the yearly percentage growth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 6 per cent, it takes about 12 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Credit card debt charging 20 per cent would double in under four years if unpaid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice; moneysmart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au has free calculators.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Halving, in reverse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doubling has a mirror image: repeated halving.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radioactive carbon-14 has a half-life of about 5,730 years: in that time, half of any sample decays into nitrogen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After another 5,730 years, half of what is left has gone, leaving a quarter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After ten half-lives, about 57,000 years, less than a thousandth of the original remains.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living things constantly take in carbon, so their carbon-14 level stays steady while they are alive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they die the clock starts ticking, and by measuring how much is left, scientists can date bones, wood and charcoal back to roughly 50,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Halving also explains why the amount of a medicine in your blood fades in steps rather than all at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing doubles forever.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a single bacterium dividing every 20 minutes kept going unchecked, its descendants would outweigh the entire Earth in about two days.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That never happens, because food runs out, waste builds up and space fills.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real growth usually follows an S-shaped curve: slow at first, then explosive, then levelling off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematicians call this logistic growth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technology shows the same pattern.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1965 the engineer Gordon Moore noticed that the number of components on a chip was doubling regularly, and in 1975 he revised this to roughly every two years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moore's law powered the computer revolution, though progress has slowed as parts approach the size of atoms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson is to spot doubling early, and to ask what limit will eventually stop it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Doubling one grain across 64 squares produces more wheat than the world could grow in centuries.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The doomsday rule: find the weekday of any date in your head.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A mathematician named John Conway could tell you the day of the week for any modern date in a couple of seconds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His method is easy to learn, and it starts with 4 April.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A grim party trick.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1970s the British mathematician John Horton Conway, famous for inventing the Game of Life, devised a way to work out the weekday of any date mentally.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He built on an earlier method by Lewis Carroll, the author of Alice's Adventures in Wonderland, who was also a mathematician.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trick rests on a striking fact.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In any given year, a whole collection of memorable dates always land on the same weekday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conway called that weekday the year's ‘doomsday’.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name is not sinister.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It simply means the anchor day for that year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The anchor dates.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The even months are easy: 4 April, 6 June, 8 August, 10 October and 12 December, 4/4, 6/6, 8/8, 10/10, 12/12.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For the odd months, the mnemonic ‘I work 9 to 5 at 7-Eleven’ gives 9 May, 5 September, 11 July and 7 November.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last day of February is always a doomsday, as is 14 March.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For January, use 3 January in ordinary years and 4 January in leap years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2026 all of these are Saturdays.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Christmas?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The nearest anchor is 12 December, a Saturday, so 19 and 26 December are too, making Christmas a Friday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia Day: 3 January is Saturday, so 31 January is too, making 26 January a Monday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moving from year to year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A normal year has 365 days, which is 52 weeks and one day, so the doomsday moves forward by one weekday.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A leap year adds a day, so the jump after 29 February is two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2026 the doomsday is Saturday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2027 it is Sunday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2028, a leap year, it jumps two places to Tuesday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To handle any year in a century, start from a known anchor: Wednesday for the 1900s and Tuesday for the 2000s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Add the number of years past the century, plus the number of leap years in that stretch, and count forward that many weekdays, ignoring complete weeks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A worked example.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Test the method on Neil Armstrong's Moon step on 20 July 1969, by American time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 1900s anchor is Wednesday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The year is 69 years into the century, which includes 17 leap years, since 69 divided by 4 is 17 with some left over.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add them: 69 plus 17 is 86.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remove complete weeks: 86 divided by 7 is 12 weeks with 2 left over.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two days on from Wednesday makes 1969's doomsday a Friday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The July anchor is 11 July, a Friday, and so is 18 July.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes 20 July a Sunday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In eastern Australia it was already the next day, so viewers here watched on Monday 21 July.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it works.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The method works because the calendar follows fixed rules.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pope Gregory XIII introduced the Gregorian calendar in 1582.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A year is a leap year if divisible by 4, except century years, which must be divisible by 400.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So 1900 was not a leap year but 2000 was.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 400-year cycle holds 146,097 days, exactly 20,871 weeks, so the calendar repeats perfectly, and the 13th falls on a Friday slightly more often than any other weekday.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conway reportedly had his computer quiz him with random dates when he logged in.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He died in April 2020.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To learn the method, start with the current year's anchors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It teaches modular arithmetic: weekdays cycle every seven, as hours cycle every twelve.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In any year, a set of memorable dates share one weekday, called the doomsday, which anchors every other date.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Monty Hall problem: the puzzle that fools almost everyone.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Three doors, one car, two goats.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Should you switch?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right answer is simple to state, hard to believe, and once had people with maths doctorates writing angry letters.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why switching wins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a game show with three closed doors: a car behind one, goats behind two.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You pick door 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The host, who knows where the car is, always opens another door to reveal a goat, say door 3, and offers a switch to door 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people feel it is 50 to 50.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The puzzle is named after Monty Hall, host of the American show Let's Make a Deal, and the statistician Steve Selvin posed it in 1975.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your first pick is the car one time in three.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then switching loses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two times in three you picked a goat, and the host must open the only other goat door, so the last door hides the car.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switching wins two thirds of the time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The letters that poured in.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1990 a reader sent the puzzle to Marilyn vos Savant, who wrote the 'Ask Marilyn' column in Parade, a US magazine read by millions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She replied that you should switch, because switching wins two thirds of the time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reaction was extraordinary.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She received thousands of letters, many from people with doctorates, many telling her she had made an embarrassing mistake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She was right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The puzzle even troubled Paul Erdős, one of the most prolific mathematicians of the twentieth century.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "According to a well-known account, he refused to accept the answer until he was shown a computer simulation of the game played many times over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expertise does not protect anyone from a strong but faulty intuition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hundred doors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the answer still feels wrong, imagine 100 doors, with a car behind one and goats behind the other 99.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You pick door 37.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your chance of being right is just 1 in 100.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now the host, who knows where the car is, opens 98 of the other doors, every one revealing a goat, and leaves just one other door closed: door 74.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Would you stick with door 37 or switch to door 74?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost everyone now feels the pull to switch, and they are right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your door still has its original 1 in 100 chance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The host has carefully avoided the car while opening 98 doors, so door 74 carries the remaining 99 in 100.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The three-door game works the same way, with smaller numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It depends on the host.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is a subtle condition hidden in the puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The host knows where the car is, always opens a goat door and always offers the swap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change those rules and the answer changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suppose the host has no idea where the car is and opens one of the other two doors at random.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes he will reveal the car and spoil the game.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But in the games where he happens to reveal a goat, your chances really are 50 to 50, and switching makes no difference.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference is information.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A knowing host's choice is limited by where the car is, so his action tells you something useful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A random host's choice tells you nothing extra.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many heated arguments about the puzzle are really about which rules apply.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taming your intuition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 70 years before the game show, the French mathematician Joseph Bertrand described a similar trap in an 1889 book.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One box holds two gold coins, one two silver and one a gold and a silver.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You pick a box at random and draw a gold coin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is the other coin gold?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most say one half, but it is two thirds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three gold coins could have been drawn, and two of them sit in the gold box.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Intuition counts the options left and assumes they are equally likely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead, list every equally likely starting situation and follow each through.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Or experiment: play 30 rounds of Monty Hall with cups and a friend as host, always sticking, then 30 always switching.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switching will usually come out well ahead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your first pick is right only a third of the time, so switching wins two-thirds of the time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The pigeonhole principle: the simplest idea that proves surprising things.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "If you have more pigeons than holes, some hole holds two pigeons.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is the whole idea, and it can prove that two people in Sydney have exactly the same number of hairs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too many pigeons.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ten pigeons fly home to nine pigeonholes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "However they arrange themselves, at least one hole must hold two birds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no trick, no probability and no calculation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It cannot be otherwise.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the pigeonhole principle, perhaps the most obvious statement in all of mathematics.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematicians love it because it proves something must exist without ever finding it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You need not know which hole is crowded, only that one is.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peter Gustav Lejeune Dirichlet used the idea in the 1830s and 1840s, and in German it became the Schubfachprinzip, the drawer principle.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The English name probably refers to small desk or mail-sorter compartments, not actual birds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Socks, birthdays and hair.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black and grey socks sit jumbled in a dark drawer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How many must you grab to be certain of a pair?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two socks might be one of each, but a third must match one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The colours are the holes and the socks are the pigeons.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Likewise, among 367 people two must share a birthday, since there are only 366 dates.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Certainty differs from likelihood: a shared birthday is likely with 23 people, but only 367 guarantees it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sydney has over five million people.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A head holds roughly 100,000 hairs, perhaps up to 150,000, and nobody has a million.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make a hole for every count from zero to one million, and at least two Sydneysiders must have exactly the same number.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In fact at least five share one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When boxes overflow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A stronger version tells you how crowded a box must be.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose 100 people at a conference are each born on one of the seven days of the week.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dividing 100 by 7 gives about 14.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3, so at least one weekday is the birthday of 15 or more of them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is to divide the number of items by the number of boxes and round up.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With 10 pigeons and 3 holes, some hole has at least 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is how you can prove that among any 13 people, at least two were born in the same month, and among any 25, at least three were.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The handshake puzzle.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At a party, guests shake hands with some others, never with themselves or twice with the same person.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prove that two guests shook exactly the same number of hands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Say there are 20 guests.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each person's count could be anything from 0 to 19, which looks like 20 values for 20 people, just enough to all differ.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But look closer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone shook nobody's hand, then nobody can have shaken all 19 others.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So 0 and 19 cannot both appear.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That leaves only 19 usable holes for 20 guests, and two people must share a count.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trick is common: first show there are fewer real options than there seem.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Limits and habits of mind.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The principle sets hard limits in computing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Could a clever program shrink every possible file, even by one bit?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Counting says no.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are 1,024 different files exactly 10 bits long but only 1,023 shorter ones, including the empty file.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If every 10-bit file shrank, two would share a compressed version and the program could not know which to restore.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real compression works because everyday files are full of patterns; truly random data cannot be squeezed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same logic explains why hash functions, which turn any data into a short fingerprint, must sometimes give two inputs the same fingerprint.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Security depends on making such collisions extraordinarily hard to find.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The principle guarantees only that a match exists, not where it is.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: If more items go into fewer boxes, some box must hold two, which proves something exists without finding it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does the chessboard reward grow so enormous?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each square doubles the one before, so totals explode late.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is a year's ‘doomsday’?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The weekday shared by 4/4, 6/6 and 8/8.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does switching doors win two thirds of the time?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Your first pick is usually wrong, so the other door usually wins.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What can the pigeonhole principle prove?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. That some box must be shared.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

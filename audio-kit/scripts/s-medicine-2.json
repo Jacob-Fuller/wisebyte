@@ -1,0 +1,1188 @@
+{
+ "id": "s-medicine-2",
+ "title": "Medicine & Disease · Episode 2",
+ "chapters": [
+  "Anaesthesia and the rise of modern surgery",
+  "Blood types: why your blood has a label",
+  "Pandemics: from plague to COVID-19",
+  "Clinical trials: how we know what works"
+ ],
+ "units": [
+  {
+   "t": "Medicine & Disease. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Anaesthesia and the rise of modern surgery, Blood types: why your blood has a label, Pandemics: from plague to COVID-19 and Clinical trials: how we know what works.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Anaesthesia and the rise of modern surgery.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Until 1846, the best surgeon was the fastest one, because patients were awake for every cut.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From screams to ether.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the 1840s, surgery meant being held down, fully awake.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alcohol, opium and a leather strap to bite on were about all that was offered.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Operations were mostly amputations, removing surface lumps and draining abscesses, because opening the chest or abdomen was almost always fatal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speed was everything: London surgeon Robert Liston was famous for removing a leg in under three minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Georgia doctor Crawford Long used ether from 1842 but didn't publish for years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 16 October 1846 in Boston, dentist William Morton gave ether to a patient while a surgeon removed a lump from his neck.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The patient felt no pain, and the news spread worldwide within months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By mid-1847 ether was used in the Australian colonies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word anaesthesia, 'without sensation', was suggested around then.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chloroform and clean hands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1847 Scottish obstetrician James Young Simpson and colleagues tested chemicals on themselves and found chloroform worked.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was faster than ether but could stop the heart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics called pain in childbirth natural, until Queen Victoria accepted chloroform from John Snow, also famous for tracing cholera, for the birth of Prince Leopold in 1853.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anaesthesia solved pain but not infection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sleeping patients allowed longer operations, yet many died afterwards from infected wounds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 1867 Joseph Lister used carbolic acid to kill germs, antisepsis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surgeons then moved to asepsis: keeping germs out in the first place, with steam-sterilised instruments, gowns and masks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rubber gloves arrived in the 1890s, partly because William Halsted's nurse had skin irritated by harsh antiseptics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How general anaesthesia works.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today's general anaesthesia is a careful balance of several drugs rather than one gas on a cloth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One drug, often propofol, brings on unconsciousness quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others block pain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscle relaxants, first used in the 1940s and derived from the arrow poison curare, keep the body still.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because these relaxants also stop breathing, a machine breathes for the patient.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The anaesthetist monitors heart rhythm, blood pressure, oxygen levels and exhaled carbon dioxide throughout.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia, anaesthetists are specialist doctors who train for many years after medical school.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gentler options.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "General anaesthesia is only one option.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Local anaesthetic, like a dentist's injection, numbs a small area.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regional anaesthesia numbs more: an epidural or spinal block can numb everything from the waist down, so many caesarean births happen with the mother awake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nerve blocks numb a whole arm or leg.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sedation, used for procedures like colonoscopies, relaxes you and often leaves little memory without full unconsciousness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keyhole surgery, laparoscopy, uses a few cuts of roughly 5 to 12 millimetres, gas to inflate the abdomen, and a thin camera.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first laparoscopic gallbladder removal was in Germany in 1985.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patients usually have less pain, smaller scars and shorter hospital stays.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before your operation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anaesthesia is now very safe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In countries like Australia, deaths caused by anaesthesia are very rare, and rarer still in otherwise healthy people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can help keep it that way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Follow fasting instructions exactly, because food in the stomach can be inhaled into the lungs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tell your anaesthetist about all medicines, including supplements and herbal products, any past reactions, and any family history of problems with anaesthesia, as some serious reactions run in families.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a general anaesthetic, don't drive, sign legal documents or make big decisions for at least 24 hours.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask your doctor or anaesthetist about anything that worries you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Before anaesthesia, speed was a surgeon's greatest skill; ether's public demonstration on 16 October 1846 changed surgery forever.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Blood types: why your blood has a label.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For centuries, giving someone blood was a gamble that often killed them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then a Viennese doctor mixed a few test tubes and discovered why.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A deadly gamble.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1667 the French physician Jean-Baptiste Denys transfused lamb's blood into human patients.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After one man died, the practice was banned in France and fell out of favour for well over a century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 1818 the English obstetrician James Blundell tried again with human blood, notably for women bleeding heavily after childbirth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some patients recovered remarkably.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others suffered fever, back pain, dark urine and death, and no one could predict which.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same procedure that rescued one dying patient killed the next, and the reason lay hidden in the blood itself, invisible to the microscopes of the day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Landsteiner's test tubes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1901 Karl Landsteiner, working in Vienna, separated blood from himself and his colleagues into red cells and serum, the liquid part.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He then mixed each person's serum with every other person's red cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes nothing happened.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes the cells clumped into sticky clusters, a reaction called agglutination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From the pattern he sorted people into groups, which became known as A, B and O.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A year later two colleagues found the rarer group AB.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The clumping explained the old disasters: incompatible donor cells were attacked and destroyed inside the patient.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Landsteiner's work made safe transfusion possible and earned him the 1930 Nobel Prize in Physiology or Medicine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Labels on your red cells.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every red blood cell is studded with surface molecules.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the ABO system the key ones are chains of sugars called antigens.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Type A cells carry the A antigen, type B cells carry B, type AB cells carry both, and type O cells carry neither.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The twist is that your plasma usually contains antibodies against whichever antigens you lack.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Type A blood has anti-B antibodies, and type O has both anti-A and anti-B.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They appear in early childhood, probably because gut bacteria carry similar sugars that train the immune system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If incompatible blood is transfused, these antibodies latch onto the foreign cells and can trigger a severe, sometimes fatal, reaction.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Positive and negative.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The plus or minus after your blood type refers to the Rh system, discovered in 1940 by Landsteiner and Alexander Wiener.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They named it after the rhesus monkeys used in their experiments, though the human antigen later proved to be different.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People whose cells carry the main Rh antigen, called D, are Rh positive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those without it are Rh negative.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This matters in pregnancy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If an Rh-negative mother carries an Rh-positive baby, she can make antibodies that attack the red cells of that baby or a later one, a condition called haemolytic disease of the newborn.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the late 1960s, injections of anti-D antibodies have prevented most cases.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Universal donors and more.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Type O negative red cells carry no A, B or D antigens, so a recipient's antibodies have nothing to attack.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is why emergency teams rely on O negative when there is no time to test.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "AB positive people can receive red cells of any type, and for plasma the rules flip: AB plasma has no ABO antibodies and suits anyone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hospitals still crossmatch whenever they can.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers have identified more than 40 blood group systems, so rare combinations sometimes need specially matched donors.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia roughly four in ten people are O positive, fewer than one in ten O negative, and about one per cent AB negative.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Careful large studies find no meaningful link between blood type and personality, despite the popular idea in Japan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Early transfusions often killed because nobody knew that human blood comes in incompatible types.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Pandemics: from plague to COVID-19.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every few generations a new disease sweeps the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "History shows how they spread, what stops them, and why the next one is a question of when, not if.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epidemic, pandemic, endemic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These three words describe how widespread a disease is, not how deadly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An epidemic is a sudden rise in cases above normal levels in a particular area.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A pandemic is an epidemic that spreads across several countries or continents, affecting large numbers of people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An endemic disease is always present at a fairly steady level in a region, like malaria in parts of Africa or the common cold everywhere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A disease can move between categories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many experts expect pandemic diseases to settle into endemic ones as immunity builds, as happened with the descendants of the 1918 flu strain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plague and the 1918 flu.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plague is caused by the bacterium Yersinia pestis, mainly spread by fleas on rats.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Black Death reached Europe in 1347 and killed perhaps a third to a half of its people within about five years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quarantine comes from the Venetian practice of isolating ships for 40 days, quaranta giorni.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1900, plague in Sydney killed more than 100 people, prompting mass rat catching and slum clearance around The Rocks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1918 flu, misleadingly called the Spanish flu, killed an estimated 50 million people, unusually including healthy young adults.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's strict maritime quarantine delayed its arrival until early 1919, but it still killed roughly 12,000 to 15,000 Australians.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Schools and theatres closed, and masks were required in some states.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "HIV and COVID-19.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "AIDS was recognised in 1981, and HIV identified in 1983.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It spreads through blood, sexual contact and from mother to child, and has killed over 40 million people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's 1980s response is widely praised: governments worked with affected communities, introduced needle and syringe programs early, and ran bold campaigns like the 1987 Grim Reaper ad.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 1996, combination treatment has allowed long lives, and people with an undetectable viral load don't transmit HIV sexually.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The WHO declared COVID-19 a pandemic on 11 March 2020 and later estimated about 15 million excess deaths in 2020 and 2021.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia closed its border and used lockdowns, testing and tracing, with far fewer deaths per person than many countries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Effective vaccines were ready within a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The emergency ended in May 2023.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spread and the R number.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germs travel by droplets and airborne particles, flu, COVID-19, contaminated hands, water and food, cholera, blood and sexual contact, HIV, or mosquitoes, dengue.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most new diseases are zoonotic, jumping from animals to people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hendra virus, first identified in Brisbane in 1994, passes from flying foxes to horses and occasionally to humans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epidemiologists track the reproduction number, R: the average number of people each case infects.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Measles has an R0 around 12 to 18, seasonal flu around 1 to 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If R is above 1, cases grow exponentially; with R of 2, one case becomes over a thousand within ten generations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Below 1, the outbreak shrinks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vaccines, masks, testing and isolation all work by pushing R down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being prepared.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experts agree another pandemic is likely; the questions are when and what.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Governments prepare by watching for unusual outbreaks, sharing data internationally, stockpiling masks, medicines and equipment, and building the capacity to make vaccines quickly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After COVID-19, Australia set up a national Centre for Disease Control to coordinate this work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Individuals matter too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stay home when you're sick, wash your hands, cover coughs, keep your vaccinations up to date, and keep a small supply of basics at home.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In an outbreak, follow official health advice from sources like Healthdirect and your state health department rather than social media rumours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An epidemic is a surge in one region, a pandemic spreads across the world, and an endemic disease is constantly present.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Clinical trials: how we know what works.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your neighbour swears a supplement cured her.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A trial of 10,000 people says it does nothing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's why the trial wins.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fair tests and trial phases.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1747, naval surgeon James Lind faced sailors dying of scurvy aboard HMS Salisbury.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He gave 12 sick sailors on the same diet different treatments in pairs: cider, vinegar, seawater, a spicy paste, diluted sulfuric acid, or two oranges and a lemon daily.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The citrus pair recovered dramatically within about a week.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The navy took about 50 years to issue citrus juice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medicines are tested in the lab, then in people.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phase 1 gives it to 20 to 100 volunteers to check safety and dose.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phase 2 asks a few hundred patients if it works.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phase 3 compares it with a placebo or best current treatment in hundreds to thousands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A regulator such as Australia's TGA then reviews it, and Phase 4 monitors wide use.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly 1 in 10 drugs entering Phase 1 is approved.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Random assignment.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a randomised controlled trial, a computer or similar process decides who gets the treatment and who gets the comparison.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This matters enormously.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If doctors chose, they might unconsciously give the new drug to healthier or more hopeful patients, making it look better than it is.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Randomisation spreads age, fitness, genes, habits and countless unknown factors evenly between groups, so any difference in outcomes can fairly be blamed on the treatment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1948 British trial of the antibiotic streptomycin for tuberculosis is widely regarded as the first modern randomised controlled trial.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blinding and placebos.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Expectations shape results.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Patients who know they got the new drug may feel better, and doctors who know may judge them more generously.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a double-blind trial neither patients nor the researchers assessing them know who got what until the end, which is why trial tablets often look identical.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blinding isn't always possible, as you can't hide surgery, but good trials use it where they can.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People also improve through the placebo effect, natural recovery and the extra attention of being in a study.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A placebo group captures all of that, so a drug's real effect is the difference between the groups.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where an effective treatment exists, giving sick people a dummy is unethical, so new treatments are compared with the best current one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian ethics committees review trials, and participants give informed consent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why anecdotes mislead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'It worked for me' feels convincing, but stories are unreliable evidence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many illnesses, like colds and back pain, get better on their own, and people usually try remedies when symptoms are at their worst, so almost anything taken then seems to work.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is regression to the mean.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We remember the hits, forget the misses, and rarely hear from people a remedy failed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even large observational studies can mislead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Studies once suggested hormone replacement therapy protected women's hearts, but a large trial published in 2002 found it didn't, and slightly increased some risks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading health news.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The strongest evidence comes from systematic reviews, which gather every good trial on a question, sometimes pooling the numbers in a meta-analysis.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Cochrane Collaboration, founded in 1993, produces many.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But exciting results are more likely to be published than null ones, a problem called publication bias, so trials are now registered before they start, for example on the Australian New Zealand Clinical Trials Registry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When reading a headline, ask: was it in humans, or mice or cells?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How many people?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A randomised trial, or only a link?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is risk absolute?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Doubles your risk' may mean 1 in 10,000 to 2 in 10,000.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who funded it?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthdirect is a reliable Australian source, and talk to your doctor or pharmacist before changing treatment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: James Lind ran an early controlled trial in 1747, and modern drugs pass through Phase 1, 2 and 3 trials, approval and Phase 4 monitoring.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why was speed so important for surgeons before the 1840s?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Patients were awake and in agony.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why were early transfusions so unpredictable?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Nobody knew blood groups could clash.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the difference between an epidemic and a pandemic?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A pandemic spreads across many countries.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is the main purpose of a Phase 1 trial?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To check safety and find a dose in a small group.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

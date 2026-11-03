@@ -1,0 +1,827 @@
+{
+ "id": "topic-ai-2",
+ "title": "AI & the Future Shorts · Episode 2",
+ "chapters": [
+  "Why your feed seems to know you",
+  "How computers learned to understand speech",
+  "How machines learned to translate"
+ ],
+ "units": [
+  {
+   "t": "AI & the Future Shorts. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Why your feed seems to know you, How computers learned to understand speech and How machines learned to translate.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Why your feed seems to know you.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every time you scroll, a recommender system is quietly running an experiment on you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how it decides what you see next, and how to take back some control.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The uncanny suggestion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watch one video about restoring an old timber chair, and suddenly your feed is full of sanding and staining tips.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The app didn't read your mind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It read your behaviour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recommender systems are the AI tools that choose which songs, shows, posts, products and news stories you see, behind streaming, online shops, social media and dating apps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oldest big idea is collaborative filtering.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If thousands of people who loved the same three crime dramas as you also loved a fourth, that fourth show is a good bet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The system asks the crowd for advice, weighted towards the part of the crowd that resembles you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Content-based filtering looks at features of the items instead, such as genre, topic or artist.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern systems blend both.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The million dollar prize.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2006, the then DVD-rental company Netflix offered one million US dollars to anyone who could improve its movie-rating predictions by ten per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It released a huge dataset of anonymised ratings, and thousands of teams around the world took up the challenge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prize was won in 2009 by a merged team that combined many different models into one blended prediction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The contest became a landmark in machine learning, showing that ensembles often beat any single clever method.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also produced a cautionary tale.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers showed that some supposedly anonymous users could be re-identified by matching their ratings with public reviews elsewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recommendation data, it turned out, reveals a lot about who we are.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the feed is chasing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A recommender needs a target, a number it tries to push up.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For many platforms that target is some form of engagement: clicks, watch time, likes, shares, comments or return visits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Engagement is easy to measure, and it tends to line up with advertising or subscription revenue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it isn't the same as satisfaction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think of the difference between a meal you enjoyed and a packet of chips you couldn't stop eating.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Content that provokes outrage, anxiety or curiosity can hold attention very well without leaving people better off.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some platforms have experimented with asking users directly whether a post was worth their time, and using that as a signal too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which goal a company chooses shapes the whole experience of its product.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Explore, exploit and bubbles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A system that only showed more of what you already liked would miss things you'd love.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So recommenders balance exploitation, serving the safe bet like another episode of your current show, with exploration, slipping in something new to see how you respond.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why one long pause on an odd video can send your feed in a new direction for days.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2011 the writer Eli Pariser popularised the term \"filter bubble\" for the worry that personalised feeds wall people off from other views.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A related fear is the rabbit hole of ever more extreme material.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The evidence is more mixed than headlines suggest: many people still meet a range of views, though some research found recommendations amplifying fringe content.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effect depends on the platform, topic and person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taking back the wheel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lingering, rewatching and commenting all count as votes, even when you're hate-watching.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most services let you say \"not interested\", hide a creator, pause your watch history or clear it entirely, and many offer a chronological or following-only feed if you go looking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deliberately searching for topics you want more of can retrain a feed surprisingly fast.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also helps to remember what the system can't see: whether you felt better or worse afterwards.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only you can judge that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's eSafety Commissioner publishes plain-language guides on managing online experiences, which are a good starting point if you want to set up feeds for yourself or for young people at home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Recommender systems predict what you will want next from patterns in your behaviour and in the behaviour of people like you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How computers learned to understand speech.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Talking to a phone feels effortless now, but getting a machine to hear words took seventy years of clever engineering.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how 'wreck a nice beach' became 'recognise speech'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why speech is hard.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spoken words feel separate, but the sound is mostly a continuous stream with no clear gaps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each speech sound, or phoneme, changes shape depending on its neighbours, called coarticulation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accents, speed, mood, noise and microphone quality add more variation, and different phrases can sound almost identical: 'recognise speech' and 'wreck a nice beach'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People resolve these puzzles using knowledge of language and context.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A computer starts with only a fast-changing series of air pressure measurements, sampled thousands of times a second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A key first step is slicing the audio into tiny overlapping pieces and measuring the energy at each frequency.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Side by side, these form a spectrogram, a picture with time running left to right and pitch bottom to top.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vowels show as bands, and 's' as high-frequency fuzz.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Templates to statistics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1952 Bell Laboratories built Audrey, which recognised spoken digits from zero to nine, mostly from a voice it had been tuned for.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1962 IBM showed the Shoebox at the Seattle World's Fair.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It understood 16 words, including digits and commands like 'plus' and 'minus', and did simple sums.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These machines matched whole-word sound patterns against stored templates, which could never scale to everyday conversation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1970s the US defence research agency DARPA funded a speech understanding programme, and Carnegie Mellon's Harpy handled about a thousand words.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers at IBM and elsewhere then championed hidden Markov models, which calculate probabilities for phonemes and for which word follows another.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With enough recorded speech, statistics beat expert rules and dominated for about three decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dictation to assistants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1997 Dragon Systems released Dragon NaturallySpeaking, one of the first products to let ordinary people dictate continuous speech on a home computer without pausing between words.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It needed training on your voice and a quiet room, and accuracy still frustrated many users, but it was a milestone, especially for people unable to type easily.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The next leap came around 2010 to 2012, when university and technology teams showed that deep neural networks could cut error rates substantially.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Combined with huge amounts of recorded speech and cloud computing, this made smartphone voice assistants and automatic video captions practical for millions of people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Listening for the wake word.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common worry is that smart speakers constantly record everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In normal operation they work in two stages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small, low-power model on the device itself listens continuously, but only for a short wake word, such as the assistant's name.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only when it thinks it has heard that phrase does the device start recording your request and, typically, send it to powerful computers elsewhere for full recognition.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wake word detector is deliberately simple, so it sometimes triggers by mistake on similar sounds, accidentally capturing snippets of conversation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most devices let you review and delete recordings and mute the microphone, which is worth knowing if privacy matters to you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not everyone is heard equally.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Speech systems learn from the recordings they are trained on.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If those recordings mostly feature certain accents, the systems work best for people who sound like that.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies have found commercial systems making noticeably more errors for some groups, including speakers of particular dialects, people with strong regional or non-native accents, children, older adults and people with speech impairments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This matters more as voice becomes a way to access services, from banking to medical transcription.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Developers are collecting more diverse speech data and letting systems adapt to individual voices, but equal accuracy for everyone remains an unfinished job.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Spoken words run together, vary between speakers and sound alike, so machines first turn sound into a picture called a spectrogram.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How machines learned to translate.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1954, researchers promised that computer translation was just a few years away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It took more than half a century, and a complete change of approach, to get close.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Promises and rules.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In January 1954, a room-sized IBM computer in New York translated more than sixty Russian sentences into English, and organisers suggested the problem might be solved within a few years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the sentences were hand-picked, and the system used only about 250 words and a handful of grammar rules.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early systems relied on such rules and dictionaries, and language defeated them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English 'bank' can mean a riverside or a place for money, and 'it's raining cats and dogs' makes no sense word by word.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tale of 'the spirit is willing but the flesh is weak' coming out as vodka and rotten meat is probably apocryphal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1966 the United States ALPAC report judged machine translation costly and disappointing, and funding dried up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning from parallel text.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the late 1980s and 1990s, researchers, notably a team at IBM, tried something radically different.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead of writing rules, they fed computers documents that already existed in two languages, such as Canadian parliamentary proceedings, published in English and French.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Statistical methods worked out which words and phrases tended to correspond, and how likely each translation was in context.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This needed no grammar rules, just lots of data and clever maths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It powered free online translators such as Google Translate from the mid-2000s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The results were often understandable but clunky, with odd word order and meaning that drifted across long sentences.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The neural leap.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 2014, researchers showed that neural networks could read an entire sentence, compress its meaning into a set of numbers, then generate a new sentence in the target language.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A key improvement, called attention, let the network look back at the most relevant words of the original as it wrote each word of the translation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By around 2016, major online services were switching to neural systems, and users noticed far more fluent results almost overnight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017, researchers introduced the transformer, a design built around attention and tested on translation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became the foundation of today's large language models and chatbots.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where it still fails.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern translation is impressive, but it isn't magic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Systems can produce smooth, confident sentences that are subtly wrong, which is arguably more dangerous than obvious gibberish.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They struggle with sarcasm, cultural references, wordplay and politeness levels that differ between languages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gender is a well-known trap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turkish uses a gender-neutral pronoun, and systems have been found to translate it as 'he' for doctors and 'she' for nurses, reflecting stereotypes in their training data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Names, numbers and negatives can also be mangled.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A missing 'not' can flip the meaning of an instruction, which matters a great deal for medicine labels or legal documents.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Left behind, used wisely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There are roughly seven thousand languages, but translation AI learns from data, and most languages have little digital text.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English, Spanish and Mandarin are well served.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many others, including most endangered First Nations languages in Australia, have patchy or no support.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Techniques that transfer learning from related languages may help, but communities rightly expect to lead any project involving their languages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For menus, news articles or chats with relatives, machine translation is a marvel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Translate your text and then back again to test whether the meaning survived.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For medical information, contracts, visa paperwork or court documents, use a qualified human.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Official documents in Australia often need a NAATI-certified translator, and TIS National provides interpreters.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Early machine translation relied on hand-written rules, which language defeated, and funding collapsed by 1966.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does collaborative filtering decide what to recommend?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It looks at what similar users went on to enjoy.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is speech so hard for computers to recognise?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Words blur together and vary between speakers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did early rule-based translation systems struggle?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Language is full of idioms and ambiguity.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

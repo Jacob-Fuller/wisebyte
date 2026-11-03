@@ -1,0 +1,935 @@
+{
+ "id": "s-finance-4",
+ "title": "Financial Literacy · Episode 4",
+ "chapters": [
+  "How home loans work",
+  "Buying a home: from inspection to settlement",
+  "Planning for retirement in Australia"
+ ],
+ "units": [
+  {
+   "t": "Financial Literacy. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How home loans work, Buying a home: from inspection to settlement and Planning for retirement in Australia.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How home loans work.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Over a 30-year loan, you can pay more in interest than you originally borrowed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding a few features can save you tens of thousands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the money goes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A home loan, or mortgage, is money borrowed to buy a property, which serves as security: if you can't repay, the lender can sell it to recover the debt.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most Australian loans run for 25 to 30 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You repay the principal, the amount borrowed, plus interest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take a $500,000 loan at 6% over 30 years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The monthly repayment is about $3,000, and you'd repay around $1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "08 million, roughly $580,000 of it interest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early on, most of each repayment goes on interest and only a small slice reduces the principal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the balance falls, that shifts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because the sums are large and the timeframe long, small differences in rates and features matter enormously.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deposit, LVR and LMI.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your deposit is the share of the price you pay yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lenders look at the loan-to-value ratio, LVR: a $600,000 loan on a $750,000 home is an 80% LVR.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you borrow more than 80%, lenders usually charge lenders mortgage insurance, LMI, which can cost thousands or tens of thousands of dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "LMI protects the lender, not you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Government schemes such as the Home Guarantee Scheme can let eligible first-home buyers purchase with a smaller deposit without paying LMI.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Variable or fixed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A variable rate moves up or down over time, usually following the Reserve Bank's cash rate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fixed rate stays the same for a set period, often one to five years, giving certainty about repayments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fixed loans often limit extra repayments and can charge break fees if you exit early.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people split their loan, part fixed and part variable, to balance certainty and flexibility.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a fixed period ends, the loan usually rolls onto a variable rate, often not the lender's best one, so plan ahead for that date.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Offset and extra repayments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An offset account is a transaction or savings account linked to your loan.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its balance is subtracted from your loan balance when interest is calculated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With $30,000 in offset against a $500,000 loan, you pay interest on only $470,000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every dollar in offset effectively 'earns' your mortgage rate, tax-free.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A redraw facility lets you take back extra repayments you've made.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Interest is calculated on the outstanding balance, so every extra dollar repaid removes all the interest it would have attracted.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On the $500,000 example, an extra $200 a month from the start would cut about four and a half years off and save roughly $100,000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paying half the monthly amount fortnightly also helps, because it adds up to one extra monthly payment each year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare, then negotiate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Advertised rates can hide fees, so Australian lenders must also show a comparison rate, which combines the interest rate with most fees in a single figure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compare features too: offset, redraw, extra repayments and fees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brokers can compare many lenders for you; they're usually paid by the lender and must act in your best interests by law.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Also check how much you can comfortably afford, not just how much a lender will offer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Banks often give their best rates to new customers while existing ones drift onto higher rates, sometimes called the loyalty tax.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every year or two, check what new customers are offered, call your lender and ask for a better rate, or consider refinancing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even a 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3% cut on $500,000 saves about $1,500 a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Early repayments are mostly interest, so over 30 years the interest can exceed the amount you borrowed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Buying a home: from inspection to settlement.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Buying a home is the biggest purchase most people ever make, and the process is full of unfamiliar words and quiet traps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is the path from first inspection to handing over the keys.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your true budget.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Find out what you can spend before you fall for a house.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pre-approval, sometimes called conditional approval, is a lender's indication of how much it may lend.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is not a guarantee: the lender still assesses the property and your circumstances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then add the costs on top of the price.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stamp duty, transfer duty, is often the biggest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others include conveyancing, inspections, loan fees, possibly lenders mortgage insurance, moving and repairs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First home buyers can get help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most states offer duty concessions or exemptions, and federal guarantees have let eligible buyers purchase with a five per cent deposit and no lenders mortgage insurance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The First Home Super Saver Scheme, running since 2017, lets you save a deposit through voluntary super contributions, within limits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules change often, so check current ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inspect before you commit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A home that looks lovely at an open inspection can hide serious problems.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A professional building inspection checks for structural defects, roof damage, rising damp, cracking and safety issues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Termites are a real threat in much of Australia, so a pest inspection is usually done at the same time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For an apartment or townhouse in a strata scheme, a strata report matters just as much.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It shows the owners corporation's finances, including savings for future major works, any special levies charged or planned, building defects, disputes and the by-laws, which may restrict pets, renovations or short-term letting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An inspection costs a few hundred dollars.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Missing a structural problem can cost tens of thousands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contract and sale type.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Conveyancing transfers ownership from seller to buyer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hire a licensed conveyancer or solicitor before you make an offer, not after.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They review the contract of sale and the seller's disclosure documents, which vary by state.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They look for easements, which give others rights over part of the land, and covenants, which can restrict what you build.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also check special conditions that may favour the seller.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a private sale, you can make an offer subject to conditions such as finance approval or a satisfactory inspection.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most states also allow a short cooling-off period, often a few business days, in which you can withdraw by paying a small fee.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At auction there is generally no cooling-off period, and the winning bidder is committed on the spot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finance, inspections and legal review must be finished before auction day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exchange to settlement.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When both sides sign the contract, and in many states exchange copies, the sale becomes legally binding, subject to any cooling-off period or conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You then pay a deposit, commonly 10 per cent, though a smaller one can sometimes be negotiated, or a deposit bond used.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is usually held in trust.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you fail to complete without a valid reason, you can lose it and face further costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Settlement is commonly 30 to 90 days later.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your lender finalises the loan, and your conveyancer completes searches and adjusts council rates and water charges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In some states the property is at your risk from the contract date, so ask when to arrange building insurance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A final inspection is usually allowed before settlement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid new loans or job changes, which can complicate final approval.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Settlement day.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On settlement day you usually do not need to be anywhere special.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Settlement in Australia now mostly happens on electronic platforms, where the lawyers, conveyancers and banks for both sides complete the exchange of money and documents online.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Funds move, the title is transferred into your name and the seller's loan is paid out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your conveyancer confirms when it is done, and the agent then releases the keys.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Switch on utilities in your name, update your address and check your insurance is active.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep the settlement statement and contract with your important records.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They matter when you eventually sell, and for capital gains tax if the property is ever rented out or is no longer your main residence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pre-approval is only an indication of what a lender may offer, and the costs on top of the price add up quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Planning for retirement in Australia.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Retirement could last 25 years or more.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How super, the Age Pension and your own savings fit together, and how to work out what 'enough' looks like.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A long retirement.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 65-year-old today can expect, on average, to live roughly another 20 years or more, and many will reach their 90s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Retirement may last a quarter or even a third of your adult life, so starting early gives compound growth decades to work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It doesn't always go to plan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A recent ABS survey found recent retirees stopped work at an average age of about 64, while workers aged 45 and over planned to retire at around 65 or 66.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reaching retirement age or qualifying for super was the most common reason, but illness, injury or disability came second, and those who retired for health reasons stopped much earlier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build a buffer for finishing early.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people now cut back hours gradually.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turning super into income.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's system has three pillars: compulsory superannuation paid by employers, the means-tested Age Pension as a safety net, and voluntary savings, including your home and extra contributions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At retirement you can take super as a lump sum, a regular income, or both.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common choice is an account-based pension: your money stays invested and you draw regular payments, with a minimum percentage that rises with age.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For most people, payments from a taxed super fund are tax-free from age 60, and earnings inside a retirement pension account are generally untaxed too, within limits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An annuity or lifetime income product trades flexibility for guaranteed payments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right mix depends on your health, needs and other income.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Age Pension.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Age Pension is paid through Services Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pension age has been 67 since July 2023, and you generally need ten years of Australian residency.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It isn't based on tax paid.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's means-tested, and around 60% of Australians of pension age receive a full or part pension, often alongside super.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two tests apply, and the lower result is the pension you get.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The income test counts earnings, including 'deemed' income that assumes your financial assets earn a set rate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The assets test counts investments, retirement-phase super, cars, caravans and investment property.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your family home is exempt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Couples are assessed together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even a small part pension can be valuable, as it usually brings a Pensioner Concession Card.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rates change regularly, so check Services Australia for current figures.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much is enough.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most quoted benchmark is the ASFA Retirement Standard, from the Association of Superannuation Funds of Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It estimates yearly budgets for a 'modest' and a 'comfortable' lifestyle for singles and couples, and the super balance needed at retirement to fund them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It assumes you own your home and receive a part Age Pension.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The figures are updated regularly, so look up the current edition.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Treat them as a starting point, not a verdict.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Renters generally need considerably more, because rent is a big ongoing cost.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best estimate is your own: sketch what you expect to spend, including travel, health and home repairs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spending with confidence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Saving is only half the job.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The federal Retirement Income Review, 2020, found many retirees draw only the legal minimum from super and die with most of their wealth intact, having lived more frugally than they needed to.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear of running out is understandable, but it can mean missing travel and comforts while you're healthy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spending tends to be highest in the active early years and eases later, though health and aged care costs can rise near the end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since July 2022, super funds must have a retirement income strategy for members, so ask yours what help it offers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your balance, fees, investments and insurance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try Moneysmart's free retirement planner or Services Australia's Financial Information Service.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only; for your situation, see a licensed financial adviser.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Many Australians will spend 20 to 30 years in retirement, and many stop work earlier than planned, often for health reasons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Early in a long home loan, where does most of each repayment go?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Interest.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does pre-approval from a lender tell you?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About how much a lender may lend.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why build a buffer for finishing work earlier than you expect?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Many people stop work earlier than planned.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

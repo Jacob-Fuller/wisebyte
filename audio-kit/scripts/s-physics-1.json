@@ -1,0 +1,1176 @@
+{
+ "id": "s-physics-1",
+ "title": "Physics Basics · Episode 1",
+ "chapters": [
+  "Newton's laws of motion",
+  "Gravity",
+  "Why things float",
+  "Energy: what it is and where it goes"
+ ],
+ "units": [
+  {
+   "t": "Physics Basics. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Newton's laws of motion, Gravity, Why things float and Energy: what it is and where it goes.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Newton's laws of motion.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Three simple rules explain why seatbelts save lives, rockets fly, and a heavy trolley is hard to stop.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newton and inertia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newton's great book began with a question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1684, Edmond Halley asked what path a planet follows if the Sun's pull weakens with the square of the distance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newton answered at once: an ellipse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The work grew into the Principia, published in 1687 and paid for by Halley.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It set out three laws still used to design cars, bridges, rollercoasters and spacecraft.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first law says an object at rest stays at rest, and a moving object keeps moving in a straight line at the same speed, unless an outside force acts on it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The more mass, the more inertia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Friction hides this on Earth, so for centuries people believed motion needs a constant push.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a crash, the car stops but your body keeps moving forward: that is why seatbelts and airbags save lives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Force and acceleration.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The second law says force equals mass times acceleration: F = ma.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Push an empty shopping trolley and it speeds up easily; push a full one with the same force and it barely moves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A loaded truck needs far more braking force than a car.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Force is measured in newtons: one newton accelerates one kilogram by one metre per second, every second, roughly the weight of a small apple.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acceleration happens only when forces are unbalanced.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Friction resists surfaces sliding and is essential for tyres to grip and for you to walk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air resistance, or drag, rises rapidly with speed, so driving faster uses more fuel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A skydiver speeds up until drag balances their weight, reaching about 200 km/h belly-down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Action and reaction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you push on something, it pushes back just as hard in the opposite direction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you jump, you push down on the Earth and it pushes you up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Earth moves too, but immeasurably little because its mass is so huge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rocket pushes exhaust gases backwards at high speed, and they push the rocket forwards.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It needs no air to push against, which is why rockets work in space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two forces act on different objects, so they don't cancel out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The recoil of a gun and the kick of a fire hose are the same law at work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Momentum and force.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Momentum is mass times velocity, so a slow truck can carry as much as a fast, much lighter car.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a collision the total momentum stays the same, merely shared differently.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why Newton's cradle keeps clicking, and a cue ball can stop dead while the ball it hits rolls on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing momentum takes a force applied over time, so stretching out the time reduces the force.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crumple zones lengthen a collision, lowering the force on passengers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bending your knees when landing from a jump, or a cricketer drawing their hands back to catch a ball, does the same.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Circles and everywhere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moving objects travel in straight lines, so anything moving in a circle needs a constant pull towards the centre: centripetal force.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a car on a corner it is tyre friction; for the Moon, Earth's gravity; for washing in a spinning machine, the drum wall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The outward 'fling' you feel is not a real force.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is your inertia trying to carry you straight on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A footballer's kick accelerates the ball, second law.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A swimmer pushes water back to move forward, third law.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Engineers use the laws for safer car seats and helmets, and NASA still uses them for most spacecraft trajectories.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newton said he saw further by standing on the shoulders of giants, among them Galileo and Kepler.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Objects keep doing what they are doing unless an outside force acts on them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Gravity.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It holds you to the ground, keeps the Moon in orbit and shapes galaxies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's also the weakest force in nature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One universal force.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newton realised the force pulling an apple down is the same one holding the Moon in orbit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His law of universal gravitation, published in 1687, says every object attracts every other, with a force that increases with their masses and decreases with the square of the distance between them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Double the distance and gravity drops to a quarter; triple it and it drops to a ninth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1798, Henry Cavendish measured the tiny pull between lead balls in his laboratory, which allowed Earth's density and mass to be calculated.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You are gravitationally attracting the device in your hand right now, just very, very weakly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mass, weight and falling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aristotle taught that heavy objects fall faster, and for almost 2,000 years few checked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1600 Galileo showed otherwise, most likely by rolling balls down ramps rather than, as legend says, dropping them from the Leaning Tower of Pisa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavier objects feel a stronger pull but also resist acceleration more, so the effects cancel exactly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1971, Apollo 15 astronaut David Scott dropped a hammer and a falcon feather on the airless Moon, and they landed together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your mass, how much matter you contain, is the same everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your weight, the force of gravity on that mass, is not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the Moon, with about one-sixth of Earth's gravity, a 70 kg person would read about 12 kg on Earth scales; on Mars about 26 kg.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near Earth's surface, falling objects speed up by about 9.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 m/s every second.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orbits and tides.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newton imagined firing cannonballs from a mountaintop faster and faster, until one curved down exactly as fast as Earth's surface curved away.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It would fall forever without landing: an orbit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The International Space Station, about 400 km up at roughly 28,000 km/h, circles Earth about every 90 minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronauts float not because gravity is absent, since it is about 90% as strong there, but because they and the station fall together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Geostationary satellites orbit about 36,000 km up, keeping pace with Earth's rotation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because gravity weakens with distance, a planet pulls harder on a moon's near side than its far side.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jupiter's tides melt the interior of Io, the most volcanically active world in the solar system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1992 Jupiter tore Comet Shoemaker-Levy 9 into more than 20 pieces, which hit the planet in 1994.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weak but winning.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gravity is by far the weakest of nature's four fundamental forces.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A small fridge magnet holds itself up against the pull of the entire Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between two protons, electric repulsion is roughly 10^36 times stronger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet gravity rules the cosmos because electric charges, positive and negative, mostly cancel in bulk matter, while gravity only attracts and keeps adding up across unlimited distances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newton admitted he couldn't explain how gravity acts across empty space.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1915, Einstein's general relativity said massive objects curve space and time, and other objects follow those curves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So gravity isn't instant: if the Sun vanished, Earth would circle its empty position for about eight minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017, gravitational waves and light from a neutron star collision arrived within two seconds of each other after 130 million years, confirming gravity travels at light speed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gravity and your body.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In orbit, without the constant load of weight, astronauts can lose around 1% of bone density in weight-bearing bones each month.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They exercise about two hours a day to limit muscle and bone loss.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their spines lengthen, making them a few centimetres taller, and fluids shift towards the head, giving a puffy face.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On Earth, gravity squeezes your spinal discs through the day, so you are slightly taller in the morning.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gravity isn't uniform either: because of Earth's spin and bulging equator, you weigh about 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5% less at the equator than at the poles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Every mass attracts every other mass, with a pull that grows with mass and falls with distance squared.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why things float.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A steel ship weighing tens of thousands of tonnes floats, yet a small pebble sinks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The explanation goes back to a Greek genius, and possibly a bath.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Eureka legend.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tale goes that King Hiero II of Syracuse suspected his goldsmith had mixed silver into a gold crown.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He asked Archimedes to find out without damaging it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stepping into a bath, Archimedes noticed the water rise, realised he could measure the crown's volume by the water it displaced, and ran through the streets shouting ‘Eureka’, meaning ‘I have found it’.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trouble is that the Roman architect Vitruvius wrote the story down about two centuries after Archimedes died, and some historians doubt it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Galileo pointed out that the overflow method would be too imprecise for a crown, and suggested Archimedes more likely used a balance and his principle of buoyancy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, the principle is enormously useful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archimedes' principle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Archimedes wrote a treatise called On Floating Bodies, and its central idea is now known as Archimedes' principle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When an object sits in water, it pushes some water out of the way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The surrounding water pushes back, creating an upward force called buoyancy, equal to the weight of the water displaced.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the object weighs less than the water it can displace, it floats.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it weighs more, it sinks, though it still feels lighter, which is why you can lift a friend easily in a swimming pool.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The principle works for any fluid, liquid or gas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It explains why a log bobs on a river and why a helium balloon rises through the heavier air around it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How a steel ship floats.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Steel is about eight times denser than water, so a solid block of it sinks instantly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hammer the same steel into a bowl shape, though, and it can float.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hull encloses a huge volume of air.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the ship settles into the water, it pushes aside water and sinks lower until the weight of the water displaced exactly equals the ship's own weight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At that point it floats.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is also why a ship sits lower when loaded with cargo, because it must push aside more water to balance the extra weight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Punch a hole in the hull and let water replace the air, and the balance is lost.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Density and safe loading.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In nineteenth-century Britain, some owners overloaded old, overinsured ships so heavily that they sank with their crews.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sailors called them coffin ships.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "MP Samuel Plimsoll campaigned against the practice, and the Merchant Shipping Act of 1876 made load line markings compulsory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Plimsoll line shows how deep a ship may safely sit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern versions have several marks because fresh water is less dense than seawater, and warm water is less dense than cold.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same idea explains why you float more easily in the sea than in a pool, and why an egg sinks in tap water but floats in very salty water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Dead Sea, on the border of Israel, Jordan and the West Bank, is several times saltier than the ocean, so swimmers bob like they're lying on a lilo.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Submarines, fish and balloons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A submarine floats on the surface until it opens its ballast tanks and lets seawater in.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heavier now, it sinks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To rise, it uses compressed air to blow the water back out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many bony fish manage the same trick with a swim bladder, a gas-filled sac they inflate or deflate to hover at a chosen depth without constantly swimming.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buoyancy works in air too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heating air makes it expand and become less dense, so a hot air balloon is pushed upward by the cooler, denser air around it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 21 November 1783, a balloon built by the Montgolfier brothers carried two men across Paris, in the first free flight with people on board.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your own body is close to the density of water, which is why a deep breath of air helps you float.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The famous bath story is probably more legend than history, but the principle behind it is real.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Energy: what it is and where it goes.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Energy can't be created or destroyed, only changed from one form to another.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost all of it on Earth started in the Sun.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changed, never lost.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Energy is what makes things happen.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicists define it as the capacity to do work, applying a force over a distance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kinetic energy is the energy of motion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Potential energy is stored, like water behind a dam or a stretched rubber band.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are also chemical, thermal, electrical, light, sound and nuclear forms.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy is measured in joules, named after English brewer and physicist James Joule; Australian food labels use kilojoules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy is never created or destroyed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1840s, Joule showed that a set amount of mechanical work always produces the same amount of heat.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Riding downhill turns potential into kinetic energy; braking turns it into heat in the pads.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When we 'waste' energy, we convert it into forms less useful to us.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speed squares energy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kinetic energy equals half the mass times the speed squared.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Double your speed and your kinetic energy quadruples.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A car at 60 km/h carries four times the energy of the same car at 30 km/h.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brakes, or in a crash the vehicle and the people inside, must absorb all of it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why braking distances grow so quickly with speed, and why lower limits in busy areas, like 40 km/h school zones, save lives.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Small increases in speed matter more than they feel.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing is 100% efficient.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Old incandescent bulbs turned only about 5% of electricity into light; LEDs use roughly 75–80% less electricity for the same light.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Petrol engines turn roughly 20–30% of fuel energy into motion, while electric motors manage around 90%.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscles convert only about a quarter of the energy they use into movement, the rest becoming heat, which is why exercise warms you up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat pumps, including reverse-cycle air conditioners, seem to beat the rules, but they move heat rather than make it, delivering three or more units of heat per unit of electricity.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The underlying principle is the second law of thermodynamics: energy tends to spread out and become less concentrated, which is why perpetual motion machines are impossible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun's power.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plants capture sunlight through photosynthesis, feeding almost every food chain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coal, oil and gas are the remains of ancient plants and marine organisms, so they are stored ancient sunlight.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wind comes from the Sun heating Earth unevenly; hydro depends on rain, which depends on the Sun evaporating water.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight striking Earth in an hour or two carries about as much energy as humanity uses in a year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The exceptions are nuclear energy, geothermal heat and tidal energy, which comes mainly from the Moon's gravity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun runs on E = mc², Einstein's 1905 finding that mass is a form of energy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fusion converts about four million tonnes of the Sun's mass into energy every second.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One gram of matter, fully converted, would release roughly the energy of 20,000 tonnes of TNT.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Power and your body.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Power is how fast energy is transferred: one watt is one joule per second.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A kettle might draw 2,000 watts or more, a laptop about 50 and a phone charger 5–20.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electricity bills charge in kilowatt-hours: 1,000 watts for an hour, like running a small heater.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest home users are heating and cooling, hot water, clothes dryers and pool pumps, and standby power adds up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy Rating Label stars and full dishwasher loads help cut bills.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body is an energy converter too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One food calorie is about 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 kilojoules, and Australian labels use 8,700 kilojoules a day as a reference for an average adult, though needs vary.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even at rest, your brain uses about a fifth of your energy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Energy is the ability to do work, and it changes form without ever being created or destroyed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What problem do seatbelts solve in a crash?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Your body keeps moving forward as the car stops.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. If you double the distance between two masses, what happens to the gravitational pull?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It drops to a quarter.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do some historians doubt the famous ‘Eureka’ story?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It was recorded about two centuries later.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does the law of conservation of energy say?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Energy changes form, but the total stays the same.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

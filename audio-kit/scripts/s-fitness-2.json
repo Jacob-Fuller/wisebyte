@@ -1,0 +1,917 @@
+{
+ "id": "s-fitness-2",
+ "title": "Health & Fitness · Episode 2",
+ "chapters": [
+  "Water and thirst: how much do you really need",
+  "Alcohol and your body",
+  "Sun, UV and skin cancer"
+ ],
+ "units": [
+  {
+   "t": "Health & Fitness. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Water and thirst: how much do you really need, Alcohol and your body and Sun, UV and skin cancer.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Water and thirst: how much do you really need.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Eight glasses a day sounds like ancient wisdom, but its origins are murkier than you might think.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your body has a far better guide built in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A body made of water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water is the most abundant substance in your body.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a typical adult it makes up roughly 50 to 60 per cent of body weight, and in newborn babies around 75 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People with more muscle tend to carry more water, because muscle holds more than fat does.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About two thirds sits inside your cells, and the rest bathes the spaces between cells or flows as blood plasma.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water dissolves nutrients, carries waste to the kidneys, cushions joints and the brain, and spreads heat around the body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost every chemical reaction that keeps you alive happens in it, which is why your body guards its water levels so carefully.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coming and going.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even on a quiet day you are always losing water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most leaves as urine, but a surprising amount escapes unnoticed as sweat evaporating from your skin and as vapour in every breath.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More is lost in faeces.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sedentary adult in a mild climate typically loses around two and a half litres a day, and far more during hard exercise or hot weather.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water comes in from drinks, from food, and in a small amount from the chemical reactions that burn fuel in your cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Food matters more than many people realise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fruit, vegetables, soups, rice and pasta are full of water, and food can supply roughly a fifth of a typical intake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The eight glasses myth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rule of eight glasses a day is repeated everywhere, yet nobody has found solid scientific evidence behind it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One often-cited origin is a 1945 recommendation from a United States nutrition board of about two and a half litres of water a day for adults.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same advice noted that most of this is already in prepared foods, a detail that was quietly forgotten.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian guidelines suggest typical fluid intakes from drinks of around 2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "6 litres for men and 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 litres for women, but these are averages for healthy people, not targets everyone must hit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea, coffee, milk and other drinks all count.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mild diuretic effect of caffeine is small in regular drinkers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your built-in sensor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deep in the brain, the hypothalamus holds sensors that track how concentrated your blood is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you lose water, the blood becomes slightly saltier and these sensors respond in two ways.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They make you feel thirsty, and they prompt the pituitary gland to release antidiuretic hormone, also called vasopressin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This hormone tells the kidneys to reabsorb more water, so urine becomes smaller in volume and darker.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you drink plenty, the hormone falls and the kidneys release more dilute urine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The system responds to changes of only a few per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For most healthy people, drinking when thirsty and noticing pale straw-coloured urine is a reliable guide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too little, too much.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thirst works well for most healthy adults, but it weakens with age, so older people can become dehydrated without feeling thirsty.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babies and young children lose fluid quickly through fever, vomiting or diarrhoea and cannot fetch a drink.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hard work in Australian summer heat can sweat out more than a litre an hour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early signs include thirst, dark urine, headache, tiredness and dizziness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat stroke is an emergency: if someone in the heat is confused or collapses, call 000 and start cooling them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drinking too much is also risky.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If fluid arrives faster than your kidneys can remove it, blood sodium becomes diluted, hyponatraemia, and brain cells can swell.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2005 study found around one in eight Boston Marathon runners had low blood sodium at the finish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many sports doctors now advise drinking to thirst.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Water makes up roughly half to 60 per cent of an adult's body weight and underlies almost every process in the body.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Alcohol and your body.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It's Australia's favourite social drug.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what actually happens after that first sip, and what 'a standard drink' really means.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glass to bloodstream.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alcohol is ethanol, a small molecule that dissolves in water and fat, so it spreads through the body easily.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most passes into the blood from the small intestine, and food in the stomach slows this.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within minutes it reaches the brain and every organ.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People with less body water, on average smaller people and women, reach a higher blood alcohol concentration from the same drink.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also carries about 29 kilojoules per gram, nearly as much as fat, with no nutritional value.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The liver does most of the clearing, converting ethanol to toxic acetaldehyde, then to acetate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It works at a fairly fixed pace, roughly one standard drink an hour for many people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coffee, cold showers and exercise don't speed it up, so you can still be over the limit the morning after.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The standard drink.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One standard drink contains 10 grams of pure alcohol, whatever the drink, and serves rarely line up neatly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 375 mL can of full-strength beer is about 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4, mid-strength about one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 150 mL glass of wine is about 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5, and a 750 mL bottle around 7 to 8.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 30 mL nip of spirits is about one, but pre-mixed cans are often 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 to 2 or more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Labels must state the number.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The NHMRC's 2020 guidelines advise healthy adults to drink no more than 10 standard drinks a week and no more than 4 on any one day.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The less you drink, the lower your risk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People under 18, and women who are pregnant, planning a pregnancy or breastfeeding, are advised not to drink.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The guidelines describe a level of risk, not a safe threshold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short-term effects.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alcohol is a depressant: it slows communication in the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A drink or two can bring relaxation and lower inhibitions, but also slower reactions and poorer judgement, which is why the blood alcohol limit for fully licensed drivers across Australia is 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "05.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At higher levels come slurred speech, poor coordination, vomiting and memory blackouts, and very high levels can suppress breathing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol may help you fall asleep, but it disrupts sleep later in the night, especially REM sleep.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hangovers come from dehydration, poor sleep, inflammation and the effects of acetaldehyde.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol is also a factor in many injuries, falls and assaults.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long-term risks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The International Agency for Research on Cancer classifies alcohol as a Group 1 carcinogen, its highest category of evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alcohol is linked with at least seven cancers: mouth, throat, voice box, oesophagus, liver, bowel and breast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Risk rises with the amount you drink over time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long-term heavy drinking can cause fatty liver, hepatitis and cirrhosis, high blood pressure, irregular heart rhythms and a weakened heart muscle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can also affect mood, memory and sleep, and lead to dependence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The older idea that a daily drink protects the heart is now contested, as newer research suggests earlier studies overstated the benefit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your pattern, and cutting back.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alcohol is woven into Australian celebrations, sport and work, and most people drink for ordinary reasons: to relax, celebrate or fit in.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There's no shame in looking honestly at your habits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice patterns, such as drinking when stressed or bored, or sessions well past four drinks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Signs worth taking seriously include drinking more than you meant to, needing more for the same effect, or feeling unwell without it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To cut back, plan several alcohol-free days, count standard drinks from labels, alternate with water, eat first, and try mid-strength or zero-alcohol options.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you're worried, talk to your GP or call the National Alcohol and Other Drug Hotline on 1800 250 015.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy drinkers should not stop suddenly without medical advice, as withdrawal can be dangerous.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Alcohol reaches every organ within minutes, and the liver clears roughly one standard drink an hour whatever you do.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Sun, UV and skin cancer.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australia has one of the highest skin cancer rates in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of it is preventable, and it's not about the temperature.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not about the temperature.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia and New Zealand have the highest melanoma rates in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Cancer Council estimates that about two in three Australians will be diagnosed with skin cancer by age 70.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is our most common cancer, and melanoma, the most dangerous type, kills over a thousand Australians each year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High UV levels, an outdoor lifestyle and a largely fair-skinned population drive the risk, but most skin cancers are preventable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunburn and skin cancer come from ultraviolet, UV, radiation, not heat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can't see or feel UV.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can burn badly on a cool, cloudy or windy day, because UV passes through cloud and a breeze makes you feel cooler.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "UV peaks at midday and in summer, but in much of Australia it reaches damaging levels most of the year, including winter in the north.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "UV index and five steps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The UV index measures UV strength on a scale from 0 with no upper limit; 11 and above is extreme.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 3 or above, it can damage skin and protection is recommended, which in much of Australia is most days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The free SunSmart app and the Bureau of Meteorology show daily sun protection times for your location.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slip, Slop, Slap began in 1981, sung by an animated seagull, and grew into SunSmart with two more steps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slip on sun-protective clothing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slop on SPF30 or higher broad-spectrum, water-resistant sunscreen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slap on a broad-brimmed hat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seek shade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slide on sunglasses that meet the Australian standard.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single measure is enough; use them together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunscreen and tans.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people apply far less sunscreen than they need and get only a fraction of the protection on the label.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adults need about a teaspoon for each arm, each leg, the front, the back, and the face, neck and ears: roughly 35 millilitres in all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apply it about 20 minutes before going out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reapply every two hours, and after swimming, sweating or towelling off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the expiry date, and never use it to extend time in the sun.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no safe tan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tan is your skin making extra pigment in response to damage, and every sunburn raises skin cancer risk, especially in childhood and adolescence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Solariums significantly increase melanoma risk, so commercial ones have been banned across Australia since 2015.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fake tan is safer, but gives no UV protection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vitamin D balance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sunlight helps your body make vitamin D, which is important for bones and muscles, and the balance matters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In summer, most fair-skinned Australians get enough from just a few minutes of sun on their arms and hands on most days, outside peak UV times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In winter, in southern parts of Australia where UV is lower, you may need more time outdoors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People with naturally very dark skin need more sun exposure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you're concerned about your levels, talk to your GP.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your skin.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skin cancers found early are usually easy to treat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get to know your skin, including areas you can't easily see, using a mirror or a partner.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See a doctor promptly about any new spot, or any spot that changes in size, shape or colour, bleeds, itches or doesn't heal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ABCDE guide helps identify suspicious moles: Asymmetry, irregular Border, uneven Colour, Diameter larger than about 6 millimetres, and Evolving, meaning changing over time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When in doubt, get it checked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: UV radiation, not heat, causes sunburn and skin cancer, so you can burn on cool or cloudy days.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Roughly what share of an adult's body weight is water?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. 50 to 60 per cent.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What speeds up how quickly your body clears alcohol?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Nothing; only time lowers it.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why can you get badly sunburnt on a cool, cloudy day?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. UV passes through cloud and isn't about heat.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

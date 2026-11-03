@@ -1,0 +1,1230 @@
+{
+ "id": "s-economics-2",
+ "title": "Economics · Episode 2",
+ "chapters": [
+  "GDP: measuring an economy",
+  "What inflation really is",
+  "Interest rates and the RBA",
+  "Why countries trade"
+ ],
+ "units": [
+  {
+   "t": "Economics. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: GDP: measuring an economy, What inflation really is, Interest rates and the RBA and Why countries trade.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. GDP: measuring an economy.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One number gets quoted every quarter as the scorecard for an entire nation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what it actually counts, and what it quietly leaves out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What GDP counts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GDP is the market value of all the final goods and services produced within a country's borders over a set period, usually a quarter or a year.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Final' matters: a loaf of bread counts, but the baker's flour is not counted again, or it would be double counted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Domestic' means inside the country, whoever owns the business.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Bureau of Statistics publishes GDP every three months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the mid-2020s Australia produced roughly $2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 to $2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 trillion a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every dollar spent is someone's output and someone's income, so GDP can be measured three ways: production, value added by industries, income, wages and profits, and expenditure: C + I + G +, X − M.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They never match perfectly, so statisticians reconcile them, and revisions are normal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real and per person.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If prices rise 4% and output stays flat, the dollar value of GDP still rises about 4%.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is nominal GDP.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real GDP adjusts for inflation by valuing output at constant prices, and it is what 'the economy grew 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5% last quarter' means.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's real GDP has typically grown around 2 to 3% a year, and 3% growth doubles an economy in roughly 24 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A country can also grow GDP simply by adding people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's population has grown quickly, largely through immigration, so total GDP can rise even when output per person is flat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why economists watch GDP per capita, in the order of $100,000 in the mid-2020s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023 and 2024 several quarters saw total GDP grow while per person GDP fell, a 'per capita recession'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Averages say nothing about how income is shared.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What GDP ignores.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GDP only counts activity with a market price.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cooking dinner at home, raising children, caring for an ageing parent and volunteering with the local fire brigade add nothing, even though the ABS has estimated unpaid work would be worth a very large sum if paid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile some bad events raise GDP.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rebuilding after a bushfire or flood adds output, but the community is no better off than if the disaster had never happened.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Running down a forest or mineral deposit counts as income, with no deduction for what is used up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "GDP measures activity, not whether that activity is wise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond GDP.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern national accounts grew out of work in the 1930s by economists including Simon Kuznets, who himself warned that a nation's welfare can hardly be inferred from its national income.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1968 US senator Robert Kennedy said gross national product, GDP's close cousin, measures everything 'except that which makes life worthwhile'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "GDP ignores leisure, health, pollution, inequality and how safe people feel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alternatives include the United Nations' Human Development Index, which adds life expectancy and education, and the OECD's Better Life Index.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023 the Australian Government released 'Measuring What Matters', a framework tracking around 50 indicators of wellbeing alongside traditional economic figures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading the headlines.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Like most rich countries, Australia is mainly a services economy: health care, education, finance, retail, construction and professional services produce most output and employ most workers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mining contributes roughly a tenth of GDP in many years and much more of exports, yet employs only around 2% of workers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Manufacturing has shrunk since the mid-20th century and agriculture is a few per cent of GDP, though both remain important exporters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Household consumption is around half of GDP.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When figures come out, ask: real or nominal?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quarterly or annual?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What happened per person?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which parts drove the change?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One weak quarter is not a crisis, and first estimates are often revised.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pair GDP with unemployment, wages, inflation and household income.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some of the most valuable things in your life will never appear in the national accounts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: GDP, gross domestic product, is the market value of final goods and services produced in a country over a period, and can be measured by production, income or spending.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. What inflation really is.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why a dollar buys less every year, what the Reserve Bank does about it and what it means for your money.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prices on the rise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inflation is the general rise in prices across the economy over time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When inflation is 3%, something that cost $100 last year costs about $103 today, so each dollar buys a little less.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Individual prices move around; petrol might jump while TVs get cheaper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inflation is about the overall level.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over decades it adds up: something that cost $1 in 1990 costs well over $2 today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Bureau of Statistics tracks a 'basket' of goods and services a typical household buys, from bread and petrol to rent and haircuts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The change in its cost is the Consumer Price Index, or CPI.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each item is weighted by household spending, so housing counts for far more than tea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since late 2025, the ABS has published a complete CPI every month, replacing the quarterly figure as the headline measure.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What causes it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Demand-pull inflation happens when people and businesses want to buy more than the economy can produce, so sellers raise prices.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cost-push inflation happens when the cost of making things rises, such as wages, energy or shipping, and businesses pass it on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The surge after COVID-19 was both: supply chains were disrupted and energy prices spiked while demand bounced back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's inflation peaked at 7.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8% in late 2022.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extreme, runaway inflation is hyperinflation, often defined as prices rising more than 50% in a month.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It usually happens when governments print money to pay debts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Germany in 1923, people carted cash around in wheelbarrows.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zimbabwe's peaked in 2008, and it went on to print a 100 trillion dollar note.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Reserve Bank's job.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why not aim for zero?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A little inflation gives central banks room to cut rates in a downturn.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deflation, a general fall in prices, can be damaging: people delay purchases, businesses cut jobs and debts become harder to repay.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Japan struggled with low growth and deflation for years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Reserve Bank of Australia aims to keep inflation between 2% and 3%, focusing on the 2.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5% midpoint.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its main tool is the cash rate, which flows through to mortgage, loan and savings rates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When inflation is too high, the RBA raises rates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowing becomes dearer, mortgage holders have less to spend, businesses invest less and demand cools.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the economy is weak, it cuts rates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changes take a year or more to fully work through.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Winners and losers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inflation doesn't hit everyone equally.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Savers lose out when inflation runs higher than the interest they earn, because their money's buying power shrinks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People on fixed incomes, or whose wages rise slower than prices, see their living standards fall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowers with fixed debts can benefit, because the real value of what they owe shrinks over time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists talk about 'real' figures, meaning adjusted for inflation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 4% pay rise with 5% inflation is actually a 1% real pay cut.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protecting yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can't control inflation, but you can soften its effect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep an emergency fund in a high-interest savings account rather than a zero-interest transaction account.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For long-term money, investments like shares and property have historically outpaced inflation over long periods, though with more risk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Review your pay regularly, since employers may not raise it automatically.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And shop around on big recurring bills like insurance, energy and phone plans, which often creep up when you stay with the same provider.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Inflation is the general rise in prices, measured in Australia by the Consumer Price Index.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Interest rates and the RBA.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A decision made in a Sydney boardroom can change your mortgage repayment within weeks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how the cash rate works and why it moves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cash rate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day, banks lend each other money overnight to settle payments.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The interest on those loans is the cash rate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Reserve Bank of Australia, RBA, sets a target for it and holds the rate there by adjusting the interest it pays and charges banks on money held with it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The RBA doesn't set your mortgage or savings rate, but the cash rate is the base cost of short-term money, so most other rates move with it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The RBA sets rates independently of the government of the day, which keeps election-year politics out of it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 1993 it has targeted inflation of 2 to 3% on average over time, while supporting full employment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2025 a Monetary Policy Board has made the decisions, at eight scheduled meetings a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raising and cutting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When strong demand pushes prices up faster than the target, the RBA raises the cash rate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Borrowing costs more, so mortgage holders spend less and businesses hold back on expanding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saving becomes more attractive, demand slows and price rises ease, though slower demand can also cost jobs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From May 2022 to November 2023 the RBA lifted the rate from a record low of 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1% to 4.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "35%, one of its fastest rises.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the economy is weak, it cuts instead, and cheaper loans encourage spending and investment.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It cut sharply in the 2008 financial crisis, and in 2020 it also bought government bonds to push longer-term rates down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But rates can't fall far below zero, and very cheap money can inflate house prices and encourage risky borrowing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From cash rate to mortgage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most Australian mortgages have variable rates, which lenders usually adjust soon after an RBA decision, though they can move by more or less than the cash rate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That makes Australian households more sensitive to rate changes than Americans, who mostly hold 30-year fixed loans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The numbers add up fast.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a $500,000, 30-year loan, a rise of 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 percentage points lifts monthly repayments by roughly $80.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2022 to 2023 rises added well over $1,000 a month to many such loans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowers on fixed rates are shielded until their fixed term ends, when they face the new rates all at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Savers and the dollar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rate changes cut both ways.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When rates rise, banks generally lift what they pay on savings accounts and term deposits, though often more slowly and by less than loan rates, so it pays to compare accounts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Retirees living off deposits welcome higher rates; borrowers don't.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rates also affect the exchange rate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Higher Australian rates, relative to other countries, can attract foreign money and lift the dollar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes imports and overseas holidays cheaper and exporters less competitive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rates influence share and property prices as well, because they change what investors can earn elsewhere and how much buyers can borrow.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lags and your buffer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economists say monetary policy works with 'long and variable lags', a phrase from Milton Friedman.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rate change can take a year or two to reach spending, jobs and inflation, so the RBA must steer by forecasts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move too slowly and inflation becomes entrenched, as in the 1970s, when it topped 15% and took years to bring down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move too hard and the economy can tip into recession.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No one predicts rates reliably, so build in a buffer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lenders test whether you could cope with rates about 3 percentage points higher, and it's wise to use a similar margin in your own budget.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extra repayments or an offset account help, as does comparing your rate with what new customers are offered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decisions about your loans, talk to a licensed financial adviser or broker.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The cash rate is the overnight rate banks charge each other, and the RBA sets a target for it to keep inflation between 2 and 3%.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Why countries trade.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australia digs, ships and teaches its way to prosperity.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea behind it, comparative advantage, is one of economics' most surprising insights.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why specialise.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine growing your own food, sewing your own clothes and building your own phone.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You would be poor, busy and badly dressed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, you specialise in a job and trade your earnings for things others make better or cheaper.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Countries do the same.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has vast iron ore deposits and good farmland but a small population and high wages, so it makes sense to export resources and farm products and import cars, electronics and clothing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Specialisation lets workers get very good at a few things, and trade lets everyone enjoy a far wider range of goods than they could produce alone.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comparative advantage.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1817 British economist David Ricardo showed something counterintuitive.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose Portugal can make both wine and cloth more efficiently than England.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trade still benefits both, provided each specialises in the good with the lowest opportunity cost, meaning the least given up elsewhere.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A top lawyer may type faster than her assistant, but her time is worth far more on legal work, so she hires the assistant to type.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both are better off.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is comparative advantage, as opposed to absolute advantage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It explains why even highly productive countries import things they could make themselves.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What Australia trades.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Exports are goods and services sold to foreigners; imports are bought from abroad.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Politicians often treat exports as wins and imports as losses, but most economists see imports as the point of trade: they are what we get in return.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trade deficit isn't automatically bad, and Australia ran deficits for much of its history while growing rich.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Services count too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tourist visiting the Great Barrier Reef or a foreign student in Melbourne is an Australian export.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron ore, mostly from the Pilbara and used to make steel, is usually the largest export, often worth over $100 billion a year, followed by coal and liquefied natural gas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "International education is the largest services export.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China buys around a third of Australia's goods exports.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tariffs and trade deals.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tariff is a tax on imports.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It protects local producers, but consumers pay higher prices and businesses pay more for inputs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 1973, starting with a 25% across-the-board cut, Australian governments dismantled most of the protection they had given manufacturers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some industries shrank, and car manufacturing ended in 2017, but prices fell and more efficient industries grew.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US Smoot-Hawley tariffs of 1930 are a warning: they triggered retaliation that worsened the collapse of world trade in the Great Depression.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Trade Organization has set global rules since 1995.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia also signs free trade agreements, with the US, 2005, China, 2015, and the UK, 2023, and joins regional pacts like the CPTPP and RCEP.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These lower tariffs, though benefits are often smaller than governments promise.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Winners, losers, risks.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economists broadly agree that trade raises national income, but not everyone wins.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Workers facing new import competition can lose jobs, often concentrated in particular towns, so good policy offers retraining and support rather than blocking trade.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dependence is a risk too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 2020 China restricted Australian goods including barley, wine, coal and lobster during a diplomatic dispute.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exporters were hit hard, though many found other markets and most restrictions were lifted by 2024.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of what you use daily was probably made overseas, and many Australian jobs depend on exports.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you hear tariff debates, ask who gains, who pays and by how much.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protection has visible winners, while its costs are spread thinly across millions of consumers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Trade lets people and countries specialise in what they do best and swap for the rest.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why isn't the flour a baker buys counted separately in GDP?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its value is already in the bread.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does the Consumer Price Index measure?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The change in cost of a basket of everyday goods.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the cash rate?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The rate banks charge each other for overnight loans.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why does it make sense for Australia to import cars and clothing?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Trading for them leaves everyone with more.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

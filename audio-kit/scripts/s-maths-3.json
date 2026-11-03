@@ -1,0 +1,977 @@
+{
+ "id": "s-maths-3",
+ "title": "Everyday Maths · Episode 3",
+ "chapters": [
+  "The maths of queues: why lines get long so suddenly",
+  "Famous ideas in maths",
+  "The clever maths hiding in A4 paper"
+ ],
+ "units": [
+  {
+   "t": "Everyday Maths. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The maths of queues: why lines get long so suddenly, Famous ideas in maths and The clever maths hiding in A4 paper.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The maths of queues: why lines get long so suddenly.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A café that is busy most of the time can run smoothly, then a few extra customers turn it into a long wait.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Queueing theory explains why, and how to fix it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why waiting appears.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1900s telephone companies faced an expensive puzzle: too few lines and callers heard a busy signal; too many and costly equipment sat idle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Danish mathematician Agner Krarup Erlang, working for the Copenhagen Telephone Company, tackled it with probability.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His 1909 paper began queueing theory, the mathematics of waiting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The erlang, a unit of telephone traffic, is named after him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same maths now runs call centres, emergency departments, checkouts, traffic lights and internet servers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A coffee cart serves 30 customers an hour and 24 arrive on average.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet customers arrive in clumps, and orders vary in complexity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Idle time in quiet moments cannot be saved for later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Variability, not just average workload, creates waiting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hockey stick.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a classic model of one server with random arrivals and service times, the average wait depends on utilisation, the fraction of time the server is busy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 50 per cent utilisation the average wait equals about one typical service time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 80 per cent it is four service times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 90 per cent it is nine, and at 95 per cent it is nineteen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plotted on a graph, the line stays fairly flat, then bends sharply upward like a hockey stick.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is why a café can cope well for most of the morning, then be swamped when a few extra customers arrive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A system run near full capacity, with no slack, is fragile.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One line or many.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At a supermarket with a separate line at every checkout, the person in front of you has a price problem while the next line races ahead.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bank or airport instead uses one snaking queue feeding several counters, with the front person going to whichever frees up first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The average wait is usually shorter with a single queue, and the waits are far more even.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody gets stuck behind one slow transaction while other servers sit idle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematicians call this the benefit of pooling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separate lines can still make sense when space is tight or when express lanes speed up small purchases, but pooling is one of the most reliable lessons of queueing theory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Little's law.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of the most useful results is beautifully simple.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Little's law, proved by John Little in 1961, says the average number of items in a stable system equals the rate at which they arrive multiplied by the average time each one stays.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a café gets 20 customers an hour and each stays half an hour, then on average 20 × 0.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5, or 10 customers are inside at any moment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The law works almost regardless of the details.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It applies to shoppers, patients in a hospital ward, cars on a motorway or tasks waiting on a computer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Managers use it in reverse too: knowing how many people are typically present and how fast they arrive tells you how long each stays.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waiting well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People judge waits by how they feel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1985 David Maister wrote an influential essay noting that unoccupied time feels longer than occupied time, uncertain waits feel longer than known ones, unexplained waits feel longer, and so do unfair ones, such as watching someone push in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why theme parks post estimated waits, apps show your position in a queue, and businesses put screens where people line up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The maths applies to your week too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A schedule packed to 95 per cent of your time collapses at the first delay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slack is not laziness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staggering appointments smooths out bunching, and sharing one inbox spreads work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A long line is rarely about one slow person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is usually mathematics at work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Queues form from variability in arrivals and service times, even when a server has spare capacity on average.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Famous ideas in maths.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Pi, zero, prime numbers and infinity: a handful of ideas that took humanity thousands of years to work out, and a few popular myths about them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pi and the Fibonacci sequence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Measure around any circle, divide by the distance across, and you always get pi, about 3.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "14159.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1650 BCE, the Egyptian Rhind Papyrus used a method that gives about 3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "16.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1761 Johann Lambert proved pi is irrational: its digits go on forever without repeating.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Computers have calculated over 100 trillion digits, but NASA engineers say about 15 decimal places is plenty for navigating the solar system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fibonacci's sequence starts 1, 1, then adds the last two: 2, 3, 5, 8, 13, 21, 34, 55.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leonardo of Pisa used it in 1202 in a rabbit-breeding puzzle, though Indian scholars described it centuries earlier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunflower seed spirals often come in consecutive Fibonacci numbers, such as 34 and 55.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's a result of efficient packing, not magic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea of zero.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zero seems obvious now, but it was a hard-won idea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Babylonians used a placeholder symbol for an empty position, and the Maya independently developed a zero for their calendars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treating zero as a number in its own right, something you can add, subtract and multiply, came from India.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 628 CE Brahmagupta wrote rules for calculating with zero and negative numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Indian place-value system spread through the Islamic world and reached Europe partly through Fibonacci's Liber Abaci in 1202.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One rule still stands: dividing by zero is undefined, because no answer makes sense.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prime numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A prime can be divided evenly only by 1 and itself: 2, 3, 5, 7, 11, 13.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two is the only even prime.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every whole number above 1 is either prime or can be built by multiplying primes in exactly one way, making primes the building blocks of arithmetic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 300 BCE Euclid proved there are infinitely many.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Primes also protect your online banking.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Encryption methods such as RSA rely on the fact that multiplying two huge primes is easy, but working backwards to find them is extraordinarily hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A prime found in 2024 has over 41 million digits, and larger ones may have been found since.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pythagoras and the golden ratio.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In any right-angled triangle, a² + b² = c², where c is the longest side.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 3-4-5 triangle works, because 9 + 16 is 25.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is named after Pythagoras, about 570 to 495 BCE, but Babylonian tablets such as Plimpton 322, from around 1800 BCE, show it was known earlier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Builders still check corners with a 3-4-5 triangle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The golden ratio, about 1.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "618, is, 1 + √5, ÷ 2.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ratios of consecutive Fibonacci numbers approach it, and it appears in a regular pentagon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But claims that the Parthenon, Great Pyramid or Mona Lisa were designed around it mostly come from picking points that fit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nautilus shell is a spiral, but not a golden one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies on preferring golden rectangles are mixed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Le Corbusier did use it deliberately.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Infinity and usefulness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Infinity is a concept rather than a reachable number, and it behaves strangely.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Hilbert's Hotel, with infinitely many full rooms, a new guest arrives and everyone moves up one room, freeing room 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are exactly as many even numbers as whole numbers, since you can pair them off: 1 with 2, 2 with 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1800s Georg Cantor proved something stranger: the infinity of all decimal numbers is larger than the infinity of whole numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is maths invented, like chess, or discovered, like a continent?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People still disagree.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But ideas pursued for their own sake often prove useful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Primes were a curiosity for over 2,000 years before securing the internet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imaginary numbers, once seen as a trick, are essential in electrical engineering and quantum physics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1960 Eugene Wigner called this 'the unreasonable effectiveness of mathematics'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pi is the endless ratio of a circle's circumference to its width, and the Fibonacci pattern appears in nature through efficient packing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The clever maths hiding in A4 paper.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Fold an A4 sheet in half and you get a smaller sheet of exactly the same shape.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is no accident: it rests on a single number, the square root of 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shape that survives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cut most rectangles in half and the halves change shape.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A square becomes two long strips; a sheet twice as long as wide becomes two squares.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is a nuisance for printers, because pages will not shrink neatly onto the next size down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call the short side 1 and the long side r.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fold the sheet and the old short side becomes the new long side, while the new short side is r divided by 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For the shape to stay the same, r over 1 must equal 1 over r/2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So r squared is 2, and r is the square root of 2, about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "414.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A4 measures 210 by 297 millimetres, and 297 divided by 210 is 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "414.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fold it for A5, 148 by 210, with the same proportions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starting from a square metre.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A0 has an area of one square metre, measuring 841 by 1,189 millimetres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Halve it for A1, then A2, A3 and A4, which is one sixteenth of a square metre.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a standard 80 gram sheet of A4 weighs 5 grams, handy for estimating the weight of a letter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The photocopier's odd settings, 141% and 71%, are the square root of 2 in disguise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To enlarge A4 to A3 the area must double, so each side grows by 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "414, or 141%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shrinking A4 to A5 scales each side by 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "707, or 71%.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because every sheet has the same shape, copies fit with no white strip down one side.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A two-century idea.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1786 the German scientist Georg Christoph Lichtenberg noted in a letter that a sheet with sides in the ratio of the square root of 2 could be halved again and again without changing shape.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Revolutionary France, busy rationalising everything from weights to calendars, used the same ratio for some official paper in a 1798 stamp duty law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea then faded until the German engineer Walter Porstmann built a full system around it, starting from one square metre.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Germany adopted it as DIN 476 in 1922, and in 1975 it became the international standard ISO 216.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia uses it, as do most nations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The United States and Canada mostly keep older inch-based sizes such as Letter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Envelopes and in-between sizes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The system has two companion series.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "B sizes sit between A sizes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "B4, at 250 by 353 millimetres, is larger than A4 but smaller than A3, and each side is the geometric mean of its neighbours: multiply them and take the square root.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "B sizes suit posters, passports and some books.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The C series, mostly for envelopes, sits between A and B, so a C envelope is just larger than the matching A sheet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A C4 envelope holds an A4 sheet flat, while a C5 takes A4 folded once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The popular DL envelope, 110 by 220 millimetres, suits A4 folded into thirds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One number holds the whole family together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why not the golden ratio.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People often assume elegant rectangles follow the golden ratio, about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "618, though many claims of it in art and architecture are exaggerated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A golden rectangle has its own neat trick: cut a square off one end and what remains is another golden rectangle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is beautiful mathematics, but it is not what paper needs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you fold a sheet you halve it, rather than trim off a square, and only the square root of 2 survives halving.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "US Letter, 8.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 by 11 inches, has a ratio of about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "29, and folding it in half changes its shape noticeably.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A4 is a quiet reminder that a simple equation, solved properly, can make countless everyday jobs easier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Only a rectangle with sides in the ratio of the square root of 2 keeps its shape every time it is halved.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why can a queue form even when a server has spare capacity on average?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Arrivals vary, and idle time cannot be saved.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do sunflower seed spirals often follow Fibonacci numbers?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Efficient packing as the plant grows.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the ratio of the long side to the short side of A4 paper?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About 1.414.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

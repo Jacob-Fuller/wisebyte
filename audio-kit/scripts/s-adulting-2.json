@@ -1,0 +1,1224 @@
+{
+ "id": "s-adulting-2",
+ "title": "Adulting 101 · Episode 2",
+ "chapters": [
+  "Car basics everyone should know",
+  "Buying a used car without getting burned",
+  "Renting in Australia",
+  "Moving house without the chaos"
+ ],
+ "units": [
+  {
+   "t": "Adulting 101. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Car basics everyone should know, Buying a used car without getting burned, Renting in Australia and Moving house without the chaos.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Car basics everyone should know.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A few simple checks keep you safer, save money on fuel and repairs, and stop you being stranded on the side of the road.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tyres: pressure and tread.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tyres are your only contact with the road, so they matter enormously for braking and handling.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check the pressure at least once a month and before long trips, when the tyres are cold.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The correct pressure is on a placard, usually inside the driver's door or fuel flap, not the maximum printed on the tyre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under-inflated tyres wear faster, increase fuel use and can overheat; over-inflated tyres reduce grip.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tread channels water away so the tyre grips wet roads.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In most of Australia, the legal minimum is 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 millimetres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raised bars in the grooves, called tread wear indicators, show when it's time to replace the tyre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look for cracks, bulges or uneven wear, and know where your spare and jack are.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warning lights and fluids.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dashboard warning lights follow a colour code.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Red means a potentially serious problem, such as oil pressure, engine temperature, brake or battery warnings: stop when it's safe and investigate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Amber or orange means attention soon, such as the check engine, low tyre pressure or ABS lights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Green or blue lights are just information.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your owner's manual explains every symbol.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every month or so, with the engine cold and the car on level ground, check the oil on the dipstick; it should sit between the minimum and maximum marks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check the coolant in the overflow reservoir, but never open a radiator cap on a hot engine, as scalding liquid can spray out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check brake fluid and top up the washer fluid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sudden drop in any fluid can mean a leak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Servicing and batteries.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your logbook sets out when the car needs servicing, usually by time or distance, such as every 12 months or 15,000 kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular servicing replaces oil and filters, checks brakes and belts, and catches problems when they're cheaper to fix.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia you don't have to use the dealer to keep your new-car warranty, as long as the service follows the manufacturer's specifications and uses suitable parts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep records; they help resale value.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Car batteries typically last three to five years, often less in hot climates.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A sluggish start and dim lights are warning signs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roadside assistance, through motoring clubs like the RACQ or NRMA, some insurers or new-car warranties, covers breakdowns, flat batteries and lockouts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you break down, pull over as far off the road as possible and turn on your hazard lights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Save fuel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How you drive makes a big difference to fuel use.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Accelerate smoothly, look ahead to avoid unnecessary braking and keep to steady speeds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Driving at 110 km/h uses noticeably more fuel than at 90 or 100.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Correct tyre pressure, removing roof racks when not in use and clearing heavy junk from the boot all help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fuel prices in many Australian cities follow a regular cycle, and fuel price apps and state government websites show where it's cheapest nearby.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a crash.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you're in a crash, you must stop.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn on your hazard lights, check yourself and others for injuries, and call Triple Zero, 000, if anyone is hurt, if there's a danger such as fire or leaking fuel, or if a driver leaves without exchanging details.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exchange names, addresses, registration numbers and insurance details with the other drivers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Take photos of the scene and damage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't admit fault at the scene.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reporting requirements to police vary by state, so check your own state's rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Check tyre pressure monthly when cold using the car's placard, and replace tyres worn to the tread indicators.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Buying a used car without getting burned.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A shiny paint job can hide a lot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With a few checks and a cool head, you can buy a second hand car that is exactly what it seems.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide before you browse.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scrolling car listings late at night is a fast way to fall in love with the wrong vehicle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with a plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Work out what the car must do: daily commuting, towing, long country drives or squeezing into tight city parks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Set a total budget that includes transfer costs, stamp duty, insurance and a buffer for early repairs, not just the sticker price.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research a shortlist of reliable models using independent reviews and safety ratings from ANCAP, the Australasian New Car Assessment Program.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check running costs such as fuel use, servicing and insurance premiums too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once three or four models suit you, every listing becomes easier to judge calmly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protections and the PPSR.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Licensed dealers usually charge more, but you get protection.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In several states they must provide a statutory warranty on cars under a certain age and kilometres, some states give a short cooling-off period, and Australian Consumer Law guarantees apply.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Private sales are often cheaper, but the car is largely sold as it is, with generally no cooling-off period.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Auctions can offer bargains, but you usually cannot test drive and recourse is limited.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules differ by state, so check your fair trading website.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the channel, search the Personal Property Securities Register at ppsr.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au using the car's VIN.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a small fee, it shows whether a lender has a security interest, and could repossess the car after you buy, and whether it is recorded as written off or stolen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Search on the day you pay and save the certificate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inspect and test drive.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "View the car in daylight, at the seller's home if it is a private sale.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask the seller not to start the engine before you arrive: a cold start can reveal rattles, smoke and hard starting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look for uneven panel gaps or mismatched paint, which can point to accident repairs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check tyre wear, under the oil cap for milky residue, and under the car for leaks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the service book, and that the VIN matches the car and the registration name matches the seller's licence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then drive for at least twenty minutes on suburban streets, a highway and a hill, with the radio off.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Listen for knocks and squealing, check braking and gear changes, and test every switch.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warning lights should come on briefly at start-up then go out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If anything feels rushed or evasive, walk away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get a professional opinion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even confident car people miss things.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An independent pre-purchase inspection, from a mechanic you choose or a motoring club such as the NRMA, RACV or RACQ, typically costs a few hundred dollars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can uncover rust, hidden accident damage, worn suspension or engine problems.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The report is also a powerful negotiating tool: if it finds worn brake pads and an overdue timing belt, you can reasonably ask for the cost to come off the price.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Never let the seller choose the mechanic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a seller refuses to allow an inspection, treat that as a red flag.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Also check the registration status and what safety or roadworthy certificate your state requires before transfer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pay and transfer safely.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Online car scams often follow a pattern: a great price, a seller who is overseas or in the army, and a request for a deposit before you can see the car.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Never pay for a car you have not inspected in person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you are ready to buy, pay by bank transfer or bank cheque rather than carrying large amounts of cash.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get a written receipt with both names, the date, the price, the VIN and the registration number.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both buyer and seller usually must complete a transfer form, and you will pay stamp duty and a transfer fee within a set number of days.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arrange insurance before you drive away, not the next morning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Set a total budget, including extra costs, and a shortlist of reliable models before you look at any listing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Renting in Australia.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "About a third of Australian households rent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing a few rules can save you hundreds of dollars and a lot of stress.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your state's rules.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roughly a third of Australian households rent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no single national tenancy law: each state and territory has its own act, agency and rules, updated regularly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice periods, bond limits and repair rules differ.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bookmark your local body, such as NSW Fair Trading, Consumer Affairs Victoria, the Residential Tenancies Authority in Queensland, Consumer and Business Services in South Australia or Consumer Protection in Western Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A strong application includes photo ID, proof of income, references and a rental ledger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First-timers can offer character references or a guarantor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be alert to scams that ask for money before you have inspected, and check your state's rules on bidding above the advertised rent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bond and condition report.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bond is a security deposit covering unpaid rent or damage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is commonly capped at about four weeks' rent, with exceptions for high-rent properties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In most places the landlord must lodge it with a government body, such as the Residential Tenancies Bond Authority in Victoria.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The landlord can't simply keep it: it is returned unless both parties agree otherwise or a tribunal decides.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the start, you should receive a condition report describing each room.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't sign it blindly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Note every mark, stain and fault, and return it with comments within the deadline, usually a few days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take dated photos or video and keep copies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the end, the property is compared against this report.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rights and standards.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You are entitled to quiet enjoyment, meaning reasonable peace and privacy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Landlords generally must give written notice before entering, and only for set reasons.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In most states rent can only rise once every 12 months, with written notice of about two months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your duties include paying rent on time, keeping the place reasonably clean and reporting damage promptly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fair wear and tear, like worn carpet from normal use, isn't your cost.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Landlords must keep the property in reasonable repair, and several states set minimum standards, such as being weatherproof, with working locks, lighting, ventilation, a working kitchen and bathroom and bedroom privacy coverings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If repairs stall, don't stop paying rent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apply to your state's tribunal instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ending a lease.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fixed-term lease runs for a set period, often 6 or 12 months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A periodic lease rolls on with no end date.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To leave, you must give written notice, with required periods varying by state.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leaving a fixed-term lease early usually means paying a break fee or covering rent until a new tenant is found, depending on your state.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Landlords must also give proper notice and, in several states, can no longer end leases without a valid reason.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before you go, clean thoroughly, compare the property with the condition report and attend the final inspection.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Getting help.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most disputes can be solved by calm, written communication.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If that fails, each state has a tribunal that hears tenancy disputes cheaply, such as NCAT in NSW, VCAT in Victoria or QCAT in Queensland.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Free advice is available from services like the Tenants' Union of NSW, Tenants Victoria and Tenants Queensland.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep every email, receipt and photo.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Records win disputes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tenancy laws change often, so check your state's official website for current rules.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information only: for your specific situation, talk to a tenant advice service or a lawyer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Tenancy law is set by each state and territory, so check your local rules and apply with a strong, safe application.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Moving house without the chaos.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Moving house is often ranked among life's most stressful events.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A plan that starts weeks ahead turns moving day from a frantic scramble into a long, tiring but manageable day.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan early.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The worst time to find every removalist booked is the week before you move, especially at the end of the month or around school holidays, when demand peaks.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once you know your date, get at least two or three written quotes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask whether the price is fixed or hourly, what is included, whether they offer transit insurance, and read the fine print about stairs, long carries and heavy items like pianos.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you plan to move yourself, book the trailer or truck now and line up some strong friends.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start decluttering too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every item you sell, donate or recycle is one less thing to pack, carry, unpack and pay to move.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Begin with spare rooms, sheds and cupboards.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pack smart.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A large box full of books can be far too heavy to lift safely.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The professional rule is simple: heavy items go in small boxes, and light bulky items in large ones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wrap fragile items individually, stand plates on their edges, and fill gaps with towels or paper.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Label every box on the side as well as the top, with the destination room and a few words on the contents.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Photograph the cables behind your television before unplugging them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pack one first night box last and keep it with you in the car.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Include toilet paper, soap, a towel, chargers, medication, a change of clothes, sheets, a kettle, snacks, a torch and basic tools.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add pet supplies or a toy if needed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep documents, keys and valuables with you too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Update address and utilities.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Missing one organisation can mean lost mail or a missed bill.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia Post offers a paid mail redirection service, which catches anything you forget.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Update the Australian Electoral Commission, the ATO, Medicare and Centrelink, much of it through myGov.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your state transport authority needs your new address for your licence and registration, usually within a set number of days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then work through your bank, super fund, insurers, employer, doctor, schools and subscriptions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Car and home or contents premiums can change with your suburb.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About two weeks out, arrange electricity and gas connection at the new address and disconnection at the old one.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compare plans while you are switching.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Book internet early, as it can take longest.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On moving day, photograph the meter readings at both properties.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Renters: leaving well.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For renters, the bond is often the biggest sum tied up in a move, and the condition report is the key to getting it back.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before you leave, read the entry condition report you completed when you moved in, and use it as a checklist.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clean thoroughly, including the oven, rangehood filters, windows, skirting boards and bathroom grout, and remove all rubbish.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fix any damage you caused, beyond fair wear and tear, which is the normal deterioration expected from everyday living.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take dated photos and videos of every room after cleaning.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attend the final inspection if you can, and return all keys and remotes on time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you and the landlord disagree about the bond, your state's tenancy authority or tribunal can help.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, so check your state's rules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moving day, settling in.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On moving day, be at the old property early to guide the removalists, pointing out fragile items and anything that is not coming.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Do a final walk through every room, cupboard and the garden shed before you leave.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the new place, direct boxes to the right rooms using your labels, and check furniture for damage before signing anything.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Do the safety basics before unpacking: find the water main, the switchboard and the gas meter, test the smoke alarms, and make sure doors and windows lock.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Assemble beds first, so that whatever else happens, everyone has somewhere to sleep.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unpack the kitchen and bathroom next.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do not expect to finish in a weekend.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unpack a few boxes a day, and introduce yourself to the neighbours.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Book removalists early, compare written quotes and declutter before you pack.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Where do you find the correct tyre pressure for your car?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. On the placard inside the door or fuel flap.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What should a used-car budget include?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Transfer costs, stamp duty, insurance and repairs.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Who sets most tenancy rules in Australia?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each state and territory.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. When is demand for removalists usually highest?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. At month's end and school holidays.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

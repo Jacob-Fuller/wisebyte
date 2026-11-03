@@ -1,0 +1,869 @@
+{
+ "id": "s-story-of-money-3",
+ "title": "The Story of Money · Episode 3",
+ "chapters": [
+  "The gold standard and the end of Bretton Woods",
+  "The global financial crisis of 2008",
+  "Quantitative easing: what central banks do when rates hit zero"
+ ],
+ "units": [
+  {
+   "t": "The Story of Money. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The gold standard and the end of Bretton Woods, The global financial crisis of 2008 and Quantitative easing: what central banks do when rates hit zero.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The gold standard and the end of Bretton Woods.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For generations, money was promised to be as good as gold.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then on a Sunday night in 1971, an American president broke the link with a television address.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money tied to metal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under the gold standard a government promised that its paper money could be exchanged for a fixed weight of gold on demand.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Britain led the way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pound was effectively linked to gold from the early 1700s, partly through a gold price set in 1717 while Isaac Newton was Master of the Mint, and formally from 1821.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the 1870s Germany, the United States and many others had joined.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because each currency was fixed to gold, they were fixed to each other, making trade and lending more predictable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governments could not simply print money, so long-run inflation stayed low.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The classical gold standard lasted until the First World War.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The golden straitjacket.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The discipline came at a cost.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The money supply depended on how much gold a country held, not on what the economy needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When gold flowed out, a country often had to raise interest rates and squeeze its economy, even in a slump.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices could fall for years, making debts harder to repay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The system also depended on new gold discoveries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gold rushes in California, Australia and South Africa expanded the world's money supply in ways that had nothing to do with economic policy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gold and the Depression.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the First World War, countries tried to rebuild the gold standard.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1925 Britain, with Winston Churchill as Chancellor of the Exchequer, returned to gold at the pre-war rate, which most economists now agree overvalued the pound and hurt British industry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "John Maynard Keynes attacked the decision in a pamphlet called The Economic Consequences of Mr Churchill.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the Great Depression struck, the gold standard helped spread deflation from country to country, as central banks raised rates to defend their gold.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain left gold in 1931 and the United States effectively devalued in 1933.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research by economic historians, including Barry Eichengreen and Ben Bernanke, found that countries leaving gold earlier tended to recover faster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bretton Woods and Triffin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In July 1944, delegates from 44 Allied nations met at Bretton Woods, New Hampshire, led by Keynes for Britain and Harry Dexter White for the United States.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Other currencies were pegged to the US dollar, and the dollar was convertible into gold at 35 dollars an ounce, but only for foreign governments and central banks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The conference also created the IMF and what became the World Bank.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1960, economist Robert Triffin spotted a hidden contradiction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The world needed a growing supply of dollars for trade, which came from American spending abroad.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the more dollars piled up overseas, the less likely America held enough gold to honour them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vietnam war spending widened the gap, and France under de Gaulle began converting dollars into gold.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Nixon shock.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On Sunday 15 August 1971, President Richard Nixon went on television and announced that the United States would temporarily stop converting dollars into gold for foreign governments.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He also imposed wage and price controls and a surcharge on imports.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The suspension was never lifted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attempts to patch together new fixed rates collapsed, and by 1973 the major currencies were floating against each other.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since then, the world's money has been fiat money, valuable because governments declare it legal tender and people trust it, not because it can be exchanged for metal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some still call for a return to gold, but most economists argue that flexibility in crises is worth the loss of the golden anchor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Under the gold standard a currency could be swapped for a fixed amount of gold, which kept inflation low but tied governments' hands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The global financial crisis of 2008.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It began with American home loans that should never have been made.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within months, some of the world's biggest banks were failing and governments were scrambling to stop a second Great Depression.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A boom built on credit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 2000s American house prices rose rapidly for years.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Interest rates were low after the dot-com crash, and lenders competed fiercely for business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many began offering subprime mortgages to borrowers with weak credit histories, sometimes with little checking of income at all, and often with low introductory rates that would jump later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thinking was that rising house prices would bail everyone out: a struggling borrower could refinance or sell at a profit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buyers, lenders and investors all assumed prices would keep climbing, or at least would not fall across the whole country at once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When prices peaked around 2006 and began to fall, that assumption collapsed, and defaults began to climb.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hidden risk and leverage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many lenders did not keep the loans they made.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Banks bundled thousands of mortgages into securities and sold them to investors, a process called securitisation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These were repackaged into more complex products, such as collateralised debt obligations, which split the income into layers of risk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rating agencies gave many top layers their highest AAA rating.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pension funds, banks and councils worldwide bought them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenders who could sell loans on had less reason to care whether borrowers could repay, and few investors understood where the risk sat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leverage magnified the danger.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many investment banks borrowed around thirty dollars or more for every dollar of their own capital, much of it short term.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small fall in asset values could wipe them out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "September 2008.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 2008 the investment bank Bear Stearns was rescued through a sale to JPMorgan Chase, with support from the US Federal Reserve.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then, in September, the authorities chose not to rescue Lehman Brothers, a 158-year-old investment bank.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 15 September it filed for bankruptcy, the largest in US history, with assets of more than 600 billion dollars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within days the insurer AIG, which had sold huge amounts of protection against mortgage defaults, needed a massive government rescue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A large money market fund that held Lehman debt ‘broke the buck’, sparking runs on similar funds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lending between banks almost seized up, and share markets plunged.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governments responded with unprecedented measures, including the 700 billion dollar US rescue program known as TARP.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How Australia dodged recession.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia came through better than almost any other advanced economy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its big banks had less exposure to American subprime securities and were closely supervised.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Reserve Bank cut the cash rate from 7.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 per cent in September 2008 to 3 per cent by April 2009.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The government guaranteed bank deposits and wholesale funding, and spent heavily on stimulus, including cash payments to households and a large school building program.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile China launched its own enormous stimulus, keeping demand for Australian iron ore and coal strong.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The economy shrank in only one quarter, at the end of 2008, so it avoided the technical definition of a recession: two consecutive quarters of decline.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The long shadow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Elsewhere, the damage lasted years.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Millions of Americans lost their homes, US unemployment reached around 10 per cent, and parts of Europe slid into a debt crisis from 2010, with Greece the most severe case.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Central banks cut interest rates to near zero and bought bonds on a vast scale.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regulators responded with new rules.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The international Basel III standards required banks to hold more and better quality capital and more liquid assets, and the US passed the Dodd-Frank Act in 2010.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debate continues over whether the reforms went far enough, and over the fairness of rescuing banks while many ordinary people bore the costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crisis also fuelled lasting public anger at finance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In the early 2000s, easy loans to risky borrowers drove US house prices up, on the assumption they would keep rising.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Quantitative easing: what central banks do when rates hit zero.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When interest rates can fall no further, central banks reach for a stranger tool: creating money to buy bonds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia tried it in 2020, with mixed results.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The zero lower bound.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Normally the Reserve Bank of Australia steers the economy with its cash rate, the overnight rate at which banks lend to each other.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cutting it makes borrowing cheaper and encourages spending and investment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But there is a floor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near zero, further cuts become difficult, because people and banks could simply hold cash, which pays nothing but never charges you either.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call this the zero lower bound.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few central banks in Europe and Japan pushed rates slightly negative, but not by much.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a severe downturn hits and rates are already near zero, central banks need another tool.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best known is quantitative easing, or QE.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How QE works.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under QE, a central bank buys large amounts of financial assets, mainly government bonds, from banks and investors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It pays with newly created reserves: electronic money in the accounts that commercial banks hold at the central bank.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Despite the popular phrase, no banknotes are printed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The buying pushes bond prices up, and because prices and yields move in opposite directions, longer-term interest rates fall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That feeds through to mortgages and business loans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sellers also receive cash they may put into corporate bonds or shares, an effect called portfolio rebalancing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "QE also signals that the bank intends to keep rates low for a long time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Tokyo to the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japan tried modern QE first.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After its asset bubble burst in the early 1990s, it endured years of weak growth and falling prices.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 2001 to 2006 the Bank of Japan bought government bonds to expand bank reserves, and it later revived the approach on a far larger scale.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2008 financial crisis made QE mainstream.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US Federal Reserve bought trillions of dollars of bonds and mortgage-backed securities, the Bank of England began in 2009 and the European Central Bank in 2015.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Related tools exist too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Fed capped bond yields from the Second World War until 1951, and the Bank of Japan adopted a version in 2016.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's 2020 experiment.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia skipped QE in the global financial crisis because its rates were well above zero.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pandemic changed that.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In March 2020 the RBA cut the cash rate to 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 per cent, set the same target for three-year government bond yields and offered banks cheap funding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In November 2020 it cut both to 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 per cent and began a $100 billion Bond Purchase Program, later extended to roughly $280 billion in total.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The yield target ended badly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2021 the recovery was faster than expected and inflation rose, so markets bet on earlier rate rises than the bank's guidance of low rates until 2024.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The RBA abandoned the target in November 2021, and later reviews acknowledged the disorderly exit damaged its credibility.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Did it work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most central bank research finds QE lowered long-term interest rates and helped steady markets in crises.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its effect on jobs and growth is much harder to measure, because nobody can rerun history without it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics raise three concerns.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By lifting the prices of bonds, shares and property, QE may have widened wealth gaps, since wealthier people own most of those assets.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can blur the line between monetary policy and government financing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And when rates later rose, central banks faced large losses on the bonds they held.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The RBA has reported negative equity as a result, though central banks can keep operating normally in that situation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Central banks steer the economy with interest rates, but cutting them stops working once they approach zero.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Under a gold standard, what could you do with paper money?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Exchange it for a fixed amount of gold.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What were subprime mortgages?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Home loans to weak-credit borrowers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do central banks struggle to cut interest rates much below zero?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Holding cash pays nothing but costs nothing.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

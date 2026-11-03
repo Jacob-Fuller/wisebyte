@@ -1,0 +1,893 @@
+{
+ "id": "s-world-history-2",
+ "title": "World History: The Big Picture · Episode 2",
+ "chapters": [
+  "The printing press changed everything",
+  "The Renaissance",
+  "The Industrial Revolution"
+ ],
+ "units": [
+  {
+   "t": "World History: The Big Picture. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The printing press changed everything, The Renaissance and The Industrial Revolution.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The printing press changed everything.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One goldsmith's invention sparked religious revolutions, modern science and, eventually, the idea of news.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From scribes to type.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the mid-1400s, European books were copied by hand, often by monks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One Bible could take a scribe over a year, copying introduced errors, and a library of a few hundred volumes was a treasure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people never owned a book, and most couldn't read.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowledge sat in churches, universities and wealthy homes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1440, Mainz goldsmith Johannes Gutenberg developed printing with movable metal type.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He cast individual letters in a hand mould so they could be arranged into pages, inked, printed and reused.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He adapted the screw press used for wine and olive oil and developed an oil-based ink that stuck to metal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Bible, printed around 1455, is still considered one of the most beautiful books ever made.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 49 copies survive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not the first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Printing wasn't new everywhere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "China had woodblock printing centuries earlier; the Diamond Sutra, printed in 868, is the oldest dated printed book.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1040, Bi Sheng invented movable type from baked clay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Korea was printing with movable metal type by the 1200s, and its Jikji of 1377 is the oldest surviving book printed that way, decades before Gutenberg.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But Chinese writing uses thousands of characters, which made movable type harder to use.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gutenberg's system suited Europe's small alphabet, and combined with a trading economy hungry for books, it spread explosively.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An information explosion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 1500, presses were running in more than 200 European towns, and historians estimate millions of books had been printed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prices fell dramatically, so merchants, lawyers and craftspeople could afford books.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ideas that once took years to spread by hand could travel the continent in months, in identical copies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mistakes could be corrected in the next edition rather than multiplied by tired copyists.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1517, German monk Martin Luther wrote his 95 Theses criticising the Catholic Church's sale of indulgences.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thanks to print, his writings spread across Germany quickly, and he became one of the best-selling authors of his time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He translated the Bible into German so ordinary people could read it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The resulting Protestant Reformation split Western Christianity and reshaped Europe for centuries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Science and literacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Science depends on sharing results so others can check and build on them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Printed books and, later, journals made this possible at scale.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accurate diagrams, maps and tables could be copied exactly, which hand copying never managed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Copernicus's book arguing that the Earth orbits the Sun was printed in 1543, followed by Galileo, Kepler and Newton.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first scientific journals appeared in 1665.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As books got cheaper, more people learned to read.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Printers needed consistent spelling and grammar, which helped standardise languages like English and German.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pamphlets, and eventually newspapers from the early 1600s, created a public sphere where ordinary people could debate current events.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governments and churches saw the danger, and censorship followed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The internet, 500 years later.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians often compare the printing press with the internet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both made publishing dramatically cheaper and faster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both spread knowledge, but also propaganda, scandal and misinformation; early printers churned out sensational pamphlets about witches and monsters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both shifted power away from traditional gatekeepers and provoked anxious debates about information overload.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It took societies generations to develop norms, like editors, libraries and reputable publishers, to cope with print.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We're still working out the equivalent for the internet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Gutenberg's press, with reusable movable metal type, replaced slow hand copying around 1440.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Renaissance.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "How a handful of Italian cities rediscovered the ancient world and reinvented art, science and what it means to be human.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rebirth in Italy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Renaissance, French for 'rebirth', was a cultural revival in Europe from roughly the 14th to the 17th century.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It began in Italy, especially Florence, and spread to France, the Netherlands, Germany and England.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People then felt they were reviving ancient Greece and Rome after a long decline.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians now see the 'Dark Ages' as less dark than Renaissance writers claimed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Italy had advantages.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cities such as Florence, Venice and Milan grew rich on trade, banking and manufacturing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roman ruins were everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Competing city-states used art and architecture to show off their power.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And after Constantinople fell to the Ottomans in 1453, Greek scholars fled to Italy with ancient manuscripts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humanism and patrons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scholars hunted through monastery libraries for lost Greek and Roman writing on philosophy, history, science and poetry.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This inspired humanism, an outlook celebrating human potential, reason and achievement alongside religious devotion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humanists believed a well-rounded education in grammar, rhetoric, history and moral philosophy made better citizens.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The poet Petrarch, often called its father, helped launch it in the 1300s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our 'humanities' come from it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Art needed money, and the Renaissance ran on patronage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Medici of Florence, bankers, paid artists, architects and scholars for generations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Popes commissioned huge projects, including rebuilding St Peter's Basilica.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guilds and merchants funded church decorations to display piety and status.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fierce competition for commissions pushed standards higher.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Art gets real.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1415, the architect Filippo Brunelleschi demonstrated linear perspective, a mathematical way of creating the illusion of depth on a flat surface, with lines converging on a vanishing point.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Painters quickly adopted it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Artists also studied anatomy, sometimes by dissecting corpses, to paint realistic bodies, and used light and shadow to create volume.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leonardo da Vinci painted the Mona Lisa and The Last Supper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo sculpted David and painted the Sistine Chapel ceiling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raphael painted The School of Athens.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Renaissance person.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leonardo da Vinci was a painter, engineer, anatomist, inventor and scientist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His notebooks, written in mirror script, hold designs for flying machines, armoured vehicles and diving suits, along with remarkably accurate anatomical drawings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He embodies the 'Renaissance man': someone skilled across many fields.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ideal was a cultivated person who could discuss art, science, poetry and politics, not specialise in one thing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same curiosity reached practical fields.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1494 Luca Pacioli, a friend of Leonardo, published the first printed explanation of double-entry bookkeeping, still the basis of accounting today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exploration and legacy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Renaissance spirit of questioning and observation spilled into exploration.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mapmakers constantly redrew the world as new reports arrived, and European navigators sailed to the Americas, around Africa and across the Pacific.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These voyages brought wealth and knowledge to Europe, but also colonisation, conquest and devastating consequences for Indigenous peoples.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The printing press, arriving in the mid-1400s, spread Renaissance ideas quickly, as books and engravings reached readers across Europe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The period laid foundations for the Scientific Revolution, the Enlightenment and modern ideas about education and individual achievement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can see its influence in old European cities, and in grand Australian public buildings with columns and domes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Renaissance was a revival of ancient learning and art that began in Italy's wealthy, competing city-states.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Industrial Revolution.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For most of history, almost everyone was a farmer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then, in about a century, machines changed everything.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why Britain first.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For thousands of years most people worked the land, and living standards barely changed from one century to the next.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From around 1760 in Britain, that began to change.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Machines powered first by water, then by coal-fired steam, replaced hand tools.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Production moved from homes into factories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians often call it the most important change in human life since farming.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain had a combination of advantages: plentiful coal and iron ore, often close together; banks and investors willing to fund new ventures; relatively stable politics; and a large trading empire.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High wages and cheap coal made labour-saving machines especially worth inventing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of the cotton came from plantations worked by enslaved people in the Americas, a dark foundation of the new wealth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cotton and the factory.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The revolution began in textiles.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inventions like James Hargreaves' spinning jenny, around 1764, and Richard Arkwright's water frame let one worker spin many threads at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arkwright's mill at Cromford, opened in 1771, is often called the first modern factory, with workers arriving for set shifts to tend machines.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Output soared and cloth became cheap.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For workers, it meant long hours, strict discipline and dangerous machinery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The factory changed how people spent their days as much as what they produced.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron, coal and rails.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Traditional ironmaking needed charcoal, and Britain's woodlands were running short.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1709 Abraham Darby at Coalbrookdale in Shropshire smelted iron with coke, coal baked to drive off impurities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With coal abundant, iron could be made far more cheaply.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1779 his grandson built the first major cast-iron bridge over the River Severn nearby.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It still stands and gave Ironbridge its name.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cheap iron went into engines, machinery, rails and ships.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Stockton and Darlington Railway opened in 1825.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Liverpool and Manchester Railway in 1830 was the first to run regular passenger services entirely by steam.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Journeys that took days by horse took hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Railways even standardised time, because timetables demanded one national time instead of each town's own.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "City life and progress.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People poured from the countryside into cities like Manchester, which grew from a market town into one of the world's first industrial cities.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Housing was cramped and poorly built, and cholera spread through contaminated water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children as young as five or six worked in mills and mines.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reformers pushed back: Britain's Factory Acts from 1833 limited child labour, public health laws brought sewers and clean water, and unions fought for better wages and shorter hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how quickly ordinary people benefited.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For the first generations, wages rose slowly and life expectancy in industrial towns was low.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the long run, the gains were enormous: goods became cheaper and incomes rose many times over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of the rise in living standards since 1800 followed from the technologies that began in those British mills.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The long shadow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Industrial Revolution created the modern world: factories, cities, mass-produced goods, railways, the middle class, and eventually electricity, cars and computers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also began the large-scale burning of coal, then oil and gas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to over 420 today, driving climate change.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same engine that lifted living standards carries a cost we are still paying.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many argue we are now living through the next great transition, from fossil fuels to clean energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: From about 1760, Britain's coal, capital, colonies and high wages made it the birthplace of machine-powered industry.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What made Gutenberg's system practical for printing many pages?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Reusable metal letters arranged into pages.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What helped make Italy the birthplace of the Renaissance?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Trade wealth, Roman ruins and competing city-states.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was Britain well placed to start the Industrial Revolution?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Plentiful coal, willing investors, trade and high wages.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

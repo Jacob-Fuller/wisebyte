@@ -1,0 +1,911 @@
+{
+ "id": "s-strange-minds-2",
+ "title": "Strange Cases of the Mind · Episode 2",
+ "chapters": [
+  "Patient H.M.: the man who lived in the present",
+  "Phantom limbs: feeling a hand that isn't there",
+  "Split brain: two minds in one head"
+ ],
+ "units": [
+  {
+   "t": "Strange Cases of the Mind. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Patient H.M.: the man who lived in the present, Phantom limbs: feeling a hand that isn't there and Split brain: two minds in one head.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Patient H.M.: the man who lived in the present.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "After a brain operation in 1953, Henry Molaison could no longer form new long-term memories.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For more than fifty years he met the scientists studying him as if for the first time, and he changed what we know about memory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An operation with a cost.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Henry Molaison was born in 1926 in Connecticut.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His childhood seizures became so frequent and severe that he could barely work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some accounts link the epilepsy to a bicycle accident, though the cause was never certain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drugs did not help enough.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1953, aged 27, he was referred to the neurosurgeon William Beecher Scoville, who removed parts of the medial temporal lobe on both sides of his brain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This included most of the hippocampus and the amygdala.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His seizures eased, but he could no longer remember the staff he saw every day, and he would read the same magazine repeatedly with fresh interest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His intelligence, personality, language and much of his earlier life were intact.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scoville later warned other surgeons never to repeat the procedure on both sides.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory has a place.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 1955, the young psychologist Brenda Milner began testing Henry.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1957 she and Scoville published a paper that overturned a common belief of the time: that memory was spread evenly across the brain, so no single area was essential.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Henry's case showed that the hippocampus and its neighbours were crucial for forming new long-term memories of facts and events.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet they were not the store where old memories lived, because Henry could recall much of his childhood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To protect his privacy, he was known in hundreds of scientific papers only by his initials, H.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "M.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few people outside research knew his name until he died.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning without remembering.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Milner's most famous experiment asked Henry to trace a star shape while seeing his hand and the paper only in a mirror, a task almost everyone finds awkward at first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over three days of practice, Henry improved steadily, just like anyone else.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But each day he insisted he had never done the task before.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result was profound.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It showed there is more than one kind of memory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remembering facts and events, called declarative memory, depended on the structures Henry had lost.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning skills and habits, called procedural memory, relied on other brain systems that still worked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living in the present.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Henry could repeat a list of numbers or hold a thought for a short while, so long as he kept rehearsing it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His working memory was largely normal, and he could follow a conversation and be polite and witty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But once his attention shifted, the information was gone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The neuroscientist Suzanne Corkin, who studied him for over four decades, said he never learned to recognise her.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He understood in a general way that his memory was poor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was often described as gentle, patient and fond of crossword puzzles, which drew on vocabulary he had learned before the operation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few scraps stuck, such as the floor plan of his new home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He took part in research willingly, and many scientists have written of the ethical questions his case raises about consent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A shared brain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Henry Molaison died in December 2008, aged 82.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With consent arranged years earlier, his brain was preserved and scanned.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2009 it was cut into 2,401 extremely thin slices at the University of California, San Diego, in a procedure streamed online.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The slices were digitised so researchers anywhere could examine what had been removed and what remained.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern ideas about the types of memory, the role of the hippocampus, and how memories are consolidated all trace back to him.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He never remembered the scientists who studied him, but generations of students now learn his name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Surgery that eased Henry Molaison's seizures left him unable to form new long-term memories.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Phantom limbs: feeling a hand that isn't there.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most people who lose a limb continue to feel it, sometimes for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The phantom can itch, clench and ache, and it has taught scientists that the body you feel is a model built by the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ghosts of the body.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doctors have recorded this for centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sixteenth century French surgeon Ambroise Paré described soldiers in pain in limbs that had been removed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The American neurologist Silas Weir Mitchell coined 'phantom limb' in 1871, after treating Civil War amputees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most amputees, by many estimates well over half, feel phantom sensations at some point.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The phantom can feel warm, itchy or tingling, and can seem to move or grip.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phantoms have even been reported after the loss of a breast or a tooth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For many people it is a strange but tolerable presence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a large number it hurts, sometimes as a hand clenched so tightly the nails seem to dig in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Such pain was once dismissed as imagination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it is understood to be fully real, produced by the nervous system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All pain is produced by the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The map in the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1930s and 1940s the Canadian neurosurgeon Wilder Penfield stimulated the surface of patients' brains during surgery and found that touch from different body parts is mapped in an orderly strip called the somatosensory cortex.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is often drawn as a distorted figure, the homunculus, with enormous hands and lips.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The area for the hand sits right beside the area for the face.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1990s V.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "S.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ramachandran stroked the face of a young man who had lost his arm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A touch to the cheek was felt on his cheek and on his missing thumb.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ramachandran proposed that the hand area, deprived of input, had been invaded by signals from the face area.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imaging shows maps can reorganise, though newer studies suggest the hand area may keep its map, and the link to pain is debated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mirror box.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ramachandran asked: what if the brain could be shown the limb moving?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the mid 1990s he built a simple box with a vertical mirror in the middle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A patient placed their intact arm on one side and looked into the mirror, so the reflection appeared where the missing arm should be.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they moved the real hand, it looked as though the phantom moved too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some patients reported that the phantom suddenly felt as though it moved, and that cramping eased.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The approach became known as mirror therapy, and it is now used in some rehabilitation settings, often alongside other treatments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the evidence says.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mirror therapy captured public imagination because it is cheap and elegant.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scientific picture is more modest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clinical trials have generally been small, and systematic reviews describe the evidence as limited, with benefits that vary between people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some patients find it very helpful, others feel little change.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers, including the Australian pain scientist Lorimer Moseley, have developed related approaches such as graded motor imagery.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It works through stages: recognising left and right limbs in pictures, imagining movements, and then mirror work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phantom pain is usually managed by a medical team with a combination of approaches, and anyone experiencing it should seek specialist advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body is a model.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phantom limbs reveal something true of everyone.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You do not feel your body directly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You feel the brain's model of it, built from touch, vision, the sense of where your limbs are, and expectations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the rubber hand illusion, first reported in 1998 by Matthew Botvinick and Jonathan Cohen, a person's real hand is hidden while a fake rubber hand sits in view.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When both are stroked at the same time with a brush, many people begin to feel the touch on the rubber hand, and some even flinch when it is threatened.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seen this way, a phantom is the brain's body model carrying on after the body itself has changed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most amputees feel the missing limb, and the pain it can cause is very real.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Split brain: two minds in one head.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When surgeons cut the bridge between the brain's two halves, patients seemed perfectly normal.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then clever experiments revealed that each half could know things the other did not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A drastic cure.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your brain has two hemispheres, joined mainly by the corpus callosum, a band of roughly 200 million nerve fibres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each hemisphere mainly handles the opposite side of the body: the left controls the right hand and receives the right side of what you see.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In most people the left also does most of the work of producing speech.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some epilepsy involves electrical storms that sweep across both hemispheres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1940s and again in the 1960s, surgeons cut the corpus callosum in patients whose seizures could not be controlled otherwise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For many it helped, and the patients could talk, walk and joke as before.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early observers concluded the corpus callosum might do very little.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Careful testing showed otherwise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One half knew.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s the neurobiologist Roger Sperry and his student Michael Gazzaniga, working at Caltech, designed a clever test.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A patient stared at a dot on a screen while a word or picture flashed briefly to its left or right, too fast for the eyes to move.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An image on the right went only to the left hemisphere, and the patient could easily name it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An image on the left went only to the right hemisphere, and the patient typically said they had seen nothing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet if they reached behind a screen with the left hand, controlled by the right hemisphere, they could pick out the very object shown.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One half knew; the half that did the talking did not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Left brain, right brain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The experiments suggested that the left hemisphere usually dominates language, while the right is often better at some spatial tasks, such as arranging blocks or recognising faces.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sperry shared the 1981 Nobel Prize in Physiology or Medicine for this work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the findings were stretched into a popular myth: that people are either logical 'left brained' types or creative 'right brained' types.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no good evidence for this.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A large brain imaging study published in 2013 found no sign that individuals have a stronger left or right side overall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a healthy brain, almost every complex activity, including creativity and logic, draws on both hemispheres working together through the corpus callosum.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The interpreter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gazzaniga showed a patient known as P.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "S.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "a chicken's claw to the left hemisphere and a snowy scene to the right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asked to pick matching pictures, his right hand chose a chicken and his left hand chose a shovel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asked why, his speaking left hemisphere, which had never seen the snow, did not hesitate: you need a shovel to clean out the chicken shed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer was fluent, confident and made up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was not lying.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He believed it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gazzaniga proposed that the left hemisphere houses an 'interpreter' that weaves our actions and feelings into a coherent story.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many studies show ordinary people also give confident reasons for choices influenced by things they never noticed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We rarely feel the difference between knowing and guessing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One person or two.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If each hemisphere can perceive, decide and act without the other knowing, is a split-brain patient one person or two?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some early reports described conflict between the hands, such as one doing up buttons while the other undid them, though such episodes seem rare and mostly occur soon after surgery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017 a Dutch-led team reported that two patients could respond accurately to images on either side using either hand.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They argued that consciousness may stay unified even when perception is split.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others dispute that reading.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the operation is performed far less often because better treatments exist, so researchers have fewer patients to learn from.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Surgeons cut the corpus callosum to stop severe seizures, and patients seemed surprisingly normal afterwards.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What was the main result of Henry's operation?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Seizures eased, but he could not form new memories.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How is phantom limb pain now understood?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As real pain generated by the nervous system.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why was the corpus callosum cut in some epilepsy patients?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To stop seizures spreading across the brain.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

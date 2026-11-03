@@ -1,0 +1,863 @@
+{
+ "id": "s-evolution-2",
+ "title": "Evolution & Genetics · Episode 2",
+ "chapters": [
+  "DNA: your body's instruction manual",
+  "Genes and inheritance",
+  "The human story"
+ ],
+ "units": [
+  {
+   "t": "Evolution & Genetics. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: DNA: your body's instruction manual, Genes and inheritance and The human story.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. DNA: your body's instruction manual.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two metres of code in every cell, written in a four-letter alphabet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The code of life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "DNA, short for deoxyribonucleic acid, carries the instructions for building and running almost every living thing, from bacteria to blue whales.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's found inside nearly every cell in your body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unwound and laid end to end, the DNA in a single human cell would stretch about two metres, yet it's packed into a nucleus too small to see without a microscope.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1953, James Watson and Francis Crick published its structure: a double helix, like a twisted ladder.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their model relied heavily on X-ray images by Rosalind Franklin, especially 'Photo 51', and on data from Maurice Wilkins.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watson, Crick and Wilkins won the 1962 Nobel Prize.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Franklin had died of cancer in 1958, aged 37, and her crucial role is now widely recognised.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A four-letter alphabet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rungs of the DNA ladder are made of four chemical bases: adenine, A, thymine, T, cytosine, C, and guanine, G.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A always pairs with T, and C always pairs with G.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That means each strand is a complementary template for the other, so a cell can copy its DNA by unzipping the ladder and building new partner strands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The human genome contains about 3 billion of these base pairs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From gene to protein.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To use a gene, a cell first copies it into messenger RNA, which carries the instructions out of the nucleus to protein-building machines called ribosomes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ribosomes read the message three letters at a time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each three-letter 'word', called a codon, calls for one of 20 amino acids, the building blocks of proteins, or signals where to stop.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four letters give 64 possible codons, so most amino acids have several, which means some spelling changes make no difference to the protein.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1961, Marshall Nirenberg and Heinrich Matthaei decoded the first codon, starting a race that cracked the whole code by the mid-1960s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mutations and variation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every time a cell divides, it copies its 3 billion letters and occasionally makes a mistake.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radiation, like UV from the sun, and chemicals, like those in tobacco smoke, can also damage DNA.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These changes are mutations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are harmless or quickly repaired.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some cause disease, including many cancers, which is one reason sun protection matters in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Occasionally a mutation is useful, and over generations such changes are the raw material for evolution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any two people share about 99.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "9% of their DNA.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The remaining 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1%, around 3 million letters, accounts for differences in appearance and some disease risks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's more genetic variation within any so-called racial group than between groups, so scientists consider race a social idea rather than a clear biological category.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading and matching DNA.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Human Genome Project, an international effort to read an entire human genome, finished in 2003 after 13 years at a cost of about US$2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "7 billion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today a genome can be sequenced in about a day for a few hundred dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors can diagnose rare genetic diseases in babies, match cancer treatments to a tumour's mutations and track viruses in real time, as in the COVID-19 pandemic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1984, Alec Jeffreys found that repeated stretches of DNA vary so much between people they form a pattern almost unique to each person, identical twins aside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "DNA fingerprinting settled a 1985 immigration case, cleared an innocent man who had confessed and, in 1988, helped convict the real killer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern profiles compare short repeated sequences at around 20 places in the genome.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: DNA carries the instructions for building and running living things, and its double-helix structure was revealed in 1953.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Genes and inheritance.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why do you have your mother's eyes but your grandfather's chin, and why can two siblings look like strangers?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genes are recipes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A gene is a section of DNA that holds instructions, usually for building a particular protein.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Proteins do most of the work in your body, from carrying oxygen to colouring your eyes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans have about 20,000 protein-coding genes, packed into 23 pairs of chromosomes inside almost every cell.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One chromosome in each pair came from your mother and one from your father, so you carry two copies of most genes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Different versions of the same gene are called alleles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One allele might produce more pigment, another less, and the combination you inherit shapes the result.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mendel's peas.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gregor Mendel, a monk in what is now the Czech Republic, crossed thousands of pea plants between about 1856 and 1863, tracking traits like flower colour and plant height.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Traits didn't blend: tall crossed with short gave tall, not medium.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some versions mask others.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A dominant allele shows with one copy; a recessive allele needs two, one from each parent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Purple crossed with white peas gave all purple.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But when those plants bred together, white flowers returned in about one in four offspring, roughly three to one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The white allele was hidden, not lost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mendel published in 1866 and was largely ignored; around 1900 three scientists independently rediscovered his work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hidden carriers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because recessive alleles can hide, many people carry one copy of a gene variant linked to a genetic condition without any sign of it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cystic fibrosis is a well-known example: roughly 1 in 25 Australians carries a cystic fibrosis variant.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If two carriers have a child, each pregnancy has a 1 in 4 chance of the child inheriting two copies, a 1 in 2 chance of being a carrier, and a 1 in 4 chance of inheriting neither.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is why reproductive carrier screening is offered in Australia; a GP or genetic counsellor can explain the options.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why traits and siblings vary.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mendel chose traits controlled mainly by one gene.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most human traits are messier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Height involves thousands of genetic variants, each with a tiny effect, plus childhood nutrition and health.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eye colour involves several genes, which is why two blue-eyed parents can occasionally have a brown-eyed child.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Environment matters too: genes load the dice, but diet, experience and chance help decide the roll.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Siblings differ because each egg or sperm carries one chromosome from each of 23 pairs, chosen at random, allowing over 8 million combinations.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crossing over, where chromosomes swap segments, shuffles genes further.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Full siblings share about half of the DNA that varies between people, on average.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Identical twins share almost all of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "X-linked traits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genes on the X chromosome behave unusually.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most females have two X chromosomes; most males have one X and a much smaller Y.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a male inherits a recessive variant on his single X, no second copy masks it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why red-green colour blindness affects roughly 1 in 12 men of northern European ancestry but only about 1 in 200 women.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Haemophilia follows the same pattern, usually passing from carrier mothers to sons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a condition appears in several relatives, mention it to your GP, who may suggest screening or a genetic counsellor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A gene variant linked to disease often raises risk rather than guaranteeing illness, and lifestyle matters for conditions like heart disease.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consumer DNA tests vary in accuracy for health claims.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A gene is a stretch of DNA carrying instructions for a protein, and you inherit two copies of most genes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The human story.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For most of the last few hundred thousand years, we weren't alone: several kinds of human shared the planet, and some of them are in your DNA.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cousins, not descendants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humans didn't evolve from chimpanzees.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both lineages descend from a shared ancestral ape that lived in Africa roughly 6 to 7 million years ago, and both have kept evolving since.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Species on our side of the split are called hominins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their family tree is a bushy shrub, not a ladder, with several branches living at once and most ending in extinction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We are the only surviving twig.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1974 in Ethiopia, Donald Johanson's team found about 40% of a skeleton they named Lucy, after the Beatles song playing in camp.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She was an Australopithecus afarensis who lived about 3.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 million years ago, around a metre tall with a chimp-sized brain, yet her hips and legs show she walked upright.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Footprints at Laetoli, Tanzania, about 3.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 million years old, confirm it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tools, brains and travel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The oldest known stone tools, from Lomekwi in Kenya, are about 3.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "3 million years old, older than our genus, Homo.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From around 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million years ago, sharp flakes become common across East Africa, and early Homo species such as Homo habilis appear, though exactly which species belong where is debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Better tools gave access to meat and marrow, which probably fuelled larger brains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Homo erectus appeared about 2 million years ago, with long legs and a body much like ours, and made shaped stone hand axes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was the first hominin known to leave Africa: fossils about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 million years old have been found in Georgia, and the species reached China and Java, where it may have survived until around 110,000 years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When hominins learned to control fire is debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sapiens and our relatives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our species evolved in Africa.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The oldest fossils generally assigned to it, from Jebel Irhoud in Morocco, are about 300,000 years old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many researchers think modern humans emerged across Africa, with regional populations exchanging genes, rather than in one small cradle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When modern humans spread out of Africa, they met other humans.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neanderthals lived across Europe and western Asia from roughly 400,000 until about 40,000 years ago, and were skilled toolmakers who buried some of their dead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Denisovans are known mainly from DNA, first read in 2010 from a finger bone in Siberia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both interbred with our ancestors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People with ancestry from outside Africa typically carry 1 to 2% Neanderthal DNA, and many Papua New Guineans and Aboriginal Australians carry several per cent Denisovan DNA.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Out of Africa to Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main dispersal of modern humans out of Africa happened roughly 60,000 to 70,000 years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People moved along coasts and across Asia with remarkable speed, and reaching Australia required sea crossings even when sea levels were low.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Excavations at Madjedbebe rock shelter in Arnhem Land have produced dates of about 65,000 years, though some researchers argue for closer to 50,000; the range is still debated.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At Lake Mungo in New South Wales, the burials of Mungo Lady and Mungo Man are around 40,000 years old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Aboriginal and Torres Strait Islander peoples also hold that they have always been on this land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it means for us.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The human story has a few big lessons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, all living people belong to one young species, and genetically we are very similar; there is more genetic variation within Africa than between Africa and the rest of the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, being the only human species is unusual.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For most of hominin history, several kinds of human lived at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, the story keeps changing as new fossils and ancient DNA emerge, so treat any date as a best current estimate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you read a headline about a 'missing link', remember the family tree is a bush, not a chain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other species, like the small Homo floresiensis of Indonesia, also survived until relatively recently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Humans didn't descend from chimpanzees; we share an ancestor from 6 to 7 million years ago, and upright walking came long before big brains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does DNA do in a living cell?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It stores instructions for building an organism.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does a gene usually contain?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Instructions for building a protein.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did Lucy's skeleton show about human evolution?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Walking upright came long before big brains.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

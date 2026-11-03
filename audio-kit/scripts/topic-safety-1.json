@@ -1,0 +1,887 @@
+{
+ "id": "topic-safety-1",
+ "title": "Safety & Survival Shorts · Episode 1",
+ "chapters": [
+  "Electricity: the danger you can't see",
+  "Seizures: what to do and what not to do",
+  "Carbon monoxide: the invisible killer"
+ ],
+ "units": [
+  {
+   "t": "Safety & Survival Shorts. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Electricity: the danger you can't see, Seizures: what to do and what not to do and Carbon monoxide: the invisible killer.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Electricity: the danger you can't see.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Electricity gives no warning: no smell, no sound, nothing to see.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few simple rules, and one small switch in your meter box, stand between ordinary life and a fatal shock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why current kills.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Current crossing the chest can throw the heart into a chaotic rhythm called ventricular fibrillation, where it quivers instead of pumping.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is cardiac arrest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Current can also make muscles contract so strongly a person can't let go of what they're holding.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And as it passes through tissue, it generates heat and burns along its path.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Entry and exit wounds can look small while muscles, nerves and blood vessels inside are badly damaged.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anyone who has had a significant shock or electrical burn should be checked by a doctor, even if they feel fine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety switches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A residual current device, called a safety switch in Australia, constantly compares the current going out along the active wire with the current returning along the neutral.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If they don't match, current is leaking somewhere, possibly through a person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The switch cuts the power within a fraction of a second, fast enough to greatly reduce the risk of death.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety switches differ from circuit breakers and fuses, which mainly protect wiring from overload.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newer homes must have them, but many older homes have them on only some circuits, or none.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most have a test button worth pressing regularly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leave it to licensed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Across Australia, it's illegal for an unlicensed person to do electrical wiring work, such as installing power points, replacing light switches or running cables.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Faulty wiring can kill, sometimes years later and for someone else entirely, and a loose connection can start a fire inside a wall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At home, the habits are simple.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't use appliances with frayed or damaged cords.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't overload power boards or daisy-chain them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep appliances away from water and never touch switches with wet hands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never fish toast from a plugged-in toaster with a knife.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a switch or power point feels warm or smells of burning, get it checked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Powerlines down.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After storms, crashes and bushfires, powerlines can lie on the ground, fences, cars or trees.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Treat every fallen line as live, even if it isn't sparking, because it may be re-energised automatically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distributors advise staying at least eight metres away, about two car lengths.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electricity can travel through wet ground, puddles, fences and metal, so you needn't touch the line to be hurt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000 if someone is injured or there's a fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a line falls on your car, stay inside unless it's on fire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you must leave, jump clear with your feet together, never touching the car and ground at the same time, then shuffle away with small steps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helping, and looking up.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If someone is being electrocuted, don't grab them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The current can flow into you too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switch off the power at the switchboard or wall, or unplug the appliance if safe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For powerlines and high voltage, don't approach: call 000 and wait for the electricity company.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once power is off, check them using DRSABCD, start CPR if needed, send for a defibrillator and cool burns under cool running water for twenty minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many serious accidents happen outdoors when tall objects meet overhead lines: ladders, tipper trays, boat masts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electricity can also arc across a gap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look up before raising anything tall, carry long objects horizontally, and never climb poles, towers or train roofs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Electric current can stop the heart and cause deep burns that look small from outside.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Seizures: what to do and what not to do.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Watching someone have a seizure is frightening, and the most famous piece of advice about it is completely wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The right response is calm, simple and mostly about keeping them safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An electrical storm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain runs on electrical signals passed between billions of nerve cells.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During a seizure, a sudden burst of abnormal, synchronised activity disrupts that traffic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What happens depends on where it starts and how far it spreads.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epilepsy is a tendency to have recurring seizures.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But seizures can also be triggered by a high fever in young children, a head injury, very low blood sugar, alcohol withdrawal, some drugs, or an illness affecting the brain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seizures are more common than many people think, and many of us will witness one, so basic seizure first aid is worth knowing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not all look alike.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The type most people picture is a tonic-clonic seizure, once called grand mal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The person may cry out, stiffen, fall and jerk rhythmically, sometimes with noisy breathing, drooling or loss of bladder control.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most stop on their own within a few minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many seizures look nothing like this.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a focal seizure, a person may seem dazed, pluck at clothes, smack their lips, wander or not respond properly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An absence seizure, most common in children, can look like a few seconds of blank staring, easily mistaken for daydreaming.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone having a quieter seizure may be misjudged as drunk or rude when they actually need patience and protection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time it, protect them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stay with the person and stay calm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check the time straight away, because how long the seizure lasts is one of the most important things to know.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move hard or sharp objects away and put something soft, like a folded jacket, under their head.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it's safe, loosen anything tight around the neck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't hold them down or try to stop the movements.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Restraint can injure both of you and won't end the seizure.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't move them unless they are in danger, such as near traffic, water, stairs or fire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask onlookers to give them space and privacy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tongue myth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For generations, people were told to force something between the teeth of a person having a seizure, to stop them swallowing their tongue.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is a harmful myth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tongue is anchored to the floor of the mouth and cannot be swallowed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pushing a spoon, wallet or fingers into the mouth can break teeth, injure the jaw, cause choking on fragments and get your fingers badly bitten.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A person may bite their tongue or cheek, which can bleed, but this usually heals and is far less dangerous than what well-meaning bystanders cause.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the movements stop, roll the person onto their side into the recovery position.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Give no food or drink until they are fully awake and able to swallow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recovery and calling 000.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Confusion, drowsiness or upset can last several minutes or longer after a seizure.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Speak calmly, tell them where they are and stay until they're alert.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some people carry an identification card, wear a medical bracelet or have a seizure management plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people with known epilepsy don't need an ambulance for a typical short seizure.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But Epilepsy Action Australia advises calling 000 if it lasts over five minutes, another follows before recovery, or they don't wake up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call too if they are injured, have trouble breathing, are pregnant or diabetic, it's their first seizure, or you're unsure.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any seizure in water is an emergency.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Febrile seizures in young children are usually harmless, but have a doctor check a first one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A seizure is a sudden burst of abnormal electrical activity in the brain, and it has many possible causes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Carbon monoxide: the invisible killer.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It has no colour, no smell and no taste, and its symptoms feel like the flu.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how an ordinary heater can quietly poison a home, and how to stop it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two brothers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In May 2010, two brothers, Chase and Tyler Robinson, died in their sleep at their rented home in Mooroopna, near Shepparton in Victoria.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cause was carbon monoxide from a faulty gas heater.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing had seemed wrong: no smoke, no strange smell, and no alarm, because the home had no carbon monoxide detector.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A coronial inquest examined who was responsible for maintaining the heater.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their mother, Vanessa Robinson, became a prominent campaigner for gas heater safety, and Victoria has since introduced regular gas safety checks in rental homes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a painful reminder that the most dangerous hazards may be ones we cannot sense.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How it harms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carbon monoxide is made when fuels such as gas, wood, charcoal, petrol or diesel burn without enough oxygen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Red blood cells carry oxygen using haemoglobin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon monoxide binds to it roughly two hundred times more strongly than oxygen does, so even small amounts steadily push oxygen out of the blood.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain and heart suffer first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gas is colourless, odourless and tasteless, so people breathe it unaware.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High levels can cause unconsciousness and death within minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower levels over hours or days can cause lasting brain and heart damage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms that fool.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early symptoms are ordinary: headache, dizziness, nausea, vomiting, tiredness, weakness, breathlessness and confusion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People assume flu, migraine or a stomach bug.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clues point to carbon monoxide instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several people, or pets, feel sick at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms are worse at home or with a heater running, and improve outside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People who are asleep or have been drinking may lose consciousness before noticing, so night-time poisoning is especially dangerous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babies, older people, pregnant women and people with heart or lung disease are more vulnerable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sources and servicing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A major source in Australian homes is gas space heaters, especially older or poorly maintained ones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An open-flued heater should send fumes out through a flue, but a blocked or faulty flue, or exhaust fans pulling air the wrong way, can spill carbon monoxide inside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unflued heaters release fumes into the room and need good ventilation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other causes are barbecues, camping stoves, patio heaters or charcoal used indoors, in tents, caravans or garages, generators near open windows, and engines running in closed garages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Have gas heaters serviced by a licensed gasfitter, generally at least every two years or as the manufacturer recommends.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warning signs include a yellow or orange flame, soot or stains, and a stuffy room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you rent, ask when the heater was last checked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alarms and action.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smoke alarms don't detect carbon monoxide.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A separate alarm from a hardware store warns you when levels rise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place it per the instructions, typically near fuel-burning appliances and sleeping areas, and test it regularly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Requirements for them vary by state and territory, but regulators encourage them, especially with gas heating.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An alarm is a backstop, not a substitute for servicing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you suspect poisoning, get everyone, including pets, into fresh air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If quick and safe, switch off the appliance and open doors on your way out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start CPR if someone isn't breathing normally.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't return until a licensed gasfitter has checked the source.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treatment is high-concentration oxygen, and everyone should be assessed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Two young brothers died in 2010 from a faulty gas heater, with no smoke, smell or alarm to warn them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why should anyone with a significant electric shock see a doctor even if they feel fine?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Skin wounds can hide serious internal damage.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is a seizure?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A burst of abnormal electrical activity in the brain.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What made the faulty heater in this case so dangerous?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The gas gives no smoke, smell or taste to warn you.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

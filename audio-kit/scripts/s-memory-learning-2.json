@@ -1,0 +1,857 @@
+{
+ "id": "s-memory-learning-2",
+ "title": "Memory & Learning · Episode 2",
+ "chapters": [
+  "How to learn anything faster",
+  "Focus and deep work",
+  "Mindset: can you get smarter"
+ ],
+ "units": [
+  {
+   "t": "Memory & Learning. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How to learn anything faster, Focus and deep work and Mindset: can you get smarter.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How to learn anything faster.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most study habits people use feel effective but aren't.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here are the techniques learning scientists actually recommend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Methods that underperform.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2013, psychologist John Dunlosky and colleagues reviewed hundreds of studies on ten common learning techniques.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Highlighting, rereading and summarising, the favourites of most students, were rated low.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They create a feeling of familiarity: the page looks known, so we mistake recognition for being able to recall and use the material.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our sense of how well we're learning is unreliable.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2019 Harvard study found physics students taught with active, problem-based methods learned more, yet felt they had learned less than students given polished lectures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists call this the illusion of competence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judge learning by testing yourself, not by how comfortable a session felt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If studying feels a little like hard work, that's often a good sign.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Testing and spacing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The two best-rated techniques cost nothing and take no more time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, retrieval practice: close the book and write down everything you remember, then check what you missed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use flashcards, but say the answer before flipping.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Answer practice questions or explain the topic aloud as if teaching a friend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pulling information from memory strengthens it and shows what you don't know yet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your answers promptly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, spacing: return to material across several sessions, perhaps a day later, then a few days, then a week or two.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s, Sebastian Leitner popularised a flashcard box system: cards move to a box reviewed less often when you get them right, and back to the first when you miss.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern apps automate this.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mix it and connect it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most textbooks group practice: twenty problems of type A, then twenty of type B.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Interleaving mixes them: A, C, B, A, C.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It feels messier and scores during practice are usually worse, but later performance is better, because you learn to recognise which approach each problem needs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works best for related skills that are easy to confuse, like different equations or tennis shots.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elaborative interrogation means asking why and how: why does this happen, and what would change if it were different?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Connect new information to your own life or to concrete examples.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning about inflation?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think about what bread cost when you were a child.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pairing words with diagrams helps too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The more hooks a fact has, the easier it is to find again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Feynman technique.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicist Richard Feynman, a Nobel laureate, was famous for explaining complex ideas in plain, lively language.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The technique named after him has four steps: pick a concept, explain it in simple words as if to a 12-year-old, notice where you stumble or reach for jargon, then return to the source to fill those gaps and simplify again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you can't explain it simply, you probably don't fully understand it yet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It combines retrieval practice with elaboration, and it's a quick, honest check on whether you've really learned something or just recognise the words.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The basics that matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No technique beats the basics.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sleep consolidates memories, and all-nighters before exams harm recall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short, focused sessions with breaks beat long, distracted ones, so put the phone away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regular exercise supports brain health and mood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curiosity helps: when you're curious about a question, you remember not only the answer but other things around it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finally, the popular 'learning styles' idea, that people learn best only visually or aurally, isn't supported by evidence; a 2008 review found no good studies backing it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Match the method to the material instead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Rereading, highlighting and summarising feel useful but produce weak learning, because familiarity isn't knowledge.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Focus and deep work.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your attention is your most valuable resource, and your phone is designed to take it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How to get it back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Designed to distract.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Social media, news and many games make money from your attention, so they're designed to keep you scrolling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Infinite feeds, notifications and autoplay use behavioural psychology.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unpredictable rewards are especially compelling: like a poker machine, you never know whether the next refresh will bring something good.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Former tech designers, such as Tristan Harris, have spoken publicly about how this is engineered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distraction is partly a design problem, not just a personal weakness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switching costs you too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researcher Sophie Leroy described 'attention residue': part of your mind stays on the previous task, hurting performance on the new one, especially if the first was unfinished.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some studies link even a silenced phone on your desk to slightly lower performance, though results are mixed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close your open loops.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Incomplete tasks keep popping into mind, pulling attention from what you're doing now.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2011, psychologists E.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "J.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Masicampo and Roy Baumeister found that reminding people of an unfinished goal made their minds wander more and hurt performance on an unrelated task.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But when people wrote down a specific plan for when, where and how they would finish it, the interference largely disappeared, even though the task was still undone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cal Newport builds on this with an end-of-day 'shutdown ritual': review what's unfinished, note the next step for each, then genuinely stop thinking about work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deep work and flow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cal Newport coined 'deep work' in his 2016 book for distraction-free concentration that pushes your abilities to their limit: writing, coding, analysis, learning hard skills.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Shallow work' is logistical, easily interrupted tasks like email.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newport argues deep work is becoming rarer just as it becomes more valuable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people manage only a few hours of it a day, so protect those hours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologist Mihaly Csikszentmihalyi studied moments when people become so absorbed that time vanishes, and called it flow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It tends to arise with clear goals, immediate feedback and a challenge slightly beyond your skill.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too easy bores; too hard causes anxiety.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A single notification can break flow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your attention's rhythm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In World War II, the RAF wanted to know why radar operators hunting submarines missed more signals as their watch wore on.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologist Norman Mackworth's 'clock test' found accuracy fell within the first half-hour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This vigilance decrement has since been found in lifeguards, security screeners and drivers, which is why screening jobs rotate staff and road-safety campaigns urge breaks at least every two hours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alertness also varies by time of day.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most people it climbs through the morning, dips after lunch and partly recovers later, though night owls peak later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2016 Danish study of around two million test results found children scored lower later in the day, and a 20 to 30 minute break beforehand more than made up for an hour's decline.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guard your sharpest hours for hard thinking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rest is part of focus.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Attention gets tired.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real breaks, like walking, stretching or looking out a window, restore it better than switching to your phone, which keeps the brain busy with new information.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some research suggests that time in nature, even a short walk through a park, helps restore attention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Letting yourself be bored occasionally, without reaching for a screen, gives the mind space to wander, which is linked to creativity and problem-solving.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And sleep is non-negotiable: sleep deprivation seriously impairs concentration, memory and judgement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Focus isn't about grinding longer; it's about alternating real effort with real rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Many apps are designed to capture your attention, and switching tasks leaves 'attention residue'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Mindset: can you get smarter.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Believing you can improve does matter, but the famous research is more modest than the posters suggest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fixed versus growth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stanford psychologist Carol Dweck proposed that people hold different beliefs about ability.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With a fixed mindset, you believe talent is set at birth, so failure means you're not smart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With a growth mindset, you believe abilities develop through effort, good strategies and help from others, so failure is information.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people hold a mix, varying by area.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her 2006 book Mindset became hugely popular in schools and workplaces.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1998 study with Claudia Mueller, children were praised either for being smart or for working hard.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those praised for intelligence chose easier tasks, enjoyed the work less, did worse after a setback, and some overstated their scores.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those praised for effort chose harder tasks and persisted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Praise process, not fixed traits.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain does change.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neuroscience supports the idea that abilities can grow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2004 study, adults who spent three months learning to juggle showed increased grey matter in brain areas that process visual motion, and the gains partly faded once they stopped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Similar changes appear in musicians and language learners.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Intelligence test scores are fairly stable in adults, and genes play a real role, but skills and expertise can be built substantially.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anders Ericsson found experts use deliberate practice: working on specific weaknesses, just beyond your comfort zone, with clear goals and quick feedback.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Playing a song you know is not the same as drilling the bar you keep fumbling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The popular '10,000-hour rule' oversimplified his work; talent, starting age and opportunity also matter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The replication debate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As mindset went global, researchers tested it at scale.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A large 2019 study of over 12,000 US high school students found a short online growth-mindset lesson had a small positive effect on grades, mainly for lower-achieving students, and mostly in schools whose culture supported the message.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some meta-analyses found overall effects near zero, while others argued well-designed programs help specific groups.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The honest summary: mindset matters somewhat, but it's not a magic fix, and simply putting up posters or telling people to 'have a growth mindset' does little on its own.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "False growth mindset.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dweck herself warned about a 'false growth mindset': praising effort even when it's not working, or claiming a growth mindset without changing behaviour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trying hard with the wrong approach leads to frustration and, eventually, the fixed belief that you can't do it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Effort is the fuel, but strategy is the steering.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'You worked hard' is less useful than 'That approach didn't work; what could you try next?'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How adults react to failure may matter more than what they say.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2016 study by Kyla Haimovitz and Dweck suggested parents' beliefs about intelligence didn't pass directly to children; their reactions to failure mattered more: disaster, or chance to learn.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Teams that review mistakes without blame tend to learn faster.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using it wisely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Practical takeaways that fit the evidence: notice when you think 'I'm just not a maths person' and replace it with 'I'm not good at this yet'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "See mistakes as feedback, and ask what specifically went wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare yourself to your past self, not to others.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choose challenges slightly beyond your level, and look for good teachers, coaches or resources rather than relying on effort alone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And be kind to yourself: believing you can improve isn't the same as expecting to be instantly good, and progress in anything real, from guitar to a new job, takes time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Carol Dweck's research suggests children praised for effort, not intelligence, take on harder challenges.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do rereading and highlighting feel effective but work poorly?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They feel familiar, which we mistake for knowing.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is 'attention residue'?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Part of your mind staying on the previous task.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What happened to children praised for being smart rather than for effort?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They chose easier tasks and did worse after setbacks.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

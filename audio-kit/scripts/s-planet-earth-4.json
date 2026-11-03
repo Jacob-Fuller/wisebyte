@@ -1,0 +1,869 @@
+{
+ "id": "s-planet-earth-4",
+ "title": "Planet Earth & Climate · Episode 4",
+ "chapters": [
+  "Ice cores: reading Earth's frozen diary",
+  "Climate change: the basics",
+  "Renewable energy"
+ ],
+ "units": [
+  {
+   "t": "Planet Earth & Climate. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Ice cores: reading Earth's frozen diary, Climate change: the basics and Renewable energy.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Ice cores: reading Earth's frozen diary.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Drill deep into Antarctica and you pull up ancient air, volcanic fallout and the planet's temperature history, layer by layer, going back 800,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Snow that becomes a record.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the coldest parts of Greenland and Antarctica, snow falls and never melts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each year's snow buries the last, compressing into granular firn and then solid ice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The youngest ice sits on top and the oldest near the bedrock, sometimes more than three kilometres down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists drill out cores about ten centimetres wide and ship them frozen to laboratories.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where snowfall is heavy, each year leaves a distinct layer, so layers can be counted like tree rings for tens of thousands of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deeper down, the ice thins and flows, so ages come from flow models and volcanic markers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eruptions such as Tambora in 1815 leave sulphate spikes in both Greenland and Antarctic ice, tying the records to one calendar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bubbles of ancient air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most remarkable treasure in ice cores is air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As firn turns to ice, the spaces between grains close off and trap tiny bubbles of atmosphere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the laboratory, scientists crush or melt samples under vacuum and measure gases such as carbon dioxide and methane.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is one subtlety.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Air keeps circulating through the porous firn until it is sealed, typically several tens of metres down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the trapped air is younger than the ice around it, sometimes by thousands of years where snowfall is slow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists correct for the gap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian researchers contributed greatly with cores from Law Dome, near Casey Station, where high snowfall gives a detailed record of carbon dioxide over the past two thousand years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A thermometer in the water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ice itself records temperature.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some water molecules contain heavier isotopes, such as oxygen-18 instead of oxygen-16, or deuterium, a heavy form of hydrogen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As moist air travels towards the poles and cools, the heavier molecules tend to fall out as rain or snow first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the colder the conditions, the fewer heavy molecules remain in the snow that finally lands on the ice sheet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By measuring the ratio of heavy to light isotopes in each layer, scientists can reconstruct how temperature changed over time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This isotope thermometer, developed largely by Danish scientist Willi Dansgaard from the 1950s, is a foundation of modern climate science.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "800,000 years of climate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The longest continuous ice core record comes from Dome C, high on the East Antarctic plateau, drilled by the European project EPICA.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It reaches back about 800,000 years and shows eight full cycles of ice ages and warmer interglacial periods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Through all of them, carbon dioxide and temperature rise and fall together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In cold glacial periods carbon dioxide sat around 180 parts per million.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In warm interglacials it rose to around 280 to 300.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changes in Earth's orbit pace the cycles, with carbon dioxide acting as a powerful amplifier.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the mid-2020s atmospheric carbon dioxide had passed 420 parts per million, far outside the range of the entire ice core record.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Abrupt change, older ice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greenland cores revealed something unsettling.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the last ice age, temperatures there repeatedly jumped by several degrees, sometimes ten or more, within decades.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These Dansgaard–Oeschger events showed that climate can change abruptly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ice also records human history: lead from Roman mining and smelting settled in the snow, and dipped in times of war and plague.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wildfires and dust storms leave traces too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A puzzle remains.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About a million years ago, ice-age cycles lengthened from roughly 41,000 to about 100,000 years, and nobody is sure why.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In early 2025 the Beyond EPICA project reached bedrock at Little Dome C, recovering ice believed to be more than a million years old, though dating is still under way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Snow that never melts compresses into ice, forming a dated archive with the oldest layers at the bottom.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Climate change: the basics.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The physics has been understood since the 1800s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what's actually happening, what it means for Australia and what's being done.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The greenhouse effect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sunlight warms the Earth's surface, which then gives off heat as infrared radiation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gases such as water vapour, carbon dioxide, CO₂, and methane absorb some of that infrared and send it back down, like a blanket.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This natural greenhouse effect is essential: without it, Earth's average temperature would be around minus 18°C instead of about 15°C.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem is thickening the blanket.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This isn't new science.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1856, Eunice Foote showed that a glass cylinder of CO₂ heated up more in sunlight than one of ordinary air.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "John Tyndall measured how gases absorb heat in 1859, and in 1896 Svante Arrhenius calculated that burning coal could warm the planet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the CO₂ comes from.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since the Industrial Revolution, humans have burned vast amounts of coal, oil and gas, and cleared forests.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Atmospheric CO₂ has risen from about 280 parts per million to over 420, higher than at any time in at least 800,000 years, based on air bubbles trapped in Antarctic ice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We know the extra carbon comes from fossil fuels because it carries a distinctive isotope signature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Globally, the biggest sources are electricity and heat, industry such as steel and cement, transport, agriculture, land clearing and buildings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Methane, from livestock, landfill and gas leaks, is a powerful short-lived gas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, coal-reliant electricity has historically been the largest source, and emissions per person are among the highest in the developed world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much warmer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The global average surface temperature has risen by roughly 1.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "3 to 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4°C since the late 1800s, and the last decade was the warmest on record.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2024, the global average for a single year exceeded 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5°C above pre-industrial levels for the first time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's climate has warmed by about 1.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5°C since national records began in 1910, according to the Bureau of Meteorology and CSIRO.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Land warms faster than oceans, which is why Australia's figure is higher than the global average.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Global sea level has also risen by more than 20 centimetres since 1900, and the rate is increasing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it means here.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For Australia, the effects include more frequent and intense heatwaves, and longer, more dangerous bushfire seasons in the south and east.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some areas get heavier downpours, while the south-west and south-east get less cool-season rain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oceans around Australia have warmed and become more acidic, which stresses marine life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During marine heatwaves, when seawater stays unusually hot for days or weeks, corals expel the algae that feed them and turn white.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Great Barrier Reef has suffered several of these mass bleaching events since 2016.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rising seas also add to the risk of flooding along low-lying coasts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paris and progress.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 2015 Paris Agreement, nearly every country agreed to keep warming well below 2°C and pursue efforts to limit it to 1.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5°C.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists say that needs steep emissions cuts this decade and net zero, where remaining emissions are balanced by removals, around mid-century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every fraction of a degree matters: 2°C instead of 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5°C means more extreme heat, more species loss and far more damage to coral reefs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Solutions are scaling quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Solar power's cost fell by roughly 90% in the 2010s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has more than four million rooftop solar systems, among the most per person in the world, and renewables provide around 40% of its electricity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Individuals help most through big choices: how they power and heat their homes, how they travel and how they vote.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Greenhouse gases trap heat that would otherwise escape to space, and the physics has been understood for over a century.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Renewable energy.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australia has more rooftop solar per person than almost anywhere on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how renewables work, and what makes the switch hard.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why renewables.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Renewable energy comes from sources that are constantly replenished: sunlight, wind, flowing water and heat from the Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fossil fuels like coal and gas release carbon dioxide stored over millions of years when burned, and electricity generation has long been one of Australia's largest sources of greenhouse emissions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Renewables produce almost no emissions while running, although making and installing them has a footprint.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Across their whole lifetime, solar, wind and hydro emit only a small fraction of the carbon of coal per unit of electricity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also use free fuel, a big reason the cost of renewable electricity has fallen so sharply over the past two decades.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Solar power.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Solar photovoltaic panels convert sunlight directly into electricity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When light hits a cell of specially treated silicon, it knocks electrons loose and the cell's structure pushes them one way, creating direct current.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An inverter converts this to the alternating current used in homes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A University of New South Wales team led by Martin Green developed the PERC cell design in the 1980s, which became the world's dominant solar cell technology for years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Panel prices fell by around 90% during the 2010s as mass production scaled up, largely in China.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunshine, rebates and falling prices helped more than a third of Australian houses install panels, around four million systems by the mid-2020s, among the highest rates per person in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wind and hydro.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wind turbines capture the energy of moving air, spinning a generator.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern towers can exceed 100 metres, with blades longer than an Olympic swimming pool.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wind speeds rise with height and power rises steeply with speed, so taller turbines produce much more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best resources are along the southern coast and in elevated areas, and South Australia gets well over half its electricity from wind and solar combined.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wind suits solar because it often blows at night and in winter, when solar output is low.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hydroelectric power, Australia's oldest large-scale renewable, uses water flowing downhill through turbines and can ramp up within minutes, a valuable backup when solar and wind dip.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tasmania gets most of its electricity from hydro, and the Snowy Mountains Scheme is the mainland's biggest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storing energy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At midday, rooftop solar can flood the grid, and wholesale prices sometimes go negative.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then the sun sets and the wind drops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Storage solves both problems.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017, after a statewide blackout the year before, the Hornsdale Power Reserve was built near Jamestown in South Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 100 megawatts, it was then the world's largest lithium-ion battery, built in under 100 days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It stabilises the grid, responding to faults in fractions of a second, faster than traditional power stations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Home batteries store daytime solar for the evening.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Snowy 2.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "0 is pumped hydro: it links two reservoirs, Tantangara and Talbingo, pumping water uphill when power is cheap and releasing it when needed, storing energy for days rather than hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its cost has blown out from about $2 billion to more than $12 billion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trade-offs and targets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Solar and wind are variable, so the grid needs storage, backup such as gas, and smarter demand management.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Good sites are often far from cities, so thousands of kilometres of new transmission lines are needed, which can face strong opposition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wind and solar farms use large areas of land, and turbines can affect birds and landscapes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Panels, turbines and batteries need mined minerals, and recycling at scale is still developing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, renewables supplied roughly 40% of electricity in the main eastern and southern grid by the mid-2020s, up from under 10% in the early 2000s, and in 2022 the federal government set a target of 82% by 2030, though progress is debated.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a home system, get several quotes from accredited installers and check rebates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Renewable energy comes from naturally replenished sources and produces almost no emissions while running.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How do scientists date ice too deep for its yearly layers to be counted?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. By using ice-flow models and volcanic markers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is the natural greenhouse effect important?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Earth would average about minus 18°C without it.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why has the cost of renewable electricity fallen so sharply?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Free fuel and mass-produced equipment have cut costs.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

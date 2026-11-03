@@ -1,0 +1,899 @@
+{
+ "id": "topic-geography-1",
+ "title": "Planet Earth Shorts · Episode 1",
+ "chapters": [
+  "How beaches and coastlines are made",
+  "Lightning: how storms make electricity",
+  "Tornadoes: the most violent winds on Earth"
+ ],
+ "units": [
+  {
+   "t": "Planet Earth Shorts. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How beaches and coastlines are made, Lightning: how storms make electricity and Tornadoes: the most violent winds on Earth.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How beaches and coastlines are made.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A beach looks permanent, but it is really a river of sand that never stops moving.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how waves build, shift and carve Australia's coastlines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A beach on the move.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture your favourite beach on a calm summer morning, then again after a big winter storm, with the sand stripped back to a steep scarp and rocks exposed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both are the same beach.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coastlines are among the most active landscapes on Earth, reshaped daily by waves, tides, currents and wind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sand that seems solid underfoot is in transit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It arrives from rivers and cliffs, is pushed along the shore, and is sometimes lost offshore or blown inland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most waves start as wind blowing over the sea, often far away.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wave size depends on wind strength, how long it blows and the open water it crosses, called the fetch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Southern Ocean storms send long, powerful swells to Australia's southern and western coasts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What sand is made of.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scoop up a handful of sand and you hold a sample of the land behind it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On many Australian beaches the grains are mostly quartz, a hard mineral that survives long after softer minerals have been ground away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rivers carry it down from eroding mountains, and waves sort it by size.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other beaches tell different stories.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some tropical beaches are made largely of broken shell and coral, pale and crunchy underfoot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Black sand forms where waves wear down dark volcanic rock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whitehaven Beach in the Whitsundays is famously white and fine because the sand is extremely pure silica.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy minerals can collect in darker streaks, and some Australian beaches have been mined for minerals such as rutile and zircon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rivers of sand.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Waves rarely hit a beach dead straight.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They usually arrive at a slight angle and push sand up the beach on a slant, while the backwash drags it straight back down the slope.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each wave moves grains a little further along the shore, and over months and years enormous volumes of sand travel along the coast.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is longshore drift.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On much of Australia's east coast the overall drift runs northward, from New South Wales towards Queensland.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where that river of sand meets a headland or a change in the coast, it can pile up into sand spits and huge dune systems.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "K'gari, formerly Fraser Island, is widely described as the largest sand island in the world, built in part from sand delivered this way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caves, arches and stacks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On rocky coasts, waves act like a slow chisel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They pound weaknesses such as cracks and softer layers, and hurl sand and pebbles against the rock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A crack becomes a sea cave.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If caves form on both sides of a narrow headland, they may meet to make an arch.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eventually the arch roof falls, leaving a pillar of rock called a stack, which is slowly worn down to a stump.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victoria's Twelve Apostles, limestone stacks along the Great Ocean Road, are a famous example.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nearby, London Bridge was a double arch until its inner span collapsed in 1990, leaving two startled tourists stranded on the outer section until a helicopter rescued them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rips and a changing coast.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The biggest everyday hazard on Australian beaches is not sharks but rip currents.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water pushed up the beach often flows back through a channel between sandbars, forming a narrow, fast current away from shore.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rips can look deceptively calm: a darker, flatter gap in the breaking waves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The safest choice is to swim between the red and yellow flags at a patrolled beach.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If caught, stay calm, float, raise an arm for help, and swim parallel to shore if you can.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surf Life Saving Australia has detailed guidance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Problems also arise when we build too close to the moving edge.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Storms in 1974 and 2016 badly eroded Collaroy and Narrabeen in Sydney.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seawalls can starve neighbouring beaches of sand, and rising seas are expected to push shorelines inland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthy dunes act as a natural sand bank.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A beach is a temporary store of sand that waves, tides, currents and wind constantly rearrange.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Lightning: how storms make electricity.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Somewhere on Earth, lightning strikes dozens of times every second.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how a cloud builds up enough electricity to light the sky, why thunder follows, and how to stay safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hotter than the Sun.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In an instant, a channel of air only a few centimetres wide is heated to roughly 30,000 degrees Celsius, about five times hotter than the visible surface of the Sun.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Satellites suggest 40 to 50 flashes every second worldwide, over a billion a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are over tropical land, where warm, moist air rises fastest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lake Maracaibo in Venezuela, where lake air meets cool mountain winds, is one of the most lightning-rich spots on Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Central Africa's Congo basin is another, and Australia's tropical north has spectacular storms before the wet season, with Darwin famous for its evening light shows.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lightning also helps life: its heat joins nitrogen and oxygen into compounds that rain carries into soil for plants to use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building the charge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A thunderstorm is a giant vertical engine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warm, humid air rushes upward, cools and condenses into droplets, and near the top they freeze.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside, powerful updrafts throw around tiny ice crystals, supercooled water and soft ice pellets called graupel.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When crystals and graupel collide, electric charge is transferred.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lighter crystals, generally positive, are swept to the top, while the heavier graupel, usually negative, gathers lower down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cloud becomes a giant battery, with opposite charges separated by kilometres of air.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air is a good insulator, so charge keeps building until the insulation finally breaks down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exactly how a flash begins is still an active area of research.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leader, stroke and thunder.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most lightning never reaches the ground.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a bolt does, it begins with a faint, branching channel of charged air, the stepped leader, zigzagging down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near the ground, tall objects send up streamers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they meet, the circuit is complete and the return stroke, the blinding flash we see, surges up into the cloud.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several strokes often follow the same channel, making lightning flicker.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thunder is the sonic boom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The channel heats so fast that the air expands explosively, sending out a shock wave.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distant thunder rumbles because sound from a long, twisting channel arrives at different times and echoes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sound travels about a third of a kilometre per second, so count the seconds from flash to thunder and divide by three for the distance in kilometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths that can hurt you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Several popular beliefs about lightning are wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It does strike the same place twice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tall buildings are hit again and again, and the Empire State Building is struck many times every year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rubber tyres do not make a car safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hard-topped car protects you because its metal body carries the current around the outside and into the ground, keeping the people inside out of its path.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lying flat on the ground is poor advice, because current can spread across the surface.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sheltering under a lone tree is one of the worst choices of all: the tree is a likely target, and the current can jump sideways to anyone standing beneath it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying safe in a storm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The simplest rule is 'when thunder roars, go indoors'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you can hear thunder, the storm is close enough for lightning to reach you, because strikes can land many kilometres from the main storm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The safest places are solid buildings with wiring and plumbing, or a hard-topped vehicle with the windows up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside, avoid corded phones, running water and touching plugged-in appliances, since current can travel through wiring and pipes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experts generally suggest waiting around 30 minutes after the last thunder before going back outside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not personal advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In severe weather, check Bureau of Meteorology warnings and follow your state emergency service's instructions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A lightning bolt heats a narrow channel of air to several times the Sun's surface temperature, and it strikes constantly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Tornadoes: the most violent winds on Earth.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Tornadoes produce the fastest winds measured near the ground, yet they are small, brief and still not fully understood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is what we do know.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born in supercells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tornado is a column of rapidly spinning air touching both the ground and the base of a thunderstorm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many show as a funnel because falling pressure condenses moisture and dust thickens the shape.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most last a few minutes and travel a few kilometres, but a few become monsters, hundreds of metres wide and tens of kilometres long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The powerful ones form in supercells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warm, moist air near the ground, cooler, drier air above, a lifting trigger and wind shear, winds changing speed and direction with height, set the lower atmosphere rolling horizontally.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A strong updraft tilts that roll upright, so the updraft rotates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This broad column is a mesocyclone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why only some supercells produce tornadoes is still being researched.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tornado Alley.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United States records on the order of a thousand or more tornadoes in a typical year, far more than any other country.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warm, humid air flows north from the Gulf of Mexico, dry air descends from the Rockies and south west deserts, and cold air sweeps down from Canada.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They meet over flat plains, with no east to west mountain range to keep them apart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The region from Texas to South Dakota is nicknamed Tornado Alley, and the south east sees many deadly tornadoes too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Tri-State Tornado of 1925 killed nearly 700 people across Missouri, Illinois and Indiana.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bangladesh, however, suffered the deadliest tornado on record, in 1989.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measuring the unmeasurable.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ordinary instruments are usually destroyed by a tornado, or simply not in the right place.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1971 the meteorologist Ted Fujita created a scale that estimated wind speed from the damage left behind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The United States replaced it in 2007 with the Enhanced Fujita scale, which runs from EF0, peeling shingles and breaking branches, to EF5, where well built houses are swept off their foundations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "EF5 winds are estimated at over 320 kilometres per hour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portable Doppler radar has since let scientists chase storms and measure winds inside them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the Oklahoma outbreak of May 1999, a truck-mounted radar recorded winds of around 480 kilometres per hour, among the highest ever measured on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tornadoes in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Australians are surprised to learn tornadoes happen here.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are reported every year, most often in the south west of Western Australia, along the eastern seaboard and in parts of inland New South Wales and Queensland, and some are spawned by tropical cyclones coming ashore.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are short-lived and weak, but destructive ones occur, such as the tornado that tore through Bucca in Queensland in 1992.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common confusion is worth clearing up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 'willy-willy' of outback folklore is usually a dust devil, a spinning column of air that forms on hot, clear days from heated ground, not from a storm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dust devils are mostly harmless curiosities, while true tornadoes need a thunderstorm overhead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying safe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Take warnings seriously.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia, follow the Bureau of Meteorology's severe thunderstorm warnings, and call 000 in a life-threatening emergency.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a tornado approaches, go to the lowest floor of a sturdy building and into a small interior room, such as a bathroom or hallway, with as many walls as possible between you and the outside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stay away from windows, and cover your head and neck.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cars and caravans offer poor protection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One old myth deserves retiring.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People were once told to open windows so the house would not explode from low pressure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In fact, houses are destroyed by wind and flying debris, and time spent opening windows is time not spent sheltering.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A tornado is a violently rotating column of air from a storm cloud to the ground, and the strongest come from supercells.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the 'fetch' of a wave refer to?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The open water the wind blows across.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Where is lightning most common?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Over tropical land, where warm air rises.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is a mesocyclone?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A rotating updraft in a supercell storm.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

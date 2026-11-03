@@ -1,0 +1,616 @@
+{
+ "id": "topic-business-1",
+ "title": "Business & Work Shorts",
+ "chapters": [
+  "The 80/20 rule: the vital few",
+  "Psychological safety: why the best teams admit mistakes"
+ ],
+ "units": [
+  {
+   "t": "Business & Work Shorts.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The 80/20 rule: the vital few and Psychological safety: why the best teams admit mistakes.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The 80/20 rule: the vital few.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A few customers bring most of the sales, a few problems cause most of the headaches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 80/20 rule is one of the most useful ideas in business, and one of the most misunderstood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Pareto to Juran.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vilfredo Pareto, an Italian engineer turned economist, studied data on wealth and income in the late nineteenth and early twentieth centuries.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He noticed that a small fraction of people owned a very large share of the land.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Italy, roughly 80 per cent of the land was held by about 20 per cent of the population, and he found similar patterns elsewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tale about pea pods in his garden is hard to verify.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pareto never proposed a universal rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That came decades later from Joseph Juran, a quality pioneer who found a few causes produced most manufacturing defects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called them the vital few, as opposed to the trivial many, later the useful many, and named the idea after Pareto.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He later acknowledged he had stretched Pareto's work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the rule says.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At heart the Pareto principle is a simple observation: inputs and outputs are often unequal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A minority of causes frequently produces most of the results.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a typical business, a small group of customers may account for most of the revenue, a few products for most of the profit, or a handful of recurring faults for most of the complaints.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The numbers 80 and 20 are a memorable shorthand, not a law of nature.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The real split might be 70/30, 90/10 or 95/5.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two numbers also do not have to add up to 100, because they measure different things: one is the share of causes, the other the share of effects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using it at work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The practical power of the Pareto principle is in deciding where to look first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quality engineers use a Pareto chart, a bar chart that sorts problems from most to least frequent, to show which few causes deserve attention.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cafe owner might find that a handful of menu items make most of the money, and simplify the rest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A support team might find that most calls are about a few common issues, and fix those with clearer instructions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In personal work, it suggests asking which tasks truly move a project forward, and doing those before polishing the details.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The question is not how to do everything, but which few things matter most.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where people go wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because it is catchy, the principle is often misused.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some people treat 80/20 as an exact law and assume the numbers without measuring anything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others conclude the remaining 80 per cent of customers, tasks or products can simply be dropped.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That can be a serious mistake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small customers may become large ones, cheap products may draw people into a store, and routine tasks such as paperwork, safety checks and maintenance can have serious consequences if neglected.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juran's later phrase, the useful many, was a deliberate correction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The principle works best as a prompt to gather data and look for imbalances, not as an excuse to ignore everything outside the top fifth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the world is lopsided.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why do so many things follow this lopsided pattern?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One reason is that success compounds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular product gets better shelf space, more reviews and more word of mouth, which makes it more popular still.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A big customer may grow faster because it already has scale.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In networks such as cities, websites and social media, a few hubs attract a large share of the connections.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematicians describe such distributions as heavy-tailed or power laws, and they appear in fields from earthquakes to book sales.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This helps explain why averages can mislead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a few cases dominate the total, the typical case may look very different from the average one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pareto noticed unequal wealth in Italy, and Joseph Juran later turned the idea into a general management rule.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Psychological safety: why the best teams admit mistakes.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A researcher expected the best hospital teams to make the fewest errors.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Her data said the opposite, and that surprise changed how we think about teamwork.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A puzzling result.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1990s researcher Amy Edmondson studied medication errors in hospital teams.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She expected teams with better leadership and stronger relationships to make fewer mistakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The data seemed to show the reverse: the better teams reported more errors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then she realised what might be happening.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best teams were probably not making more mistakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were more willing to talk about them, while in teams where people feared blame, errors were hidden.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That insight led to psychological safety, which Edmondson, later a Harvard Business School professor, defines as a shared belief in a team that it is safe to take interpersonal risks, such as asking a question, admitting a mistake or raising a concern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Google's Project Aristotle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2012 Google launched Project Aristotle to find out what made some of its teams more effective than others.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers studied around 180 teams, expecting the right mix of skills, personalities or backgrounds to explain success.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those factors mattered far less than expected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What mattered most was how team members interacted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Google published its findings in 2015, it listed five key dynamics: psychological safety, dependability, structure and clarity, meaning, and impact.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychological safety was described as by far the most important, the foundation the others depended on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The findings drew wide attention and brought Edmondson's work to a far larger audience.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not about being nice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common misunderstanding is that psychological safety means lowering expectations or avoiding criticism.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Edmondson is clear that it does not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also does not mean everyone agrees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It describes the climate of a group, not one person's confidence: the same person might speak freely in one team and stay silent in another.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It means honest disagreement and bad news surface early, while there is still time to act.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She describes a grid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Low safety and low standards produce apathy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High safety with low standards is comfortable but unstretching.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "High standards with low safety produces anxiety, and people hide problems.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal is high standards with high safety, her learning zone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Candour and kindness are not opposites.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why silence is dangerous.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cost of silence can be enormous.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Investigations into accidents in aviation, healthcare and engineering have often found that someone saw a warning sign but hesitated to raise it with a more senior person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From around the 1980s aviation responded with crew resource management training, which teaches junior crew to voice concerns clearly and captains to invite them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In business the costs are usually quieter but still real: a flawed product nobody challenged, a project everyone privately doubted, a safety shortcut nobody reported.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fear does not stop problems happening.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It mostly stops leaders hearing about them until they are much bigger and more expensive to fix.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building it in your team.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychological safety can be built, and leaders have the biggest influence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Edmondson suggests three broad practices.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First, frame the work as a learning problem rather than simple execution, being honest that there is uncertainty and that everyone's input is needed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, acknowledge your own fallibility, with something as simple as saying you might be missing something.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, model curiosity by asking genuine questions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Just as important is how you react when someone speaks up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thanking a person for raising a problem, even unwelcome news, encourages others to do the same.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reacting with anger teaches the whole team to stay quiet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trust is built slowly and can be damaged very quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Amy Edmondson found that better hospital teams reported more errors, because they felt safe to speak up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did Joseph Juran add to Pareto's observation?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He generalised it into a rule that a few causes drive most problems.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did the better hospital teams report more errors?",
+   "c": 2,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They were more willing to talk about mistakes.",
+   "c": 2,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 2,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

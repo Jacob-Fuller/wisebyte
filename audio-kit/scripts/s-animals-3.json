@@ -1,0 +1,815 @@
+{
+ "id": "s-animals-3",
+ "title": "Amazing Animals · Episode 3",
+ "chapters": [
+  "Tardigrades: the toughest animals on Earth",
+  "Why bees matter",
+  "Spider silk: nature's super-material"
+ ],
+ "units": [
+  {
+   "t": "Amazing Animals. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Tardigrades: the toughest animals on Earth, Why bees matter and Spider silk: nature's super-material.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Tardigrades: the toughest animals on Earth.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Smaller than a full stop, the eight-legged 'water bear' can survive being dried out for years, frozen solid and even exposed to open space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meet the water bear.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scrape moss off a garden wall, soak it in water and look through a microscope.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You may see a plump creature lumbering along on eight stubby, clawed legs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a tardigrade.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are well under a millimetre long, and the largest reach only about a millimetre and a half.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A German pastor called one a 'little water bear' in 1773, and the name stuck.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tardigrada means 'slow steppers'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than 1,300 species are known.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They live in moss, lichen, soil, fresh water and ocean sediments, from mountaintops to the deep sea and the poles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most feed by piercing plant cells, algae or other tiny animals with sharp mouthparts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tun: life on pause.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tardigrade's watery home can vanish in one hot afternoon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the moss dries, many species pull in their head and legs, lose almost all their body water and shrivel into a little barrel called a tun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their metabolism slows until it can barely be detected.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This state is called cryptobiosis, meaning 'hidden life'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a tun, a tardigrade can wait out drought for years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When water returns, it rehydrates and starts walking again within minutes to hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In one well-known case, Japanese researchers revived tardigrades from Antarctic moss that had been frozen for more than 30 years, and one went on to lay eggs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tough, but not invincible.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In laboratory experiments, dried tardigrades have survived chilling to within a degree or so of absolute zero and brief heating above the boiling point of water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They have endured pressures several times greater than the deepest ocean trench, and radiation doses hundreds of times higher than would kill a person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is easy to conclude they are indestructible, but they are not.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of these feats apply only to dried tuns, and often only for short periods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An active, hydrated tardigrade is a fairly delicate animal, and long exposure to warm temperatures can kill it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their real superpower is not toughness but the ability to switch life off and on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water bears in space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2007 a European experiment launched dried tardigrades into low Earth orbit on an uncrewed Russian satellite.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For about ten days they sat outside the spacecraft, exposed to vacuum and cosmic radiation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Back on Earth, many were rehydrated and recovered, and some went on to reproduce.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those that also faced unfiltered ultraviolet light from the Sun fared far worse, though a few survived.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was the first time any animal was known to survive open space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019 an Israeli lunar lander carrying dried tardigrades crashed on the Moon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later laboratory tests, firing tardigrades from a gun, suggested the impact was probably too violent for them to survive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Secrets and uses.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drying normally destroys cells, because proteins unfold and membranes tear.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brine shrimp flood their cells with a protective sugar, trehalose, but many tardigrades make little of it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, researchers have found proteins unique to tardigrades that seem to form a gel and then a glass-like solid as the cell dries, holding delicate molecules in place.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another protein, Dsup, 'damage suppressor', binds DNA and appears to shield it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Human cells given the Dsup gene suffered noticeably less X-ray damage in the lab.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This could matter: many vaccines need refrigeration, which is hard in remote places such as the outback.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the work is at an early stage and may take many years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can meet tardigrades yourself by soaking moss in water overnight and scanning it under a simple microscope.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Tardigrades are microscopic, eight-legged animals found almost everywhere, from backyard moss to the polar regions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Why bees matter.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "About a third of what we eat depends on pollinators.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has around 2,000 native bee species most people have never noticed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What's on the line.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many flowering plants can't make fruit or seeds unless pollen moves between flowers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wind does the job for some, like wheat and rice, but many rely on insects that visit flowers for nectar and carry pollen with them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bees are the most important.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The UN Food and Agriculture Organization estimates that about three quarters of the world's leading food crops benefit at least partly from animal pollination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almonds depend almost entirely on bees; Australia's almond industry hires hundreds of thousands of beehives each year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Apples, cherries, blueberries, avocados, melons and pumpkins also rely heavily on them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We wouldn't starve without pollinators, but diets would be less varied and nutritious, and many foods would cost much more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Honey bees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The honey bee most people know isn't native to Australia; European honey bees were introduced in 1822.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hive can hold tens of thousands of bees: one queen who lays eggs, a few hundred male drones, and thousands of female workers who build comb, feed young, guard the hive and forage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making about half a kilogram of honey may take around two million flowers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a forager finds good flowers, she returns and performs a 'waggle dance'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The angle of her waggle run relative to vertical shows the food's direction relative to the Sun, and its length shows distance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other bees follow and fly straight there.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Karl von Frisch decoded the dance and shared the 1973 Nobel Prize in Physiology or Medicine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's native bees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has around 2,000 native bee species, many still not formally described.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most are solitary: each female builds her own nest in the ground, in wood or in plant stems, and doesn't live in a hive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blue-banded bee pollinates tomatoes by 'buzz pollination', vibrating flowers to shake pollen loose, something honey bees can't do.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About a dozen species are social stingless bees, found mainly in warmer areas, which make small amounts of tangy 'sugarbag' honey that Aboriginal people have long harvested.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Threats and varroa.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bees face many pressures: loss of flowering habitat, some pesticides, diseases and parasites, and climate change shifting when flowers bloom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The varroa mite, a parasite that has devastated honey bee colonies worldwide, was detected in Newcastle, NSW, in 2022.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia had been the last inhabited continent free of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a major effort, authorities concluded in 2023 that eradication was no longer feasible, and the focus shifted to managing it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Native bees aren't affected by varroa but face their own habitat pressures.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other pollinators, and you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bees aren't the only pollinators.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hoverflies, beetles, moths and butterflies all move pollen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Honeyeaters and lorikeets pollinate banksias, grevilleas and eucalypts, flying foxes carry pollen across the landscape at night, and the honey possum feeds almost entirely on nectar and pollen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can help even on a balcony.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plant a variety of flowers, especially native ones, so something blooms across the seasons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Herbs like lavender, basil and rosemary attract bees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid spraying pesticides on flowering plants, leave a shallow dish of water with pebbles, and provide bare ground or a simple 'bee hotel' of drilled wood blocks for native solitary bees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: About three quarters of leading food crops benefit from animal pollination, and bees are the most important pollinators.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Spider silk: nature's super-material.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Weight for weight, some spider silk is stronger than steel and tougher than Kevlar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spiders make it at room temperature from water and protein, and we still cannot copy it properly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Liquid into thread.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silk is made of proteins called spidroins, stored in the spider's abdomen as a thick liquid.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the spider draws it out through tiny spinnerets, changes in acidity and water content, plus the stretching force of pulling, make the molecules line up and lock into a solid fibre.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It happens at normal temperature with water as the solvent, while human factories making strong fibres often need high heat and harsh chemicals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orb-weavers, which build wheel-shaped webs, can have up to seven types of silk gland.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strong dragline silk forms the frame and safety line.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sticky capture spiral is stretchier and coated with glue droplets, so a fast insect is slowed rather than bouncing off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other silks wrap prey, cement threads down and case eggs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stronger than steel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The claim that spider silk is stronger than steel is often repeated, so let us be precise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Steel and good dragline silk have broadly similar strength per thickness, but silk is far lighter, so weight for weight silk comes out ahead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its real superpower is toughness, the energy a material can absorb before breaking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because dragline silk both resists pulling and stretches a good deal, it absorbs more energy than Kevlar, the fibre used in protective vests.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The toughest silk known comes from Darwin's bark spider of Madagascar, described in 2010.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It builds enormous webs over rivers, anchored by bridge lines that can stretch around 25 metres across the water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flying on silk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silk lets spiders fly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a behaviour called ballooning, a spider climbs to a high point, raises its abdomen and releases fine threads into the air until it lifts off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spiders have been found drifting thousands of metres up and landing on ships far out at sea, which helps explain how they are among the first animals to colonise new islands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists long assumed ballooning depended only on wind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research published in 2018 showed spiders also respond to the atmosphere's natural electric field, which can lift their charged silk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In parts of Australia, mass ballooning occasionally blankets paddocks in shimmering silk, sometimes nicknamed angel hair.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A million-spider cape.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People have long dreamed of spider silk cloth, but spiders are territorial and often cannibalistic, so they cannot be packed together like silkworms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A famous project in Madagascar showed what it takes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Textile maker Simon Peers and designer Nicholas Godley had workers collect more than a million golden orb-weaver spiders over several years, gently draw silk from each with a hand-cranked device, then return them to the wild.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The naturally golden textiles, including a cape shown at London's Victoria and Albert Museum in 2012, are among the rarest fabrics in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long before that, fine spider silk served as crosshairs in optical instruments such as telescope and gun sights, because it was thin, strong and even.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Copying the spider.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since spiders cannot be farmed, scientists have tried to make silk without them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers have inserted spider silk genes into bacteria, yeast, silkworms and plants, and in one well-known project, into goats whose milk contained silk proteins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making the protein is the easier half.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spinning it into fibre as good as a spider's is very hard, because the spider's duct performs its chemistry and stretching with remarkable precision.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some companies have launched products using artificial silk proteins, but none yet matches natural dragline silk at large scale.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Possible uses include medical sutures, artificial ligaments, lightweight protective gear and biodegradable materials.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For now the humble garden spider still out-engineers the laboratory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Spider silk is a protein stored as liquid and turned into solid thread as it is drawn out, and one spider can make several kinds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the name Tardigrada mean?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Slow steppers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why would our food supply change without pollinators?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Many fruit, nut and veg crops would suffer.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How does liquid silk protein become a solid thread?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Acidity changes and pulling align proteins.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

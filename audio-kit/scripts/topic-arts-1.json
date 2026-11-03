@@ -1,0 +1,1146 @@
+{
+ "id": "topic-arts-1",
+ "title": "Art & Music Shorts",
+ "chapters": [
+  "Film editing: the invisible art",
+  "The Bayeux Tapestry: 1066 in wool",
+  "The day the Mona Lisa vanished",
+  "The Sydney Opera House: a building that almost wasn't"
+ ],
+ "units": [
+  {
+   "t": "Art & Music Shorts.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Film editing: the invisible art, The Bayeux Tapestry: 1066 in wool, The day the Mona Lisa vanished and The Sydney Opera House: a building that almost wasn't.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Film editing: the invisible art.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The best editing is the kind you never notice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet every cut in a film is a decision that shapes what you feel, what you understand and even what you think an actor is doing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A face that changed meaning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around the time of the 1917 revolution in Russia, the young filmmaker Lev Kuleshov tried an experiment.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to the usual account, he cut a single shot of an actor's neutral face with different images: a bowl of soup, a child in a coffin, a woman on a sofa.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Audiences reportedly praised the subtle performance, seeing hunger, grief or desire, though the face was identical each time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The original footage is lost, and modern attempts to repeat the test have given mixed results, so the story is probably tidier than the reality.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Still, filmmakers widely accept the core idea: a shot's meaning depends heavily on what comes before and after it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the editor's power.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scissors and glue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of the twentieth century, editors worked with their hands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They watched footage on machines such as the upright Moviola or the flatbed Steenbeck, marked the frames they wanted, then cut the film with a splicer and joined it with tape or cement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unused shots hung in strips from bins.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every change meant physical cutting, so trying alternatives took skill and patience.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From the late 1980s and 1990s, digital non-linear systems such as Avid, and later Final Cut and Premiere, changed everything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Footage could be rearranged instantly and every version saved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Editors still say 'cuts', 'trims' and 'bins', words from the days of scissors, and many say the craft itself, deciding what to show and when, has not changed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules that hide the joins.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hollywood developed continuity editing so viewers follow the story without noticing the cuts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 180-degree rule says to imagine a line between two people in conversation and keep the camera on one side, so each character consistently faces the same direction on screen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shot and reverse shot cuts back and forth between speakers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Editors also cut on action.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a character starts to sit in a wide shot, the cut to a closer shot happens mid-movement, and the eye follows the motion across the join.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An eyeline match shows someone looking off screen, then cuts to what they see.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together these tricks build a sense of continuous space that may have been filmed over several days.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collision and broken rules.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1920s Sergei Eisenstein believed that cutting two contrasting shots together could produce a third idea in neither.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Battleship Potemkin, 1925, the Odessa Steps sequence builds terror through rapid cuts between boots, faces and a runaway pram, stretching a moment beyond real time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Kubrick's 2001: A Space Odyssey, a bone thrown into the air cuts to a spacecraft, spanning millions of years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once audiences learned the rules, filmmakers broke them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Godard's Breathless, 1960, used jump cuts, abrupt jumps forward within one shot, which felt raw and helped define the French New Wave.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jump cuts are now everywhere, including online videos.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smash cuts jump from quiet to shock, and crosscutting alternates between simultaneous events to build suspense.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rhythm, emotion and Fury Road.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Editor Walter Murch, in his book In the Blink of an Eye, suggested a cut feels natural because it works a bit like a blink, which tends to happen as we shift thoughts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He ranked emotion first in a good cut, above story, rhythm and even perfect continuity: if a cut feels right, a small mismatch in a glass of water will not matter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shots have also become shorter over the decades.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Margaret Sixel, born in South Africa and building her career in Australia, edited George Miller's Mad Max: Fury Road, 2015, and won the Academy Award for Best Film Editing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She kept the key action in the centre of the frame from shot to shot, so even quick cuts stay readable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try counting the cuts in a scene and see how many slip by.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The meaning of a shot depends heavily on what comes before and after it, which gives the editor great power.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Bayeux Tapestry: 1066 in wool.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A strip of linen nearly 70 metres long tells the story of the Norman conquest of England like a medieval comic strip.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And technically, it isn't even a tapestry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not a tapestry.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A true tapestry has its picture woven into the cloth on a loom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Bayeux Tapestry was made differently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its images were stitched with coloured woollen yarn onto a long band of plain linen, which makes it an embroidery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is roughly 68 metres long but only about half a metre tall, made from several pieces of linen joined together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The embroiderers used a handful of colours, mainly reds, yellows, greens and blues, yet created hundreds of people, horses, ships, buildings and animals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short Latin captions run above the scenes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read from left to right, it unfolds like a film reel, which is why it is often called the world's oldest comic strip.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Made by the conquered.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No document records who ordered it, but most historians think it was Odo, Bishop of Bayeux and half-brother of William the Conqueror.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Odo appears prominently in the scenes, and Bayeux Cathedral was consecrated in 1077, a likely occasion for such a gift.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strangely for a French treasure, it was probably made in England.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The style of the drawings and some of the spelling in the captions suggest English craftspeople, possibly in Canterbury, which was famous for its needlework.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the story of England's conquest may have been stitched by the conquered themselves, working for one of the new Norman rulers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oath of Harold.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The embroidery opens with the old king, Edward the Confessor, and his powerful nobleman Harold Godwinson.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Harold sails to France, is captured, and ends up at the court of William, Duke of Normandy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He even joins William on a campaign in Brittany.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then comes the key scene: Harold swears an oath with his hands on holy relics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The embroidery does not spell out the promise, but Norman sources claimed he swore to support William's claim to the English throne.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When Edward died in January 1066 and Harold took the crown himself, the Normans could present him as an oath breaker.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tapestry tells the story from the winners' point of view.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comet and invasion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soon after Harold is crowned, people point up at a star with flaming tails.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is Halley's Comet, which really did appear in the spring of 1066 and was widely seen as an omen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The embroidery then shows something history books often skip: the logistics of invasion.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trees are felled, ships are built, and men carry armour, swords, spears and barrels of wine down to the boats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Horses are loaded and the fleet crosses the Channel.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once landed, the Normans build a fort and cook a feast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These everyday scenes are priceless to historians, offering rare pictures of eleventh century clothing, weapons, tools, ships and food.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hastings and survival.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The battle scenes are crowded and violent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Norman cavalry charge English soldiers in a shield wall on a hill.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At one point William lifts his helmet to show he is still alive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then comes Harold's death, though historians still debate which figure is Harold, and some think the arrow in the eye was altered in nineteenth century restoration.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The final section is missing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first written record is an inventory of 1476, when it hung in Bayeux Cathedral.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the French Revolution it was nearly cut up to cover wagons, until a local official saved it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Napoleon displayed it while planning his own invasion of England.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1944 it was moved to the Louvre for safekeeping.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its permanent home is Bayeux, where it is displayed under low light to protect the fragile threads.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Bayeux Tapestry is actually an embroidery: coloured wool stitched onto linen, not woven on a loom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The day the Mona Lisa vanished.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1911 a handyman walked out of the Louvre with the world's most famous painting under his smock.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strangely, the theft is a big part of why it became so famous.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A quiet Monday.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mondays were cleaning days at the Louvre.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The galleries were shut and workmen wandered the halls.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the morning of 21 August 1911, a man in a white workman's smock lifted Leonardo da Vinci's portrait off its hooks in the Salon Carré.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The painting is small, about 77 by 53 centimetres, and painted on a thin poplar panel rather than canvas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thief carried it to a service stairwell, removed the heavy frame and protective glass box, and slipped the panel under his clothing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accounts differ on whether he hid in a storeroom overnight or arrived that morning among the staff.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, he walked out into the Paris streets and nobody stopped him.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody noticed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The next morning, the painter Louis Béroud arrived to sketch and found four iron pegs where the Mona Lisa should have been.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guards assumed the museum's photographers had taken it, which happened regularly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only when Béroud pressed them did the truth sink in.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Louvre closed for a week and the director lost his job.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Police followed strange trails.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The poet Guillaume Apollinaire was jailed for several days because an acquaintance had earlier stolen ancient statuettes from the Louvre that Picasso had ended up with.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Picasso was questioned too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both were cleared.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real thief had been interviewed early, at his lodgings, and aroused no suspicion.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The inside man.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vincenzo Peruggia was an Italian craftsman who had worked at the Louvre and helped install the very glass cases meant to protect its paintings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He knew the building, and the staff knew him.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For more than two years he kept the Mona Lisa in a trunk with a false bottom in his Paris room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In late 1913 he wrote to Alfredo Geri, an art dealer in Florence, offering to return the painting to Italy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Geri arranged a hotel meeting with Giovanni Poggi, director of the Uffizi Gallery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After examining the panel and checking the Louvre's markings on its back, they alerted police, and Peruggia was arrested.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patriot or opportunist.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At his trial in Florence, Peruggia argued that he had acted out of patriotism.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He believed, wrongly, that Napoleon had looted the painting from Italy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In fact Leonardo took it to France himself, and it entered the French royal collection long before Napoleon was born.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peruggia's story struck a chord with many Italians, and he received a fairly light sentence of a little over a year, of which he served only about seven months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians note that he had also asked for money, so his motives were probably mixed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before going home, the painting was displayed in Florence, Rome and Milan to enormous crowds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It returned to the Louvre in early 1914.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How theft made a star.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before 1911, the Mona Lisa was admired by art lovers, but it was not obviously the most famous painting on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The theft changed that.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For two years the story ran in newspapers worldwide, and photographs of the portrait were printed again and again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Visitors even queued at the Louvre to stare at the empty space on the wall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the painting came back, it returned as a celebrity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Art historians often call the theft a turning point, alongside Leonardo's reputation and the picture's remarkable technique, such as the soft, smoky blending called sfumato.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today it sits behind protective glass and is seen by millions of visitors every year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Mona Lisa was stolen on Monday 21 August 1911, when the Louvre was closed for cleaning and workmen moved freely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Sydney Opera House: a building that almost wasn't.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It is the most recognisable building in Australia, yet it cost about fourteen times its first estimate, lost its architect halfway through and took fourteen years to build.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is the remarkable story behind the sails.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sketch that won.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1955 the New South Wales government launched an international competition to design an opera house on Bennelong Point, a rocky spit in Sydney Harbour that had held a tram depot.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than two hundred entries arrived.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The winner, announced in January 1957, was Jørn Utzon, a 38-year-old Danish architect who had built very little.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His entry was hardly more than loose, beautiful sketches of white curved shells rising from a massive stone platform.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular story says judge Eero Saarinen rescued it from a pile of rejects.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "True or not, the jury saw something nobody else had imagined: a building meant to be seen from every angle, including above.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than a place name.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The site carries the name of Woollarawarre Bennelong, a Wangal man of the Eora nation, captured in 1789 on the orders of Governor Arthur Phillip, who hoped to learn about the local people through him.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bennelong learned English, became a go-between for the colonists and the Eora, and later travelled to England, one of the first Aboriginal people known to do so.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small brick hut was built for him on the point.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long before this, the foreshore was a meeting and gathering place for its traditional custodians.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today the Opera House acknowledges that history, often hosting First Nations performances and projections on its sails, linking one of the world's newest landmarks to one of its oldest living cultures.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Solving the shells.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody knew how to build Utzon's sketch.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The free-flowing curves had no fixed geometry, so every piece would be unique and the shells might not stand.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Construction began in 1959 under political pressure, with the design unresolved, a decision that caused enormous trouble later.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Utzon and engineers Ove Arup and Partners spent years testing shapes, using some of the earliest computers on a building project.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The breakthrough, around 1961 to 1962, is usually credited to Utzon: every shell would be cut from the surface of the same imaginary sphere.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ribs could then be made from repeating precast concrete segments, built on site and lifted by crane.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sails are covered in over a million Swedish ceramic tiles, glossy white and matte cream, so the roof seems to change colour through the day.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The architect walks away.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To pay for the project, the state ran the Opera House Lottery, which raised much of the money.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thousands of Australians bought tickets and helped build a landmark.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the mid 1960s the project was years late and costs were soaring.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After a change of government in 1965, the new Minister for Public Works, Davis Hughes, clashed with Utzon over money, design changes and control, and payments to the architect were held back.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Utzon resigned in February 1966.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Street protests called for his return, but he left Australia with his family and never came back.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian architects led by Peter Hall finished the interiors with major changes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The larger hall, meant for opera, became a concert hall, hence complaints about the cramped opera stage and pit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bill and the reconciliation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Queen Elizabeth II opened the Opera House on 20 October 1973, fourteen years after construction began.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first estimate was around seven million dollars.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The final bill was about one hundred and two million, often quoted as a warning about big public projects.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet critics soon fell quiet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became the symbol of Sydney and Australia, hosting over a thousand performances a year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1990s the trust asked Utzon, then in his eighties, to set out design principles for the building's future.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He worked with his son Jan and architect Richard Johnson, though he never visited Sydney again.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Utzon Room was redesigned to his plans.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He received the Pritzker Prize in 2003, and in 2007 the Opera House joined the UNESCO World Heritage List.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Utzon died in 2008 without seeing it in person.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An almost unknown 38-year-old Danish architect won the international competition in 1957 with loose sketches of white shells.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the main lesson of the Kuleshov effect?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A shot's meaning depends heavily on the shots around it.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is the Bayeux Tapestry technically not a tapestry?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It is embroidered with wool on linen, not woven.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why could the thief move so freely through the Louvre?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The galleries were closed and workmen were about.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What was unusual about the design that won the 1957 competition?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It was mostly loose sketches by a little-known architect.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

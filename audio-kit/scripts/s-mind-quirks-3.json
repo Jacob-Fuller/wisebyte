@@ -1,0 +1,935 @@
+{
+ "id": "s-mind-quirks-3",
+ "title": "Quirks of the Mind · Episode 3",
+ "chapters": [
+  "When to trust your gut",
+  "Seeing patterns in random noise",
+  "Why time flies, and why it drags"
+ ],
+ "units": [
+  {
+   "t": "Quirks of the Mind. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: When to trust your gut, Seeing patterns in random noise and Why time flies, and why it drags.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. When to trust your gut.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Sometimes gut instinct beats careful analysis.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes it's dangerously wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's how to tell the difference.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two ways of thinking.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Daniel Kahneman, who won the 2002 Nobel prize in economics, popularised the idea of two systems in his 2011 book Thinking, Fast and Slow.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "System 1 is fast, automatic and effortless: recognising a face, sensing anger in a voice, knowing 2 plus 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "System 2 is slow and deliberate: working out 17 times 24, parallel parking in a tight spot, or weighing a big decision.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Intuition is System 1 at work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It handles most of daily life brilliantly, but it also produces predictable biases.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two systems are a helpful metaphor, not two separate parts of the brain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Intuition is recognition.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Psychologist Gary Klein studied firefighters making split-second decisions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In one case, a commander ordered his crew out of a house moments before the floor collapsed, though he couldn't say why.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later analysis suggested he'd noticed the fire was too quiet and the room too hot for a small kitchen fire: it was burning in the basement below.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Years of experience recognised the pattern faster than conscious thought.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Herbert Simon, another Nobel laureate, put it simply: intuition is nothing more and nothing less than recognition.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kahneman and Klein, who began with opposite views, agreed in a 2009 paper on when to trust it: the environment must be regular enough to learn, and the person must have had lots of practice with quick, clear feedback.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chess players, nurses, pilots and experienced tradies fit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key question is where the intuition was learned.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it fails.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In some fields, experience doesn't build good intuition because outcomes are too random or feedback too delayed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stock pickers, political pundits and some long-range forecasters show little genuine skill, even though they feel confident.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Philip Tetlock's research on expert predictions, published in 2005, found many experts barely beat chance on long-term political forecasts, and often did worse than simple statistical rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Famous experts did no better than obscure ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confidence comes from how coherent a story feels, not from how accurate it is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Feeling certain and being correct can come apart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shortcuts and gut feelings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1974, Amos Tversky and Kahneman described heuristics, the shortcuts intuition relies on.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The availability heuristic judges how common something is by how easily examples come to mind, which is why shark attacks and plane crashes feel likelier than they are.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With anchoring, an initial number pulls later estimates towards it, which is how an asking price shapes what a house seems worth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every famous finding held up: some 'priming' studies Kahneman cited failed to replicate, and he acknowledged relying on them too heavily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A feeling that someone is 'off' can reflect real cues, like inconsistent stories or pressure tactics, and shouldn't be dismissed when your safety is involved.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But gut reactions are also shaped by stereotypes and first impressions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unstructured job interviews feel insightful but predict performance less well than structured ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Training and using intuition.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Good intuition can be trained where feedback exists.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Write down predictions before you learn the outcome, then check them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tetlock's Good Judgment Project, run from 2011, found that ordinary volunteers who did this, updated their views often and thought in probabilities became strikingly accurate 'superforecasters'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keeping score turns vague hunches into measurable skill.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice your gut reaction, then ask whether you have real experience here with clear feedback.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If yes, give it weight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the decision is big, unfamiliar or emotionally charged, slow down: write out options, consider what would change your mind, and ask others, including a qualified professional for health, money or legal matters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kahneman suggested gathering the facts first, then forming your overall judgement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Or make a guess, do the analysis, and compare.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where they disagree, you've learned something.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Psychologists describe fast intuitive thinking, System 1, and slow deliberate thinking, System 2, and intuition is System 1 at work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Seeing patterns in random noise.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Shuffle a playlist and the same artist plays three times in a row.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rigged?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Probably not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Randomness is far lumpier than our brains expect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Random looks clumpy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask one group to invent 100 coin tosses and another to actually toss a coin 100 times.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Teachers who run this trick can usually spot the fakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Invented sequences switch between heads and tails too often and avoid long runs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real tosses often include a streak of five or six of the same result, because over 100 tosses such runs are quite likely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our intuition says random things should look evenly spread, like sprinkles on a cake.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In reality, randomness is clumpy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rain falls unevenly, stars cluster and buses arrive in bunches.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When we see a clump, our brains shout 'pattern', even when chance alone would produce it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bombs over London.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the Second World War, German V-1 flying bombs fell on London.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many residents were convinced the strikes were targeted, because some neighbourhoods were hit repeatedly while others were spared.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rumours spread that German spies lived in the spared areas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1946, a British actuary named R.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "D.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clarke divided a section of south London into hundreds of equal squares and counted the hits in each.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The counts closely matched what you would expect if the bombs had landed at random.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The clusters that felt so meaningful were just the natural clumping of chance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is now called the clustering illusion, and it still shapes how people read crime maps, disease outbreaks and accidents.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Painting the target.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a cowboy firing randomly at a barn.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Afterwards, he paints a bullseye around the tightest group of holes and declares himself a sharpshooter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This joke names the Texas sharpshooter fallacy: finding a cluster first, then treating it as if it had been predicted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It happens whenever people search lots of data, spot an interesting clump and forget how many other places they looked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A town might seem to have an unusual number of a particular illness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But there are thousands of towns and many kinds of illness, so somewhere, by chance, a striking cluster will appear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Investigators take such reports seriously, and some turn out to be real.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many, though, prove to be painted bullseyes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faces and shuffles.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1976, the Viking 1 spacecraft photographed a hill on Mars that looked startlingly like a human face.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later, sharper images showed an ordinary eroded mesa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing meaningful images in random shapes, especially faces, is called pareidolia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It probably reflects how vital it has been to recognise friends, enemies and emotions quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reverse also happens.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Users have complained that music shuffles weren't random because songs by one artist played close together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many apps now adjust shuffle so an artist doesn't repeat, because genuine randomness feels suspicious.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Likewise, many people feel that 1, 2, 3, 4, 5, 6 could never win a lottery, though it is exactly as likely as any other combination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test before you trust.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask how many chances there were for a pattern to appear.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A one in a million coincidence is likely in a country of millions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide what you are testing before you look, as scientists do by registering their plans in advance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then check whether the pattern holds in fresh data.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A real effect should reappear; a random clump usually won't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be humble in both directions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For decades, researchers called basketball's 'hot hand' an illusion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2018, Joshua Miller and Adam Sanjurjo found a statistical bias in the original analysis and argued a modest effect may exist after all.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'It's just randomness' can be a mistake too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Real randomness contains streaks and clusters that feel deliberate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why time flies, and why it drags.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "An hour in a dentist's waiting room crawls, while a week on holiday vanishes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet looking back, the holiday feels longer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your sense of time is not a clock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a story your brain tells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No clock in the head.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We have eyes for light and ears for sound, but no dedicated sense organ for time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain builds duration from many sources: neural rhythms, attention, emotion and how many new events we take in.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For intervals of a second or less, people are surprisingly precise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For longer stretches, judgements are easily pushed around.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists distinguish between judging time as it passes, called prospective timing, and judging it afterwards, called retrospective timing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "While waiting for a kettle to boil, your attention keeps returning to time, and each check stretches the interval.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the grain of truth in 'a watched pot never boils'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When absorbed, little attention is left for tracking time, and it flies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear and anxiety can stretch time, while enjoyable focus shrinks it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The holiday paradox.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A week of new sights on holiday seems to rush past, yet looking back it feels longer than a routine week at work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The psychologist and broadcaster Claudia Hammond named this the holiday paradox.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The likely explanation is that, in hindsight, we judge durations partly by how many distinct memories we have from that period.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A holiday packed with novel experiences leaves many memories, so it seems long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A routine week leaves few, and blurs into its neighbours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reverse happens with boredom: a dull afternoon drags while you live through it, then shrinks to almost nothing in memory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Edited perception.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people describe crashes or falls as happening in slow motion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2007 study, the neuroscientist David Eagleman and colleagues had volunteers fall backwards from a tall tower into a safety net at a Texas amusement park.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They estimated their own fall lasted roughly a third longer than falls they watched.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But a wrist display flashed numbers too fast to read normally, and falling volunteers could not read them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frightening moments are not perceived in slow motion; they are remembered in rich detail, which makes them feel longer afterwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chronostasis is a small cousin: after your eyes jump to an analogue clock, the second hand can seem to freeze for longer than a second, because the brain backdates what you see after the movement.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why the years speed up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common complaint of adulthood is that the years rush by.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One popular explanation is that each year is a smaller fraction of your life, though this is hard to test.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A more research friendly idea links back to the holiday paradox: childhood and youth are full of firsts, while adult life often settles into routine, leaving fewer distinctive memories per year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surveys find that older people often say the last decade went quickly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But studies asking about the past week or month show weaker age differences than you might expect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The feeling seems to apply mostly to long stretches of time looked back upon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stretching your own time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If remembered time depends on distinct memories, there are practical ways to make life feel fuller.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Breaking routines with small changes, such as a new walking route, a different weekend activity or learning a skill, gives memory more distinct markers to hold onto.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Travel, even locally, can do the same.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paying deliberate attention, such as noticing details or recalling the day's events at the end of it, may also help experiences stick.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "None of this makes the clock tick slower.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But since our sense of how long we have lived is built from memories rather than minutes, filling time with variety is the closest thing we have to stretching it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The brain has no organ for time, and paying attention to time passing makes it seem to slow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is System 1 thinking?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Fast, automatic and intuitive.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How do invented 'random' coin sequences usually differ from real ones?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They switch sides too often.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does a kettle seem to take forever when you watch it?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Checking on time passing makes the interval seem longer.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

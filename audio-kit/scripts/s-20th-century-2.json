@@ -1,0 +1,941 @@
+{
+ "id": "s-20th-century-2",
+ "title": "The 20th Century · Episode 2",
+ "chapters": [
+  "The Holocaust",
+  "The Nuremberg trials and the birth of international criminal law",
+  "Mao's China: the Great Leap and the Cultural Revolution"
+ ],
+ "units": [
+  {
+   "t": "The 20th Century. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The Holocaust, The Nuremberg trials and the birth of international criminal law and Mao's China: the Great Leap and the Cultural Revolution.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The Holocaust.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The systematic, state-sponsored murder of six million Jews by Nazi Germany.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding how it happened is essential to preventing it again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it was.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Holocaust, also called the Shoah, Hebrew for 'catastrophe', was the deliberate, organised persecution and murder of European Jews by Nazi Germany and its collaborators.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About six million Jews were killed, around two-thirds of Europe's Jewish population, including roughly 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million children.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Communities that had existed for centuries in places like Poland, Lithuania and Hungary were destroyed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Nazis also murdered Roma and Sinti people, disabled people, Polish and Soviet civilians, Soviet prisoners of war, political opponents, gay men and others.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nazi ideology treated Jews as a 'race' to be eliminated entirely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Step by step.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Holocaust didn't begin with killing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Adolf Hitler came to power in 1933, Jewish businesses were boycotted and Jews were fired from government jobs, universities and the professions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1935 Nuremberg Laws stripped Jews of citizenship and banned marriage with non-Jews.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Kristallnacht pogrom of November 1938, synagogues and Jewish shops were destroyed across Germany and around 30,000 Jewish men were sent to concentration camps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Jews tried to emigrate, but most countries, including Australia at the 1938 Evian Conference, accepted few refugees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each step was tested against public reaction, and too few objected.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This gradual escalation is one of the Holocaust's most important lessons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ghettos to death camps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After invading Poland in 1939, the Nazis forced Jews into overcrowded, sealed ghettos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over 400,000 people were crammed into Warsaw's, and tens of thousands died of starvation and disease.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After Germany invaded the Soviet Union in June 1941, mobile killing units called Einsatzgruppen followed the army and, helped by police battalions and local collaborators, shot Jews at pits outside towns.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Babi Yar near Kyiv, over 33,000 were murdered in two days in September 1941.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In January 1942, senior Nazi officials met at the Wannsee Conference to coordinate the 'Final Solution', the plan to murder all European Jews.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Extermination camps, including Auschwitz-Birkenau, Treblinka and Sobibor, operated in occupied Poland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victims arrived by freight train from across Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most were gassed on arrival; others were worked to death.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 million people died at Auschwitz alone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resistance and liberation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Despite overwhelming odds, Jews resisted.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Warsaw Ghetto Uprising of April 1943 held out for about a month, prisoners revolted at Treblinka and Sobibor that year, and Jewish partisans fought in forests across eastern Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many preserved culture and records, like the hidden Oneg Shabbat archive buried in Warsaw.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some non-Jews hid or rescued Jews at great risk; in 1943 Danes ferried most of Denmark's Jews to safety in Sweden.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people, though, remained bystanders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As Allied armies advanced, the SS forced prisoners on brutal 'death marches'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soviet troops reached Auschwitz on 27 January 1945, now International Holocaust Remembrance Day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Survivors were often sick and starving, their families murdered and their homes taken.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds of thousands lived for years in displaced persons camps before emigrating to Israel, the United States, Australia and elsewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Justice and remembrance.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 1945 to 1946, surviving Nazi leaders were tried at Nuremberg for crimes including crimes against humanity; twelve were sentenced to death.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Further trials followed, though many perpetrators were never punished.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1961 Israel tried Adolf Eichmann, a key organiser of the deportations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Polish-Jewish lawyer Raphael Lemkin coined the word genocide in 1944, and the United Nations made it a crime under international law in 1948.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many survivors rebuilt their lives in Australia, and Melbourne's Jewish Holocaust Centre was founded by survivors in 1984.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Denial persists despite overwhelming evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We remember because a modern, educated society did this step by step, with laws and ordinary officials, while many looked away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson is to notice dehumanising language, scapegoating and the quiet removal of rights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Holocaust was Nazi Germany's deliberate murder of about six million European Jews, alongside millions of other victims.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Nuremberg trials and the birth of international criminal law.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1945 the leaders of a defeated regime were put on trial before the world for crimes so vast there were barely words for them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Nuremberg trials invented much of modern international law, and their critics raised questions we are still answering.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trial in the ruins.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 20 November 1945, twenty-one men sat in a wooden dock in a Nuremberg courtroom, among them Hermann Göring, once Hitler's designated successor, and Rudolf Hess, the former deputy leader.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of the city lay in ruins.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its Palace of Justice had survived with a prison attached, and Nuremberg had hosted the Nazi Party's huge rallies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Interpreters translated proceedings simultaneously into four languages, a novelty then.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some Allied leaders, at times including Winston Churchill, favoured simply shooting top Nazis.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others, especially in the United States, argued a trial would test the evidence, let the accused defend themselves and build a public record.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In August 1945 the United States, Britain, France and the Soviet Union signed the London Charter, creating the International Military Tribunal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New crimes, new words.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The London Charter set out the charges.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crimes against peace covered planning and waging wars of aggression.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "War crimes covered breaches of the laws of war, such as murdering prisoners or civilians in occupied territory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crimes against humanity covered murder, extermination, enslavement, deportation and persecution of civilians.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A count of conspiracy tied these together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crimes against humanity were especially important, because they reached acts a government committed against its own people, which traditional international law had largely ignored.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A related word was also coming into use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1944 the Polish-Jewish lawyer Raphael Lemkin had coined 'genocide' for the deliberate destruction of a people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was mentioned at Nuremberg, and in 1948 the United Nations adopted a convention against it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evidence and verdicts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The prosecution relied heavily on the Nazis' own documents, including orders, minutes and reports, and on film shot by Allied troops in liberated concentration camps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Survivors and former officials testified.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trial lasted almost a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 1 October 1946, twelve defendants were sentenced to death, including Martin Bormann, tried in his absence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seven received prison terms, from ten years to life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three were acquitted, which showed the judges were not simply backing the prosecution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tribunal rejected the defence of superior orders: following orders could reduce a sentence but did not excuse a crime.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Göring took his own life the night before the executions, which were carried out on 16 October 1946.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The case against Nuremberg.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even at the time, serious people had doubts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most common criticism was victors' justice: only the defeated were tried, while Allied actions such as the area bombing of German cities were never examined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Soviet Union's presence was awkward, since it had invaded Poland in 1939 alongside Germany, and its prosecutors tried to blame the Katyn massacre of Polish officers on the Germans, though the Soviets were responsible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tribunal did not convict on that charge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others argued crimes against peace were not clearly crimes when committed, breaching the principle that no one should be punished under a law made after the fact.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defenders replied that aggression had already been outlawed by treaty and that the atrocities were crimes under any civilised legal system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Nuremberg to The Hague.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Other trials followed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Tokyo tribunal tried Japanese leaders, with Australian judge Sir William Webb as president.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "American courts at Nuremberg held twelve further trials, and the doctors' trial produced the Nuremberg Code on ethical medical research.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cold War then froze the project until the 1990s, when the United Nations created tribunals for the former Yugoslavia and Rwanda.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Countries adopted the Rome Statute in 1998, and the permanent International Criminal Court began work in The Hague in 2002.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia ratified the Statute that year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nuremberg's lasting principle is that individuals, even heads of state, are personally responsible for the gravest crimes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Enforcement remains hard: courts depend on states to arrest suspects, and the United States, China and Russia are not ICC members.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1945 the Allies chose to put surviving Nazi leaders on trial in Nuremberg rather than simply execute them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Mao's China: the Great Leap and the Cultural Revolution.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Mao Zedong set out to transform China into a modern socialist power within a generation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two of his campaigns caused one of the deadliest famines in history and a decade of political terror.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victory, then a trap.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 1 October 1949, Mao Zedong proclaimed the People's Republic of China after the Communists beat Chiang Kai-shek's Nationalists, who retreated to Taiwan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many welcomed peace after decades of invasion, warlords and civil war.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Land reform gave land to peasants through public ‘struggle sessions’ in which many landlords were killed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Estimates of deaths in these campaigns range from several hundred thousand to several million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Private businesses were nationalised.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1956 Mao invited criticism: ‘let a hundred flowers bloom’.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When it turned to the party's right to rule, he reversed course.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1957 Anti-Rightist Campaign labelled about 550,000 people, many of them teachers, writers and scientists, as ‘rightists’, and many were sent to labour camps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Honest criticism became dangerous, and that silence had disastrous consequences.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Great Leap Forward.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1958 Mao launched the Great Leap Forward, aiming to overtake Britain in steel production within about fifteen years and to prove that mass enthusiasm could beat Soviet-style caution.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hundreds of millions of peasants were organised into vast people's communes, where private plots were abolished and families ate in communal canteens.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Millions of backyard furnaces consumed pots, pans and tools, and much of the steel they made was useless.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Farmers were pulled from the fields to work on furnaces and dams.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pseudo-scientific methods such as very close planting and deep ploughing were imposed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A campaign against the Four Pests killed huge numbers of sparrows, and crop-eating insects flourished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lies, quotas and famine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Local officials, terrified of being labelled rightists, reported fantastic harvests that never existed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The state took grain based on those false figures, leaving many villages with little or nothing to eat, while China continued to export grain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1959 Defence Minister Peng Dehuai privately criticised the Leap in a letter to Mao.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mao purged him, and the campaign was pushed even harder.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The famine of 1959 to 1961 followed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Estimates of excess deaths range from around fifteen million to more than forty million, and many demographers put it near thirty million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was largely caused by policy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the early 1960s, Liu Shaoqi and Deng Xiaoping quietly allowed private plots and markets again, and food production slowly recovered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cultural Revolution.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mao stepped back from running the economy but grew suspicious.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He believed the party was becoming a privileged elite, that the Soviet Union showed how a revolution could decay, and he resented his lost authority.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His cult of personality grew, helped by Defence Minister Lin Biao, whose army published the Little Red Book.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1966 Mao launched the Cultural Revolution, calling on young people to attack ‘bourgeois’ influences.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Red Guards waved the Little Red Book at huge Tiananmen Square rallies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They humiliated, beat and sometimes killed teachers and officials, and destroyed books, temples and historic sites in a campaign against the ‘Four Olds’: old customs, culture, habits and ideas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Liu Shaoqi was purged and died in custody in 1969.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deng Xiaoping was sent to work in a tractor factory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rival factions fought, and the army restored order.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sent down, and after Mao.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From 1968 Mao sent an estimated sixteen to seventeen million urban youths ‘down to the countryside’ to learn from peasants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many lost their education, an experience that shaped a generation, including Xi Jinping.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1971 Lin Biao, Mao's chosen successor, died in a plane crash in Mongolia after apparently fleeing a failed plot, though details remain murky.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Estimates of deaths in the Cultural Revolution range from hundreds of thousands to two million or more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mao died on 9 September 1976, and within a month the Gang of Four, including his widow Jiang Qing, were arrested.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deng Xiaoping then opened China to markets.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 1981 party resolution called the Cultural Revolution a catastrophe but said Mao's contributions outweighed his errors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research remains restricted, so estimates still vary.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: After winning power in 1949, Mao remade society by force, then punished the people who criticised him.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which description of the Holocaust is accurate?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Nazi Germany's organised murder of about six million Jews.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did some Allied leaders favour a trial over summary executions?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It would test the evidence and leave a public record.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What lesson did people take from the Anti-Rightist Campaign?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Open criticism of the party was dangerous.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

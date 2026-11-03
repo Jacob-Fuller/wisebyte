@@ -1,0 +1,1092 @@
+{
+ "id": "s-social-psych-2",
+ "title": "Social Psychology · Episode 2",
+ "chapters": [
+  "Obedience: the Milgram experiments",
+  "The bystander effect",
+  "Stockholm syndrome: the story behind a famous label",
+  "Groupthink"
+ ],
+ "units": [
+  {
+   "t": "Social Psychology. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Obedience: the Milgram experiments, The bystander effect, Stockholm syndrome: the story behind a famous label and Groupthink.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Obedience: the Milgram experiments.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ordinary people were told to give electric shocks to a stranger.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most kept going.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What this tells us, and doesn't, about obeying authority.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1961, Nazi official Adolf Eichmann was on trial in Jerusalem, claiming he had only followed orders.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That year, Yale psychologist Stanley Milgram began studying how far ordinary people would obey an authority who asked them to hurt someone.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He recruited men from New Haven through newspaper ads and paid them about four dollars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Volunteers played 'teacher' and were told to shock a 'learner' for each wrong answer, in 15-volt steps up to 450 volts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The learner was an actor who received no shocks but protested, screamed and then fell silent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the teacher hesitated, a stern experimenter used scripted prompts, ending with 'You have no other choice, you must go on.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychiatrists predicted perhaps one in a thousand would go all the way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shocking result.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the most famous version, 26 of 40 men, about 65%, continued to the maximum shock.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many were visibly distressed: sweating, trembling, stuttering, laughing nervously and pleading to stop, yet continuing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some asked who would take responsibility if the learner was hurt, and were told the experimenter would.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Milgram concluded that ordinary people can do terrible things when they feel an authority has taken responsibility.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called this the agentic state, where people see themselves as instruments carrying out someone else's wishes rather than acting on their own.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What changed obedience.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Milgram ran around 20 variations, and small changes made big differences.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When orders came by phone, full obedience fell to just over 20%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the teacher had to press the learner's hand onto a shock plate, it fell to about 30%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When two other 'teachers', actually actors, refused to continue, only about 10% went all the way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moving the study from prestigious Yale to a run-down office building lowered obedience only to just under half.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1966, Charles Hofling had an unknown 'doctor' phone nurses and order a dose twice the labelled maximum, against hospital rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Of 22 nurses, 21 were stopped on their way to give it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 1977 study with a familiar drug, where nurses could consult colleagues, saw almost all refuse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Criticisms and replications.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The study caused participants serious stress, and today's ethics rules wouldn't allow it in its original form.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian psychologist Gina Perry, studying Milgram's archives, found the experimenter sometimes went off script and pushed harder than reported, and some participants doubted the shocks were real.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alex Haslam and Stephen Reicher argue people continued not from blind obedience but because they identified with the scientific goal, since direct orders like 'You have no other choice' tended to make people stop.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Milgram also ran a version with 40 women and found the same 65%.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2009, Jerry Burger stopped at 150 volts, where the learner first demands release, and about 70% were willing to continue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2017 Polish study found similar results.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lessons for everyday life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Milgram's work reminds us that harmful acts often come from ordinary people in situations that push them, not only from monsters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's why institutions build in checks: militaries teach that clearly illegal orders must be refused, hospitals encourage nurses to question doctors, airlines train junior pilots to challenge captains, and workplaces set up whistleblower protections.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps to notice when you're telling yourself 'it's not my responsibility'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The variation where others refused is the hopeful part: one person saying no, out loud, makes it much easier for everyone else in the room to do the same.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Milgram set out to test how far ordinary people would obey an authority figure who told them to hurt someone, and experts badly underestimated it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The bystander effect.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When someone needs help, a crowd can make each person less likely to act.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why could make you the one who does.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A famous case.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 1964, Kitty Genovese was murdered outside her apartment in Queens, New York.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two weeks later, The New York Times reported that 38 neighbours had watched and done nothing, and the story shocked the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later investigations found the report was badly exaggerated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Far fewer people saw the attack, many only heard noises they didn't understand, at least one person called police, and a neighbour went down and held her as she was dying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the story, true or not, prompted psychologists John Darley and Bibb Latané to study carefully when and why people help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why crowds freeze.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1968 experiment, students filled in questionnaires as smoke poured through a vent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alone, about three-quarters reported it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With two strangers, actors told to ignore it, only about 1 in 10 did.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, many said they'd decided it was steam or harmless.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is pluralistic ignorance: everyone looks calm, so everyone concludes nothing is wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In another 1968 study, participants heard a student apparently having a seizure.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who thought they were the only listener almost always went for help, about 85% before the seizure ended.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who thought four others could also hear helped less often and more slowly, with only about a third acting that fast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is diffusion of responsibility: everyone assumes someone else will act.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why we don't help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darley and Latané described a chain of decisions: notice the event, interpret it as an emergency, decide it's your responsibility, know what to do, and decide to help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crowds interfere at every step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We're distracted, we look to others to judge how serious it is, we assume someone else will act, and we fear embarrassment if we've misread things.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First aid training helps at the 'know how' step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1973 study by Darley and Daniel Batson, seminary students walked to give a talk, some on the Good Samaritan, and passed a man slumped in a doorway, groaning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only about 10% of those told they were running late stopped, against about 63% of those with time to spare.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The talk's topic made little difference.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crowds can help too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2011 review led by Peter Fischer combined more than 50 bystander papers, covering over 7,000 people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It confirmed the bystander effect but found it weaker when an emergency was clearly dangerous, such as a violent attack.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In obvious danger, other bystanders become physical backup rather than a reason to hold back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And a large 2019 study led by Richard Philpot analysed surveillance footage of about 200 public disputes in the UK, the Netherlands and South Africa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In around 90% of incidents at least one bystander stepped in, and more bystanders meant a higher chance someone would help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On real streets, people are more helpful than the Genovese story suggests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breaking the spell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you need help, don't just shout into the crowd.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Point at one person: 'You in the blue shirt, call 000.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That removes the ambiguity and hands responsibility to one person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you're a bystander, remind yourself that others' calm isn't evidence nothing is wrong: they may be waiting for you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask the person if they're okay, and if in doubt, call 000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A first aid course, offered widely in Australia, builds the confidence to act.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research suggests that simply learning about the bystander effect makes people more likely to help, so you're already better prepared.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Kitty Genovese '38 witnesses' story was badly exaggerated, but it led psychologists to study when and why people help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Stockholm syndrome: the story behind a famous label.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1973 four bank hostages in Sweden seemed to side with their captors, and a new psychological condition was born.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But one hostage's own account of those six days tells a different story.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Six days in a vault.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 23 August 1973, Jan-Erik Olsson walked into a Kreditbanken branch on Norrmalmstorg square in central Stockholm, fired a gun and took bank staff hostage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He demanded that a well-known criminal, Clark Olofsson, be brought from prison to join him, and the authorities agreed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For six days the two men held four employees in the vault.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The siege ended on 28 August when police pumped tear gas into the vault.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No hostage was seriously injured.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What puzzled observers was the hostages' behaviour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They seemed to fear the police more than the robbers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After release, some stayed in contact with Olofsson.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A label is born.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nils Bejerot, a Swedish psychiatrist who advised police during the siege, suggested the hostages' attitude was a psychological reaction caused by captivity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The media called it 'Norrmalmstorg syndrome', soon known abroad as Stockholm syndrome.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the popular version, captives become attached to their captors and take their side.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The label became hugely famous the following year, when American heiress Patty Hearst was kidnapped and later took part in a bank robbery with her kidnappers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At her 1976 trial the defence argued she had been coerced and brainwashed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She was convicted, but her sentence was commuted and she was eventually pardoned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enmark's side.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hostage Kristin Enmark spoke by phone with Prime Minister Olof Palme during the siege.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She pleaded to be allowed to leave with the robbers, saying she trusted them and feared the police would get everyone killed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In later interviews, she has said the police seemed willing to risk the hostages' lives, while the robbers were the people physically present who could keep her safe minute by minute.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seen that way, staying on good terms with them looks less like a disorder and more like a survival strategy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics say the label shifted attention from the authorities' decisions to a young woman's supposed psychology.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thin evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Despite its fame, Stockholm syndrome does not appear in the major psychiatric diagnostic manuals, the DSM and the ICD.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There are no agreed diagnostic criteria.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers who have reviewed the literature found remarkably little systematic evidence for it, and much of what is written relies on a handful of famous cases and media reports.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies of hostage situations suggest strong positive bonds with captors are uncommon.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That doesn't mean captives never feel complicated emotions towards the people holding them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the popular idea of a well-defined syndrome, in which victims are reliably 'converted', rests on a thin foundation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Survival, not syndrome.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many researchers now describe these reactions as survival strategies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Being compliant, calm and friendly towards someone who controls whether you live can reduce the chance of violence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small kindnesses from a captor can produce real gratitude in a person under extreme stress.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Calling that a syndrome implies the victim's mind malfunctioned, when it may have been working hard to keep them alive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the phrase is often applied to people who stay in abusive relationships.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics, including researchers working with survivors of family violence, say this suggests victims are irrational, ignoring the fear, isolation and financial pressure that make leaving hard.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, call 000 in immediate danger, or 1800RESPECT on 1800 737 732.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The 1973 Stockholm siege became famous because the hostages seemed to fear the police more than their captors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Groupthink.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Smart people in a room together can make spectacularly bad decisions.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how it happens and how to stop it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What groupthink is.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "William Whyte coined the term in 1952, and psychologist Irving Janis developed the theory in his 1972 book 'Victims of Groupthink'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In groupthink, members care so much about agreement and loyalty that they stop questioning ideas, ignore warnings and fail to consider alternatives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each person may have private doubts but stays quiet, assuming everyone else is on board.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In April 1961, President John F.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kennedy's capable team approved a plan for about 1,400 Cuban exiles to invade Cuba at the Bay of Pigs, resting on doubtful assumptions such as a popular uprising.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It collapsed within about three days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adviser Arthur Schlesinger later admitted he'd had doubts but kept quiet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1962, Kennedy encouraged debate during the Cuban Missile Crisis and sometimes left the room.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warning signs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Janis listed eight symptoms.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The group believes it can't fail and that it is morally in the right.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It rationalises away warnings and stereotypes outsiders as weak, foolish or evil.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Members censor their own doubts, and direct pressure falls on anyone who disagrees, often framed as disloyalty.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some members act as 'mindguards', shielding the leader from bad news.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result is an illusion of unanimity: silence is taken as agreement, so everyone thinks everyone else is convinced.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Janis said groupthink is most likely in close-knit groups with a strong, directive leader, under time pressure and isolated from outside views.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When groups fail.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The night before the Challenger launch in January 1986, engineers at Morton Thiokol warned that rubber O-ring seals could fail in the cold.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under schedule pressure, managers overruled them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shuttle broke apart 73 seconds after lift-off, killing all seven crew.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later disasters, from Columbia in 2003 to corporate and banking collapses, show similar patterns: warnings from lower down ignored and a culture where raising problems felt risky.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A related problem was shown by Garold Stasser and William Titus in 1985.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Group members held split information about election candidates, and the best choice emerged only if they pooled it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Groups mostly discussed shared facts and often missed the best candidate.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asking each person what only they know can help.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Preventing groupthink.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Good leaders deliberately make disagreement safe.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Useful techniques include appointing a devil's advocate to argue the other side, rotating the role so nobody gets typecast, having the leader give their opinion last so others aren't anchored, asking people to write down views before discussion, bringing in outside experts, and splitting into subgroups to work separately.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Janis himself recommended a 'second-chance meeting': once a tentative decision is reached, the group meets again and everyone is invited to air any remaining doubts before it becomes final.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gives people permission to raise doubts without seeming disloyal, and it often surfaces risks nobody had mentioned.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Groupthink in daily life.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Janis built his theory mainly from historical case studies, chosen partly because they went wrong, which makes it hard to test fairly.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later studies give mixed support.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Directive leadership and isolation can lead to poorer decisions, but group closeness doesn't reliably predict bad outcomes, and close teams can decide well.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So groupthink is a helpful set of warning signs, not a precise scientific law.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It isn't just for governments.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Friend groups, sporting clubs, boards and online echo chambers can all fall into it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Value the person who asks awkward questions, seek out people who see things differently, and sleep on big decisions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treat quick, unanimous agreement on something important as a warning sign, because it may mean nobody has spoken up yet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In groupthink, the wish for agreement is so strong that members stop questioning ideas, as happened at the Bay of Pigs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How did experts' predictions compare with what Milgram found?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Experts expected very few to go all the way, but about 65% did.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did later investigations find about the Kitty Genovese '38 witnesses' story?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It was exaggerated, and some neighbours helped.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What puzzled observers about the hostages in the 1973 siege?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They seemed to fear the police more than their captors.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What did Kennedy change after the Bay of Pigs?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He encouraged debate and sometimes left the room.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

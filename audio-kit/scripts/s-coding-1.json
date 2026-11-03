@@ -1,0 +1,1188 @@
+{
+ "id": "s-coding-1",
+ "title": "Coding Basics · Episode 1",
+ "chapters": [
+  "Babbage, Lovelace and the first computer design",
+  "What code really is",
+  "How computers store letters and emoji",
+  "Algorithms, explained"
+ ],
+ "units": [
+  {
+   "t": "Coding Basics. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Babbage, Lovelace and the first computer design, What code really is, How computers store letters and emoji and Algorithms, explained.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Babbage, Lovelace and the first computer design.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the 1830s, long before electricity was in homes, a cranky English mathematician designed a programmable computer made of brass gears.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A young countess saw what it could become.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tables full of mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1800s, sailors, engineers, astronomers and bankers relied on thick books of mathematical tables: logarithms, tide times, star positions and interest calculations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People called 'computers', a job title long before it meant a machine, worked them out, and typesetters copied them by hand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Errors crept in at every stage, and a wrong digit in a navigation table could put a ship on the rocks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charles Babbage, a brilliant and famously argumentative English mathematician, was frustrated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By his own later story, while checking tables with his friend John Herschel, he wished steam could do the calculations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Difference Engine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1820s, Babbage designed a machine to produce tables mechanically.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It used the method of differences, which turns many formulas into repeated addition, something gears can do reliably.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It would even print results, removing copying errors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The British government funded it, and Babbage hired a skilled engineer, Joseph Clement.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A small working section impressed visitors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the machine needed thousands of precisely machined parts, and disputes over money and tool ownership plagued the project.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Work stopped in the early 1830s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By then Babbage had become distracted by a far more ambitious idea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Analytical Engine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Analytical Engine was designed to carry out any calculation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It had a 'store' for holding numbers and a 'mill' for arithmetic, roughly what we now call memory and a processor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instructions came on punched cards, an idea borrowed from the Jacquard loom, which wove complex patterns into silk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crucially, the machine could choose what to do next based on its own results, and repeat sets of instructions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those features mean it could follow programs, the defining trait of a computer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Babbage refined the design for decades, but the Analytical Engine was never built.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ada Lovelace's notes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Augusta Ada Byron was born in 1815, the only legitimate child of the poet Lord Byron, who left when she was a baby.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Her mother ensured she had an unusually strong education in mathematics and science.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around seventeen, Ada met Babbage and saw part of the Difference Engine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She was captivated, and later, as Countess of Lovelace, kept up a lively correspondence with him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1842, Luigi Menabrea published a paper describing the Analytical Engine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lovelace translated it and added notes about three times longer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Note G she set out a method to calculate the Bernoulli numbers, often called the first published computer program.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how much was Babbage's, but her notes were the clearest account of the time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beyond numbers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babbage mostly saw a powerful calculator.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lovelace saw more: the engine could manipulate any symbols whose relationships follow rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If musical sounds could be captured that way, she speculated, it might compose music.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She also cautioned that it could only do what it was instructed to do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1950, Alan Turing called this 'Lady Lovelace's objection'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She died in 1852, aged 36.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was Babbage too far ahead of his time, or were his designs flawed?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Science Museum in London built his Difference Engine No.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 from his drawings, using tolerances achievable in his era.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finished in 1991, it worked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A programming language, Ada, is named for her.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Babbage wanted machines to calculate error-free mathematical tables, because human 'computers' and typesetters let mistakes creep in.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. What code really is.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every app on your phone is just a very long, very precise recipe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once you see the five ingredients, software stops being magic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A recipe for machines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At its heart, code is a list of instructions written for a computer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Think of a recipe: preheat the oven, mix the flour and eggs, bake for 30 minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A computer follows instructions the same way, one step at a time, in order.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference is that a computer has no common sense.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A human cook will notice if the recipe forgets to say 'crack the eggs first'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A computer will happily throw the eggs in whole.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Programming is the craft of writing instructions so clear that something with zero judgement can still get them right.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first programmer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea is older than electronic computers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1843 the English mathematician Ada Lovelace published notes on Charles Babbage's Analytical Engine, a mechanical computer that was designed but never completed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her notes included a step-by-step method for calculating a sequence called the Bernoulli numbers, often described as the first published computer program.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She also saw that such a machine might one day work with music or symbols, not just numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today a modern car runs on millions of lines of code, but each line is still an instruction in the spirit of hers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Variables and conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Programs remember things with variables.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a pantry of labelled jars: 'sugar', 'flour', 'eggs left'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A variable is a labelled jar holding a value, such as a number, a word or a list.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A banking app might keep a variable called balance holding 250.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy a coffee and the program takes the value out, subtracts 5, and puts 245 back in the same jar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recipes also contain decisions: if the cake is still wet in the middle, bake it five more minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Code does this with conditions, usually written with 'if'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A thermostat program might say: if the temperature is above 24 degrees, turn on cooling; otherwise, leave it off.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rejecting a wrong password is a condition at work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loops and functions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody writes a recipe that says 'stir, stir, stir' 200 times; they write 'stir until smooth'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is a loop: repeating a block of steps a set number of times, or until a condition is met.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A music app loops through every song in a playlist.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An email program loops through thousands of messages looking for a search word.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Computers never get bored or tired.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many recipe books have a basic white sauce on one page, and other recipes just say 'make one quantity of white sauce'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In code that is a function: a named bundle of instructions you can call whenever needed, taking inputs and handing back a result.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A shopping app might have one that takes a price and a postcode and returns the delivery cost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Write it once, test it once, use it everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combine and try it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These few building blocks make everything from calculators to video games.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a step counter, a variable stores today's steps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A loop keeps checking the motion sensor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A condition asks whether the phone moved in a walking pattern, and if so adds one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A function turns steps into kilometres, and another condition checks whether you've hit your goal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large programs work the same way, organised into layers so teams can each work on one part.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To try it yourself, Scratch is a free tool from MIT where you snap together coloured blocks labelled 'repeat', 'if' and 'set variable' and watch a cartoon character obey.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Next time you use an app, try spotting where it remembers, decides or repeats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Code is a set of precise instructions that a computer follows exactly, step by step.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How computers store letters and emoji.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Computers only understand numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So how does a letter, a Chinese character or a laughing-crying face survive the trip from your phone to someone else's?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every letter is a number.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inside a computer there are no letters, only binary numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To store text, everyone must agree on a table mapping each character to a number.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Send 65 and a receiving computer using the same table shows a capital A.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early computers each had their own tables, so text from one machine could turn to gibberish on another.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1963 American standards bodies published the first version of ASCII, the American Standard Code for Information Interchange, refined over the following years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It used 7 bits, allowing 128 codes: English letters in upper and lower case, digits, punctuation and control codes, such as a 'bell' code that rang a bell on teleprinters.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ASCII was a huge success, but it was designed for English and left out most of the world's writing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Babel on the screen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computers usually store data in bytes of eight bits, which hold 256 values, so many systems used the spare 128 slots for accented letters, symbols or other alphabets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But different countries and companies filled the slots differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek, Russian, Hebrew and Western European text each had their own versions, and Chinese and Japanese, with thousands of characters, needed more complex schemes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Open a document using the wrong table and the numbers came out as the wrong characters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japanese users had a word for the jumble: mojibake, roughly 'character transformation'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone who has seen an apostrophe turn into a string like â€™ on a web page has met the same problem.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One code for all.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1980s, engineers including Joe Becker of Xerox and Lee Collins and Mark Davis of Apple began working on a universal solution.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Unicode Consortium was founded in 1991 and published the first version of the standard that year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its goal: one number, called a code point, for every character in every writing system, past and present.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Capital A is still 65, for compatibility with ASCII, and is written in Unicode as U+0041.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unicode now covers well over 150,000 characters across more than 160 scripts, including Arabic, Devanagari, Cherokee, Egyptian hieroglyphs and cuneiform.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New characters are added through a formal proposal process, and the standard is updated roughly once a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A design on a placemat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Giving characters numbers is only half the job; you also need a way to store them as bytes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One evening in September 1992, computer scientists Ken Thompson and Rob Pike, then at Bell Labs, sketched a scheme on a placemat in a New Jersey diner.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became UTF-8.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its elegance is that ordinary English text is stored exactly as in ASCII, one byte per character, so old files and programs keep working.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Other characters use two, three or four bytes, with bit patterns that clearly mark where each character starts, so software never mistakes part of one character for another.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "UTF-8 spread steadily, and today the great majority of web pages use it, a quiet but enormous victory for compatibility.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emoji arrive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emoji come from Japan: e means picture and moji means character.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The resemblance to 'emotion' is a coincidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1999 Shigetaka Kurita created 176 simple 12 by 12 pixel designs for NTT Docomo's mobile internet service, now held by New York's Museum of Modern Art, though another carrier had offered picture symbols slightly earlier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each carrier used its own codes, so emoji broke between networks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pressure from companies including Google and Apple led to emoji joining Unicode in 2010.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unicode gives each emoji a code point and name, such as U+1F602, 'face with tears of joy', but not the artwork, so Apple, Google and others draw their own.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skin tones attach as modifiers, and family emoji join several with an invisible zero-width joiner, so one picture can use seven or more code points.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Computers store text as numbers using a shared table, and ASCII was the first widely successful one, though only for English.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Algorithms, explained.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The word sounds futuristic, but it comes from a scholar in 9th-century Baghdad, and you use algorithms every time you look up a word or take the fastest route home.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What an algorithm is.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An algorithm is a precise method for getting something done.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "School long division is one: follow the steps and you get the answer every time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So is the way you find a name in a phone book.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Code is how an algorithm is written for a computer, but the algorithm is the idea behind it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A good one must be unambiguous, must finish, and must produce the right result.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word comes from al-Khwarizmi, a Persian mathematician working in Baghdad in the 9th century, whose books on calculation spread through Europe in Latin.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 300 BC, Euclid described a method for finding the largest number dividing two others.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is still taught and used inside some encryption that protects online banking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searching and sorting.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guess a number from 1 to 100, told 'higher' or 'lower' each time.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guessing 1, 2, 3 could take 100 tries.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guessing 50, then 25 or 75, halves the possibilities each time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is binary search, and it always finds the number within seven guesses.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among a million sorted items, it needs only about 20 steps.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It only works if items are in order, so computers spend much effort sorting.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bubble sort swaps neighbouring items that are out of order, repeating until none remain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It works but is painfully slow on big lists.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Merge sort splits the list in half, sorts each half, then merges them, like combining two sorted piles of exam papers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a million items, it can be tens of thousands of times faster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why efficiency matters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computer scientists care less about speed on ten items than about how the work grows as the data grows.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some algorithms double their work when the data doubles.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others quadruple it, and some grow so explosively that even the fastest supercomputer could not finish before the sun burns out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is why choosing the right algorithm often matters more than buying a faster computer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A clever method on an old laptop can beat a clumsy method in a data centre.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Programmers describe this growth with a notation called 'Big O'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maps and feeds.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a map app plots the fastest drive from Parramatta to Bondi, it solves a shortest-path problem.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roads become a network of points and connections, each with a travel time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1956 the Dutch computer scientist Edsger Dijkstra devised a method for this, reportedly in about 20 minutes at a cafe in Amsterdam.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern apps use faster descendants, plus live traffic from other phones, to reroute you around a crash.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 'the algorithm', people usually mean ranking systems on social media, video and shopping sites.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They use signals such as what you watched, liked, shared or lingered on to predict what you'll engage with.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early Google search used PageRank, which treated links as votes of importance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because feeds optimise for engagement, they can favour content that provokes strong emotions, which is a real and debated concern.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Algorithms in your life.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing how algorithms work gives you some control.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Feed algorithms learn from your behaviour, so deliberately following, muting and choosing 'not interested' changes what you see.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pausing on outrage teaches the system to show more of it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Algorithmic thinking also helps offline.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Looking for a lost item?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Search systematically, room by room, rather than randomly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Packing a car boot?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big items first is a simple algorithm that usually works well.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breaking a messy task into clear, repeatable steps is exactly what programmers do, and it works just as well in a kitchen or an office.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An algorithm is a clear, step-by-step method for solving a problem, and the idea exists apart from any code.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What problem was Babbage trying to solve?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Errors in hand-calculated, hand-copied tables.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why must programming instructions be so precise?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A computer has no common sense and does exactly what it is told.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did early text often turn to gibberish between computers?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each machine used a different character table.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What three things must a good algorithm do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Be unambiguous, finish, and give the right result.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

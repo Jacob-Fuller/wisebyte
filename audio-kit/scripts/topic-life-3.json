@@ -1,0 +1,1284 @@
+{
+ "id": "topic-life-3",
+ "title": "Life Skills Shorts · Episode 3",
+ "chapters": [
+  "Reading a map and compass",
+  "When someone dies: the practical steps",
+  "Cutting your power and water bills",
+  "Private health insurance, decoded"
+ ],
+ "units": [
+  {
+   "t": "Life Skills Shorts. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Reading a map and compass, When someone dies: the practical steps, Cutting your power and water bills and Private health insurance, decoded.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Reading a map and compass.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Phones die, satellites drop out and screens are hard to read in the rain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A paper map and a compass need no battery, and the skills to use them are surprisingly learnable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paper and scale.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phone navigation is brilliant until the battery goes flat in the cold, the screen cracks or you lose signal in a deep valley.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bushwalking clubs and search and rescue groups in Australia still advise carrying a paper map and compass, and knowing how to use them, as a backup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Navigating with a map also makes you read the land and notice ridges and creeks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People following a blue dot often have little idea of their surroundings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walking maps are usually topographic, with scales such as 1:25,000 or 1:50,000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a 1:25,000 map, one centimetre is 250 metres; on a 1:50,000 map, 500 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The larger the second number, the more ground the map covers and the less detail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Map distance is flat, so a steep kilometre takes longer than a level one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contours and grid references.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each contour line joins points of the same height, and the contour interval is in the legend.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Close lines mean steep ground; wide spacing means gentle ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stacked closed rings mark a hill or peak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "V or U shapes pointing uphill show a valley or gully, often with a creek.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pointing downhill, they show a spur, a ridge running down from higher ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A grid reference describes a location precisely, perhaps to rescuers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian topographic maps use the Map Grid of Australia, with vertical lines called eastings and horizontal lines called northings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give the easting first, then the northing: ‘along the corridor, then up the stairs’.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A four-figure reference identifies a grid square, usually one kilometre across.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Six figures estimate tenths within it, to about 100 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Norths and bearings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "True north is the geographic North Pole.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Grid north follows the map's vertical grid lines and is very close to true north.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magnetic north is where your compass points.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference is magnetic declination.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia it ranges from near zero in parts of Western Australia to over ten degrees east in the south-east.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maps print the declination.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ten-degree error over five kilometres puts you almost a kilometre off course.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To take a bearing, lay a baseplate compass's edge on the map joining where you are to where you are going, with its arrow pointing to the destination.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn the dial until the orienting lines parallel the grid lines, with the orienting arrow to the top of the map.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read the bearing, then correct for declination: where it is east, subtract it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walking on a bearing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold the compass flat with the direction-of-travel arrow pointing ahead.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn your whole body until the red, north end of the needle sits inside the orienting arrow, often remembered as ‘red in the shed’.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The arrow now points along your bearing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rather than staring at the compass, pick a distinct landmark in that direction, walk to it, then repeat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep the compass away from metal, phones, car bodies and power lines, which can pull the needle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Another technique is aiming off: when heading for a point on a creek or track, deliberately aim to one side so you know which way to turn on arrival.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A compass for here.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth's magnetic field also dips downward at an angle that changes with latitude.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A compass needle is weighted to cancel that dip in the region where it will be used.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A compass balanced for Europe or North America may tilt, drag on its housing and read sluggishly in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check it is balanced for the southern hemisphere or Australian zone, or choose a global needle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise somewhere safe and familiar, such as a local park or well-marked track, before relying on your skills in remote country.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And always tell someone your plans and carry an emergency beacon where there is no phone coverage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A paper map and compass never run out of battery, and a map's scale tells you real distances.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. When someone dies: the practical steps.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the middle of grief come phone calls, forms and decisions nobody prepares you for.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing the order of things can lift some of the weight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First hours and certification.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If someone dies suddenly or unexpectedly, or you are unsure whether they have died, call Triple Zero, 000, straight away.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Operators will guide you, and paramedics and often police will attend.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the death was expected, for example someone in palliative care at home, there is no need for an ambulance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contact their doctor or palliative care team, who will arrange for the death to be confirmed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is generally no requirement to have the body taken away immediately, so you can take time to sit with the person and call family.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before a funeral, a doctor must complete a medical certificate stating the cause of death.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sudden, unexpected, violent, accidental or unexplained deaths must be reported to the coroner, who may order a post-mortem or an inquest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coronial staff can explain each step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The funeral and registration.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most families engage a funeral director, who collects the person, helps arrange the service and usually lodges the details to register the death with the state or territory Registry of Births, Deaths and Marriages.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The registry then issues the official death certificate, which differs from the doctor's medical certificate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You will need it, or certified copies, for banks, super funds and insurers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check whether the person left wishes about burial, cremation or music.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A funeral can be religious or secular, large or small.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Funerals can cost many thousands of dollars, and grieving families may overspend out of love or guilt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get more than one quote, ask for itemised prices and consider simpler options such as direct cremation followed by a memorial gathering.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A calmer friend can join the meetings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Telling organisations.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A surprising number of organisations need to be told: Services Australia for Centrelink and Medicare, the Australian Taxation Office, banks, super funds, insurers, employers, utility and phone companies, and more.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The free Australian Death Notification Service, run with the state registries, lets you notify a number of participating organisations in one go once the death is registered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a list of who you have contacted, when and what they said.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many banks and large companies have dedicated bereavement teams who can make it gentler.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Redirecting mail and closing unused accounts also helps protect against criminals who misuse the identities of people who have died.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money and the estate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If there is a will, the executor it names manages the estate: gathering assets, paying debts and distributing what remains.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If there is no will, a close relative can apply to the court to be appointed administrator.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Until it is clear who has the authority, avoid giving away belongings or money, however obvious the wishes seem.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some things move outside the estate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jointly held bank accounts and property usually pass straight to the surviving owner, and super is paid by the fund's trustee, often following the member's nominations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many banks will pay funeral invoices directly from the deceased's account.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A final tax return is often needed, and solicitors and public trustees can help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looking after the living.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the first weeks the to-do list can feel endless, but very little has to happen immediately.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prioritise the essentials, such as the funeral and anything protecting the estate, and let the rest wait.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accept practical offers such as cooking, making calls or minding children, and consider putting one organised friend or relative in charge of the paperwork list.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grief comes in waves and can bring exhaustion, poor sleep and forgetfulness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talk with your GP if you are struggling, and know that grief support services and helplines exist.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are ever worried about your safety or someone else's, call 000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being kind to yourself is part of the work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Call 000 for a sudden death, but an expected death needs no rush, and some deaths must go to the coroner.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Cutting your power and water bills.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your energy bill is a story about heat: heating rooms, heating water and keeping food cold.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Read it properly and you can find real savings without living in the dark.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read your bill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look past the total on your electricity bill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The daily supply charge is a fixed amount you pay just to be connected.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The usage charge is a price per kilowatt hour, kWh, the unit your meter counts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One kWh is a 1,000 watt appliance running for an hour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time of use plans charge more at peak times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watch your average daily use as you make changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People often start by unplugging phone chargers, which is like skipping a mint while buying a new car.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In most Australian homes, heating and cooling are the biggest users, then water heating, then fridges, dryers and pool pumps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To find big users, multiply wattage by hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2,400 watt heater running five hours a night uses 12 kWh.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heating and cooling smarter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A reverse cycle air conditioner is a heat pump.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rather than turning electricity directly into heat, it moves heat from outside to inside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can deliver several units of heat for each unit of electricity, which typically makes it far cheaper to run than a plug-in bar or fan heater.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thermostat settings matter too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian energy agencies commonly suggest around 18 to 20 degrees in winter and 25 to 27 in summer, and each extra degree adds noticeably to running costs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat or cool only the rooms you use.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seal draughts around doors and windows with weather strips and door snakes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close curtains on winter nights, and block summer sun with external shading, which works better than internal blinds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hot water, fridge, standby.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every hot shower costs you twice: once for the water and again to heat it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A showerhead with a good Water Efficiency Labelling and Standards, WELS, star rating uses less hot water, and cutting a shower by a couple of minutes adds up over a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fix dripping hot taps quickly and wash clothes in cold water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your fridge runs all day, so keep it at around 3 to 4 degrees and the freezer around minus 18.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check the door seals by closing the door on a sheet of paper to see if it holds, and leave space behind for air.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An old second fridge in the garage can be surprisingly expensive to run.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walk through your home at night and count the glowing standby lights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Switch off consoles and spare devices at the wall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saving water.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A toilet with a slow leak into the bowl can waste a large amount of water without anyone noticing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Test yours by adding a few drops of food colouring to the cistern and waiting about 15 minutes without flushing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If colour appears in the bowl, the cistern is leaking and needs repair.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most plumbing repairs need a licensed plumber.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use the half flush button where you have one.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Run dishwashers and washing machines only when full, and look for good WELS star ratings when buying them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Outside, water the garden early in the morning or in the evening so less is lost to evaporation, and use mulch to keep soil moist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check local water restrictions and rebates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy smart, shop around.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Energy Rating Label shows a star rating and an estimated yearly energy use in kWh, the best number for comparing models of a similar size.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cheaper appliance with a poor rating can cost more over its life than a pricier efficient one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many households stay on the same plan for years and pay more than they need to.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compare plans every year or so.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The government's Energy Made Easy website, energymadeeasy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, compares offers in most states and territories, and Victoria has its own Victorian Energy Compare site.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask your retailer if they have a better plan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you hold a pension, health care or other concession card, ask about energy concessions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you are struggling to pay, contact your retailer early about hardship programs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Bills combine a daily supply charge with a price per kilowatt hour, and heating, cooling and hot water are the big users.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Private health insurance, decoded.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Gold, Silver, Bronze, extras, excesses and a mysterious loading after 30.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how private health insurance really works in Australia, so you can decide what you need.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medicare, choice and tax.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every Australian resident enrolled in Medicare can be treated free as a public patient in a public hospital.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So why do close to half of Australians hold private hospital cover?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mostly for choice and timing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a private patient you can usually choose your specialist and hospital, and elective surgery such as a knee reconstruction may happen sooner than on a public waiting list.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tax rules push some people towards cover as well.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Medicare Levy Surcharge is an extra tax on people above an income threshold who lack appropriate hospital cover.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separately, the Australian Government Rebate reduces premiums for many people, depending on income and age.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check current figures at ato.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether cover is worth it depends on your health, age, income and priorities.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hospital tiers and extras.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hospital cover pays towards your costs as a private patient, such as accommodation, theatre fees and part of the doctors' fees.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 2019, policies sit in four tiers: Gold, Silver, Bronze and Basic.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each must cover a minimum list of clinical categories.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gold covers all of them, including pregnancy and birth and joint replacements, while a cheap Basic policy may cover very little.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 'plus' label means extra categories.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare the treatments you might realistically need, not just the tier name or price.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extras pays part of the cost of services outside hospital, such as dental, physio and optical.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each service has a benefit amount and an annual limit, so you pay the rest.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add up what you actually spend, then compare it with the premium plus the gaps.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Excess, gaps, waiting periods.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two policies in the same tier can cost very different amounts because of the excess, the amount you agree to pay upfront if you are admitted to hospital.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A higher excess lowers your premium but raises your bill when you need care.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You may also face a gap, the difference between what a doctor charges and what Medicare and your insurer pay.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask your specialist and hospital about likely gaps before treatment, and whether they have an arrangement with your fund.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waiting periods apply when you first take out cover or upgrade.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are commonly up to 12 months for pre-existing conditions and pregnancy, and shorter for most other hospital treatment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the specifics before you need them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lifetime Health Cover loading.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lifetime Health Cover encourages people to join earlier.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you do not hold private hospital cover by 1 July following your 31st birthday, a loading of 2 per cent is added to your hospital premium for every year you are over 30 when you eventually join, up to a maximum of 70 per cent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone first joining at 40 would typically pay around 20 per cent more than someone who joined at 30.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The loading is removed after you have held hospital cover continuously for 10 years.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some exceptions exist, including for people who arrived in Australia later in life.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extras-only cover does not count towards avoiding the loading.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare and switch.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Insurers have thousands of policies, and names alone tell you little.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The government website privatehealth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, managed by the Commonwealth Ombudsman, lets you compare policies from all registered funds, and every policy has a standard information statement summarising what it covers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Commercial comparison sites can help, but they may not list every fund.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can switch funds.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you move to an equivalent level of hospital cover you generally will not serve the same waiting periods again, though upgrades may attract new ones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Review your cover each year, especially when life changes, such as planning a family or retiring.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have a dispute with your fund, the Commonwealth Ombudsman can help, free of charge.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tax agent can help you apply the tax rules to your situation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Private cover sits on top of Medicare, mainly for choice and timing, and tax rules also nudge people towards it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. On a 1:50,000 map, what does one centimetre represent?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. 500 metres.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What should you do first if a death is sudden or unexpected?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Call Triple Zero, 000,.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Which usually uses the most energy in an Australian home?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Heating and cooling.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What is a main reason Australians hold private hospital cover?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Choice of specialist and sooner elective surgery.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

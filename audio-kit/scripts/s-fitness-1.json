@@ -1,0 +1,1194 @@
+{
+ "id": "s-fitness-1",
+ "title": "Health & Fitness · Episode 1",
+ "chapters": [
+  "What exercise does for you",
+  "Cardio fitness",
+  "Strength training",
+  "Nutrition: what the evidence actually says"
+ ],
+ "units": [
+  {
+   "t": "Health & Fitness. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: What exercise does for you, Cardio fitness, Strength training and Nutrition: what the evidence actually says.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. What exercise does for you.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "If exercise were a pill, it would be the most prescribed medicine in the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You need less than you might think.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Closest to a wonder drug.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular physical activity lowers the risk of heart disease, stroke, type 2 diabetes, several cancers including bowel and breast cancer, depression, anxiety and dementia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It strengthens bones and muscles, improves sleep and helps manage weight and blood pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers often say that if exercise were a pill, it would be the most prescribed medicine in the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mind benefits too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2024 review in the BMJ found that walking, jogging, yoga and strength training were effective treatments for depression, especially at higher intensity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exercise also boosts attention and memory, partly through more blood flow and growth factors in the brain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It complements professional care; talk to your GP if you're struggling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every bit counts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't need a gym session for movement to count.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The World Health Organization dropped its old rule that activity only counts in blocks of ten minutes in 2020, because the evidence showed every bit helps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2022 University of Sydney study tracked more than 25,000 UK adults who didn't exercise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those who did three or four short bursts of vigorous activity a day, like charging up stairs or running for the bus, had up to 40% lower risk of early death.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was observational, so it can't prove cause.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To judge effort, use the talk test.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moderate: you can talk but not sing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vigorous: only a few words.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One minute of vigorous activity is worth about two of moderate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two exercise myths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Can you outrun a bad diet?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not easily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2012, anthropologist Herman Pontzer found that the Hadza, hunter-gatherers in Tanzania who walk and work physically all day, burned about the same calories as office workers in Europe and the US, once body size was accounted for.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He argues the body trims energy spent elsewhere, and many people eat more after exercise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So diet usually matters more for weight, though activity helps keep weight off and improves fitness, blood pressure, blood sugar and mood at any size.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 10,000-step target traces to a 1960s Japanese pedometer, the manpo-kei, '10,000-step meter'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Benefits begin well below it: about 7,000 steps is linked to far lower risk of early death than 2,000, with gains flattening beyond that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sitting less.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many of us sit for most of the day: commuting, working and relaxing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long, uninterrupted sitting is linked with poorer health, somewhat independently of how much you exercise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The guidelines recommend minimising prolonged sitting and breaking it up as often as possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simple habits help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stand for phone calls, take the stairs, or walk to talk to a colleague instead of emailing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Set a reminder to get up every 30 to 60 minutes, or use a standing desk for part of the day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making it stick.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best exercise is the one you'll actually do.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choose activities you enjoy, whether that's walking with a podcast, dancing, swimming, gardening, a team sport or lifting weights.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start small, even ten minutes a day, and build gradually to avoid injury and burnout.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Schedule it like an appointment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exercising with a friend or group makes you more likely to turn up, and exercising outdoors or with others adds benefits from nature and social connection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have a health condition or haven't exercised in a long time, check with your doctor first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An accredited exercise physiologist can also help.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Regular activity lowers the risk of many serious diseases and is an effective part of treating depression.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Cardio fitness.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your heart is a muscle that answers to training.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How fit it is may say more about your future health than almost any other number.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Training your delivery system.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cardiovascular exercise is any sustained activity that raises your heart rate and breathing: brisk walking, cycling, swimming, running, rowing, even vigorous gardening.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It trains a whole delivery system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With regular training, the heart pumps more blood with each beat, so it can beat less often.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscles grow more tiny blood vessels, called capillaries, and more mitochondria, the structures inside cells that turn oxygen and fuel into energy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why a trained person's resting heart rate is often lower.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A typical adult rests somewhere between 60 and 100 beats per minute, and many endurance athletes rest in the 40s or 50s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fitness and long life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heart disease is one of the leading causes of death in Australia, and regular aerobic exercise is one of the most reliable ways to reduce the risk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It lowers blood pressure, improves cholesterol and makes the body more sensitive to insulin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Active people also have lower rates of stroke, type 2 diabetes, depression and some cancers, including bowel and breast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Benefits start within a week or two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "VO2 max is the most oxygen your body can use in hard exercise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Labs measure it with a mask; smartwatches estimate it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large observational studies link higher fitness with longer life, and low fitness carries a risk comparable to smoking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "VO2 max declines with age, but training slows the fall, and the biggest gains come when an inactive person starts moving.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easy and hard effort.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trackers divide effort into zones of your maximum heart rate.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rough estimate of maximum is 220 minus your age, though real maximums vary by 10 or more beats.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Easy, conversational effort, zone 2, sits at about 60 to 70% of maximum.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moderate intensity runs up to about 76%; vigorous is above.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wrist readings can lag or jump, so many coaches also use a 0 to 10 effort scale, where zone 2 feels like a 3 or 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many endurance coaches use polarised training: about 80% of sessions easy, 20% hard.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hard intervals, such as four bouts of four minutes at high effort, raise fitness efficiently, and HIIT suits people short on time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best ratio is debated, but mostly easy with some hard is well supported.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2026 guidelines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 2026, Australia replaced its physical activity guidelines with 24-hour movement guidelines covering activity, sitting and sleep.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adults of all ages should do 30 minutes or more of moderate to vigorous activity on most days, adding up to about two and a half hours a week, plus several hours of light activity, such as pottering around the house or garden.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For adults aged 18 to 64 who track their steps, the target is 7,000 or more a day.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muscle strengthening on two or more days, and balance and mobility work on three or more, round out the week.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starting safely.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most people, moderate activity like walking is very safe, and the risks of staying inactive are far greater.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have a heart condition, chest pain, dizziness, unexplained breathlessness or other chronic health issues, speak with your GP first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exercise and Sports Science Australia publishes a short pre-exercise screening questionnaire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stop and seek medical help if you feel chest pain or pressure, severe breathlessness or faintness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Begin with sessions you can finish comfortably and add a little each week.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best cardio is what you keep doing: brisk walking, swimming, cycling, walking part of your commute, or parkrun, which welcomes walkers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tracking minutes rather than distance keeps beginners patient.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A GP or accredited exercise physiologist can tailor a plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Cardio trains your heart, lungs, blood vessels and muscles to deliver and use oxygen more efficiently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Strength training.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Muscle is not vanity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is what lets you climb stairs, carry shopping and get up off the floor at 85.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strength at every age.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From around your 30s, you gradually lose muscle mass and strength unless you act, and the loss speeds up after about 60.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Severe age-related muscle loss is called sarcopenia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It raises the risk of falls, fractures and losing independence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strength training is the most effective way to slow or reverse it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also improves blood sugar control, supports healthy bones and joints, and makes everyday tasks easier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People in their 80s and 90s can still build meaningful strength with supervised training.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Grip strength, a simple measure of overall strength, is linked with longer life in large studies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscles, bones and blood sugar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muscle and bone both respond to load.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you lift something challenging, muscle fibres are stressed, then rebuild stronger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bones adapt to the forces placed on them too, which is why resistance and impact exercise help prevent osteoporosis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An Australian trial at Griffith University, called LIFTMOR, found that carefully supervised heavy resistance and impact training improved bone density in postmenopausal women with low bone mass.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscle is also the body's biggest store for glucose from food, so more muscle helps keep blood sugar steady.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The metabolism boost is often overstated, though: each kilogram of muscle burns only slightly more energy at rest than fat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Overload and compound lifts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The core principle is progressive overload.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your body adapts to the demands you place on it, then stops once a load feels easy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To keep improving, add challenge gradually: a little weight, an extra rep or set, a slower movement, or less rest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you can do 10 good squats with a 10 kg dumbbell, aim for 12 next week, then move to 12 kg.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscles can grow across loads from about 6 to 30 repetitions, if sets finish close to fatigue.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compound lifts give the most return: the squat, deadlift or hip hinge, bench press or push-up, overhead press, and row or pull-up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Machines, dumbbells, bands and bodyweight all work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learn technique with light weights first, ideally with a qualified coach.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How often, and recovery.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's 24-hour movement guidelines, updated in 2026, recommend muscle strengthening on at least two days a week for adults, plus balance and mobility work on three or more days, which matters most later in life for preventing falls.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two full-body sessions of 30 to 45 minutes are enough for most beginners.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with one exercise per major movement pattern, two or three sets each, stopping with one to three reps in the tank.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Training is the stimulus; recovery is when you get stronger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many plans leave about 48 hours before hitting a muscle group hard again, and sleep matters because repair is active overnight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soreness a day or two later is normal and no measure of a good session.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sharp, joint or persistent pain is worth checking with a physiotherapist or doctor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protein and myths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muscles are built from protein.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's baseline is about 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "84 grams per kilogram of body weight a day for men and 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "75 for women, rising for people over 70.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For people who lift, benefits for muscle growth tend to level off near 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 grams per kilogram.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A serve of 20 to 40 grams at each meal seems helpful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eggs, meat, fish, dairy, tofu, legumes and nuts all count; protein powder is convenient, not essential.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several myths keep people out of the weights room.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Building large muscles takes years of deliberate training, so women won't get bulky by accident.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can't burn fat from one spot, so crunches alone won't flatten a stomach.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supervised strength training is safe for teens and doesn't stunt growth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have a health condition, talk to your doctor first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Strength training slows age-related muscle loss and protects bone, blood sugar control and independence at every age.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Nutrition: what the evidence actually says.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ignore the fads.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The science of eating well is simpler, and less exciting, than the internet suggests.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cut through the noise.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One week coffee is bad for you, the next it's good.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nutrition is genuinely hard to study.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We can't lock people in labs for decades, so much evidence is observational, showing links but not always causes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Headlines amplify single small studies, and influencers sell fads.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the big picture is steady.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Australian Dietary Guidelines, based on a large review of evidence, recommend a wide variety from five groups: vegetables and legumes; fruit; mostly wholegrain grain foods; lean meats, fish, eggs, tofu, nuts and legumes; and milk, yoghurt, cheese or alternatives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Limit foods high in saturated fat, added salt and sugars, and limit alcohol.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drink plenty of water.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's not glamorous, but it's backed by a mountain of evidence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vegetables and fibre.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adults are advised five to six serves of vegetables and two of fruit a day.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A serve is about half a cup of cooked vegetables or a cup of salad.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet fewer than one in ten Australian adults eat enough vegetables.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plant foods provide vitamins, minerals and beneficial plant compounds, and are linked with lower risks of heart disease, stroke and some cancers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For most people, eating more of them is the single most useful change.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also provide fibre, the part of plant food your body can't fully digest, which is why it helps.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fibre keeps bowels regular, helps you feel full, slows sugar absorption and feeds gut bacteria.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aim for about 25 grams a day for women and 30 for men.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wholegrains, legumes, nuts and seeds are good sources.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Processed food and labels.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ultra-processed foods are industrially made products, often with ingredients you wouldn't use at home, like flavour enhancers, emulsifiers and modified starches.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Think soft drinks, packaged snacks, confectionery and reconstituted meats.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They make up around 40% of the energy in the average Australian diet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large studies link high intakes with higher risks of obesity, heart disease, type 2 diabetes and depression, though scientists still debate why.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On labels, compare similar products using the 'per 100 g' column, since serving sizes vary.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ingredients are listed by weight, so sugar near the top means a lot, and it hides behind aliases like glucose syrup or dextrose.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One food Calorie is about 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 kilojoules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Health Star Rating is a quick guide, but not perfect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths worth dropping.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some popular beliefs don't hold up.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Detox' products are unnecessary, because your liver and kidneys do that job.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most healthy people eating a varied diet don't need vitamin supplements, though some groups do, such as people who are pregnant or have specific deficiencies; ask a doctor.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's no need to drink exactly eight glasses of water a day.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fluid needs vary, food provides some, and thirst is a reasonable guide for most healthy adults.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And no single 'superfood' transforms your health: patterns matter more than individual foods.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make it sustainable.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best eating pattern is one you can keep up.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strict diets often fail because they're hard to sustain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small changes add up: add a vegetable to every meal, swap sugary drinks for water, choose wholegrain bread, keep fruit where you'll see it, cook at home a bit more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Focusing on what to add, rather than only what to cut, tends to feel better and works well.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For personalised advice, especially with a health condition, an Accredited Practising Dietitian is the qualified professional to see.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Nutrition headlines flip because the science is hard, but the big picture is stable: eat a variety of whole foods and limit saturated fat, salt and sugar.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did a 2024 review find about physical activity and depression?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Walking, jogging, yoga and strength training all helped.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is a trained person's resting heart rate often lower?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each beat moves more blood, so fewer are needed.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does strength training matter as we get older?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It slows muscle loss and lowers fall risk.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why do nutrition headlines so often contradict each other?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Much evidence is observational, and single small studies get amplified.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

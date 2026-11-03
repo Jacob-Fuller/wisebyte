@@ -1,0 +1,1001 @@
+{
+ "id": "s-mind-bending-maths-2",
+ "title": "Mind-Bending Maths · Episode 2",
+ "chapters": [
+  "Every shuffle is history: the astonishing size of 52",
+  "The seven bridges puzzle and the maths of networks",
+  "I cut, you choose: the maths of fair sharing"
+ ],
+ "units": [
+  {
+   "t": "Mind-Bending Maths. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Every shuffle is history: the astonishing size of 52, The seven bridges puzzle and the maths of networks and I cut, you choose: the maths of fair sharing.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Every shuffle is history: the astonishing size of 52.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Shuffle a pack of cards properly and you have almost certainly created an order that no one in history has ever held.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The maths behind that claim is simple and staggering.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fifty-two factorial.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three books can be arranged 3 × 2 × 1 = 6 ways; four, 4 × 3 × 2 × 1 = 24.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This multiplying-down pattern is a factorial, written 4!.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christian Kramp introduced the notation in 1808.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ten books give 3,628,800 orders, and twenty give more than two quintillion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a pack of 52 cards, 52!",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "is roughly 8 × 10⁶⁷, a number 68 digits long that begins 8065.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imagine all eight billion people alive today shuffling once a second since the Big Bang, about 13.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 billion years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They would have made roughly 3.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 × 10²⁷ decks, less than a billionth of a billionth of a billionth of all possible orders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost certainly a first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A well-shuffled deck is almost certainly in an order that has never existed before.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The catch is the word ‘well’.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A new pack comes in set order, and a couple of lazy shuffles leave much of it intact.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uniqueness applies only when all 52!",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "orders are equally likely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How many shuffles is enough?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1992 Dave Bayer and Persi Diaconis analysed the riffle shuffle, where you split the deck and let the halves fall together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deck stays noticeably ordered at first, then becomes well mixed quite suddenly at around seven shuffles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More adds little.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The overhand shuffle is far weaker: one analysis suggested thousands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diaconis left home as a teenager to travel as a magician before becoming a professor of statistics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The perfect shuffle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skilled magicians can cut a deck into two exact halves of 26 and interleave them perfectly, one card from each side in turn.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the out-shuffle, the top card stays on top.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do it once and the deck looks mixed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep going and something surprising happens: after exactly eight perfect out-shuffles, a 52-card deck returns to its original order.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magicians use this predictability to make a pack look mixed while knowing where every card is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The lesson is that mixing depends on randomness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A shuffle that is too precise is just a permutation, a fixed rearrangement, and repeating a fixed rearrangement enough times brings you back to where you began.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When order doesn't matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes order does not matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A five-card poker hand is the same hand whatever order you pick the cards up in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To count hands, start with 52 × 51 × 50 × 49 × 48 ordered ways to deal five cards, then divide by 5!",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", the 120 ways of rearranging the same five.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That gives 2,598,960 possible hands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same idea measures lotteries.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A game where you choose 6 numbers from 45 has 8,145,060 combinations, so one entry has about a one in eight million chance of the top prize.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This kind of counting is called combinatorics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It tells you plainly how long the odds are, and why a lottery ticket is entertainment, not a plan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why big numbers protect us.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Explosive growth in possibilities protects you every day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A four-digit PIN has only 10,000 possibilities, which is why banks lock a card after a few wrong guesses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A long password made of several random words has vastly more, because each extra word multiplies the total.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern encryption relies on keys chosen from so many possibilities that trying them all would take longer than the age of the universe, even with enormous computing power.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same principle that makes a shuffled deck unique makes a properly chosen key unguessable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The practical takeaway: length and genuine randomness matter far more than clever substitutions, such as swapping the letter o for a zero.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: A pack of 52 cards can be ordered in about 8 followed by 67 zeros ways, far more than all shuffles ever made.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The seven bridges puzzle and the maths of networks.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the 1700s, people in a Prussian city wondered whether they could stroll across all seven of its bridges exactly once.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answer started a branch of maths that now guides your phone's maps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A stroll in Königsberg.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The city of Königsberg, in what was then Prussia, sat on the River Pregel.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The river split around two islands, and seven bridges linked the islands to each other and to the two riverbanks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Residents enjoyed a puzzle: could you walk through the city and cross every bridge exactly once?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You could start and finish anywhere, but no swimming, no boats and no turning back halfway across a bridge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody could find a route, but nobody could prove none existed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1736 the Swiss mathematician Leonhard Euler, then working in St Petersburg, took up the problem.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His answer to this small local puzzle launched a whole new field.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Königsberg is now Kaliningrad, part of Russia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dots, lines and parity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Euler threw away almost everything about the map.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bridge lengths and island shapes made no difference.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only which land areas connected, and by how many bridges, mattered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He shrank each land area to a point and each bridge to a line.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today this diagram is called a graph, with nodes, points, and edges, lines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This focus on connections grew into graph theory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think about passing through a place mid-walk: you arrive by one bridge and leave by another, so bridges are used in pairs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only the start and end can have an odd number.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Königsberg, one island had five bridges and the other three areas had three each.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four odd points made the walk impossible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drawing the house.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try drawing a house, a square with both diagonals and a triangular roof, without lifting your pen or retracing a line.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Count the lines at each corner.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The top corners of the square have four each and the roof peak has two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two bottom corners have three each.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exactly two odd points means it can be done, but only by starting at one bottom corner and finishing at the other.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start anywhere else and you get stuck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of old Königsberg was destroyed in the Second World War, and several bridges were lost or replaced.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With the bridges standing today, only two land areas have an odd number, so a walk crossing each exactly once is now possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Networks everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A road map is a graph, with intersections as points and roads as lines labelled with distances or times.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When your phone suggests the fastest route, it is searching a vast graph.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A classic method was devised by the Dutch computer scientist Edsger Dijkstra in 1956, reportedly in about 20 minutes at a café.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electricity grids, web links and the internet are graphs too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Social networks are graphs of people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s Stanley Milgram asked volunteers to pass letters towards a target in Boston through acquaintances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those that arrived took around six steps, though many never arrived.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1998 Duncan Watts and Steven Strogatz showed that mostly local friendships plus a few long-range links make 'small worlds'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2016 Facebook analysis found users about 3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 steps apart on average.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four colours suffice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1852 a young British graduate, Francis Guthrie, was colouring a map of England's counties and noticed he never needed more than four colours to keep neighbours different.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Could any map, however complicated, manage with four?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turn the map into a graph, with regions as points and shared borders as lines, and it becomes a question about networks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem resisted proof for over a century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1976 Kenneth Appel and Wolfgang Haken at the University of Illinois finally proved it, but only by having a computer check nearly two thousand special cases, far too many for a person to do by hand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some mathematicians were uneasy about a proof no human could fully check.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the theorem is accepted, and computer-assisted proofs are a normal tool.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A local puzzle about crossing seven bridges once each launched a new kind of maths.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. I cut, you choose: the maths of fair sharing.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two children and one cake have a perfect solution that is thousands of years old.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Add more children and mathematicians needed until 2016 to finish the job.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "I cut, you choose.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two siblings, one slice of cake, and an argument brewing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The classic solution is simple: one cuts, the other chooses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cutter has every reason to make the pieces equal in their own eyes, because they get whichever piece is left.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chooser takes the piece they prefer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neither can reasonably complain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea is ancient.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Book of Genesis, Abraham proposes dividing the land between himself and Lot, and lets Lot choose.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematicians admire it because it works even when people value things differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One sibling may care about the icing and the other about size.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody needs to agree on what fair means or trust anybody else's judgement.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two kinds of fairness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A division is proportional if each of n people gets what they consider at least one nth of the total.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is envy-free if nobody would rather swap their share for another's.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For two people these are the same.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With three or more they differ: you may think you got a fair third yet feel someone else did better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1940s Hugo Steinhaus, Stefan Banach and Bronisław Knaster devised the last diminisher method.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first person cuts a slice they think is fair.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone who thinks it too big may trim it, and the last person to trim takes it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rest continue with what remains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is proportional, but not envy-free.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three people, then many.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1960 John Selfridge found an envy-free method for three people, and John Conway independently found it in the early 1990s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is now called the Selfridge–Conway procedure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly, the first person cuts three equal pieces.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second trims the biggest to tie with the second biggest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The third picks first, the second picks next, and the first takes what remains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second round shares the trimmings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody prefers anyone else's total, in at most five cuts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For four or more people it was far harder.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1995 Steven Brams and Alan Taylor published an envy-free procedure for any number of people, but it had no upper limit on cuts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2016 Haris Aziz and Simon Mackenzie found a bounded method, though it needs astronomically many steps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It proves fairness is possible, not that it is practical.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Splitting the rent.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fair division is not just about cake.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Housemates sharing a place with a big sunny room, a small room and a room near the noisy road must divide a rent bill as well as the rooms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1999 the mathematician Francis Su published a method, building on others' work, that uses a result called Sperner's lemma.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It shows there is always a way to set the rents so that each person prefers their own room at its price.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Online tools now use these ideas to split rent, chores and shared costs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fairness flips when the thing shared is unpleasant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With chores, the cutter divides the jobs into two loads they find equally heavy, and the chooser takes the lighter one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fairness under the sea.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most surprising use of divide-and-choose may be international law.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under the United Nations Convention on the Law of the Sea, agreed in 1982, a company or country wanting to mine the deep seabed beyond national borders proposes an area large enough for two mining operations, split into two parts of similar estimated value.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The International Seabed Authority then chooses one part to reserve for itself or for developing countries, and the applicant may work the other.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The applicant has every reason to divide fairly, just like the child cutting the cake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nursery rule has become a tool of diplomacy, showing that good mechanisms, rather than trust or goodwill, can make sharing work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Divide and choose works because the cutter gets whichever piece is left, so they have every reason to cut fairly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does a pack of 52 cards have so many possible orders?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Choices shrink: 52, then 51, then 50 ….",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was the Königsberg bridge puzzle?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Whether one walk could cross all seven bridges once.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why does ‘I cut, you choose’ encourage the cutter to be fair?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The cutter gets whichever piece is left.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

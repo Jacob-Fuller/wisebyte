@@ -1,0 +1,1284 @@
+{
+ "id": "s-hands-on-1",
+ "title": "Hands-On Life Skills · Episode 1",
+ "chapters": [
+  "DIY basics: your toolkit and first fixes",
+  "Six knots worth knowing",
+  "Mending clothes: buttons, seams and holes",
+  "Cleaning smarter: the science of stains"
+ ],
+ "units": [
+  {
+   "t": "Hands-On Life Skills. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: DIY basics: your toolkit and first fixes, Six knots worth knowing, Mending clothes: buttons, seams and holes and Cleaning smarter: the science of stains.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. DIY basics: your toolkit and first fixes.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Hanging a mirror, patching a hole and fixing a sticking door are well within reach.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing which jobs to leave to a licensed tradie is just as important.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build a starter toolkit.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You do not need a shed full of gear to look after a home.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A good starter kit fits in one toolbox.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Include a claw hammer, screwdrivers with both flat and Phillips heads, a tape measure, a spirit level, a utility knife with spare blades, pliers and an adjustable spanner.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cordless drill driver is the single most useful power tool, since it both drills holes and drives screws.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Add a stud finder, a pencil, sandpaper, a putty knife and a selection of screws and wall plugs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety gear belongs in the kit too: safety glasses, gloves and a dust mask.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy decent quality basics rather than a giant bargain set of flimsy tools, and keep everything together so you are not hunting for the hammer every time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your limits.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most DIY injuries come from ordinary moments: a slip on a ladder, a chip of masonry in the eye.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wear safety glasses whenever you drill, hammer or cut, and keep three points of contact on ladders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remove the battery before changing bits or blades.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In homes built or renovated before 2004, some materials may contain asbestos, including some wall and ceiling sheeting, eaves and vinyl floor tiles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You cannot identify it by looking, so do not drill, cut or sand anything you suspect, and get it tested.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In every state and territory, electrical wiring work, including replacing a power point, must be done by a licensed electrician.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gas fitting needs a licensed gasfitter, and most plumbing needs a licensed plumber.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unlicensed work can be dangerous, illegal and may affect your insurance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drilling into walls.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most Australian homes have plasterboard walls fixed to timber or steel studs, commonly spaced about 450 or 600 millimetres apart.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pipes and electrical cables also run inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cables often travel straight up or down from power points and switches, so avoid drilling directly above or below them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A stud finder with cable detection helps, but it is not foolproof, so drill carefully and stop if you hit something unexpected.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For heavy items such as shelves, mirrors and wall mounted televisions, screw into the studs where possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where there is no stud, use plasterboard anchors rated for the weight, as an ordinary screw will simply pull out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brick and concrete walls need a masonry drill bit and wall plugs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patching holes, fixing doors.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For small holes and dents in plasterboard, press ready mixed filler into the hole with a putty knife and scrape it level.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many fillers shrink as they dry, so a second thin coat may be needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once dry, sand gently, wipe off the dust and paint to match.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holes bigger than a coin need a self adhesive mesh patch first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Renters should check their lease before making holes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A squealing door usually needs lubricant on the hinge pin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a door sticks, check the hinges before reaching for a plane, as loose screws let it sag.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a screw just spins, pack the hole with matchsticks and wood glue, snap them off flush, and drive the screw back in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crooked cabinet doors usually have adjustable hinges.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sealing wet areas.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look at the sealant where your bath or shower meets the wall.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If it is black with mould, cracked or peeling, water can seep behind it and damage the wall and floor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resealing is a satisfying weekend job.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cut away the old sealant with a sharp blade or a removal tool, clean the joint thoroughly and let it dry completely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Apply masking tape on either side for a clean edge, then run a steady bead of mould resistant bathroom silicone along the gap.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smooth it with a wet finger or a shaping tool and peel the tape away straight away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Let it cure for the time stated on the tube before using the shower.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good ventilation afterwards keeps the new seal fresh for longer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A small set of quality tools, with safety gear, handles most household jobs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Six knots worth knowing.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most people know one knot and use it for everything.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sailors, climbers and truckies know better, and a handful of knots will cover almost anything you need.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Terms and the reef knot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knot instructions use a small vocabulary.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The working end is the end you move to tie the knot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The standing part is the rest of the rope, often the part under load.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bight is a U-shaped fold, and a loop is a bight where the rope crosses itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost every knot weakens a rope, so climbing or lifting people needs proper training.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reef knot, or square knot, is right over left, then left over right.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It lies flat, so it suits bandages, slings and parcels.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get the second step wrong and you have a granny knot, which slips.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To join two ropes under strain, a sheet bend is far more secure, because a reef knot can capsize.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bowline.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pronounced ‘boh-lin’, the bowline has been called the king of knots.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It forms a loop at the end of a rope that does not tighten or slide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes it useful for tying a rope around a tree or post, or, in a rescue, a person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children learn it with a story: make a small loop, then the rabbit, the working end, comes up out of the hole, around the tree and back down the hole.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After taking a heavy load, a bowline can still be loosened by pushing the collar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its weakness is that it can work loose when not under load, so climbers usually prefer a figure-eight loop.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tying to a post.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The clove hitch is two turns around a pole, the second crossing over the first and tucked under itself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is fast to tie and easy to adjust and undo.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It secures boat fenders, starts lashings and ties off tent lines and garden stakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is not set-and-forget: if the post rotates or the load changes direction, it can work loose.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long-term tie, add half hitches.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a rope is already under tension, perhaps from a boat drifting away, use a round turn and two half hitches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pass the rope around the object twice, so friction takes most of the load.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then make a half hitch around the standing part, and repeat it in the same direction.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is strong, secure and easy to untie after a strain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boaties use it for mooring.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stoppers and tensioners.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A stopper knot keeps a rope from escaping.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An overhand knot works but can jam tight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The figure-eight is better: make a loop, pass the end around the standing part, then back through the loop.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is bulkier, so it is less likely to pull through, and easier to untie.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sailors use it on lines, and it suits drawstrings and clotheslines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Threaded back along itself, it forms the loop climbers rely on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trucker's hitch works like a simple pulley.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Make a fixed loop partway along the rope, pass the working end around an anchor point such as a tie-down hook, then back through the loop.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mechanical advantage is theoretically about three to one, though friction reduces it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pinch it, secure with two half hitches, and recheck the load after a few kilometres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise until hands know.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reading about knots is a little like reading about swimming.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It only sticks once you have done it many times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a short length of rope near the couch and tie each knot while watching television until you can do it without looking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then practise in awkward conditions: with the rope behind a post, in the dark, or with cold hands.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is when you will actually need it, while a tarp flaps in a storm or a boat drifts from the jetty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with the bowline, the clove hitch and the round turn with two half hitches.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those three alone will handle most everyday jobs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Learn the basic rope terms, and remember the reef knot suits bandages and parcels but not joining ropes under load.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Mending clothes: buttons, seams and holes.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A missing button or a split seam sends a lot of good clothing to landfill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ten minutes with a needle and thread can save it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make do and mend.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the Second World War, clothing in Britain was rationed, and in 1943 the government published a booklet called Make Do and Mend.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It taught people to darn socks, patch elbows and make clothes last, as people always had.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today clothing is cheap and huge amounts end up in landfill, often for faults that take minutes to fix.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mending is returning to save money, reduce waste and, for many people, to calm the mind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A useful kit fits in a small tin: hand-sewing needles, thread in black, white, navy, grey and beige, pins, small sharp scissors, safety pins and spare buttons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A seam ripper makes unpicking easy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If unsure of a colour, choose slightly darker thread, which shows less.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thread and buttons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cut thread about as long as your arm, as longer lengths tangle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For jobs that take strain, pull the thread through until the ends meet and knot them, so you sew with a double strand.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finish with a few small stitches in the same spot to lock it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To sew on a button, start from the back so the knot is hidden.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Go up through one hole and down the opposite one several times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here is the trick most people miss: lay a toothpick or matchstick across the button and sew over it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remove it, bring the needle up under the button and wind thread around the stitches.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This forms a shank, so the button sits neatly without puckering.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seams and hems.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A split seam, perhaps under an arm, is often the quickest fix.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn the garment inside out and pin the edges together along the old stitch line.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start a little before the gap, where the stitching is sound, and sew a backstitch: bring the needle up a short way ahead, then go back down at the end of the previous stitch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This makes a strong, continuous line.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carry on past the gap and lock off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a dropped hem, fold it back along its crease and pin it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With a slip stitch, hide the thread inside the fold and pick up just one or two threads of the main fabric each time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep stitches small and not too tight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron-on hemming tape is a quick fix that may not survive many washes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darning and visible mending.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darning is the traditional repair for socks and knitwear.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stretch the area over something rounded, such as a darning mushroom or a light bulb.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sew rows of thread across the hole, then weave more threads through them at right angles, creating a small patch of new fabric.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For woven clothes like jeans, a patch on the inside or outside works well.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many menders now celebrate their repairs rather than hiding them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sashiko, a Japanese stitching tradition whose name means roughly ‘little stabs’, uses rows of small running stitches, often white on indigo, to reinforce worn cloth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patched and repatched Japanese textiles called boro, once a sign of poverty, are now admired as art.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zips and knowing limits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Zips cause a lot of unnecessary clothing deaths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a zip sticks, rub a graphite pencil, a bar of soap or a little candle wax along the teeth, then work the slider gently back and forth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the teeth keep separating behind the slider, it has often widened with wear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Squeezing its sides very gently with pliers, a little at a time, can make it grip again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a pull tab snaps off, a small key ring or paperclip makes a serviceable replacement.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some repairs, such as replacing a whole zip in a coat, are fiddly enough that a tailor or alterations shop is worth the money.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing which jobs to do yourself and which to pay for is part of the skill.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Mending was once ordinary and is returning, and a small tin of supplies covers most repairs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Cleaning smarter: the science of stains.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Hot water can set a bloodstain for good, and vinegar can wreck a marble benchtop.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learn what is really happening when you clean, and you will clean faster with fewer products.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why soap works.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rinse a greasy frying pan under the tap and the water simply beads and runs off, leaving the oil behind.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oil and water do not mix, which is why plain water is a poor cleaner.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soaps and detergents solve this with molecules called surfactants.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One end of each is attracted to water, and the other end to oil and grease.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you scrub, millions of these molecules surround tiny droplets of grease, oily tails pointing in and water-loving heads pointing out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The grease is wrapped in little parcels that rinse away.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warm water helps because it softens fats, and scrubbing helps because it breaks grime into smaller pieces for the surfactants to grab.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Order, then disinfect.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wipe the bench until it gleams, then dust the rangehood and watch crumbs drift onto it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Professionals avoid this with two rules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Work top to bottom, so gravity carries dirt onto areas not yet cleaned.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Work dry to wet: dust and vacuum before you mop, because wet cloths turn loose dust into smeared mud.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spray a product and leave it for a few minutes, since many cleaners need contact time to loosen grime.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cleaning with detergent and water lifts off dirt, grease and most germs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Disinfecting uses chemicals to kill the rest, but disinfectants work poorly through grime, so clean first.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most must stay wet for several minutes, so check the label.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ordinary cleaning is enough for most of the home.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Save disinfecting for high risk spots, such as benches after raw meat and toilets.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Acids, alkalis, surfaces.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The chalky white crust on a shower screen in a hard water area is mostly alkaline mineral deposit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A mild acid such as white vinegar or citric acid dissolves it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greasy kitchen grime responds better to alkaline products such as bicarbonate of soda or dishwashing detergent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing this saves you buying a cupboard full of special sprays.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also protects your surfaces.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Acids etch natural stone such as marble and limestone, leaving dull patches, so use a pH neutral cleaner there.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mixing vinegar with bicarb, a popular online trick, mostly cancels them out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fizz is carbon dioxide, and what remains is largely salty water.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use each separately, for the job it does best.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never mix these products.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some cleaning mistakes leave streaks.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others put people in hospital.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bleach, which contains sodium hypochlorite, is the most dangerous product to combine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mixed with ammonia, found in some glass and multipurpose cleaners, it releases chloramine gases.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mixed with acids, including vinegar and some toilet and descaling cleaners, it can release chlorine gas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both irritate the eyes and lungs and can cause serious breathing problems.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even mixing two brands of toilet cleaner can be risky if you do not know what is in them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The safe habits are simple.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use one product at a time, rinse between products, keep products in their original labelled bottles, and open a window.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone feels unwell after exposure, call the Poisons Information Centre on 13 11 26.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Know your stain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Protein stains, such as blood, egg, milk and sweat, need cold water first, because heat cooks the proteins and bonds them to the fibres.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Enzyme pre-treatments then break them down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tannin stains, such as tea, coffee, wine and fruit juice, usually respond to prompt rinsing and laundry detergent, though some need an oxygen bleach soak.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grease needs dishwashing liquid rubbed in before a warm wash.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dye stains, such as ink, are hardest and may need specialist removers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a fresh spill, resist scrubbing, which pushes the stain deeper.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blot from the outer edge towards the centre.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test any product on a hidden spot first, and rinse it out afterwards.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the stain has gone before using a dryer or iron, as heat can fix a faint stain permanently.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Detergent molecules grab grease with one end and water with the other, so grease rinses away.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which power tool is described as the most useful for a starter kit?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A cordless drill driver.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the reef knot's main weakness?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It can capsize if ropes are pulled hard.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is mending making a comeback?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It saves money, cuts waste and is calming.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How do detergent molecules remove grease?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One end holds grease, one holds water.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

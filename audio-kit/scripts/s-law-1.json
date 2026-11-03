@@ -1,0 +1,1200 @@
+{
+ "id": "s-law-1",
+ "title": "Law & Your Rights · Episode 1",
+ "chapters": [
+  "How Australian law works",
+  "Common law and civil law: the world's two great legal families",
+  "Trial by jury: twelve ordinary people",
+  "The Australian Constitution"
+ ],
+ "units": [
+  {
+   "t": "Law & Your Rights. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How Australian law works, Common law and civil law: the world's two great legal families, Trial by jury: twelve ordinary people and The Australian Constitution.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How Australian law works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every day you live inside a system of rules built over 800 years, from English judges to the High Court in Canberra.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how it actually fits together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Statute and common law.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian law has two main sources.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Legislation is Acts passed by the Commonwealth, state and territory parliaments, such as road rules or the Fair Work Act.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common law is the body of principles built up by judges deciding cases over centuries, inherited from England in 1788.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the two clash, legislation generally wins, because parliament can override the common law within the limits of the Constitution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The common law runs on precedent.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The core reasoning in a decision becomes a rule that lower courts in the same system must follow in similar cases.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes law predictable, yet lets it evolve.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Donoghue v Stevenson, 1932, a Scottish case about a snail in a ginger beer bottle, shaped the law of negligence across the common law world, including Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Layers and ladders.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is a federation, so there is no single set of laws.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Commonwealth makes laws on national subjects like tax, defence, immigration and trade.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The six states, and the ACT and Northern Territory, make most everyday laws, including most crimes, driving, property, schools and hospitals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why penalties, or the rules for renting a home, can differ between Sydney and Perth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Courts form a ladder.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Local or Magistrates Courts handle most criminal cases and smaller civil claims.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "District Courts, the County Court in Victoria, hear more serious crimes and larger claims.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supreme Courts hear the gravest cases, such as murder, plus appeals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Federal courts include the Federal Court and the Federal Circuit and Family Court.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Criminal versus civil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a criminal case, the state prosecutes someone for breaking the law, which is why cases are named like R v Smith, with R for the Crown.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Penalties include fines, community orders and prison.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prosecution must prove every element of the offence beyond reasonable doubt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The accused is presumed innocent and doesn't have to prove anything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a civil case, one party, the plaintiff, sues another, the defendant, usually for money called damages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The standard is lower: the balance of probabilities, meaning more likely than not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One event, such as a car crash, can lead to both kinds of case.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fair trials and juries.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian trials are adversarial: two sides present their cases while the judge acts as a neutral umpire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Accused people generally have a right to silence, so refusing to answer police questions usually can't be used as evidence of guilt, though some laws create exceptions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Dietrich v The Queen, 1992, the High Court held that a serious trial may be delayed if an accused who can't afford a lawyer would otherwise face an unfair trial.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Serious criminal trials are usually heard by a jury, typically 12 people chosen at random from the electoral roll.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The jury decides the facts and guilt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The judge rules on the law and sets the sentence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Section 80 of the Constitution requires juries for serious Commonwealth offences, and the High Court has held their verdicts must be unanimous.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juries are rare in civil cases.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The High Court and help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The High Court of Australia, created by the Constitution and first sitting in 1903, sits at the top.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its seven justices, based in Canberra, decide appeals from every other court and settle disputes about the Constitution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Appeals usually need special leave, so only important cases are heard.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the Australia Act 1986, no appeals can go to Britain's Privy Council.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its decisions can reshape the nation: in Mabo, 1992, it rejected the idea that Australia was 'terra nullius'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information only.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have a legal problem, Legal Aid and community legal centres offer free or low-cost help, and a lawyer can advise on your situation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Australian law comes from parliaments, legislation, and judges' decisions, common law, and judges follow precedent.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Common law and civil law: the world's two great legal families.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most of the world's legal systems descend from one of two ancestors: medieval English judges, or the law books of ancient Rome.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Which one you live under shapes how courts work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two family trees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Arrested in Sydney, Paris, Tokyo or Chicago, you would meet courtrooms that work differently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of the difference is history.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common law grew from medieval England and spread with the British Empire, to Australia, the United States, Canada, New Zealand and India.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Civil law grew from Roman law, revived in medieval Europe and organised into national codes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It covers most of continental Europe, Latin America and much of Asia and Africa, so by number of countries it is more widespread.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beware the vocabulary.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In everyday Australian use, civil law means non-criminal disputes, such as contracts and negligence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here it names a whole tradition built on written codes, and civil law countries have criminal cases too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lawyers often say 'civilian systems' for clarity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judges on horseback.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Norman conquest of 1066, English kings gradually built a national system of royal courts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under Henry II, who reigned from 1154 to 1189, royal judges travelled on circuits around the country, hearing cases in the king's name.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time they developed rules that applied across the whole realm, a law common to all of England, which is where the name comes from.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rather than starting from a grand written code, the common law grew case by case.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Judges looked at how earlier cases had been decided and followed them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This principle, called precedent, means a decision of a higher court binds lower courts in similar cases.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Parliament can override judge-made law with statutes, but much of the law began in courtrooms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rome's second life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 530s, the Eastern Roman emperor Justinian ordered his lawyers to collect and organise centuries of Roman law.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The result, later called the Corpus Juris Civilis, or Body of Civil Law, was a vast compilation of legal rules and expert opinions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For centuries it was largely forgotten in Western Europe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then, in the late 1000s, scholars in Bologna, Italy, began studying it closely, and Roman law became the basis of university legal education across Europe.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many centuries later, nations turned these ideas into tidy national codes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most influential was France's Civil Code of 1804, often called the Napoleonic Code.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Germany's Civil Code of 1900 was another giant, later influencing countries as different as Japan and Greece.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside the courtroom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The traditions also differ in how trials work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Common law systems are usually adversarial.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two sides, each with its own lawyers, present evidence and question witnesses, while a judge acts like an umpire and, in serious criminal cases, a jury often decides the facts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Civil law systems are usually more inquisitorial.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Judges, sometimes including an investigating judge before trial, take a more active role in gathering evidence and questioning witnesses, and written files matter more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juries are less common, although some countries use lay judges who sit alongside professionals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judges in civil law countries are often career officials trained for the role, rather than experienced lawyers appointed later in life, as is common in Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blended and borrowed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real legal systems are rarely pure.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scotland and South Africa have mixed systems combining civil law roots with common law influences.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Canada, Quebec uses a civil code for private law, while the other provinces follow common law.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Louisiana's private law shows its French and Spanish heritage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many countries also blend in religious or customary law.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two great families have also drifted closer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Common law countries now rely on huge volumes of statutes, so much of their law is written down much like a code.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile, courts in civil law countries often follow earlier decisions of higher courts in practice, even where they are not formally bound.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two old family trees, with branches increasingly intertwined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most legal systems descend from either the common law or the civil law tradition, and 'civil law' has two meanings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Trial by jury: twelve ordinary people.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Somewhere in Australia today, twelve strangers are sitting in a small room deciding whether someone is guilty of a serious crime.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why do we hand such power to ordinary citizens, and what actually happens if your name is drawn?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Called by chance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An envelope from the sheriff's office or court tells you that you have been selected for possible jury service.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a normal part of being enrolled to vote: in every state and territory, potential jurors are chosen at random from the electoral roll.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not everyone summoned serves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some people are ineligible, such as many lawyers, police officers and politicians, and others can be excused for good reasons, like caring duties or serious hardship.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Respond by the deadline, because ignoring a summons can lead to a fine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Employers generally cannot penalise you for serving, and jurors receive an allowance, though amounts and wage top-ups vary by state.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not legal advice, so check your state or territory court's juror pages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From ordeals to juries.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In early medieval England, guilt could be tested by ordeal: carrying a red-hot iron or being lowered into water, with the outcome believed to reveal God's judgment.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1215 the Fourth Lateran Council banned priests from taking part, which made ordeals unworkable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Courts turned to groups of local men already asked about crimes in their area, who gradually became neutral judges of evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1670 the jury trying Quakers William Penn and William Mead refused to convict, even after the judge locked the jurors up and fined them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Juror Edward Bushel challenged his imprisonment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Bushel's Case, Sir John Vaughan ruled that jurors cannot be punished for a verdict the judge dislikes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The principle travelled with English law to Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juries in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most legal matters in Australia do not involve a jury.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Minor offences and most civil disputes, such as contract claims, are decided by a magistrate or judge alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juries mainly decide serious criminal cases, such as murder, sexual offences, serious assault and large-scale fraud, and criminal juries usually have twelve members.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Section 80 of the Constitution says a trial on indictment for a Commonwealth offence must be by jury, though the High Court has read that protection fairly narrowly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In some states an accused person can choose a judge-alone trial in certain circumstances.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Civil juries are rare, but some states still allow them in particular cases, such as some defamation claims.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside the jury room.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The judge controls the courtroom, rules on evidence and explains the law.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The jury decides what actually happened.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a criminal case, jurors must be satisfied of guilt beyond reasonable doubt, a high standard designed to protect innocent people from wrongful conviction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They must decide only on evidence presented in court.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doing your own research, searching online about the case or visiting the scene can be a criminal offence, because it can lead to an unfair trial.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jury room discussions stay confidential even after the case ends.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Verdicts traditionally had to be unanimous, but most states now allow majority verdicts in some circumstances after long deliberation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some trials involve distressing evidence, and courts in most states offer free, confidential counselling to jurors afterwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The case for and against.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporters say juries bring community values into the courtroom and check the power of the state, since a government cannot imprison someone for a serious crime without convincing ordinary citizens.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Juries also spread responsibility for grave decisions across many people and give citizens a direct role in justice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many jurors find the experience absorbing and meaningful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics raise real concerns.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Complex fraud or scientific evidence can be hard for non-experts to follow, jury trials take longer and cost more, and jurors may be swayed by media coverage or personal impressions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some countries, such as Japan, use mixed panels of judges and citizens instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Australian legal experts accept the system is imperfect, and debate about how to improve it continues.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Jurors are drawn at random from the electoral roll, and answering a summons is a legal duty.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Australian Constitution.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A document written by colonial delegates in the 1890s still decides who can make which laws, and only the voters can change it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Six colonies, one nation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before 1901, Australia was six British colonies with their own parliaments, tariffs and even railway gauges.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Through the 1890s, delegates met at conventions to draft a federal constitution.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unusually for the time, voters approved it at colonial referendums, and the British Parliament passed it as the Commonwealth of Australia Constitution Act 1900.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Commonwealth began on 1 January 1901.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Constitution is short, around 128 sections, and freely available online.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Federation meant dividing power.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Section 51 lists about 40 subjects for Commonwealth laws, including defence, taxation, trade between states, marriage, immigration, currency and postal services.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everything unlisted stays with the states, which run police, schools, hospitals and most criminal law.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a valid Commonwealth law conflicts with a state law, section 109 makes the state law invalid to the extent of the inconsistency.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How it's built.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Constitution is organised into chapters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chapter I creates the Parliament: the King, represented by the Governor-General, the Senate and the House of Representatives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chapter II covers the executive government, which puts laws into action.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chapter III establishes the High Court and other federal courts.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is a constitutional monarchy and a parliamentary democracy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate gives each original state the same number of senators regardless of population, 12 each since 1984, protecting smaller states.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The House of Representatives is based on population, and the party or coalition that controls it forms government.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Power drifts to Canberra.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The founders expected the states to stay powerful, but the balance has shifted.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Engineers' Case of 1920, the High Court began reading Commonwealth powers broadly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During World War II, the Commonwealth took over income tax, the High Court upheld the scheme, and that is why income tax is now collected federally.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Section 96 lets the Commonwealth give states money on conditions, so it can shape areas like schools and hospitals that it doesn't directly control.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The gap between who raises the money and who spends it is called vertical fiscal imbalance, and it drives constant federal and state negotiation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separate powers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Constitution separates three arms of government: the legislature makes laws, the executive carries them out, and the judiciary interprets and applies them.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia, the legislature and executive are closely linked, because ministers must sit in parliament and answer to it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is called responsible government.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The separation of judicial power is much stricter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the Boilermakers' Case, 1956, the High Court held that federal courts can exercise only judicial power, and bodies that aren't courts can't exercise it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This protects judges' independence, so courts can rule against the government of the day without fear.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing it, and your rights.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under section 128, the Constitution changes only by referendum.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A change needs a double majority: a majority of voters nationally and a majority in at least four of the six states.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Territory votes count towards the national total only.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only eight of 45 proposals since 1901 have succeeded.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1967, over 90% voted to count Aboriginal people in the census; the 1999 republic and 2023 Voice proposals failed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no national bill of rights.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Constitution has few express rights, such as jury trial for serious Commonwealth offences and 'just terms' for acquired property.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1992 the High Court found an implied freedom of political communication, not a general free speech right.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most protections come from ordinary laws, which parliament can change.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read the official Yes and No cases before voting.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Constitution united six colonies in 1901 and divides law-making power between the Commonwealth and the states.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the principle of precedent require of a lower court?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Follow earlier decisions of higher courts in similar cases.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does 'civil law' mean in the phrase 'civil law tradition'?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A legal tradition built on Roman law and written codes.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Where do Australian courts draw potential jurors from?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The electoral roll.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What happens to a state law that conflicts with a valid Commonwealth law?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The state law is invalid to the extent of the inconsistency.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

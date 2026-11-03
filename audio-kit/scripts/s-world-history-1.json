@@ -1,0 +1,1158 @@
+{
+ "id": "s-world-history-1",
+ "title": "World History: The Big Picture · Episode 1",
+ "chapters": [
+  "The world's oldest continuous cultures",
+  "Ancient Egypt",
+  "Ancient Rome: from village to empire",
+  "The Black Death"
+ ],
+ "units": [
+  {
+   "t": "World History: The Big Picture. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The world's oldest continuous cultures, Ancient Egypt, Ancient Rome: from village to empire and The Black Death.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The world's oldest continuous cultures.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Aboriginal and Torres Strait Islander peoples have lived in Australia for tens of thousands of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what that history includes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deep time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal people have lived on the Australian continent for at least 50,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Excavations at Madjedbebe in Arnhem Land suggest people may have been there around 65,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes Aboriginal and Torres Strait Islander cultures among the oldest continuous living cultures on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People were here tens of thousands of years before the last Ice Age ended, and long before the pyramids, farming in the Middle East or the first cities.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During the Ice Age, Australia, New Guinea and Tasmania were joined in one landmass called Sahul.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even then, reaching it from South-East Asia meant crossing open sea, making this one of the earliest known deliberate ocean voyages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over thousands of years, people adapted to rainforests, deserts, coasts, alpine areas and tropical islands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds of nations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal Australia was never one culture.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before British colonisation in 1788 there were hundreds of distinct nations or clan groups, each with its own country, laws, customs and kinship systems.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than 250 languages were spoken, with many dialects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Torres Strait Islands, between Cape York and Papua New Guinea, have their own distinct Melanesian cultures.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Aboriginal words are now part of Australian English, like kangaroo, koala, billabong, yakka and boomerang.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Country and engineering.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For Aboriginal and Torres Strait Islander peoples, Country means much more than land.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It includes waters, skies, plants, animals, ancestors and stories, all connected, with responsibilities to care for it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People managed landscapes through cultural burning, sometimes called fire-stick farming: frequent small, cool fires that reduced fuel, encouraged fresh growth and attracted game.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, fire agencies increasingly work with Traditional Owners to bring it back to reduce bushfire risk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Budj Bim in western Victoria, the Gunditjmara people built channels, weirs and ponds to trap and farm short-finned eels, at least 6,600 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is one of the oldest known aquaculture systems in the world, World Heritage listed in 2019.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stone fish traps at Brewarrina in New South Wales are also thought to be extremely old.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Songlines and story.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal cultures kept knowledge not in books but in song, story, dance and art.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowledge of seasons, plants, medicine and the night sky was passed down through generations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Songlines, also called dreaming tracks, trace the journeys of ancestral beings across the land.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They work as maps, laws, histories and guides to water and food, and some stretch across the continent, linking many different language groups.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers have found that some oral traditions accurately describe events such as rising sea levels at the end of the Ice Age, suggesting stories were passed down accurately for thousands of years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colonisation and recognition.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1788 Britain established a colony at Sydney Cove on the basis that the land belonged to no one, a legal idea called terra nullius.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Colonisation brought introduced diseases like smallpox, loss of land and water, frontier violence including massacres, and laws controlling where Aboriginal people could live and work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 20th century, governments and churches removed many children from their families.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are known as the Stolen Generations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Activism brought change.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1967 referendum, over 90% of Australians voted to count Aboriginal people in the census and let the federal government make laws for them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1992 Mabo decision, brought by Torres Strait Islander Eddie Mabo and others, rejected terra nullius and recognised native title.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2008 Prime Minister Kevin Rudd delivered a National Apology.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gaps in health and life expectancy remain a national focus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Aboriginal people have lived in Australia for at least 50,000 years, and crossed open sea to get here.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Ancient Egypt.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A civilisation that lasted 3,000 years, built by a river in the desert.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gift of the Nile.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ancient Egypt grew along the Nile, a ribbon of green through one of the driest deserts on Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each summer, rains far to the south swelled the river and it flooded, leaving rich black silt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Egyptians called their land Kemet, 'the black land', and the desert Deshret, 'the red land'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reliable harvests of wheat and barley fed a large population and freed people to become builders, scribes, priests and artisans.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Egypt was first unified around 3100 BC, traditionally by a ruler called Narmer or Menes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It lasted about 3,000 years, as the Old, Middle and New Kingdoms with periods of disorder between, until Rome took over after Cleopatra's death in 30 BC.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cleopatra lived closer in time to us than to the building of the Great Pyramid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kings, gods and afterlife.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pharaoh was seen as a god on earth, a link between people and the divine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His key job was keeping ma'at: cosmic order, truth, justice and balance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Egyptians worshipped hundreds of gods, including Ra the sun god, Osiris god of the afterlife, Isis and jackal-headed Anubis, guardian of the dead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They believed the soul could live on but needed the body.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mummification took around 70 days.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Embalmers removed the brain and most organs, dried the body with natron, a natural salt, and wrapped it in linen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the afterlife, the heart was weighed against the feather of ma'at; a heart heavy with wrongdoing was devoured by a monster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tombs held food, furniture and even board games.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Great Pyramid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Great Pyramid of Giza was built for the pharaoh Khufu around 2560 BC, from roughly 2.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "3 million stone blocks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was the tallest human-made structure on Earth for more than 3,800 years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exactly how it was built is still studied, but ramps, sledges, levers and huge organised workforces were involved.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archaeologists have found the nearby workers' town, with bakeries, breweries and cemeteries, as well as a papyrus logbook kept by an official who shipped limestone for the pyramid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The evidence suggests the builders were organised, supported labourers, not slaves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ordinary lives.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most Egyptians were farmers in mud-brick houses, eating bread, onions, fish and thick, nutritious beer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By ancient standards, women had notable rights: they could own and inherit property, run businesses, sign contracts and go to court.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Men and women wore eye make-up, which may have helped against sun glare and eye infections.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The artisans who decorated royal tombs lived in the walled village of Deir el-Medina, near modern Luxor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many could write, and they left thousands of notes on limestone flakes and broken pottery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1150 BC, under Ramesses III, their grain rations ran weeks late, so they downed tools and staged sit-ins at nearby temples until they were paid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is the earliest strike on record, on a papyrus now in Turin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tutankhamun and legacy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tutankhamun was a fairly minor boy king of the New Kingdom who died at about 19.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He is famous because his tomb, discovered by Howard Carter in 1922, was nearly intact, packed with more than 5,000 objects including his solid gold burial mask.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Egypt's legacy runs deep: a 365-day calendar, early medical texts describing injuries and treatments, papyrus, advances in maths and engineering, and some of the world's most recognisable art.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It still shapes how we imagine the ancient world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Nile's yearly floods left fertile soil that supported a civilisation lasting about 3,000 years, from around 3100 BC to 30 BC.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Ancient Rome: from village to empire.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "How a small town on the Tiber built an empire of tens of millions, and why you still use its words, laws and calendar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Republic, not kings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to legend, twins Romulus and Remus, raised by a she-wolf, founded Rome in 753 BC.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In reality it grew from farming villages on hills beside the River Tiber.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kings ruled for centuries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 509 BC the Romans expelled the last one and founded a republic, where elected officials ran the state.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They hated kings so much that the word stayed an insult.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The republic was built to stop anyone grabbing total power.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two consuls were elected each year and could block each other.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate, made up of experienced former officials, advised and controlled finances.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Citizen assemblies voted on laws.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ordinary plebeians fought long battles with the aristocratic patricians to win more rights.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These checks influenced later democracies, and Australia's Senate takes its name from Rome's.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Empire by alliance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over several centuries Rome conquered Italy, then defeated its great rival Carthage in the Punic Wars, including Hannibal, who famously crossed the Alps with elephants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its armies were disciplined, well organised and relentless.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Just as important, Rome turned defeated enemies into allies and eventually citizens, which kept its strength growing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its height, around 117 AD under the emperor Trajan, the empire stretched from northern England to Egypt and from Spain to Iraq.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Perhaps 60 million people lived under Roman rule.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar to Augustus.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Conquest brought enormous wealth, but also inequality and ambitious generals with loyal armies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 49 BC Julius Caesar crossed the Rubicon with his army, breaking Roman law and starting a civil war.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He won and became dictator for life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fearing he would become a king, senators stabbed him to death on the Ides of March, 15 March 44 BC.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The murder did not save the Republic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It triggered more civil wars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar's adopted heir Octavian won them and in 27 BC became Augustus, the first emperor, while keeping the trappings of the Republic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His reign began the Pax Romana, about two centuries of relative peace.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later emperors ranged from Trajan and Marcus Aurelius to Caligula and Nero.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "July and August are named after Caesar and Augustus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roads, water, concrete.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Romans were superb engineers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They built more than 80,000 kilometres of paved roads, letting armies, traders and messages move quickly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'All roads lead to Rome' was nearly literal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aqueducts carried fresh water many kilometres into cities, for fountains, public baths and even toilets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roman concrete was remarkably durable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dome of the Pantheon, completed around 125 AD, is still the largest unreinforced concrete dome in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good infrastructure was one of the quiet reasons Rome held together for so long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fall and afterlife.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the 200s AD the empire faced civil wars, economic trouble, plague and pressure from peoples on its borders, and it split into western and eastern halves.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 476 AD a Germanic general deposed the last western emperor, a teenager called Romulus Augustulus, the date often used for the fall of Rome.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The eastern half, later called the Byzantine Empire, survived until the Ottomans captured Constantinople in 1453.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rome's influence is everywhere.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Latin evolved into Italian, Spanish, French, Portuguese and Romanian, and supplies much of English.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roman law shaped European legal systems, and our calendar descends from Caesar's reforms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christianity, favoured by Constantine in the 300s, spread partly through Roman networks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Senate, republic, citizen and veto are Roman words.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Rome grew from farming villages into a republic in 509 BC, designed so no one person could rule alone.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Black Death.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A plague that killed a third to a half of Europe, and accidentally helped end the medieval world.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Arrival and cause.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In October 1347, trading ships docked at Messina in Sicily.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many aboard were dead or dying.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The plague had travelled along trade routes from Central Asia, and within four years it swept across Europe, the Middle East and North Africa.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People called it the great mortality; the name Black Death came later.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We now know the cause was the bacterium Yersinia pestis, confirmed by DNA from plague burial pits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It usually spreads by fleas on rats and other rodents.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The bubonic form causes painful swollen lymph nodes called buboes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it reaches the lungs it becomes pneumonic plague, which spreads by coughing and is almost always fatal without treatment.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some historians think human fleas and lice also played a big role.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Death and blame.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians estimate that 30% to 50% of Europe's people died between 1347 and 1351, with many more lost across Asia and Africa.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some towns lost over half their people and some villages were abandoned.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cities dug mass graves when churchyards filled.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europe's population took around two centuries to recover, and the plague returned in waves for hundreds of years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No one understood germs.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many believed the plague was God's punishment, and flagellants whipped themselves in public penance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors blamed 'miasma', or poisonous bad air.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Terrifyingly, Jewish people were falsely accused of poisoning wells, and Jewish communities were massacred in many towns.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a grim reminder of how fear in an epidemic can turn into scapegoating.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quarantine is born.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some responses were remarkably modern.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1377 the city of Ragusa, now Dubrovnik in Croatia, required arriving ships and travellers to isolate for 30 days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venice and other ports later extended this to 40 days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word quarantine comes from the Italian quaranta giorni, meaning 40 days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cities also set up health boards, isolated the sick in special hospitals and restricted travel from infected areas.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plague still exists in wild rodents in parts of Africa, Asia and the Americas, including the western United States, with a few hundred to a few thousand human cases a year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it is treatable with common antibiotics if caught early.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studying the Black Death also helped scientists understand how disease travels along trade routes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Workers gain power.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The survivors inherited a changed world.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With so many workers dead, labour became scarce and valuable.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peasants demanded higher wages and better conditions, and many moved to wherever pay was best.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Landowners and governments tried to freeze wages by law, such as England's Statute of Labourers in 1351.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That fuelled anger which later exploded in the Peasants' Revolt of 1381.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time, the old feudal system, where peasants were tied to a lord's land, weakened.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A catastrophe had shifted the balance of power between those who owned land and those who worked it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unexpected legacies.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Art became preoccupied with death, with images of skeletons dancing with people of every rank.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Faith in the Church was shaken because prayer seemed useless.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medicine began, slowly, to rely more on observation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some historians argue that higher wages and wealth concentrated in fewer hands helped fund the Renaissance.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others link labour shortages to experiments with labour-saving technology.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These links are debated, but the pattern is clear: big historical shocks often have consequences no one could predict at the time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lessons from the Black Death about how diseases spread became relevant again during COVID-19.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Black Death, caused by the bacterium Yersinia pestis, reached Europe in 1347 along trade routes from Central Asia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does the evidence about the first Australians' arrival suggest?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They crossed open sea, a very early voyage.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why was the Nile so important to ancient Egypt?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Yearly floods left fertile farmland.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did the Roman Republic elect two consuls each year?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. So each could block the other and no one held total power.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What do scientists now know caused the Black Death?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A bacterium, usually spread by fleas on rodents.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

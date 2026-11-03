@@ -1,0 +1,923 @@
+{
+ "id": "s-wild-australia-3",
+ "title": "Wild Australia · Episode 3",
+ "chapters": [
+  "Croc country: staying safe in the north",
+  "Australia's 'deadly' animals, in perspective",
+  "Cane toads: the pest that conquered the north"
+ ],
+ "units": [
+  {
+   "t": "Wild Australia. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Croc country: staying safe in the north, Australia's 'deadly' animals, in perspective and Cane toads: the pest that conquered the north.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Croc country: staying safe in the north.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Northern Australia is home to the largest reptile on Earth, an ambush hunter that has been perfecting its technique for millions of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rules for living alongside it are simple, and they work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The saltwater crocodile.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The estuarine or saltwater crocodile, Crocodylus porosus, is the largest living reptile.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Large males can grow beyond five metres and weigh many hundreds of kilograms, while females are considerably smaller.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia they live across the tropical north, from the Kimberley through the Northern Territory to Queensland, down the east coast into central Queensland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are ambush predators.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A crocodile can lie almost submerged with only its eyes and nostrils showing, wait a long time for an animal to come to the water's edge, then lunge with astonishing speed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's other species, the freshwater crocodile, is smaller and far less dangerous, though it can still bite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A remarkable comeback.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the Second World War, saltwater crocodiles were hunted intensively for their skins, and populations crashed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Western Australia, the Northern Territory and Queensland introduced protection between about 1970 and 1974.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Numbers have since bounced back strongly, especially in the Northern Territory, where the wild population is estimated at around one hundred thousand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's one of conservation's great success stories, but it has a consequence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More and larger crocodiles now share rivers, beaches and boat ramps with growing numbers of residents and tourists.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fatal attacks remain rare in Australia, a few at most each year, and nearly all involve people in or right beside the water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Assume they're there.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The name is misleading.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Salties live in tidal rivers, mangroves and estuaries, but also in freshwater billabongs, swamps, waterholes and rivers far from the coast.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They swim along the coast and can turn up on popular beaches and around islands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A clear, inviting waterhole with no sign may still hold one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crocodiles are hard to spot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muddy water, reflections and camouflage mean even locals can miss a large animal a few metres away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're regularly seen in waterways near Darwin, Cairns and Townsville.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wildlife authorities give one rule: in croc country, assume any water may contain crocodiles, and don't swim unless you are certain it's safe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be CrocWise.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "CrocWise guidance and similar advice from the Northern Territory and Western Australia dramatically reduces risk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Obey warning signs, but never assume water without signs is safe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't swim, paddle or wade where crocodiles may live.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stand a few metres back when fishing, and never on overhanging logs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't clean fish or leave scraps, bait or food near the water, boat ramps or campsites.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never feed crocodiles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be extra alert at night and during the roughly September to April breeding season.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Camp at least fifty metres from the water and well above the high water mark.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Collect water in a bucket from a distance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crocodiles learn routines, so vary your spot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In boats, keep limbs inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Canoes and kayaks aren't recommended.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths and reporting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The popular idea is to run in a zigzag because crocodiles can't turn quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experts regard this as a myth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crocodiles are fast over short distances but rarely chase people away from water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real risk is the sudden lunge at someone on the bank, wading or swimming.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep your distance in the first place.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each state and territory with crocodiles has a way to report sightings, which helps officers decide whether one needs to be removed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Report crocodiles that act aggressively, approach people or boats, or turn up in towns.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone is attacked, call 000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't enter the water yourself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once they're out, control bleeding with firm direct pressure, keep them warm and lying down, and follow DRSABCD.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Saltwater crocodiles are the largest living reptile and ambush hunters across northern Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Australia's 'deadly' animals, in perspective.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Snakes, spiders, sharks and crocs get the headlines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The numbers tell a very different, and reassuring, story.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear versus numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has a fearsome reputation: venomous snakes, deadly spiders, box jellyfish, crocodiles and sharks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's true that many of the world's most venomous snakes live here.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But a study of hospital and coronial data from 2000 to 2013 found that only about 20 to 30 people died from animal-related causes each year, and most weren't from the animals you'd expect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Horses and cattle caused more deaths than any wild animal, through falls, kicks and crushing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bees and wasps, through severe allergic reactions called anaphylaxis, caused about as many as snakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Familiar animals cause more harm than exotic ones simply because we're around them so much more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Snakes and spiders.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has some of the most venomous snakes in the world, including the inland taipan and the eastern brown snake.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet on average only about two people die from snakebite each year, thanks to antivenom, fast emergency care and good first aid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First aid is the pressure immobilisation technique: call 000, keep the person still, wrap a firm bandage over the bite and up the whole limb, then splint it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't wash the bite, cut it or use a tourniquet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most bites happen when people try to catch or kill snakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No one has died from a confirmed spider bite since the funnel-web antivenom arrived in 1981; redback antivenom has existed since the 1950s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a suspected funnel-web bite, use the same first aid and call 000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In and near water.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shark attacks get enormous media attention, but fatal attacks in Australia average only a few a year, while millions of people swim and surf.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 300 people drown in Australia each year across all waterways.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saltwater crocodiles in the north are genuinely dangerous, causing roughly one or two deaths a year, usually when people ignore warning signs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stay well back from the water's edge in croc country.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Box jellyfish and tiny irukandji are a serious risk in tropical waters, roughly October to May, and box jellyfish stings can be fatal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Swim at patrolled beaches, in stinger nets and wear a stinger suit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a box jellyfish sting, call 000 and pour vinegar over it for at least 30 seconds; for bluebottles, use hot water instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always swim between the flags.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swooping magpies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every spring, some Australian magpies swoop people who come near their nests.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's usually the male protecting his chicks, for about six weeks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most swoops are warnings, but they can cause eye injuries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid known swooping areas if you can, walk rather than run, and wear a hat and sunglasses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cyclists should dismount and walk through.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research suggests magpies can recognise individual human faces, and they may be less likely to swoop people who've been kind to them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real dangers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's big outdoor killers are far less exotic: drowning, road crashes, extreme heat and, over the long run, skin cancer from UV.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heatwaves kill more Australians than any other natural hazard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So respect the wildlife, learn basic snakebite first aid and heed croc and stinger warnings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the habits that save the most lives are ordinary ones: swimming between the flags, being sun smart, staying hydrated in heatwaves and driving safely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear tends to follow what is dramatic, so it helps to match your caution to the real risks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Australia's wildlife has a fearsome reputation, but familiar animals like horses and cattle cause more deaths than snakes or spiders.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Cane toads: the pest that conquered the north.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1935 a hundred-odd toads were shipped to Queensland to save the sugar crop.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They ignored the beetles they were meant to eat and set off across a continent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A plan made in hope.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1930s, grubs of native cane beetles were chewing the roots of Queensland's sugar crop.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cane toad, a hardy amphibian from Central and South America, had a reputation for eating plantation pests elsewhere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In June 1935, 102 toads were brought from Hawaii to Gordonvale, near Cairns.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They bred fast, and thousands of young toads were soon released around the cane fields.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some scientists warned that releasing an untested predator was reckless.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were ignored.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The plan had a basic flaw.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adult beetles sit high on the cane stalks and their grubs live underground, but toads are heavy ground hunters that cannot climb.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no good evidence they dented beetle numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They ate almost everything else instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Built to invade.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cane toads have almost every trait an invader needs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A female can lay tens of thousands of eggs in one clutch, in long strings of jelly in still water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tadpoles develop quickly, and adults tolerate heat, drought and habitats from wetlands to suburban backyards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In their native range, parasites, diseases and predators that evolved alongside them keep numbers in check.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia almost none of those controls exist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The countryside around the cane farms offered insects, frogs, small mammals and pet food.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toads spread south into New South Wales and west across the Northern Territory, reaching the Kimberley by the late 2000s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They now cover well over a million square kilometres, and the western front is still moving.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evolution in fast forward.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The invasion is accelerating.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early decades the front advanced about ten kilometres a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the 2000s, toads in the Northern Territory were advancing at more than five times that rate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Biologist Rick Shine and colleagues found why.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The toads leading the charge had longer legs than those in older populations, and they travelled further each night in straighter lines.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reason is simple selection.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fastest toads reach new ground first, where food is plentiful and competitors are few, and they breed with other fast toads.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Generation after generation, the front became a population of athletes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is one of the clearest examples of evolution within living memory.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Poison on the menu.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Large parotoid glands behind a toad's head hold a poison of chemicals called bufadienolides, which attack the heart.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every life stage is toxic, including eggs and tadpoles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Predators in the toads' native range have had millions of years to adapt, but Australian predators had never met one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Goannas, freshwater crocodiles, northern quolls, some snakes and pet dogs die after biting or swallowing a toad.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the front reaches a new area, some goanna populations can crash dramatically.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every native animal loses, though.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crows and kites have learned to flip toads over and eat the safer innards, and native water rats have been seen doing something similar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fighting back cleverly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody has found a way to remove cane toads from Australia, so the focus is on limiting the damage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One clever idea uses the toads' own biology.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cane toad tadpoles are strongly attracted to a chemical from toad toxin, because they hunt and eat newly laid toad eggs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Traps baited with that chemical catch huge numbers of tadpoles while leaving native tadpoles largely alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another approach is taste aversion training.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Northern quolls and goannas have been fed small toads or toad sausages that make them sick but do not kill them, so they learn to avoid toads before the invasion arrives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you catch toads at home, wildlife authorities recommend humane methods, such as cooling them in a fridge and then freezing them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Cane toads were brought to Queensland in 1935 to eat cane beetles, but they could not reach them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How do saltwater crocodiles typically hunt?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Lurking almost submerged, then lunging at the bank.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do horses and cattle cause more deaths than snakes in Australia?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. People are around them far more often.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did the cane toads fail to control the cane beetles?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The beetles lived where toads could not reach.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

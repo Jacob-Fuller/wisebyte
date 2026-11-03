@@ -1,0 +1,977 @@
+{
+ "id": "s-business-3",
+ "title": "Starting a Business · Episode 3",
+ "chapters": [
+  "Double-entry bookkeeping: the Renaissance idea behind every business",
+  "Starting a business in Australia",
+  "Lessons from startup wins and flops"
+ ],
+ "units": [
+  {
+   "t": "Starting a Business. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Double-entry bookkeeping: the Renaissance idea behind every business, Starting a business in Australia and Lessons from startup wins and flops.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Double-entry bookkeeping: the Renaissance idea behind every business.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A friar who was friends with Leonardo da Vinci wrote down a method that still sits beneath every company's accounts, from corner cafes to global giants.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A system for merchants.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a merchant in fourteenth-century Genoa, Florence or Venice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He buys wool on credit, ships cloth to distant ports, borrows from partners and lends to customers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A simple list of money in and out no longer shows whether he is making a profit, who owes him and whom he owes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Italian merchants and bankers gradually developed a cleverer method.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surviving account books show it in use by at least the 1300s, and houses like the Medici bank relied on it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody knows who invented it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1494 the friar and mathematician Luca Pacioli, a friend of Leonardo da Vinci, published a huge textbook in Venice with a section on merchants' bookkeeping.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Printing spread it across Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He described the system rather than inventing it, stressing careful daily records and books that balance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every transaction has two sides.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The core idea is simple and powerful.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every business transaction affects at least two things, so you record it twice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suppose a small business buys a delivery van for 20,000 dollars in cash.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gains a van but loses the same amount of cash.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both changes are written down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it instead borrows 20,000 dollars from a bank, it gains cash and also gains a debt to repay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recording both sides means nothing slips through the cracks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Money never just appears or vanishes in the books; it always comes from somewhere and goes somewhere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This also creates a built-in error check, because if the two sides do not match, a mistake has been made.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The accounting equation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Double-entry rests on one balancing rule, the accounting equation: assets equal liabilities plus equity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Assets are what the business owns or controls, such as cash, stock, equipment and money customers owe it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Liabilities are what it owes others, such as loans and unpaid bills.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Equity is what is left for the owners, including the money they put in and the profits kept in the business.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The equation says that everything a business has was funded either by borrowing or by its owners.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because every transaction is recorded on both sides, the equation stays true after each one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The balance sheet, one of a company's main financial reports, is this equation set out in detail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debits and credits.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The words debit and credit confuse almost everyone at first, because in daily life a credit sounds good and a debit sounds bad.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In bookkeeping they just mean the left side and the right side of an account.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By convention, debits increase assets and expenses, while credits increase liabilities, equity and income.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every transaction must have equal debits and credits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This explains why your bank statement seems backwards.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you deposit money, the bank records a credit to your account, because from the bank's point of view your money is something it owes you, a liability.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The language is written from the perspective of whoever keeps the books.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it still matters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than five centuries after Pacioli, accounting software still runs on double-entry under the surface.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When an app shows a profit figure, a balance sheet or an amount owing for tax, it builds those reports from paired entries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The method made larger, more complex businesses possible, because owners could track performance without personally watching every coin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also let outsiders such as banks and investors judge a business from its accounts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some historians argue it helped shape modern capitalism itself, though that bigger claim is debated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The German writer Goethe had a character call it one of the finest inventions of the human mind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For anyone starting a business, understanding it is a genuine superpower.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Double-entry bookkeeping evolved among Italian merchants and was described in print by Luca Pacioli in 1494.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Starting a business in Australia.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "ABN, ASIC, GST, sole trader or company: the paperwork sounds daunting, but the basic steps are simpler than most people think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Business or hobby.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not every side activity is a business.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ATO considers whether you intend to make a profit, whether the activity is repeated and regular, whether it's organised in a business-like way, and its size.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Selling a few of your own paintings each year may be a hobby; producing them regularly for sale, marketing them and keeping records looks like a business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The distinction matters for tax: business income is generally taxable and business expenses may be deductible.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ATO and business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au both have guidance to help you decide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Structure and liability.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your structure affects your tax, legal duties and personal risk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A sole trader is the simplest and cheapest: you and the business are legally the same, you use your own tax file number, and profit is taxed at personal rates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A partnership is two or more people sharing profits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A company is a separate legal entity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trusts are often used for family businesses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can change structure later, though it may cost money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest difference is liability.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A sole trader is personally responsible for all business debts, so a house and savings could be at risk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partners are generally liable for the whole partnership's debts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A company offers limited liability, though directors can still be personally liable in some situations, such as trading while insolvent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Companies cost more and need ASIC registration.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "ABN and business names.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people starting out apply for an Australian Business Number, an 11-digit number that identifies your business.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Applying is free through the Australian Business Register, reachable via business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beware of third-party sites charging fees for the same thing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You need an ABN to register a business name and for GST.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without one, businesses paying you may have to withhold tax at the top marginal rate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you trade as Sarah Nguyen, you needn't register a name.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you trade as 'Northside Dog Walking', you generally must register it with ASIC, for one or three years, for a fee.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It doesn't give you exclusive ownership; a trade mark through IP Australia does.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the name and a matching domain are available first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "GST registration.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Goods and services tax is a 10% tax on most goods and services in Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You must register when your annual GST turnover reaches $75,000, or $150,000 for non-profit organisations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taxi and ride-sourcing drivers must register regardless of turnover.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once registered, you generally add GST to your prices, lodge a business activity statement, or BAS, and pass the GST you collect to the ATO, minus GST credits on your business purchases.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can register voluntarily below the threshold; whether that's worthwhile depends on your customers and costs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Licences, records, first steps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Depending on your industry and location, you may need licences or permits, from food handling to building work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "ABLIS, on business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, helps you find them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you employ staff, workers' compensation insurance is compulsory and you must pay super.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Public liability and professional indemnity insurance aren't always required, but are common.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ATO generally requires business records to be kept for five years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sensible order: check you're really in business, choose a structure, get an ABN, register a name if needed, consider GST.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Open a separate business bank account from day one and set up simple accounting software.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au is a free, reliable starting point.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only: rules change, so talk to a registered tax agent, accountant or lawyer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The ATO looks at intention to profit, regularity and business-like behaviour to decide whether you're in business.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Lessons from startup wins and flops.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Canva was rejected by investors again and again.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Juicero raised over $100 million and vanished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What separates them is rarely luck alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Canva and Atlassian.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2007, Melanie Perkins, then a Perth university student, noticed how hard design software was to learn.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With Cliff Obrecht she started Fusion Books, an online tool for school yearbooks, run from her mother's lounge room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pitching a broader platform, Perkins has said she was rejected by around 100 investors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With Cameron Adams, she launched Canva in 2013.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is now one of the world's most valuable start-ups.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mike Cannon-Brookes and Scott Farquhar met at UNSW and founded Atlassian in Sydney in 2002, reportedly with about $10,000 on a credit card.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their early product Jira helped software teams track bugs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They grew for years without a traditional sales team, relying on transparent prices and word of mouth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Atlassian listed on Nasdaq in 2015.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Product-market fit.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Investor Marc Andreessen popularised the term in a 2007 essay, describing it as being in a good market with a product that can satisfy that market.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can often feel it: customers use the product eagerly, tell others and complain loudly when it breaks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Growth marketer Sean Ellis proposed a simple test.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask users how they'd feel if they could no longer use your product.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If around 40% or more say 'very disappointed', you may be close.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before fit, focus on learning; after it, on growing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juicero and Quibi.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Juicero launched in 2016 with a Wi-Fi-connected juice press that initially sold for about US$700, later cut to about US$400, and used proprietary juice packs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It raised roughly US$120 million.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017, Bloomberg reporters showed the packs could be squeezed by hand to produce much the same juice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It shut down that year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sophisticated solution must deliver real value beyond the simplest alternative.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quibi, a phone streaming service led by Jeffrey Katzenberg, raised about US$1.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "75 billion, launched in April 2020 and shut down about six months later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Observers cited COVID-19 lockdowns, hard-to-share clips and free rivals like YouTube and TikTok.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money can't substitute for testing whether customers want the product.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why startups fail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research firm CB Insights has analysed post-mortems written by founders of failed startups.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In its widely cited reports, 'no market need' and 'ran out of cash' rank among the most common reasons, alongside being outcompeted, pricing problems and team issues.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The reasons are self-reported, so the data isn't perfect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still, the pattern fits experience.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Building something people don't need is the most common and most avoidable mistake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Running out of money is often the final symptom rather than the root cause.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pivot, persist, learn.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pivot is a structured change of strategy that keeps what you've learned.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slack emerged from a company building an online game called Glitch; the game failed, but its internal chat tool became the product.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instagram began as Burbn, a check-in app, before its founders focused on the photo-sharing people actually used.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "YouTube's founders have said it was first pitched as a video dating site.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hard judgement is when to persist and when to pivot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Let customer behaviour, not pride or sunk costs, decide.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Talk to customers early, launch small, and watch your runway.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remember survivorship bias: for every famous success, many similar companies failed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Success stories show what's possible, not what's guaranteed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Canva and Atlassian solved real, widespread problems, and Atlassian grew by letting a good product sell itself.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did Pacioli's 1494 book do for bookkeeping?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Spread an existing method across Europe.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which activity is most likely to look like a business rather than a hobby?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Making paintings regularly to sell, with records.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did Atlassian do unusually in its early years?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Grew for years without a traditional sales team.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

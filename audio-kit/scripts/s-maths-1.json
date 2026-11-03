@@ -1,0 +1,1488 @@
+{
+ "id": "s-maths-1",
+ "title": "Everyday Maths · Episode 1",
+ "chapters": [
+  "Why an hour has 60 minutes: a history of counting",
+  "Percentages without the panic",
+  "The averaging trap: when rates don't add up",
+  "Mental maths tricks"
+ ],
+ "units": [
+  {
+   "t": "Everyday Maths. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Why an hour has 60 minutes: a history of counting, Percentages without the panic, The averaging trap: when rates don't add up and Mental maths tricks.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Why an hour has 60 minutes: a history of counting.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "We count in tens, tell the time in sixties and buy eggs by the dozen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each habit is a fossil from a different civilisation's way of counting, and together they tell a story more than 40,000 years long.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notches in bone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long before writing, people may have kept count by cutting marks into bone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Lebombo bone, a baboon leg bone found in a cave in the mountains between South Africa and Eswatini, carries 29 notches and is more than 40,000 years old.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Ishango bone, found in what is now the Democratic Republic of the Congo and thought to be around 20,000 years old, bears groups of notches that some researchers read as deliberate number patterns.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody can be sure what these marks meant.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But tally marks, one for each thing, are the most natural counting system there is.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People still use them today, often grouping strokes in fives, to keep score or count votes by hand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fingers and toes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of the world counts in tens, and the reason is probably at the end of your arms.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word digit comes from the Latin digitus, meaning finger or toe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Counting in tens means that once you reach ten, you start a new group.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every culture stopped at the fingers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Counting fingers and toes gives base 20, which the Maya used.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Traces survive in modern languages: French says quatre-vingts, literally 'four twenties', for 80, and English speakers once commonly used 'score' for 20, as in Lincoln's 'four score and seven years ago'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some communities in Papua New Guinea traditionally counted by pointing to a sequence of body parts, running up one arm, across the head and down the other.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sixty and a dozen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 4,000 years ago, scribes in Mesopotamia, in what is now Iraq, did sums in base 60.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It divides evenly by 1, 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30, which makes fractions easy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek astronomers later borrowed it from the Babylonians, which is why an hour has 60 minutes and a circle 360 degrees.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One Babylonian tablet gives the square root of 2 in base 60, accurate to about six decimal places.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twelve matters too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Egyptians divided day and night into 12 hours each, the root of our 24 hour day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We buy eggs by the dozen, and a dozen dozen, 144, is a gross.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before 1966 Australia had 12 pence in a shilling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roman numerals.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Romans wrote numbers with letters: I for 1, V for 5, X for 10, L for 50, C for 100, D for 500 and M for 1,000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Symbols are added together, so 27 is XXVII, and a smaller symbol placed before a larger one is usually subtracted, so 4 is IV and 90 is XC.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You still see Roman numerals on clock faces, at the end of film credits and in the names of monarchs and Super Bowls.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many clocks show 4 as IIII rather than IV.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The system worked well for recording, but it is awkward for arithmetic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try multiplying XLVIII by XIV.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Romans calculated on counting boards, moving small stones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Latin word for a pebble, calculus, gives us the word calculate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place value and zero.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our numerals grew out of India, where by around the sixth century CE mathematicians wrote numbers with ten symbols, including zero, and a digit's value depended on its place.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 347, the 3 means three hundreds; in 734, three tens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Al-Khwarizmi wrote about it in the ninth century, and his name gives us 'algorithm'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1202 Fibonacci championed it in Europe, though it took centuries to win out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Binary uses just 0 and 1, each place worth double the last, so 13 is 1101.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leibniz published an account in 1703.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It suits computers because a switch is off or on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decimal time, with 10 hours a day, was suspended in France in 1795.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Tally marks are the most natural counting system, and people have been cutting them for tens of thousands of years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Percentages without the panic.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Percentages decide your pay rise, your loan rate and whether a sale is really a bargain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few simple rules make them easy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What percent means.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Percent comes from the Latin per centum, 'for each hundred'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So 15% means 15 out of every 100, or 15/100, or 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "15.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To find a percentage, convert to a decimal and multiply: 15% of $80 is 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "15 × 80, which is $12.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A handy quirk is that x% of y always equals y% of x.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So 8% of 50 is the same as 50% of 8, which is obviously 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing the easier direction often turns a fiddly sum into an instant one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change and points.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Percentage change tells you how big a move was compared with where it started:, new minus old, divided by old, times 100.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If petrol rises from $1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "80 to $2.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "07, the rise is 27 cents, and 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "27 ÷ 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "80 is 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "15, so prices rose 15%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always divide by the starting value, not the ending one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the measure is itself a percentage, two kinds of change get mixed up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Unemployment going from 4% to 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5% rose by half a percentage point, but by 12.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5% relative to where it started.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People quote whichever sounds more dramatic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The RBA moves the cash rate in basis points, hundredths of a percentage point, so '25 basis points' is a quarter of a point, say 3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "60% to 3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "85%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Discounts and GST.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The fastest way to apply a discount is to work out what you pay.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With 30% off, you pay 70%, so a $120 jacket costs 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 × 120, which is $84.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stacked discounts don't add up: '20% off, plus an extra 10% at the register' means paying 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 × 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "9 = 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "72, so the discount is 28%, not 30%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a $500 item that is $360, not $350.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Up to 70% off' usually means only a few items get the full 70%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's GST has been 10% since 1 July 2000.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some things are GST-free, such as most basic food, many medical services and approved education courses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To add GST, multiply by 1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1: $200 becomes $220.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going backwards, GST in a $55 price is one eleventh of the total, $5, not $5.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "50.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reversing and recovering.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a jacket costs $84 after a 30% discount, the original isn't $84 plus 30%.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The sale price was 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 times the original, so divide: $84 ÷ 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 is $120.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same idea explains why ups and downs don't cancel.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a $100 share price rises 50% to $150, then falls 50%, it drops to $75, a net loss of 25%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a 20% fall you need a 25% rise to get back to where you started, and after a 50% fall you need 100%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Investors who forget this underestimate the damage of big losses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Traps and mental shortcuts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Accurate percentages can still mislead.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a risk rises from 1 in 10,000 to 2 in 10,000, a headline can say it 'doubled', yet that is one extra case per 10,000 people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask for the absolute numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare bases too: 50% of a small group can be fewer people than 10% of a large one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And don't average percentages directly: a 10% return on $1,000 and a 30% return on $100 earn $130 on $1,100, about 12%, not 20%.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most everyday percentages build from 10%.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Move the decimal one place left: 10% of $64 is $6.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "40.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Halve it for 5%, $3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "20, add them for 15%, $9.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "60, double it for 20%, $12.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "80.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For 1%, move two places, handy for card surcharges.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These habits help you check a bill or pay rise in seconds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A percentage is a number out of 100, so you find it by converting to a decimal and multiplying.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The averaging trap: when rates don't add up.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Drive somewhere at 60 km/h and back at 40, and your average speed is not 50.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Averages of rates fool almost everyone, and the mistake shows up in fuel bills, class sizes and bus stops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The return trip puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You drive 60 km to a friend at 60 km/h, then crawl home through roadworks at 40 km/h.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your average speed is not 50 km/h.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trip there took one hour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trip home took 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You covered 120 km in 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 hours, which is 48 km/h.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The slow leg counts for more because you spend longer on it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Averaging the speeds gives both legs equal weight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For equal distances, the proper tool is the harmonic mean: 2 divided by, 1/60 + 1/40, is 48.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is never above the ordinary average and leans towards the smaller number.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The simple rule: add up the totals, then divide, rather than averaging the rates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The impossible hill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cyclist rides one kilometre up a steep hill at 30 km/h and wants to average 60 km/h over the two-kilometre round trip.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How fast must she go downhill?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Intuition says 90 km/h, to balance the 30.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But to average 60 km/h over two kilometres, the whole trip must take two minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The climb alone, one kilometre at 30 km/h, has already used those two minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She would have to descend in no time at all, which means infinite speed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The target is impossible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Puzzles like this show why it pays to turn rates back into distances and times before averaging.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fuel economy illusion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2008 Richard Larrick and Jack Soll published a study in Science on the ‘MPG illusion’.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People assume that a bigger improvement in miles per gallon saves more fuel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia mostly uses litres per 100 kilometres, which avoids the trap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare two upgrades.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Replacing a car that uses 20 litres per 100 kilometres with one using 15 saves 5 litres every 100 kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Replacing an efficient car using 6 litres with one using 4 saves only 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In kilometres per litre, the first goes from 5 to about 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7, while the second leaps from about 16.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 to 25.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second looks far more impressive, yet the first saves more than twice as much fuel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who is doing the counting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A small college has two classes, one of 10 students and one of 90.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can truthfully report an average class size of 50.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But ask each student.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ten answer 10 and ninety answer 90, which averages 82.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both are correct, yet most students sit in the crowded class.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The friendship paradox is similar: on average, your friends have more friends than you do, because popular people appear in many friend lists.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buses average one every 10 minutes, but suppose gaps alternate between 5 and 15 minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A random arrival is three times as likely to land in a 15-minute gap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your expected wait is 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 minutes, not 5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is the inspection paradox: longer things are more likely to be the ones you find.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Habits that beat the trap.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These traps share a cause: an average is only meaningful if you know what it is an average of.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three questions protect you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First, are you averaging rates?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If so, go back to the totals, such as distance and time, or fuel and kilometres, and divide those instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, who is doing the counting?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An average across classes, buses or businesses can differ wildly from the average experienced by the people inside them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, would a different unit tell a different story?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kilometres per litre and litres per 100 kilometres carry identical information, but one makes savings easy to see.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None of this needs advanced maths, just the patience to ask what lies behind a number before trusting it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Average speed is total distance divided by total time, so averaging the speeds themselves gives the wrong answer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Mental maths tricks.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You don't need to be 'a maths person' to add up a bill in your head.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You just need a handful of shortcuts that professionals quietly use.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Friendly pieces.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody really calculates 47 + 38 digit by digit in their head.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They break numbers into friendlier pieces.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add tens and ones separately: 40 + 30 is 70, 7 + 8 is 15, total 85.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Or lean on a round number: 47 + 40 is 87, then take away the extra 2.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Working left to right, biggest parts first, gives a rough answer immediately that you can refine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rounding and adjusting suits prices like $4.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "95.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Six items at $4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "95 are six at $5, which is $30, minus 6 × 5 cents, which is 30 cents: $29.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "70.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Likewise 99 × 7 is 100 × 7 minus 7, which is 693, and 198 + 245 is 200 + 245 minus 2, which is 443.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fives, nines and elevens.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Five is half of ten, so multiply by 10 and halve: 68 × 5 is 680 halved, 340.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The same extends to 25, a quarter of 100: 36 × 25 is 3,600 divided by four, 900.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That suits money.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nine is one less than ten, so multiply by 10 and subtract one lot: 47 × 9 is 470 minus 47, which is 423.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the nine times table, digits add to 9 and the tens digit is one less than the multiplier, so 9 × 7 is 63.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For 11, multiply by 10 and add the number once: 11 × 36 is 360 + 36 = 396.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two-digit shortcut: put the digit sum in the middle.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For 78, 7 + 8 is 15, so write 5 in the middle and carry 1: 858.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Squaring numbers ending in 5.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To square a two-digit number ending in 5, take the tens digit, multiply it by the next whole number up, then write 25 on the end.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For 35 × 35: 3 × 4 is 12, so the answer is 1,225.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For 85 × 85: 8 × 9 is 72, giving 7,225.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works because 35 is 30 plus 5, and when you multiply it out the pieces always combine this way.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also helps with neighbours: 45 × 45 is 2,025, so 45 × 46 is simply 2,025 plus 45, or 2,070.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And it makes quick work of areas: a block 25 metres by 25 metres is 2 × 3, so 625 square metres.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Splitting and balancing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a $243 bill is split four ways, don't attack 243 directly.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Take the friendly part first: $240 ÷ 4 is $60.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then share the remaining $3: 3 ÷ 4 is 75 cents.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everyone pays $60.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "75.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For $186 among six people, 180 ÷ 6 is 30 and 6 ÷ 6 is 1, so it is $31 each.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A related trick is doubling and halving.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Halving one number and doubling the other leaves a product unchanged.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So 16 × 25 becomes 8 × 50, then 4 × 100, which is 400.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look for the version that lands on a round number.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Estimate first.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before calculating carefully, get a rough answer.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Round each number to something simple and see where the answer should land.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the supermarket, items costing $3.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "49, $5.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "99, $2.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "10 and $7.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "85 round to about 3.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5, 6, 2 and 8, roughly $19.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "50.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The exact total is $19.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "43.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the register says $29.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "43, you know instantly something is wrong.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Estimation also catches your own slips, such as a decimal point in the wrong place, which can make an answer ten times too big.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Like any skill, mental maths gets faster with practice, so try it on receipts, recipes and fuel stops.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Break numbers into friendly pieces, or round to a convenient number and adjust.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What are tally marks?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One mark for every item that is counted.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is the quickest way to find 8% of 50?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Find 50% of 8, which is 4.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. You drive 60 km at 60 km/h and return the same 60 km at 40 km/h. What is your average speed?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. 48 km/h.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How would you work out six items at $4.95 quickly?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Treat them as six at $5, then subtract 30 cents.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

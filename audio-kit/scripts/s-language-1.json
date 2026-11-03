@@ -1,0 +1,1188 @@
+{
+ "id": "s-language-1",
+ "title": "Words & Language · Episode 1",
+ "chapters": [
+  "Where language came from",
+  "How children learn to talk",
+  "Sign languages: real languages, not gestures",
+  "The strange story of English"
+ ],
+ "units": [
+  {
+   "t": "Words & Language. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Where language came from, How children learn to talk, Sign languages: real languages, not gestures and The strange story of English.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Where language came from.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every human society ever found has had a full, complex language.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How that ability began is one of the hardest puzzles in science, and the clues are hiding in the words we still use.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A puzzle with no fossils.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Speech vanishes the moment it is spoken, and writing was only invented around 5,000 years ago, in Mesopotamia and Egypt.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By then, humans had almost certainly been talking for tens of thousands of years or more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So scientists reason from skeletons, genes, tools, art and the languages alive today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question attracted so much wild speculation that in 1866 the Linguistic Society of Paris banned papers on it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It returned as serious science only in recent decades, drawing on biology, archaeology and linguistics together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When and how.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anatomically modern humans appeared in Africa roughly 300,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some researchers argue full language arrived late, perhaps 50,000 to 100,000 years ago, pointing to a flowering of art and symbolic objects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others think it developed earlier and more gradually.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no consensus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every living human population has language of comparable complexity, which suggests the capacity existed before our ancestors spread out of Africa.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speech needs fine control of breathing, tongue and larynx.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A Neanderthal hyoid bone found at Kebara Cave in Israel in 1983 looks very like ours, hinting at some capacity for speech, though this is argued over.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gene FOXP2, linked in 2001 to speech problems in one British family, was hyped as 'the language gene'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is one of many genes involved, and Neanderthals shared our version.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Languages being born.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of the best windows into language origins opened in Nicaragua in the late 1970s and 1980s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deaf children brought together in new schools, most with no shared sign language, began creating their own.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Younger children who joined later made it richer and more regular, and it grew into a full language with its own grammar, now called Nicaraguan Sign Language.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Something similar happens with creoles, which grow when children turn a rough trading 'pidgin' into a complete native language.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These cases suggest humans are strongly primed to build grammar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Families and a lost ancestor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Languages change constantly, and when groups separate, their speech drifts apart.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Latin split into Italian, Spanish, French, Portuguese and Romanian over roughly 1,500 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Languages sharing an ancestor form a family.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Linguists recognise well over a hundred, plus 'isolates' like Basque.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big families include Sino-Tibetan, Niger-Congo, over 1,500 languages, Austronesian, Madagascar to Easter Island, and Pama-Nyungan, covering most of mainland Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1786, Sir William Jones, a British judge in Calcutta, noted that Sanskrit, Greek and Latin were so alike they must share a source.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That source, Proto-Indo-European, was never written down, yet its descendants are the first language of nearly half the world, including English, Spanish, Hindi, Bengali, Russian and Persian.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many scholars place it on the steppes north of the Black Sea about 6,000 years ago; a rival theory says Anatolia, in modern Turkey.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rebuilding lost words.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Linguists rebuild lost languages by lining up related words and working out regular sound changes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jacob Grimm, one of the fairy-tale brothers, described a famous set in Germanic languages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Latin 'p' became English 'f': pater and father, pes and foot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Latin 't' became 'th': tres and three.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Latin 'c', a 'k' sound, became 'h': centum and hundred, cornu and horn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patterns like these let scholars reconstruct Proto-Indo-European words for mother, father, daughter, snow and wolf.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are no 'primitive' languages: every known language can express abstract ideas, and many small ones have grammar more intricate than English.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be sceptical of confident claims about exactly when or how language began.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We have strong clues, competing theories and much to learn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Spoken language leaves no fossils, so its origins must be pieced together from indirect clues.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How children learn to talk.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "By around age four, most children have mastered the basics of a staggeringly complex grammar without a single lesson.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How do they do it?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Listening before birth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Language learning starts earlier than most people think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In late pregnancy, a baby hears muffled sounds with their rhythm intact.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newborns prefer their mother's voice and the rhythm of the language they heard in the womb.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research comparing French and German babies suggests newborns' cries may carry traces of that melody.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the first months, babies can tell apart speech sounds from almost any language, including contrasts their parents cannot hear.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That fades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research led by Janet Werker found that by around 10 to 12 months, babies lose sensitivity to differences their language does not use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is specialisation, which makes learning words easier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also helps explain why adults often struggle with sounds their own language lacks, such as Japanese speakers hearing the difference between English 'r' and 'l'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Babbling to sentences.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around six or seven months, many babies begin babbling, repeating syllables like 'bababa' or 'dadada'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deaf babies exposed to sign language babble with their hands in a similar rhythm, which suggests babbling is about language, not just mouth practice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First words usually arrive around the first birthday, though the range is wide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Words then come slowly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often in the second year, many children go through a vocabulary burst, adding new words at a rapid pace.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two-word phrases like 'more milk' and 'daddy gone' appear, followed by longer sentences.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By around four, most children speak in complex sentences.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every child is different, so these ages are general guides, not strict deadlines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mistakes that prove learning.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of the most charming signs of language learning is also one of the most revealing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A child who once said 'went' may suddenly say 'goed'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A child who said 'mice' may switch to 'mouses'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Parents sometimes worry, but this is progress.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The child has discovered a rule, add '-ed' for the past or '-s' for plurals, and is applying it everywhere, even to exceptions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Linguists call this overregularisation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody taught the child 'goed', and they almost certainly never heard an adult say it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They invented it from the pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time, children relearn the exceptions, and 'went' returns.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mistakes show that children are not just copying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are building a system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born to speak.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1950s and 1960s, Noam Chomsky argued that children could not learn language's complex rules from the limited, messy speech they hear, so humans must have an inborn capacity, sometimes called universal grammar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Michael Tomasello and others argue that general thinking skills, such as spotting patterns and reading intentions, plus huge practice, are enough.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most scientists agree humans have some special readiness, but disagree on how much.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1970s and 1980s, new schools in Nicaragua brought together deaf children who had lived isolated lives.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In playgrounds and on buses they began signing, and a shared language formed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later, younger children made it more systematic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children can create and refine language.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helping language grow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research suggests what matters most for young children is back-and-forth conversation, not flashcards or apps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Responding to a baby's babbles, naming things in everyday routines, asking questions and waiting for answers all help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading together is especially valuable, because books contain words and sentence types that rarely come up in daily chat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people find the singsong voice adults use with babies, sometimes called parentese, a little silly, but studies suggest it helps babies pay attention to speech.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Children raised with two or more languages are not confused by them, and bilingualism is common worldwide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For milestones, see raisingchildren.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "net.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, and if you have concerns, talk to your GP, child health nurse or a speech pathologist.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Babies tune in to language before birth, then narrow their hearing to the sounds that matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Sign languages: real languages, not gestures.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Sign languages have their own grammar, history and even accents.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are not universal, and they are not English on the hands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths about signing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many hearing people assume sign language is one universal system of gestures, or a spoken language spelled out with the hands.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neither is true.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are many sign languages around the world, and one widely used reference catalogue lists well over a hundred.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They arise naturally wherever deaf people form communities, and they differ from each other as spoken languages do.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "British Sign Language and American Sign Language are not mutually intelligible, even though both countries speak English.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each has its own vocabulary and grammar, which are not copied from the spoken language around it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fingerspelling, where words are spelled letter by letter, exists but is used mainly for names and borrowed terms, not everyday conversation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A French connection.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why is American Sign Language so different from British?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answer is a historical accident.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1815 Thomas Hopkins Gallaudet, an American minister, travelled to Britain to learn how to teach deaf children, but the schools he visited were secretive about their methods.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead he met teachers from the Paris school for the deaf, which welcomed him, and studied there with Laurent Clerc, a deaf teacher.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clerc agreed to come to America, and in 1817 they founded what is now the American School for the Deaf in Hartford, Connecticut.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The French signs Clerc brought mixed with local sign systems used by American deaf people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result was ASL, which still shares many signs with French Sign Language.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gallaudet University in Washington, DC, is named in his honour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The island where everyone signed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On Martha's Vineyard, off Massachusetts, a hereditary form of deafness was unusually common from the 1700s into the early 1900s, especially in certain villages.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A local sign language developed, and many hearing islanders learnt it too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deaf people married, worked, voted and joined community life much like anyone else, and hearing residents sometimes signed to each other even when no deaf person was present.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The anthropologist Nora Ellen Groce documented this history in a 1985 book whose title reports what older residents told her: that everyone there spoke sign language.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The case suggests that deafness becomes a disability largely when society cannot communicate with deaf people.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the island became less isolated, the local sign language died out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Milan ban.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1880, an international congress of educators of the deaf met in Milan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost all delegates were hearing, and they voted overwhelmingly for oralism, teaching deaf children only through speech and lip-reading, and against sign language in classrooms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the following decades, schools in many countries followed this approach.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deaf children were often punished for signing, and some deaf teachers lost their jobs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many deaf adults later described their schooling as deeply damaging, with years spent drilling speech instead of learning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet sign languages survived in dormitories, playgrounds and deaf clubs, passed from child to child.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2010 an international congress on deaf education, held in Vancouver, formally rejected the Milan resolutions and apologised for their effects.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proof, and Auslan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a long time even scholars thought sign was mere gesture.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1960 William Stokoe, a hearing English teacher at Gallaudet College, showed that ASL signs break into meaningful building blocks, such as handshape, location and movement, much as spoken words are built from sounds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change one element and the meaning changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later work found rich grammar, including space used to track who did what to whom, and raised eyebrows marking a yes or no question.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's sign language is Auslan, a name that came into wide use in the 1980s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It descends mainly from British Sign Language, with some Irish influence, and is closely related to New Zealand Sign Language.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Auslan users fingerspell with two hands, while ASL uses one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was recognised in the 1987 national language policy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sign languages are many separate natural languages with their own grammar, not universal gestures or spoken words spelled on the hands.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The strange story of English.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why is English spelling so chaotic?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why do we eat 'beef' from a 'cow'?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blame invaders, printers and a mysterious vowel shift.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Old English and Norse.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English began in the 5th century, when the Angles, Saxons and Jutes crossed the North Sea and settled in Britain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their Old English would be unreadable to most of us; the epic poem Beowulf looks almost foreign.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But many basic words come from it: house, water, bread, eat, sleep, mother, love, and 'English' itself, from the Angles.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From the late 700s, Viking raiders and then settlers arrived.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Old Norse was related to Old English, so the two mixed easily.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English borrowed hundreds of everyday words, including sky, egg, knife, window, skin, husband, law and even the pronouns they, them and their.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many 'sk' words, like skirt, are Norse; the older shirt survived beside it with a different meaning.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1066 and French.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1066, William of Normandy conquered England, and for around 300 years the ruling class spoke Norman French.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English survived among ordinary people but absorbed around 10,000 French words, especially to do with power: government, parliament, court, judge, jury, crime, army and nobility.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This created a class divide that still shows in food.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The animals, tended by English-speaking peasants, kept English names like cow, pig and sheep, while the meat served to French-speaking nobles took French names: beef, pork and mutton.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why spelling is odd.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Between roughly 1400 and 1700, English went through the Great Vowel Shift, a major change in how long vowels were pronounced.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Bite' had sounded like 'beet' and 'house' like 'hoose'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But spelling, influenced by printing's arrival in England in 1476, was starting to settle during this time, so many words kept spellings that matched older pronunciation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Printers, some of them Dutch, added quirks too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Words like 'knight', where the k and gh were once pronounced, are fossils of older English.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Samuel Johnson's influential dictionary of 1755 later helped standardise meanings and spellings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A borrowing language.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "William Shakespeare's works contain the first recorded uses of many words and phrases still common, though some were probably already in speech: 'the be-all and end-all', 'heart of gold', 'a foregone conclusion', 'the green-eyed monster' and 'wear my heart upon my sleeve'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 1611 King James Bible popularised phrases like 'the salt of the earth'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English is also a magpie language.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Latin and Greek gave thousands of scientific words.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trade and empire brought shampoo, bungalow and pyjamas from Indian languages; tea and ketchup from Chinese; algebra and coffee via Arabic; tsunami and emoji from Japanese; chocolate and tomato from Nahuatl, the language of the Aztecs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why English has several words for similar ideas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian and global English.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian English developed from the mix of accents brought by convicts and settlers, mainly from southern England and Ireland, and soon sounded distinct.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It borrowed around 400 words from Aboriginal languages, including kangaroo, koala, wombat, dingo, billabong, yakka and boomerang.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It loves shortening words: arvo, brekkie, servo, barbie, ambo.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spelling mostly follows British conventions, and the Macquarie Dictionary, first published in 1981, records it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today around 1.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 billion people speak English, but only about 380 million as a first language.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It dominates international business, science, aviation and the internet, a result of British colonial history and later American influence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English keeps changing, and dictionaries add hundreds of new words each year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: English began with Germanic tribes in the 5th century, then borrowed hundreds of everyday words from Viking settlers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why is the origin of language so hard to study?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Speech leaves no fossils and writing is recent.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do babies lose the ability to hear sound differences their language doesn't use?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Their brains specialise in the sounds that matter to them.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Which statement about sign languages is accurate?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Each has its own vocabulary and grammar.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why do pronouns like 'they' and 'them' exist in English?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They were borrowed from Old Norse.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

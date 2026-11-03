@@ -1,0 +1,1320 @@
+{
+ "id": "s-food-2",
+ "title": "Food & Cooking · Episode 2",
+ "chapters": [
+  "Kitchen myths, busted",
+  "The science of baking",
+  "Fermentation: cooking with microbes",
+  "Meal planning that works"
+ ],
+ "units": [
+  {
+   "t": "Food & Cooking. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Kitchen myths, busted, The science of baking, Fermentation: cooking with microbes and Meal planning that works.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Kitchen myths, busted.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Searing seals in juices.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alcohol burns off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oil stops pasta sticking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These ideas get passed from cook to cook, and many of them are simply wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searing seals nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea that searing ‘seals in the juices’ goes back to the German chemist Justus von Liebig in the mid-1800s and spread through cookbooks for a century.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experiments have repeatedly shown it is wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A seared crust is not waterproof, and seared meat loses about as much moisture as unseared meat cooked to the same internal temperature, sometimes more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sizzle in the pan is moisture boiling away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searing is still worth doing, because the Maillard reaction creates deep browned flavour and appealing colour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What keeps meat juicy is not overcooking it, which is why a thermometer matters far more than a dramatic sear.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol lingers in food.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people believe all the alcohol in wine or spirits disappears as soon as a dish is heated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "United States Department of Agriculture measurements show otherwise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When alcohol was added to a boiling liquid and removed from the heat, most of it remained.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flaming a dish left around three-quarters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After 15 minutes of simmering, about 40 percent was still there, and even after two and a half hours, around 5 percent remained.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol and water evaporate together, so it never vanishes all at once.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The amounts per serve are usually small, but it matters for people who avoid alcohol completely for health, religious or recovery reasons, and for young children.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pasta water myths.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pouring oil into pasta water ‘to stop it sticking’ does almost nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oil and water do not mix, so the oil sits on the surface while the pasta tumbles below.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pasta sticks in the first couple of minutes, when surface starch turns gluey.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use plenty of water at a rolling boil and stir well early on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oil that coats drained pasta can make sauce slide off.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Save a cup of the starchy water instead, which helps sauces turn glossy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salt does not make water boil faster either.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dissolved salt slightly raises the boiling point, but at cooking amounts the change is a fraction of a degree.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The burst of bubbles when salt hits hot water is crystals giving gases a place to form.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real reason to salt is flavour: food absorbs salt as it cooks, seasoning it from within.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Microwaves and nutrients.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A popular belief says microwaves cook from the inside out.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In fact they penetrate only a centimetre or two into most foods, making water molecules jiggle and generate heat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The centre of a large item warms as heat spreads inwards, just as in an oven, only from a thicker starting layer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why recipes include standing time to let heat even out, and why stirring and rotating help avoid cold spots, which matter for food safety when reheating.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another myth is that microwaving destroys nutrients.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because cooking is quick and uses little water, microwaving vegetables often keeps water-soluble vitamins, such as vitamin C, as well as or better than boiling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dropped food and frozen food.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The five-second rule claims food is safe if picked up quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016, food scientist Donald Schaffner's team at Rutgers University contaminated surfaces including stainless steel, tile, wood and carpet with bacteria, then dropped watermelon, bread, buttered bread and gummy lollies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Transfer could happen in under a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Longer contact meant more bacteria, but speed alone did not make food safe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moisture mattered most: watermelon picked up the most, dry lollies the least.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carpet transferred fewer bacteria than tile or steel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fresh is not always better than frozen either.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fresh vegetables can spend days in transport and your fridge, losing vitamins.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frozen vegetables are blanched and frozen soon after harvest, and studies generally find similar nutrients.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frozen peas, berries and spinach are cheap and waste less, while fresh often wins on texture and taste.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Searing adds flavour but does not seal in juices; keeping meat juicy comes from not overcooking it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The science of baking.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A cake is a chemistry experiment you get to eat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understand the reactions and your baking stops being luck.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chemistry and gluten.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A stir-fry forgives a heavy hand with the garlic.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cake doesn't: once batter is in the oven, you can't taste and adjust.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flour, water, fat, sugar, eggs and raising agents react together as proteins bond, gases expand, starches set and sugars brown.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Change one quantity and the structure changes, so swapping butter for oil or skipping an egg can give a dense or collapsed bake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gluten is the stretchy protein network formed when wheat flour is wetted and worked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You control it four ways.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flour: bread flour has around 12% protein or more, plain around 10%, so bread flour is chewier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mixing: overmixed muffin batter turns tough.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resting: time relaxes gluten, so pastry and pizza dough roll out more easily after a rest in the fridge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fat: it coats proteins, which is why pastry fat is called shortening.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yeast: a living raiser.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Baker's yeast is a single-celled fungus, Saccharomyces cerevisiae.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Given warmth, moisture and food, it ferments sugars from the flour into carbon dioxide gas and a little alcohol.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gluten network traps the gas and the dough rises.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fermentation also builds flavour, which is why slow, cool rises, even overnight in the fridge, often make tastier bread.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yeast likes lukewarm conditions; very hot water can kill it, and it dies in the oven as the loaf heats through.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salt slows yeast and helps control the rise, but don't dump it directly onto yeast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sourdough uses wild yeasts and bacteria instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Powders, air and eggs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chemical raising agents work faster than yeast but are easy to get wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bicarb soda is roughly three to four times as powerful as baking powder, so swapping spoon for spoon can ruin a bake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both weaken with age, especially in humid kitchens.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test baking powder in hot water, lively fizzing means it's good, and bicarb with a splash of vinegar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Out of self-raising flour?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sift two teaspoons of baking powder into each cup of plain flour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dutch-processed cocoa is alkalised, so it won't react with bicarb like natural cocoa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air and steam raise bakes too: creaming butter and sugar, whisked egg whites, and water turning to steam in choux and Yorkshire puddings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Eggs set structure, add richness, and their lecithin emulsifies fat and water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Getting a golden crust.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crust colour comes mainly from browning reactions between sugars and proteins.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They need a dry surface and temperatures well above boiling point, so the moist crumb inside stays pale.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An egg wash adds shine and colour: yolk alone gives a deep golden finish, whole egg a golden gloss, and milk a softer, less shiny brown.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doughs rich in sugar, milk or eggs brown faster, which is why brioche darkens quickly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Alkaline conditions speed browning, so traditional pretzels are dipped in an alkaline bath for a glossy mahogany crust.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If tops darken before the middle is cooked, lay a loose sheet of foil over them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A lower oven rack gives a browner base; a higher one browns the top.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measure, then troubleshoot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A cup of flour can vary by 20% or more depending on whether you scoop or spoon it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Professional bakers weigh everything on digital scales.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An Australian cup is 250 millilitres and tablespoon 20 millilitres, while a US cup is about 240 and most countries use a 15 millilitre tablespoon, so check where a recipe comes from, especially for bicarb and salt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ovens often run hotter or cooler than the dial says, so an oven thermometer helps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fan-forced ovens cook faster; lower the temperature by about 20°C.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opening the door early can sink a cake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A peaked, cracked cake usually means the oven was too hot; a dense one, old raising agent or overmixing; a pale crust, a cool oven.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bake a new recipe exactly as written, then change one variable at a time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Baking is a set of chemical reactions, and you control gluten through flour, mixing, resting and fat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Fermentation: cooking with microbes.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Bread, cheese, yoghurt, soy sauce, kimchi, vinegar and Vegemite all depend on tiny living helpers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fermentation is one of humanity's oldest and cleverest food technologies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Controlled rotting.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leave fruit on the bench and microbes will spoil it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fermentation is what happens when we steer that process.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By controlling salt, temperature, moisture and oxygen, cooks encourage helpful microbes and keep harmful ones out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The helpful microbes eat sugars and other nutrients and produce by-products such as alcohol, carbon dioxide and acids.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These change flavour and texture, and often help food last longer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People fermented food for thousands of years without knowing microbes existed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chemical traces in pottery from Jiahu in China suggest people brewed a drink from rice, honey and fruit about 9,000 years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1850s and 1860s, Louis Pasteur showed that living microorganisms are responsible, transforming our understanding of food and disease.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yeast, bubbles and Vegemite.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yeast, a single-celled fungus, feeds on sugar and, with little oxygen, produces alcohol and carbon dioxide.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brewers and winemakers want the alcohol.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wine is fermented grape juice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For beer, barley is malted and mashed so its starch breaks into sugars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bakers want the gas: bubbles of carbon dioxide are trapped in dough's stretchy gluten network, so the loaf rises, and the little alcohol made bakes off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sourdough uses a living starter of wild yeasts and bacteria, giving a tangier loaf.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fermentation also turns waste into food.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vegemite, created in Melbourne in the early 1920s by chemist Cyril Callister, is made from spent brewer's yeast left over from beer making, mixed with salt and vegetable extracts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria make acids.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lactic acid bacteria convert sugars into lactic acid, which makes food tangy and creates acidity where many spoilage and disease-causing microbes struggle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For yoghurt, specific bacteria are added to warm milk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As acid forms, milk proteins tighten and the milk thickens.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sauerkraut and kimchi rely on bacteria already on the vegetables.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salting cabbage draws out water and favours salt-tolerant lactic acid bacteria.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red kimchi is newer than many assume, since chillies only reached Korea from the Americas a few centuries ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vinegar is a two-stage fermentation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yeast first turns sugars into alcohol, making wine, cider or beer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then oxygen-loving acetic acid bacteria convert that alcohol into acetic acid.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Vinegar' comes from the French for 'sour wine'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moulds, koji and cheese.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some fermenting microbes are moulds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In East Asian cooking the key one is koji, Aspergillus oryzae.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grown on steamed rice, soybeans or barley, it produces powerful enzymes that break starches into sugars and proteins into amino acids.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That starts soy sauce, miso, mirin and sake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soy sauce is made by mixing koji-covered soybeans and wheat with brine and fermenting for months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The glutamate released gives these foods their savoury umami taste.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cheese begins when bacteria sour milk, which is then curdled, usually with rennet, an enzyme that clumps milk proteins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The whey is drained and the curds salted, pressed and often aged, while bacteria and moulds break down fats and proteins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moulds also give blue cheeses their veins and brie its white rind.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Preserving and home safety.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before refrigerators, acid, alcohol and salt made life hard for harmful microbes, so fermented foods kept for months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Communities relied on them through winters and lean seasons, and sailors at sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On his eighteenth-century voyages, including the one that reached Australia's east coast in 1770, James Cook carried large quantities of sauerkraut, partly hoping to prevent scurvy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Home fermenting is popular.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use clean equipment, get the salt or acidity right, and keep air out when the recipe says to.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthy ferments smell sour, yeasty or pleasantly funky.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fuzzy coloured mould, slime or a rotten smell means throw it out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Low-acid foods stored without oxygen can risk botulism, so follow tested recipes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evidence for gut-health benefits is still developing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See Food Standards Australia New Zealand and healthdirect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fermentation is microbes transforming food in useful ways, steered by salt, temperature, moisture and oxygen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Meal planning that works.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Twenty minutes of planning on the weekend can save you money, waste and the nightly 'what's for dinner?'",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "dread.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan from reality.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian households throw away a lot of food: national estimates put it at around 2.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 million tonnes a year, commonly estimated at over $2,000 per household.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of it is fresh produce forgotten in the crisper.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Planning means you buy what you will cook, avoids the nightly scramble that leads to expensive takeaway, and makes healthy eating easier because the decision is made while you're calm and not hungry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even three or four planned dinners a week helps.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Begin with the week, not recipes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Which nights are busy with sport, late shifts or visitors?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Match meals to the night: a 15-minute stir-fry for Tuesday training, a slow roast for Sunday.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then check your fridge, freezer and pantry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Shop your kitchen first' cuts both waste and your grocery bill.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build the plan and list.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look for overlap.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A bunch of coriander can go into Monday's tacos and Wednesday's curry; a roast chicken on Sunday becomes Monday's wraps and Tuesday's soup.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Theme nights, such as pasta Monday and fish Friday, remove decision fatigue.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep ten or so reliable favourites, add one new recipe a week if you enjoy variety, and leave a gap night for leftovers or unexpected plans.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then write down every ingredient you don't already have, with quantities, grouped by section: produce, meat, dairy, pantry.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep a running list for staples as they run low, ideally shared so no one buys three jars of the same thing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stick to it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supermarkets are designed to encourage impulse buys, and a list is your best defence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shopping on a budget.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Larger Australian supermarkets must display unit prices, such as the price per kilogram or per 100 grams, on shelf labels.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use them: the larger pack isn't always cheaper, and specials sometimes aren't special.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fruit and vegetables in season are usually cheaper and tastier.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frozen vegetables are picked and frozen quickly, keeping their nutrients and never going limp in the fridge.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tinned tomatoes, beans, lentils and chickpeas are cheap, nutritious and last for ages.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stretch meat with legumes, or use eggs and cheaper cuts like chuck steak or chicken thighs, which suit slow cooking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Home brands are often made to similar standards.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And never shop hungry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Batch cooking and waste.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Batch cooking means making a big pot of bolognese, curry or soup and portioning it for later.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cool food quickly in shallow containers and get it into the fridge within about two hours; you don't need to wait until it is cold.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep the fridge at 5°C or below and the freezer at about minus 18°C.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Label everything with contents and date.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eat refrigerated leftovers within two to three days and reheat them until steaming hot.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frozen meals keep safely for months.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A use-by date is about safety: don't eat food after it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A best-before date is about quality: food is usually still safe if stored properly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Store greens with a paper towel, bread in the freezer and herbs in water.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put older items at the front, and turn wilting vegetables into soups, fried rice or frittatas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your first week.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't try to plan every meal on day one.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pick one planning time, such as Sunday morning, and plan four dinners.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Include one batch-cook meal for leftovers and one quick meal for your busiest night.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the fridge first, write the list, shop once.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the end of the week, notice what got eaten, what got wasted and what felt like too much effort, then adjust.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep your plans; after a month you'll have a rotation you can reuse.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Dietary Guidelines recommend plenty of vegetables, and a handy rule of thumb is to fill about half your dinner plate with vegetables or salad.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Planning meals ahead saves money, cuts waste and removes daily decision fatigue, and it starts with your calendar and what you already have.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What actually keeps a steak juicy?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Not overcooking it.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does fat limit gluten in pastry?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It coats proteins so gluten stays short.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is fermentation in essence?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Steering microbes to change food in useful ways.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What should you do before choosing meals for the week?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Check your calendar and what you already have.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

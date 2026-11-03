@@ -1,0 +1,953 @@
+{
+ "id": "s-cyber-1",
+ "title": "Cybersecurity · Episode 1",
+ "chapters": [
+  "Passwords, passkeys and staying locked",
+  "Phishing: don't take the bait",
+  "Your data and your privacy"
+ ],
+ "units": [
+  {
+   "t": "Cybersecurity. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Passwords, passkeys and staying locked, Phishing: don't take the bait and Your data and your privacy.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Passwords, passkeys and staying locked.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Billions of stolen passwords circulate online, and if you reuse yours, one leak can open every door you have.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why passwords fail.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The single biggest password mistake is reuse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Websites get breached all the time, and stolen email and password pairs are traded in huge lists.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Criminals then run automated attacks called credential stuffing, trying those pairs on banks, email providers and shopping sites.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you used the same password for an old forum and your email, the forum's breach hands them your email too, and email is the master key for resetting almost everything else.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Criminals also guess billions of combinations against stolen databases, starting with '123456', 'password', names, keyboard patterns and dictionary words with a number on the end.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Swapping letters for symbols, like 'P@ssw0rd', fools almost nobody, because tools try those substitutions automatically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What really slows attackers is length.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each extra character multiplies the combinations, so advice has shifted from complexity to length.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Passphrases and managers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A passphrase strings several random words together, such as 'crystal onion clay pretzel'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is long, so hard to crack, yet easier to remember than a jumble of symbols.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Cyber Security Centre recommends four or more random words.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Random is key: lyrics, quotes and your children's names are predictable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use passphrases for what you must type from memory: your computer login, phone and password manager.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reputable password managers encrypt your vault on your own device, using a key derived from your master passphrase, so the company cannot read your saved passwords.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This was tested in 2022 when criminals stole LastPass vault backups: well-protected vaults stayed locked, but weak master passwords left people exposed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choose a strong, unique master passphrase, turn on multi-factor authentication, and set up recovery options.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The security question trap.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many accounts let you reset a password by answering questions like your mother's maiden name or your first pet, which can quietly undo all your careful password work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answers are often public or guessable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2015 Google researchers found an attacker had nearly a one-in-five chance of guessing English speakers' answer to 'What is your favourite food?'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "in a single try.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer was pizza.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 40% of users also couldn't remember their own answers when needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inventing an answer only helps if it's truly random, because people often pick the same predictable fakes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Treat each answer like a password: generate a random one and save it in your password manager.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How passkeys work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Passkeys are a newer technology designed to replace passwords, backed by Apple, Google, Microsoft and the FIDO Alliance.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you create one, your device makes a matching pair of cryptographic keys.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The website stores the public key; the private key stays protected on your devices and is never shared.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To sign in, you just unlock your device with your face, fingerprint or PIN.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because there is no password to type, there's nothing to steal in a breach and nothing to reuse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fake website can't trick you either, since the passkey only works with the real site.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check and upgrade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Have I Been Pwned, a free service created by Australian security researcher Troy Hunt, shows whether your email has appeared in known breaches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many password managers also warn about reused, weak or leaked passwords.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you're caught up in one, change that password immediately, plus any account where you reused it, and turn on multi-factor authentication.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If identity documents were exposed, IDCARE, Australia's national identity and cyber support service, offers free help.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't have to fix everything at once.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with your main email: a unique passphrase and multi-factor authentication.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then do banking, myGov and social media.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Let a password manager replace old passwords gradually, switch to passkeys where offered, keep recovery codes safe offline and update your devices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Reusing passwords and choosing short, predictable ones lets criminals turn one breach into many.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Phishing: don't take the bait.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most cyber attacks don't start with genius hackers breaking code.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They start with a message that convinces a real person to click.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What phishing is.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phishing is when criminals pretend to be someone you trust, such as your bank, a delivery company, the tax office or your boss, to trick you into clicking a link, opening an attachment, handing over details or sending money.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The name comes from fishing: cast enough bait and someone will bite.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It began in the 1990s and remains one of the most common ways attacks begin, because fooling a person is often easier than breaking security technology.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It has spread beyond email.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scam texts, smishing, claim a parcel is waiting or a toll is unpaid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phone scams, vishing, use a live voice, sometimes a spoofed caller ID.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fake QR codes can lead to lookalike payment pages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scammers increasingly use AI to write flawless messages or imitate voices.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spear phishing is tailored to one person using details found online.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pressure and red flags.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phishing messages push emotional buttons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Urgency: 'Your account will be closed in 24 hours.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fear: 'You owe unpaid tax.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curiosity: 'Is this you in this photo?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greed: 'Claim your refund.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Authority: a message that seems to come from a manager or police.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All aim at getting you to act before careful thinking catches up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Common red flags include a sender that doesn't quite match the organisation, links to odd web addresses like 'mybank-secure-login.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "co', unexpected attachments, a generic greeting, and any request for passwords, one-time codes, card details or remote access.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a computer, hover over a link to preview its real destination.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But modern scams can look polished, use your name and appear in genuine message threads, so no red flags doesn't mean safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Business email scams.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Businesses are prime targets for business email compromise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Criminals hack or imitate a supplier's email account, then say their bank details have changed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The next invoice gets paid into the scammer's account.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others pose as a senior manager urgently asking staff to transfer money or buy gift cards.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Home buyers are targeted too, with fake emails from 'conveyancers' giving new account details for a deposit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The defence is simple but must be firm: always verify any change of bank details by phoning the person on a number you already have, never the one in the email.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check independently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The single most useful habit is to verify independently.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a message claims to be from your bank, don't click its link or call its number.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Open your banking app, type the bank's address into your browser yourself, or phone the number on the back of your card.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same goes for the tax office, myGov, delivery companies and toll roads.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a friend or relative messages from a new number asking for money, call them on their old number.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genuine organisations won't mind you checking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ACCC's Scamwatch sums it up as three steps: stop, check, protect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you clicked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Act quickly and don't be embarrassed; smart people are caught every day.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you gave out card or bank details or sent money, call your bank immediately on its official number, as it may be able to stop payments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you entered a password, change it straight away, along with any account using the same one, and turn on multi-factor authentication.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you installed software or gave remote access, disconnect from the internet and get trusted help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "IDCARE offers free support for identity theft, and the Australian Cyber Security Hotline, 1300 CYBER1, can advise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Report scams to Scamwatch, scamwatch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, run by the ACCC, and cybercrime through ReportCyber, cyber.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, run by the ASD's Australian Cyber Security Centre.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Also tell the organisation being impersonated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even a report that doesn't recover your money can stop the scam reaching someone else.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Phishing tricks people into acting by pretending to be someone trusted, through email, text, phone, social media and QR codes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Your data and your privacy.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every tap, search and purchase leaves a trace.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's who collects it, what happened when big companies lost it, and what rights you have.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your data has value.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many popular online services are free because they make money largely by selling advertising, and ads are worth more when targeted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That makes knowledge of your age, location, interests, habits and purchases valuable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'If you're not paying for the product, you are the product' is a simplification, since data also improves services and fights fraud, but 'free' usually involves a trade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tracking takes many forms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Third-party cookies, placed by advertisers, can follow you across sites.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tracking pixels, tiny invisible images, report when you open an email or page.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apps may collect your location, contacts and usage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Device fingerprinting identifies you from your device's settings, even without cookies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loyalty cards link purchases to you, and data brokers trade information to build profiles.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combined, these pieces can reveal a surprising amount about your life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Optus and Medibank.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In September 2022, Optus revealed a cyber attack that exposed personal information of around 10 million current and former customers, among the largest breaches in Australian history.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Details included names, dates of birth, addresses, and for many, driver's licence or passport numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It sparked debate about why companies keep so much data, sometimes about customers who left years earlier, and helped drive tougher privacy penalties later that year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In October 2022, health insurer Medibank was hit, affecting about 9.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "7 million current and former customers, including health claims for many.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Medibank refused to pay the ransom, in line with government advice, and the criminals published some data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2024 the government imposed cyber sanctions on a Russian man it identified as responsible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Health information can be exploited, so storing less, and protecting it well, matters.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Privacy Act and rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's main law is the Privacy Act 1988, with 13 Australian Privacy Principles covering how personal information is collected, used, stored, disclosed and secured.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It applies to federal agencies and most organisations with annual turnover above $3 million, plus some smaller ones such as health providers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The OAIC, Office of the Australian Information Commissioner, oversees it, and it was updated in 2022 and 2024.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You generally have the right to know why information is collected and how it will be used, to ask for access and corrections, to avoid identifying yourself where practical, and to opt out of direct marketing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 2018 the Notifiable Data Breaches scheme has required organisations to notify you and the OAIC of breaches likely to cause serious harm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If unhappy, complain to the organisation, then the OAIC.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taking control.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can reduce tracking without going off the grid.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On your phone, review which apps can access your location, contacts, camera and microphone, and switch off anything unnecessary.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "iPhones let you ask apps not to track you across other apps; Android has similar ad privacy settings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In your browser, block third-party cookies or use a privacy-focused browser.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check social media privacy settings, and think twice before posting your birthday, address or holiday dates publicly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a form asks for information, ask whether it's really needed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Data you never hand over can't be leaked, sold or misused later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a breach.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you're told your data was caught in a breach, read the notice carefully to see exactly what was exposed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Change affected passwords and turn on multi-factor authentication.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If identity documents were exposed, follow advice about replacing them; some agencies can issue new licence numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consider a free credit ban through Australia's credit reporting bodies if you're worried about identity fraud, and watch bank statements closely.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be wary of follow-up scam messages using your leaked details.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "IDCARE provides free support.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only: for a specific legal problem, talk to a lawyer or community legal centre.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Free services earn money from advertising, so detailed data about you has commercial value, collected through many kinds of tracking.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why is reusing a password so risky?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One leak lets criminals try it on other sites.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does phishing remain so common?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Fooling people is easier than hacking.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do free online services collect detailed data about you?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Targeted ads earn more, so data has value.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

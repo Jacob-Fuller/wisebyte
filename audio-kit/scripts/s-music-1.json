@@ -1,0 +1,1212 @@
+{
+ "id": "s-music-1",
+ "title": "Music · Episode 1",
+ "chapters": [
+  "How music works",
+  "How music learned to be written down",
+  "Why every piano is slightly out of tune",
+  "The world of instruments"
+ ],
+ "units": [
+  {
+   "t": "Music. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How music works, How music learned to be written down, Why every piano is slightly out of tune and The world of instruments.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How music works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every song you love is just air, pushed back and forth in careful patterns.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how those patterns become music.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sound, pitch and frequency.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A vibrating guitar string squeezes and stretches the air beside it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That pressure wave travels at about 343 metres per second, roughly a kilometre every three seconds, and nudges your eardrum.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny bones pass the movement to the cochlea, where hair cells turn it into nerve signals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pitch depends on frequency, measured in hertz, Hz.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A healthy young ear hears roughly 20 Hz to 20,000 Hz, and the upper limit falls with age.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orchestras tune to the A above middle C at 440 Hz.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Double any frequency and you get the same note an octave higher, so the next A is 880 Hz.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why men and women singing the 'same' tune are often an octave apart without noticing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why instruments sound different.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A piano and a violin can play exactly the same pitch and still sound completely different.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The reason is timbre, or tone colour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost no instrument produces a single pure frequency.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alongside the main note, the fundamental, it produces fainter overtones at higher frequencies, often simple multiples of the fundamental.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each instrument has its own recipe of overtones, plus its own way of starting and fading a note: the sharp strike of a piano hammer, the smooth swell of a bowed string.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain reads that recipe instantly, which is how you can recognise a familiar voice from a single word.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rhythm and melody.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The beat is the pulse you tap your foot to, and tempo is its speed in beats per minute.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A slow ballad sits around 60 to 80, while much dance music runs at about 120 to 130.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beats group into bars, commonly four beats, though waltzes use three.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rhythm is the pattern of long and short sounds over that pulse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans are unusually good at locking onto a beat; few other animals do, though some parrots have been filmed bobbing in time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A melody is a line of notes your brain hears as one shape.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Good melodies repeat short motifs so you can follow them, then vary them to stay interesting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most move in small steps with occasional leaps, build to a high point, and settle back 'home', one of music's strongest pulls.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scales and harmony.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most Western music divides each octave into 12 equal steps called semitones, the white and black keys on a piano.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A scale is a chosen subset.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The major scale uses seven, the do-re-mi from school.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pentatonic scale uses five and appears in folk music from Scotland to China to West Africa.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Indian classical and Arabic music use pitches between the piano's keys.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Harmony is notes sounding together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consonant combinations sound smooth and stable; dissonant ones sound tense.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consonant intervals have simple frequency ratios: an octave is 2 to 1, and a perfect fifth, the interval opening many fanfares, is 3 to 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of music's drama comes from building tension with dissonance, then resolving it to a consonant chord.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Happy chords, sad chords.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Listeners raised on Western music usually hear major chords as bright or happy and minor chords as darker or sad.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The difference is small: in a minor chord, the middle note is one semitone lower.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it matters so much is still debated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers point to acoustics, and to similarities with the way sad speech is lower and flatter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others stress learning, since the association varies between cultures and eras.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Context counts too: a minor key at a fast tempo can sound energetic rather than sad.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next time a song moves you, listen for where the key or tempo changes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sound is a pressure wave, and pitch is how we hear its frequency: faster vibrations sound higher.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How music learned to be written down.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For most of history, music lived only in memory.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The squiggles, lines and dots that now let anyone read a song were invented bit by bit over a thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music without paper.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every culture has made music, but very few wrote it down with precise pitches and rhythms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Melodies were learned by listening and copying.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some ancient societies did develop notation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A clay tablet from the city of Ugarit, in modern Syria, dating to around 1400 BCE, contains instructions for a hymn, and the ancient Greeks used letter symbols for pitch.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But these systems were limited or lost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In medieval Europe, the church's huge repertoire of chant, now often called Gregorian chant, was learned by heart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Training a singer to know it all could take many years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neumes and the staff.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From around the ninth century, scribes added little marks called neumes above the Latin words in chant books.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They showed whether the melody rose or fell, but not exactly how high or how long.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were memory aids: a singer who had never heard a chant could not learn it from neumes alone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gradually, scribes placed them at different heights, so position hinted at pitch.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1030, the Italian monk Guido of Arezzo championed notes on horizontal lines, each representing a fixed pitch, with letters that became clefs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Singers could now read a melody they had never heard, and Guido claimed young singers could learn in a short time what once took years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Music could travel on parchment alone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The origin of solfège.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guido also gave singers a memory trick.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He used a Latin hymn to Saint John the Baptist in which each of the first six lines began one step higher than the last.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first syllables of those lines were ut, re, mi, fa, sol and la.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By learning the hymn, students fixed the sound of each step in their minds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the centuries, ut was replaced in most countries by do, which is easier to sing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A seventh syllable, si, was added later, and in the nineteenth century English teachers changed it to ti so every syllable began with a different letter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This system, called solfège, is still used to teach singing around the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Writing down time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Showing pitch was only half the problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As composers wrote for several voices singing different lines at once, called polyphony, singers needed to know exactly how long each note lasted so they stayed together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the thirteenth century, theorists such as Franco of Cologne set out rules in which the shape of a note indicated its duration.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This system, called mensural notation, developed over the following centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notes gradually changed from black squares and diamonds to the round open and filled heads used today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bar lines became common only in the seventeenth century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time signatures, rests and ties followed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Print and other systems.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Copying music by hand was slow and expensive.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1501, the Venetian printer Ottaviano Petrucci published the Odhecaton, generally regarded as the first book of polyphonic music printed with movable type.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Printed music spread compositions across Europe and created a market of amateurs who bought music to play at home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staff notation is not universal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Renaissance lute players used tablature, which shows where to put the fingers rather than which notes sound, as modern guitar tabs do.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "India, China, Indonesia and other traditions have their own systems, and many jazz, folk and popular musicians learn by ear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notation struggles to capture subtle timing, tone colour and improvisation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the twentieth century, some composers used graphic scores of drawings and instructions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: For most of history, music was passed on by ear and memory, and early notation systems were limited or lost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why every piano is slightly out of tune.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ancient thinkers noticed that beautiful harmonies follow simple number ratios.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then musicians discovered those ratios don't quite fit together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The compromise they reached shapes every song you hear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Harmony is numbers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Legend credits Pythagoras with noticing that musical harmony follows numbers, though the story of him hearing blacksmiths' hammers is almost certainly myth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The basic discovery is real, and you can test it on a guitar.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pluck an open string, then press it at the halfway point and pluck again: the note is an octave higher, because the vibrating length has halved and the frequency has doubled, a ratio of 2 to 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Press a third of the way along, so two thirds vibrates, and you get a perfect fifth, a ratio of 3 to 2, the interval at the start of many familiar tunes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A ratio of 4 to 3 gives a perfect fourth, and 5 to 4 a major third.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simple ratios sound smooth and stable together.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why simple ratios sound sweet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A string or voice sounds a note at its main frequency and also at whole-number multiples of it, faint higher tones called overtones that give each instrument its colour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If two notes are in a simple ratio, many of their overtones line up exactly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When two tones are close but not quite matched, they interfere and produce a regular wobble in loudness called beating.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Play two notes that differ by two cycles per second and you hear the sound pulse twice a second.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Piano tuners listen for exactly these beats, slowing or speeding them to set each interval.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simple ratios produce little beating, so they sound calm and clear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The unavoidable comma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is the snag.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start on C and go up by a pure fifth to G, then D, then A, and keep going.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After twelve fifths you have passed through every note and should land on a C, seven octaves above where you began.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the numbers disagree.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twelve pure fifths multiply out to about 129.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 times the starting frequency, while seven octaves give exactly 128.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gap is the Pythagorean comma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Musicians measure intervals in cents, with 100 cents in a modern semitone and 1200 in an octave, and the comma is about 23.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 cents, roughly a quarter of a semitone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a mathematical fact: no keyboard can have all its fifths and octaves perfectly pure at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wolves, meantone and Bach.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pythagorean tuning kept fifths pure, but its major thirds sounded harsh.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Renaissance musicians adopted meantone temperaments, narrowing the fifths so the common major thirds came out pure or nearly so.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The leftover error piled up in one fifth that howled, called the wolf fifth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearby keys sounded lovely, but distant keys were sour or unusable, and changing key could mean retuning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the late seventeenth and early eighteenth centuries, musicians wanted every key.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Well temperaments spread the comma unevenly, so no interval howled, though common keys stayed sweeter and remote keys more tense, giving each key its own flavour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1722 Bach completed the first book of The Well-Tempered Clavier, twenty-four preludes and fugues, one in every major and minor key.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scholars still debate his tuning, but it was probably not modern equal temperament.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Equal temperament and beyond.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Equal temperament divides the octave into twelve exactly equal semitones, each a frequency ratio of the twelfth root of two, about 1.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "0595.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zhu Zaiyu in China worked it out in the late 1500s, as did Simon Stevin in Europe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became the piano standard in the nineteenth century, and every key now sounds the same.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The price is that almost every interval is slightly impure.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fifths are about two cents narrow, but major thirds are about fourteen cents wider than the pure 5 to 4 ratio, a shimmer our ears accept as normal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choirs and string quartets tune thirds by ear so harmony rings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tuners stretch piano octaves a little wider because stiff strings run sharp.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Concert pitch sets the A above middle C at 440 cycles per second.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gamelan and Arabic music use scales that fall between piano keys.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pleasing musical intervals correspond to simple ratios, which you can test by pressing a guitar string.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The world of instruments.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Blow, bow, pluck, strike or switch it on: every instrument ever made uses one of a handful of tricks to shake the air.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Five kinds of vibration.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1914, musicologists Erich von Hornbostel and Curt Sachs published a system for sorting instruments by what actually vibrates.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Idiophones vibrate their whole body, like bells, rattles and xylophones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Membranophones use a stretched skin, like most drums.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chordophones use strings, from the harp to the guitar.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aerophones vibrate a column of air, like flutes, trumpets and the didgeridoo.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fifth group, electrophones, was added later for instruments that make sound electronically.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Museums still use this system because it works for instruments from any culture, not just the European orchestra.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strings and the piano.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A vibrating string moves very little air, so stringed instruments use a hollow wooden body to resonate and amplify it.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Players change pitch by string length, a finger on the neck shortens it, tension, tuning pegs, and thickness, heavier strings sound lower.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Violins, cellos and double basses are bowed, with horsehair coated in rosin to grip.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guitars, harps and lutes are plucked.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The piano is a stringed instrument too.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before it, the harpsichord plucked strings at much the same volume however hard you pressed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1700 in Florence, Bartolomeo Cristofori built keys that threw leather-covered hammers at the strings, so pressing harder made a louder note.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pianoforte means 'soft-loud'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today's piano has an iron frame and 88 keys.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wind and brass.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wind instruments set a column of air vibrating inside a tube, and the tube's length sets the pitch.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Woodwinds start the vibration in two main ways.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A flute player blows across an edge, like blowing over a bottle.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clarinets and saxophones use a single cane reed, and oboes and bassoons use a double reed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Covering holes changes the tube's effective length.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brass players buzz their lips into a cup-shaped mouthpiece, and valves or a slide add extra tubing to lower the pitch.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The family is defined by the lips, not the metal: the saxophone is brass-coloured, but it is a woodwind.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drums to synthesisers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Percussion instruments are struck, shaken or scraped, and are probably the oldest family, since clapping and hitting sticks need no technology.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some are untuned, like snare drums, cymbals and shakers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others have definite pitches, like timpani, xylophones and the steel pans of Trinidad and Tobago, invented in the twentieth century from oil drums.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theremin, invented by Leon Theremin around 1920, is played without touching it: your hands near two antennas change its pitch and volume.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s Robert Moog's synthesisers let musicians shape sounds with knobs and cables.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's CSIRAC, one of the first stored-program computers, played music in the early 1950s.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 1983, MIDI has let keyboards and computers talk to each other, so a laptop can stand in for a studio.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The yidaki, with respect.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The instrument most Australians call the didgeridoo is the yidaki to the Yolŋu people of north-east Arnhem Land, with other names elsewhere.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is traditionally a eucalyptus branch hollowed by termites.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Players buzz their lips for a deep drone and use circular breathing, breathing in through the nose while pushing air out from the cheeks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rock art suggests it has been played for at least a thousand years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Didgeridoo' is not an Aboriginal word and probably imitates the sound.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It accompanies ceremony, and its rhythms can link to clans, places and stories.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Protocols on making and playing it differ between communities; in some it is a men's role.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy from Aboriginal-owned makers and art centres, and learn the protocols from Aboriginal teachers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Instruments are classified by what vibrates: a solid body, a skin, a string, air, or electricity.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. If a note vibrates at 440 Hz, what is the frequency of the same note one octave higher?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. 880 Hz.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How was the huge repertoire of medieval church chant mostly learned?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. By heart, which took singers many years.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What happens when you press a guitar string exactly halfway along?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The note rises an octave in pitch.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. In the Hornbostel-Sachs system, what is a drum with a stretched skin?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A membranophone.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

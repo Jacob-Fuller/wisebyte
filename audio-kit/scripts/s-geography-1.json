@@ -1,0 +1,1212 @@
+{
+ "id": "s-geography-1",
+ "title": "World Geography · Episode 1",
+ "chapters": [
+  "The continents",
+  "Antarctica: the continent of extremes",
+  "Rivers and mountains",
+  "Everest: the roof of the world"
+ ],
+ "units": [
+  {
+   "t": "World Geography. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The continents, Antarctica: the continent of extremes, Rivers and mountains and Everest: the roof of the world.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The continents.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ask how many continents there are and the answer depends on where you went to school.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even the shape of the world on your wall is a compromise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A matter of convention.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Continents are not neatly separated by oceans.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Africa joins Asia at the Isthmus of Suez, and North and South America meet at Panama.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The list is an agreed way of dividing land, and traditions differ.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian schools teach seven: Africa, Antarctica, Asia, Australia, Europe, North America and South America.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of Latin America teaches the Americas as one, making six.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some geographers join Europe and Asia as Eurasia, because no ocean divides them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The five Olympic rings stand for the inhabited continents, leaving out Antarctica.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Join Africa to Eurasia as Afro-Eurasia and you have four.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Europe–Asia line is conventionally drawn along the Urals, the Caucasus and the Bosphorus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Istanbul straddles it, though geologically Europe sits on the same plate as most of Asia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The giants and the smallest.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Asia covers about 44 million square kilometres, roughly 30% of Earth's land, and holds about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "8 billion people, close to 60% of humanity, 2024.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Africa is second in area, at about 30 million square kilometres, and has the fastest-growing population, about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 billion, 2024.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antarctica, at about 14 million square kilometres, is larger than Europe or Australia but has no permanent residents, only a few thousand researchers in summer.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also has the highest average elevation, because it is covered in ice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is the smallest continent, at about 7.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "7 million square kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also the flattest, with an average elevation of only about 330 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia and Zealandia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The continent of Australia, sometimes called Sahul, is the landmass on the Australian continental shelf: the mainland, Tasmania and New Guinea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the last ice age, when sea levels were far lower, dry land joined them and people walked between them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oceania is a broader region that adds the Pacific islands of Melanesia, Micronesia and Polynesia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New Zealand belongs to Oceania, not the Australian continent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2017, geologists made the case that a mostly submerged landmass to the south-west, Zealandia, Te Riu-a-Māui, is a continent.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It covers about 5 million square kilometres, but roughly 94% lies under the sea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New Zealand and New Caledonia are its highest parts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every geographer lists it, but many now accept it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drifting continents.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The continents are not fixed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They ride on tectonic plates that move a few centimetres a year, about as fast as fingernails grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 300 million years ago most land was joined in the supercontinent Pangaea, which later broke apart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia was part of its southern half, Gondwana, with Antarctica, Africa, South America and India.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zealandia broke away from Gondwana from around 85 million years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia separated from Antarctica within the last 50 million years or so, and has drifted north ever since, at about 7 centimetres a year.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That adds up: Australia's official coordinate system, GDA2020, was updated to account for that drift, shifting positions by about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 metres so maps line up with GPS.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every map distorts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You cannot flatten a sphere without stretching it, so every world map distorts something.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The familiar Mercator projection, designed in 1569 by the Flemish mapmaker Gerardus Mercator for sailors, shows a constant compass bearing as a straight line.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The price is that areas balloon towards the poles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greenland looks about as big as Africa, yet Africa is roughly 14 times larger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia looks smaller than it is next to Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Equal-area maps, such as the Gall-Peters projection, show true sizes but squash shapes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Compromise projections like the Winkel tripel balance the errors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For true proportions, use a globe, or compare countries with an online true-size tool.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A continent is a large landmass, but where one ends is partly human convention, so the count ranges from seven to four.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Antarctica: the continent of extremes.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The coldest, windiest, highest and driest continent holds most of the world's ice, and lakes hidden kilometres beneath it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A continent buried in ice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antarctica covers about 14 million square kilometres, nearly twice the area of Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost all of it lies under an ice sheet averaging around two kilometres thick, and more than four kilometres deep in places.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That ice holds roughly 90 per cent of all the ice on Earth and about 70 per cent of its fresh water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it all melted, which would take many thousands of years, global sea levels would rise by close to 60 metres.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ice is so heavy it presses the land beneath it downward, yet the ice sheet's thickness gives Antarctica the highest average elevation of any continent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beneath it lie mountain ranges, valleys and even volcanoes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coldest and driest.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 21 July 1983, at Russia's Vostok Station on the high East Antarctic plateau, thermometers recorded -89.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "2 degrees Celsius, the coldest air temperature ever measured directly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Satellites have since detected snow surfaces below -90 degrees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Antarctica is colder than the Arctic because it is a high landmass rather than a frozen ocean, its white surface reflects most sunlight, and for months each winter the Sun does not rise over much of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cold air holds little moisture, so the interior receives only a few centimetres of water equivalent a year.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It counts as a desert.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ice built up because almost nothing melts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The McMurdo Dry Valleys, largely free of ice and snow, are used to test equipment and ideas for exploring Mars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Home of the blizzard.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antarctica's interior is a vast dome of ice, and the air above it becomes intensely cold and dense.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gravity pulls this heavy air downhill towards the coast, where it can accelerate into ferocious katabatic winds, from a Greek word meaning going down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some coastal places are battered almost constantly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian geologist Douglas Mawson found this out during his Australasian Antarctic Expedition of 1911 to 1914.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His base at Cape Denison in Commonwealth Bay was so wind-lashed that he titled his account The Home of the Blizzard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expedition members learned to walk bent almost horizontally into the gusts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same expedition saw Mawson's harrowing solo trek back to base after both his companions died.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A continent for science.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Seven countries, including Australia, claim parts of Antarctica.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's claim, the Australian Antarctic Territory, is the largest at about 42 per cent of the continent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet these claims are effectively frozen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1959, at the height of the Cold War, twelve nations signed the Antarctic Treaty, which came into force in 1961.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It bans military activity and nuclear explosions, guarantees freedom of scientific research and requires countries to share their findings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Madrid Protocol of 1991 later banned mining and set strict environmental rules.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than fifty countries have now joined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia runs three permanent research stations on the continent, Casey, Davis and Mawson, and a fourth on sub-Antarctic Macquarie Island.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hidden lakes, hardy life.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Liquid water lies far beneath the ice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radar surveys have found hundreds of subglacial lakes, kept from freezing by the insulating ice above and by heat rising from the Earth below.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The largest known, Lake Vostok, lies under about four kilometres of ice, which Russian drillers reached in 2012.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some lakes are linked by rivers flowing under the ice sheet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the surface, life clings mostly to the coasts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Penguins, seals and seabirds feed in the rich surrounding ocean, and emperor penguins breed through the dark winter on the sea ice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are no native land mammals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The largest animal living permanently on land is a wingless midge only a few millimetres long.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Antarctica is almost twice the size of Australia and holds about 90 per cent of the world's ice.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Rivers and mountains.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The world's highest peak has seashells at its summit, and nobody can quite agree which river is the longest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Welcome to the restless shape of the land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which river is longest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most reference books list the Nile as the longest river, at about 6,650 kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Amazon is usually given as about 6,400, but some researchers, including Brazilian scientists in 2007, argue it is longer, up to about 7,000 kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question is genuinely unsettled.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every measurement involves a judgement.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Which headwater stream is the true source: the longest, the biggest or the traditional one?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where does a wide estuary end?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rivers also meander, so a more detailed map traces more bends and a longer river.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Published lengths can differ by hundreds of kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Yangtze, about 6,300, usually ranks third.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On volume there is no contest: the Amazon carries about a fifth of all the fresh water that rivers deliver to the oceans.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Murray–Darling.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Murray River, about 2,500 kilometres long, is Australia's longest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It rises in the Australian Alps, forms much of the border between New South Wales and Victoria, and reaches the sea in South Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With the Darling, Murrumbidgee and other tributaries, it drains the Murray–Darling Basin: about a million square kilometres across four states and the ACT, roughly one-seventh of Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The basin is the heart of the nation's irrigated farming.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also fragile.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian rivers are highly variable, and heavy water use plus drought left the Murray mouth needing regular dredging from the early 2000s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2012 Basin Plan aims to share water between farms, towns and the environment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How mountains rise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plate tectonics builds most mountains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When two continents collide, neither sinks easily, so the crust crumples into fold mountains like the Himalayas and the Alps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where an ocean plate dives beneath a continent, melting rock feeds volcanic chains such as the Andes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other mountains are single volcanoes, like Kilimanjaro, or blocks of crust lifted along faults.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile rain, ice, wind and gravity wear rock down, so young ranges are tall and jagged and old ones low and rounded.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mount Everest is Earth's highest point above sea level, measured in 2020 at 8,848.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "86 metres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Himalayas began rising about 50 million years ago when India hit Asia, and still rise a few millimetres a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Limestone near the summit holds fossils of sea creatures from an ancient ocean floor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Highest depends on how.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everest, on the border of Nepal and China, is known as Sagarmatha in Nepal and Chomolungma in Tibet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa mountaineer, made the first confirmed ascent on 29 May 1953.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But there are other ways to rank mountains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mauna Kea in Hawai'i rises only about 4,200 metres above the sea, yet measured from its base on the ocean floor it stands over 10,000 metres, taller than Everest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth bulges at the equator, so the summit of Chimborazo in Ecuador, about 6,260 metres high, is the surface point farthest from Earth's centre, roughly 2 kilometres farther out than Everest's peak.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "K2, at about 8,600 metres, is the second highest and widely regarded as a much deadlier climb.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's highlands.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mount Kosciuszko in New South Wales, at 2,228 metres, is the highest mainland peak.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is modest by world standards, because Australia is old and tectonically quiet and its mountains have eroded for hundreds of millions of years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In summer it is an easy walk from the Thredbo chairlift.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Polish explorer Paweł Strzelecki climbed there in 1840 and named it after Tadeusz Kościuszko.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mawson Peak, an active volcano on remote Heard Island, an Australian external territory, is higher at about 2,745 metres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Great Dividing Range, a chain of ranges and plateaus over 3,500 kilometres long from Cape York to the Grampians, shapes the east.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Short, fast rivers drain to the Pacific, while inland rivers flow west towards the Murray–Darling or Kati Thanda–Lake Eyre.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also casts a rain shadow over the dry interior.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Nile is usually listed as longest at about 6,650 km, but the answer depends on where you say a river starts and ends.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Everest: the roof of the world.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The highest mountain on Earth is still rising, and its summit is made of rock that formed at the bottom of an ancient sea.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How high is high.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mount Everest sits on the border between Nepal and the Tibet region of China.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Measuring it has always been tricky, partly because its snow cap changes depth, and partly because the two countries used different methods and quoted slightly different figures for decades.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In December 2020 they jointly announced a new official height of 8,848.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "86 metres, based on satellite positioning and surveyors carrying equipment to the summit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At that height the air pressure is only about a third of that at sea level, so each breath delivers far less oxygen.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Above about 8,000 metres lies what climbers call the death zone, where the body slowly deteriorates and cannot acclimatise.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seashells on the summit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The top of Everest is limestone that formed hundreds of millions of years ago on the floor of a shallow sea.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Geologists have found fossils of marine creatures such as trilobites and crinoids, sea lilies, in it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How did a seabed end up nearly nine kilometres in the sky?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer is plate tectonics.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "India was once a separate landmass drifting north across the Tethys Ocean.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it collided with Asia, sediments from the ocean floor were crumpled, stacked and pushed upwards.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Himalaya are the result of that crash, which began around 50 million years ago, though geologists debate the exact timing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "India still pushes north by a few centimetres every year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A mountain still growing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The collision has not stopped.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Precise satellite measurements show parts of the Himalaya rising by a few millimetres each year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the same time, ice, landslides, rivers and frost shatter the rock and carry it away, so the height we see is a constant tug of war between uplift and erosion.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earthquakes are part of the same process.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The devastating Nepal earthquake of April 2015 was caused by the Indian plate sliding beneath Asia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also shifted the land around Everest slightly, one reason the mountain was measured again a few years later.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Names and first ascent.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The mountain has local names: Chomolungma in Tibetan, often translated as goddess mother of the world, and Sagarmatha in Nepali.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "British surveyors called it Peak XV until calculations around 1852, in which Radhanath Sikdar is often credited with a key role, showed it to be the highest on Earth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surveyor General Andrew Waugh proposed naming it after his predecessor, Sir George Everest, who reportedly objected that locals could not easily write or say it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name was adopted in 1865 anyway.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1924 George Mallory and Andrew Irvine vanished near the top, and whether they summited is unknown.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 29 May 1953, Edmund Hillary and Tenzing Norgay stood on the summit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds have died trying since.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Highest, but not tallest.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Everest's summit is the highest point above sea level, but there are other ways to measure a mountain.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mauna Kea in Hawaii rises about 4,200 metres above the sea, yet most of the volcano is underwater.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measured from its base on the ocean floor, it stands around 10,000 metres, taller than Everest.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then there is Chimborazo, a volcano in Ecuador only about 6,260 metres above sea level.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the Earth spins, it bulges slightly at the equator, and Chimborazo sits near the top of that bulge.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its summit is therefore the point on Earth's surface farthest from the planet's centre, roughly two kilometres farther out than Everest's.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which mountain is biggest depends on the question you ask.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Everest's official height is 8,848.86 metres, agreed by Nepal and China in 2020, and the air there holds about a third of the oxygen at sea level.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do different countries teach different numbers of continents?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Continents are partly a matter of convention.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Roughly how far would sea levels rise if all of Antarctica's ice melted?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About 60 metres.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is it disputed whether the Nile or the Amazon is longer?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It depends where you place the source and mouth.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why does each breath deliver so little oxygen near Everest's summit?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Air pressure there is about a third of sea level.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

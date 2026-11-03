@@ -1,0 +1,869 @@
+{
+ "id": "s-medicine-3",
+ "title": "Medicine & Disease · Episode 3",
+ "chapters": [
+  "The placebo effect",
+  "What cancer really is",
+  "AI in medicine"
+ ],
+ "units": [
+  {
+   "t": "Medicine & Disease. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The placebo effect, What cancer really is and AI in medicine.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The placebo effect.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A sugar pill can make you feel better.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even when you know it's a sugar pill.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A real effect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A placebo is a treatment with no active ingredient: a sugar pill, a saline injection or even a fake procedure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word is Latin for 'I shall please'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The placebo effect is the real improvement people often feel after receiving one, and it is essential in research: if people on a real drug don't improve more than those on a dummy, the drug isn't doing much.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It isn't imaginary.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brain imaging shows that people expecting pain relief release endorphins, the body's natural painkillers, and in one classic experiment a drug that blocks endorphins also blocked the placebo's relief.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expectation changes how the brain processes pain, nausea and fatigue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But placebos work on symptoms we perceive, not underlying disease: a sugar pill won't shrink a tumour or cure an infection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stronger placebos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strangely, the details matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In studies, expensive placebos relieved pain better than cheap ones, two pills beat one, injections beat pills, and colour can play a role too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fake surgery can be surprisingly powerful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A warm, confident, attentive practitioner boosts the effect: in one irritable bowel syndrome, IBS, study, patients improved more with an attentive practitioner than with a brisk, impersonal one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then comes the strangest part.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2010 Harvard study, people with IBS received pills openly labelled as placebos, 'like sugar pills', and were told such pills had helped through mind-body processes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They still reported significantly more improvement than a group given no pills.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later studies found similar results for chronic back pain and fatigue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ritual of treatment and the expectation it creates may work even without deception.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expectations both ways.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The placebo effect has a dark twin, the nocebo effect: people who expect side effects often get them, even from a dummy pill.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Placebo groups in drug trials commonly report headaches, fatigue and nausea, especially after reading a long list of possible side effects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2020 UK trial of people who had stopped statins because of side effects, much of the discomfort they reported on statins also appeared when they took placebo tablets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expectations can also be learned.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1975, psychologist Robert Ader paired saccharin-sweetened water with an immune-suppressing drug in rats; later the sweet water alone suppressed their immune responses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In small trials with children taking ADHD medication, pairing each dose with a placebo pill let researchers cut the real dose while keeping much of the benefit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fake surgery, real results.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surgery carries a powerful placebo effect of its own, which only trials using sham operations can reveal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2002 US study of keyhole knee surgery for osteoarthritis, patients who received only skin incisions reported as much improvement in pain and function over two years as those who had the full operation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2013 Finnish trial found much the same for a common keyhole operation on worn knee cartilage in middle-aged people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2014 review found that in about half of sham-controlled surgical trials, the real operation did no better than the fake.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Results like these have led guidelines to advise against routine keyhole knee surgery for osteoarthritis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it means for you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The placebo effect shows the mind has real influence over how we experience symptoms, especially pain, nausea and fatigue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Positive expectations, trusted care and good routines can genuinely help you feel better.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it's no substitute for effective treatment, and products that rely on it often exploit it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When judging any remedy, ask whether it has been tested against a placebo in a blinded trial.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If not, you can't know whether it's doing anything beyond what belief and time would do.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For any health concern, talk to a doctor or other qualified health professional.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A placebo has no active ingredient, yet expectation can trigger real brain chemistry and relieve symptoms.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. What cancer really is.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Cancer is not one disease but hundreds, all sharing a single rebellion: cells that stop following the body's rules.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding that rebellion has transformed treatment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hundreds of diseases.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cancer is not a modern disease.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Edwin Smith Papyrus, an Egyptian medical text from around 1600 BCE, describes bulging masses in the breast and says there is no treatment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tumours have also been found in ancient mummies and skeletons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Greek physician Hippocrates used the word karkinos, meaning crab, perhaps because swollen veins around some tumours looked like a crab's legs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Romans translated it into the Latin word cancer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today we know it is not one disease but hundreds, varying by tissue and by the genes involved.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What unites them is cells that divide without control and can invade other tissues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accelerators and brakes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Healthy cells divide only when they receive the right signals, and stop when they should.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genes govern this.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proto-oncogenes act like accelerators; when mutated, they can become oncogenes, like an accelerator stuck to the floor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tumour suppressor genes act like brakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most famous, TP53, is called the guardian of the genome because it can halt division or order a damaged cell to destroy itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is mutated in around half of all cancers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elephants, with far more cells than us but no more cancer, a puzzle called Peto's paradox, carry many extra copies of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1971 Alfred Knudson, studying a childhood eye cancer, proposed that both copies of a tumour suppressor gene usually need to be knocked out: the two-hit hypothesis.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hallmarks and immortality.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2000 Douglas Hanahan and Robert Weinberg argued that cancers share acquired abilities: making their own growth signals, ignoring stop signals, avoiding programmed cell death, dividing indefinitely, building blood vessels, and invading and spreading.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2011 they added reprogramming energy use and evading the immune system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single mutation provides all of these.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cell gathers them over years or decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take dividing indefinitely.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1960s Leonard Hayflick showed normal human cells divide only about 40 to 60 times, partly because protective chromosome caps called telomeres shorten each time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many cancer cells switch on telomerase, an enzyme that rebuilds the caps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "HeLa cells, taken in 1951 from Henrietta Lacks without her knowledge or consent, are still dividing and helped develop the polio vaccine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evolution inside you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every cell division carries a small chance of copying errors, and outside factors damage DNA too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mutations accumulate over a lifetime, the main reason cancer becomes more common with age.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Established causes include tobacco smoke, linked to many cancers, not only lung cancer, ultraviolet radiation, behind most skin cancers, a serious issue in sunny Australia, alcohol, and viruses such as human papillomavirus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tumour is not a uniform mass.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its cells keep mutating, so one tumour holds many genetically different groups.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is natural selection inside one person: a cell that grows faster or resists a drug leaves more descendants.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A therapy may shrink a tumour, then a resistant group regrows, so doctors often combine treatments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most cancer deaths are caused by tumours that have spread, or metastasised.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fighting back.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surgery, radiation and chemotherapy remain central, but newer approaches build on understanding how cancer works.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Targeted therapies block the specific molecules a cancer depends on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imatinib, approved in 2001, transformed the outlook for a blood cancer called chronic myeloid leukaemia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Immunotherapy releases the brakes cancers use to hide from immune cells, and James Allison and Tasuku Honjo shared the 2018 Nobel Prize for the discoveries behind these checkpoint drugs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prevention matters too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's human papillomavirus vaccination program and cervical screening have put the country on track to eliminate cervical cancer as a public health problem, and national screening programs also look for early breast and bowel cancers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Cancer is hundreds of diseases united by cells that divide without control and invade other tissues.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. AI in medicine.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "From reading scans to predicting the shapes of proteins, AI is finding its way into healthcare.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's where it genuinely helps, and why doctors are still very much needed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second pair of eyes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a radiologist at the end of a long shift with a stack of chest X-rays still to read.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Image-recognition systems trained on thousands of labelled scans can learn to flag patterns linked to lung nodules, fractures or eye diseases.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Used well, they act as a tireless second pair of eyes, highlighting areas for an expert or sorting urgent cases to the top.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Imaging suits AI because it produces huge amounts of digital data with answers experts can confirm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diabetes can damage the blood vessels at the back of the eye, and screening catches this early, but specialists are scarce in rural areas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trials in several countries, including Australia, tested AI grading of retinal photos.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accuracy was encouraging, but poor lighting, blurry photos, patchy internet and extra staff time were real snags.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proteins and drugs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Proteins do most of the work in our cells, and what a protein does depends on the three-dimensional shape it folds into.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finding shapes in the lab can take months or years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2020, Google DeepMind's AlphaFold performed so well in a long-running international competition that many researchers considered the fifty-year problem largely cracked for single proteins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its predictions for hundreds of millions of proteins were made freely available.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2024, Demis Hassabis and John Jumper shared the Nobel Prize in Chemistry with David Baker.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "AI also speeds early drug discovery: sifting huge libraries of molecules, predicting how they interact with a target, and searching for new antibiotics as resistance grows.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But a promising molecule still needs laboratory work, animal studies and human clinical trials.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "AI doesn't skip the safety checks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paperwork and early warnings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doctors and nurses spend a large share of their day on paperwork.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One growing use of AI is the digital scribe, which listens to a consultation, with the patient's consent, and drafts clinical notes for the doctor to review.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Health services are also exploring AI that scans patient records and vital signs to warn staff when someone in hospital might be deteriorating, for example developing sepsis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These tools could free up time for actual care.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But they bring their own risks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A drafted note can contain errors, and a warning system that cries wolf too often trains staff to ignore it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As with any medical tool, the real test is whether patients end up healthier, not whether the software looks impressive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When AI gets it wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An AI system learns from the data it is given, and in medicine that can cause trouble.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A skin-checking tool trained mostly on images of fair skin may perform worse on darker skin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A model built using one hospital's scanners can stumble on images from a different brand of machine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers have even found models that learned shortcuts, such as noticing a ruler or a hospital label in the image, rather than the disease itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These problems are hard to spot from the outside, which is why careful testing on diverse patients, and ongoing monitoring after a tool is introduced, matter so much.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia, AI that counts as a medical device is regulated by the Therapeutic Goods Administration, the TGA.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctor and machine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Medicine involves far more than recognising patterns.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It means listening, weighing up a patient's values, explaining uncertain choices and taking responsibility for decisions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For now, and probably for a long time, the most realistic picture is AI as a powerful assistant: speeding up some tasks, catching some things humans miss, and leaving judgement and care with people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chatbots can be handy for understanding medical terms, but they can confidently get things wrong and don't know your history.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This lesson is general information, not medical advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For trustworthy health information in Australia, visit healthdirect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au or call the healthdirect helpline, and always talk to your doctor or another qualified health professional about your own health.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: AI helps clinicians read scans and photos, but real-world rollout, as in diabetic eye screening, is harder than the algorithm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What shows the placebo effect is more than imagination?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Blocking endorphins also blocks the relief.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does the word 'cancer' describe today?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Hundreds of diseases sharing uncontrolled growth.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is medical imaging well suited to AI?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It produces lots of data with answers experts can confirm.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

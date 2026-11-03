@@ -1,0 +1,1230 @@
+{
+ "id": "s-adulting-1",
+ "title": "Adulting 101 · Episode 1",
+ "chapters": [
+  "Cooking fundamentals",
+  "Laundry done right",
+  "Home maintenance basics",
+  "Hiring a tradie without regrets"
+ ],
+ "units": [
+  {
+   "t": "Adulting 101. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Cooking fundamentals, Laundry done right, Home maintenance basics and Hiring a tradie without regrets.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Cooking fundamentals.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You don't need recipes to cook well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You need to understand salt, fat, acid, heat and a few core techniques.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Principles over recipes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Recipes are useful, but confident cooks understand principles.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chef and author Samin Nosrat boiled good cooking down to four elements in her book Salt Fat Acid Heat: salt enhances flavour, fat carries flavour and creates texture, acid balances and brightens, and heat transforms food.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once you understand them, you can improvise and rescue a bland dish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best habit is to taste as you go.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salt makes food taste more like itself and reduces bitterness.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Season in stages, because salt added early has time to penetrate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salt pasta water generously.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salting meat 40 minutes to a day ahead keeps it juicy and seasoned.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still moderate your overall salt intake; much of it comes from processed foods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing your fat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Different fats suit different jobs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Butter tastes wonderful, but its milk solids start to burn at around 150°C.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For high-heat searing, add it near the end or use ghee, clarified butter with the milk solids removed, which copes with far more heat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Neutral oils such as peanut or canola suit woks and deep-frying.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smoke point isn't the whole story.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Laboratory studies, including Australian research, have found extra virgin olive oil among the most stable oils under heat, likely helped by its natural antioxidants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fat also builds texture: cold butter rubbed into flour makes flaky pastry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And never pour used oil down the sink, where it sets and clogs pipes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Low and slow.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choosing the right heat starts with the cut.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lean, tender cuts such as fillet, loin and chicken breast have little connective tissue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They suit quick, hot methods like grilling and pan-frying, and dry out if cooked too long.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hard-working muscles such as beef shin, chuck, brisket and lamb shoulder are full of collagen, a tough connective protein.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cooked gently in liquid for hours, collagen slowly melts into gelatine, giving meat that falls apart and a silky sauce.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a braise at a bare simmer, not a rolling boil, which tightens the muscle fibres and dries the meat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a stew is still tough, it usually needs more time, not more heat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prepare, then improvise.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mise en place is French for 'everything in its place', and it separates calm cooks from frantic ones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before any heat goes on, read the whole recipe, then wash, chop, measure and line up every ingredient.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chef Anthony Bourdain called it the religion of all good line cooks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It matters most for fast cooking like stir-fries, and reading ahead catches surprises such as meat that needs marinating overnight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rather than collecting hundreds of recipes, master a few templates.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stir-fry: hot pan, protein, vegetables, a sauce of soy, garlic, ginger and something sweet or sour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tray bake: vegetables and protein roasted with oil, salt and spices at about 200°C.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soup: soften onion and garlic, add vegetables, stock and beans, simmer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And eggs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swap freely and taste as you go.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finishing well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Food doesn't stop cooking when it leaves the heat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The hot outer layers push heat inward, so a steak's centre climbs a few more degrees as it sits, and a big roast more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This carryover cooking is why cooks pull meat slightly early.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resting also keeps meat juicier.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rest a steak about five minutes and a roast ten to twenty, loosely covered with foil.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A meat thermometer removes the guesswork.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For pasta, stir well in the first minute or two, when it is stickiest; oil in the water doesn't help.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stop when it's al dente, tender with a slight bite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scoop out a cup of cooking water, then finish the pasta in the pan with the sauce and splashes of that starchy water so it turns glossy and clings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Good cooking rests on salt, fat, acid and heat, and salt works best added in stages while you taste.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Laundry done right.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Shrunken jumpers, pink socks and towels that smell faintly of damp are all avoidable.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few habits will make your clothes last longer and your washing cheaper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Labels, sorting and prep.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Flip a shirt inside out and you will find a small label of symbols.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people ignore it, which is how a favourite wool jumper ends up fitting a child.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tub shows washing, with a number or dots for maximum temperature and a hand for hand washing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The triangle is bleaching, the square drying, the iron ironing, and a circle alone means dry cleaning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cross through any symbol means do not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sort whites, lights and darks, since one new red t-shirt can turn a load of undies pink.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wash new dark items alone for the first few washes, when excess dye is most likely to run.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Empty pockets, zip up zips, and put delicates in a mesh bag.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turn dark clothes and prints inside out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cold water, right dose.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of the energy a washing machine uses on a warm or hot cycle goes into heating the water.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern detergents are designed to work well in cold water, so for everyday loads a cold wash is usually enough and costs much less.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Save warm or hot washes for greasy stains, towels and bedding, if the care label allows.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More detergent does not mean cleaner clothes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Too much does not rinse out properly, leaving clothes stiff, dull and itchy, and residue can build up in the machine and cause smells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Follow the dose on the pack.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clothes also need room to move.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a front loader, leave a hand's width at the top of the drum.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny half loads waste water and electricity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drying without damage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's sunshine makes the clothesline one of the best appliances in the house, and it costs nothing to run.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sunlight helps freshen whites, though strong sun can fade dark and bright colours, so hang those inside out or in the shade.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hang clothes by their strongest seams to cut down on ironing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dry knitted wool flat on a towel, because hanging it wet can stretch it out of shape.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clothes dryers are handy on wet days, but heat and tumbling are the main causes of shrinkage and wear, and dryers use a lot of electricity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heat pump dryers use considerably less than standard vented ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clean the lint filter every single load.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Built-up lint makes the dryer work harder and is a recognised fire risk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep the machine fresh.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If clean washing smells musty, the problem may be the machine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Front loaders have rubber door seals that trap water, lint and detergent, creating a cosy home for mould and bacteria.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After each wash, leave the door and detergent drawer slightly open so the inside can dry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wipe the seal regularly, checking the folds for hair, coins and grime.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every month or so, run an empty hot wash, using a washing machine cleaner if you like.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many machines have a dedicated drum clean cycle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clean the filter too, if it is accessible, following the manual.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take wet clothes out promptly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Washing left sitting in the drum for hours is a fast route to that damp, sour smell.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fixing common mistakes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even careful people end up with a pink load now and then.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If dye has run, do not put the clothes in the dryer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rewash them straight away in cold water, or use a supermarket colour run remover, following the instructions and checking the care labels first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "White items can often be soaked in an oxygen bleach solution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shrunken wool is harder.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heat and agitation lock wool fibres together in a process called felting, which is permanent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soaking the garment in lukewarm water with a little hair conditioner and gently stretching it while damp can sometimes win back a little size, but there are no guarantees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For stubborn smells in towels and sportswear, a hot wash with less detergent, plus thorough drying in the sun, often does more than adding fragrance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Read the care label, sort your washing, and prepare each load before it goes in.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Home maintenance basics.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Ten minutes a month and a few checks a year prevent the expensive, and dangerous, problems.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Renters, this is for you too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shut-offs and safety switches.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The time to find your water shut-off valve is not when a pipe has burst.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Locate three things now: the water main tap, usually near the water meter at the front of the property; the switchboard and main switch; and, if you have gas, the meter and its shut-off valve.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Show everyone in the household, and keep a working torch you can find in the dark.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A safety switch, or residual current device, RCD, cuts power in a fraction of a second if electricity leaks, for example through a person.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Test it every three months by pressing the 'T' button; power to those circuits should cut off, then flip the switch back up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it doesn't trip, call a licensed electrician.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fire safety.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Working smoke alarms save lives, and they're required by law in Australian homes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Test each one monthly by pressing the test button, and vacuum dust from the vents occasionally.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Replace alarms that are 10 years old or more; the date is usually printed on the alarm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fire services recommend photoelectric alarms, ideally interconnected so they all sound together, in bedrooms, hallways and on every level.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rules differ by state; Queensland, for example, is phasing in interconnected photoelectric alarms in every bedroom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clear the clothes dryer's lint filter every load, because lint build-up is a common cause of house fires.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water, mould and gutters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A dripping tap can waste thousands of litres a year, and a hidden leak can cause major damage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To check, turn off every tap, note the water meter reading, wait an hour without using water and check again.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it has moved, you have a leak.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watch for damp patches, bubbling paint, musty smells or high bills, and replace worn silicone around showers and baths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mould thrives on moisture and poor airflow.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Run the bathroom exhaust fan during and after showers, open windows, dry clothes outside and fix leaks promptly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Large or recurring mould may mean a hidden leak that needs a professional.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clean gutters before storm and bushfire seasons: blocked ones overflow into roofs and walls, and dry leaves are an ignition risk from embers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Call a professional.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plenty of jobs are fine to DIY: painting, changing tap washers, patching small holes, assembling furniture.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But electrical work, gas fitting and most plumbing must be done by licensed tradespeople in Australia, for good safety reasons.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be especially careful when renovating homes built before 1990, which may contain asbestos in walls, eaves, floors and roofing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Disturbing it can release deadly fibres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you're not sure, get it tested before drilling, cutting or sanding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the roof for loose tiles or sheets after big storms from the ground, with binoculars, rather than climbing up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And always check for underground services through Before You Dig Australia before digging.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Renters: know your rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you rent, most repairs are the landlord's responsibility, but you need to report them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Always report problems in writing, such as by email, and keep copies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every state distinguishes urgent repairs, like a burst water pipe, gas leak, dangerous electrical fault or broken hot water system, which must be fixed quickly, from general repairs, which must be done within a reasonable time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Take dated photos at the start of your lease for your condition report.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your state's tenancy authority has free guides and advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Know where your water main, switchboard and gas shut-off are, and test your safety switches every three months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Hiring a tradie without regrets.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most tradies are honest, skilled and busy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few simple checks help you find them, and avoid the small number who leave a trail of half-finished jobs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Licence and recommendations.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In every Australian state and territory, electrical work must be done by a licensed electrician, and gas fitting and most plumbing by licensed tradespeople.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Building work above a certain value also generally requires a licensed builder.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faulty wiring, gas leaks and structural mistakes can kill.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each state's regulator runs a free online register where you can check a licence is current, what it covers and any disciplinary actions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask for the number and check it yourself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Also confirm public liability insurance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The best leads come from neighbours, friends and family who had similar work recently.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choose detailed reviews and be wary of a burst of short, glowing ones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask about similar jobs, who will do the work and whether subcontractors are involved.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone vague, who never returns calls or will not put things in writing is unlikely to change.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quotes, contracts and deposits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For more than a small job, get at least three written quotes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A quote sets out the work, materials, total price, whether GST is included and how long it is valid.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An estimate is only a best guess, and the bill can legitimately end up higher.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make sure every quote covers the same scope.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cheapest may leave out rubbish removal or quality materials.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Agree changes in writing, with the price, before they are done.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Above certain values, a written contract is generally required, setting out the work, price, timeframes and dispute handling.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Read it before signing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several states cap the deposit a builder can ask for on domestic work, commonly at around 10 per cent or less.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For bigger projects, tie payments to completed stages, not calendar dates, which matters if the business collapses partway.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insurance that protects you.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most states require builders to take out home warranty insurance, known by different names, on residential jobs above a set value.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It typically covers you if the builder dies, disappears or becomes insolvent and cannot finish the work or fix defects.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The builder must usually give you the certificate before taking a deposit or starting work, so ask to see it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Separately, tell your own home and contents insurer about major renovations, as some policies change cover while building work is under way.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tradie's public liability insurance covers damage they cause to your property or injuries to other people, so check that it is current too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red flags.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be very wary of anyone who knocks uninvited, especially after a storm or flood, claiming your roof or gutters urgently need work.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under consumer law, agreements made after an uninvited approach generally come with a cooling-off period of 10 business days.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other red flags include pressure to sign today, a quote far below everyone else's, no ABN, no fixed address, refusal to give a written quote and a request for most of the money up front, especially in cash.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cash with no invoice leaves you with no proof of what was agreed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pay by traceable methods, keep every receipt and never hand over the full amount before the job is finished.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When things go wrong.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under the Australian Consumer Law, services must be provided with due care and skill, be fit for any purpose you made clear, and be delivered within a reasonable time if no deadline was agreed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If something is not right, raise it calmly and promptly, ideally while the tradie is on site, then follow up in writing with photos.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give them a fair chance to fix it, because most will.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If they will not, contact your state's fair trading office or building regulator, which can often help resolve disputes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some states run building dispute services, and civil tribunals can decide claims.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a folder of quotes, contracts, messages, invoices and photos from the start.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good records are your strongest tool.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Check a tradie's licence on the official register and choose people through trusted recommendations.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why is it better to season in stages and salt meat well ahead of cooking?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Early salt has time to penetrate the food.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. When are new dark clothes most likely to run dye?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. In the first few washes.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How should you test a safety switch, RCD?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Press the test button every three months.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How should you check a tradie's licence?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Look it up on your state regulator's free register.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

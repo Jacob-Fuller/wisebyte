@@ -1,0 +1,887 @@
+{
+ "id": "s-wild-australia-2",
+ "title": "Wild Australia · Episode 2",
+ "chapters": [
+  "Eucalypts: trees built for fire",
+  "Termite mounds: cities without architects",
+  "Australia's reptiles, up close"
+ ],
+ "units": [
+  {
+   "t": "Wild Australia. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Eucalypts: trees built for fire, Termite mounds: cities without architects and Australia's reptiles, up close.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Eucalypts: trees built for fire.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Gum trees define the Australian landscape.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their oils, bark and hidden buds tell the story of a continent shaped by fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's signature tree.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Step into the bush after rain and you may catch the clean scent of eucalyptus oil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Botanists group the eucalypts into three closely related genera: Eucalyptus, Corymbia, many bloodwoods and the spotted gums, and Angophora.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together they include more than 800 species, almost all native to Australia, with a few in New Guinea and nearby islands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They dominate roughly three-quarters of Australia's native forests and grow in almost every environment, from snowy mountains to the dry inland.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the continent dried out and fire became more common, eucalypts became extraordinarily good at living with both drought and flame.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forms vary widely: shrubby mallees grow as clumps of stems a few metres tall, while mountain ash is the world's tallest flowering plant, with one Tasmanian tree, Centurion, about 100 metres high.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Oil in the leaves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold a eucalyptus leaf to the light and you may see tiny translucent dots.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These are oil glands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The aromatic oils protect the leaves from many insects and animals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only specialists, such as koalas, some possums and certain insects, cope with large amounts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People have long used eucalyptus oil in cleaning products and cold remedies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oils are also flammable, and on hot days some of these compounds evaporate from the leaves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Together with other natural chemicals released by the trees, they are thought to contribute to the blue haze that gives the Blue Mountains near Sydney their name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That volatility helps explain why eucalypt forests can burn so fiercely in extreme weather.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bark varies too: stringybarks are fibrous, ironbarks are hard and furrowed, and smooth-barked gums shed their outer layer each year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hidden buds and roots.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few months after a bushfire, blackened eucalypt trunks become covered in soft green and red shoots.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many eucalypts have epicormic buds, dormant buds hidden beneath thick bark along the trunk and branches.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fire may kill the leaves, but the insulated buds survive and sprout once the danger has passed, rebuilding the canopy far faster than a seedling could.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many species also have a lignotuber, a woody swelling at the base of the trunk, partly underground, packed with buds and food reserves.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the whole tree above ground is destroyed, it can resprout from this lump.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mallees are a classic example, regrowing from their lignotubers again and again after fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trees that bet on seed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not all eucalypts resprout.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mountain ash and its relative alpine ash are usually killed by intense fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, they bet on seed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their gumnuts release seeds in huge numbers after the heat of a fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The seeds fall onto nutrient-rich ash in full sunlight, and a dense, even-aged forest springs up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This works well when big fires come at long intervals.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The danger is fires returning too often.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Young mountain ash take many years, often around two decades, to produce plenty of seed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a young forest burns again before then, there may be no seed left, and the forest can be replaced by shrubs or other species.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People, fire and caution.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fire in Australia is not only a natural force.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal people have used it as a land management tool for tens of thousands of years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cultural burning typically uses cooler, smaller fires at chosen times to create a patchwork of burnt and unburnt country, reducing fuel and encouraging fresh growth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many practices were disrupted after colonisation, and more land managers now work with Aboriginal rangers to restore them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Black Summer fires of 2019 and 2020 showed how hotter, drier conditions make fire seasons more dangerous.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eucalypts are also planted worldwide, for timber and pulp, though some places criticise their water use and fire risk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At home, river red gums and other large eucalypts can shed big limbs suddenly, earning the nickname 'widowmaker', so avoid camping or parking under them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Eucalypts are more than 800 mostly Australian species that dominate the country's forests and have adapted to both drought and fire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Termite mounds: cities without architects.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Millions of tiny, mostly blind insects build towers taller than a person, without plans or a boss.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The way those towers breathe has even fooled scientists.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not white ants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Termites are not ants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genetic studies show they are specialised cockroaches that became social.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like ants, they have a strict division of labour: a king and queen produce the young, workers gather food and build, and soldiers defend, some with huge jaws and others with snouts that squirt sticky chemicals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Workers include both males and females, and young grow gradually without a pupa stage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Termites can live on wood and dead grass, even though cellulose is very hard to break down, because they have partners in their guts: bacteria and, in some groups, single-celled organisms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "African and Asian Macrotermes go further, growing a fungus on chewed plant material inside their mounds and eating it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By recycling dead plants, termites enrich and loosen dry soils much as earthworms do in wetter ones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building without a blueprint.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No termite knows what the finished mound will look like.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most workers are blind, and none is in charge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So how do they build such complex structures?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1950s French biologist Pierre-Paul Grassé proposed an idea he called stigmergy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each insect responds to the work already done around it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A termite drops a mud pellet laced with scent, which makes other termites more likely to drop pellets in the same spot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small piles grow into pillars, pillars bend towards each other and arches form.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Local cues such as humidity, airflow and carbon dioxide also guide where they dig and build.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The grand structure emerges from millions of tiny decisions, with no plan anywhere in the colony.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Top End compass mounds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some of the world's most striking mounds are in northern Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Litchfield National Park, near Darwin, fields of thin, slab-like mounds stand like gravestones, all aligned roughly north to south.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are built by so-called magnetic termites, a name that suggests a compass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their broad faces catch the gentle morning and late-afternoon sun, while the thin edge faces the fierce midday sun, which helps keep the mound's temperature steadier through the day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat control is the best-supported reason for the alignment, though some experiments suggest the termites may also sense the Earth's magnetic field.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearby, the giant cathedral mounds of other termite species can tower several metres high, among the largest structures built by any animal apart from humans.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How a mound breathes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A big colony uses lots of oxygen and produces carbon dioxide and heat, so its mound must exchange air with the outside.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For decades the textbook explanation was a chimney: warm air from the colony rises up a central shaft and is drawn out, pulling fresh air in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later work, notably by physiologist J.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scott Turner and colleagues, found this was too simple.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many mounds are closed structures with porous walls, more like a lung than a chimney.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Research has shown that daily temperature swings, with the outer walls heating and cooling faster than the core, drive air around the channels, while wind gusts also push gases through the walls.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists are still refining the details.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inspiring engineers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best-known example of termite-inspired design is the Eastgate Centre in Harare, Zimbabwe, an office and shopping complex completed in 1996.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Architect Mick Pearce, working with engineers, designed it to stay cool without conventional air conditioning.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thick walls store heat, fans move cool night air through the building and chimneys release warm air.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It uses far less energy for cooling than comparable buildings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is an irony: the design drew on the chimney model of termite ventilation, which biologists have since revised.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nature still holds plenty of lessons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Brazil, scientists reported in 2018 a vast field of termite mounds covering an area around the size of Great Britain, some estimated to be about four thousand years old.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Termites are social cockroaches, not ants, and they digest wood with help from microbes in their guts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Australia's reptiles, up close.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australia is a reptile superpower, home to giant crocodiles, dinosaur-like lizards and some of the world's most venomous snakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how to appreciate them safely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A reptile superpower.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has more than 1,000 described reptile species, one of the richest reptile faunas of any country, and new ones are still being named.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most are found nowhere else on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lizards dominate: skinks alone make up several hundred species, joined by geckos, dragons, legless lizards and monitors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dry interior is especially rich, because warm, sunny conditions suit animals that rely on outside heat to regulate body temperature.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reptiles also need far less energy than mammals or birds of the same size, so they cope with scarce food and water.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many are small, shy and active at night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Six of the world's seven sea turtle species occur in Australian waters, along with dozens of sea snake species.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venomous, rarely deadly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most Australian land snakes are elapids, including taipans, brown snakes, tiger snakes and death adders.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The inland taipan has the most toxic venom of any land snake in laboratory tests, yet it is shy, lives in remote inland Australia and has no recorded human deaths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brown snakes cause the most deaths, largely because they are common near farms and towns.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, Australia averages only around two snakebite deaths a year.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some bites are 'dry', delivering little or no venom, and effective antivenoms, fast ambulance services and good first aid mean nearly everyone who is bitten survives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crocodiles and goannas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The saltwater crocodile is the world's largest living reptile.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Big males can reach about five metres and around a tonne; females are much smaller.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Salties' live in rivers, billabongs, estuaries and coastal waters across northern Australia and can travel long distances by sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hunting for skins reduced them to a fraction of their former numbers by the 1970s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After protection began in the early 1970s they recovered dramatically, and the Northern Territory now has around 100,000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nest temperature helps decide whether hatchlings are male or female.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Goannas are monitor lizards.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has around 30 species, more than any other continent, from pygmy monitors shorter than a ruler to the perentie, which can exceed two metres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many monitors seem to have venom glands, though their role in hunting is debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Survival tricks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When threatened, the frill-necked lizard of northern Australia opens its mouth wide, hisses and flares its frill into a startling disc, looking far bigger than it is.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the bluff fails, it sprints away upright on its hind legs, often to the nearest tree.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It appeared on the two-cent coin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other species have tricks of their own.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The thorny devil, a spiky desert lizard, has tiny grooves between its scales that draw water from damp sand or dew towards its mouth by capillary action, so it can drink through its skin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blue-tongue lizard flashes a bright blue tongue when threatened, and is a welcome garden visitor because it eats snails.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shingleback, a close relative, often returns to the same partner year after year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying safe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Snakes bite in self-defence, often when someone tries to catch, move or kill one.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep still, then back away slowly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep grass short, clear rubbish and control mice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the bush, wear boots and long pants, and use a torch at night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a snake indoors, call a licensed snake catcher; most native reptiles are protected.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a suspected snakebite, call 000, keep the person still and calm, apply a pressure immobilisation bandage over the bite and up the whole limb, then splint it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't wash, cut or suck the bite, and don't use a tourniquet.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In crocodile country, obey warning signs, never swim where crocodiles may live, stand well back from the water, don't clean fish near it, and camp well away; Queensland advises at least 50 metres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Australia has more than 1,000 reptile species, mostly found nowhere else, and the dry interior suits them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Roughly what share of Australia's native forests are dominated by eucalypts?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. About three-quarters.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How do termites digest tough plant material such as wood?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. With help from gut microbes, and some farm fungus.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why are reptiles so well suited to Australia's dry interior?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They use warmth and need little energy.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

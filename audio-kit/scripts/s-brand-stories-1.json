@@ -1,0 +1,1212 @@
+{
+ "id": "s-brand-stories-1",
+ "title": "Brand Stories · Episode 1",
+ "chapters": [
+  "Ford, Toyota and the art of making things",
+  "McDonald's and the franchise formula",
+  "Tupperware, Brownie Wise and the home party",
+  "The Post-it Note: a failed glue and a choir bookmark"
+ ],
+ "units": [
+  {
+   "t": "Brand Stories. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Ford, Toyota and the art of making things, McDonald's and the franchise formula, Tupperware, Brownie Wise and the home party and The Post-it Note: a failed glue and a choir bookmark.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Ford, Toyota and the art of making things.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two car companies, half a world apart, changed how almost everything is made, from your phone to your runners.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their ideas still shape factories, hospitals and offices today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ford's moving assembly line.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1900s cars were hand-built toys for the wealthy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Henry Ford wanted one ordinary families could afford.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His 1908 Model T was simple and tough, but making it cheap meant building it faster than anyone had.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His engineers broke the work into small, repeatable tasks, borrowing the overhead lines of Chicago meatpacking plants, where carcasses moved past workers who each made one cut.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ford reversed the idea: instead of taking something apart, put a car together.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1913 Ford's Highland Park plant in Michigan introduced a moving assembly line.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The car travelled past workers who each repeated one task.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Assembly time for a Model T chassis fell from over 12 hours to about an hour and a half.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices fell, and by the 1920s millions were on the road, for years only in black.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The five dollar day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The line had a human cost.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The work was monotonous and exhausting, and many workers quit soon after starting, so Ford was constantly hiring and training new people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1914 the company announced five dollars a day for many workers, roughly double the typical factory wage, along with a shorter working day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crowds of job seekers gathered outside the factory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The policy came with conditions, and the company inspected aspects of some workers' private lives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Still, it cut turnover sharply and helped create a workforce that could afford the very cars it was building.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mass production had arrived, and factories around the world rushed to copy it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toyota's different problem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After World War II, Toyota faced the opposite situation to Ford.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japan was recovering from devastation, money was scarce, and the market wanted many types of vehicle in modest numbers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Huge runs of identical cars, backed by enormous stockpiles of parts, did not fit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Engineers led by Taiichi Ohno developed the Toyota Production System, aiming to eliminate waste of every kind: overproduction, waiting, unnecessary movement, defects and excess inventory.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ohno later said he drew inspiration from American supermarkets, which restock shelves only as customers take items away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result was just in time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each step pulls parts from the step before only when it needs them, often signalled by simple cards called kanban.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This keeps stockpiles small and exposes problems quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stop the line.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Toyota's second idea is jidoka, or automation with a human touch.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Machines stop when something goes wrong, and workers can pull a cord, called an andon, to halt the line when they spot a defect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To outsiders this seemed crazy, because stopping a production line is expensive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But fixing the cause immediately prevents thousands of faulty cars being built later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toyota also encouraged kaizen, or continuous improvement.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Workers on the factory floor were expected to suggest ways to make their own jobs safer, simpler and less wasteful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One well-known technique is the 'five whys': ask why something happened, then ask why again about each answer, until you reach the root cause rather than the surface symptom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lean's reach and limits.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the 1980s Toyota's cars had a strong reputation for reliability, and Western carmakers studied its methods closely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 1990 book, The Machine That Changed the World, helped spread the label 'lean production'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lean ideas now run through hospitals, software companies, warehouses and government offices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Agile software teams, for example, borrow its small batches and quick feedback.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But lean has limits.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Holding little inventory works when supply chains run smoothly and fails when they break.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the 2011 earthquake and tsunami in Japan, and again during COVID-19, shortages of parts such as computer chips halted car production around the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many companies now hold larger buffers of critical components.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The deeper lesson is that how work is organised can matter as much as the technology.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ford's moving assembly line cut Model T build time from over 12 hours to about an hour and a half.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. McDonald's and the franchise formula.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two brothers built a fast, simple burger stand in California.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A milkshake machine salesman turned it into a global empire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The secret was not really the burgers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speedee and Ray Kroc.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1940 brothers Richard and Maurice McDonald opened a drive-in in San Bernardino, California.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frustrated by slow service, a long menu and the cost of carhops, they closed in 1948 and reopened with a radical idea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The menu shrank to a handful of items, including hamburgers, cheeseburgers, fries, drinks and shakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customers ordered at a window, and each worker had one task, almost like an assembly line.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food was ready in moments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They called it the Speedee Service System.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1954 Ray Kroc, a travelling salesman of Multimixer milkshake machines, visited after the restaurant ordered several.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He was amazed by the speed and the queues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1955, in his fifties, he opened his own McDonald's in Des Plaines, Illinois, as the brothers' franchising agent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How franchising works.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Franchising grows a business using other people's money and energy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The franchisor owns the brand, the recipes and the operating system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The franchisee, usually a local business owner, pays an upfront fee and ongoing payments, often a share of sales, for the right to run an outlet under that brand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In return they get a recognised name, training, marketing and a tested way of doing things.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea was not new.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1800s the Singer sewing machine company used licensed agents to sell its machines widely, and Coca-Cola licensed independent bottlers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But McDonald's turned franchising into something close to a science, with detailed rules for almost everything.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Really a property business.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kroc's early franchise deals earned only a small share of sales, and money was tight.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His financial adviser, Harry Sonneborn, came up with an influential idea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The company would buy or lease the land for new restaurants, then rent it to franchisees, often with rent linked to sales.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This gave McDonald's a reliable income and considerable control, because a franchisee who broke the rules could lose the site.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sonneborn is often credited with suggesting that the company was really in the real estate business rather than the hamburger business.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Property remains a major part of McDonald's finances.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kroc grew increasingly frustrated with the brothers' cautious approach, and in 1961 he bought them out for $2.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 million, a deal that later caused lasting bitterness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same burger everywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consistency became McDonald's great promise: a cheeseburger should taste the same in Chicago, Tokyo or Melbourne.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The company developed detailed manuals covering cooking times, portion sizes, cleaning and service.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1961 it opened a training school, Hamburger University, to teach managers and franchisees the system.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suppliers had to meet exact specifications for beef, potatoes and buns.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Travellers knew precisely what they would get.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1986 The Economist even created the Big Mac Index, using the price of a Big Mac in different countries as a light-hearted way to compare currencies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's first McDonald's opened in Yagoona, in western Sydney, in December 1971.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians nicknamed the brand 'Maccas', and the company eventually embraced the name itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The franchise trade-off.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many familiar Australian names in food, fitness, cleaning, real estate and retail run on a franchise model, giving many people a path to running their own business.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Buying into a well-known system can reduce some of the risks of starting from scratch, but it is not a guaranteed path to success.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Franchisees usually have little control over prices, menus or marketing, must pay ongoing fees even in lean times, and may be required to fund expensive renovations.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some Australian franchise systems have faced disputes over profitability and scandals involving underpaid staff.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Franchising Code of Conduct requires disclosure before signing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not legal or financial advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ACCC website has a free guide for anyone considering buying a franchise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The McDonald brothers built a factory-style kitchen, and Ray Kroc saw it could be copied nationwide.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Tupperware, Brownie Wise and the home party.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A clever plastic container was gathering dust on shop shelves.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then a single mother from Detroit worked out how to sell it, and changed direct selling for good.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Great product, poor sales.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earl Tupper, an American inventor from New Hampshire, worked for DuPont in the late 1930s and became interested in polyethylene, a new plastic.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He developed ways to purify and mould it into containers that were light, unbreakable and flexible, unlike the brittle plastics of the time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His real breakthrough was the lid.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inspired by paint tin lids, he designed a seal that snapped on and could be made airtight by pressing out a little air, the famous burp.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tupperware went on sale after the Second World War.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But in hardware and department stores it sat on shelves.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plastic was a novelty, and the seal was not obvious from a container on a shelf.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people could not work out how to close the lids.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The product needed to be shown.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enter Brownie Wise.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some saleswomen working for home-selling companies such as Stanley Home Products had begun demonstrating Tupperware at gatherings in people's homes, with far better results than shops.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One was Brownie Wise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born in Georgia, she was a divorced single mother raising her son in Detroit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She found Tupperware sold brilliantly when women could see it, touch it and watch the lid seal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wise built a network of dealers and moved to Florida, and her group's results caught Tupper's attention.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1951 he pulled Tupperware out of shops altogether and committed to home parties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He put Wise in charge of the new sales operation, Tupperware Home Parties, with the title of vice-president.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How a party works.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The home party model was simple but powerful.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A host invited friends and neighbours to her house.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A dealer demonstrated the products, often with games and a playful show of how the seal kept food fresh or how a sealed bowl full of liquid could be tossed without spilling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guests could handle everything and place orders, and the host received a gift for organising it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buying from a friend in a relaxed social setting created a sense of trust and obligation that a shop counter could not match.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For many women in the 1950s, who were largely excluded from business careers, becoming a dealer offered independent income, flexible hours and the chance to rise through a sales organisation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recognition and a fall.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wise understood motivation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the Florida headquarters she held lavish annual events, called jubilees, where top sellers won prizes ranging from appliances to cars and boats.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recognition mattered as much as money.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sales grew rapidly, and in 1954 Wise became the first woman on the cover of the American magazine Business Week.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But her fame and independence led to clashes with Tupper, who reportedly resented her growing profile.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1958 he dismissed her.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That same year he sold the company to the Rexall Drug Company for about sixteen million US dollars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wise received a modest payout, and for years her role was largely left out of the company's official history.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The party plan's legacy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tupperware became a global brand, and the party plan was copied by companies selling cosmetics, kitchenware, candles, jewellery and more.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It works because it combines demonstration with personal relationships, though critics note that social pressure to buy from a friend can be uncomfortable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Times changed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As more women worked outside the home and shopping moved online, the party model struggled, and Tupperware's sales declined for years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2024 the company filed for bankruptcy protection in the United States.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the core lesson remains sharp.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A product that customers do not understand will not sell, however good it is.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Finding the right way to show it can matter as much as inventing it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Tupperware's clever airtight seal sold poorly in shops because customers did not understand it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Post-it Note: a failed glue and a choir bookmark.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One of the world's best-known office products began as a glue that did not stick properly.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It took a scientist's persistence and a singer's frustration to see its value.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A glue that failed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The company behind the Post-it Note turns setbacks into products.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It began in 1902 as the Minnesota Mining and Manufacturing Company, set up to mine what the founders believed was valuable corundum.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rock was poor quality, so the company moved into sandpaper, then masking tape and Scotch tape.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the late 1940s, technical staff have also been able to spend a share of their time, often described as fifteen per cent, on projects of their own choosing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1968 3M chemist Spencer Silver tried to make a very strong adhesive and made an odd one instead.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It gripped lightly, so objects could be stuck down, peeled away and reused with little residue.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Silver was convinced it was special, but could not say what it was for.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A problem in the choir.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The breakthrough came from a colleague's annoyance.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Art Fry, a 3M product development engineer, sang in his church choir in Minnesota.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He marked hymns with scraps of paper, which kept falling out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1974 he remembered Spencer Silver's light adhesive and realised it could make the perfect bookmark: it would stay in place but peel off without tearing the page.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He began coating paper with the glue and experimenting.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soon he noticed an even bigger use.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When he wrote a note on a sticky bookmark and stuck it on a report for a colleague, it worked as a message that stayed attached without damaging the document underneath.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A rocky launch.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even with a working product, success was not guaranteed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1977 3M test marketed the notes in four American cities as Press 'n Peel, and sales were disappointing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customers had never seen anything like it and could not imagine why they needed it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead of giving up, the company changed tactics.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1978 it flooded Boise, Idaho, with free samples, an effort later nicknamed the Boise Blitz.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once office workers actually used the notes, they wanted more, and a large majority of those surveyed said they would buy them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Renamed Post-it Notes, the product launched across the United States in 1980 and in other countries soon after.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it is sold in well over a hundred countries.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the notes are yellow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many famous product features are carefully designed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The colour of the Post-it Note was not.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "According to the company's own telling, the team working on early versions used scrap paper that happened to be yellow, borrowed from a neighbouring laboratory.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The colour stuck, in more ways than one, and canary yellow became the signature.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also proved practical, because a bright yellow square stands out on a desk, a computer screen or a page of black and white text.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today the notes come in a rainbow of colours, sizes and shapes, but yellow remains the shade most people picture.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not every successful choice in business comes from planning.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lessons from a sticky note.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Post-it story shows how innovation often really works.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was not a single flash of genius.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It needed a technology nobody had a use for, a scientist stubborn enough to keep promoting it, a colleague with a real everyday problem, and a company culture that allowed time for side projects.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also shows a marketing truth: a genuinely new product can fail if customers cannot picture using it, and letting people try it can be more persuasive than any advertisement.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silver and Fry both received recognition for the invention, and Post-it Notes are now among the most recognisable office products ever made.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Spencer Silver's weak, reusable adhesive looked like a failure but became the basis of the Post-it Note.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What made Ford's 1913 assembly line so much faster?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The car moved past workers who each repeated one task.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was the key idea of the Speedee Service System?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A short menu and an assembly-line kitchen.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did Tupperware sell poorly in shops?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Shoppers could not see how the airtight seal worked.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why did Spencer Silver's adhesive seem like a failure at first?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It gripped lightly, though it could be reused.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}
