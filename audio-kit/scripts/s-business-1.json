@@ -1,5 +1,6 @@
 {
  "id": "s-business-1",
+ "h": "business-idea,business-model,unit-economics,marketing-basics",
  "title": "Starting a Business · Episode 1",
  "chapters": [
   "Finding an idea worth building",
@@ -1143,13 +1144,13 @@
    "ps": false
   },
   {
-   "t": "Question three. In the coffee cart example, what is the contribution margin?",
+   "t": "Question three. What is a sale's contribution margin?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. About 3 dollars 20, the price less variable costs.",
+   "t": "Answer. The price less the variable costs.",
    "c": 4,
    "k": "a",
    "ps": false

@@ -1,5 +1,6 @@
 {
  "id": "topic-science-1",
+ "h": "air-pressure,photosynthesis,static-electricity,soil",
  "title": "Science Shorts",
  "chapters": [
   "Air pressure: the weight of the sky",
@@ -1173,13 +1174,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Where does the word electricity come from?",
+   "t": "Question three. What did the ancient Greeks notice about amber, which gave electricity its name?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The Greek word for amber.",
+   "t": "Answer. When rubbed, it attracted small objects.",
    "c": 4,
    "k": "a",
    "ps": false

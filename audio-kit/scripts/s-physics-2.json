@@ -1,5 +1,6 @@
 {
  "id": "s-physics-2",
+ "h": "heat-temperature,electricity,magnetism,light",
  "title": "Physics Basics · Episode 2",
  "chapters": [
   "Heat and temperature: what 'hot' really means",
@@ -1227,13 +1228,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What are naturally magnetic rocks called?",
+   "t": "Question three. What stands out about the early history of magnets?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Lodestones.",
+   "t": "Answer. People used them long before knowing why.",
    "c": 4,
    "k": "a",
    "ps": false

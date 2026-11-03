@@ -1,5 +1,6 @@
 {
  "id": "topic-maths-1",
+ "h": "geometry-in-nature,napier-logarithms,ramanujan,calculus-without-fear",
  "title": "Maths Shorts",
  "chapters": [
   "Nature's geometry: hexagons, spirals and bubbles",
@@ -1305,13 +1306,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Why did Ramanujan lose his college scholarship?",
+   "t": "Question three. What did Ramanujan's obsession with mathematics cost him?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. He failed exams in his other subjects.",
+   "t": "Answer. His formal education.",
    "c": 4,
    "k": "a",
    "ps": false

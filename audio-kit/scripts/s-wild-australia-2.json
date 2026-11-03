@@ -1,5 +1,6 @@
 {
  "id": "s-wild-australia-2",
+ "h": "eucalypts,termite-mounds,reptiles",
  "title": "Wild Australia · Episode 2",
  "chapters": [
   "Eucalypts: trees built for fire",
@@ -842,13 +843,13 @@
    "ps": false
   },
   {
-   "t": "Question one. Roughly what share of Australia's native forests are dominated by eucalypts?",
+   "t": "Question one. What is true of eucalypts in Australia?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. About three-quarters.",
+   "t": "Answer. They dominate its forests and cope with drought and fire.",
    "c": 3,
    "k": "a",
    "ps": false

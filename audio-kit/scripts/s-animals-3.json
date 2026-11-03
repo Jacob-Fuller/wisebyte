@@ -1,5 +1,6 @@
 {
  "id": "s-animals-3",
+ "h": "tardigrades,bees,spider-silk",
  "title": "Amazing Animals · Episode 3",
  "chapters": [
   "Tardigrades: the toughest animals on Earth",
@@ -770,13 +771,13 @@
    "ps": false
   },
   {
-   "t": "Question one. What does the name Tardigrada mean?",
+   "t": "Question one. Where can tardigrades be found?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Slow steppers.",
+   "t": "Answer. Almost everywhere, from backyard moss to polar regions.",
    "c": 3,
    "k": "a",
    "ps": false

@@ -75,6 +75,8 @@ const sentences = text => speakable(text).match(/[^.!?]+(?:[.!?]+["'”’]?|$)/
 const listAnd = a => a.length < 2 ? a.join("") : a.slice(0, -1).join(", ") + " and " + a[a.length - 1];
 const clean = t => t.replace(/[.:!?]+$/, "");
 
+/* identifies which lessons an episode holds; a recording made for a different set is never served */
+const lessonsKey = e => e.lessons.join(",");
 function script(e) {
   const units = [], add = (t, c, k, ps = false) => units.push({ t, c, k, ps });
   const ls = e.lessons.map(id => L[id]);
@@ -98,7 +100,7 @@ function script(e) {
     add(`Answer. ${clean(speakable(q.o[q.a]))}.`, rc, "a");
   });
   add(`That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.`, rc, "end");
-  return { id: e.id, title: e.t + (e.eps > 1 ? ` · Episode ${e.ep}` : ""), chapters: ls.map(l => clean(l.title)), units };
+  return { id: e.id, h: lessonsKey(e), title: e.t + (e.eps > 1 ? ` · Episode ${e.ep}` : ""), chapters: ls.map(l => clean(l.title)), units };
 }
 
 const kit = path.join(root, "audio-kit", "scripts");
@@ -132,6 +134,14 @@ const goAudio = path.join(root, "go", "audio");
 const manifest = { v: 1, base: "", episodes: {} };
 const mPath = path.join(goAudio, "manifest.json");
 if (fs.existsSync(mPath)) Object.assign(manifest.episodes, JSON.parse(fs.readFileSync(mPath, "utf8")).episodes || {});
+/* episodes recorded with audio-kit/generate.py. Set AUDIO_BASE when their files are hosted elsewhere (e.g. Cloudflare R2) */
+const kitM = path.join(root, "audio-kit", "out", "manifest.json");
+if (fs.existsSync(kitM)) for (const [id, x] of Object.entries(JSON.parse(fs.readFileSync(kitM, "utf8")).episodes || {})) {
+  const cur = episodes.find(e => e.id === id);
+  if (!cur || (x.h && x.h !== lessonsKey(cur))) { delete manifest.episodes[id]; console.log(`skipping ${id}: recorded for a different set of lessons, re-record it`); continue; }
+  const base = process.env.AUDIO_BASE || (manifest.episodes[id] && manifest.episodes[id].base);
+  manifest.episodes[id] = base ? { ...x, base } : x;
+}
 for (const o of originals) {
   const A = AUDIO[o.id];
   fs.writeFileSync(path.join(goAudio, o.id + ".json"), JSON.stringify({ chapters: A.chapters, units: A.units, at: A.at, dur: A.dur }));

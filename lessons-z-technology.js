@@ -202,7 +202,7 @@ WB.L("open-source", "technology", "intermediate", "Open source: the free code ru
     [1, "What did Stallman mean by 'free' software?", ["It never costs the user any money","It can never be sold by anyone","Users are free to study and change it","It comes with no licence or rules"], 2, "The point was freedom, free as in free speech, not free as in free beer."],
     [2, "Where is Linux commonly used today?", ["Only on home desktop computers and laptops","Only in specialist research laboratories","Almost nowhere outside hobbyist computers","Android phones, web servers and supercomputers"], 3, "Linux quietly powers much of the digital world, from phones to supercomputers."],
     [3, "What did Heartbleed reveal about open source?", ["Vital shared code can rely on a few underfunded people","Open source is always less secure than commercial code","Encryption software cannot be fixed","Volunteers refuse to maintain code"], 0, "Everyone relies on the code, yet few fund or maintain it, so flaws carry shared risk."],
-    [4, "How was the xz Utils backdoor discovered?", ["A routine government audit","A security alarm at a major bank","An engineer chasing a login delay","A public report from the attacker"], 2, "Careful curiosity about a small slowdown uncovered a hidden attack."]
+    [4, "What does the discovery of the xz Utils backdoor show?", ["Backdoors are usually found by audits","Small oddities can expose serious attacks","Attackers rarely bother with small tools","Open source code is always well checked"], 1, "An engineer curious about a half-second login delay uncovered a hidden backdoor."]
   ],
   {"added":"2026-10-26","push":"A half-second delay on one test machine uncovered a plot against the internet."});
 

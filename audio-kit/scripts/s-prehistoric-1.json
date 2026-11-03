@@ -1,5 +1,6 @@
 {
  "id": "s-prehistoric-1",
+ "h": "first-life,fossils,dinosaurs",
  "title": "Prehistoric Life · Episode 1",
  "chapters": [
   "The first life on Earth",
@@ -848,13 +849,13 @@
    "ps": false
   },
   {
-   "t": "Question one. What are the Jack Hills zircons in Western Australia known for?",
+   "t": "Question one. What do the Jack Hills zircons suggest about the young Earth?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Being the oldest known pieces of Earth.",
+   "t": "Answer. Liquid water existed surprisingly early.",
    "c": 3,
    "k": "a",
    "ps": false

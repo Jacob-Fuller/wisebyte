@@ -1,5 +1,6 @@
 {
  "id": "s-fitness-2",
+ "h": "water-and-thirst,alcohol,sun-safety",
  "title": "Health & Fitness · Episode 2",
  "chapters": [
   "Water and thirst: how much do you really need",
@@ -872,13 +873,13 @@
    "ps": false
   },
   {
-   "t": "Question one. Roughly what share of an adult's body weight is water?",
+   "t": "Question one. Why does the body guard its water levels so carefully?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. 50 to 60 per cent.",
+   "t": "Answer. Almost every vital reaction happens in water.",
    "c": 3,
    "k": "a",
    "ps": false

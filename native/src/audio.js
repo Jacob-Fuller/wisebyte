@@ -109,6 +109,7 @@ async function ensureAudio(id, v, onProgress) {
   const task = FS.createDownloadResumable(baseFor(id) + fileName(id, v), path + ".part", {}, d => { if (d.totalBytesExpectedToWrite > 0 && onProgress) onProgress(d.totalBytesWritten / d.totalBytesExpectedToWrite); });
   const res = await task.downloadAsync();
   if (!res || res.status !== 200) { FS.deleteAsync(path + ".part", { idempotent: true }).catch(() => {}); throw new Error("audio " + (res && res.status)); }
+  await FS.deleteAsync(path, { idempotent: true }).catch(() => {});
   await FS.moveAsync({ from: path + ".part", to: path });
   const i = await FS.getInfoAsync(path);
   G.p.saved[k] = i.size || estBytes(id); savePrefs();
@@ -208,7 +209,10 @@ export function playList(ids) { ids = ids.filter(available); if (!ids.length) re
 export function toggle() {
   if (!G.cur) return;
   if (!player || !player.isLoaded) return play(G.cur);
-  if (G.playing) player.pause(); else { setupMode(); player.play(); }
+  if (G.playing) return player.pause();
+  setupMode();
+  if (G.dur && G.t >= G.dur - 1) { player.seekTo(0).catch(() => {}); G.t = 0; }
+  player.play();
 }
 export function seek(t) { if (!player || !G.cur) return; const d = G.dur || durOf(G.cur); const x = Math.max(0, Math.min(d - 0.3, t)); G.t = x; player.seekTo(x).catch(() => {}); tickLive(); }
 export const skip = s => seek((G.t || 0) + s);

@@ -1,5 +1,6 @@
 {
  "id": "s-geography-3",
+ "h": "rainforests,borders,cities,population",
  "title": "World Geography · Episode 3",
  "chapters": [
   "Rainforests: Earth's richest places",
@@ -1299,13 +1300,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Roughly when did more than half of the world's people first live in urban areas?",
+   "t": "Question three. Cities are over 5,000 years old. How long has most of humanity lived in them?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Around 2007.",
+   "t": "Answer. Only for the past couple of decades.",
    "c": 4,
    "k": "a",
    "ps": false

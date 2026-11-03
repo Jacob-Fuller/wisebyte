@@ -1,5 +1,6 @@
 {
  "id": "s-human-body-2",
+ "h": "gut-microbiome,liver-chemical-factory,kidneys-filters,hormones-messengers",
  "title": "The Human Body · Episode 2",
  "chapters": [
   "Your microbiome: the trillions living inside you",
@@ -1107,13 +1108,13 @@
    "ps": false
   },
   {
-   "t": "Question one. What did a 2016 recalculation suggest about microbial and human cells in the body?",
+   "t": "Question one. What does the 2016 recount of microbial and human cells show?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The ratio is roughly one to one.",
+   "t": "Answer. Catchy statistics can outlive their evidence.",
    "c": 4,
    "k": "a",
    "ps": false
@@ -1131,13 +1132,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Roughly what share of the filtered fluid do the kidneys take back?",
+   "t": "Question three. What happens to most of the fluid the kidneys filter each day?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. About 99 per cent.",
+   "t": "Answer. It is taken back into the blood.",
    "c": 4,
    "k": "a",
    "ps": false

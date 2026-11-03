@@ -9,8 +9,11 @@
     "ios": "expo run:ios"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "*",
     "expo": "~54.0.0",
+    "expo-audio": "~1.1.1",
     "expo-clipboard": "*",
+    "expo-file-system": "~19.0.24",
     "expo-font": "*",
     "expo-notifications": "*",
     "expo-speech": "*",
@@ -20,8 +23,7 @@
     "react": "19.1.0",
     "react-native": "~0.81.0",
     "react-native-safe-area-context": "*",
-    "react-native-svg": "*",
-    "@react-native-async-storage/async-storage": "*"
+    "react-native-svg": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.25.0"

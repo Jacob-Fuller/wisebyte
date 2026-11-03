@@ -1,5 +1,6 @@
 {
  "id": "s-medicine-1",
+ "h": "germ-theory,viruses,vaccines,antibiotics",
  "title": "Medicine & Disease · Episode 1",
  "chapters": [
   "Germ theory: the idea that saved millions",
@@ -1143,13 +1144,13 @@
    "ps": false
   },
   {
-   "t": "Question four. Why was penicillin not a medicine straight after its discovery in 1928?",
+   "t": "Question four. What was life like before antibiotics?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. It was too hard to purify at first.",
+   "t": "Answer. Minor cuts and infections could easily kill.",
    "c": 4,
    "k": "a",
    "ps": false

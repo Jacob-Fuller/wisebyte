@@ -64,7 +64,7 @@ WB.L("the-cloud", "technology", "beginner", "Where the cloud really lives",
     [1, "What is the purpose of hot and cold aisles in a data centre?", ["To manage airflow so servers stay cool","To separate staff from visitors","To store spare parts","To divide different customers' data"], 0, "Cool air enters the front of the servers and hot air is captured from the back."],
     [2, "Why do cloud services keep multiple copies of your data?", ["To charge you more for storage","So a failed drive does not lose data","To let you open files without internet","Because the law forbids single copies"], 1, "Redundancy protects against drive failures, fires and outages."],
     [3, "Why do streaming services use content delivery networks?", ["To encrypt every customer's passwords","To block unwanted online advertising","To reduce the heat from servers","To store popular content near viewers"], 3, "Nearby copies start faster and avoid clogging long international links."],
-    [4, "Roughly what share of the world's electricity do data centres use, according to estimates?", ["About one to two percent","About ten percent","About a third","Less than one hundredth of one percent"], 0, "The share is modest but rising quickly as artificial intelligence grows."]
+    [4, "Why can it matter where a cloud service stores your data?", ["That country's laws may apply to it","Distant data loads too slowly to use","Only local data can be backed up","Overseas data is deleted every year"], 0, "Data stored in another country may be subject to its laws, so sensitive data often stays onshore."]
   ],
   {"added":"2026-09-25","push":"Your photos are not floating in the sky. Here is where they actually sit."});
 

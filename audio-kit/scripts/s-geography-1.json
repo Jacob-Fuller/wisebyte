@@ -1,5 +1,6 @@
 {
  "id": "s-geography-1",
+ "h": "continents,antarctica,rivers-mountains,everest-himalaya",
  "title": "World Geography · Episode 1",
  "chapters": [
   "The continents",
@@ -1167,13 +1168,13 @@
    "ps": false
   },
   {
-   "t": "Question two. Roughly how far would sea levels rise if all of Antarctica's ice melted?",
+   "t": "Question two. Why does Antarctica's ice sheet matter so much to the planet?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. About 60 metres.",
+   "t": "Answer. It holds most of Earth's ice and fresh water.",
    "c": 4,
    "k": "a",
    "ps": false

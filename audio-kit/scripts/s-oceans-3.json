@@ -1,5 +1,6 @@
 {
  "id": "s-oceans-3",
+ "h": "whales,octopus-mind,great-barrier-reef",
  "title": "The Oceans · Episode 3",
  "chapters": [
   "Whales: giants of the sea",
@@ -752,13 +753,13 @@
    "ps": false
   },
   {
-   "t": "Question one. What are the closest living relatives of whales?",
+   "t": "Question one. What do fossils and DNA show about where whales came from?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Hippopotamuses.",
+   "t": "Answer. They evolved from four-legged land mammals.",
    "c": 3,
    "k": "a",
    "ps": false

@@ -108,7 +108,7 @@ WB.L("body-language", "psychology", "beginner", "Body language: fact and fiction
   [
     [0, "Why is the claim that 93% of communication is non-verbal misleading?", ["It came from narrow experiments about liking","It was proven in every language tested","It only applies to written messages","Nobody has ever tested it properly"], 0, "Mehrabian has said his findings don't apply to communication in general."],
     [1, "What is the best way to read someone's body language?", ["Focus on a single gesture such as crossed arms","Read clusters of signals against their baseline","Assume it reveals their true thoughts","Ignore it because it carries no meaning"], 1, "One signal is ambiguous, but patterns and context give better clues."],
-    [2, "Roughly how accurately do people detect lies, according to a large review?", ["About 90%","About 75%","About 20%","About 54%"], 3, "That is only slightly better than chance."],
+    [2, "What did a large review find about how well people detect lies?", ["Far better than chance","Much worse than chance","Good, if they watch eye contact","Barely better than a coin toss"], 3, "People spot lies only about 54% of the time, barely better than chance."],
     [3, "What happened when researchers tested the hormone effects of power posing?", ["A larger study failed to find them","They were confirmed in every follow-up study","They appeared only in athletes","They lasted for days after one pose"], 0, "One original author later said she no longer believed the effects were real."],
     [4, "In many Aboriginal and Torres Strait Islander communities, what can less direct eye contact signal?", ["Dishonesty","Boredom","Respect","Anger"], 2, "Eye contact norms vary by culture, so it is not a universal measure of honesty."]
   ],

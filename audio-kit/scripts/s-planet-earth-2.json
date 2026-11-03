@@ -1,5 +1,6 @@
 {
  "id": "s-planet-earth-2",
+ "h": "weather,cloud-types,australia-climate",
  "title": "Planet Earth & Climate · Episode 2",
  "chapters": [
   "How weather works",
@@ -836,13 +837,13 @@
    "ps": false
   },
   {
-   "t": "Question two. What does the cloud name 'cumulus' mean?",
+   "t": "Question two. Why have Luke Howard's 1802 cloud names lasted?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Heap.",
+   "t": "Answer. They were simple, clear and could be combined.",
    "c": 3,
    "k": "a",
    "ps": false

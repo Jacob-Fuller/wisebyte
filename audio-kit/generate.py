@@ -82,7 +82,7 @@ def main(argv):
             path = os.path.join(OUT, f"{eid}-{voice}.mp4")
             encode(samples, path); size[v] = os.path.getsize(path)
         json.dump({"chapters": s["chapters"], "units": s["units"], "at": at, "dur": dur}, open(os.path.join(OUT, eid + ".json"), "w"), separators=(",", ":"))
-        manifest["episodes"][eid] = {"dur": dur, "size": size}
+        manifest["episodes"][eid] = {"dur": dur, "size": size, "h": s.get("h", "")}
         json.dump(manifest, open(mpath, "w"), indent=1)   # saved after every episode, so a stopped run loses nothing
         print(f"[{n}/{len(todo)}] {eid}: {dur['f'] / 60:.1f} min, recorded in {(time.time() - t0) / 60:.1f} min")
 

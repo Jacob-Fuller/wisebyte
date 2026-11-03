@@ -1,5 +1,6 @@
 {
  "id": "s-wild-australia-1",
+ "h": "marsupials,monotremes,australian-birds",
  "title": "Wild Australia · Episode 1",
  "chapters": [
   "Marsupials: life in the pouch",
@@ -914,13 +915,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Where did songbirds originally evolve?",
+   "t": "Question three. Why does a European blackbird carry an 'Australian inheritance'?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Australia and New Guinea.",
+   "t": "Answer. Songbirds first evolved here, then spread.",
    "c": 3,
    "k": "a",
    "ps": false

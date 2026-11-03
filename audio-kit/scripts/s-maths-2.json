@@ -1,5 +1,6 @@
 {
  "id": "s-maths-2",
+ "h": "check-digits,metric-measurement,big-numbers",
  "title": "Everyday Maths · Episode 2",
  "chapters": [
   "Check digits: the hidden maths that catches typos",
@@ -896,25 +897,25 @@
    "ps": false
   },
   {
-   "t": "Question two. What was the original aim for the length of the metre?",
+   "t": "Question two. What was the metre originally meant to be based on?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. One ten-millionth of pole to equator.",
+   "t": "Answer. The size of the Earth.",
    "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Roughly how long is a billion seconds?",
+   "t": "Question three. What does comparing a million seconds with a billion seconds show?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. About 31.7 years.",
+   "t": "Answer. A billion is far bigger than it sounds.",
    "c": 3,
    "k": "a",
    "ps": false
