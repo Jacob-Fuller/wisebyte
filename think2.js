@@ -48,7 +48,7 @@ WB.GK.push(
   { cat: "culture", q: "Chinese New Year is also known as what?", o: ["The Moon Festival", "The Spring Festival", "The Lantern Festival", "The Dragon Boat Festival"], a: 1, e: "It follows the lunar calendar, so the date changes each year." },
   // Economics
   {"cat":"economics","q":"What is 'stagflation'?","o":["Fast economic growth with falling prices","High inflation with weak growth","A sudden crash in share market prices","A long stretch of stable prices"],"a":1,"e":"The word blends 'stagnation' and 'inflation'. Many economies suffered it after the 1970s oil shocks."},
-  {"cat":"economics","q":"What is 'bracket creep'?","o":["When tax brackets are reduced each year","When a pay rise lifts your tax bracket","When interest rates rise slowly over time","When prices creep up after a sale ends"],"a":1,"e":"Australia's income tax thresholds aren't automatically indexed to inflation, so governments periodically cut taxes to hand some of it back."},
+  {"cat":"economics","q":"What is 'bracket creep'?","o":["When tax brackets are reduced each year","When a pay rise lifts your tax bracket","When interest rates rise slowly over time","When prices creep up after a sale ends"],"a":1,"e":"Pay rises that only keep pace with inflation push more of your income into higher brackets. Australia's tax thresholds aren't automatically indexed, so governments periodically cut taxes to hand some back."},
   {"cat":"economics","q":"What is 'shrinkflation'?","o":["When prices fall because demand drops off","When a product shrinks but its price stays put","When shops cut their opening hours to save costs","When wages lose value after income tax"],"a":1,"e":"A chocolate block that quietly drops from 200 g to 180 g at the same price is a hidden 11% price rise."},
   { cat: "economics", q: "What does 'ASX' stand for?", o: ["Australian Stock Index", "Australian Securities Exchange", "Asian Stock Exchange", "Australian Savings Exchange"], a: 1, e: "It's Australia's main stock exchange, based in Sydney." },
   { cat: "economics", q: "If a savings account pays interest, who pays whom?", o: ["You pay the bank", "The bank pays you", "The government pays the bank", "No one pays"], a: 1, e: "The bank pays you for letting it use your money." },
@@ -78,7 +78,7 @@ WB.GK.push(
 );
 
 WB.CLAIMS.push(
-  { c: "The Eiffel Tower can grow around 15 cm taller in hot weather.", t: true, e: "Iron expands when heated, so the tower's height changes with the temperature." },
+  { c: "The Eiffel Tower is slightly taller on a hot day than on a cold one.", t: true, e: "Its iron expands in the heat and contracts in the cold. On a sunny day the top also traces a small loop, about 15 cm across, as the sun warms one side after another." },
   { c: "Mosquitoes kill more people each year than any other animal.", t: true, e: "They spread malaria, dengue and other diseases that kill hundreds of thousands of people a year." },
   { c: "You lose most of your body heat through your head.", t: false, e: "Your head loses heat roughly in proportion to its surface area, only around 10%. Cover up everywhere." },
   { c: "Australia is wider than the Moon.", t: true, e: "Australia is about 4,000 km from east to west; the Moon is about 3,475 km across." },
@@ -100,7 +100,7 @@ WB.CLAIMS.push(
   { c: "Reading in dim light permanently damages your eyesight.", t: false, e: "It can cause temporary eye strain, but there's no evidence of lasting damage." },
   { c: "The Moon has no gravity.", t: false, e: "The Moon's gravity is about one-sixth of Earth's. It's also the main cause of our ocean tides." },
   { c: "Diamonds are made of carbon, the same element as pencil graphite.", t: true, e: "The difference is how the carbon atoms are arranged." },
-  { c: "The Sun is yellow.", t: false, e: "The Sun gives off all colours of light, which mix to make white. From space it looks white; our air scatters blue light, making it look yellowish from the ground." },
+  { c: "Seen from space, the Sun looks yellow.", t: false, e: "The Sun gives off all colours of light, which mix to make white, so from space it looks white. Our air scatters some blue light, which makes it look yellowish from the ground." },
   { c: "Crocodiles can't stick their tongues out.", t: true, e: "A crocodile's tongue is held in place by a membrane along the floor of its mouth." },
   { c: "All sharks must keep swimming or they'll suffocate.", t: false, e: "Some species must, but many, like the Port Jackson shark and wobbegongs, pump water over their gills while resting." },
   { c: "Your blood is blue until it touches air.", t: false, e: "Blood is always red: darker when low in oxygen. Veins only look blue because of how light passes through skin." },
@@ -120,11 +120,11 @@ WB.PUZZLES.push(
   { q: "Jess is taller than Sam. Sam is taller than Ali. Who is the shortest?", o: ["Jess", "Sam", "Ali", "Can't tell"], a: 2, e: "Jess > Sam > Ali, so Ali is shortest." },
   { q: "Cutting a log into 3 pieces takes 6 minutes. At the same speed, how long does it take to cut an identical log into 4 pieces?", o: ["8 minutes", "9 minutes", "10 minutes", "12 minutes"], a: 1, e: "3 pieces need only 2 cuts, so each cut takes 3 minutes. 4 pieces need 3 cuts: 9 minutes." },
   {"q":"A train leaves at 11:50 and the trip takes 45 minutes. When does it arrive?","o":["12:25","12:35","12:45","12:15"],"a":1,"e":"10 minutes gets you to 12:00, then 35 more minutes: 12:35."},
-  { q: "You have one match and walk into a dark room with a candle, a heater and a lamp. What do you light first?", o: ["The candle", "The heater", "The lamp", "The match"], a: 3, e: "You have to light the match before anything else." },
+  { q: "You have 8 identical-looking coins, and one is slightly heavier. With a balance scale, what is the fewest weighings that always finds the heavy coin?", o: ["1", "2", "3", "4"], a: 1, e: "Weigh 3 against 3. If they balance, weigh the last 2 against each other. If not, take the heavier 3 and weigh 1 against 1: if those balance, it's the one left over." },
 );
 
 WB.SCENARIOS.push(
-  {"topic":"Bias","q":"Your last three home projects each ran well over budget, but you're sure this one will come in on time. What's the likely trap?","o":["Anchoring","The planning fallacy","Survivorship bias","The sunk cost fallacy"],"a":1,"e":"The planning fallacy is underestimating time and cost despite past experience. Start from your own track record, or how long similar projects really took."},
+  {"topic":"Bias","q":"Your last three home projects each ran well over time and budget, but you're sure this one will finish on time and on budget. What's the likely trap?","o":["Anchoring","The planning fallacy","Survivorship bias","The sunk cost fallacy"],"a":1,"e":"The planning fallacy is underestimating time and cost despite past experience. Start from your own track record, or how long similar projects really took."},
   { topic: "Bias", q: "A jacket is labelled 'Was $400, now $199'. Why does $199 feel like a bargain?", o: ["It's always a bargain", "The $400 acts as an anchor that shapes your sense of value", "Jackets are cheap", "Sales are regulated"], a: 1,
     e: "Anchoring: the first number you see sets the reference point. Ask what the jacket is worth to you, not what it 'was'." },
   { topic: "Bias", q: "You're convinced a diet works, so you only read articles that praise it. What's this called?", o: ["Critical thinking", "Confirmation bias", "Peer review", "The placebo effect"], a: 1,
@@ -149,7 +149,7 @@ WB.SCENARIOS.push(
   { topic: "Logical fallacies", q: "A famous actor recommends a vitamin supplement in an ad. Why isn't that strong evidence it works?", o: ["Actors can't take vitamins", "They're not an expert in medicine and are being paid", "Ads are illegal", "It is strong evidence"], a: 1,
     e: "That's an appeal to (false) authority. Fame in one field doesn't make someone an expert in another." },
   { topic: "Risk", q: "Shark attacks get heavy news coverage. For Australian beachgoers, how does the risk of dying from a shark compare with drowning?", o: ["Sharks are far riskier", "About the same", "Drowning is far more common", "Neither ever happens"], a: 2,
-    e: "Around 100 or more people drown on Australia's coast each year; fatal shark bites are typically a handful. Vivid news makes rare risks feel common." },
+    e: "Well over 100 people drown on Australia's coast each year (a record 154 in 2024-25); fatal shark bites are typically a handful. Vivid news makes rare risks feel common." },
 );
 
 WB.CAPITALS.push(

@@ -241,10 +241,10 @@ function buildActivity(a, o) {
 const STORE_KEY = "wisebyte.v3";
 const freshStats = () => ({ answered: 0, correct: 0, run: 0, bestRun: 0, perfectLessons: 0, goldens: 0, recalls: 0, recallsRight: 0,
   challenges: 0, beatYesterday: 0, dailyCompletes: 0, lookups: 0, speedBest: 0, perfectFob: 0, perfectTimeline: 0, perfectOpposites: 0, perfectCapitals: 0, perfectCritical: 0, perfectGk: 0 });
-export const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, quotes: {}, mastered: {}, inner: {}, covered: {}, heard: {}, notify: { on: false, time: "08:00", asked: false }, stats: freshStats() });
+export const freshProfile = () => ({ xp: 0, streak: 0, best: 0, lastActive: null, freezes: 1, days: {}, lessons: {}, words: {}, custom: {}, ach: {}, scores: {}, quotes: {}, mastered: {}, inner: {}, covered: {}, heard: {}, plan: {}, notify: { on: false, time: "08:00", asked: false }, stats: freshStats() });
 export const mergeProfile = p => {
   const m = Object.assign(freshProfile(), p && typeof p === "object" ? p : {});
-  for (const k of ["days", "lessons", "words", "custom", "ach", "scores", "quotes", "mastered", "inner", "covered", "heard"]) if (!m[k] || typeof m[k] !== "object" || Array.isArray(m[k])) m[k] = {};
+  for (const k of ["days", "lessons", "words", "custom", "ach", "scores", "quotes", "mastered", "inner", "covered", "heard", "plan"]) if (!m[k] || typeof m[k] !== "object" || Array.isArray(m[k])) m[k] = {};
   m.stats = Object.assign(freshStats(), (p && p.stats) || {});
   m.notify = Object.assign({ on: false, time: "08:00", asked: false }, (p && p.notify) || {});
   return m;
@@ -311,6 +311,7 @@ export function markHeard(ids) {
   }
   if (n) { d.lesson += n; addXp(n * RULES.xp.heard); }
   wrapUp().forEach(x => toast(x.text));
+  if (hooksNotify.refresh) setTimeout(hooksNotify.refresh, 0);
   changed();
   return n;
 }
@@ -433,14 +434,18 @@ export function categoryStats() {
 /* daily picks (stable for the day) */
 export function lessonOfDay() {
   const d = day(); if (d.lotd && lessonById(d.lotd) && (lessonById(d.lotd).audience || "adult") === aud()) return lessonById(d.lotd);
-  const src = freshPool(lessons().filter(l => !isPractical(l)));
-  const l = src[hashStr(today() + aud() + "L") % src.length]; d.lotd = l.id; save(); return l;
+  const t = today(), planned = state.plan[t] && lessonById(state.plan[t]);
+  for (const k of Object.keys(state.plan)) if (k < t) delete state.plan[k];
+  const l = planned && !isCovered(planned.id) ? planned : pickLessonFor(t); d.lotd = l.id; save(); return l;
 }
+const pickLessonFor = k => { const src = freshPool(lessons().filter(l => !isPractical(l))); return src[hashStr(k + aud() + "L") % src.length]; };
 /* the lesson the app shows on a given day (today: the real lesson of the day; later days: the same rule, nothing saved) */
 export function lessonForDate(k) {
   if (k === today()) return lessonOfDay();
-  const src = freshPool(lessons().filter(l => !isPractical(l)));
-  return src[hashStr(k + aud() + "L") % src.length];
+  /* remembered, so the hint sent for a day is the lesson the app shows that day (unless it's covered first) */
+  const planned = state.plan[k] && lessonById(state.plan[k]);
+  if (planned && !isCovered(planned.id)) return planned;
+  const l = pickLessonFor(k); state.plan[k] = l.id; save(); return l;
 }
 export const hooksNotify = { firstLesson: null, refresh: null };
 export function wordOfDay() {

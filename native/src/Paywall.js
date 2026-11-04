@@ -9,7 +9,7 @@ import { Logo } from "./components/Icon";
 import { Tap } from "./components/ui";
 import Sheets, { openDoc } from "./Sheets";
 
-const FEATURES = ["Every lesson and Compendium course, with mastery exams", "The Arena: brain games, quizzes and Fact or Fiction?", "Spaced Review, so you keep what you learn", "New lessons added regularly"];
+const FEATURES = ["Every lesson and Compendium course, with mastery exams", "Wisebyte Go: audio episodes for the walk and the drive", "Wisebyte Scroll and the Arena's brain games", "Spaced Review, so you keep what you learn", "New lessons added regularly"];
 
 function Plan({ on, title, sub, price, per, onPress }) {
   return (

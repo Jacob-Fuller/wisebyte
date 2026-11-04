@@ -41,7 +41,7 @@ WB.L("greek-democracy", "ancient", "beginner", "The birth of democracy",
     [1, "Why did Athenians fill most public jobs by lot?", ["They had no reliable way of counting votes","Few citizens were willing to take part in politics","Elections were too expensive to run each year","They thought elections favoured the rich and famous"], 3, "Lotteries gave ordinary citizens a real turn and reduced the advantage of wealth and charm."],
     [2, "Why were Athenian juries chosen by lot on the day of the trial?", ["To make bribing jurors difficult","To make sure only experts judged cases","To finish trials faster than usual","To let the wealthy sit on every jury"], 0, "Large juries picked by lot at the last minute made bribery hard."],
     [3, "Why did Athens begin paying jurors and Assembly members?", ["To make public office more prestigious","To raise money for the navy","So working people could afford to take part","To keep foreigners out of politics"], 2, "Without pay, a day in the Assembly or on a jury cost poorer citizens a day's wages."],
-    [4, "Who was excluded from Athenian citizenship and voting?", ["Men who owned very little land","Women, enslaved people and foreigners","Farmers who lived far outside the city","Anyone who had a criminal record"], 1, "Democracy belonged to a minority of free men; ideas about who counts have changed a great deal."]
+    [4, "Who was excluded from Athenian citizenship and voting?", ["Men who owned very little land","Farmers who lived far outside the city","Women, enslaved people and foreigners","Anyone who had a criminal record"], 2, "Democracy belonged to a minority of free men; ideas about who counts have changed a great deal."]
   ],
   {"added":"2026-09-25","push":"Athenians picked most officials by lottery, not votes. They had a reason."});
 
@@ -133,7 +133,7 @@ WB.L("greek-legacy", "ancient", "beginner", "What the Greeks gave us",
     [1, "What does the phrase 'Achilles' heel' mean?", ["A great warrior's strength","A hard journey home","A gift hiding a threat","A person's one weak point"], 3, "It comes from Achilles, whose vulnerable heel became a symbol of one fatal weakness."],
     [2, "Why is the Greek approach in Euclid's Elements still important?", ["It builds proofs step by step from assumptions","It relies on tradition rather than argument","It avoids numbers in favour of stories","It treats geometry as a branch of religion"], 0, "Proving things from simple principles still underpins mathematics today."],
     [3, "What was the purpose of the Parthenon's subtle swelling and leaning columns?", ["To make the building stronger in earthquakes","To save marble for other nearby temples","To make it look straight from a distance","To mark the days of the Athenian calendar"], 2, "Greek builders corrected for how the eye sees straight lines."],
-    [4, "What did the Greeks add when they adapted the Phoenician alphabet?", ["Pictures for whole words","Letters for vowels","Symbols for numbers only","A separate script for poetry"], 1, "The Greeks turned unneeded consonant letters into vowels, a feature later alphabets inherited."]
+    [4, "What did the Greeks add when they adapted the Phoenician alphabet?", ["Pictures for whole words","Symbols for numbers only","A separate script for poetry","Letters for vowels"], 3, "The Greeks turned unneeded consonant letters into vowels, a feature later alphabets inherited."]
   ],
   {"added":"2026-09-25","push":"You use Ancient Greece every day, and your next word might be Greek."});
 

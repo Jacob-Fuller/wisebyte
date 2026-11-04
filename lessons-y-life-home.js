@@ -45,7 +45,7 @@ WB.L("laundry-done-right", "life", "beginner", "Laundry done right",
   ],
   {"added":"2026-09-25","push":"Why one red t-shirt can turn a whole load pink, and how to stop it."});
 
-WB.L("cut-power-water-bills", "life", "advanced", "Cutting your power and water bills",
+WB.L("cut-power-water-bills", "life", "beginner", "Cutting your power and water bills",
   "Your energy bill is a story about heat: heating rooms, heating water and keeping food cold. Read it properly and you can find real savings without living in the dark.",
   [
     ["Read your bill", "Bills combine a daily supply charge with a price per kilowatt hour, and heating, cooling and hot water are the big users.",
@@ -130,7 +130,7 @@ WB.L("moving-house-checklist", "life", "beginner", "Moving house without the cha
   ],
   [
     [0, "When is demand for removalists usually highest?", ["Midweek during the winter months","At month's end and school holidays","Early on Monday mornings","In the middle of the month"], 1, "Book early, because peak times fill up and leave you with few options."],
-    [1, "Why should books go in small boxes?", ["Large boxes always cost more","Books must stay visible in transit","Heavy large boxes hurt backs and split open","Small boxes are easier to label"], 2, "Heavy items go in small boxes and light bulky items in large ones."],
+    [1, "Why should books go in small boxes?", ["Large boxes always cost more","Books must stay visible in transit","Heavy big boxes are unsafe to lift","Small boxes are easier to label"], 2, "Heavy items go in small boxes and light bulky items in large ones."],
     [2, "Why photograph meter readings on moving day?", ["The utility company requires a photo to connect","It is needed to claim your bond","It helps the removalists","It gives you evidence if a bill looks wrong"], 3, "Photos at both properties protect you from disputed final bills."],
     [3, "What helps most in getting a renter's bond back?", ["A clean checked against the entry report","Leaving before the final inspection","Repainting the walls in a new colour","Keeping a spare key for the landlord"], 0, "The entry report, a thorough clean and dated photos show the property's condition."],
     [4, "What should you do at the new home before unpacking?", ["Hang pictures and paint the walls","Find the water main and test smoke alarms","Rearrange the furniture in each room","Unpack every box in the lounge room"], 1, "Safety basics come first, then beds, then the kitchen and bathroom."]

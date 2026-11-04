@@ -132,7 +132,7 @@ export default function AccountScreen() {
           <SetRow title="About, privacy and terms" sub="Disclaimers, contact and support" chev onPress={() => openSheet("about")} />
         </View>
       </Panel>
-      <Text style={[T.small, { textAlign: "center" }]}>Progress is saved on this device.</Text>
+      <Text style={[T.small, { textAlign: "center" }]}>{Auth.user() ? "Progress is saved on this device and backed up to your account." : "Progress is saved on this device."}</Text>
     </>
   );
 }

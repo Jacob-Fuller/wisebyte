@@ -68,6 +68,17 @@ function speakable(s) {
     .replace(/&/g, " and ")
     .replace(/\be\.g\.,?/gi, "for example,").replace(/\bi\.e\.,?/gi, "that is,").replace(/\betc\./gi, "and so on.")
     .replace(/\bvs\.?\b/gi, "versus")
+    .replace(/(\d)\s?%/g, "$1 per cent")
+    .replace(/(\d)\s?°C\b/g, "$1 degrees")
+    .replace(/(\d)\s?km\/h\b/g, "$1 kilometres an hour")
+    .replace(/(\d)\s?kWh\b/g, "$1 kilowatt hours")
+    .replace(/(\d)\s?km²/g, "$1 square kilometres").replace(/(\d)\s?m²/g, "$1 square metres")
+    .replace(/(\d)\s?km\b/g, "$1 kilometres").replace(/(\d)\s?kg\b/g, "$1 kilograms").replace(/(\d)\s?cm\b/g, "$1 centimetres").replace(/(\d)\s?mm\b/g, "$1 millimetres")
+    .replace(/\b80\/20\b/g, "eighty-twenty")
+    .replace(/(\d)\s?×\s?(\d)/g, "$1 times $2").replace(/×/g, " times ")
+    .replace(/(\d)\s?\+\s?(\d)/g, "$1 plus $2").replace(/(\d)\s?=\s?(\d)/g, "$1 equals $2")
+    .replace(/\bDr\.?\s(?=[A-Z])/g, "Doctor ")
+    .replace(/\bc\.\s?(?=\d)/g, "around ")
     .replace(/,\s*([,.;:!?])/g, "$1").replace(/,,+/g, ",")
     .replace(/\s{2,}/g, " ").trim();
 }

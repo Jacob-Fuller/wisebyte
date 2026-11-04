@@ -112,5 +112,5 @@ WB.L("fall-of-rome", "ancient", "intermediate", "Why Rome fell",
     [3, "What do most modern historians say about why Rome fell?", ["A mix of military, political and economic problems","Christianity alone destroyed its will to fight","Lead poisoning weakened every Roman leader","Attila single-handedly conquered the empire"], 0, "Civil wars, heavy taxes, lost provinces, plague and migrating peoples combined."],
     [4, "Why is the Byzantine Empire called the empire that did not fall?", ["It conquered the West and ruled from Rome","It moved its capital back to Rome in 476","It was ruled by Odoacer from Ravenna","The East lasted until 1453 from Constantinople"], 3, "The East survived nearly a thousand years longer and kept Roman law and learning alive."]
   ],
-  {"added":"2026-09-25","push":"Historians have named over 200 reasons Rome fell. Why most are probably wrong."});
+  {"added":"2026-09-25","push":"Historians have named over 200 reasons Rome fell. The real answer is messier."});
 
