@@ -26,14 +26,18 @@ if (-not (Get-Command ffmpeg -ErrorAction SilentlyContinue)) {
   $env:Path = [Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [Environment]::GetEnvironmentVariable("Path","User")
 }
 
-$venv = "audio-kit\cb-venv"
+$venv = "audio-kit\cb-venv2"
 $vpy = "$venv\Scripts\python.exe"
 if (-not (Test-Path $vpy)) {
   Write-Host "Setting up Chatterbox (a one-off download of about 3 GB)..."
   & $py.FullName -m venv $venv
   & $vpy -m pip install --upgrade pip
-  & $vpy -m pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
-  & $vpy -m pip install chatterbox-tts
+  # RTX 50-series cards need CUDA 12.8 builds of PyTorch (2.7+); Chatterbox itself pins an older one, so its
+  # dependencies are installed by hand without that pin
+  & $vpy -m pip install torch==2.7.1 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+  & $vpy -m pip install chatterbox-tts==0.1.7 --no-deps
+  & $vpy -m pip install "numpy<2" librosa==0.11.0 s3tokenizer transformers==5.2.0 diffusers==0.29.0 resemble-perth conformer==0.3.2 safetensors==0.5.3 spacy-pkuseg pykakasi==2.3.0 pyloudnorm omegaconf einops huggingface_hub onnx tqdm soundfile
+  & $vpy -c "import torch; assert torch.cuda.is_available(); torch.zeros(1).cuda(); print('GPU ready:', torch.cuda.get_device_name(0))"
   if ($LASTEXITCODE -ne 0) { Write-Host "Chatterbox didn't install."; Read-Host "Press Enter to close"; exit 1 }
 }
 

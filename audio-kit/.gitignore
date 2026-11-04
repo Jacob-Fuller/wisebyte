@@ -1,6 +1,6 @@
 model/
 out/
 __pycache__/
-cb-venv/
+cb-venv*/
 out-cb/
 samples/
