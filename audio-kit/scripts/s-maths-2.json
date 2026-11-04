@@ -159,7 +159,7 @@
    "ps": false
   },
   {
-   "t": "For 0-306-40615-2, the first nine digits give 0 + 27 + 0 + 42 + 24 + 0 + 24 + 3 + 10 = 130.",
+   "t": "For 0-306-40615-2, the first nine digits give 0 plus 27 plus 0 + 42 plus 24 plus 0 + 24 plus 3 + 10 equals 130.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -177,13 +177,7 @@
    "ps": false
   },
   {
-   "t": "Sometimes the check digit has to be 10, which is written as an X.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Since 2007, books have used 13-digit ISBNs that follow the barcode recipe.",
+   "t": "Sometimes the check digit has to be 10, which is written as an X. Since 2007, books have used 13-digit ISBNs that follow the barcode recipe.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -711,7 +705,7 @@
    "ps": false
   },
   {
-   "t": "The speed of light, about 300,000,000 metres per second, is 3 × 10⁸.",
+   "t": "The speed of light, about 300,000,000 metres per second, is 3 times 10⁸.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -723,7 +717,7 @@
    "ps": false
   },
   {
-   "t": "5 × 10⁹ years old.",
+   "t": "5 times 10⁹ years old.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -741,7 +735,7 @@
    "ps": true
   },
   {
-   "t": "To multiply, multiply the front numbers and add the powers:, 2 × 10³, ×, 3 × 10⁴, is 6 × 10⁷.",
+   "t": "To multiply, multiply the front numbers and add the powers:, 2 times 10³, times , 3 times 10⁴, is 6 times 10⁷.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -891,7 +885,7 @@
    "ps": false
   },
   {
-   "t": "Answer. A single wrong digit, then swapped neighbouring digits.",
+   "t": "Answer. One wrong digit, then two neighbours swapped.",
    "c": 3,
    "k": "a",
    "ps": false

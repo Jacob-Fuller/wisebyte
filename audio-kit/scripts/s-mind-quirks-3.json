@@ -135,12 +135,6 @@
    "ps": false
   },
   {
-   "t": "The key question is where the intuition was learned.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "When it fails.",
    "c": 0,
    "k": "s",
@@ -411,22 +405,10 @@
    "ps": false
   },
   {
-   "t": "In 1946, a British actuary named R.",
+   "t": "In 1946, a British actuary named R. D. Clarke divided a section of south London into hundreds of equal squares and counted the hits in each.",
    "c": 1,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "D.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Clarke divided a section of south London into hundreds of equal squares and counted the hits in each.",
-   "c": 1,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "The counts closely matched what you would expect if the bombs had landed at random.",

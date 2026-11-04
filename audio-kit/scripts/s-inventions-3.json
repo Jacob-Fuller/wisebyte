@@ -549,7 +549,7 @@
    "ps": false
   },
   {
-   "t": "At home, Australian food safety authorities recommend keeping your fridge at 5°C or below, because most bacteria that cause food poisoning grow slowly at that temperature.",
+   "t": "At home, Australian food safety authorities recommend keeping your fridge at 5 degrees or below, because most bacteria that cause food poisoning grow slowly at that temperature.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -861,13 +861,7 @@
    "ps": true
   },
   {
-   "t": "By UN estimates, roughly 3.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "5 billion people still lack safely managed sanitation.",
+   "t": "By WHO and UNICEF estimates, more than 3 billion people still lack safely managed sanitation.",
    "c": 2,
    "k": "s",
    "ps": false

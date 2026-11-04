@@ -388,16 +388,10 @@
    "ps": true
   },
   {
-   "t": "The answer, proposed at Bell Labs in 1947 by Douglas Ring and W.",
+   "t": "The answer, proposed at Bell Labs in 1947 by Douglas Ring and W. Rae Young, was to divide an area into small zones called cells, each with its own base station.",
    "c": 1,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Rae Young, was to divide an area into small zones called cells, each with its own base station.",
-   "c": 1,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Neighbouring cells use different frequencies, but distant cells can reuse the same ones.",
@@ -784,12 +778,6 @@
    "ps": false
   },
   {
-   "t": "Each generation, from 3G to 4G to 5G, has brought more speed and capacity.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Australia's major carriers switched off their 3G networks around 2024, retiring some older phones.",
    "c": 2,
    "k": "s",
@@ -850,7 +838,7 @@
    "ps": false
   },
   {
-   "t": "Many phones offer optimised charging that pauses around 80%.",
+   "t": "Many phones offer optimised charging that pauses around 80 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1006,16 +994,10 @@
    "ps": true
   },
   {
-   "t": "In the 1970s, during the oil crisis, British chemist M.",
+   "t": "In the 1970s, during the oil crisis, British chemist M. Stanley Whittingham built an early rechargeable lithium battery.",
    "c": 3,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Stanley Whittingham built an early rechargeable lithium battery.",
-   "c": 3,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "It used pure lithium metal and could be dangerous.",

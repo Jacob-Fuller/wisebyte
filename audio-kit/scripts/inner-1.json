@@ -754,13 +754,7 @@
    "ps": false
   },
   {
-   "t": "Independence of irrelevant alternatives: the group's choice between A and B depends only on how voters rank A against B, not on a third option C.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Non-dictatorship: no single voter always decides.",
+   "t": "Independence of irrelevant alternatives: the group's choice between A and B depends only on how voters rank A against B, not on a third option C. Non-dictatorship: no single voter always decides.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -904,7 +898,7 @@
    "ps": false
   },
   {
-   "t": "Score or approval methods fall outside Arrow's framework because they use more information than rankings, but they raise new dilemmas, such as how generously to rate a second choice.",
+   "t": "Score or approval methods escape Arrow's framework by using more than rankings, but raise new dilemmas, such as how generously to rate a second choice.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1144,37 +1138,7 @@
    "ps": true
   },
   {
-   "t": "Its roots include the identity theory developed in Adelaide in the 1950s by U.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "T.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Place and J.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "J.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "C.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Smart.",
+   "t": "Its roots include the identity theory developed in Adelaide in the 1950s by U. T. Place and J. J. C. Smart.",
    "c": 3,
    "k": "s",
    "ps": false

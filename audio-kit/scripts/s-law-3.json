@@ -430,7 +430,7 @@
    "ps": false
   },
   {
-   "t": "Casual employees have no firm advance commitment to ongoing work and usually receive a casual loading instead of paid annual and personal leave, commonly 25% under awards.",
+   "t": "Casual employees have no firm advance commitment to ongoing work and usually receive a casual loading instead of paid annual and personal leave, commonly 25 per cent under awards.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -502,7 +502,7 @@
    "ps": false
   },
   {
-   "t": "Complaints can go to the Australian Human Rights Commission or a state body; the Fair Work Commission deals with bullying.",
+   "t": "Complaints can go to the Australian Human Rights Commission or a state body.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -718,7 +718,7 @@
    "ps": true
   },
   {
-   "t": "If you genuinely carry on a business, you can apply for an Australian Business Number at abr.",
+   "t": "If you genuinely carry on a business, you can apply for an Australian Business Number free at abr.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -730,19 +730,7 @@
    "ps": false
   },
   {
-   "t": "au.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is free, though many websites charge to do it for you.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "You will need your tax file number.",
+   "t": "au, though many websites charge to do it for you.",
    "c": 2,
    "k": "s",
    "ps": false

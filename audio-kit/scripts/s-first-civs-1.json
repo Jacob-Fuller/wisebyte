@@ -184,12 +184,6 @@
    "ps": true
   },
   {
-   "t": "Legend says he was found as a baby in a reed basket.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "He conquered the Sumerian cities and built the Akkadian Empire, often called the world's first, ruling many peoples from Akkad, a capital whose ruins have never been found.",
    "c": 0,
    "k": "s",
@@ -418,7 +412,7 @@
    "ps": true
   },
   {
-   "t": "Scholars count about 282 laws, though a section near the end was deliberately rubbed away in antiquity and has been partly recovered from other copies.",
+   "t": "Scholars count about 282 laws, though several columns near the bottom of the stone were deliberately rubbed away in antiquity and have been partly recovered from other copies.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -916,16 +910,10 @@
    "ps": false
   },
   {
-   "t": "The text was an ordinary decree from priests at Memphis in 196 BC, praising the young king Ptolemy V.",
+   "t": "The text was an ordinary decree from priests at Memphis in 196 BC, praising the young king Ptolemy V. What mattered was the format: hieroglyphs, Demotic, the everyday cursive script, and ancient Greek.",
    "c": 3,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "What mattered was the format: hieroglyphs, Demotic, the everyday cursive script, and ancient Greek.",
-   "c": 3,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Scholars could read Greek, so it could act as a crib for the other two.",

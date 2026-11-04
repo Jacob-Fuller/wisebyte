@@ -45,16 +45,10 @@
    "ps": true
   },
   {
-   "t": "People long dreamed of flying.",
+   "t": "The first humans to fly went up in a Montgolfier hot-air balloon in 1783, but balloons go wherever the wind takes them.",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "The first humans actually to fly went up in a Montgolfier hot-air balloon in 1783, but balloons go wherever the wind takes them.",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Around 1800, English engineer George Cayley identified the four forces of flight: lift, drag, thrust and weight.",
@@ -69,7 +63,7 @@
    "ps": false
   },
   {
-   "t": "In the 1890s Otto Lilienthal made around 2,000 glider flights, inspiring others, before dying in a crash in 1896.",
+   "t": "In the 1890s Otto Lilienthal made around 2,000 glider flights before dying in a crash in 1896.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -237,16 +231,10 @@
    "ps": true
   },
   {
-   "t": "Propeller aircraft have limits on speed and altitude.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "In the 1930s Frank Whittle in Britain and Hans von Ohain in Germany independently developed the jet engine, which sucks in air, compresses it, burns fuel in it and blasts the exhaust out the back.",
    "c": 0,
    "k": "s",
-   "ps": false
+   "ps": true
   },
   {
    "t": "The first jet airliner, the de Havilland Comet, entered service in 1952, but crashes caused by metal fatigue taught hard lessons.",
@@ -507,7 +495,7 @@
    "ps": false
   },
   {
-   "t": "Ships have grown enormously since the Ideal X: the largest carry more than 20,000 TEU and are around 400 metres long.",
+   "t": "Ships have grown enormously since the Ideal X: the largest carry more than 20,000 TEU.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -675,7 +663,7 @@
    "ps": true
   },
   {
-   "t": "In the 1990s in Perth, plastic surgeon Dr Fiona Wood and scientist Marie Stoner developed a way to spray a patient's own skin cells onto a wound to help new skin grow.",
+   "t": "In the 1990s in Perth, plastic surgeon Doctor Fiona Wood and scientist Marie Stoner developed a way to spray a patient's own skin cells onto a wound to help new skin grow.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -705,7 +693,7 @@
    "ps": true
   },
   {
-   "t": "Australia didn't invent Wi-Fi outright, but the true story is still impressive.",
+   "t": "Australia didn't invent Wi-Fi outright.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -843,7 +831,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Ships sat idle in port while cargo was unloaded.",
+   "t": "Answer. Ships sat idle for days being unloaded.",
    "c": 3,
    "k": "a",
    "ps": false

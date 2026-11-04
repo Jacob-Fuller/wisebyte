@@ -328,7 +328,7 @@
    "ps": true
   },
   {
-   "t": "So 15% means 15 out of every 100, or 15/100, or 0.",
+   "t": "So 15 per cent means 15 out of every 100, or 15/100, or 0.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -340,13 +340,13 @@
    "ps": false
   },
   {
-   "t": "To find a percentage, convert to a decimal and multiply: 15% of $80 is 0.",
+   "t": "To find a percentage, convert to a decimal and multiply: 15 per cent of $80 is 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "15 × 80, which is $12.",
+   "t": "15 times 80, which is $12.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -358,7 +358,7 @@
    "ps": true
   },
   {
-   "t": "So 8% of 50 is the same as 50% of 8, which is obviously 4.",
+   "t": "So 8 per cent of 50 is the same as 50 per cent of 8, which is obviously 4.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -412,7 +412,7 @@
    "ps": false
   },
   {
-   "t": "15, so prices rose 15%.",
+   "t": "15, so prices rose 15 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -430,19 +430,19 @@
    "ps": true
   },
   {
-   "t": "Unemployment going from 4% to 4.",
+   "t": "Unemployment going from 4 per cent to 4.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5% rose by half a percentage point, but by 12.",
+   "t": "5 per cent rose by half a percentage point, but by 12.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5% relative to where it started.",
+   "t": "5 per cent relative to where it started.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -460,13 +460,13 @@
    "ps": false
   },
   {
-   "t": "60% to 3.",
+   "t": "60 per cent to 3.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "85%.",
+   "t": "85 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -484,37 +484,37 @@
    "ps": true
   },
   {
-   "t": "With 30% off, you pay 70%, so a $120 jacket costs 0.",
+   "t": "With 30 per cent off, you pay 70 per cent, so a $120 jacket costs 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "7 × 120, which is $84.",
+   "t": "7 times 120, which is $84.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Stacked discounts don't add up: '20% off, plus an extra 10% at the register' means paying 0.",
+   "t": "Stacked discounts don't add up: '20 per cent off, plus an extra 10 per cent at the register' means paying 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "8 × 0.",
+   "t": "8 times 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "9 = 0.",
+   "t": "9 equals 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "72, so the discount is 28%, not 30%.",
+   "t": "72, so the discount is 28 per cent, not 30 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -526,13 +526,13 @@
    "ps": false
   },
   {
-   "t": "'Up to 70% off' usually means only a few items get the full 70%.",
+   "t": "'Up to 70 per cent off' usually means only a few items get the full 70 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Australia's GST has been 10% since 1 July 2000.",
+   "t": "Australia's GST has been 10 per cent since 1 July 2000.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -574,7 +574,7 @@
    "ps": true
   },
   {
-   "t": "If a jacket costs $84 after a 30% discount, the original isn't $84 plus 30%.",
+   "t": "If a jacket costs $84 after a 30 per cent discount, the original isn't $84 plus 30 per cent.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -604,13 +604,13 @@
    "ps": true
   },
   {
-   "t": "If a $100 share price rises 50% to $150, then falls 50%, it drops to $75, a net loss of 25%.",
+   "t": "If a $100 share price rises 50 per cent to $150, then falls 50 per cent, it drops to $75, a net loss of 25 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "After a 20% fall you need a 25% rise to get back to where you started, and after a 50% fall you need 100%.",
+   "t": "After a 20 per cent fall you need a 25 per cent rise to get back to where you started, and after a 50 per cent fall you need 100 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -646,25 +646,25 @@
    "ps": false
   },
   {
-   "t": "Compare bases too: 50% of a small group can be fewer people than 10% of a large one.",
+   "t": "Compare bases too: 50 per cent of a small group can be fewer people than 10 per cent of a large one.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "And don't average percentages directly: a 10% return on $1,000 and a 30% return on $100 earn $130 on $1,100, about 12%, not 20%.",
+   "t": "And don't average percentages directly: a 10 per cent return on $1,000 and a 30 per cent return on $100 earn $130 on $1,100, about 12 per cent, not 20 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most everyday percentages build from 10%.",
+   "t": "Most everyday percentages build from 10 per cent.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Move the decimal one place left: 10% of $64 is $6.",
+   "t": "Move the decimal one place left: 10 per cent of $64 is $6.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -676,19 +676,19 @@
    "ps": false
   },
   {
-   "t": "Halve it for 5%, $3.",
+   "t": "Halve it for 5 per cent, $3.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "20, add them for 15%, $9.",
+   "t": "20, add them for 15 per cent, $9.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "60, double it for 20%, $12.",
+   "t": "60, double it for 20 per cent, $12.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -700,7 +700,7 @@
    "ps": false
   },
   {
-   "t": "For 1%, move two places, handy for card surcharges.",
+   "t": "For 1 per cent, move two places, handy for card surcharges.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -724,7 +724,7 @@
    "ps": false
   },
   {
-   "t": "Drive somewhere at 60 km/h and back at 40, and your average speed is not 50.",
+   "t": "Drive somewhere at 60 kilometres an hour and back at 40, and your average speed is not 50.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -742,13 +742,13 @@
    "ps": true
   },
   {
-   "t": "You drive 60 km to a friend at 60 km/h, then crawl home through roadworks at 40 km/h.",
+   "t": "You drive 60 kilometres to a friend at 60 kilometres an hour, then crawl home through roadworks at 40 kilometres an hour.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Your average speed is not 50 km/h.",
+   "t": "Your average speed is not 50 kilometres an hour.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -772,13 +772,13 @@
    "ps": false
   },
   {
-   "t": "You covered 120 km in 2.",
+   "t": "You covered 120 kilometres in 2.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5 hours, which is 48 km/h.",
+   "t": "5 hours, which is 48 kilometres an hour.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -796,7 +796,7 @@
    "ps": false
   },
   {
-   "t": "For equal distances, the proper tool is the harmonic mean: 2 divided by, 1/60 + 1/40, is 48.",
+   "t": "For equal distances, the proper tool is the harmonic mean: 2 divided by, 1/60 plus 1/40, is 48.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -820,7 +820,7 @@
    "ps": true
   },
   {
-   "t": "A cyclist rides one kilometre up a steep hill at 30 km/h and wants to average 60 km/h over the two-kilometre round trip.",
+   "t": "A cyclist rides one kilometre up a steep hill at 30 kilometres an hour and wants to average 60 kilometres an hour over the two-kilometre round trip.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -832,19 +832,19 @@
    "ps": false
   },
   {
-   "t": "Intuition says 90 km/h, to balance the 30.",
+   "t": "Intuition says 90 kilometres an hour, to balance the 30.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "But to average 60 km/h over two kilometres, the whole trip must take two minutes.",
+   "t": "But to average 60 kilometres an hour over two kilometres, the whole trip must take two minutes.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The climb alone, one kilometre at 30 km/h, has already used those two minutes.",
+   "t": "The climb alone, one kilometre at 30 kilometres an hour, has already used those two minutes.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1096,7 +1096,7 @@
    "ps": true
   },
   {
-   "t": "Nobody really calculates 47 + 38 digit by digit in their head.",
+   "t": "Nobody really calculates 47 plus 38 digit by digit in their head.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1108,13 +1108,13 @@
    "ps": false
   },
   {
-   "t": "Add tens and ones separately: 40 + 30 is 70, 7 + 8 is 15, total 85.",
+   "t": "Add tens and ones separately: 40 plus 30 is 70, 7 plus 8 is 15, total 85.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Or lean on a round number: 47 + 40 is 87, then take away the extra 2.",
+   "t": "Or lean on a round number: 47 plus 40 is 87, then take away the extra 2.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1144,7 +1144,7 @@
    "ps": false
   },
   {
-   "t": "95 are six at $5, which is $30, minus 6 × 5 cents, which is 30 cents: $29.",
+   "t": "95 are six at $5, which is $30, minus 6 times 5 cents, which is 30 cents: $29.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1156,7 +1156,7 @@
    "ps": false
   },
   {
-   "t": "Likewise 99 × 7 is 100 × 7 minus 7, which is 693, and 198 + 245 is 200 + 245 minus 2, which is 443.",
+   "t": "Likewise 99 times 7 is 100 times 7 minus 7, which is 693, and 198 plus 245 is 200 plus 245 minus 2, which is 443.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1168,13 +1168,13 @@
    "ps": true
   },
   {
-   "t": "Five is half of ten, so multiply by 10 and halve: 68 × 5 is 680 halved, 340.",
+   "t": "Five is half of ten, so multiply by 10 and halve: 68 times 5 is 680 halved, 340.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The same extends to 25, a quarter of 100: 36 × 25 is 3,600 divided by four, 900.",
+   "t": "The same extends to 25, a quarter of 100: 36 times 25 is 3,600 divided by four, 900.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1186,19 +1186,19 @@
    "ps": false
   },
   {
-   "t": "Nine is one less than ten, so multiply by 10 and subtract one lot: 47 × 9 is 470 minus 47, which is 423.",
+   "t": "Nine is one less than ten, so multiply by 10 and subtract one lot: 47 times 9 is 470 minus 47, which is 423.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the nine times table, digits add to 9 and the tens digit is one less than the multiplier, so 9 × 7 is 63.",
+   "t": "In the nine times table, digits add to 9 and the tens digit is one less than the multiplier, so 9 times 7 is 63.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For 11, multiply by 10 and add the number once: 11 × 36 is 360 + 36 = 396.",
+   "t": "For 11, multiply by 10 and add the number once: 11 times 36 is 360 plus 36 equals 396.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1210,7 +1210,7 @@
    "ps": false
   },
   {
-   "t": "For 78, 7 + 8 is 15, so write 5 in the middle and carry 1: 858.",
+   "t": "For 78, 7 plus 8 is 15, so write 5 in the middle and carry 1: 858.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1228,13 +1228,13 @@
    "ps": true
   },
   {
-   "t": "For 35 × 35: 3 × 4 is 12, so the answer is 1,225.",
+   "t": "For 35 times 35: 3 times 4 is 12, so the answer is 1,225.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For 85 × 85: 8 × 9 is 72, giving 7,225.",
+   "t": "For 85 times 85: 8 times 9 is 72, giving 7,225.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1246,13 +1246,13 @@
    "ps": true
   },
   {
-   "t": "It also helps with neighbours: 45 × 45 is 2,025, so 45 × 46 is simply 2,025 plus 45, or 2,070.",
+   "t": "It also helps with neighbours: 45 times 45 is 2,025, so 45 times 46 is simply 2,025 plus 45, or 2,070.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "And it makes quick work of areas: a block 25 metres by 25 metres is 2 × 3, so 625 square metres.",
+   "t": "And it makes quick work of areas: a block 25 metres by 25 metres is 2 times 3, so 625 square metres.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1312,7 +1312,7 @@
    "ps": false
   },
   {
-   "t": "So 16 × 25 becomes 8 × 50, then 4 × 100, which is 400.",
+   "t": "So 16 times 25 becomes 8 times 50, then 4 times 100, which is 400.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1444,25 +1444,25 @@
    "ps": false
   },
   {
-   "t": "Question two. What is the quickest way to find 8% of 50?",
+   "t": "Question two. What is the quickest way to find 8 per cent of 50?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Find 50% of 8, which is 4.",
+   "t": "Answer. Find 50 per cent of 8, which is 4.",
    "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. You drive 60 km at 60 km/h and return the same 60 km at 40 km/h. What is your average speed?",
+   "t": "Question three. You drive 60 kilometres at 60 kilometres an hour and return the same 60 kilometres at 40 kilometres an hour. What is your average speed?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. 48 km/h.",
+   "t": "Answer. 48 kilometres an hour.",
    "c": 4,
    "k": "a",
    "ps": false

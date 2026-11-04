@@ -58,7 +58,7 @@
    "ps": false
   },
   {
-   "t": "Soon after, the Dutch draper Antonie van Leeuwenhoek, who ground his own lenses, found pond water and tooth scrapings swarming with tiny living creatures: bacteria and other single-celled organisms nobody had seen before.",
+   "t": "Soon after, the Dutch draper Antonie van Leeuwenhoek found pond water and tooth scrapings swarming with tiny living creatures: bacteria and other single-celled organisms nobody had seen before.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -316,7 +316,7 @@
    "ps": false
   },
   {
-   "t": "Your heart beats about 100,000 times a day, pushing blood through tens of thousands of kilometres of vessels.",
+   "t": "Your heart beats about 100,000 times a day, pushing blood through thousands of kilometres of vessels.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -400,7 +400,7 @@
    "ps": false
   },
   {
-   "t": "Laid end to end, an adult's vessels would stretch tens of thousands of kilometres.",
+   "t": "Laid end to end, an adult's vessels would stretch thousands of kilometres, though the often-quoted 100,000 is probably far too high.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -653,12 +653,6 @@
   },
   {
    "t": "Breathing out at rest is mostly passive: the diaphragm relaxes and elastic lungs spring back.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In hard exercise, neck, chest and belly muscles help.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1198,13 +1192,13 @@
    "ps": false
   },
   {
-   "t": "Question four. What is peristalsis?",
+   "t": "Question four. Why can you still swallow food while upside down?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Muscle waves that push food along.",
+   "t": "Answer. Muscle waves push food along the tube.",
    "c": 4,
    "k": "a",
    "ps": false

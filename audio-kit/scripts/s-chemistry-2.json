@@ -58,7 +58,7 @@
    "ps": false
   },
   {
-   "t": "The uranium was giving off invisible, penetrating radiation all on its own.",
+   "t": "The uranium was giving off invisible, penetrating radiation by itself.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -382,16 +382,10 @@
    "ps": false
   },
   {
-   "t": "Chemists write this as equations: 2H₂ + O₂ → 2H₂O.",
+   "t": "Chemists write this as equations: 2H₂ + O₂ → 2H₂O. Numbers in front count molecules, and numbers after a symbol count atoms.",
    "c": 1,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Numbers in front count molecules, and numbers after a symbol count atoms.",
-   "c": 1,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Because atoms are never created or destroyed, an equation must balance: here, four hydrogen and two oxygen atoms on each side.",
@@ -484,7 +478,7 @@
    "ps": false
   },
   {
-   "t": "As a rough rule, many reactions go about twice as fast for every 10°C rise, one reason refrigeration slows food spoiling.",
+   "t": "As a rough rule, many reactions go about twice as fast for every 10 degrees rise, one reason refrigeration slows food spoiling.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -779,12 +773,6 @@
   },
   {
    "t": "You see it in a cooked egg: the white turns solid as its proteins unravel, for good.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most human enzymes work best near body temperature.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1192,7 +1180,7 @@
    "ps": false
   },
   {
-   "t": "Because the scale is logarithmic, that means roughly 30% more hydrogen ions.",
+   "t": "Because the scale is logarithmic, that means roughly 30 per cent more hydrogen ions.",
    "c": 3,
    "k": "s",
    "ps": false

@@ -652,7 +652,7 @@
    "ps": false
   },
   {
-   "t": "It worked with police, the Food and Drug Administration and the media, warned the public not to take any Tylenol capsules, and recalled around 31 million bottles nationwide at a cost of about 100 million US dollars.",
+   "t": "It worked with police, regulators and the media, warned the public not to take any Tylenol capsules, and recalled around 31 million bottles nationwide at a cost of about 100 million US dollars.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -868,7 +868,13 @@
    "ps": false
   },
   {
-   "t": "Kodak became a household name, and for much of the twentieth century dominated the US film market, employing tens of thousands at its peak.",
+   "t": "Kodak became a household name, and for much of the twentieth century dominated the US film market.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its peak in the late 1980s it employed more than 140,000 people worldwide.",
    "c": 3,
    "k": "s",
    "ps": false

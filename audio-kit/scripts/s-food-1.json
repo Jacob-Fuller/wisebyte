@@ -142,12 +142,6 @@
    "ps": false
   },
   {
-   "t": "Professional chefs are fast because the motion is automatic, not because they rush.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "The basic cuts.",
    "c": 0,
    "k": "s",
@@ -454,7 +448,7 @@
    "ps": true
   },
   {
-   "t": "Stainless steel resists rust, does not react with acidic foods like tomato or wine, and can go from stovetop to oven.",
+   "t": "Stainless steel resists rust, does not react with acidic foods like tomato or wine.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -491,12 +485,6 @@
   },
   {
    "t": "Plain aluminium is light, cheap and conductive but reacts with acidic foods and dents easily.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hard-anodised aluminium is tougher.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -712,7 +700,7 @@
    "ps": false
   },
   {
-   "t": "The claim that 80% of flavour is smell isn't precise, but smell supplies most of the variety.",
+   "t": "The claim that 80 per cent of flavour is smell isn't precise, but smell supplies most of the variety.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -982,13 +970,13 @@
    "ps": false
   },
   {
-   "t": "Most bacteria multiply fastest between 5°C and 60°C, the danger zone, and some can double every 20 minutes or so.",
+   "t": "Most bacteria multiply fastest between 5 degrees and 60 degrees, the danger zone, and some can double every 20 minutes or so.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Keep the fridge at 5°C or below, ideally 3 to 4°C, the freezer at about minus 18°C, and hot food above 60°C.",
+   "t": "Keep the fridge at 5 degrees or below, ideally 3 to 4 degrees, the freezer at about minus 18 degrees, and hot food above 60 degrees.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1012,7 +1000,7 @@
    "ps": true
   },
   {
-   "t": "It counts the total time between 5°C and 60°C.",
+   "t": "It counts the total time between 5 degrees and 60 degrees.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1060,7 +1048,7 @@
    "ps": false
   },
   {
-   "t": "Reheat until steaming hot throughout, ideally 75°C, and only once.",
+   "t": "Reheat until steaming hot throughout, ideally 75 degrees, and only once.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1090,7 +1078,7 @@
    "ps": false
   },
   {
-   "t": "Use separate boards for raw meat and salads, or wash boards and knives in hot soapy water between uses, and wash your hands with soap for about 20 seconds.",
+   "t": "Use separate boards for raw meat and salads, or wash boards and knives in hot soapy water between uses.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1102,16 +1090,10 @@
    "ps": false
   },
   {
-   "t": "Cook chicken, mince, sausages, burgers and rolled or stuffed meats to 75°C in the thickest part, because mincing and rolling mix surface bacteria inside.",
+   "t": "Cook chicken, mince, sausages, burgers and rolled or stuffed meats to 75 degrees in the thickest part, because mincing and rolling mix surface bacteria inside.",
    "c": 3,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "A cheap meat thermometer removes guesswork.",
-   "c": 3,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Dishes with raw or lightly cooked eggs, such as homemade mayonnaise, aioli and eggnog, are a leading cause of Salmonella outbreaks in Australia.",
@@ -1234,7 +1216,7 @@
    "ps": false
   },
   {
-   "t": "The key idea: Food poisoning is common in Australia, and bacteria multiply fastest between 5°C and 60°C.",
+   "t": "The key idea: Food poisoning is common in Australia, and bacteria multiply fastest between 5 degrees and 60 degrees.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1282,7 +1264,7 @@
    "ps": false
   },
   {
-   "t": "Question four. Why is the temperature range of 5°C to 60°C called the danger zone?",
+   "t": "Question four. Why is the temperature range of 5 degrees to 60 degrees called the danger zone?",
    "c": 4,
    "k": "q",
    "ps": false

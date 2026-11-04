@@ -268,7 +268,7 @@
    "ps": true
   },
   {
-   "t": "A pressure cooker traps steam, raising the pressure so water boils at around 120°C and food cooks much faster.",
+   "t": "A pressure cooker traps steam, raising the pressure so water boils at around 120 degrees and food cooks much faster.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -376,12 +376,6 @@
    "ps": false
   },
   {
-   "t": "Almost every food you eat traces back to this reaction.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "It seems natural that the oxygen comes from the carbon dioxide.",
    "c": 1,
    "k": "s",
@@ -466,13 +460,13 @@
    "ps": true
   },
   {
-   "t": "First, chlorophyll absorbs light, splits water, releases oxygen and charges two energy-carrying molecules, ATP and NADPH, like freshly charged batteries.",
+   "t": "First, chlorophyll absorbs light, splits water, releases oxygen and charges two energy-carrying molecules, ATP and NADPH, which act like batteries.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Second, in the Calvin cycle, those batteries power the building of sugar.",
+   "t": "Second, in the Calvin cycle, they power the building of sugar.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -1121,12 +1115,6 @@
   },
   {
    "t": "Farmers have long added fertilisers such as superphosphate, and scientists study how to farm these soils without degrading them or causing salinity.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Serious erosion and dust storms have happened here too.",
    "c": 3,
    "k": "s",
    "ps": false

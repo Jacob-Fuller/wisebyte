@@ -274,13 +274,7 @@
    "ps": true
   },
   {
-   "t": "The Science Museum in London built his Difference Engine No.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "2 from his drawings, using tolerances achievable in his era.",
+   "t": "The Science Museum in London built his Difference Engine No. 2 from his drawings, using tolerances achievable in his era.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -490,12 +484,6 @@
    "ps": false
   },
   {
-   "t": "An email program loops through thousands of messages looking for a search word.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Computers never get bored or tired.",
    "c": 1,
    "k": "s",
@@ -622,13 +610,7 @@
    "ps": false
   },
   {
-   "t": "Send 65 and a receiving computer using the same table shows a capital A.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Early computers each had their own tables, so text from one machine could turn to gibberish on another.",
+   "t": "Send 65 and a receiving computer using the same table shows a capital A. Early computers each had their own tables, so text from one machine could turn to gibberish on another.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1150,7 +1132,7 @@
    "ps": false
   },
   {
-   "t": "Answer. A computer has no common sense and does exactly what it is told.",
+   "t": "Answer. Computers have no judgement to fill the gaps.",
    "c": 4,
    "k": "a",
    "ps": false

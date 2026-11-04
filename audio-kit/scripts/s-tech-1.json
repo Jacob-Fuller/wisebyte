@@ -148,12 +148,6 @@
    "ps": true
   },
   {
-   "t": "Each is tiny, like 'add these two numbers'.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "The trick is speed.",
    "c": 0,
    "k": "s",
@@ -910,7 +904,7 @@
    "ps": false
   },
   {
-   "t": "So 1011 means one eight, no fours, one two and one one: 8 + 0 + 2 + 1 = 11.",
+   "t": "So 1011 means one eight, no fours, one two and one one: 8 plus 0 + 2 plus 1 equals 11.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1042,7 +1036,7 @@
    "ps": false
   },
   {
-   "t": "MP3 and streaming formats remove sounds humans can barely hear, cutting file sizes by around 90%.",
+   "t": "MP3 and streaming formats remove sounds humans can barely hear, cutting file sizes by around 90 per cent.",
    "c": 3,
    "k": "s",
    "ps": false

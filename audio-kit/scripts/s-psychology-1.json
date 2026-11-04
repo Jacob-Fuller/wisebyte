@@ -160,22 +160,10 @@
    "ps": true
   },
   {
-   "t": "In the 1930s, American psychologist B.",
+   "t": "In the 1930s, American psychologist B. F. Skinner studied how consequences shape behaviour.",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "F.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Skinner studied how consequences shape behaviour.",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Using boxes with levers and food dispensers, he trained rats to press levers and pigeons to peck keys, and even taught pigeons a simple version of ping-pong.",
@@ -736,13 +724,7 @@
    "ps": true
   },
   {
-   "t": "John B.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Watson and Rosalie Rayner wanted to show that fear could be learned.",
+   "t": "John B. Watson and Rosalie Rayner wanted to show that fear could be learned.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1066,7 +1048,7 @@
    "ps": false
   },
   {
-   "t": "Twin studies suggest roughly 40-60% of the variation between people is linked to genes, yet personality isn't fixed.",
+   "t": "Twin studies suggest roughly 40-60 per cent of the variation between people is linked to genes, yet personality isn't fixed.",
    "c": 3,
    "k": "s",
    "ps": false

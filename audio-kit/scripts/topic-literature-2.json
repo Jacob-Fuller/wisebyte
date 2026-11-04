@@ -56,16 +56,10 @@
    "ps": false
   },
   {
-   "t": "So how do we do it?",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "The neuroscientist Stanislas Dehaene proposed a theory called neuronal recycling.",
    "c": 0,
    "k": "s",
-   "ps": false
+   "ps": true
   },
   {
    "t": "Learning to read repurposes circuits that evolved for other jobs, such as recognising objects and faces, and links them to the brain's language areas.",
@@ -81,12 +75,6 @@
   },
   {
    "t": "It is often called the visual word form area.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In skilled readers it responds strongly to letters in a familiar script, and much less to unfamiliar symbols.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -254,7 +242,7 @@
    "ps": false
   },
   {
-   "t": "Speed reading is essentially skimming, a useful skill for finding information but no shortcut to deep understanding.",
+   "t": "Speed reading is essentially skimming: useful for finding information, not for deep understanding.",
    "c": 0,
    "k": "s",
    "ps": false

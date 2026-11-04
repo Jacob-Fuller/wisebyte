@@ -1,0 +1,2024 @@
+{
+ "id": "empires",
+ "h": "",
+ "title": "empires",
+ "chapters": [
+  "Two hundred and ten reasons",
+  "Rome, the case everyone argues about",
+  "When a whole world fell",
+  "The big theories",
+  "What historians agree on"
+ ],
+ "units": [
+  {
+   "t": "Why Empires Fall.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "Part one. Two hundred and ten reasons.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1984, a German historian called Alexander Demandt did something both useful and slightly funny.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He went through centuries of books and articles about the fall of the Roman Empire and collected every cause anyone had seriously suggested.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He ended up with a list of two hundred and ten.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arranged alphabetically in German, it runs from superstition all the way to war on two fronts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some are what you'd expect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Barbarian invasions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy taxes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Civil wars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plague.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others are stranger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moral decay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Public baths.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lead poisoning from water pipes and wine pans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christianity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soil exhaustion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even homosexuality and a falling population, both favourites of moralising writers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The list tells you less about Rome than about the people writing, and what they feared in their own times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's the first thing to know about why empires fall.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's one of history's biggest questions, and people have been arguing about it for as long as there's been history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every generation looks at a fallen empire and sees a warning about its own problems.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most famous attempt in English came from Edward Gibbon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His giant work, The History of the Decline and Fall of the Roman Empire, came out in six volumes between 1776 and 1789.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's beautifully written and still read today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near the end, Gibbon summed up his story in a famous line.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He wrote, I have described the triumph of barbarism and religion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In other words, he blamed outside invaders, and the new Christian faith that he thought had drawn energy away from public life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But Gibbon also offered a deeper idea, one that historians still find interesting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a short essay placed partway through his history, he wrote that the decline of Rome was the natural and inevitable effect of immoderate greatness.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prosperity, he said, ripened the principle of decay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He added that as soon as time or accident had removed the artificial supports, the stupendous fabric yielded to the pressure of its own weight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put simply, Rome got too big to hold itself up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That idea, that success itself creates the conditions for failure, keeps coming back.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We'll meet modern versions of it later in this lesson.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before we go further, it's worth asking a basic question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What do we actually mean by fall?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes an empire is conquered outright, like the Aztec Empire, overthrown by Spanish invaders and their Indigenous allies in 1521.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes it breaks into pieces, like the Soviet Union in 1991.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sometimes it slowly shrinks until nobody can point to the day it ended.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And sometimes, as we'll see, the people carry on living in the same places, speaking the same languages, while the grand political structure above them simply disappears.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians who study this often prefer the word collapse, and they use it in a specific way.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Collapse means a rapid loss of complexity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fewer cities, less trade, less writing, simpler buildings, smaller political units.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's a useful definition, because it lets us compare very different societies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also reminds us that collapse is usually about systems breaking down, not whole populations vanishing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the rest of this lesson, we'll look at two famous case studies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First Rome, the empire everybody argues about.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the Late Bronze Age, when a whole connected world of kingdoms went down within a few decades.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After that, we'll look at the big theories people have built from cases like these.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And finally, we'll finish with the handful of patterns most historians actually agree on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part two. Rome, the case everyone argues about.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Let's start with some dates.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At its height, in the second century, the Roman Empire stretched from northern Britain to Egypt and from Spain to Iraq.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perhaps sixty million people or more lived under Roman rule.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's a large share of everyone alive on Earth at the time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The traditional end date for the western half of the empire is 476.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's when a Germanic general called Odoacer removed the last western emperor, a teenager named Romulus Augustulus, and didn't bother to replace him.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But even that date is a bit of a convention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few people at the time seem to have treated it as the end of the world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And here's the twist that often gets forgotten.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only the western half fell.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The eastern half, run from Constantinople, which is modern Istanbul, carried on for nearly another thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its people called themselves Romans the whole time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It finally fell to the Ottoman Turks in 1453.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So any theory of why Rome fell has to explain why the West collapsed while the East survived.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In fact, the empire had already nearly fallen once.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the middle of the third century, from about 235 to 284, it went through what historians call the Crisis of the Third Century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emperor after emperor was murdered or killed in battle, often by his own soldiers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over those fifty years, more than twenty men were recognised as emperor, and many more tried.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a while the empire split into three pieces.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then a tough soldier-emperor named Diocletian pulled it back together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He did it by making the state bigger, with more officials, more soldiers and heavier taxes, and by sharing power among several emperors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It worked, for a time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it also left the empire more expensive to run than ever.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So what went wrong in the West?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of the twentieth century, the big debate was between two camps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One camp stressed violence and loss.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Western empire, they argued, was overwhelmed by outside groups, especially Germanic peoples such as the Goths and Vandals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 378, the Goths destroyed a Roman army and killed the emperor Valens at the Battle of Adrianople.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 410, Alaric and his Goths sacked the city of Rome itself, the first time in about eight hundred years that a foreign enemy had taken it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 439, the Vandals captured Carthage in North Africa, the capital of one of the richest provinces in the West.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without that tax revenue, the western government could no longer pay its armies properly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And without armies, it could no longer hold on to the rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other camp, led by historians like Peter Brown, pushed back on the idea of decline altogether.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the 1970s onwards, Brown and others described the period as late antiquity, a time of transformation, not just ruin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Religion, art, law and ideas flourished in new ways.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The newcomers often wanted to become part of the Roman world, not destroy it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Germanic kings ruled using Roman law, Roman officials and Latin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then in 2005, the Oxford archaeologist Bryan Ward-Perkins published a book with a deliberately blunt title, The Fall of Rome and the End of Civilization.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He pointed to physical evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After Roman rule ended in the West, pottery got cruder and far less common.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roof tiles, which had been everywhere, largely disappeared in many regions, replaced by thatch and wood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even cattle got smaller, suggesting that breeding and farming had become simpler.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Britain, he argued, living standards fell back to levels not seen since before the Romans arrived.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's even evidence from the Arctic.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roman silver mining released lead pollution into the air, and some of it drifted north and settled on the Greenland ice sheet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2018, a team led by Joseph McConnell measured that lead layer by layer in ice cores.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It tracks the Roman economy remarkably closely, rising during good times and dropping sharply during plagues and wars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the western empire fell, it stayed low for centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More recently, historians have added nature to the story.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In his 2017 book, The Fate of Rome, the historian Kyle Harper argued that climate change and disease played a much bigger role than people had realised.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The empire grew during an unusually warm, stable, wet period that suited Mediterranean farming.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That period ended.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then came devastating pandemics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Antonine Plague struck from about 165, possibly smallpox.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another, the Plague of Cyprian, hit in the middle of the third century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later, the eastern empire was hit by the first well-documented pandemic of bubonic plague, the Plague of Justinian, from 541.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And in 536, a series of huge volcanic eruptions helped plunge the northern hemisphere into one of the coldest decades of the last two thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not everyone agrees with how much weight Harper gives to climate and germs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics point out that the empire survived the Antonine Plague and recovered for decades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But almost nobody now thinks the story can be told without them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So where does that leave us?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most historians today would describe the fall of the western empire as the result of many things acting together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long-term strains, like the huge cost of the army, fierce competition among elites, and repeated civil wars between rival emperors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plus shocks, like plagues, invasions and the loss of key provinces.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The eastern half survived partly because it was richer, partly because Constantinople was extremely hard to capture, and partly because it was lucky.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The West had a longer border to defend and fewer resources to do it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That mix of slow-burning weaknesses and sudden shocks turns out to be a pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And it shows up even more dramatically in a collapse that happened about seventeen hundred years before Rome's.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part three. When a whole world fell.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Around 1200 BC, the eastern Mediterranean was a surprisingly connected place.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians sometimes compare it to an early version of globalisation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There was Egypt under its pharaohs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There was the Hittite Empire, centred in what is now Turkey.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There were the Mycenaean kingdoms of Greece, the world of the Trojan War legends.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And there were wealthy trading cities along the coast of what is now Syria and Lebanon, like Ugarit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These kingdoms traded constantly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their rulers wrote letters to each other, called each other brother, and exchanged gifts and marriages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A famous shipwreck found off the southern coast of Turkey, the Uluburun wreck, shows what this looked like.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It carried copper from Cyprus, tin from far to the east, glass, ivory, ebony, gold and goods from half a dozen cultures, all on one ship.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trade in tin and copper was especially important.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those two metals together make bronze, the key material for weapons and tools.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Very few places had both.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the whole Bronze Age economy depended on long supply chains working smoothly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then, within a few decades either side of 1200 BC, much of this world fell apart.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Hittite Empire vanished.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its capital was abandoned.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The great palaces of Mycenaean Greece were destroyed or deserted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Along with them went their writing system, an early form of Greek called Linear B.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's a strange irony here.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Linear B was written on unbaked clay tablets, which normally crumble.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many of the ones that survive were baked hard by the very fires that destroyed the palaces.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The disaster that ended the writing is what preserved it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greece entered what historians call a dark age, a period of several centuries with far fewer people, simpler settlements, and no writing at all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trading city of Ugarit was destroyed and never rebuilt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We have a haunting glimpse of Ugarit's final days.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Archaeologists found clay tablets with letters from its last king, Ammurapi.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In one, written to the king of Cyprus, he describes the enemy's ships arriving.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a well-known English translation, it reads, My father, behold, the enemy's ships came, my cities were burned, and they did evil things in my country.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He explains that his troops and chariots were far away helping the Hittites, and his ships were away too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ugarit was left exposed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who were the enemy?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Egyptian records talk about invaders from the sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the walls of his temple at Medinet Habu, near Luxor, the pharaoh Ramesses the Third recorded a great battle in about 1177 BC.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The inscription says, in paraphrase, that foreign peoples had conspired in their islands, and that no land could stand before them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It lists the Hittite lands, Cyprus and others as falling one after another.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ramesses claimed a great victory, and Egypt did survive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it came out weaker and poorer, and within a century or so it had lost its empire in the Levant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time, these so-called Sea Peoples were blamed for the whole collapse.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today, most historians see them as part of the story, perhaps as much a symptom as a cause.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many of them may have been people displaced by hard times, looking for new land.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What were those hard times?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Evidence for drought keeps piling up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pollen from sediment cores drilled in the Sea of Galilee shows a dry period around this time, with fewer trees and crops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023, a team led by Sturt Manning analysed the growth rings of ancient juniper wood from central Turkey.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They found an especially severe drought lasting about three years, around 1198 to 1196 BC, right as the Hittite Empire was falling apart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Letters from the period also mention urgent grain shipments to the Hittites, suggesting famine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add to that possible earthquakes, internal rebellions, and the disruption of trade routes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No one of these alone seems enough.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together, they may have been devastating.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's the argument made by the archaeologist Eric Cline in his book 1177 BC, first published in 2014.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He describes it as a systems collapse.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kingdoms of the Late Bronze Age were tightly linked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That made them rich in good times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it also meant that when one part failed, the failure spread.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A drought in one region led to famine, which led to migration, which led to raids, which cut trade, which starved others of tin and grain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each shock made the next one worse.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's a quietly hopeful coda, though.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The collapse wasn't the end of the region.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Out of the rubble came new things.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Phoenicians developed an alphabet that was later adapted by the Greeks, and from there it led to the letters you're probably used to reading.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron, which was more widely available than tin, gradually replaced bronze.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And Greece eventually re-emerged in a very different form, the world of the city-states.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collapse closed one chapter, but it also opened the next.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part four. The big theories.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "So far we've looked at particular cases.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But for centuries, thinkers have tried to find general rules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why do empires rise and fall at all?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here are four of the most influential answers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first comes from Ibn Khaldun, a North African scholar who lived in the fourteenth century.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He'd served in several royal courts and seen dynasties come and go.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1377, he completed an introduction to his history of the world, known as the Muqaddimah.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In it he built his theory around a quality he called asabiyyah.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's often translated as group feeling or social solidarity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ibn Khaldun argued that tough, tightly knit groups, often from the desert or the frontier, have strong asabiyyah.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They pull together, win power and found a new dynasty.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But once in power, luxury creeps in.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rulers' descendants grow soft, rely on hired soldiers, and squabble among themselves.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The group feeling fades, taxes rise to pay for an expensive court, and eventually a new, hungrier group sweeps in.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He reckoned a dynasty usually lasted about three generations, roughly a hundred and twenty years by his calculation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's a tidy story, and too neat to be a law, but many historians admire how much it anticipated later thinking.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second big theory comes from the American anthropologist Joseph Tainter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1988 he published The Collapse of Complex Societies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tainter's idea is about costs and benefits.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Societies solve problems by becoming more complex.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They add bureaucracy, armies, specialists, infrastructure and rules.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At first, each new layer brings big benefits.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But over time, the benefits shrink while the costs keep climbing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economists call this diminishing returns.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rome gives a good example of the kind of squeeze he had in mind.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the costs of the army and government climbed, emperors didn't have enough silver to pay them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So they quietly reduced the silver in the coins.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the first century, the main silver coin was almost pure.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By around 270, the standard coin was mostly copper with only a thin coating of silver.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People noticed, of course.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices rose, and trust in money fell.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eventually, Tainter argued, a society reaches a point where it's paying more and more just to stand still.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People become less willing to support the system.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then a shock comes along, a war or a drought, that it might once have handled easily.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now it can't.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collapse, in this view, is a kind of economising.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The society sheds complexity it can no longer afford.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice how close this is to Gibbon's idea of immoderate greatness, but with an economist's framing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The third theory is more recent and more controversial.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Peter Turchin began as a scientist studying animal populations, then turned his mathematical methods on history.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He calls this approach cliodynamics.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turchin and his colleagues have built a large database of past societies to test ideas about how they rise and fall.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One of his key ideas is elite overproduction.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In good times, the number of people who want elite positions, in wealth, power and status, grows faster than the number of positions available.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frustrated would-be elites compete more and more fiercely.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile ordinary workers may see their living standards stagnate.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put those together with a strained state budget, and Turchin argues you get cycles of instability, often lasting decades.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2010, he predicted in the journal Nature that the United States was heading into a period of rising unrest around 2020.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Supporters see that as a striking call.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics point out that his models are hard to test fairly, and that history is full of exceptions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fourth big name is Jared Diamond, whose 2005 book Collapse became a bestseller.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diamond suggested a checklist of five factors.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Environmental damage.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Climate change.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hostile neighbours.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Loss of friendly trading partners.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And, crucially, how a society responds to its problems.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He argued that some collapses were partly self-inflicted, through things like deforestation and soil loss.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Diamond's most famous example was Rapa Nui, also known as Easter Island, the Pacific island with the giant stone statues.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In his telling, the islanders cut down all their trees, their society destroyed itself, and the population crashed before Europeans arrived.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became a powerful parable about environmental destruction.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But newer research has seriously challenged that story.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Archaeologists such as Terry Hunt and Carl Lipo argued that rats, which arrived with the first settlers, ate many of the palm seeds, and that the islanders adapted cleverly, for example with stone gardens that protected crops.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2024, a study of ancient DNA from Rapa Nui found no sign of a population crash before contact with Europeans.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real catastrophe came afterwards, from introduced diseases and slave raids in the 1860s that carried away much of the population.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many historians now see Rapa Nui less as a warning about self-destruction and more as a story of resilience, followed by outside disaster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He told a similar story about the Norse settlers of Greenland, who vanished in the fifteenth century.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diamond argued they clung to European farming and wouldn't adapt, even refusing to eat fish.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later archaeology complicated that too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bones from their rubbish heaps show they ate a great deal of seal, and they seem to have adapted more than he allowed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colder weather, falling demand for walrus ivory in Europe and simple isolation probably all played a part.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's an important lesson in its own right.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Collapse stories often carry a moral, and it's easy to shape the evidence to fit the moral.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Part five. What historians agree on.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "After all that argument, you might wonder whether there's anything solid to hold on to.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians disagree about a lot, but a handful of patterns come up again and again.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here are five.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first is that there's almost never a single cause.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That's why Demandt's list ran to two hundred and ten.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collapses usually come from long-term weaknesses meeting short-term shocks.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A drought, a plague or an invasion might be the trigger.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But a strong, flexible society can often survive a trigger that finishes off a brittle one.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Roman Empire survived the Antonine Plague.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It didn't survive the combination of civil wars, lost provinces and invasions two centuries later.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second is that money and the military matter enormously.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Again and again, states get into trouble when the cost of defending themselves outruns their ability to raise taxes.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the western Roman government lost its richest provinces, it lost the money to pay soldiers.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When soldiers weren't paid, they rebelled or looked for someone else who would pay.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Spanish Empire went bankrupt several times in the sixteenth and seventeenth centuries, despite huge imports of silver from the Americas.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Soviet Union spent a vast share of its economy on its military while its economy stagnated.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fiscal strain doesn't always cause collapse, but it shows up remarkably often.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The third is that elites fighting among themselves is a warning sign.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Late Rome had a long run of rival emperors and usurpers.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many dynasties in Chinese history ended amid factional struggles at court.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ibn Khaldun saw it.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turchin measures it.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the people running a system spend more energy fighting each other than solving shared problems, the system weakens from the inside.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fourth is that connection cuts both ways.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Late Bronze Age kingdoms grew rich through trade, then fell together when the network broke.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tight links spread prosperity, but they also spread shocks.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's something people in our own interconnected world think about, from supply chains to financial crises.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's worth being careful with direct comparisons, though.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern societies have tools the ancients didn't, including scientific knowledge, global communication and the ability to move food across the planet in weeks.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fifth, and perhaps the most important, is that collapse is rarely the end of the people.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's usually the end of a political system.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Classic Maya of Central America are a good example.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between about the eighth and tenth centuries, many of their great cities in the southern lowlands were abandoned.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lake sediments show severe droughts at that time, and a 2018 study estimated that rainfall dropped by roughly half during the worst of them.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warfare between cities also intensified.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the Maya didn't disappear.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other Maya cities in the north thrived for centuries afterwards.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, millions of people still speak Mayan languages.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some scholars go further and ask who collapse is actually bad for.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The political scientist James Scott argued that for some ordinary farmers in early states, the end of the state could mean fewer taxes, less forced labour and less conscription.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That doesn't make collapse a good thing.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It usually brought real suffering, violence and loss.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it's a reminder to ask whose point of view a history is written from.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The palace records stop when the palace burns.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The villagers often carry on.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's also worth being wary of anyone who claims empires follow a strict timetable.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You may come across the claim that every empire lasts about two hundred and fifty years, from a 1976 essay by a retired British general, John Glubb.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's popular online.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most historians don't take it seriously, because the numbers only work if you choose your examples carefully.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The researcher Luke Kemp, at the University of Cambridge, looked at dozens of ancient civilisations and found an average lifespan of a little over three hundred years.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the range was enormous, from a few decades to many centuries.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An average like that describes the past.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It doesn't set a clock for the future.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So why does any of this matter on your walk or your drive today?",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Partly because it's a great story.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But also because the patterns historians agree on aren't only about empires.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Systems of every size, from companies to clubs to countries, tend to get into trouble in similar ways.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rising costs to keep things running.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leaders fighting among themselves.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too much dependence on a single supply line.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And a slow loss of trust that leaves them unable to handle the next shock.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthy systems, by contrast, keep some slack, share the burden, and adapt when things change.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Let's bring it together.",
+   "c": 4,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Empires rarely fall for one reason.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most collapses come from long-term strains, like the cost of armies, elite infighting and fragile connections, meeting sudden shocks, like drought, disease or invasion.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And collapse usually ends a political system rather than a people, who often go on to build something new.",
+   "c": 4,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 5,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which half of the Roman Empire survived for nearly a thousand years after 476?",
+   "c": 5,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The eastern half, based in Constantinople.",
+   "c": 5,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Joseph Tainter argue societies eventually suffer from as they add more complexity?",
+   "c": 5,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Diminishing returns. The costs keep rising while the benefits shrink.",
+   "c": 5,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does the Classic Maya collapse show about what usually ends in a collapse?",
+   "c": 5,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The political system ends, but the people carry on.",
+   "c": 5,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of Why Empires Fall. A big one. Well done for sticking with it.",
+   "c": 5,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

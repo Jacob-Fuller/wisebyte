@@ -610,7 +610,7 @@
    "ps": true
   },
   {
-   "t": "A 50% chance is 0.",
+   "t": "A 50 per cent chance is 0.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -628,7 +628,7 @@
    "ps": false
   },
   {
-   "t": "A 70% chance of rain means that on days with similar conditions, it rained about 70% of the time.",
+   "t": "A 70 per cent chance of rain means that on days with similar conditions, it rained about 70 per cent of the time.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -646,7 +646,7 @@
    "ps": false
   },
   {
-   "t": "Still 50%.",
+   "t": "Still 50 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -700,7 +700,7 @@
    "ps": false
   },
   {
-   "t": "NSW poker machines must return at least 85% of money wagered over time, so players lose up to about 15% of what they wager on average.",
+   "t": "NSW poker machines must return at least 85 per cent of money wagered over time, so players lose up to about 15 per cent of what they wager on average.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -748,7 +748,7 @@
    "ps": false
   },
   {
-   "t": "With 70 people, it's over 99%.",
+   "t": "With 70 people, it's over 99 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -796,13 +796,13 @@
    "ps": true
   },
   {
-   "t": "The chance that a randomly chosen person is over 190 cm is small.",
+   "t": "The chance that a randomly chosen person is over 190 centimetres is small.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The chance that a professional basketball player is over 190 cm is huge.",
+   "t": "The chance that a professional basketball player is over 190 centimetres is huge.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -868,7 +868,7 @@
    "ps": false
   },
   {
-   "t": "Think in probabilities, not certainties: 'maybe a 70% chance this works' encourages you to plan for the other 30%.",
+   "t": "Think in probabilities, not certainties: 'maybe a 70 per cent chance this works' encourages you to plan for the other 30 per cent.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -1228,7 +1228,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Still 50%.",
+   "t": "Answer. Still 50 per cent.",
    "c": 4,
    "k": "a",
    "ps": false

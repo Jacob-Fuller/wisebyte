@@ -207,7 +207,7 @@
    "ps": false
   },
   {
-   "t": "If a café gets 20 customers an hour and each stays half an hour, then on average 20 × 0.",
+   "t": "If a café gets 20 customers an hour and each stays half an hour, then on average 20 times 0.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -483,7 +483,7 @@
    "ps": true
   },
   {
-   "t": "A 3-4-5 triangle works, because 9 + 16 is 25.",
+   "t": "A 3-4-5 triangle works, because 9 plus 16 is 25.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -549,7 +549,7 @@
    "ps": true
   },
   {
-   "t": "Infinity is a concept rather than a reachable number, and it behaves strangely.",
+   "t": "Infinity is a concept, not a number you can reach, and it behaves strangely.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -573,22 +573,10 @@
    "ps": false
   },
   {
-   "t": "Is maths invented, like chess, or discovered, like a continent?",
+   "t": "Ideas pursued for their own sake often prove useful.",
    "c": 1,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "People still disagree.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But ideas pursued for their own sake often prove useful.",
-   "c": 1,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Primes were a curiosity for over 2,000 years before securing the internet.",
@@ -597,7 +585,7 @@
    "ps": false
   },
   {
-   "t": "Imaginary numbers, once seen as a trick, are essential in electrical engineering and quantum physics.",
+   "t": "Imaginary numbers, once seen as a trick, now underpin electrical engineering and quantum physics.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -729,7 +717,7 @@
    "ps": false
   },
   {
-   "t": "The photocopier's odd settings, 141% and 71%, are the square root of 2 in disguise.",
+   "t": "The photocopier's odd settings, 141 per cent and 71 per cent, are the square root of 2 in disguise.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -741,7 +729,7 @@
    "ps": false
   },
   {
-   "t": "414, or 141%.",
+   "t": "414, or 141 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -753,7 +741,7 @@
    "ps": false
   },
   {
-   "t": "707, or 71%.",
+   "t": "707, or 71 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -957,13 +945,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What is the ratio of the long side to the short side of A4 paper?",
+   "t": "Question three. Why does folding A4 in half give a sheet of exactly the same shape?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. About 1.414.",
+   "t": "Answer. Its sides follow the square root of 2.",
    "c": 3,
    "k": "a",
    "ps": false

@@ -45,7 +45,7 @@
    "ps": true
   },
   {
-   "t": "Three books can be arranged 3 × 2 × 1 = 6 ways; four, 4 × 3 × 2 × 1 = 24.",
+   "t": "Three books can be arranged 3 times 2 times 1 equals 6 ways; four, 4 times 3 times 2 times 1 equals 24.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -75,7 +75,7 @@
    "ps": true
   },
   {
-   "t": "is roughly 8 × 10⁶⁷, a number 68 digits long that begins 8065.",
+   "t": "is roughly 8 times 10⁶⁷, a number 68 digits long that begins 8065.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -99,7 +99,7 @@
    "ps": false
   },
   {
-   "t": "5 × 10²⁷ decks, less than a billionth of a billionth of a billionth of all possible orders.",
+   "t": "5 times 10²⁷ decks, less than a billionth of a billionth of a billionth of all possible orders.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -243,7 +243,7 @@
    "ps": false
   },
   {
-   "t": "To count hands, start with 52 × 51 × 50 × 49 × 48 ordered ways to deal five cards, then divide by 5!",
+   "t": "To count hands, start with 52 times 51 times 50 times 49 times 48 ordered ways to deal five cards, then divide by 5!",
    "c": 0,
    "k": "s",
    "ps": false
@@ -795,16 +795,10 @@
    "ps": true
   },
   {
-   "t": "Around 1960 John Selfridge found an envy-free method for three people, and John Conway independently found it in the early 1990s.",
+   "t": "Around 1960 John Selfridge found an envy-free method for three people, and John Conway independently rediscovered it in the early 1990s, hence the Selfridge–Conway procedure.",
    "c": 2,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "It is now called the Selfridge–Conway procedure.",
-   "c": 2,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Roughly, the first person cuts three equal pieces.",
@@ -843,7 +837,7 @@
    "ps": true
   },
   {
-   "t": "In 1995 Steven Brams and Alan Taylor published an envy-free procedure for any number of people, but it had no upper limit on cuts.",
+   "t": "A 1995 method by Steven Brams and Alan Taylor worked for any number of people but had no upper limit on cuts.",
    "c": 2,
    "k": "s",
    "ps": false

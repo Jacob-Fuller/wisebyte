@@ -279,19 +279,13 @@
    "ps": false
   },
   {
-   "t": "Climate change is a nuanced story.",
+   "t": "Cyclone numbers in the Australian region have declined somewhat, but warmer oceans are expected to make a larger share intense, and rising seas lift surges higher.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Cyclone numbers in the Australian region have declined somewhat, but warmer oceans are expected to make a larger share intense, and rising seas lift surges higher.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is general information: in a cyclone area, follow Bureau of Meteorology warnings and emergency service instructions, including evacuation orders.",
+   "t": "In a cyclone area, follow Bureau of Meteorology warnings and emergency service instructions, including evacuation orders.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -651,7 +645,7 @@
    "ps": true
   },
   {
-   "t": "Bronze is copper mixed with a little tin, roughly one part in nine.",
+   "t": "Bronze is copper mixed with a little tin, roughly one part tin to nine parts copper.",
    "c": 2,
    "k": "s",
    "ps": true

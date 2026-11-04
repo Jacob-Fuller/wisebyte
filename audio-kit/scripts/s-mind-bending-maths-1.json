@@ -70,13 +70,13 @@
    "ps": false
   },
   {
-   "t": "By square 11 the pile holds 1,024 grains, still only a handful.",
+   "t": "Square 11 alone holds 1,024 grains, still only a handful.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "By square 21 it passes a million.",
+   "t": "By square 21 a single square passes a million.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -1330,7 +1330,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Each square doubles the one before, so totals explode late.",
+   "t": "Answer. Each square doubles the last, so late totals explode.",
    "c": 4,
    "k": "a",
    "ps": false
@@ -1354,7 +1354,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Your first pick is usually wrong, so the other door usually wins.",
+   "t": "Answer. Your first pick is wrong two times in three.",
    "c": 4,
    "k": "a",
    "ps": false

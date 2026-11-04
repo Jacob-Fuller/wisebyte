@@ -112,7 +112,7 @@
    "ps": true
   },
   {
-   "t": "Butter tastes wonderful, but its milk solids start to burn at around 150°C.",
+   "t": "Butter tastes wonderful, but its milk solids start to burn at around 150 degrees.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -244,7 +244,7 @@
    "ps": false
   },
   {
-   "t": "Tray bake: vegetables and protein roasted with oil, salt and spices at about 200°C.",
+   "t": "Tray bake: vegetables and protein roasted with oil, salt and spices at about 200 degrees.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -923,12 +923,6 @@
   },
   {
    "t": "Building work above a certain value also generally requires a licensed builder.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Faulty wiring, gas leaks and structural mistakes can kill.",
    "c": 3,
    "k": "s",
    "ps": false

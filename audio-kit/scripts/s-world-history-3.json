@@ -333,7 +333,7 @@
    "ps": true
   },
   {
-   "t": "It drew in most nations, including every great power, and was fought across Europe, Africa, Asia and the Pacific.",
+   "t": "It was fought across Europe, Africa, Asia and the Pacific.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -345,16 +345,10 @@
    "ps": false
   },
   {
-   "t": "It grew from the aftermath of World War I.",
+   "t": "It grew from the aftermath of World War I. Germany faced harsh terms under the Treaty of Versailles, including lost territory and reparations.",
    "c": 1,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Germany faced harsh terms under the Treaty of Versailles, including lost territory and reparations.",
-   "c": 1,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Then the Great Depression brought mass unemployment.",
@@ -399,13 +393,7 @@
    "ps": false
   },
   {
-   "t": "Fast tanks and aircraft swept through western Europe, and France fell in June 1940.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Britain held out in the Battle of Britain.",
+   "t": "France fell in June 1940, and Britain held out in the Battle of Britain.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -429,7 +417,7 @@
    "ps": false
   },
   {
-   "t": "The main Allies were Britain and its Commonwealth, the Soviet Union and the US; the Axis was Germany, Italy and Japan.",
+   "t": "The Allies were led by Britain and its Commonwealth, the Soviet Union and the US; the Axis was Germany, Italy and Japan.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -717,16 +705,10 @@
    "ps": false
   },
   {
-   "t": "President John F.",
+   "t": "President John F. Kennedy ordered a naval blockade of Cuba.",
    "c": 2,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Kennedy ordered a naval blockade of Cuba.",
-   "c": 2,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Eventually Soviet leader Nikita Khrushchev agreed to remove the missiles in exchange for a US promise not to invade Cuba, and a secret deal to remove US missiles from Turkey.",

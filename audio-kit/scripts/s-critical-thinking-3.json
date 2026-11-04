@@ -106,13 +106,13 @@
    "ps": true
   },
   {
-   "t": "If an interest rate rises from 4% to 5%, that's one percentage point but a 25% increase.",
+   "t": "If an interest rate rises from 4 per cent to 5 per cent, that's one percentage point but a 25 per cent increase.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "If support for something rises from 10% to 15%, that's 5 percentage points, or a 50% increase.",
+   "t": "If support for something rises from 10 per cent to 15 per cent, that's 5 percentage points, or a 50 per cent increase.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -124,7 +124,7 @@
    "ps": false
   },
   {
-   "t": "A 200% increase in something rare might mean going from 1 case to 3.",
+   "t": "A 200 per cent increase in something rare might mean going from 1 case to 3.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -178,7 +178,13 @@
    "ps": false
   },
   {
-   "t": "In 1936, the Literary Digest polled millions, drawing largely on car owners and telephone directories, and predicted a landslide defeat for Roosevelt.",
+   "t": "In 1936, the Literary Digest polled millions, drawing largely on car owners and telephone directories, and those who replied leaned heavily one way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It predicted a landslide defeat for Roosevelt.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -784,7 +790,7 @@
    "ps": false
   },
   {
-   "t": "'Cuts risk by 50%' might mean 2 in 1,000 falling to 1 in 1,000.",
+   "t": "'Cuts risk by 50 per cent' might mean 2 in 1,000 falling to 1 in 1,000.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -802,7 +808,7 @@
    "ps": true
   },
   {
-   "t": "Imagine a disease affecting 1 in 1,000 people and a test that's 99% accurate.",
+   "t": "Imagine a disease affecting 1 in 1,000 people and a test that's 99 per cent accurate.",
    "c": 2,
    "k": "s",
    "ps": false

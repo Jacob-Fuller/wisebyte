@@ -124,12 +124,6 @@
    "ps": false
   },
   {
-   "t": "An evening of scrolling costs the book not read or the friend not called.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Asking 'What else could I do with this?'",
    "c": 0,
    "k": "s",
@@ -214,7 +208,7 @@
    "ps": false
   },
   {
-   "t": "'If the renovation runs 20% over budget, we pause and rethink.'",
+   "t": "'If the renovation runs 20 per cent over budget, we pause and rethink.'",
    "c": 0,
    "k": "s",
    "ps": false
@@ -766,7 +760,7 @@
    "ps": false
   },
   {
-   "t": "Add a contingency of 10 to 20% to a renovation budget.",
+   "t": "Add a contingency of 10 to 20 per cent to a renovation budget.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -802,19 +796,13 @@
    "ps": true
   },
   {
-   "t": "Outside it, confidence is dangerous, because you don't know what you don't know.",
+   "t": "Buffett has said the size of the circle matters less than knowing where its edge is.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "What matters is knowing where its edge is.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Outside it, slow down, seek real expertise and prefer small, reversible bets.",
+   "t": "Outside it you don't know what you don't know, so slow down, seek real expertise and prefer small, reversible bets.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1006,7 +994,7 @@
    "ps": false
   },
   {
-   "t": "Whenever you hear 'increases risk by 50%', ask: 50% of what?",
+   "t": "Whenever you hear 'increases risk by 50 per cent', ask: 50 per cent of what?",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1108,7 +1096,7 @@
    "ps": false
   },
   {
-   "t": "3%', and notice when a vivid story is doing the work data should.",
+   "t": "3 per cent', and notice when a vivid story is doing the work data should.",
    "c": 3,
    "k": "s",
    "ps": false

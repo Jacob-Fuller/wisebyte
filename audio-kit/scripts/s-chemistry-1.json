@@ -124,13 +124,7 @@
    "ps": true
   },
   {
-   "t": "J.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Thomson discovered the electron in 1897.",
+   "t": "J. Thomson discovered the electron in 1897.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -172,7 +166,7 @@
    "ps": false
   },
   {
-   "t": "9% of an atom's mass sits in that nucleus, while nearly all its volume is space where electrons might be found.",
+   "t": "9 per cent of an atom's mass sits in that nucleus, while nearly all its volume is space where electrons might be found.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -238,7 +232,7 @@
    "ps": false
   },
   {
-   "t": "Carbon-12 makes up about 99% of natural carbon.",
+   "t": "Carbon-12 makes up about 99 per cent of natural carbon.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -412,7 +406,7 @@
    "ps": false
   },
   {
-   "t": "While ice melts, its temperature stays at 0°C, because the energy goes into breaking the bonds holding particles in place rather than making them move faster.",
+   "t": "While ice melts, its temperature stays at 0 degrees, because the energy goes into breaking the bonds holding particles in place rather than making them move faster.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -424,7 +418,7 @@
    "ps": true
   },
   {
-   "t": "Water boils at 100°C at sea level but only around 70°C on the summit of Mount Everest, which makes a decent cup of tea surprisingly hard.",
+   "t": "Water boils at 100 degrees at sea level but only around 70 degrees on the summit of Mount Everest, which makes a decent cup of tea surprisingly hard.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -676,7 +670,7 @@
    "ps": false
   },
   {
-   "t": "Argon makes up almost 1% of the air you breathe.",
+   "t": "Argon makes up almost 1 per cent of the air you breathe.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -820,10 +814,16 @@
    "ps": false
   },
   {
-   "t": "Elements heavier than iron form mainly in extreme events, such as supernova explosions and collisions between neutron stars.",
+   "t": "Heavier elements are built as atoms capture extra neutrons.",
    "c": 2,
    "k": "s",
    "ps": true
+  },
+  {
+   "t": "About half form slowly inside ageing giant stars, and most of the rest in violent events such as supernovae and collisions between neutron stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
   },
   {
    "t": "A neutron star merger observed in 2017 was seen producing heavy elements, probably including gold and platinum.",

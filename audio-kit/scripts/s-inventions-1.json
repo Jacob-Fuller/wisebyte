@@ -466,7 +466,7 @@
    "ps": true
   },
   {
-   "t": "An internal combustion engine burns fuel inside it, so it can be much smaller and lighter for the same power.",
+   "t": "An internal combustion engine burns fuel inside it, so it can be smaller and lighter.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -496,19 +496,13 @@
    "ps": true
   },
   {
-   "t": "In 1888 his wife Bertha drove it about 100 kilometres to visit her mother, proving it worked on real roads.",
+   "t": "In 1888 his wife Bertha proved it on real roads, driving about 100 kilometres to visit her mother.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Henry Ford did not invent the car.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His contribution was making it cheap: the Model T in 1908, and his moving assembly line from 1913.",
+   "t": "Henry Ford didn't invent the car; he made it cheap, with the Model T in 1908 and his moving assembly line from 1913.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -544,7 +538,7 @@
    "ps": false
   },
   {
-   "t": "Electric motors turn around 90% of their energy into motion, while petrol engines manage roughly 20 to 35%.",
+   "t": "Electric motors turn around 90 per cent of their energy into motion, while petrol engines manage roughly 20 to 35 per cent.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -778,13 +772,7 @@
    "ps": false
   },
   {
-   "t": "In 1896 American campaigner Susan B.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Anthony said the bicycle had done more to emancipate women than anything else in the world.",
+   "t": "In 1896 American campaigner Susan B. Anthony said the bicycle had done more to emancipate women than anything else in the world.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1084,7 +1072,7 @@
    "ps": true
   },
   {
-   "t": "Old incandescent bulbs wasted most of their energy, around 90%, as heat.",
+   "t": "Old incandescent bulbs wasted most of their energy, around 90 per cent, as heat.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1114,7 +1102,7 @@
    "ps": false
   },
   {
-   "t": "LED bulbs use roughly 75 to 80% less energy than incandescent ones and last many times longer, so replacing any remaining old bulbs is an easy way to trim a power bill.",
+   "t": "LED bulbs use roughly 75 to 80 per cent less energy than incandescent ones and last many times longer, so replacing any remaining old bulbs is an easy way to trim a power bill.",
    "c": 3,
    "k": "s",
    "ps": false

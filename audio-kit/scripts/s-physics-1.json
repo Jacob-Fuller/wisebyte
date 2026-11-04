@@ -142,7 +142,7 @@
    "ps": false
   },
   {
-   "t": "A skydiver speeds up until drag balances their weight, reaching about 200 km/h belly-down.",
+   "t": "A skydiver speeds up until drag balances their weight, reaching about 200 kilometres an hour belly-down.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -394,7 +394,7 @@
    "ps": false
   },
   {
-   "t": "On the Moon, with about one-sixth of Earth's gravity, a 70 kg person would read about 12 kg on Earth scales; on Mars about 26 kg.",
+   "t": "On the Moon, with about one-sixth of Earth's gravity, a 70 kilograms person would read about 12 kilograms on Earth scales; on Mars about 26 kilograms.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -430,19 +430,19 @@
    "ps": false
   },
   {
-   "t": "The International Space Station, about 400 km up at roughly 28,000 km/h, circles Earth about every 90 minutes.",
+   "t": "The International Space Station, about 400 kilometres up at roughly 28,000 kilometres an hour, circles Earth about every 90 minutes.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Astronauts float not because gravity is absent, since it is about 90% as strong there, but because they and the station fall together.",
+   "t": "Astronauts float not because gravity is absent, since it is about 90 per cent as strong there, but because they and the station fall together.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Geostationary satellites orbit about 36,000 km up, keeping pace with Earth's rotation.",
+   "t": "Geostationary satellites orbit about 36,000 kilometres up, keeping pace with Earth's rotation.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -526,7 +526,7 @@
    "ps": true
   },
   {
-   "t": "In orbit, without the constant load of weight, astronauts can lose around 1% of bone density in weight-bearing bones each month.",
+   "t": "In orbit, without the constant load of weight, astronauts can lose around 1 per cent of bone density in weight-bearing bones each month.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -556,7 +556,7 @@
    "ps": false
   },
   {
-   "t": "5% less at the equator than at the poles.",
+   "t": "5 per cent less at the equator than at the poles.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -934,7 +934,7 @@
    "ps": false
   },
   {
-   "t": "A car at 60 km/h carries four times the energy of the same car at 30 km/h.",
+   "t": "A car at 60 kilometres an hour carries four times the energy of the same car at 30 kilometres an hour.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -946,7 +946,7 @@
    "ps": false
   },
   {
-   "t": "That is why braking distances grow so quickly with speed, and why lower limits in busy areas, like 40 km/h school zones, save lives.",
+   "t": "That is why braking distances grow so quickly with speed, and why lower limits in busy areas, like 40 kilometres an hour school zones, save lives.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -964,13 +964,13 @@
    "ps": true
   },
   {
-   "t": "Old incandescent bulbs turned only about 5% of electricity into light; LEDs use roughly 75–80% less electricity for the same light.",
+   "t": "Old incandescent bulbs turned only about 5 per cent of electricity into light; LEDs use roughly 75–80 per cent less electricity for the same light.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Petrol engines turn roughly 20–30% of fuel energy into motion, while electric motors manage around 90%.",
+   "t": "Petrol engines turn roughly 20–30 per cent of fuel energy into motion, while electric motors manage around 90 per cent.",
    "c": 3,
    "k": "s",
    "ps": false

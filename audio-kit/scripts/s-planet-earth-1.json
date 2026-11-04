@@ -64,7 +64,7 @@
    "ps": false
   },
   {
-   "t": "The mantle makes up roughly 84% of the planet's volume and reaches down about 2,900 kilometres.",
+   "t": "The mantle makes up roughly 84 per cent of the planet's volume and reaches down about 2,900 kilometres.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -256,25 +256,19 @@
    "ps": true
   },
   {
-   "t": "The swirling liquid iron in the outer core acts like a giant dynamo.",
+   "t": "The swirling liquid iron of the outer core acts like a giant dynamo: as the conducting metal moves, driven by heat and Earth's rotation, it generates electric currents and a magnetic field.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "As the electrically conducting metal moves, driven by heat and Earth's rotation, it generates electric currents that produce a magnetic field.",
+   "t": "It makes a compass point roughly north and deflects most of the solar wind, the stream of charged particles from the Sun.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It makes a compass point roughly north and deflects most of the solar wind, a stream of charged particles from the Sun.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some particles are funnelled towards the poles, making the upper atmosphere glow: the aurora australis, sometimes seen from Tasmania and southern Victoria.",
+   "t": "Some are funnelled towards the poles, making the upper atmosphere glow: the aurora australis, sometimes seen from Tasmania and southern Victoria.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -304,7 +298,7 @@
    "ps": false
   },
   {
-   "t": "Reversals are irregular and take thousands of years, with no good evidence they caused mass extinctions.",
+   "t": "Reversals are irregular, take thousands of years and show no clear link to mass extinctions.",
    "c": 0,
    "k": "s",
    "ps": false

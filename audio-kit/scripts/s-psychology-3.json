@@ -153,7 +153,7 @@
    "ps": true
   },
   {
-   "t": "If you agonised between two similar cars and bought one, you may suddenly notice how good your choice is and how flawed the other was.",
+   "t": "Agonise between two similar cars, buy one, and you may suddenly notice how good it is and how flawed the other was.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -729,7 +729,7 @@
    "ps": false
   },
   {
-   "t": "In one well-known hotel study, a card saying most guests reused their towels beat a card about saving the environment.",
+   "t": "In one well-known hotel study, a card saying most guests reused their towels beat a card about saving the environment, though later repeats found a weaker effect.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -742,12 +742,6 @@
   },
   {
    "t": "Authority works similarly: we follow credible experts and also the symbols of expertise, such as uniforms, titles and lab coats.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ads feature people who look like doctors or scientists for a reason.",
    "c": 2,
    "k": "s",
    "ps": false

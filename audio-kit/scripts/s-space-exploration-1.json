@@ -112,13 +112,13 @@
    "ps": true
   },
   {
-   "t": "Typically 85 to 90% of a large rocket's lift-off mass is propellant, and the payload is often only a few per cent.",
+   "t": "Typically 85 to 90 per cent of a large rocket's lift-off mass is propellant, and the payload is often only a few per cent.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A Falcon 9 weighs about 550 tonnes at lift-off but carries at most around 23 tonnes to low orbit, roughly 4%.",
+   "t": "A Falcon 9 weighs about 550 tonnes at lift-off but carries at most around 23 tonnes to low orbit, roughly 4 per cent.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -184,7 +184,7 @@
    "ps": false
   },
   {
-   "t": "8 kilometres per second, roughly 28,000 km/h.",
+   "t": "8 kilometres per second, roughly 28,000 kilometres an hour.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -268,10 +268,16 @@
    "ps": false
   },
   {
-   "t": "In November 1967 WRESAT, Australia's first satellite, was launched from Woomera on a modified American rocket, putting Australia among the first few nations with a satellite in orbit.",
+   "t": "In November 1967 WRESAT, Australia's first satellite, was launched from Woomera on a modified American rocket.",
    "c": 0,
    "k": "s",
    "ps": true
+  },
+  {
+   "t": "That made Australia only the third country, after the Soviet Union and the United States, to launch a satellite from its own territory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
   },
   {
    "t": "The Australian Space Agency was set up in 2018, and several Australian companies are developing launch vehicles and satellites.",
@@ -322,13 +328,7 @@
    "ps": true
   },
   {
-   "t": "Space became a stage for that contest.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Each side wanted to prove its system produced better science, and the stakes were military as well as symbolic: a rocket that could orbit a satellite could also carry a nuclear warhead across the world.",
+   "t": "Space became a stage for that contest, and the stakes were military as well as symbolic: a rocket that could orbit a satellite could also carry a nuclear warhead across the world.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -478,16 +478,10 @@
    "ps": true
   },
   {
-   "t": "Stung by Gagarin's flight, President John F.",
+   "t": "Stung by Gagarin's flight, President John F. Kennedy told Congress in May 1961 that America should land a man on the Moon and return him safely before the decade was out.",
    "c": 1,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Kennedy told Congress in May 1961 that America should land a man on the Moon and return him safely before the decade was out.",
-   "c": 1,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "In 1962 in Texas he added: \"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard.\"",

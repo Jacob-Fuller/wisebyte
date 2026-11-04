@@ -694,7 +694,7 @@
    "ps": false
   },
   {
-   "t": "Other taxes include the 10% GST on most goods and services, company tax, and excise on fuel, alcohol and tobacco.",
+   "t": "Other taxes include the 10 per cent GST on most goods and services, company tax, and excise on fuel, alcohol and tobacco.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -724,19 +724,19 @@
    "ps": false
   },
   {
-   "t": "Then 15% applies up to $45,000, 30% up to $135,000, 37% up to $190,000, and 45% above that.",
+   "t": "Then 15 per cent applies up to $45,000, 30 per cent up to $135,000, 37 per cent up to $190,000, and 45 per cent above that.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The 15% rate is legislated to fall to 14% from July 2027.",
+   "t": "The 15 per cent rate is legislated to fall to 14 per cent from July 2027.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most people also pay a 2% Medicare levy.",
+   "t": "Most people also pay a 2 per cent Medicare levy.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -754,7 +754,7 @@
    "ps": false
   },
   {
-   "t": "If you earn $136,000, only the $1,000 above $135,000 is taxed at 37%.",
+   "t": "If you earn $136,000, only the $1,000 above $135,000 is taxed at 37 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -826,13 +826,7 @@
    "ps": true
   },
   {
-   "t": "You can generally claim work expenses such as tools, uniforms with a logo, professional memberships and some work-from-home costs.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The ATO's three golden rules: you must have spent the money yourself and not been reimbursed; it must directly relate to earning your income; and you need a record, like a receipt.",
+   "t": "For work expenses such as tools or uniforms with a logo, the ATO's three golden rules are: you must have spent the money yourself and not been reimbursed; it must directly relate to earning your income; and you need a record, like a receipt.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -844,25 +838,19 @@
    "ps": false
   },
   {
-   "t": "Other taxes matter too.",
+   "t": "From 2026-27, employees can instead take a standard deduction of up to $1,000 for work expenses, with no receipts needed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Selling an investment such as shares can attract capital gains tax, though your main home is generally exempt.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "GST is built into prices, though basic food, most health care and education are GST-free.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Profit from selling an investment such as shares attracts capital gains tax, with a 50% discount if you held it over a year; your main home is generally exempt.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "HECS-HELP debts are repaid through the tax system once your income passes a threshold.",
+   "t": "For gains from July 2027, the 50 per cent discount for assets held over a year is replaced by an adjustment for inflation.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -898,7 +886,7 @@
    "ps": false
   },
   {
-   "t": "Capital gains rules in particular may change, so check before you sell.",
+   "t": "Capital gains rules change from July 2027, so check before you sell.",
    "c": 2,
    "k": "s",
    "ps": false

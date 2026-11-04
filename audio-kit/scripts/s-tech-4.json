@@ -81,7 +81,7 @@
    "ps": true
   },
   {
-   "t": "If you're exactly 20,500 km from one satellite, you could be anywhere on a giant sphere around it.",
+   "t": "If you're exactly 20,500 kilometres from one satellite, you could be anywhere on a giant sphere around it.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -339,19 +339,7 @@
    "ps": true
   },
   {
-   "t": "Julius Caesar is said to have shifted each letter three places along the alphabet, so A became D.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Such ciphers fall to frequency analysis: E is the most common letter in English, so the most common symbol probably stands for E.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Arab scholar al-Kindi described this in the 9th century.",
+   "t": "Julius Caesar is said to have shifted each letter three places along the alphabet, so A became D. Such ciphers fall to frequency analysis: E is the most common letter in English, so the most common symbol probably stands for E. The Arab scholar al-Kindi described this in the 9th century.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -675,7 +663,7 @@
    "ps": false
   },
   {
-   "t": "That cut Ethereum's energy use by more than 99%.",
+   "t": "That cut Ethereum's energy use by more than 99 per cent.",
    "c": 2,
    "k": "s",
    "ps": false

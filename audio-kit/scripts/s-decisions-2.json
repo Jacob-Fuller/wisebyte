@@ -550,12 +550,6 @@
    "ps": false
   },
   {
-   "t": "Is a policy ‘tax relief’ or a ‘cut to services’?",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Defusing the frame.",
    "c": 1,
    "k": "s",
@@ -1180,7 +1174,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Programs A and C described exactly the same outcome.",
+   "t": "Answer. A and C described the very same outcome.",
    "c": 4,
    "k": "a",
    "ps": false

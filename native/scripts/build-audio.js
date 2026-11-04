@@ -82,7 +82,9 @@ function speakable(s) {
     .replace(/,\s*([,.;:!?])/g, "$1").replace(/,,+/g, ",")
     .replace(/\s{2,}/g, " ").trim();
 }
-const sentences = text => speakable(text).match(/[^.!?]+(?:[.!?]+["'”’]?|$)/g).map(s => s.trim()).filter(Boolean);
+/* don't split after an initial or a title ("James C. Scott", "Dr. Smith") */
+const PROTECT = /\b([A-Z]|Dr|Mr|Mrs|Ms|St|Mt|No|Jr|Sr)\.(?=\s+[A-Z0-9])/g;
+const sentences = text => speakable(text).replace(PROTECT, "$1\u2024").match(/[^.!?]+(?:[.!?]+["'”’]?|$)/g).map(s => s.trim().replace(/\u2024/g, ".")).filter(Boolean);
 const listAnd = a => a.length < 2 ? a.join("") : a.slice(0, -1).join(", ") + " and " + a[a.length - 1];
 const clean = t => t.replace(/[.:!?]+$/, "");
 
@@ -116,7 +118,8 @@ function script(e) {
 
 const kit = path.join(root, "audio-kit", "scripts");
 fs.mkdirSync(kit, { recursive: true });
-for (const f of fs.readdirSync(kit)) if (f.endsWith(".json")) fs.unlinkSync(path.join(kit, f));
+const EP_IDS = new Set(episodes.map(e => e.id));
+for (const f of fs.readdirSync(kit)) if (f.endsWith(".json") && (EP_IDS.has(f.slice(0, -5)) || /^(s-|topic-|inner-)/.test(f))) fs.unlinkSync(path.join(kit, f));
 let words = 0;
 for (const e of episodes) { const s = script(e); words += s.units.reduce((a, u) => a + u.t.split(/\s+/).length, 0); fs.writeFileSync(path.join(kit, e.id + ".json"), JSON.stringify(s, null, 1)); }
 
@@ -134,7 +137,11 @@ const COVERS = { spotlight: ["spotlight-effect"], habits: ["habits"], meals: ["m
 const NOTE = { money: "General information only, not personal financial advice.", work: "General information only, not legal or financial advice.",
   health: "General information only, not medical advice.", aid: "A refresher only, not a substitute for a first aid course. In an emergency, call triple zero (000)." };
 const NOTES = { money1: "money", money2: "money", money3: "money", money4: "money", bills: "money", payrise: "work", sleep: "health", memory2: "health", placebo: "health", firstaid: "aid", attach: "health" };
-const originals = ALL_LESSONS.filter(l => AUDIO[l.id]).map(l => {
+/* originals with a corrected script in audio-kit/scripts are held back until the corrected recording exists */
+const kitOut = path.join(root, "audio-kit", "out", "manifest.json");
+const recorded = fs.existsSync(kitOut) ? JSON.parse(fs.readFileSync(kitOut, "utf8")).episodes || {} : {};
+const HELD = new Set(ALL_LESSONS.map(l => l.id).filter(id => fs.existsSync(path.join(root, "audio-kit", "scripts", id + ".json")) && !recorded[id]));
+const originals = ALL_LESSONS.filter(l => AUDIO[l.id] && !HELD.has(l.id)).map(l => {
   const s = l.s && SERIES.find(x => x.id === l.s);
   for (const id of COVERS[l.id] || []) if (!L[id]) throw new Error(`COVERS: no lesson ${id}`);
   return { id: l.id, kind: "original", t: l.t, d: l.d, p: l.p, psy: l.psy || undefined, series: s ? s.t : undefined, ep: l.ep, covers: COVERS[l.id] || [], note: NOTES[l.id] ? NOTE[NOTES[l.id]] : undefined, lessons: [] };
@@ -153,7 +160,9 @@ if (fs.existsSync(kitM)) for (const [id, x] of Object.entries(JSON.parse(fs.read
   const base = process.env.AUDIO_BASE || (manifest.episodes[id] && manifest.episodes[id].base);
   manifest.episodes[id] = base ? { ...x, base } : x;
 }
+for (const id of HELD) delete manifest.episodes[id];
 for (const o of originals) {
+  if (recorded[o.id]) { manifest.episodes[o.id] = recorded[o.id]; continue; }   /* re-recorded with a corrected script: its files come from audio-kit/out */
   const A = AUDIO[o.id];
   fs.writeFileSync(path.join(goAudio, o.id + ".json"), JSON.stringify({ chapters: A.chapters, units: A.units, at: A.at, dur: A.dur }));
   const size = {}; for (const [v, f] of [["f", "af_heart"], ["m", "am_michael"]]) { const p = path.join(goAudio, `${o.id}-${f}.mp4`); if (fs.existsSync(p)) size[v] = fs.statSync(p).size; }

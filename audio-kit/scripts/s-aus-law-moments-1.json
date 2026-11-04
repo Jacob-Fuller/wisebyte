@@ -136,19 +136,7 @@
    "ps": true
   },
   {
-   "t": "Dr H.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "V.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Evatt, Labor's deputy leader and a former High Court judge, appeared for the Waterside Workers' Federation, a controversial choice.",
+   "t": "Doctor H. V. Evatt, Labor's deputy leader and a former High Court judge, appeared for the Waterside Workers' Federation, a controversial choice.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -364,19 +352,19 @@
    "ps": true
   },
   {
-   "t": "Without it, money for public servants and services eventually runs out.",
+   "t": "Without it, the money eventually runs out.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Whitlam's Labor government, elected in 1972 and re-elected in 1974, controlled the House but not the Senate.",
+   "t": "Whitlam's Labor government controlled the House but not the Senate.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1975 it faced controversies, the worst being the Loans Affair, in which ministers sought a very large overseas loan through unconventional channels.",
+   "t": "In 1975 it faced controversies, the worst being the Loans Affair, in which ministers sought a huge overseas loan through unconventional channels.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -400,7 +388,13 @@
    "ps": true
   },
   {
-   "t": "Two Labor Senate vacancies, in New South Wales and Queensland, were filled by non-Labor appointees, breaking the usual convention.",
+   "t": "Two Labor Senate vacancies, in New South Wales and Queensland, were filled by people Labor had not chosen, breaking the usual convention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Queensland pick, Albert Field, opposed Whitlam, and while his appointment was challenged in court he could not vote, tipping the balance.",
    "c": 1,
    "k": "s",
    "ps": false

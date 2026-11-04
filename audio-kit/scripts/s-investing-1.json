@@ -94,13 +94,13 @@
    "ps": false
   },
   {
-   "t": "A term deposit paying 4% has little uncertainty.",
+   "t": "A term deposit paying 4 per cent has little uncertainty.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A share fund might return 25% one year and lose 15% the next.",
+   "t": "A share fund might return 25 per cent one year and lose 15 per cent the next.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -208,7 +208,7 @@
    "ps": true
   },
   {
-   "t": "Risk tolerance is emotional: can you watch your balance drop 30% without panicking?",
+   "t": "Risk tolerance is emotional: can you watch your balance drop 30 per cent without panicking?",
    "c": 0,
    "k": "s",
    "ps": false
@@ -232,7 +232,7 @@
    "ps": true
   },
   {
-   "t": "A 5% return sounds decent, but if prices rise 4%, your real return is only about 1%, and after tax it may be near zero.",
+   "t": "A 5 per cent return sounds decent, but if prices rise 4 per cent, your real return is only about 1 per cent, and after tax it may be near zero.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -244,7 +244,7 @@
    "ps": false
   },
   {
-   "t": "Australia's Reserve Bank targets inflation of 2-3% on average, which roughly halves the value of a dollar every 25 to 35 years.",
+   "t": "Australia's Reserve Bank targets inflation of 2-3 per cent on average, which roughly halves the value of a dollar every 25 to 35 years.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -316,13 +316,13 @@
    "ps": false
   },
   {
-   "t": "1% of it, including a claim on 0.",
+   "t": "1 per cent of it, including a claim on 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "1% of its future profits.",
+   "t": "1 per cent of its future profits.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -400,7 +400,7 @@
    "ps": false
   },
   {
-   "t": "A rising market is a bull market, and a fall of 20% or more from a peak is a bear market.",
+   "t": "A rising market is a bull market, and a fall of 20 per cent or more from a peak is a bear market.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -544,7 +544,7 @@
    "ps": true
   },
   {
-   "t": "It's a serious crime in Australia, carrying up to 10 years' jail, and the corporate regulator, ASIC, investigates suspicious trades.",
+   "t": "It's a serious crime in Australia, carrying up to 15 years' jail, and the corporate regulator, ASIC, investigates suspicious trades.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -1174,7 +1174,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Because investors would buy them until prices rose and returns shrank.",
+   "t": "Answer. Because demand would push prices up and returns down.",
    "c": 4,
    "k": "a",
    "ps": false

@@ -63,7 +63,7 @@
    "ps": false
   },
   {
-   "t": "Take a $500,000 loan at 6% over 30 years.",
+   "t": "Take a $500,000 loan at 6 per cent over 30 years.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -111,13 +111,13 @@
    "ps": true
   },
   {
-   "t": "Lenders look at the loan-to-value ratio, LVR: a $600,000 loan on a $750,000 home is an 80% LVR.",
+   "t": "Lenders look at the loan-to-value ratio, LVR: a $600,000 loan on a $750,000 home is an 80 per cent LVR.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "If you borrow more than 80%, lenders usually charge lenders mortgage insurance, LMI, which can cost thousands or tens of thousands of dollars.",
+   "t": "If you borrow more than 80 per cent, lenders usually charge lenders mortgage insurance, LMI, which can cost thousands or tens of thousands of dollars.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -273,7 +273,7 @@
    "ps": false
   },
   {
-   "t": "3% cut on $500,000 saves about $1,500 a year.",
+   "t": "3 per cent cut on $500,000 saves about $1,500 a year.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -429,16 +429,10 @@
    "ps": true
   },
   {
-   "t": "Conveyancing transfers ownership from seller to buyer.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Hire a licensed conveyancer or solicitor before you make an offer, not after.",
    "c": 1,
    "k": "s",
-   "ps": false
+   "ps": true
   },
   {
    "t": "They review the contract of sale and the seller's disclosure documents, which vary by state.",
@@ -639,13 +633,13 @@
    "ps": true
   },
   {
-   "t": "A recent ABS survey found recent retirees stopped work at an average age of about 64, while workers aged 45 and over planned to retire at around 65 or 66.",
+   "t": "ABS data for 2022-23 found people aged 45 and over intend to retire at about 65, yet Australia's retirees as a whole had stopped work at an average age of about 57.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Reaching retirement age or qualifying for super was the most common reason, but illness, injury or disability came second, and those who retired for health reasons stopped much earlier.",
+   "t": "Reaching retirement age or qualifying for super was the most common reason, but illness, injury or disability came second, and those who retired for health reasons often stopped much earlier.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -729,7 +723,7 @@
    "ps": false
   },
   {
-   "t": "It's means-tested, and around 60% of Australians of pension age receive a full or part pension, often alongside super.",
+   "t": "It's means-tested, and around 60 per cent of Australians of pension age receive a full or part pension, often alongside super.",
    "c": 2,
    "k": "s",
    "ps": false

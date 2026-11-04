@@ -513,7 +513,7 @@
    "ps": true
   },
   {
-   "t": "Goods and services tax is a 10% tax on most goods and services in Australia.",
+   "t": "Goods and services tax is a 10 per cent tax on most goods and services in Australia.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -747,7 +747,7 @@
    "ps": false
   },
   {
-   "t": "If around 40% or more say 'very disappointed', you may be close.",
+   "t": "If around 40 per cent or more say 'very disappointed', you may be close.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -957,13 +957,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What did Atlassian do unusually in its early years?",
+   "t": "Question three. What drove Atlassian's growth in its early years?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Grew for years without a traditional sales team.",
+   "t": "Answer. A good product spreading by word of mouth.",
    "c": 3,
    "k": "a",
    "ps": false

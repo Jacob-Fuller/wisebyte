@@ -46,7 +46,7 @@
    "ps": true
   },
   {
-   "t": "In A Study in Scarlet, published in 1887, Sherlock Holmes shakes hands with Dr John Watson and says, ‘You have been in Afghanistan, I perceive.’",
+   "t": "In A Study in Scarlet, published in 1887, Sherlock Holmes shakes hands with Doctor John Watson and says, ‘You have been in Afghanistan, I perceive.’",
    "c": 0,
    "k": "s",
    "ps": true
@@ -652,7 +652,7 @@
    "ps": true
   },
   {
-   "t": "A major 2018 MIT study of millions of tweets found that false news spread further, faster and deeper than true news, and was about 70% more likely to be retweeted.",
+   "t": "A major 2018 MIT study of millions of tweets found that false news spread further, faster and deeper than true news, and was about 70 per cent more likely to be retweeted.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -982,13 +982,7 @@
    "ps": false
   },
   {
-   "t": "The 1963 assassination of John F.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Kennedy is a classic case.",
+   "t": "The 1963 assassination of John F. Kennedy is a classic case.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1264,7 +1258,7 @@
    "ps": false
   },
   {
-   "t": "Answer. They're novel and emotional, so people share them.",
+   "t": "Answer. Their novelty and emotion get them shared.",
    "c": 4,
    "k": "a",
    "ps": false

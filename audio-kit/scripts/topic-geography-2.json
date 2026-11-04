@@ -410,12 +410,6 @@
    "ps": false
   },
   {
-   "t": "The sharper the contrast, the faster the wind.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Each hemisphere generally has a polar front jet and a higher, subtropical jet closer to the tropics.",
    "c": 1,
    "k": "s",
@@ -458,7 +452,7 @@
    "ps": true
   },
   {
-   "t": "Usually the jet's waves travel steadily east, carrying weather systems with them.",
+   "t": "Usually the jet's waves travel east, carrying weather with them.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -488,7 +482,7 @@
    "ps": false
   },
   {
-   "t": "The subtropical jet often crosses Australia in winter, carrying moisture from the Indian Ocean in long northwest cloud bands that can bring valuable rain inland.",
+   "t": "In winter, the subtropical jet can feed long northwest cloud bands that carry Indian Ocean moisture and rain inland.",
    "c": 1,
    "k": "s",
    "ps": true

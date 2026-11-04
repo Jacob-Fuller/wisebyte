@@ -64,7 +64,7 @@
    "ps": true
   },
   {
-   "t": "This Super Guarantee rose to 12% on 1 July 2025.",
+   "t": "This Super Guarantee rose to 12 per cent on 1 July 2025.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -148,7 +148,7 @@
    "ps": false
   },
   {
-   "t": "5% or 1% a year sounds tiny.",
+   "t": "5 per cent or 1 per cent a year sounds tiny.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -244,19 +244,13 @@
    "ps": true
   },
   {
-   "t": "Employer contributions are generally taxed at 15%, below most people's income tax rate, and investment earnings are generally taxed at no more than 15%, though extra tax is planned for very large balances.",
+   "t": "Employer contributions are generally taxed at 15 per cent, below most people's income tax rate, and investment earnings are generally taxed at no more than 15 per cent, though from July 2026 earnings on balances above $3 million attract extra tax.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "You can add extra through salary sacrifice or personal contributions you claim as a tax deduction, up to an annual cap.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Lower-income earners may qualify for government co-contributions.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -646,7 +640,7 @@
    "ps": false
   },
   {
-   "t": "The Medicare Levy Surcharge taxes higher earners without appropriate hospital cover, and Lifetime Health Cover adds 2% to premiums for each year over 30 before you first join, up to 70%, removed after ten continuous years.",
+   "t": "The Medicare Levy Surcharge taxes higher earners without appropriate hospital cover, and Lifetime Health Cover adds 2 per cent to premiums for each year over 30 before you first join, up to 70 per cent, removed after ten continuous years.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -658,7 +652,7 @@
    "ps": true
   },
   {
-   "t": "Income protection commonly pays up to around 70% of income if illness or injury stops you working.",
+   "t": "Income protection commonly pays up to around 70 per cent of income if illness or injury stops you working.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1156,7 +1150,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Insure losses you couldn't afford to cover yourself.",
+   "t": "Answer. Insure what you couldn't afford to lose.",
    "c": 4,
    "k": "a",
    "ps": false

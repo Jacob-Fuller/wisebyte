@@ -675,16 +675,10 @@
    "ps": true
   },
   {
-   "t": "In 1904 the American physicist Robert W.",
+   "t": "In 1904 the American physicist Robert W. Wood, of Johns Hopkins University, visited Blondlot's laboratory.",
    "c": 2,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Wood, of Johns Hopkins University, visited Blondlot's laboratory.",
-   "c": 2,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Blondlot demonstrated how an aluminium prism supposedly spread N-rays into a spectrum, with readings taken in a darkened room.",
@@ -861,7 +855,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Recent finds such as X-rays made new rays plausible.",
+   "t": "Answer. Recent finds like X-rays made them plausible.",
    "c": 3,
    "k": "a",
    "ps": false

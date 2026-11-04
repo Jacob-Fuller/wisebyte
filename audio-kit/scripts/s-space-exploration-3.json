@@ -303,7 +303,7 @@
    "ps": true
   },
   {
-   "t": "Its surface gravity is about 38% of ours, so a 70-kilogram person would feel like they weighed about 27 kilograms.",
+   "t": "Its surface gravity is about 38 per cent of ours, so a 70-kilogram person would feel like they weighed about 27 kilograms.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -339,13 +339,13 @@
    "ps": true
   },
   {
-   "t": "Its air pressure is less than 1% of Earth's, and it is mostly carbon dioxide, too thin to breathe or to keep liquid water stable for long.",
+   "t": "Its air pressure is less than 1 per cent of Earth's, and it is mostly carbon dioxide, too thin to breathe or to keep liquid water stable for long.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The average temperature is around −60°C, though a summer afternoon near the equator can briefly rise above 0°C.",
+   "t": "The average temperature is around −60 degrees, though a summer afternoon near the equator can briefly rise above 0 degrees.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -399,13 +399,13 @@
    "ps": false
   },
   {
-   "t": "In 2004 Spirit and Opportunity were planned to last about 90 sols; Opportunity worked over 14 years and drove over 45 kilometres before a dust storm ended it in 2018.",
+   "t": "In 2004 Spirit and Opportunity were planned to last about 90 sols; Opportunity worked over 14 years before a dust storm ended it in 2018.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Curiosity, car-sized and nuclear-powered, landed in Gale Crater in 2012 via a rocket-powered 'sky crane'.",
+   "t": "Curiosity, car-sized and nuclear-powered, landed in Gale Crater in 2012.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -525,7 +525,7 @@
    "ps": false
   },
   {
-   "t": "The key idea: Mars is about half Earth's width with 38% of its gravity, a day almost like ours, and a rusty red surface.",
+   "t": "The key idea: Mars is about half Earth's width with 38 per cent of its gravity, a day almost like ours, and a rusty red surface.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -675,7 +675,7 @@
    "ps": false
   },
   {
-   "t": "Scientists believe more than 90 percent of near-Earth asteroids larger than a kilometre, the kind that could cause global disaster, have been found, and none poses a known threat for at least the next century.",
+   "t": "Scientists believe more than 90 per cent of near-Earth asteroids larger than a kilometre, the kind that could cause global disaster, have been found, and none poses a known threat for at least the next century.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -687,13 +687,7 @@
    "ps": false
   },
   {
-   "t": "New facilities, including the Vera C.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rubin Observatory in Chile and planned space telescopes, should find many more.",
+   "t": "New facilities, including the Vera C. Rubin Observatory in Chile and planned space telescopes, should find many more.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -717,7 +711,7 @@
    "ps": false
   },
   {
-   "t": "In 2004 the asteroid Apophis, about 340 metres wide, briefly showed a chance of nearly 3 percent of hitting Earth in 2029.",
+   "t": "In 2004 the asteroid Apophis, about 340 metres wide, briefly showed a chance of nearly 3 per cent of hitting Earth in 2029.",
    "c": 2,
    "k": "s",
    "ps": true

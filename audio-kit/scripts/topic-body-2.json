@@ -231,7 +231,7 @@
    "ps": true
   },
   {
-   "t": "In a fever the brain has raised its set point and the body still regulates around it, so infection fevers rarely climb much above about 41 degrees.",
+   "t": "In a fever the brain still regulates around its raised set point, so infection fevers rarely climb much above about 41 degrees.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -501,7 +501,7 @@
    "ps": true
   },
   {
-   "t": "In Australia and similar countries a common cause is cancer treatment, because surgery or radiation may damage lymph nodes.",
+   "t": "In Australia a common cause is cancer treatment, because surgery or radiation may damage lymph nodes.",
    "c": 1,
    "k": "s",
    "ps": false

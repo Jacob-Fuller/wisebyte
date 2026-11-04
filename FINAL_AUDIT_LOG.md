@@ -16,13 +16,95 @@ audio rebuild), Phase E (code), Phase F (App Store readiness), final checks.
 ### Batches
 | Batch | Scope | Status |
 |---|---|---|
-| L01-L12 | lesson files (≈67 lessons each) | running |
-| Q | quotes (index.html QUOTES, quotes2.js) | running |
-| V1 | words.js, words2.js | running |
-| V2 | words3.js | running |
-| K1 | think.js, think2.js, timeline.js | running |
-| K2 | think3.js | running |
-| IN | inner.js, inner2.js, inner3.js | running |
-| S1 | scroll/index.html | running |
-| S2 | scroll/more.js | running |
-| GO | go/index.html audio scripts (report only) | running |
+| L01-L12 | lesson files (≈67 lessons each) | done |
+| Q | quotes (index.html QUOTES, quotes2.js) | done |
+| V1 | words.js, words2.js | done |
+| V2 | words3.js | done |
+| K1 | think.js, think2.js, timeline.js | done |
+| K2 | think3.js | done |
+| IN | inner.js, inner2.js, inner3.js | done |
+| S1 | scroll/index.html | done |
+| S2 | scroll/more.js | done |
+| GO | go/index.html audio scripts (report only) | done |
+
+## Phases A-C results (facts, quality, quizzes)
+
+### Counts
+| Batch | Reviewed | Facts corrected | Softened | Other notable |
+|---|---|---|---|---|
+| L01 | 68 lessons | 6 | 1 | 6 questions rewritten, 8 reordered |
+| L02 | 68 | 4 | 2 | 14 pages trimmed, 5 rewritten + 9 rebalanced questions, 32 reordered |
+| L03 | 68 | 2 | 0 | existentialism quiz re-pointed (4 of 5 pointed at wrong pages), 107 answers rebalanced |
+| L04 | 68 | 1 | 2 | 8 questions fixed (incl. first-aid snoring distractor) |
+| L05 | 68 | 3 | 2 | 35 rewritten so the answer isn't the longest, 47 reordered |
+| L06 | 67 | 3 | 1 | 18 questions touched, 1 level changed |
+| L07 | 66 | 6 | 4 | 47 rewritten (≈22 trivia → takeaway), ≈70 reordered |
+| L08 | 65 | 1 | 1 | 103 questions rebalanced, 19 pages trimmed |
+| L09 | 65 | 4 | 1 | 3 rewritten, 26 rebalanced, 13 reordered |
+| L10 | 65 | 3 | 1 | 4 rewritten, 27 reordered |
+| L11 | 67 | 4 | 2 | sleep quiz rebuilt, 51 questions touched |
+| L12 | 67 | 6 | 0 | ≈50 pages trimmed, 43 reordered |
+| Quotes | 197 | 7 | 2 | 29 translator/source labels added or fixed; 0 fakes found |
+| Words (V1+V2) | 1,000 | 38 | 3 | IPA moved to British/Australian forms; antonyms that made wrong quiz questions fixed |
+| Arena (K1+K2) | 1,233 | 5 | 4 | 2 ambiguous puzzles replaced, 1 duplicate puzzle replaced |
+| Inner Circle | 238 | 6 | 3 | 2 riddles that were silently filtered out are shown again |
+| Scroll | 2,998 | 8 | 2 | Lifeline added to R U OK? card |
+
+Answer spread A/B/C/D: 23/32/26/19% before, 24/21/29/26% after.
+
+### Factual corrections (with sources)
+- superannuation: Division 296 tax on earnings above $3m from 1 July 2026 (https://www.csc.gov.au/advisers/news/2026-05-better-targeted-super-concessions)
+- tax-basics: CGT discount replaced by indexation for gains from 1 July 2027; $1,000 standard work-expense deduction from 2026-27 (https://treasury.gov.au/policy-topics/taxation/budget2026-27, https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/deductions-you-can-claim/work-related-deductions/standard-deduction-for-work-related-expenses)
+- reading-your-payslip: super guarantee 12%; Payday Super from 1 July 2026 (https://www.fairwork.gov.au/newsroom/news/payday-super-new-rules-starting-1-july-2026)
+- stock-market: insider trading maximum 15 years, not 10 (https://asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-163mr-charges-laid-in-platinum-asset-management-insider-trading-case/)
+- retirement: intend to retire ~65, retirees as a whole stopped ~57 (https://www.abs.gov.au/statistics/labour/employment-and-unemployment/retirement-and-retirement-intentions-australia/2022-23)
+- home-fire-safety: Queensland interconnected photoelectric alarms required from 1 Jan 2027 (https://www.qld.gov.au/emergency/safety/smoke-alarms)
+- sleep: glymphatic clearance now presented as debated after a 2024 study (https://www.nature.com/articles/s41593-024-01638-y.pdf)
+- wildlife: horses 74 deaths vs all venomous creatures 64 (2000-2013); bees/wasps = snakes (https://pursuit.unimelb.edu.au/articles/venomous-stings-and-bites-lie-close-to-home)
+- renewable-energy: Snowy 2.0 more than $20 billion (https://thenightly.com.au/australia/snowy-hydro-20-cost-could-blows-out-to-25-billion-more-than-12-times-original-cost-of-2-billion-c-23060598)
+- science-of-pain: one in five aged 45+ (https://www.aihw.gov.au/reports/chronic-disease/chronic-pain-in-australia/summary)
+- heart-blood and Scroll: "100,000 km of blood vessels" debunked; capillaries ≈9,000-19,000 km (https://www.uniladtech.com/news/video-debunks-oldest-lie-on-the-internet-950228-20241030)
+- bahai-faith: more than 200 executed or killed since 1979 (https://www.internationalaffairs.org.au/australianoutlook/unpacking-the-bahai-question-46-years-of-institutionalised-state-sponsored-persecution-against-the-bahais-in-iran/)
+- manipulation-tactics: Tasmania's Family Violence Act 2004 offences; SA coercive control law passed (https://www.legislation.tas.gov.au/view/whole/html/asmade/act-2004-067, https://dhs.sa.gov.au/news/2025/sa-passes-coercive-control-laws)
+- toilets-sewers: more than 3 billion lack safely managed sanitation (WHO/UNICEF)
+- rockets: WRESAT made Australia the third nation to launch from its own territory (https://en.wikipedia.org/wiki/WRESAT)
+- titanic-sinking: Carpathia about 100 km away (https://www.britannica.com/topic/Carpathia)
+- kodak-disruption: peak workforce more than 140,000 (https://rbj.net/2012/01/27/rise-and-decline-an-eastman-kodak-chronology/)
+- sun-safety: solariums banned 2015 (WA 2016) (https://www.cancer.org.au/about-us/policy-and-advocacy/prevention/uv-radiation/related-resources/solariums)
+- population: fertility ~1.5 in 2024 (ABS 1.481)
+- constitution-au: 1967 referendum wording aligned with referendum-1967
+- the-dismissal-1975: Albert Field correctly described (https://en.wikipedia.org/wiki/Albert_Field)
+- art-forgery: Gant and Siddique acquitted 2017 (https://www.supremecourt.vic.gov.au/news/judgment-handed-down-in-gant-and-siddique-v-the-queen)
+- periodic-table: about half of heavy elements made slowly in giant stars (s-process)
+- greek-heroes: Argos recognised Odysseus first, not only
+- bayeux-tapestry: 2026-27 loan to the British Museum (https://www.gov.uk/government/news/bayeux-tapestry-to-go-on-display-at-the-british-museum-in-2026)
+- power-of-doubling: chessboard arithmetic fixed
+- patient-hm, gold-rush, telescopes, piltdown, nietzsche, language-origins, code-of-hammurabi: detail corrections (sources in batch reports)
+- Quotes: Gandhi "Strength does not come from physical capacity" sourced to Young India 1920; Leonardo "Iron rusts" sourced to Codex Atlanticus; Stoic translators labelled (Hays, Long, Gummere, Basore, Oldfather, Higginson); Epicurus PD 27 restored to Hicks; Emerson, Gretzky, Sun Tzu re-attributed or labelled
+- Arena: Equatorial Guinea capital → Ciudad de la Paz (Jan 2026 decree, https://www.africanews.com/2026/01/05/equatorial-guinea-relocates-capital/); Eiffel Tower height-in-heat claim corrected; Armstrong date for Australia
+- Words: citation, scrappy (Australian senses), usury, watchdog, secular examples; 12 IPA vowels; fickle, fraught, combative, rift etymologies
+- Scroll: Pisa lean date, Dhammapada wording, Maldives height, Longyearbyen polar night, NZ suffrage petition
+
+### Human-verification list from CONTENT_OVERHAUL_LOG (closed)
+- Equatorial Guinea capital: updated (see above). Bolivia: "Sucre" (bracket gave the answer away).
+- Gandhi and Leonardo quotes: genuine, sources added. Stoic translator wording: labelled per translator.
+- Super Guarantee (12%), AUSTRAC crypto-ATM $5,000 cap, property-investing tax rules, Artemis II (flew April 2026), Mars Sample Return (funding ended Jan 2026), UN city figures: checked, updated where needed.
+- Wills (marriage revokes a will), cooling-off periods, smoke alarms (Qld 2027): checked, updated.
+- First aid against ANZCOR: CPR, DRSABCD, choking (back blows then chest thrusts), burns, snakebite, FAST: consistent.
+- Study attributions in the Practical and Facts Scroll sets: checked (2 by web, rest by reference knowledge); no errors found.
+
+### Disclaimer mapping (added to engine.js)
+LAW +14, MONEY +11, HEALTH +20, MIND +7, new SAFETY list +18 (from the batch reports).
+
+## Verification pass
+Six fresh verifiers re-checked 100% of changed lesson items (all reorders confirmed to point at the same correct option) and every factual change against sources.
+Fixes: Tasmania 2004 Act wording, hiring-a-tradie option length, how-democracy Rome sentence restored, population "third billion around 1960" restored, climate-change renewables "more than 40%", bank-runs wording, earth-structure solar-wind definition restored, tax-basics distractor, cells stray comma.
+
+## Audio needing re-recording (Wisebyte Go originals)
+These four are withheld from the app until re-recorded; corrected scripts are in audio-kit/scripts/:
+1. empires: Rapa Nui / Greenland sections were out of order; "James C. Scott" split mid-sentence; Carthage wording.
+2. focus: Killingsworth & Gilbert finding misstated (pleasant daydreams made people no happier, not less happy).
+3. aussie: "bottle shop is two syllables" (it's three); First Fleet "large number of Irish" (Irish transports began 1791).
+4. fallacies: the word "whataboutism" dates from 1974-93, not the Cold War; the tactic is associated with it.
+Optional: drift unit 146 ("a path that the word very has already travelled").
+The narration splitter no longer breaks sentences at initials (the cause of the "James C." split).

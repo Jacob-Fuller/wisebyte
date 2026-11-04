@@ -106,16 +106,10 @@
    "ps": true
   },
   {
-   "t": "In 1955, historian C.",
+   "t": "In 1955, historian C. Northcote Parkinson wrote that 'work expands so as to fill the time available for its completion.'",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Northcote Parkinson wrote that 'work expands so as to fill the time available for its completion.'",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Give yourself a week for a report and it takes a week.",
@@ -154,7 +148,7 @@
    "ps": false
   },
   {
-   "t": "Check how long similar tasks really took, then add a buffer, often 50% or more.",
+   "t": "Check how long similar tasks really took, then add a buffer, often 50 per cent or more.",
    "c": 0,
    "k": "s",
    "ps": false

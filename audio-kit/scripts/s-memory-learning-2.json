@@ -159,22 +159,10 @@
    "ps": true
   },
   {
-   "t": "Most textbooks group practice: twenty problems of type A, then twenty of type B.",
+   "t": "Most textbooks group practice: twenty problems of type A, then twenty of type B. Interleaving mixes them: A, C, B, A, C. It feels messier and scores during practice are usually worse, but later performance is better, because you learn to recognise which approach each problem needs.",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "Interleaving mixes them: A, C, B, A, C.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It feels messier and scores during practice are usually worse, but later performance is better, because you learn to recognise which approach each problem needs.",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "It works best for related skills that are easy to confuse, like different equations or tennis shots.",
@@ -393,13 +381,7 @@
    "ps": false
   },
   {
-   "t": "J.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Masicampo and Roy Baumeister found that reminding people of an unfinished goal made their minds wander more and hurt performance on an unrelated task.",
+   "t": "J. Masicampo and Roy Baumeister found that reminding people of an unfinished goal made their minds wander more and hurt performance on an unrelated task.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -831,7 +813,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Part of your mind staying on the previous task.",
+   "t": "Answer. Your mind lingering on the previous task.",
    "c": 3,
    "k": "a",
    "ps": false
@@ -843,7 +825,7 @@
    "ps": false
   },
   {
-   "t": "Answer. They chose easier tasks and did worse after setbacks.",
+   "t": "Answer. They avoided challenges and wilted after setbacks.",
    "c": 3,
    "k": "a",
    "ps": false

@@ -58,7 +58,7 @@
    "ps": false
   },
   {
-   "t": "A five-year bond with a $100 face value and a 4% coupon pays $4 a year, usually in instalments, then returns the $100 at the end.",
+   "t": "A five-year bond with a $100 face value and a 4 per cent coupon pays $4 a year, usually in instalments, then returns the $100 at the end.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -136,19 +136,19 @@
    "ps": true
   },
   {
-   "t": "Imagine you hold a bond paying 3% a year.",
+   "t": "Imagine you hold a bond paying 3 per cent a year.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Then interest rates rise and new bonds pay 5%.",
+   "t": "Then interest rates rise and new bonds pay 5 per cent.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Nobody will pay full price for your 3% bond when they can get 5% elsewhere, so its market price falls until its effective return, called its yield, matches the new rate.",
+   "t": "Nobody will pay full price for your 3 per cent bond when they can get 5 per cent elsewhere, so its market price falls until its effective return, called its yield, matches the new rate.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -196,13 +196,7 @@
    "ps": false
   },
   {
-   "t": "Unusually, shares fell at the same time, so balanced portfolios had few places to hide.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Inflation is another danger: a fixed 3% coupon buys less each year if prices rise 6%.",
+   "t": "Inflation is another danger: a fixed 3 per cent coupon buys less each year if prices rise 6 per cent.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -484,7 +478,7 @@
    "ps": false
   },
   {
-   "t": "Australia is only around 2% of global share markets, yet many Australians hold mostly local shares.",
+   "t": "Australia is only around 2 per cent of global share markets, yet many Australians hold mostly local shares.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -664,7 +658,7 @@
    "ps": true
   },
   {
-   "t": "By the end of 2017, the index fund averaged about 7% a year, the hedge funds about 2%.",
+   "t": "By the end of 2017, the index fund averaged about 7 per cent a year, the hedge funds about 2 per cent.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -688,13 +682,13 @@
    "ps": false
   },
   {
-   "t": "03% and 0.",
+   "t": "03 per cent and 0.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "3% a year, while active funds commonly charge 1% or more.",
+   "t": "3 per cent a year, while active funds commonly charge 1 per cent or more.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -706,7 +700,7 @@
    "ps": false
   },
   {
-   "t": "On a $100,000 investment over 30 years, earning 6% a year after fees instead of 7% leaves you with about $187,000 less.",
+   "t": "On a $100,000 investment over 30 years, earning 6 per cent a year after fees instead of 7 per cent leaves you with about $187,000 less.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -760,7 +754,7 @@
    "ps": false
   },
   {
-   "t": "Australian shares make up only about 2% of world markets, and the ASX is dominated by banks and miners.",
+   "t": "Australian shares make up only about 2 per cent of world markets, and the ASX is dominated by banks and miners.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -898,7 +892,7 @@
    "ps": false
   },
   {
-   "t": "2%.",
+   "t": "2 per cent.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -976,13 +970,13 @@
    "ps": false
   },
   {
-   "t": "If the property rises 10%, it gains $60,000, which is 50% of your own money.",
+   "t": "If the property rises 10 per cent, it gains $60,000, which is 50 per cent of your own money.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "If it falls 10%, you lose $60,000, half your deposit, and still owe the full loan.",
+   "t": "If it falls 10 per cent, you lose $60,000, half your deposit, and still owe the full loan.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1030,19 +1024,13 @@
    "ps": false
   },
   {
-   "t": "A deduction only recovers part of a loss.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Capital gains tax applies when you sell an investment property.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The 50% discount for assets held over 12 months is being replaced from 1 July 2027 by indexing the cost base for inflation, with a 30% minimum tax; gains built up before then keep the discount.",
+   "t": "The 50 per cent discount for assets held over 12 months is being replaced from 1 July 2027 by indexing the cost base for inflation, with a 30 per cent minimum tax; gains built up before then keep the discount.",
    "c": 3,
    "k": "s",
    "ps": false

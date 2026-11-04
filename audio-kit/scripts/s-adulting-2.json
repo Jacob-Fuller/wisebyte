@@ -178,12 +178,6 @@
    "ps": false
   },
   {
-   "t": "Keep records; they help resale value.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Car batteries typically last three to five years, often less in hot climates.",
    "c": 0,
    "k": "s",
@@ -226,7 +220,7 @@
    "ps": false
   },
   {
-   "t": "Driving at 110 km/h uses noticeably more fuel than at 90 or 100.",
+   "t": "Driving at 110 kilometres an hour uses noticeably more fuel than at 90 or 100.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -377,12 +371,6 @@
   },
   {
    "t": "Private sales are often cheaper, but the car is largely sold as it is, with generally no cooling-off period.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Auctions can offer bargains, but you usually cannot test drive and recourse is limited.",
    "c": 1,
    "k": "s",
    "ps": false

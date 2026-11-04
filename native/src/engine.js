@@ -635,16 +635,17 @@ const DISCLAIMERS = {
   safety: "General information only, not a substitute for first aid training or official emergency advice. In an emergency, call Triple Zero (000).",
   mind: "Educational content, not a substitute for professional support. If you're struggling, call Lifeline on 13 11 14 or talk to your GP.",
 };
-const LAW_IDS = ["legal-system-au", "constitution-au", "contracts", "consumer-rights", "workplace-rights", "renting", "start-business-au", "making-a-will", "contractor-or-employee", "burnout-and-disconnecting"];
-const MONEY_IDS = ["lodging-your-tax-return", "super-housekeeping", "comparing-personal-loans", "getting-out-of-debt", "big-purchases-bnpl", "building-an-emergency-fund", "income-protection-insurance", "private-health-insurance-decoded", "making-an-insurance-claim"];
-const HEALTH_IDS = ["medicare-and-finding-a-gp", "building-a-better-sleep-routine"];
-const MIND_IDS = ["manipulation-tactics", "gaslighting", "cults", "dark-triad", "stress", "resilience", "emotional-regulation", "boundaries", "attachment", "conflict"];
+const LAW_IDS = ["legal-system-au", "constitution-au", "contracts", "consumer-rights", "workplace-rights", "renting", "start-business-au", "making-a-will", "contractor-or-employee", "burnout-and-disconnecting", "trial-by-jury", "ai-images", "mabo-native-title", "complaints-that-get-results", "buying-a-used-car", "mygov-and-government-services", "reading-your-payslip", "asking-for-a-pay-rise", "leaving-a-job-well", "hiring-a-tradie", "privacy", "after-someone-dies", "human-rights", "moving-house-checklist"];
+const MONEY_IDS = ["lodging-your-tax-return", "super-housekeeping", "comparing-personal-loans", "getting-out-of-debt", "big-purchases-bnpl", "building-an-emergency-fund", "income-protection-insurance", "private-health-insurance-decoded", "making-an-insurance-claim", "cutting-household-bills", "blockchain", "cut-power-water-bills", "buying-a-home-step-by-step", "scams", "economic-moats", "mcdonalds-franchising", "cash-flow", "business-model", "valuing-a-business", "choice-overload"];
+const HEALTH_IDS = ["medicare-and-finding-a-gp", "building-a-better-sleep-routine", "deja-vu", "refrigeration", "travelling-overseas-smoothly", "antibiotics", "science-vs-pseudoscience", "emergency-department-explained", "placebo", "fungi", "ants", "heart-attack-stroke-signs", "ai-in-medicine", "scurvy-vitamin-c", "tin-can", "fermentation-microbes", "children-learning-language", "sous-vide-precision", "rice-staple-grain", "kitchen-myths-busted", "gardening-australia-basics", "meal-planning"];
+const MIND_IDS = ["manipulation-tactics", "gaslighting", "cults", "dark-triad", "stress", "resilience", "emotional-regulation", "boundaries", "attachment", "conflict", "impostor-phenomenon", "false-memories", "learned-helplessness", "stockholm-syndrome", "sleep-paralysis", "personality", "using-ai-well"];
+const SAFETY_IDS = ["digital-security", "reptiles", "acids-bases", "electricity", "cleaning-science-stains", "keeping-pests-out", "diy-toolkit-basics", "tornadoes", "eclipses", "wildlife", "volcanoes-earthquakes", "home-maintenance", "car-basics", "lightning-thunderstorms", "tropical-cyclones", "coastlines-beaches", "jump-start-and-flat-tyre", "map-and-compass"];
 export function disclaimerFor(l) {
   if (LAW_IDS.includes(l.id)) return DISCLAIMERS.law;
   if (MIND_IDS.includes(l.id) || l.cat === "emotions") return DISCLAIMERS.mind;
   if (l.cat === "body" || HEALTH_IDS.includes(l.id) || l.id === "alcohol" || l.id === "food-safety") return DISCLAIMERS.health;
   if (l.cat === "money" || MONEY_IDS.includes(l.id)) return DISCLAIMERS.money;
-  if (l.cat === "safety") return DISCLAIMERS.safety;
+  if (l.cat === "safety" || SAFETY_IDS.includes(l.id)) return DISCLAIMERS.safety;
   return "";
 }
 

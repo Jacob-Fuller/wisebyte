@@ -88,16 +88,10 @@
    "ps": false
   },
   {
-   "t": "Every dollar spent is someone's output and someone's income, so GDP can be measured three ways: production, value added by industries, income, wages and profits, and expenditure: C + I + G +, X − M.",
+   "t": "Every dollar spent is someone's output and someone's income, so GDP can be measured three ways: production, value added by industries, income, wages and profits, and expenditure: C + I + G +, X − M. They never match perfectly, so statisticians reconcile them, and revisions are normal.",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "They never match perfectly, so statisticians reconcile them, and revisions are normal.",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Real and per person.",
@@ -106,7 +100,7 @@
    "ps": true
   },
   {
-   "t": "If prices rise 4% and output stays flat, the dollar value of GDP still rises about 4%.",
+   "t": "If prices rise 4 per cent and output stays flat, the dollar value of GDP still rises about 4 per cent.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -124,13 +118,13 @@
    "ps": false
   },
   {
-   "t": "5% last quarter' means.",
+   "t": "5 per cent last quarter' means.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Australia's real GDP has typically grown around 2 to 3% a year, and 3% growth doubles an economy in roughly 24 years.",
+   "t": "Australia's real GDP has typically grown around 2 to 3 per cent a year, and 3 per cent growth doubles an economy in roughly 24 years.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -155,12 +149,6 @@
   },
   {
    "t": "In 2023 and 2024 several quarters saw total GDP grow while per person GDP fell, a 'per capita recession'.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Averages say nothing about how income is shared.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -256,7 +244,7 @@
    "ps": true
   },
   {
-   "t": "Mining contributes roughly a tenth of GDP in many years and much more of exports, yet employs only around 2% of workers.",
+   "t": "Mining contributes roughly a tenth of GDP in many years and much more of exports, yet employs only around 2 per cent of workers.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -346,19 +334,13 @@
    "ps": true
   },
   {
-   "t": "When inflation is 3%, something that cost $100 last year costs about $103 today, so each dollar buys a little less.",
+   "t": "When inflation is 3 per cent, something that cost $100 last year costs about $103 today, so each dollar buys a little less.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Individual prices move around; petrol might jump while TVs get cheaper.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Inflation is about the overall level.",
+   "t": "Inflation is about the overall level, not any single price.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -424,13 +406,13 @@
    "ps": false
   },
   {
-   "t": "8% in late 2022.",
+   "t": "8 per cent in late 2022.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Extreme, runaway inflation is hyperinflation, often defined as prices rising more than 50% in a month.",
+   "t": "Extreme, runaway inflation is hyperinflation, often defined as prices rising more than 50 per cent in a month.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -484,13 +466,13 @@
    "ps": false
   },
   {
-   "t": "The Reserve Bank of Australia aims to keep inflation between 2% and 3%, focusing on the 2.",
+   "t": "The Reserve Bank of Australia aims to keep inflation between 2 per cent and 3 per cent, focusing on the 2.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "5% midpoint.",
+   "t": "5 per cent midpoint.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -562,7 +544,7 @@
    "ps": true
   },
   {
-   "t": "A 4% pay rise with 5% inflation is actually a 1% real pay cut.",
+   "t": "A 4 per cent pay rise with 5 per cent inflation is actually a 1 per cent real pay cut.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -664,7 +646,7 @@
    "ps": true
   },
   {
-   "t": "Since 1993 it has targeted inflation of 2 to 3% on average over time, while supporting full employment.",
+   "t": "Since 1993 it has targeted inflation of 2 to 3 per cent on average over time, while supporting full employment.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -706,13 +688,13 @@
    "ps": false
   },
   {
-   "t": "1% to 4.",
+   "t": "1 per cent to 4.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "35%, one of its fastest rises.",
+   "t": "35 per cent, one of its fastest rises.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -850,7 +832,7 @@
    "ps": false
   },
   {
-   "t": "Move too slowly and inflation becomes entrenched, as in the 1970s, when it topped 15% and took years to bring down.",
+   "t": "Move too slowly and inflation becomes entrenched, as in the 1970s, when it topped 15 per cent and took years to bring down.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -886,7 +868,7 @@
    "ps": false
   },
   {
-   "t": "The key idea: The cash rate is the overnight rate banks charge each other, and the RBA sets a target for it to keep inflation between 2 and 3%.",
+   "t": "The key idea: The cash rate is the overnight rate banks charge each other, and the RBA sets a target for it to keep inflation between 2 and 3 per cent.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -1072,7 +1054,7 @@
    "ps": false
   },
   {
-   "t": "From 1973, starting with a 25% across-the-board cut, Australian governments dismantled most of the protection they had given manufacturers.",
+   "t": "From 1973, starting with a 25 per cent across-the-board cut, Australian governments dismantled most of the protection they had given manufacturers.",
    "c": 3,
    "k": "s",
    "ps": false

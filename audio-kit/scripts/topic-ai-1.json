@@ -346,7 +346,7 @@
    "ps": false
   },
   {
-   "t": "At level 0 the human does everything, though the car may give warnings.",
+   "t": "At level 0 the human does everything.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -370,7 +370,13 @@
    "ps": false
   },
   {
-   "t": "Level 5, a car that can drive anywhere a person could, does not yet exist and is still a long way off.",
+   "t": "Level 4 robotaxis already carry paying passengers in parts of several US and Chinese cities.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Level 5, a car that can drive anywhere a person could, does not yet exist.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -928,13 +934,7 @@
    "ps": false
   },
   {
-   "t": "The same goes for tidying a messy room, cracking an egg or picking strawberries without bruising them.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A child can learn these tasks.",
+   "t": "Tidying a messy room or picking strawberries without bruising them is just as hard, though a child can learn both.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1132,13 +1132,7 @@
    "ps": false
   },
   {
-   "t": "Warehouses move shelves along mapped routes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia is a world leader in automated mining, with driverless haul trucks and trains in the Pilbara, where routes and tasks are tightly managed.",
+   "t": "Australia is a world leader in automated mining, with driverless haul trucks and trains in the Pilbara.",
    "c": 3,
    "k": "s",
    "ps": false

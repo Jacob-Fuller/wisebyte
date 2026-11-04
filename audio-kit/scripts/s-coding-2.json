@@ -195,16 +195,10 @@
    "ps": true
   },
   {
-   "t": "Suppose someone claims to have built a perfect checker, called H.",
+   "t": "Suppose someone claims to have built a perfect checker, called H. In the form usually taught today, the argument runs like this.",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "In the form usually taught today, the argument runs like this.",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "Build a program called Contrary that takes any program, asks H whether it halts when given its own code, and then does the opposite.",

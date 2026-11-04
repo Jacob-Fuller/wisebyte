@@ -64,7 +64,7 @@
    "ps": false
   },
   {
-   "t": "Half the time you gain 50, half the time you lose 40, so on average you gain 5 per cent per flip.",
+   "t": "On average you gain 5 per cent per flip.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -418,7 +418,7 @@
    "ps": false
   },
   {
-   "t": "The writer and former trader Nassim Nicholas Taleb popularised this thought experiment, and named the two worlds.",
+   "t": "The writer and former trader Nassim Nicholas Taleb named the two worlds.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -544,7 +544,7 @@
    "ps": true
   },
   {
-   "t": "The 80/20 rule is a loose rule of thumb inspired by his work, not a law of nature.",
+   "t": "The eighty-twenty rule is a loose rule of thumb inspired by his work, not a law of nature.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -718,7 +718,7 @@
    "ps": false
   },
   {
-   "t": "Whatever the other does, betrayal is better for you: it either sets you free or spares you the worst outcome.",
+   "t": "Whatever the other does, betrayal is better for you.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -730,13 +730,13 @@
    "ps": false
   },
   {
-   "t": "The mathematician John Nash showed this mutual betrayal is an equilibrium.",
+   "t": "Game theorists call this mutual betrayal a Nash equilibrium, after the mathematician John Nash.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It is stable not because it is good, but because neither player can escape it alone.",
+   "t": "It is stable not because it is good, but because neither player gains by changing alone.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -1102,12 +1102,6 @@
    "ps": false
   },
   {
-   "t": "A number is useful because it correlates with something you value.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "Reward the number and people find the cheapest ways to move it.",
    "c": 3,
    "k": "s",
@@ -1168,13 +1162,7 @@
    "ps": true
   },
   {
-   "t": "In 1936 the sociologist Robert K.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Merton described the unintended consequences of purposeful action, partly caused by focusing so hard on the goal that side effects are ignored.",
+   "t": "In 1936 the sociologist Robert K. Merton described the unintended consequences of purposeful action, partly caused by focusing so hard on the goal that side effects are ignored.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1192,22 +1180,10 @@
    "ps": true
   },
   {
-   "t": "The writer G.",
+   "t": "The writer G. K. Chesterton offered a parable in his 1929 book The Thing.",
    "c": 3,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "K.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Chesterton offered a parable in his 1929 book The Thing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "A reformer finds a fence across a road for no apparent reason and wants it torn down.",

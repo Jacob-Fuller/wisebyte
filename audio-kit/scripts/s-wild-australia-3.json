@@ -363,19 +363,25 @@
    "ps": false
   },
   {
-   "t": "But a study of hospital and coronial data from 2000 to 2013 found that only about 20 to 30 people died from animal-related causes each year, and most weren't from the animals you'd expect.",
+   "t": "But a study of hospital and coronial data from 2000 to 2013 found that the deadliest animal wasn't wild at all.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Horses and cattle caused more deaths than any wild animal, through falls, kicks and crushing.",
+   "t": "Horses caused 74 deaths in that time, through falls, kicks and crushing, more than all venomous creatures combined.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Bees and wasps, through severe allergic reactions called anaphylaxis, caused about as many as snakes.",
+   "t": "Bees and wasps, through severe allergic reactions called anaphylaxis, killed as many people as snakes did.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spiders put thousands in hospital but killed no one.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -447,7 +453,7 @@
    "ps": true
   },
   {
-   "t": "Around 300 people drown in Australia each year across all waterways.",
+   "t": "Around 300 or more people drown in Australia each year across all waterways.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -567,7 +573,7 @@
    "ps": false
   },
   {
-   "t": "The key idea: Australia's wildlife has a fearsome reputation, but familiar animals like horses and cattle cause more deaths than snakes or spiders.",
+   "t": "The key idea: Australia's wildlife has a fearsome reputation, but familiar animals like horses cause more deaths than snakes or spiders.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -891,7 +897,7 @@
    "ps": false
   },
   {
-   "t": "Question two. Why do horses and cattle cause more deaths than snakes in Australia?",
+   "t": "Question two. Why do horses cause more deaths in Australia than snakes do?",
    "c": 3,
    "k": "q",
    "ps": false

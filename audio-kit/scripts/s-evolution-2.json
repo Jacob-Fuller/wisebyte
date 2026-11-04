@@ -87,22 +87,10 @@
    "ps": true
   },
   {
-   "t": "The rungs of the DNA ladder are made of four chemical bases: adenine, A, thymine, T, cytosine, C, and guanine, G.",
+   "t": "The rungs of the DNA ladder are made of four chemical bases: adenine, A, thymine, T, cytosine, C, and guanine, G. A always pairs with T, and C always pairs with G. That means each strand is a complementary template for the other, so a cell can copy its DNA by unzipping the ladder and building new partner strands.",
    "c": 0,
    "k": "s",
    "ps": true
-  },
-  {
-   "t": "A always pairs with T, and C always pairs with G.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That means each strand is a complementary template for the other, so a cell can copy its DNA by unzipping the ladder and building new partner strands.",
-   "c": 0,
-   "k": "s",
-   "ps": false
   },
   {
    "t": "The human genome contains about 3 billion of these base pairs.",
@@ -195,7 +183,7 @@
    "ps": true
   },
   {
-   "t": "9% of their DNA.",
+   "t": "9 per cent of their DNA.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -207,7 +195,7 @@
    "ps": false
   },
   {
-   "t": "1%, around 3 million letters, accounts for differences in appearance and some disease risks.",
+   "t": "1 per cent, around 3 million letters, accounts for differences in appearance and some disease risks.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -483,13 +471,7 @@
    "ps": true
   },
   {
-   "t": "Most females have two X chromosomes; most males have one X and a much smaller Y.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If a male inherits a recessive variant on his single X, no second copy masks it.",
+   "t": "Most females have two X chromosomes; most males have one X and a much smaller Y. If a male inherits a recessive variant on his single X, no second copy masks it.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -579,7 +561,7 @@
    "ps": false
   },
   {
-   "t": "In 1974 in Ethiopia, Donald Johanson's team found about 40% of a skeleton they named Lucy, after the Beatles song playing in camp.",
+   "t": "In 1974 in Ethiopia, Donald Johanson's team found about 40 per cent of a skeleton they named Lucy, after the Beatles song playing in camp.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -717,7 +699,7 @@
    "ps": false
   },
   {
-   "t": "People with ancestry from outside Africa typically carry 1 to 2% Neanderthal DNA, and many Papua New Guineans and Aboriginal Australians carry several per cent Denisovan DNA.",
+   "t": "People with ancestry from outside Africa typically carry 1 to 2 per cent Neanderthal DNA, and many Papua New Guineans and Aboriginal Australians carry several per cent Denisovan DNA.",
    "c": 2,
    "k": "s",
    "ps": false

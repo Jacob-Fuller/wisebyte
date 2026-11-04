@@ -267,13 +267,7 @@
    "ps": true
   },
   {
-   "t": "Smoking narrows blood vessels, diabetes can damage circulation, and collagen needs protein and vitamin C.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Healing also slows with age.",
+   "t": "Smoking narrows blood vessels, diabetes can damage circulation, and collagen needs protein and vitamin C. Healing also slows with age.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -549,7 +543,7 @@
    "ps": false
   },
   {
-   "t": "A recording captures only the airborne version, which is much closer to what others hear.",
+   "t": "A recording captures only the airborne version, which is closer to what others hear.",
    "c": 1,
    "k": "s",
    "ps": false

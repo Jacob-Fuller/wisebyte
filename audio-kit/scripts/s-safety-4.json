@@ -81,10 +81,16 @@
    "ps": false
   },
   {
-   "t": "Australian states and territories require smoke alarms, but rules differ; Queensland is moving to interconnected photoelectric alarms in every bedroom, hallway and level.",
+   "t": "Australian states and territories require smoke alarms, but rules differ.",
    "c": 0,
    "k": "s",
    "ps": true
+  },
+  {
+   "t": "In Queensland, from 1 January 2027 every home must have interconnected photoelectric alarms in each bedroom, hallway and level.",
+   "c": 0,
+   "k": "s",
+   "ps": false
   },
   {
    "t": "Test monthly, clean vents, and replace alarms about ten years old.",
@@ -957,7 +963,7 @@
    "ps": false
   },
   {
-   "t": "Answer. Smoke and gases.",
+   "t": "Answer. Smoke and poisonous gases.",
    "c": 3,
    "k": "a",
    "ps": false

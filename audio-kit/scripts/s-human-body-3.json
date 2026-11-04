@@ -321,7 +321,7 @@
    "ps": true
   },
   {
-   "t": "Lay an adult's skin flat and it would cover roughly two square metres, about the area of a single bed, and weigh several kilograms.",
+   "t": "Lay an adult's skin flat and it would cover roughly two square metres, and weigh several kilograms.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -411,12 +411,6 @@
    "ps": false
   },
   {
-   "t": "Eyelid skin is delicate, while the soles of your feet are thick.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
    "t": "At the base of the epidermis, cells divide constantly and are pushed upwards, filling with keratin and dying on the way.",
    "c": 1,
    "k": "s",
@@ -477,13 +471,7 @@
    "ps": false
   },
   {
-   "t": "Scientists think skin colour varies so much because our ancestors lived under very different levels of sunlight, balancing protection from UV against the need to make vitamin D.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In a high-UV country like Australia, sun protection matters for everyone.",
+   "t": "Scientists think skin colour varies so much because our ancestors lived under very different levels of sunlight, balancing protection from UV against the need to make vitamin D. In a high-UV country like Australia, sun protection matters for everyone.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -897,13 +885,13 @@
    "ps": false
   },
   {
-   "t": "Question one. What do osteoblasts do?",
+   "t": "Question one. Why is bone described as living tissue?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Build new bone.",
+   "t": "Answer. It is constantly broken down and rebuilt.",
    "c": 3,
    "k": "a",
    "ps": false
@@ -921,13 +909,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What is proprioception?",
+   "t": "Question three. How can you touch your nose with your eyes closed?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Sensing limb position without looking.",
+   "t": "Answer. A sense tells you where your limbs are.",
    "c": 3,
    "k": "a",
    "ps": false

@@ -364,7 +364,7 @@
    "ps": false
   },
   {
-   "t": "Since 2 × 2 × 2 is 8 and 2 × 2 × 2 × 2 is 16, multiplying 8 by 16 means adding the counts of twos, 3 plus 4, to get 7 twos.",
+   "t": "Since 2 times 2 times 2 is 8 and 2 times 2 times 2 times 2 is 16, multiplying 8 by 16 means adding the counts of twos, 3 plus 4, to get 7 twos.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -442,7 +442,7 @@
    "ps": false
   },
   {
-   "t": "204, look up the number with that logarithm, and you find 16, which is 2 × 8.",
+   "t": "204, look up the number with that logarithm, and you find 16, which is 2 times 8.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -754,13 +754,13 @@
    "ps": false
   },
   {
-   "t": "Check it: 1 cubed plus 12 cubed is 1 + 1,728, which is 1,729.",
+   "t": "Check it: 1 cubed plus 12 cubed is 1 plus 1,728, which is 1,729.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "And 9 cubed plus 10 cubed is 729 + 1,000, which is also 1,729.",
+   "t": "And 9 cubed plus 10 cubed is 729 plus 1,000, which is also 1,729.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -790,7 +790,7 @@
    "ps": true
   },
   {
-   "t": "The number 4 has five: 4, 3+1, 2+2, 2+1+1 and 1+1+1+1.",
+   "t": "The number 4 has five: 4, 3 plus 1, 2 plus 2, 2 plus 1+1 and 1 plus 1+1 plus 1.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -844,7 +844,7 @@
    "ps": true
   },
   {
-   "t": "Doctors suspected tuberculosis, though the cause is still debated and some studies suggest a liver infection, amoebiasis.",
+   "t": "The cause is still debated; tuberculosis and a liver infection, amoebiasis, have both been suggested.",
    "c": 2,
    "k": "s",
    "ps": false
@@ -868,7 +868,7 @@
    "ps": false
   },
   {
-   "t": "His fast formulas for pi, published in 1914, were used by computer scientists in the 1980s to compute millions of digits.",
+   "t": "His 1914 formulas for pi later helped computers calculate millions of digits.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -1114,7 +1114,7 @@
    "ps": true
   },
   {
-   "t": "9 × t² metres in t seconds, ignoring air resistance.",
+   "t": "9 times t² metres in t seconds, ignoring air resistance.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1186,7 +1186,7 @@
    "ps": true
   },
   {
-   "t": "A steady 60 km/h for two hours is a rectangle on a speed graph, 60 high and 2 wide, so 120 kilometres.",
+   "t": "A steady 60 kilometres an hour for two hours is a rectangle on a speed graph, 60 high and 2 wide, so 120 kilometres.",
    "c": 3,
    "k": "s",
    "ps": false
@@ -1288,13 +1288,13 @@
    "ps": false
   },
   {
-   "t": "Answer. Hexagons enclose an area with the least wall, saving wax.",
+   "t": "Answer. They need the least wall, which saves wax.",
    "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Using powers of 2, why does 8 × 16 equal 128?",
+   "t": "Question two. Using powers of 2, why does 8 times 16 equal 128?",
    "c": 4,
    "k": "q",
    "ps": false

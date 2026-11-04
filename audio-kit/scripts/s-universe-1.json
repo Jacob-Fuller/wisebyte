@@ -82,7 +82,7 @@
    "ps": false
   },
   {
-   "t": "8% of the system's mass.",
+   "t": "8 per cent of the system's mass.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -106,13 +106,13 @@
    "ps": true
   },
   {
-   "t": "Mercury is the smallest planet, swinging from about 430°C by day to around minus 180°C at night.",
+   "t": "Mercury is the smallest planet, swinging from about 430 degrees by day to around minus 180 degrees at night.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Venus is hotter, about 465°C, because its thick carbon dioxide atmosphere traps heat.",
+   "t": "Venus is hotter, about 465 degrees, because its thick carbon dioxide atmosphere traps heat.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -148,7 +148,7 @@
    "ps": false
   },
   {
-   "t": "Neptune has winds around 2,000 km/h.",
+   "t": "Neptune has winds around 2,000 kilometres an hour.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -376,7 +376,7 @@
    "ps": true
   },
   {
-   "t": "Its diameter is about 95 percent of Earth's, its mass about 80 percent, and it is made of similar rock.",
+   "t": "Its diameter is about 95 per cent of Earth's, its mass about 80 per cent, and it is made of similar rock.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -394,7 +394,7 @@
    "ps": false
   },
   {
-   "t": "Venus's atmosphere is about 96 percent carbon dioxide, and so dense that surface pressure is around 90 times Earth's, like being nearly a kilometre deep in the ocean.",
+   "t": "Venus's atmosphere is about 96 per cent carbon dioxide, and so dense that surface pressure is around 90 times Earth's, like being nearly a kilometre deep in the ocean.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -424,7 +424,7 @@
    "ps": true
   },
   {
-   "t": "Its surface sits at roughly 465°C, day and night, from pole to equator.",
+   "t": "Its surface sits at roughly 465 degrees, day and night, from pole to equator.",
    "c": 1,
    "k": "s",
    "ps": false
@@ -743,12 +743,6 @@
   },
   {
    "t": "Galileo saw them in 1610 but his blurry telescope made him think Saturn had 'ears'; Christiaan Huygens worked out in the 1650s that they were a ring.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Whether they formed with Saturn or are much younger is still debated.",
    "c": 2,
    "k": "s",
    "ps": false

@@ -69,7 +69,7 @@
    "ps": true
   },
   {
-   "t": "The system predicted the sky reasonably well, but it needed ever more fixes, such as small circles within circles called epicycles, to match what astronomers actually saw.",
+   "t": "The system predicted the sky reasonably well, but only with awkward fixes, such as small circles riding on larger ones, called epicycles, to match what astronomers actually saw.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -567,7 +567,7 @@
    "ps": true
   },
   {
-   "t": "France was divided into three 'estates': the clergy, the nobility, and everyone else, about 97% of the population, who paid most of the taxes.",
+   "t": "France was divided into three 'estates': the clergy, the nobility, and everyone else, about 97 per cent of the population, who paid most of the taxes.",
    "c": 2,
    "k": "s",
    "ps": true
