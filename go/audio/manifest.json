@@ -322,6 +322,94 @@
     "m": 3633895
    },
    "h": "sanctum-entropy,sanctum-fermi,sanctum-replication,sanctum-collapse"
+  },
+  "s-adulting-1": {
+   "dur": {
+    "f": 1080.5,
+    "m": 1189.4
+   },
+   "size": {
+    "f": 2724299,
+    "m": 3010456
+   },
+   "h": "cooking,laundry-done-right,home-maintenance,hiring-a-tradie"
+  },
+  "s-adulting-3": {
+   "dur": {
+    "f": 1103.3,
+    "m": 1213.5
+   },
+   "size": {
+    "f": 2791119,
+    "m": 3082158
+   },
+   "h": "digital-security,first-aid,medicare-and-finding-a-gp,mygov-and-government-services"
+  },
+  "s-ai-1": {
+   "dur": {
+    "f": 1155.4,
+    "m": 1271.8
+   },
+   "size": {
+    "f": 2939003,
+    "m": 3243836
+   },
+   "h": "ai-history,expert-systems,machine-learning,gradient-descent"
+  },
+  "s-ai-2": {
+   "dur": {
+    "f": 835.1,
+    "m": 913.6
+   },
+   "size": {
+    "f": 2118675,
+    "m": 2331332
+   },
+   "h": "computer-vision,word-embeddings,ai-models"
+  },
+  "s-ai-3": {
+   "dur": {
+    "f": 856.2,
+    "m": 942.9
+   },
+   "size": {
+    "f": 2173405,
+    "m": 2398983
+   },
+   "h": "bitter-lesson,ai-images,using-ai-well"
+  },
+  "s-adulting-2": {
+   "dur": {
+    "f": 1085.2,
+    "m": 1195.2
+   },
+   "size": {
+    "f": 2742678,
+    "m": 3039603
+   },
+   "h": "car-basics,buying-a-used-car,renting,moving-house-checklist"
+  },
+  "s-ancient-greece-1": {
+   "dur": {
+    "f": 845.6,
+    "m": 929.7
+   },
+   "size": {
+    "f": 2148608,
+    "m": 2373416
+   },
+   "h": "greek-city-states,ancient-olympics,greek-democracy"
+  },
+  "s-ai-4": {
+   "dur": {
+    "f": 873.4,
+    "m": 962.2
+   },
+   "size": {
+    "f": 2220159,
+    "m": 2455602
+   },
+   "h": "ai-risks,specification-gaming,automation-and-jobs"
   }
  }
 }
