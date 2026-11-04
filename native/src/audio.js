@@ -7,7 +7,8 @@
    so newly recorded episodes appear without an app update. Files are downloaded before they play
    (a second or two), kept for offline use when the user downloads them, and tidied up otherwise.
    ========================================================= */
-import { createAudioPlayer, setAudioModeAsync } from "expo-audio";
+import { createAudioPlayer, setAudioModeAsync, setIsAudioActiveAsync } from "expo-audio";
+import { AppState } from "react-native";
 import * as FS from "expo-file-system/legacy";
 import CAT from "./data/episodes.json";
 import * as Store from "./storage";
@@ -42,21 +43,28 @@ export const isPsych = e => e.kind === "original" ? !!e.psy : e.lessons.some(id 
 /* ---------- state ---------- */
 const P0 = { voice: "f", rate: 1, trip: 35, len: 0, pos: {}, done: {}, days: {}, saved: {}, keep: {}, welcomed: false, driveNoticed: false };
 export const G = {
-  p: Object.assign({}, P0, Store.get("wbgo", {})),
-  manifest: Store.get("wbgo-manifest", null) || { v: 1, episodes: {} },
+  p: JSON.parse(JSON.stringify(P0)),
+  manifest: { v: 1, episodes: {} },
   cur: null, queue: [], playing: false, loading: false, status: "", t: 0, dur: 0,
   detail: {}, busy: {}, offline: false,
   seg: "listen", pillar: "all", libLen: 0, sheet: false, drive: false, showText: false, modal: null,
 };
-for (const k of ["pos", "done", "days", "saved", "keep"]) if (!G.p[k] || typeof G.p[k] !== "object") G.p[k] = {};
-if (!VOICES[G.p.voice]) G.p.voice = "f";
+/* read saved settings once device storage has loaded (called from init) */
+function loadPrefs() {
+  G.p = Object.assign(JSON.parse(JSON.stringify(P0)), Store.get("wbgo", {}));
+  for (const k of ["pos", "done", "days", "saved", "keep"]) if (!G.p[k] || typeof G.p[k] !== "object") G.p[k] = {};
+  if (!VOICES[G.p.voice]) G.p.voice = "f";
+  G.manifest = Store.get("wbgo-manifest", null) || { v: 1, episodes: {} };
+}
 let saveT = null;
 export function savePrefs(now) { clearTimeout(saveT); const go = () => Store.set("wbgo", G.p); if (now) go(); else saveT = setTimeout(go, 800); }
 
 /* live updates (position, transcript) go only to the player views, not the whole app */
 const live = new Set();
 export function subscribeLive(f) { live.add(f); return () => live.delete(f); }
-const tickLive = () => live.forEach(f => { try { f(); } catch (e) {} });
+let appActive = true;
+AppState.addEventListener("change", st => { appActive = st === "active"; if (appActive) tickLive(); });
+function tickLive() { if (appActive) live.forEach(f => { try { f(); } catch (e) {} }); }
 
 /* ---------- availability ---------- */
 const entry = id => G.manifest.episodes && G.manifest.episodes[id] || (BY[id] && BY[id].dur ? { dur: BY[id].dur } : null);
@@ -82,7 +90,8 @@ async function fetchManifest() {
 const baseFor = id => (G.manifest.episodes[id] && G.manifest.episodes[id].base) || G.manifest.base || HOST;
 
 /* ---------- files ---------- */
-const DIR = (FS.documentDirectory || "") + "wbaudio/";
+/* re-downloadable audio lives in Caches, which iCloud doesn't back up (Apple's storage guidelines) */
+const DIR = (FS.cacheDirectory || "") + "wbaudio/";
 const fileName = (id, v) => `${id}-${VOICES[v].file}.mp4`;
 const key = (id, v) => id + "-" + v;
 export const isSaved = (id, v = G.p.voice) => !!G.p.saved[key(id, v)] && !!G.p.keep[key(id, v)];
@@ -102,7 +111,16 @@ async function ensureDetail(id) {
   FS.writeAsStringAsync(path, txt).catch(() => {});
   return G.detail[id];
 }
-async function ensureAudio(id, v, onProgress) {
+const inflight = new Map();
+function ensureAudio(id, v, onProgress) {
+  const k = key(id, v);
+  if (inflight.has(k)) { const e = inflight.get(k); if (onProgress) e.listeners.add(onProgress); return e.promise; }
+  const listeners = new Set(onProgress ? [onProgress] : []);
+  const promise = fetchAudio(id, v, f => listeners.forEach(fn => { try { fn(f); } catch (e) {} })).finally(() => inflight.delete(k));
+  inflight.set(k, { promise, listeners });
+  return promise;
+}
+async function fetchAudio(id, v, onProgress) {
   await ensureDir();
   const k = key(id, v), path = DIR + fileName(id, v);
   if (G.p.saved[k]) { try { const i = await FS.getInfoAsync(path); if (i.exists && i.size > 1000) return path; } catch (e) {} delete G.p.saved[k]; }
@@ -116,7 +134,9 @@ async function ensureAudio(id, v, onProgress) {
   return path;
 }
 async function dropFile(id, v) {
-  const k = key(id, v); delete G.p.saved[k]; delete G.p.keep[k]; savePrefs();
+  const k = key(id, v);
+  if (G.cur === id && v === G.p.voice) { delete G.p.keep[k]; savePrefs(); return; }   /* playing now: keep the file, tidy it later */
+  delete G.p.saved[k]; delete G.p.keep[k]; savePrefs();
   await FS.deleteAsync(DIR + fileName(id, v), { idempotent: true }).catch(() => {});
 }
 
@@ -146,12 +166,14 @@ export async function removeAllDownloads() {
 }
 
 /* ---------- playback ---------- */
-let player = null, modeSet = false, pendingSeek = null, loadToken = 0, lastT = 0, lastSave = 0;
+let player = null, modeSet = false, pendingSeek = null, loadToken = 0, lastT = 0, lastSave = 0, loadedKey = null, lockOn = false;
+/* true only when the player holds the current episode in the current voice, and it's ready */
+const ready = () => !!player && loadedKey === key(G.cur, G.p.voice) && player.isLoaded;
 function getPlayer() {
   if (player) return player;
-  player = createAudioPlayer(null, { updateInterval: 250 });
+  player = createAudioPlayer(null, { updateInterval: 250, keepAudioSessionActive: true });
   player.addListener("playbackStatusUpdate", st => {
-    if (!G.cur) return;
+    if (!G.cur || loadedKey !== key(G.cur, G.p.voice) || !st.isLoaded) return;   /* ignore the previous item's events */
     if (st.isLoaded && pendingSeek != null) { const s = pendingSeek; pendingSeek = null; if (s > 0.5) player.seekTo(s).catch(() => {}); try { player.setPlaybackRate(G.p.rate); } catch (e) {} }
     const t = st.currentTime || 0;
     if (st.playing && t > lastT && t - lastT < 3) logListen((t - lastT) / (G.p.rate || 1));
@@ -159,7 +181,7 @@ function getPlayer() {
     const was = G.playing; G.playing = !!st.playing;
     if (st.isBuffering && st.playing && !G.status) G.status = "Loading…"; else if (!st.isBuffering && G.status === "Loading…") G.status = "";
     const now = Date.now();
-    if (now - lastSave > 2000) { lastSave = now; G.p.pos[G.cur] = { u: curUnit(), t }; savePrefs(); }
+    if (now - lastSave > 5000) { lastSave = now; G.p.pos[G.cur] = { u: curUnit(), t }; savePrefs(); }
     if (st.didJustFinish) { finishEpisode(); return; }
     if (was !== G.playing) { if (!G.playing) { G.p.pos[G.cur] = { u: curUnit(), t }; savePrefs(); } changed(); }
     tickLive();
@@ -170,13 +192,15 @@ async function setupMode() {
   if (modeSet) return; modeSet = true;
   try { await setAudioModeAsync({ playsInSilentMode: true, shouldPlayInBackground: true, interruptionMode: "doNotMix" }); } catch (e) {}
 }
+/* activate lock-screen controls once, then only update the metadata (re-activating stacks remote-command handlers) */
 function lockScreen(id) {
-  const e = BY[id], g = groupOf(e);
-  try { player.setActiveForLockScreen(true, { title: title(e), artist: "Wisebyte Go", albumTitle: g ? g.t : E.PILLAR_BY(e.p).name }, { showSeekForward: true, showSeekBackward: true }); } catch (err) {}
+  const e = BY[id], g = groupOf(e), meta = { title: title(e), artist: "Wisebyte Go", albumTitle: g ? g.t : E.PILLAR_BY(e.p).name };
+  try { if (!lockOn) { player.setActiveForLockScreen(true, meta, { showSeekForward: true, showSeekBackward: true }); lockOn = true; } else player.updateLockScreenMetadata(meta); } catch (err) {}
 }
 async function load(id, startAt, autoplay) {
   const token = ++loadToken, pl = getPlayer();
-  try { pl.pause(); } catch (e) {}
+  if (G.playing) { try { pl.pause(); } catch (e) {} }
+  loadedKey = null;
   G.cur = id; G.loading = true; G.playing = false; G.status = "Loading…"; G.t = startAt || 0; G.dur = durOf(id); lastT = G.t;
   changed();
   try {
@@ -185,6 +209,7 @@ async function load(id, startAt, autoplay) {
     if (token !== loadToken) return;
     await setupMode();
     pendingSeek = startAt || 0;
+    loadedKey = key(id, G.p.voice);
     pl.replace({ uri });
     try { pl.setPlaybackRate(G.p.rate); } catch (e) {}
     if (autoplay) pl.play();
@@ -197,35 +222,41 @@ async function load(id, startAt, autoplay) {
   }
   changed(); tickLive();
 }
-const startOf = id => { const p = G.p.pos[id], d = G.detail[id]; if (!p) return 0; return d && d.at[G.p.voice] ? Math.max(0, d.at[G.p.voice][Math.max(0, p.u)] - 0.2) : Math.max(0, (p.t || 0) - 2); };
+const startOf = id => { const p = G.p.pos[id], d = G.detail[id]; if (!p) return 0; return d && d.at && d.at[G.p.voice] ? Math.max(0, d.at[G.p.voice][Math.max(0, p.u)] - 0.2) : Math.max(0, (p.t || 0) - 2); };
 export async function play(id, fromQueue) {
   if (!available(id)) return;
   if (!fromQueue) G.queue = G.queue.filter(q => q !== id);
-  if (G.cur === id && player && player.isLoaded) { if (!G.playing) { player.play(); G.playing = true; changed(); } return; }
+  if (G.cur === id && ready()) {
+    if (!G.playing) { if (G.dur && G.t >= G.dur - 1) { player.seekTo(0).catch(() => {}); G.t = 0; } if (G.status && !G.loading) G.status = ""; player.play(); G.playing = true; changed(); }
+    return;
+  }
+  if (G.cur === id && G.loading) return;
   try { await ensureDetail(id); } catch (e) {}
   load(id, startOf(id), true);
 }
 export function playList(ids) { ids = ids.filter(available); if (!ids.length) return; G.queue = ids.slice(1); play(ids[0], true); }
 export function toggle() {
   if (!G.cur) return;
-  if (!player || !player.isLoaded) return play(G.cur);
+  if (G.loading) return;
+  if (!ready()) return play(G.cur);
   if (G.playing) return player.pause();
+  if (G.status) G.status = "";
   setupMode();
   if (G.dur && G.t >= G.dur - 1) { player.seekTo(0).catch(() => {}); G.t = 0; }
   player.play();
 }
-export function seek(t) { if (!player || !G.cur) return; const d = G.dur || durOf(G.cur); const x = Math.max(0, Math.min(d - 0.3, t)); G.t = x; player.seekTo(x).catch(() => {}); tickLive(); }
+export function seek(t) { if (!G.cur) return; if (!ready()) { pendingSeek = t; return; } const d = G.dur || durOf(G.cur); const x = Math.max(0, Math.min(d - 0.3, t)); G.t = x; player.seekTo(x).catch(() => {}); tickLive(); }
 export const skip = s => seek((G.t || 0) + s);
 export function setRate(r) { G.p.rate = r; savePrefs(); try { player && player.setPlaybackRate(r); } catch (e) {} changed(); }
 export function cycleRate() { setRate(RATES[(RATES.indexOf(G.p.rate) + 1) % RATES.length]); }
 export function setVoice(v) {
   if (!VOICES[v] || v === G.p.voice) return;
   const id = G.cur, d = id && G.detail[id];
-  if (id && d && player && player.isLoaded) {
+  if (id && d && ready() && d.at[v]) {
     const u = curUnit(), off = (G.t || 0) - d.at[G.p.voice][u], wasPlaying = G.playing;
     G.p.voice = v; savePrefs();
     load(id, d.at[v][u] + Math.max(0, off * 0.9), wasPlaying);
-  } else { G.p.voice = v; savePrefs(); changed(); }
+  } else { const was = G.loading && id; G.p.voice = v; savePrefs(); if (was) load(id, 0, true); else changed(); }
   toast(`${VOICES[v].name} narrator`);
 }
 function finishEpisode() {
@@ -235,23 +266,23 @@ function finishEpisode() {
   /* heard = covered: the lessons drop out of suggestions and Scroll, and their questions wait in Review */
   const n = E.markHeard(lessonsOf(e));
   if (n) toast(`${n === 1 ? "1 lesson" : n + " lessons"} added to your review`);
-  if (!G.p.keep[key(id, G.p.voice)]) dropFile(id, G.p.voice);
   const next = G.queue.shift();
   if (next) { load(next, startOf(next), true); return; }
   G.playing = false; G.status = "Finished. Pick another for the road."; changed();
 }
-export function stop() { try { player && player.pause(); player && player.clearLockScreenControls(); } catch (e) {} G.cur = null; G.queue = []; G.sheet = false; G.drive = false; G.playing = false; changed(); }
+export function stop() { loadToken++; pendingSeek = null; loadedKey = null; try { player && player.pause(); } catch (e) {} setIsAudioActiveAsync(false).catch(() => {}); G.cur = null; G.loading = false; G.status = ""; G.queue = []; G.sheet = false; G.drive = false; G.playing = false; changed(); }
 
 /* ---------- position helpers ---------- */
+const vk = d => d.at[G.p.voice] ? G.p.voice : Object.keys(d.at)[0];
 export function unitAt(id, t) {
-  const d = G.detail[id]; if (!d) return 0; const at = d.at[G.p.voice]; let lo = 0, hi = at.length - 1, r = 0;
+  const d = G.detail[id]; if (!d || !d.at) return 0; const at = d.at[vk(d)]; let lo = 0, hi = at.length - 1, r = 0;
   while (lo <= hi) { const mid = (lo + hi) >> 1; if (at[mid] <= t + 0.05) { r = mid; lo = mid + 1; } else hi = mid - 1; }
   return r;
 }
 export const curUnit = () => G.cur ? unitAt(G.cur, G.t || 0) : 0;
 export function chapterStarts(id) {
-  const d = G.detail[id]; if (!d) return []; const out = [];
-  d.units.forEach((u, i) => { if (u.k === "head" && out.length === u.c) out.push(d.at[G.p.voice][i]); });
+  const d = G.detail[id]; if (!d || !d.at) return []; const out = [], at = d.at[vk(d)];
+  d.units.forEach((u, i) => { if (u.k === "head" && out.length === u.c) out.push(at[i]); });
   return out;
 }
 export function curChapter() { const d = G.cur && G.detail[G.cur]; if (!d) return 0; return Math.max(0, d.units[curUnit()].c); }
@@ -269,7 +300,7 @@ export function prevChapter() {
   if (i < 0) return seek(0); seek(t - cs[i] > 4 ? cs[i] : cs[Math.max(0, i - 1)]);
 }
 export const seekChapter = c => { const cs = chapterStarts(G.cur); if (cs[c] != null) { seek(cs[c]); if (!G.playing) toggle(); } };
-export const seekUnit = u => { const d = G.detail[G.cur]; if (d) { seek(d.at[G.p.voice][u]); if (!G.playing) toggle(); } };
+export const seekUnit = u => { const d = G.detail[G.cur]; if (d && d.at) { seek(d.at[vk(d)][u]); if (!G.playing) toggle(); } };
 
 /* ---------- listening stats ---------- */
 function logListen(sec) { if (!(sec > 0)) return; const k = today(); G.p.days[k] = (G.p.days[k] || 0) + sec; }
@@ -317,7 +348,7 @@ export function groups() {
 }
 
 /* ---------- narrator preview ---------- */
-let prev = null, prevT = null;
+let prev = null, prevT = null, prevStart = null;
 export async function preview(v) {
   const id = "spotlight"; if (!available(id)) return;
   try {
@@ -326,9 +357,10 @@ export async function preview(v) {
     if (player && G.playing) player.pause();
     await setupMode();
     if (!prev) prev = createAudioPlayer(null);
-    clearTimeout(prevT); prev.replace({ uri });
-    const start = G.detail[id].at[v][2];
-    setTimeout(() => { try { prev.seekTo(start).catch(() => {}); prev.play(); } catch (e) {} }, 350);
+    clearTimeout(prevT); clearTimeout(prevStart); prev.replace({ uri });
+    const start = G.detail[id].at[v][2], t0 = Date.now();
+    const go = () => { if (!prev.isLoaded && Date.now() - t0 < 4000) { prevStart = setTimeout(go, 150); return; } try { if (prev.isLoaded) prev.seekTo(start).catch(() => {}); prev.play(); } catch (e) {} };
+    prevStart = setTimeout(go, 150);
     prevT = setTimeout(() => { try { prev.pause(); } catch (e) {} }, 11000);
   } catch (e) { toast("Couldn't load the sample. Check your connection."); }
 }
@@ -336,8 +368,10 @@ export async function preview(v) {
 /* files played but not downloaded are temporary: tidy those of finished or abandoned episodes */
 async function tidy() {
   for (const k of Object.keys(G.p.saved)) {
+    { const i = k.lastIndexOf("-"), id = k.slice(0, i), v = k.slice(i + 1);
+      try { const info = await FS.getInfoAsync(DIR + fileName(id, v)); if (!info.exists) { delete G.p.saved[k]; delete G.p.keep[k]; continue; } } catch (e) {} }
     if (G.p.keep[k]) continue; const i = k.lastIndexOf("-"), id = k.slice(0, i);
     if (!G.p.pos[id] && id !== "spotlight") await dropFile(id, k.slice(i + 1));
   }
 }
-export function init() { fetchManifest(); tidy().catch(() => {}); }
+export function init() { loadPrefs(); fetchManifest(); tidy().then(() => savePrefs()).catch(() => {}); }

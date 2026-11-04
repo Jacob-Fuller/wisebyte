@@ -66,6 +66,13 @@ function draw() {
   let p = BY_P[pp + "L"] && Math.random() < 0.5 ? pp + "L" : pp;
   if (!S.decks[p] || !S.decks[p].length) refill(p);
   if (!S.decks[p].length && p !== pp) { p = pp; if (!S.decks[p] || !S.decks[p].length) refill(p); }
+  const d = S.decks[p];
+  /* teaching points of a lesson covered since this deck was dealt are dropped */
+  for (let i = d.length - 1; i >= 0; i--) if (!usable(d[i])) d.splice(i, 1);
+  if (!d.length) { refill(p); if (!S.decks[p].length) { p = pp; refill(p); } return drawFrom(p, pp); }
+  return drawFrom(p, pp);
+}
+function drawFrom(p, pp) {
   const d = S.decks[p]; let idx = d.length - 1;
   for (let i = d.length - 1; i >= 0; i--) { if (d[i].cat !== S.lastCat && !S.onScreen.has(d[i].id)) { idx = i; break; } }
   const x = d.splice(idx, 1)[0]; S.lastCat = x.cat; S.lastP = p; return x;

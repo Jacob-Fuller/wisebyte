@@ -502,10 +502,10 @@ function PlayerBody() {
     </View>
   );
 }
-export function GoPlayer() {
+export function GoPlayer({ children }) {
   return (
     <Modal visible={!!(G.sheet && G.cur)} animationType="slide" presentationStyle="fullScreen" onRequestClose={() => { if (G.drive) G.drive = false; else G.sheet = false; changed(); }}>
-      <PlayerBody />
+      <PlayerBody />{children}
     </Modal>
   );
 }

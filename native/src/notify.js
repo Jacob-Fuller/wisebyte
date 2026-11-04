@@ -18,8 +18,14 @@ async function granted() {
   return p.granted || (p.ios && p.ios.status === Notifications.IosAuthorizationStatus.PROVISIONAL);
 }
 
-/* rebuild the next two weeks of notifications from the current state */
-export async function refresh() {
+/* rebuild the next two weeks of notifications from the current state (one run at a time) */
+let running = null, again = false;
+export function refresh() {
+  if (running) { again = true; return running; }
+  running = build().finally(() => { running = null; if (again) { again = false; refresh(); } });
+  return running;
+}
+async function build() {
   try {
     await Notifications.cancelAllScheduledNotificationsAsync();
     const n = E.state.notify;

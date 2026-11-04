@@ -20,6 +20,7 @@ import AccountScreen from "./screens/AccountScreen";
 import ScrollScreen from "./screens/ScrollScreen";
 import GoScreen, { MiniPlayer, GoPlayer } from "./screens/GoScreen";
 import * as Audio from "./audio";
+const G = Audio.G;
 import Player from "./Player";
 import Paywall from "./Paywall";
 import Sheets from "./Sheets";
@@ -106,13 +107,13 @@ function Root() {
       <View style={{ flex: 1 }}>{ui.tab === "scroll" ? <ScrollScreen /> : ui.tab === "go" ? <GoScreen /> : <Screen />}</View>
       <MiniPlayer />
       <TabBar />
-      <GoPlayer />
+      <GoPlayer>{G.sheet && G.cur && !playing ? <Toast /> : null}</GoPlayer>
       <Sheets host="root" />
       <Modal visible={playing} animationType="slide" presentationStyle="fullScreen" onRequestClose={E.closePlayer}>
         <Boundary><View style={{ flex: 1 }}><Player /><Sheets host="player" /><Toast /></View></Boundary>
       </Modal>
       <Paywall />
-      {!playing && !ui.paywall ? <Toast /> : null}
+      {!playing && !ui.paywall && !(G.sheet && G.cur) ? <Toast /> : null}
     </View>
   );
 }

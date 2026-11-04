@@ -258,7 +258,7 @@ export function loadState() {
   migrateQuotes();
 }
 /* replace the whole profile (cloud merge, reset) */
-export function setProfile(p) { store.profiles.adult = state = p; save(); }
+export function setProfile(p) { store.profiles.adult = state = p; save(); if (hooksNotify.refresh) setTimeout(hooksNotify.refresh, 0); }
 export const hooks = { onSave: null };
 let saveTimer = null;
 export function save() {
@@ -408,7 +408,7 @@ export const mastered = w => { const r = state.words[w]; return !!r && r.box >= 
 /* lessons due for review, including lessons only heard on audio (their questions turn "covered" into "mastered") */
 const dueOf = id => state.lessons[id] ? state.lessons[id].due : state.heard[id];
 export const allDueLessons = () => Object.keys(state.lessons).concat(Object.keys(state.heard).filter(id => !state.lessons[id]))
-  .filter(id => lessonById(id) && (lessonById(id).audience || "adult") === aud() && dueOf(id) <= today())
+  .filter(id => lessonById(id) && ((lessonById(id).audience || "adult") === aud() || lessonById(id).audience === "inner") && dueOf(id) <= today())
   .sort((a, b) => dueOf(a).localeCompare(dueOf(b)));
 export const REVIEW_CAP = 10;
 export const reviewsLeft = () => Math.max(0, REVIEW_CAP - (day().reviewed || 0));

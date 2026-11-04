@@ -109,3 +109,39 @@ These four are withheld from the app until re-recorded; corrected scripts are in
 Optional: drift unit 146 ("a path that the word very has already travelled").
 The narration splitter no longer breaks sentences at initials (the cause of the "James C." split).
 Non-lesson verifier (quotes, words, Arena, Inner Circle, Scroll): ≈70 factual changes re-checked. Fixes: Marcus Aurelius "Be one" relabelled Staniforth; Epictetus Enchiridion 1 relabelled Elizabeth Carter, "No man is free" relabelled George Long; Zeno "two ears" marked adapted from Hicks; Gandhi "The weak can never forgive" sourced to Young India 2 Apr 1931; blood-vessel figure traced to August Krogh's 1920s estimate. Equatorial Guinea decree (2 Jan 2026) confirmed; constitution names no capital, so the decree stands. Inner Circle keep-list now matches all 12 riddles (the structure script now errors if it ever doesn't).
+
+## Phase D results (courses, overlap, audio)
+- Courses: order fixed in 5 courses (revolutions, explorers, disasters, evolution, investing); economics description fixed.
+- 5 new courses from coherent groups of loose lessons: Empires, Trade and Nations; Plants, Soil and Ecosystems; Life Admin; AI in Everyday Life; Food That Shaped the World.
+- 117 of 122 loose lessons placed in courses where they fit. Left out on purpose: film-editing-invisible-art, first-nations-astronomy, dia-de-muertos, napier-logarithms, calculus-without-fear.
+- Duplicate questions fixed: optical-illusions q4, mental-models q2, investing-mistakes q0.
+- Overlaps differentiated: brain p3 (now brain-training myth; Lumosity FTC 2016), power-of-doubling p2, ethics p4 (PhilPapers 2020), famous-experiments p2 (Robbers Cave), index-funds p3 (ETFs vs managed funds), sound p1, business-model p3, islamic-golden-age-philosophy p0 (the mihna), consumer-rights p4 (unsolicited sales rules), percentages p4, animal-intelligence p0 (Morgan's Canon).
+- Audio: episodes regrouped (235). Psychology episode 2 now includes Cognitive dissonance, so its old recording was withdrawn automatically; it needs re-recording. Psychology episode 1 still matches and stays live.
+- Narration: units and symbols (%, °C, km/h, km, kg, ×, =, +) now read in words; sentences no longer split at initials.
+
+## Phase E results (code)
+Independent code review of the native app, then fixes:
+- Wisebyte Go settings, positions, downloads and history were read before device storage loaded, so they reset every launch: now loaded in init().
+- Queued trips could stop with the phone locked: the audio session now stays active between episodes (keepAudioSessionActive) and the player is only paused when playing.
+- The player could play or credit the wrong episode while another loaded: playback, seeking and progress now only act when the loaded file is the current episode in the current voice.
+- Seeking before a file was ready (possible crash) is deferred until it loads; narrator preview waits for its file.
+- Closing the player mid-load no longer starts audio; lock-screen controls activate once (repeated activation stacked headphone/car handlers so play/pause cancelled itself).
+- Duplicate simultaneous downloads of one file are merged; files of the playing episode are never deleted under it.
+- Replay after finishing starts from the beginning and clears "Finished".
+- Episodes missing one narrator's timings no longer crash the transcript or chapters.
+- Live updates pause while the app is in the background; progress saves every 5 seconds.
+- Audio now stored in Caches (not iCloud-backed-up Documents), per Apple's storage guidelines; missing files are detected at launch.
+- Toasts show over the full-screen player.
+- Inner Circle lessons heard on audio now appear in Review.
+- Scroll drops a covered lesson's teaching-point cards immediately, not just on the next deck refill.
+- Daily hint refresh runs one at a time (no duplicate notifications) and re-runs after cloud sync or reset.
+- Known, left as is: on two devices, each may plan a different lesson of the day for the same date (minor); "Reset all progress" is undone by the next cloud sync when signed in (merge only adds; pre-existing behaviour).
+Build: iOS JavaScript bundle exports cleanly; web copy screenshots checked for every main screen.
+
+## Phase F results (App Store readiness)
+- Privacy policy: adds audio downloads (file host sees IP address only), on-device listening history, locally scheduled notifications; account deletion path updated to the top-right account menu. Dated 4 November 2026.
+- Terms: progress backup wording and account deletion path updated. Support: progress backup and offline listening answers.
+- Paywall lists Wisebyte Go and Scroll; terms, privacy and restore links present; no content counts.
+- expo-audio microphone permission removed; background audio mode declared (UIBackgroundModes audio) for Wisebyte Go.
+- Disclaimers now cover 70 more money, law, health, mind and safety lessons, including audio episodes (the player shows the first matching disclaimer).
+- Note: the policy pages are served from wisebyte.app; publish the updated privacy.html, terms.html and support.html there.
