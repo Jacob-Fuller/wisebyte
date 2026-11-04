@@ -67,23 +67,23 @@ def main(argv):
         i = argv.index("--limit"); limit = int(argv[i + 1]); del argv[i:i + 2]
     ids = argv or sorted(f[:-5] for f in os.listdir(SCRIPTS) if f.endswith(".json"))
     mpath = os.path.join(OUT, "manifest.json")
-    manifest = json.load(open(mpath)) if os.path.exists(mpath) else {"v": 1, "episodes": {}}
+    manifest = json.load(open(mpath, encoding="utf-8")) if os.path.exists(mpath) else {"v": 1, "episodes": {}}
     todo = [e for e in ids if argv or e not in manifest["episodes"]]
     if limit: todo = todo[:limit]
     print(f"{len(todo)} episode(s) to record")
     kokoro = Kokoro(os.path.join(MODEL, "kokoro-v1.0.onnx"), os.path.join(MODEL, "voices-v1.0.bin"))
     for n, eid in enumerate(todo, 1):
         t0 = time.time()
-        s = json.load(open(os.path.join(SCRIPTS, eid + ".json")))
+        s = json.load(open(os.path.join(SCRIPTS, eid + ".json"), encoding="utf-8"))
         at, dur, size = {}, {}, {}
         for v, voice in VOICES.items():
             samples, at[v] = render(kokoro, s["units"], voice)
             dur[v] = round(len(samples) / RATE, 1)
             path = os.path.join(OUT, f"{eid}-{voice}.mp4")
             encode(samples, path); size[v] = os.path.getsize(path)
-        json.dump({"chapters": s["chapters"], "units": s["units"], "at": at, "dur": dur}, open(os.path.join(OUT, eid + ".json"), "w"), separators=(",", ":"))
+        json.dump({"chapters": s["chapters"], "units": s["units"], "at": at, "dur": dur}, open(os.path.join(OUT, eid + ".json"), "w", encoding="utf-8"), separators=(",", ":"))
         manifest["episodes"][eid] = {"dur": dur, "size": size, "h": s.get("h", "")}
-        json.dump(manifest, open(mpath, "w"), indent=1)   # saved after every episode, so a stopped run loses nothing
+        json.dump(manifest, open(mpath, "w", encoding="utf-8"), indent=1)   # saved after every episode, so a stopped run loses nothing
         print(f"[{n}/{len(todo)}] {eid}: {dur['f'] / 60:.1f} min, recorded in {(time.time() - t0) / 60:.1f} min")
 
 
