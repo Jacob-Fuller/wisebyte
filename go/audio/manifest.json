@@ -200,7 +200,8 @@
    "size": {
     "f": 2869234,
     "m": 3165363
-   }
+   },
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "focus": {
    "dur": {
@@ -255,7 +256,8 @@
     "f": 2825583,
     "m": 3120199
    },
-   "h": "habits,self-control-marshmallow,cognitive-biases,cognitive-dissonance"
+   "h": "habits,self-control-marshmallow,cognitive-biases,cognitive-dissonance",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "inner-1": {
    "dur": {
@@ -266,7 +268,8 @@
     "f": 3161337,
     "m": 3473528
    },
-   "h": "sanctum-godel,sanctum-bayes,sanctum-arrow,sanctum-hard-problem"
+   "h": "sanctum-godel,sanctum-bayes,sanctum-arrow,sanctum-hard-problem",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-20th-century-2": {
    "dur": {
@@ -277,7 +280,8 @@
     "f": 2552692,
     "m": 2813750
    },
-   "h": "holocaust,nuremberg-trials,maos-china"
+   "h": "holocaust,nuremberg-trials,maos-china",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-20th-century-1": {
    "dur": {
@@ -288,7 +292,8 @@
     "f": 2219539,
     "m": 2446627
    },
-   "h": "christmas-truce-1914,great-depression,dunkirk-evacuation"
+   "h": "christmas-truce-1914,great-depression,dunkirk-evacuation",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "inner-2": {
    "dur": {
@@ -299,7 +304,8 @@
     "f": 3045739,
     "m": 3359801
    },
-   "h": "sanctum-ergodicity,sanctum-fat-tails,sanctum-cooperation,sanctum-second-order"
+   "h": "sanctum-ergodicity,sanctum-fat-tails,sanctum-cooperation,sanctum-second-order",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-20th-century-3": {
    "dur": {
@@ -310,7 +316,8 @@
     "f": 2595264,
     "m": 2862200
    },
-   "h": "end-of-empires,civil-rights,apartheid-south-africa"
+   "h": "end-of-empires,civil-rights,apartheid-south-africa",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "inner-3": {
    "dur": {
@@ -321,7 +328,8 @@
     "f": 3312932,
     "m": 3633895
    },
-   "h": "sanctum-entropy,sanctum-fermi,sanctum-replication,sanctum-collapse"
+   "h": "sanctum-entropy,sanctum-fermi,sanctum-replication,sanctum-collapse",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-adulting-1": {
    "dur": {
@@ -332,7 +340,8 @@
     "f": 2724299,
     "m": 3010456
    },
-   "h": "cooking,laundry-done-right,home-maintenance,hiring-a-tradie"
+   "h": "cooking,laundry-done-right,home-maintenance,hiring-a-tradie",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-adulting-3": {
    "dur": {
@@ -343,7 +352,8 @@
     "f": 2791119,
     "m": 3082158
    },
-   "h": "digital-security,first-aid,medicare-and-finding-a-gp,mygov-and-government-services"
+   "h": "digital-security,first-aid,medicare-and-finding-a-gp,mygov-and-government-services",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-ai-1": {
    "dur": {
@@ -354,7 +364,8 @@
     "f": 2939003,
     "m": 3243836
    },
-   "h": "ai-history,expert-systems,machine-learning,gradient-descent"
+   "h": "ai-history,expert-systems,machine-learning,gradient-descent",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-ai-2": {
    "dur": {
@@ -365,7 +376,8 @@
     "f": 2118675,
     "m": 2331332
    },
-   "h": "computer-vision,word-embeddings,ai-models"
+   "h": "computer-vision,word-embeddings,ai-models",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-ai-3": {
    "dur": {
@@ -376,7 +388,8 @@
     "f": 2173405,
     "m": 2398983
    },
-   "h": "bitter-lesson,ai-images,using-ai-well"
+   "h": "bitter-lesson,ai-images,using-ai-well",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-adulting-2": {
    "dur": {
@@ -387,7 +400,8 @@
     "f": 2742678,
     "m": 3039603
    },
-   "h": "car-basics,buying-a-used-car,renting,moving-house-checklist"
+   "h": "car-basics,buying-a-used-car,renting,moving-house-checklist",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-ancient-greece-1": {
    "dur": {
@@ -398,7 +412,8 @@
     "f": 2148608,
     "m": 2373416
    },
-   "h": "greek-city-states,ancient-olympics,greek-democracy"
+   "h": "greek-city-states,ancient-olympics,greek-democracy",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   },
   "s-ai-4": {
    "dur": {
@@ -409,7 +424,8 @@
     "f": 2220159,
     "m": 2455602
    },
-   "h": "ai-risks,specification-gaming,automation-and-jobs"
+   "h": "ai-risks,specification-gaming,automation-and-jobs",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   }
  }
 }
