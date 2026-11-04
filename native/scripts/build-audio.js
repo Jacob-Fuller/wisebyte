@@ -147,6 +147,11 @@ const originals = ALL_LESSONS.filter(l => AUDIO[l.id] && !HELD.has(l.id)).map(l 
   return { id: l.id, kind: "original", t: l.t, d: l.d, p: l.p, psy: l.psy || undefined, series: s ? s.t : undefined, ep: l.ep, covers: COVERS[l.id] || [], note: NOTES[l.id] ? NOTE[NOTES[l.id]] : undefined, lessons: [] };
 });
 
+/* temporary narrator tests (Chatterbox candidates), shown as a "Voice test" series while the two voices are chosen */
+const VOICE_TESTS = [["vt-f1", "Female 1"], ["vt-f2", "Female 2"], ["vt-f3", "Female 3 (British)"], ["vt-f4", "Female 4"],
+  ["vt-m1", "Male 1"], ["vt-m2", "Male 2"], ["vt-m3", "Male 3 (British)"], ["vt-m4", "Male 4 (British)"]];
+const VT = new Set(VOICE_TESTS.map(v => v[0]));
+
 /* ---------- 4. write ---------- */
 const goAudio = path.join(root, "go", "audio");
 const manifest = { v: 1, base: "", episodes: {} };
@@ -156,6 +161,7 @@ if (fs.existsSync(mPath)) Object.assign(manifest.episodes, JSON.parse(fs.readFil
 const kitM = path.join(root, "audio-kit", "out", "manifest.json");
 if (fs.existsSync(kitM)) for (const [id, x] of Object.entries(JSON.parse(fs.readFileSync(kitM, "utf8")).episodes || {})) {
   if (ALL_LESSONS.some(l => l.id === id)) continue;   /* a re-recorded original: handled below */
+  if (VT.has(id)) continue;
   const cur = episodes.find(e => e.id === id);
   if (!cur || (x.h && x.h !== lessonsKey(cur))) { delete manifest.episodes[id]; console.log(`skipping ${id}: recorded for a different set of lessons, re-record it`); continue; }
   const base = process.env.AUDIO_BASE || (manifest.episodes[id] && manifest.episodes[id].base);
@@ -164,6 +170,7 @@ if (fs.existsSync(kitM)) for (const [id, x] of Object.entries(JSON.parse(fs.read
 for (const id of HELD) delete manifest.episodes[id];
 /* every published lesson-episode recording must still narrate exactly this episode's lessons, in order */
 for (const id of Object.keys(manifest.episodes)) {
+  if (VT.has(id)) continue;
   const e = episodes.find(x => x.id === id); if (!e) { if (!ALL_LESSONS.some(l => l.id === id)) delete manifest.episodes[id]; continue; }
   const dp = path.join(goAudio, id + ".json"); if (!fs.existsSync(dp)) continue;
   const ch = JSON.parse(fs.readFileSync(dp, "utf8")).chapters || [];
@@ -177,6 +184,7 @@ for (const o of originals) {
   const size = {}; for (const [v, f] of [["f", "af_heart"], ["m", "am_michael"]]) { const p = path.join(goAudio, `${o.id}-${f}.mp4`); if (fs.existsSync(p)) size[v] = fs.statSync(p).size; }
   manifest.episodes[o.id] = { dur: A.dur, size };
 }
+VOICE_TESTS.forEach(([id, t], i) => { if (manifest.episodes[id]) originals.push({ id, kind: "original", t, d: "The opening of AI episode one, read by this narrator.", p: "knowledge", series: "Voice test", ep: i + 1, covers: [], lessons: [] }); });
 fs.writeFileSync(mPath, JSON.stringify(manifest, null, 1));
 
 /* bundle the durations of everything already recorded, so those episodes work before the manifest loads */

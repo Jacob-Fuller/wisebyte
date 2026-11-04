@@ -110,9 +110,40 @@ def samples(model):
         print(f"sample-{name}.mp3: {len(audio) / RATE:.0f}s of audio in {time.time() - t0:.0f}s")
 
 
+VOICE_TESTS = [("vt-f1", "Female 1", "ref-af_heart.wav"), ("vt-f2", "Female 2", "ref-af_bella.wav"),
+               ("vt-f3", "Female 3 (British)", "ref-bf_emma.wav"), ("vt-f4", "Female 4", None),
+               ("vt-m1", "Male 1", "ref-am_michael.wav"), ("vt-m2", "Male 2", "ref-am_fenrir.wav"),
+               ("vt-m3", "Male 3 (British)", "ref-bm_george.wav"), ("vt-m4", "Male 4 (British)", "ref-bm_fable.wav")]
+
+
+def voice_tests(model):
+    """the opening part of AI episode 1 in every candidate voice, as short test episodes for the app"""
+    os.makedirs(OUT, exist_ok=True)
+    s = script_for(SAMPLE_UNITS)
+    units = [u for u in s["units"] if u["c"] <= 0]
+    mpath = os.path.join(OUT, "manifest.json")
+    manifest = json.load(open(mpath, encoding="utf-8")) if os.path.exists(mpath) else {"v": 1, "episodes": {}}
+    builtin = model.conds
+    for eid, name, ref in VOICE_TESTS:
+        t0 = time.time()
+        if ref: model.prepare_conditionals(os.path.join(VOICE_DIR, ref))
+        else: model.conds = builtin
+        audio, at = render(model, units)
+        dur = round(len(audio) / RATE, 1); size = {}
+        for v in ("f", "m"):
+            path = os.path.join(OUT, f"{eid}-{FILES[v]}.mp4")
+            encode(audio, path); size[v] = os.path.getsize(path)
+        json.dump({"chapters": s["chapters"][:1], "units": units, "at": {"f": at, "m": at}, "dur": {"f": dur, "m": dur}},
+                  open(os.path.join(OUT, eid + ".json"), "w", encoding="utf-8"), separators=(",", ":"))
+        manifest["episodes"][eid] = {"dur": {"f": dur, "m": dur}, "size": size, "t": name}
+        json.dump(manifest, open(mpath, "w", encoding="utf-8"), indent=1)
+        print(f"{eid} ({name}): {dur / 60:.1f} min in {(time.time() - t0) / 60:.1f} min")
+
+
 def main(argv):
     model = load_model()
     if "--samples" in argv: return samples(model)
+    if "--voice-tests" in argv: return voice_tests(model)
     os.makedirs(OUT, exist_ok=True)
     limit = None
     if "--limit" in argv:
