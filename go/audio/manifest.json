@@ -267,6 +267,61 @@
     "m": 3473528
    },
    "h": "sanctum-godel,sanctum-bayes,sanctum-arrow,sanctum-hard-problem"
+  },
+  "s-20th-century-2": {
+   "dur": {
+    "f": 998.3,
+    "m": 1099.2
+   },
+   "size": {
+    "f": 2552692,
+    "m": 2813750
+   },
+   "h": "holocaust,nuremberg-trials,maos-china"
+  },
+  "s-20th-century-1": {
+   "dur": {
+    "f": 871.2,
+    "m": 958.4
+   },
+   "size": {
+    "f": 2219539,
+    "m": 2446627
+   },
+   "h": "christmas-truce-1914,great-depression,dunkirk-evacuation"
+  },
+  "inner-2": {
+   "dur": {
+    "f": 1193,
+    "m": 1311.9
+   },
+   "size": {
+    "f": 3045739,
+    "m": 3359801
+   },
+   "h": "sanctum-ergodicity,sanctum-fat-tails,sanctum-cooperation,sanctum-second-order"
+  },
+  "s-20th-century-3": {
+   "dur": {
+    "f": 1013.4,
+    "m": 1114.7
+   },
+   "size": {
+    "f": 2595264,
+    "m": 2862200
+   },
+   "h": "end-of-empires,civil-rights,apartheid-south-africa"
+  },
+  "inner-3": {
+   "dur": {
+    "f": 1298.4,
+    "m": 1422.6
+   },
+   "size": {
+    "f": 3312932,
+    "m": 3633895
+   },
+   "h": "sanctum-entropy,sanctum-fermi,sanctum-replication,sanctum-collapse"
   }
  }
 }
