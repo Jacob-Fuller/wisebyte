@@ -157,3 +157,12 @@ Build: iOS JavaScript bundle exports cleanly; web copy screenshots checked for e
 4. Tax, super and property lessons now reflect the 2026 laws; they need a yearly check each July.
 5. Publish the updated privacy, terms and support pages to wisebyte.app.
 6. Optional: drop the 37 easy children's riddles that are filtered out of the Inner Circle; swap the classic gotcha puzzles (Mary's father, 17 sheep) for pure-reasoning ones; one Seneca line uses a popular modern rendering ("an opportunity for a kindness") instead of a standard translation.
+
+## Decisions made (4 Nov 2026, delegated by Jacob)
+1. Equatorial Guinea: kept as Ciudad de la Paz. The decree-law is in force and the constitution names no capital.
+2. Safety course split: "First Aid" (keeps the s-safety id, so existing mastery carries over; 9 lessons) and new "Staying Safe" (14 lessons).
+3. Re-recording How to Argue Well, Why Empires Fall and Psychology episode 2: restarted; each appears in the app automatically once published to the manifest.
+4. Tax, super and property lessons: review each July (recorded here).
+5. Optional riddle and gotcha-puzzle changes: left as they are. They are correct, and the easy riddles are already filtered out.
+6. Policy pages: updated in this repo; they go live wherever wisebyte.app is published from.
+7. TestFlight: Codemagic now builds "Wisebyte native → TestFlight" when the `testflight` branch is pushed (pushing main alone never builds).

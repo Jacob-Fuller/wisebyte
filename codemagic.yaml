@@ -42,14 +42,20 @@ workflows:
         submit_to_testflight: true
 
   # Native (React Native / Expo) Wisebyte app in native/. Replaces the web-wrapped build above.
-  # Starts by itself when a tag like testflight-2026-11-04 is pushed (or start it by hand in Codemagic).
+  # Starts by itself when the `testflight` branch is pushed (or a tag like testflight-2026-11-04),
+  # or start it by hand in Codemagic. Pushing to main alone never builds.
   wisebyte-native: &native
     name: Wisebyte native → TestFlight
     max_build_duration: 90
     instance_type: mac_mini_m2
     triggering:
       events:
+        - push
         - tag
+      branch_patterns:
+        - pattern: 'testflight'
+          include: true
+          source: true
       tag_patterns:
         - pattern: 'testflight-*'
           include: true

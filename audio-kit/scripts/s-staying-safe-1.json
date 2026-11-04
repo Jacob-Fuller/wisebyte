@@ -1,0 +1,1261 @@
+{
+ "id": "s-staying-safe-1",
+ "h": "emergency-kit-plan,home-fire-safety,carbon-monoxide,electrical-safety",
+ "title": "Staying Safe · Episode 1",
+ "chapters": [
+  "Get ready: your emergency kit and household plan",
+  "Home fires: alarms, escape plans and kitchen fires",
+  "Carbon monoxide: the invisible killer",
+  "Electricity: the danger you can't see"
+ ],
+ "units": [
+  {
+   "t": "Staying Safe. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Get ready: your emergency kit and household plan, Home fires: alarms, escape plans and kitchen fires, Carbon monoxide: the invisible killer and Electricity: the danger you can't see.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Get ready: your emergency kit and household plan.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When disaster strikes, the decisions you make in the first hour matter most.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A little planning on a quiet weekend can make those decisions almost automatic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan once, calmly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine your phone buzzes at midnight with an emergency warning and you have half an hour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where are the car keys?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What about the dog, the medicines and the passports?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stress makes clear thinking hard.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Red Cross and state emergency services urge every household to plan ahead so you do the thinking once, in calm conditions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with your risks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Northern coasts face cyclones and storm surge, river towns face floods, bushland edges face fire, and cities face heatwaves, storms and outages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost everyone could face a house fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check council and emergency service websites, and ask long-term neighbours who remember past events.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your household plan.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A plan doesn't need to be complicated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It should answer a few questions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When will you leave, and what triggers that decision?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where will you go: friends or relatives in a safer area, or an evacuation centre?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How will you get there, and what is your backup route if roads close?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How will family members contact each other if phones are down or you're split up?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many families choose one contact person in another area.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Write key numbers on paper too, in case your phone dies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Red Cross offers free planning tools, including its Get Prepared app.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Share the plan with everyone in the household and review it each year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kit and pets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emergency kit is a collection of supplies stored together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common guideline is about three litres of drinking water per person per day for at least three days, plus food needing no cooking or refrigeration.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add a torch, battery radio, first aid kit, power bank, cash, medicines, glasses and anything needed for babies, older relatives or people with a disability.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep document copies in a waterproof bag or saved securely online.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the kit every six months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People have delayed evacuating because of pets.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Microchip them, keep a photo on your phone, pack food, leads and a carrier, and find out which shelters take animals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move horses and livestock early.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying informed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reliable information can decide whether you leave in time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia uses a national warning system with three levels: Advice, Watch and Act, and Emergency Warning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each state and territory has its own emergency websites and apps, so find yours before you need them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bureau of Meteorology provides weather and flood warnings, and ABC local radio is an official emergency broadcaster that often keeps going when other services fail.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A battery or wind-up radio helps if power and mobile networks go down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be careful with social media: it spreads local news quickly, but rumours and old photos circulate too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check official sources before acting, and if your life is in danger, call Triple Zero, 000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looking after each other.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many Australian disasters, the first people to help were neighbours, not police or firefighters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They checked on older residents, shared generators, moved livestock and offered spare rooms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strong local connections are linked to communities coping and recovering better.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build them simply: swap phone numbers, find out who might need help to evacuate, and join a local community or volunteer group.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have a medical condition or disability, tell trusted neighbours what support you may need.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recovery can take months or years, and stress and grief are normal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Red Cross, councils and recovery centres can help.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, so follow official advice for your area.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Planning in calm conditions lets you act quickly in an emergency, so start by learning your local risks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Home fires: alarms, escape plans and kitchen fires.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A house fire can make a home deadly in a matter of minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A working smoke alarm and a practised escape plan are the two things most likely to get everyone out alive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Minutes, not hours.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real house fires are not like films.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern homes are full of synthetic materials such as foam couches, plastics and carpets that burn hot and fast and release thick, toxic smoke.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A room can become deadly within a few minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smoke, not flames, is usually what kills, filling the air with poisonous gases like carbon monoxide and blocking your sight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many fatal fires happen at night.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can't rely on smelling smoke to wake you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian states and territories require smoke alarms, but rules differ.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Queensland, from 1 January 2027 every home must have interconnected photoelectric alarms in each bedroom, hallway and level.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test monthly, clean vents, and replace alarms about ten years old.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your state fire service website.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Escape plan and exit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 2 am you won't have time to think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Draw a floor plan and mark two ways out of each room, usually a door and a window.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make sure security screens and deadlocks open quickly from inside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choose a meeting place outside, such as the letterbox.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise with everyone, including children, once or twice a year, and teach children to get out, not hide under beds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In smoke, get low and crawl to the nearest safe exit.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Feel a closed door with the back of your hand; if hot, use another way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close doors behind you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once out, call 000 and stay out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never go back for pets or belongings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If clothes catch fire: stop, drop, cover your face and roll.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kitchen fires.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The kitchen is where many house fires start, often when someone leaves food cooking and gets distracted.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fire services say it neatly: keep looking while cooking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a pan of oil or fat catches fire, never throw water on it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Water sinks under the hot oil, flashes into steam and can blast burning oil across the kitchen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, if it is safe, turn off the heat and smother the flames by sliding a lid or fire blanket over the pan, then leave it covered until completely cool.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't carry the burning pan outside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fire blanket near the kitchen exit is cheap and easy to use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the fire is spreading or you're unsure, get everyone out, close the door and call Triple Zero, 000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heaters, power, batteries.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Winter brings more house fires as heaters, electric blankets and dryers work harder.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep heaters at least a metre from curtains, bedding, clothes and furniture, and turn them off when you leave the room or go to bed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check electric blankets for frayed cords before winter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clean the dryer lint filter every use.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoid overloading power boards, and never cover them with rugs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A newer worry is lithium-ion batteries in e-bikes, e-scooters and power tools.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Damaged or poor-quality batteries can overheat and burn fiercely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use the supplied charger, avoid charging bulky batteries overnight or near your exit path, and stop using any battery that is swollen, hot or damaged.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Burns first aid.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If someone is burned, Australian first aid advice is clear: cool the burn under cool running water for 20 minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This helps even if some time has passed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remove jewellery and clothing from the area unless stuck to the skin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do not use ice, butter, toothpaste or creams.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After cooling, cover the burn loosely with plastic cling wrap or a clean non-stick dressing, and keep the person warm.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Call Triple Zero, 000, for burns that are large, deep, on the face, hands, feet, groin or airway, caused by chemicals or electricity, or on a child or older person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information only.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A proper first aid course teaches these skills hands-on and is one of the best investments a household can make.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Smoke is what kills in house fires, so a working smoke alarm giving early warning is vital.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Carbon monoxide: the invisible killer.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It has no colour, no smell and no taste, and its symptoms feel like the flu.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how an ordinary heater can quietly poison a home, and how to stop it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two brothers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In May 2010, two brothers, Chase and Tyler Robinson, died in their sleep at their rented home in Mooroopna, near Shepparton in Victoria.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cause was carbon monoxide from a faulty gas heater.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing had seemed wrong: no smoke, no strange smell, and no alarm, because the home had no carbon monoxide detector.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A coronial inquest examined who was responsible for maintaining the heater.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their mother, Vanessa Robinson, became a prominent campaigner for gas heater safety, and Victoria has since introduced regular gas safety checks in rental homes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a painful reminder that the most dangerous hazards may be ones we cannot sense.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How it harms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carbon monoxide is made when fuels such as gas, wood, charcoal, petrol or diesel burn without enough oxygen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Red blood cells carry oxygen using haemoglobin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon monoxide binds to it roughly two hundred times more strongly than oxygen does, so even small amounts steadily push oxygen out of the blood.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain and heart suffer first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gas is colourless, odourless and tasteless, so people breathe it unaware.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High levels can cause unconsciousness and death within minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower levels over hours or days can cause lasting brain and heart damage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms that fool.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early symptoms are ordinary: headache, dizziness, nausea, vomiting, tiredness, weakness, breathlessness and confusion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People assume flu, migraine or a stomach bug.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clues point to carbon monoxide instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several people, or pets, feel sick at once.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms are worse at home or with a heater running, and improve outside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People who are asleep or have been drinking may lose consciousness before noticing, so night-time poisoning is especially dangerous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babies, older people, pregnant women and people with heart or lung disease are more vulnerable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sources and servicing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A major source in Australian homes is gas space heaters, especially older or poorly maintained ones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An open-flued heater should send fumes out through a flue, but a blocked or faulty flue, or exhaust fans pulling air the wrong way, can spill carbon monoxide inside.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unflued heaters release fumes into the room and need good ventilation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other causes are barbecues, camping stoves, patio heaters or charcoal used indoors, in tents, caravans or garages, generators near open windows, and engines running in closed garages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Have gas heaters serviced by a licensed gasfitter, generally at least every two years or as the manufacturer recommends.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warning signs include a yellow or orange flame, soot or stains, and a stuffy room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you rent, ask when the heater was last checked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alarms and action.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smoke alarms don't detect carbon monoxide.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A separate alarm from a hardware store warns you when levels rise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place it per the instructions, typically near fuel-burning appliances and sleeping areas, and test it regularly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Requirements for them vary by state and territory, but regulators encourage them, especially with gas heating.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An alarm is a backstop, not a substitute for servicing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you suspect poisoning, get everyone, including pets, into fresh air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If quick and safe, switch off the appliance and open doors on your way out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start CPR if someone isn't breathing normally.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't return until a licensed gasfitter has checked the source.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treatment is high-concentration oxygen, and everyone should be assessed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Two young brothers died in 2010 from a faulty gas heater, with no smoke, smell or alarm to warn them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Electricity: the danger you can't see.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Electricity gives no warning: no smell, no sound, nothing to see.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few simple rules, and one small switch in your meter box, stand between ordinary life and a fatal shock.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why current kills.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Current crossing the chest can throw the heart into a chaotic rhythm called ventricular fibrillation, where it quivers instead of pumping.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is cardiac arrest.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Current can also make muscles contract so strongly a person can't let go of what they're holding.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And as it passes through tissue, it generates heat and burns along its path.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Entry and exit wounds can look small while muscles, nerves and blood vessels inside are badly damaged.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anyone who has had a significant shock or electrical burn should be checked by a doctor, even if they feel fine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety switches.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A residual current device, called a safety switch in Australia, constantly compares the current going out along the active wire with the current returning along the neutral.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If they don't match, current is leaking somewhere, possibly through a person.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The switch cuts the power within a fraction of a second, fast enough to greatly reduce the risk of death.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety switches differ from circuit breakers and fuses, which mainly protect wiring from overload.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newer homes must have them, but many older homes have them on only some circuits, or none.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most have a test button worth pressing regularly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leave it to licensed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Across Australia, it's illegal for an unlicensed person to do electrical wiring work, such as installing power points, replacing light switches or running cables.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Faulty wiring can kill, sometimes years later and for someone else entirely, and a loose connection can start a fire inside a wall.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At home, the habits are simple.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't use appliances with frayed or damaged cords.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't overload power boards or daisy-chain them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep appliances away from water and never touch switches with wet hands.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never fish toast from a plugged-in toaster with a knife.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a switch or power point feels warm or smells of burning, get it checked.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Powerlines down.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After storms, crashes and bushfires, powerlines can lie on the ground, fences, cars or trees.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Treat every fallen line as live, even if it isn't sparking, because it may be re-energised automatically.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distributors advise staying at least eight metres away, about two car lengths.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electricity can travel through wet ground, puddles, fences and metal, so you needn't touch the line to be hurt.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000 if someone is injured or there's a fire.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a line falls on your car, stay inside unless it's on fire.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you must leave, jump clear with your feet together, never touching the car and ground at the same time, then shuffle away with small steps.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helping, and looking up.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If someone is being electrocuted, don't grab them.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The current can flow into you too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switch off the power at the switchboard or wall, or unplug the appliance if safe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For powerlines and high voltage, don't approach: call 000 and wait for the electricity company.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once power is off, check them using DRSABCD, start CPR if needed, send for a defibrillator and cool burns under cool running water for twenty minutes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many serious accidents happen outdoors when tall objects meet overhead lines: ladders, tipper trays, boat masts.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electricity can also arc across a gap.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look up before raising anything tall, carry long objects horizontally, and never climb poles, towers or train roofs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Electric current can stop the heart and cause deep burns that look small from outside.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do emergency organisations urge households to plan ahead?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Stress makes clear thinking hard.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What usually kills people in house fires?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Smoke and poisonous gases.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What made the faulty heater in this case so dangerous?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The gas gives no smoke, smell or taste to warn you.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why should anyone with a significant electric shock see a doctor even if they feel fine?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Skin wounds can hide serious internal damage.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}
