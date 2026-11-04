@@ -96,7 +96,11 @@ workflows:
         script: |
           xcode-project build-ipa \
             --workspace native/ios/Wisebyte.xcworkspace \
-            --scheme Wisebyte
+            --scheme Wisebyte || {
+              echo "---- xcodebuild errors ----"
+              grep -hE "error:|error -|\*\* ARCHIVE FAILED|The following build commands failed" -A3 /tmp/xcodebuild_logs/*.log | head -150
+              exit 1
+            }
     artifacts:
       - build/ios/ipa/*.ipa
       - /tmp/xcodebuild_logs/*.log
