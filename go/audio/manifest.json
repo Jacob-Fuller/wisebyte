@@ -426,6 +426,90 @@
    },
    "h": "ai-risks,specification-gaming,automation-and-jobs",
    "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-animals-2": {
+   "dur": {
+    "f": 1137.5,
+    "m": 1253.2
+   },
+   "size": {
+    "f": 2896969,
+    "m": 3200256
+   },
+   "h": "camouflage,migration,hibernation,emperor-penguins",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-animals-3": {
+   "dur": {
+    "f": 1105.9,
+    "m": 1217.1
+   },
+   "size": {
+    "f": 2809251,
+    "m": 3099087
+   },
+   "h": "tardigrades,animal-longevity,bees,spider-silk",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-ancient-rome-1": {
+   "dur": {
+    "f": 1148.9,
+    "m": 1263.9
+   },
+   "size": {
+    "f": 2914242,
+    "m": 3213839
+   },
+   "h": "roman-republic,hannibal-punic-wars,julius-caesar,cleopatra",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-ancient-rome-2": {
+   "dur": {
+    "f": 1152.1,
+    "m": 1264.6
+   },
+   "size": {
+    "f": 2933754,
+    "m": 3229180
+   },
+   "h": "roman-daily-life,roman-engineering,hadrians-wall,fall-of-rome",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-animals-1": {
+   "dur": {
+    "f": 1143.5,
+    "m": 1258.2
+   },
+   "size": {
+    "f": 2903875,
+    "m": 3212415
+   },
+   "h": "animal-intelligence,ants,elephants,animal-senses",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-ancient-greece-2": {
+   "dur": {
+    "f": 850.6,
+    "m": 936
+   },
+   "size": {
+    "f": 2153903,
+    "m": 2383055
+   },
+   "h": "greek-wars,greek-philosophers,alexander",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
+  },
+  "s-ancient-greece-3": {
+   "dur": {
+    "f": 872.3,
+    "m": 957.3
+   },
+   "size": {
+    "f": 2217369,
+    "m": 2447720
+   },
+   "h": "library-of-alexandria,antikythera-mechanism,greek-legacy",
+   "base": "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/audio/"
   }
  }
 }
