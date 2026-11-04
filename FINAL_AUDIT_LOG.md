@@ -145,3 +145,15 @@ Build: iOS JavaScript bundle exports cleanly; web copy screenshots checked for e
 - expo-audio microphone permission removed; background audio mode declared (UIBackgroundModes audio) for Wisebyte Go.
 - Disclaimers now cover 70 more money, law, health, mind and safety lessons, including audio episodes (the player shows the first matching disclaimer).
 - Note: the policy pages are served from wisebyte.app; publish the updated privacy.html, terms.html and support.html there.
+
+## Final checks
+- Structure script: 0 errors. Warnings (6), all deliberate: 5 lessons left outside courses (listed in Phase D); 1 "color" inside the dictionary-makers lesson, a deliberate example of Webster's American spelling.
+- All content files pass `node --check`; extract-content.js and build-audio.js run cleanly; the iOS bundle exports.
+
+## Decisions for Jacob
+1. Equatorial Guinea's capital is now Ciudad de la Paz (2 Jan 2026 decree; the constitution names no capital). Revert to Malabo if you'd rather wait until the move is finished.
+2. Re-record: Wisebyte Go "How to Argue Well" and "Why Empires Fall" (corrected scripts ready; both held back until then) and Psychology episode 2 (regrouped). Focus and Aussie English were re-recorded today.
+3. Some courses are now long (Safety 23, Universe 21, Human Body 20). Safety could split into "First Aid" and "Staying Safe".
+4. Tax, super and property lessons now reflect the 2026 laws; they need a yearly check each July.
+5. Publish the updated privacy, terms and support pages to wisebyte.app.
+6. Optional: drop the 37 easy children's riddles that are filtered out of the Inner Circle; swap the classic gotcha puzzles (Mary's father, 17 sheep) for pure-reasoning ones; one Seneca line uses a popular modern rendering ("an opportunity for a kindness") instead of a standard translation.
