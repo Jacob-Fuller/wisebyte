@@ -1,11 +1,12 @@
 {
  "id": "s-universe-4",
- "h": "black-holes,gravitational-waves,big-bang",
+ "h": "neutron-stars-pulsars,galaxies,cosmic-distance-ladder,dark-matter-energy",
  "title": "The Universe · Episode 4",
  "chapters": [
-  "How black holes work",
-  "Gravitational waves: hearing the universe",
-  "The Big Bang"
+  "Neutron stars and pulsars",
+  "Galaxies and the Milky Way",
+  "How we measure the universe",
+  "Dark matter and dark energy"
  ],
  "units": [
   {
@@ -15,842 +16,1208 @@
    "ps": false
   },
   {
-   "t": "In this episode: How black holes work, Gravitational waves: hearing the universe and The Big Bang.",
+   "t": "In this episode: Neutron stars and pulsars, Galaxies and the Milky Way, How we measure the universe and Dark matter and dark energy.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How black holes work.",
+   "t": "Part one. Neutron stars and pulsars.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Places where gravity wins completely, time slows down and even light can't escape.",
+   "t": "Imagine squeezing more than the mass of the Sun into a ball the size of a city, then spinning it hundreds of times a second.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Gravity that won't let go.",
+   "t": "City-sized and crushing.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape.",
+   "t": "A neutron star is about 1.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Every object has an 'escape velocity': about 11 kilometres per second for Earth.",
+   "t": "4 times the mass of the Sun, yet only around 20 kilometres across, roughly the size of a large city.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For a black hole it exceeds the speed of light, about 300,000 kilometres per second, and since nothing travels faster than light, nothing gets out.",
+   "t": "A teaspoon of its material would weigh something like a billion tonnes on Earth.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1783, English clergyman John Michell imagined 'dark stars' that light couldn't escape.",
+   "t": "Its surface is thought to be incredibly smooth, with mountains only millimetres tall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Beneath it, matter is crushed so tightly that most electrons and protons have merged into neutrons.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The core of a massive star fuses elements until it makes iron, which cannot release energy by fusion.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The modern idea came from Einstein's general relativity, 1915, which describes gravity as the bending of space and time by mass.",
+   "t": "Gravity wins, and the core collapses in a fraction of a second.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Karl Schwarzschild soon found that the equations allowed such regions.",
+   "t": "The outer layers rebound in a supernova.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For decades many physicists, including Einstein, doubted they existed.",
+   "t": "A lighter core becomes a neutron star; a heavier one becomes a black hole.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The name 'black hole' was popularised in the late 1960s.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Born from dying stars.",
+   "t": "Little green men.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A star of roughly 20 or more times the Sun's mass eventually runs out of fuel.",
+   "t": "In 1967 Jocelyn Bell, a postgraduate student at Cambridge, noticed a bit of \"scruff\" on chart paper from a new radio telescope.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Without the outward push of nuclear fusion, its core collapses under its own gravity in a fraction of a second, often triggering a supernova that blasts away the outer layers.",
+   "t": "It was a signal pulsing with astonishing regularity, about every 1.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "What remains is crushed into a black hole.",
+   "t": "3 seconds.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Milky Way probably contains millions of these stellar black holes, most of them invisible.",
+   "t": "The team half jokingly labelled it LGM-1, for \"little green men\".",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most large galaxies also have a supermassive black hole at their centre, weighing millions to billions of Suns.",
+   "t": "More pulsing sources elsewhere made an alien explanation very unlikely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1974 Nobel Prize in Physics went to her supervisor Antony Hewish and Martin Ryle, an omission many scientists consider unfair.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sources were rapidly spinning neutron stars.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Gas falling into one can heat up and shine brighter than a whole galaxy, creating a quasar.",
+   "t": "A collapsing core spins faster as it shrinks, like a skater pulling in their arms.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The point of no return.",
+   "t": "Magnetic fields channel beams of radiation from the poles, and each time a beam crosses Earth, telescopes record a pulse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fastest known spins over 700 times a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extreme magnetars.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The boundary around a black hole is the event horizon.",
+   "t": "Some neutron stars have magnetic fields far more extreme than usual.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Outside it, a powerful enough rocket could still escape.",
+   "t": "Magnetars are estimated to have fields up to around a thousand trillion times stronger than Earth's.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Inside, every possible path leads further in.",
+   "t": "As a magnetar's crust shifts under these enormous stresses, it can unleash sudden bursts of X-rays and gamma rays.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A black hole with the mass of our Sun would have an event horizon only about 6 kilometres across, and Earth squeezed into one would be about the size of a marble.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At the centre, general relativity predicts a 'singularity', where our current physics breaks down.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Gravity strengthens closer to a mass.",
+   "t": "In December 2004 a giant flare from a magnetar called SGR 1806-20, on the far side of our galaxy, was so powerful that it measurably disturbed Earth's upper atmosphere.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Near a small black hole, the pull on your feet would far exceed the pull on your head, stretching you like a noodle.",
+   "t": "Astronomers now suspect that some magnetars are behind fast radio bursts, brief and extremely energetic flashes of radio waves detected from across the universe.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scientists really do call this spaghettification.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Near a supermassive black hole the stretching at the horizon is gentler, so you could cross it unaware, but you'd never come back.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Time slows down.",
+   "t": "Collisions that forge gold.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Einstein's general relativity predicts that time passes more slowly in stronger gravity.",
+   "t": "Many neutron stars live in pairs, spiralling slowly towards each other.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It isn't only theory: clocks on GPS satellites, high above Earth in weaker gravity, tick slightly faster than clocks on the ground, and the system must correct for it.",
+   "t": "In 1974 Russell Hulse and Joseph Taylor found a binary pulsar whose orbit shrank exactly as Einstein's theory predicts if the pair radiates gravitational waves.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Near a black hole the effect becomes extreme.",
+   "t": "It earned a Nobel Prize in 1993.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 17 August 2017, detectors caught the gravitational waves of two neutron stars colliding about 130 million light-years away.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "To a distant observer, a clock falling towards a black hole would appear to tick slower and slower as it neared the event horizon, its light growing dimmer and redder.",
+   "t": "Telescopes worldwide, including in Australia, watched the glowing aftermath, called a kilonova.",
    "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its light carried the signature of freshly made heavy elements.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers estimate that mergers like this have produced a significant share of the universe's gold, platinum and other heavy metals, possibly including some of the gold in your jewellery.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clocks across the galaxy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some millisecond pulsars tick with a regularity that rivals atomic clocks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has played a big role in studying them, and CSIRO's Parkes radio telescope, Murriyang, has discovered a large share of all known pulsars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By timing dozens of pulsars over many years, astronomers watch for tiny shared shifts in when their pulses arrive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2023, several international teams, including the Parkes Pulsar Timing Array, reported evidence of a faint background of very long gravitational waves rippling through the galaxy, likely produced by pairs of supermassive black holes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pulsars have even been proposed as a galactic GPS.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The plaques on the Pioneer probes and the Voyager records already carry a map of the Sun's position relative to 14 pulsars, a cosmic return address.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A neutron star packs more mass than the Sun into a ball about 20 kilometres across, left behind when a massive star's core collapses.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Galaxies and the Milky Way.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "On a dark night in outback Australia you can see our own galaxy's glowing core overhead, and two other galaxies with the naked eye.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our home galaxy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Milky Way is a vast system of stars, gas, dust and dark matter held together by gravity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a barred spiral: a central bar of stars inside a flat disc with spiral arms, all wrapped in a faint halo of old stars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It spans roughly 100,000 light-years and holds perhaps 100 to 400 billion stars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun sits in a minor arm, the Orion Arm, about 26,000 light-years from the centre.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We orbit at about 800,000 kilometres an hour, yet one lap takes around 230 million years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the centre lies a supermassive black hole, Sagittarius A*, about 4 million times the Sun's mass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because we live inside the disc, we see it edge-on, as a milky band.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "\"Galaxy\" comes from the Greek for milk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A southern sky advantage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians have one of the best views of our galaxy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its brightest part, towards Sagittarius and Scorpius, rides high overhead on winter evenings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Aboriginal cultures trace figures in the dark dust lanes, not just the stars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Emu in the Sky has its head in the dark Coalsack beside the Southern Cross, and its body along the Milky Way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For many groups its position is linked to the emu breeding season, though stories differ between Nations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look south on a dark night and you may spot the Large and Small Magellanic Clouds, dwarf galaxies about 160,000 and 200,000 light-years away.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aboriginal people knew them for thousands of years before Magellan's crew recorded them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For the best view, try a dark site such as Warrumbungle National Park.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galaxy shapes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1920s, astronomer Edwin Hubble sorted galaxies by shape, and his scheme is still broadly used.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spiral galaxies, like ours, have flat discs with arms where new stars form, and many have a central bar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Elliptical galaxies are smooth, rounded collections of mostly older stars with little gas for new ones; the largest known galaxies are giant ellipticals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lenticular galaxies sit in between, with a disc but no clear arms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Irregular galaxies have no tidy shape, often because gravity from neighbours has pulled them around.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collisions between galaxies are common over cosmic time, and they can transform one type into another.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Galaxies that eat galaxies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Big galaxies grow by merging with smaller ones.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Sagittarius Dwarf Galaxy is being stretched into streams of stars by our gravity right now.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Data from the Gaia spacecraft showed that a sizeable galaxy, nicknamed the Gaia Sausage, crashed into ours 8 to 11 billion years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many astronomers suspect Omega Centauri, a star cluster easily seen from Australia, is the leftover core of another victim.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, stars almost never hit one another, because the gaps between them are so vast.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The largest galaxy in our Local Group, Andromeda, is about 2.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 million light-years away and approaching at about 110 kilometres/s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2025 study put the odds of a merger within the next 10 billion years at about 50-50.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Andromeda is visible to the naked eye from the north of Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dark matter puzzle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s, astronomer Vera Rubin and colleagues measured how fast stars orbit in spiral galaxies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stars far from the centre moved just as fast as those closer in, far faster than the visible matter's gravity could hold.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Something unseen was adding gravity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers call it dark matter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It seems to make up about 85 per cent of all matter in the universe, forming huge halos around galaxies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody yet knows what it is, and a minority of physicists explore modified gravity instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every galaxy you see in the night sky is only the visible part of something much larger.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Let your eyes adjust for 20 minutes under a dark sky and look for yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Milky Way is a barred spiral about 100,000 light-years across, holding perhaps 100 to 400 billion stars.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How we measure the universe.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "No one has ever stretched a tape measure to a star, yet we know distances across billions of light-years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The trick is a ladder of clever steps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How far is far.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light covers about 300,000 kilometres every second.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even so, sunlight takes about eight minutes to reach us, and light from Proxima Centauri, the nearest star beyond the Sun, takes over four years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So astronomers use the light-year: the distance light travels in a year, about 9.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 trillion kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a distance, not a time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That has a fascinating consequence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look at a star a thousand light-years away and you see light that left it a thousand years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looking further means looking back in time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single method works for everything.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronomers built a chain of techniques, each checked against the last, called the cosmic distance ladder.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Echoes and parallax.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first rung is our own neighbourhood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing the speed of light, we can bounce signals off objects and time the echo.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Radar off Venus, Mars and asteroids fixes the solar system's scale; the Earth to Sun distance, the astronomical unit, is about 150 million kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lasers fired at reflectors left by Apollo astronauts give the Moon's distance to within millimetres, and show it drifting away a few centimetres a year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next comes parallax.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold a thumb at arm's length and look with one eye, then the other: it seems to jump against the background.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers use two positions of Earth, six months apart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nearby star shifts slightly against distant ones, and geometry turns that shift into a distance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Friedrich Bessel first managed it in 1838; the Gaia spacecraft has since measured over a billion stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leavitt and Hubble.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Parallax only works nearby.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beyond it, astronomers need standard candles: objects of known true brightness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1900s Henrietta Swan Leavitt of Harvard Observatory studied the Small Magellanic Cloud, visible from Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She found that Cepheid variables, stars that brighten and dim rhythmically, follow a pattern: the slower the pulse, the brighter the star.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a Cepheid's rhythm reveals its distance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1920s Edwin Hubble used this to settle whether spiral nebulae lay inside the Milky Way.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cepheids in Andromeda showed it was a separate galaxy far beyond our own, now known to be about 2.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 million light-years away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The known universe grew from one galaxy to billions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exploding yardsticks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cepheids are not bright enough to see in very distant galaxies.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For those, astronomers use Type Ia supernovae.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are thought to occur when a white dwarf, the dense remnant of a star like the Sun, is pushed over a critical limit and blows apart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because they explode in a fairly consistent way, their peak brightness can be worked out.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That makes them standard candles visible across billions of light-years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1998 two teams used them to discover that the universe's expansion is speeding up, not slowing down.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One team was led by Brian Schmidt, working at the Australian National University's Mount Stromlo Observatory near Canberra.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He shared the 2011 Nobel Prize in Physics with Saul Perlmutter and Adam Riess.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Redshift and a puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the top of the ladder is redshift.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the universe expands, light is stretched to longer, redder wavelengths.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The further away a galaxy is, the faster it recedes and the redder its light, a relationship known as Hubble's law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once the ladder is calibrated, redshift tells astronomers roughly how far away a galaxy is.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But there is a puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Measuring today's expansion rate with the ladder of Cepheids and supernovae gives a noticeably higher answer than calculating it from the faint afterglow of the Big Bang, the cosmic microwave background.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This mismatch, called the Hubble tension, has persisted as measurements have improved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It might be a subtle error somewhere, or a sign that our picture of the universe is missing something.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Astronomers measure space in light-years, the distance light travels in a year, using a chain of methods called the cosmic distance ladder.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Dark matter and dark energy.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Everything we have ever seen, every star, planet and person, makes up only about 5 per cent of the universe.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rest is a mystery with a name but no explanation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The missing mass.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1933 Swiss astronomer Fritz Zwicky measured the speeds of galaxies in the Coma Cluster.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They moved so fast that the cluster should have flown apart, unless it held far more mass than its light suggested.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called the hidden material 'dunkle Materie', German for dark matter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His estimate was far too large, since distances were badly underestimated then, but the puzzle was real.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1970s Vera Rubin and Kent Ford measured spiral galaxies such as Andromeda.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a solar system, outer planets orbit slowly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In these galaxies the outer stars did not slow down.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The simplest explanation was a vast, invisible halo of extra mass around each galaxy.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Seeing the invisible.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Black holes can't be seen directly, but their surroundings can.",
-   "c": 0,
+   "t": "Dark matter gives off no light, but it has gravity, and gravity bends light.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Astronomers proved our galaxy's supermassive black hole, Sagittarius A*, is there by tracking stars whipping around an invisible object at enormous speeds.",
-   "c": 0,
+   "t": "Massive galaxy clusters act as giant warped lenses, stretching the images of more distant galaxies into arcs.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It weighs about 4 million Suns and lies around 26,000 light-years away.",
-   "c": 0,
+   "t": "By measuring that distortion, astronomers can map where the mass actually is.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That work won the 2020 Nobel Prize in Physics.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2015, the LIGO detectors in the US picked up gravitational waves, tiny ripples in space itself, from two black holes colliding more than a billion light-years away.",
-   "c": 0,
+   "t": "The Bullet Cluster is two galaxy clusters that collided.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 2019, the Event Horizon Telescope, a network of radio telescopes working as one Earth-sized dish, released the first image of a black hole's shadow, in galaxy M87.",
-   "c": 0,
+   "t": "In 2006 researchers showed that most of the ordinary matter, hot gas, had been slowed and piled up in the middle.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 2022 it imaged Sagittarius A*.",
-   "c": 0,
+   "t": "Most of the mass, revealed by lensing, had passed straight through.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: A black hole is a region where gravity is so strong that not even light can escape.",
-   "c": 0,
+   "t": "This was widely seen as strong evidence that dark matter is a real substance, separate from ordinary matter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What could it be.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Gravitational waves: hearing the universe.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "A century after Einstein predicted them, scientists caught a ripple in space itself that had travelled for over a billion years from two colliding black holes.",
-   "c": 1,
+   "t": "Dark matter is not simply dim stars, dust or black holes.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ripples too faint to feel.",
-   "c": 1,
+   "t": "Observations rule out ordinary matter making up more than a small fraction of it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most physicists think it is a particle outside the standard model of particle physics, one that interacts with almost nothing except through gravity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Candidates include weakly interacting massive particles, nicknamed WIMPs, and extremely light particles called axions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Experiments deep underground, shielded from cosmic rays, wait for a dark matter particle to bump into an atom.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Drop a stone into a pond and ripples spread outward.",
-   "c": 1,
+   "t": "Australia's Stawell Underground Physics Laboratory, in a Victorian gold mine, hosts one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So far there is no confirmed detection, and a minority of scientists suspect gravity itself needs modifying.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A speeding-up universe.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1916 Albert Einstein realised his theory of general relativity predicted something similar in space itself.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mass and energy curve spacetime, and when massive objects accelerate, especially in close orbits, they send out ripples at the speed of light.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A passing wave stretches space in one direction and squeezes it in the other, including the space you occupy.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But spacetime is extraordinarily stiff.",
-   "c": 1,
+   "t": "Astronomers have known since the 1920s that the universe is expanding.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The first wave measured changed the length of a four-kilometre detector arm by about a thousandth of the width of a proton.",
-   "c": 1,
+   "t": "The natural assumption was that gravity would slow it.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Einstein doubted anyone could ever measure it.",
-   "c": 1,
+   "t": "In the 1990s two rival teams set out to measure the slowdown using Type Ia supernovae, exploding white dwarfs with a predictable peak brightness that work as cosmic distance markers.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Before then, the only evidence was indirect: a neutron star pair, found in 1974, spiralling together at just the rate expected.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The detectors.",
-   "c": 1,
+   "t": "Saul Perlmutter led one team in the United States.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Laser Interferometer Gravitational-Wave Observatory, LIGO, has two detectors in the United States, at Hanford in Washington state and Livingston in Louisiana.",
-   "c": 1,
+   "t": "Brian Schmidt led the other, the High-Z Supernova Search Team, at the Australian National University's Mount Stromlo Observatory, with Adam Riess making key analyses.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1998 both found the same startling result: distant supernovae were fainter than expected, so the expansion is accelerating.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The three shared the 2011 Nobel Prize in Physics.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dark energy.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Each is shaped like a giant L, with two arms four kilometres long.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A laser beam is split in two and sent down both arms, bouncing off mirrors before the beams are recombined.",
-   "c": 1,
+   "t": "Something seems to be pushing space apart.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Normally they cancel out perfectly.",
-   "c": 1,
+   "t": "Physicists call it dark energy, a name for the effect rather than an explanation.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "If a gravitational wave passes, one arm stretches while the other shrinks, the beams fall out of step and a flicker of light appears.",
-   "c": 1,
+   "t": "The leading idea is that empty space carries a small, constant energy, like the cosmological constant Einstein added to his equations and later abandoned.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Two widely separated detectors help rule out local disturbances such as trucks or earthquakes.",
-   "c": 1,
+   "t": "Yet quantum theory predicts a value wildly larger than observed, one of science's biggest mismatches.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Europe's Virgo and Japan's KAGRA have since joined, helping pinpoint sources in the sky.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The first chirp.",
-   "c": 1,
+   "t": "The universe's budget appears to be about 68 per cent dark energy, 27 per cent dark matter and only 5 per cent ordinary matter.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "On 14 September 2015, just days after the upgraded detectors switched on, both LIGO sites recorded the same signal, milliseconds apart.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Turned into sound, it rose in pitch and volume and ended in a sudden chirp.",
-   "c": 1,
+   "t": "Recent results from the Dark Energy Spectroscopic Instrument in Arizona hint that dark energy may be weakening, but they are not yet conclusive.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It came from two black holes, each about 30 times the mass of the Sun, merging 1.",
-   "c": 1,
+   "t": "We can measure the universe precisely and still not say what most of it is.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "3 billion years ago.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the final fraction of a second, roughly three Suns' worth of mass became gravitational waves, briefly outpowering all the stars in the observable universe combined.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The discovery was announced in February 2016, almost a century after Einstein's prediction.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rainer Weiss, Barry Barish and Kip Thorne won the 2017 Nobel Prize in Physics for it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's part.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia has been part of the gravitational wave story for decades.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Researchers at the Australian National University, the University of Western Australia, the University of Adelaide and other institutions developed technologies used in LIGO, including precise laser and optics techniques and ways to reduce quantum noise in the measurements.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australians were among the authors of the discovery papers.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Today many of these researchers belong to OzGrav, the ARC Centre of Excellence for Gravitational Wave Discovery, which works on detecting signals, analysing data and following up events with telescopes.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia's Southern Hemisphere position helps, since it covers parts of the sky that northern telescopes cannot see well.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Light and gravity together.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Black hole mergers produce gravitational waves but little or no light.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Neutron star collisions are different.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "On 17 August 2017, LIGO and Virgo picked up a merger about 130 million light-years away.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "About 1.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "7 seconds later, a space telescope recorded a burst of gamma rays from the same region, and within hours telescopes worldwide were watching the debris.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This was the birth of multi-messenger astronomy: studying one event through different signals.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The near-simultaneous arrival of light and gravitational waves after 130 million years confirmed that gravity travels at the speed of light to extraordinary precision, and ruled out several alternative theories of gravity.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Detections are now routine, with hundreds of candidates so far.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Future instruments, such as ESA's planned LISA, will listen for slower waves.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Gravitational waves are ripples in spacetime from accelerating masses, so faint that even colliding black holes barely disturb Earth.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. The Big Bang.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "13.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "8 billion years ago, everything you can see was in an unimaginably hot, dense state.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "How do we know?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Not an explosion.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Big Bang theory describes how the universe expanded from an extremely hot, dense state about 13.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "8 billion years ago.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The name is misleading.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It wasn't an explosion in one place, flinging matter outwards into empty space.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It was the expansion of space itself, happening everywhere at once.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "There's no centre and no edge to point to.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The name was coined by astronomer Fred Hoyle in a 1949 radio broadcast, though he preferred a rival theory.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The expanding universe.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1920s, astronomers still argued about whether other galaxies even existed.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Edwin Hubble settled that and then, in 1929, showed that nearly all galaxies are moving away from us, and the further away they are, the faster they recede.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That's what you'd expect if space itself is stretching.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Picture raisins in rising bread dough: every raisin moves away from every other, and distant ones separate faster.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Run the film backwards and everything converges.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Because space expanded while light travelled, the observable universe is about 93 billion light-years across, though only 13.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "8 billion years old.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "An echo of creation.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If the universe began hot and dense, some of that heat should still be around, stretched into faint microwaves by billions of years of expansion.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1965, Arno Penzias and Robert Wilson at Bell Labs found a mysterious hiss in their radio antenna, coming from every direction.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At first they suspected pigeon droppings.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It was the cosmic microwave background, and it won them a Nobel Prize.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For its first 380,000 years, the universe was a glowing fog of charged particles that scattered light.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When it cooled enough for atoms to form, the fog cleared and light travelled freely.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "After a long 'dark age', gravity pulled gas into the first stars and galaxies within a few hundred million years.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The James Webb Space Telescope, launched in 2021, is spotting galaxies from this early era.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What it's made of.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the first fraction of a second, the universe was too hot for atoms.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "As it cooled, within about three minutes protons and neutrons fused into the nuclei of the lightest elements.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The theory predicts about three-quarters hydrogen and a quarter helium by mass, with a trace of lithium, which is what astronomers see in the oldest stars and gas clouds.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Everything we can see, including stars, planets and people, is only about 5 per cent of the universe's contents.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "About 27 per cent is dark matter, detected only through its gravity.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The other 68 per cent or so is dark energy, which is speeding up the expansion, discovered in 1998.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "We don't yet know what either is.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Before the Big Bang.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Big Bang theory describes how the universe evolved from an early hot, dense state.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It doesn't explain what caused that state or whether anything came 'before'.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Time itself may have begun with the Big Bang, making 'before' meaningless, like asking what's north of the North Pole.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some physicists explore ideas such as cosmic inflation, a brief burst of extreme expansion in the first instant, or even multiple universes.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "These are active areas of research, not settled science.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The universe beyond what we can observe may be much larger, possibly infinite.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The Big Bang was the expansion of space itself, everywhere at once, not an explosion into existing space.",
-   "c": 2,
+   "t": "The key idea: Galaxies spin and cluster as if they hold far more mass than their visible stars and gas supply.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why can nothing escape from a black hole?",
-   "c": 3,
+   "t": "Question one. What is left behind when a massive star's core collapses and the outer layers explode?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Its escape velocity exceeds light speed.",
-   "c": 3,
+   "t": "Answer. A neutron star or, if heavier, a black hole.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why is it so hard to detect gravitational waves?",
-   "c": 3,
+   "t": "Question two. Why do we see the Milky Way as a band across the sky?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Spacetime is so stiff that effects are tiny.",
-   "c": 3,
+   "t": "Answer. We live inside its flat disc and look along it edge-on.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What was the Big Bang?",
-   "c": 3,
+   "t": "Question three. What does it mean to see a star that is a thousand light-years away?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The stretching of space itself, everywhere at once.",
-   "c": 3,
+   "t": "Answer. You see light that left it a thousand years ago.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What did Vera Rubin find in spiral galaxies?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Outer stars orbit about as fast as inner ones.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

@@ -1,8 +1,9 @@
 {
  "id": "s-inventions-3",
- "h": "tin-can,refrigeration,toilets-sewers",
+ "h": "birth-of-cinema,tin-can,refrigeration,toilets-sewers",
  "title": "Great Inventions · Episode 3",
  "chapters": [
+  "How the movies began",
   "The tin can: food that keeps",
   "Keeping cool: the story of refrigeration",
   "Flushing toilets and the Great Stink"
@@ -15,914 +16,1202 @@
    "ps": false
   },
   {
-   "t": "In this episode: The tin can: food that keeps, Keeping cool: the story of refrigeration and Flushing toilets and the Great Stink.",
+   "t": "In this episode: How the movies began, The tin can: food that keeps, Keeping cool: the story of refrigeration and Flushing toilets and the Great Stink.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. The tin can: food that keeps.",
+   "t": "Part one. How the movies began.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A question about a galloping horse, a peephole machine and a café screening in Paris led to the most popular art form of the twentieth century.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And one of the first feature films was Australian.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The galloping horse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For centuries, painters showed galloping horses with legs stretched out front and back like a rocking horse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nobody could see fast enough to know.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In California, the businessman Leland Stanford hired the photographer Eadweard Muybridge to find out whether all four hooves ever left the ground at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1878, Muybridge set up a row of cameras along a track, triggered one after another as the horse raced past.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pictures showed that the hooves did leave the ground, but when they were tucked under the body, not stretched out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muybridge then put his sequences on a spinning disc and projected them, so audiences watched the horse appear to run.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Moving pictures had begun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The illusion of motion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A film strip is a long row of photographs, each slightly different from the last.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shown quickly enough, the brain stops seeing separate pictures and perceives smooth movement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was long explained by persistence of vision, the idea that each image lingers on the retina.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most researchers now think that is incomplete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The illusion mainly comes from how the visual system detects motion, filling in movement between closely spaced images, an effect psychologists call apparent motion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early silent films ran at varied speeds, often around 16 to 20 frames per second.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When sound arrived in the late 1920s, 24 frames per second became the standard, and it is still common today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peephole versus screen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thomas Edison's laboratory, with much of the work done by his assistant William Kennedy Laurie Dickson, used flexible celluloid film with holes punched along the edges.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their Kinetoscope, shown to the public in 1894, was a wooden cabinet with a viewing hole.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One customer at a time peered in at a film lasting less than a minute: a strongman flexing, dancers, a sneeze.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Edison thought individual viewing would be more profitable, which let rivals take the lead in projection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In France, Auguste and Louis Lumière built the Cinématographe, a light, hand-cranked machine that could film, print and project.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 28 December 1895, beneath the Grand Café in Paris, they showed short scenes from life to a paying audience.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tale of viewers fleeing their train film has little reliable evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stories on screen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Georges Méliès, a Paris stage magician, discovered that stopping the camera, changing something and restarting could make people vanish.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His 1902 film A Trip to the Moon became one of early cinema's most famous images.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1903, Edwin S. Porter's The Great Train Robbery told an action story across separate scenes, and audiences learned to accept cuts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1906, a Melbourne team including the Tait family filmed the bushranger Ned Kelly's story.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Story of the Kelly Gang ran about an hour, far longer than almost anything before, and is widely considered the first feature-length narrative film.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it is lost, since early nitrate film was fragile and flammable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fragments restored by the National Film and Sound Archive joined UNESCO's Memory of the World Register in 2007.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The talkies arrive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silent films were rarely silent.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cinemas hired pianists, organists or whole orchestras, and some used narrators or sound effects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But recording dialogue that matched the actors' lips was hard.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1927 Warner Bros released The Jazz Singer, with synchronised songs and a few spoken lines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Audiences were thrilled, and within a few years most studios had switched to sound.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The change was brutal for some.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Actors whose voices did not suit the microphone lost careers, cinema musicians lost jobs, and cameras were temporarily trapped in soundproof booths.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet sound also opened new forms, such as the musical.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In barely three decades, moving pictures had gone from scientific curiosity to global art.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1878 Eadweard Muybridge photographed a running horse in sequence, showing that all four hooves leave the ground, tucked under the body.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The tin can: food that keeps.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "An army needed food that would not rot, so a French government offered a prize.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The answer sits in your pantry today, and for decades nobody knew why it worked.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A prize and some bottles.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "For most of history, people preserved food by drying, salting, smoking, pickling or packing it in sugar.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "These methods changed taste and texture, and armies on the move still ate poorly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the 1790s the French government offered a prize for a practical solution.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": ", \"An army marches on its stomach\" is usually attributed to Napoleon, though nobody can prove he said it.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": ",",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Parisian confectioner Nicolas Appert spent about fifteen years experimenting.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He packed food into thick glass bottles, sealed them with cork and wax, and heated them in boiling water for a carefully judged time.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Samples sent to sea with the navy came back still edible months later.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1810 he won 12,000 francs, on condition he published his method.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "His business is often called the first commercial cannery, though his containers were bottles, not cans.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Right method, wrong reason.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Appert believed that heat drove out a corrupting quality in the air, and that sealing kept it from returning.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He had the method right and the reason wrong.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "About half a century later, Louis Pasteur and others showed that food spoils mainly because of microorganisms: bacteria, yeasts and moulds.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Heating kills most of them, and a proper seal stops new ones getting in.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Without microbes, the food inside can last for years.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is a lovely example of technology running ahead of science.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "People often learn that something works long before anyone can explain it.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The explanation then lets engineers improve the method, for example by working out the precise temperatures and times different foods need.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "From glass to tin.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Glass was heavy and broke easily on ships and battlefields.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1810, the year Appert won, Englishman Peter Durand was granted a patent for preserving food in containers including tin-plated iron canisters.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bryan Donkin and partners set up a London canning works around 1812, supplying the Royal Navy and polar explorers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The cans were really iron, later steel, with a thin tin coating to stop rust, each soldered shut by hand.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Oddly, the can opener lagged behind.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Early cans were so thick that instructions reportedly suggested a hammer and chisel, and soldiers reportedly used bayonets or even gunfire.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ezra Warner patented the first US opener in 1858, and William Lyman's rotating wheel followed in 1870, once thinner steel cans made openers practical.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cans, war and lead.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Canned food went wherever fresh supplies were scarce.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Polar expeditions packed it in huge quantities.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sir John Franklin's doomed 1845 Arctic expedition carried thousands of cans, and some researchers suggest lead from the soldered seams contributed to the crew's decline, though historians debate how much it mattered compared with cold, scurvy and starvation.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "During the American Civil War, canned food reached soldiers on a large scale, and many took the habit home.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "By the late nineteenth century, factories using machines and pressure cookers called retorts turned out cans by the million.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lead solder was eventually phased out, and modern cans are often lined to protect both the food and the metal.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ring-pull lids came in the twentieth century.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The can in your cupboard.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Today canned food is among the safest and cheapest ways to store nutritious food for long periods, and it keeps many nutrients surprisingly well.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Canned tomatoes, beans and fish are kitchen staples around the world.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most cans are steel or aluminium, and both are highly recyclable.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The one serious danger is a rare bacterium, Clostridium botulinum, which can grow without oxygen if a can is poorly processed or damaged.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "So the advice is simple: do not use cans that are swollen, bulging, leaking, badly dented along the seams, or that spurt when opened.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In a suspected case of food poisoning with serious symptoms, such as trouble breathing or swallowing, call 000.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: France offered a prize for preserving food, and Nicolas Appert won it in 1810 by heating food sealed in glass bottles.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Keeping cool: the story of refrigeration.",
-   "c": 1,
+   "t": "Part three. Keeping cool: the story of refrigeration.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Your fridge is so ordinary you barely notice it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Yet keeping things cold changed what we eat, how we shop and even how Australia earned its living.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ice from a frozen pond.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1806, Boston businessman Frederic Tudor loaded a ship with ice cut from frozen New England ponds and sent it to the Caribbean island of Martinique.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "People laughed, and much of it melted, but Tudor kept going.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He improved insulation using sawdust and built a huge trade, eventually shipping ice as far as India.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He became known as the Ice King.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Long before Tudor, people in many cultures stored winter ice and snow in pits, cellars and ice houses packed with straw.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In ancient Persia, domed structures called yakhchals held ice through hot summers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cold was gathered from nature and guarded carefully.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The science of cold.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A fridge does not make cold.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It moves heat from inside the box to the outside.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key is an effect you feel when you step out of a swimming pool: as liquid evaporates, it absorbs heat and cools its surroundings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1748 Scottish professor William Cullen showed that evaporating ether in a partial vacuum could freeze a little water, though he built no practical machine.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The trick is to evaporate a liquid inside the cold area, then pump the vapour away and compress it outside, where it releases its heat and turns back into liquid.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Run that cycle continuously and heat keeps flowing out.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is why the back of a fridge feels warm.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Geelong and frozen meat.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "One pioneer of mechanical refrigeration was James Harrison, a Scottish-born printer and journalist who ran the Geelong Advertiser in Victoria.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A popular story says ether used to clean printing type made the metal cold as it evaporated.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "By the 1850s he had built an ice machine using compressed ether vapour, patented in the middle of that decade.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Breweries, needing cold for lager-style beer, and meat works used it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "His bigger dream, shipping frozen meat to Britain, failed in 1873 and left him broke.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia had huge numbers of sheep and cattle but few people to eat them, while British cities wanted cheap meat.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In early 1880 the steamship Strathleven reached London with frozen beef and mutton loaded in Sydney and Melbourne, in good condition.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Frozen meat, then dairy and fruit, became major exports.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The home fridge arrives.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "For decades many households used an icebox, an insulated cabinet cooled by a block of ice delivered by the iceman.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Electric home refrigerators appeared in the early twentieth century, but they were expensive, and early models used toxic or flammable gases such as ammonia, sulphur dioxide and methyl chloride.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Leaks could be deadly.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Around 1930, American chemist Thomas Midgley helped develop chlorofluorocarbons, or CFCs, which seemed perfectly safe.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Decades later scientists found CFCs were destroying the ozone layer that shields Earth from harmful ultraviolet light.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The 1987 Montreal Protocol phased them out, and it is widely seen as one of the most successful environmental agreements ever.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Replacement gases have been changed again since, because some trap heat in the atmosphere.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cold in daily life.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before fridges, many people shopped for perishable food almost daily and preserved it by salting, smoking, drying, pickling or canning.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Refrigeration let families shop weekly and made supermarkets possible.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A cold chain now links farms, ships, trucks and shops, so fresh produce travels far and is eaten out of season.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many vaccines and medicines also need narrow temperature ranges.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "At home, Australian food safety authorities recommend keeping your fridge at 5 degrees or below, because most bacteria that cause food poisoning grow slowly at that temperature.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A cheap thermometer checks it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fridges run all day, so compare the Energy Rating label when buying.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Worn door seals, an oversized fridge or no room behind it all raise power use, and an old second fridge in the garage can quietly add to your bill.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Before machines, cold was a luxury cut from nature, stored in pits and shipped surprising distances.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Flushing toilets and the Great Stink.",
-   "c": 2,
+   "t": "Part four. Flushing toilets and the Great Stink.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Few inventions have saved as many lives as the humble toilet and the sewer pipe behind it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Their story involves a smelly river, a deadly pump and a lot of bricks.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The summer London stank.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The summer of 1858 in London was unusually hot, and the River Thames was full of human waste.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The smell was so overpowering that it was nicknamed the Great Stink.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Beside the river, curtains in the Houses of Parliament were reportedly soaked in chemicals to mask the odour, and politicians considered moving elsewhere.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "For years engineers had warned that London's drains were failing, but little had happened.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Now the people in charge could smell the problem for themselves.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Within weeks Parliament passed a law giving the Metropolitan Board of Works the power and money to build a proper sewer system.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It became one of the great engineering projects of the Victorian age.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Before the flush.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Some ancient cities managed waste well.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Indus Valley homes had drains linked to covered channels, and Rome had large sewers, including the Cloaca Maxima, which still exists.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In many later towns, people emptied chamber pots into cesspits, the street or a river, or paid nightsoil men to cart it away.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "As cities grew, cesspits overflowed into wells, and drinking-water rivers carried sewage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Few saw the danger: the dominant theory blamed disease on bad air, or miasma.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The flush toilet arrived slowly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Around 1596 the Elizabethan courtier Sir John Harington described one with a tank and valve, but it did not catch on.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1775 Scottish watchmaker Alexander Cumming patented an S-bend: water held in the bend seals out smelly gases, an idea still used today.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Thomas Crapper, a real Victorian plumber, did not invent it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "John Snow's pump.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cholera struck London several times in the 1800s, killing tens of thousands.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1854 a terrible outbreak hit Soho.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Doctor John Snow doubted the miasma theory and suspected cholera spread through water.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He mapped where victims lived and found they clustered around a public pump on Broad Street.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He persuaded local officials to remove the pump's handle, and the outbreak, already declining, ended.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Later investigation suggested the well had been contaminated by a nearby cesspit.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Snow's map became a classic of public health and epidemiology.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "His ideas weren't widely accepted at the time, but they helped show that clean water and safe sewage disposal were matters of life and death.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bazalgette's sewers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The engineer given the job of fixing London was Joseph Bazalgette.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "From 1859 his teams built a vast network of brick sewers, with large intercepting sewers running beside the Thames to carry waste east, away from the centre, and release it further downstream.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The system included around 1,800 kilometres of street sewers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bazalgette is often praised for his foresight: when calculating the pipe sizes he needed, he reportedly doubled them to allow for the city's growth.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Parts of the network still work today.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The project also created the Victoria Embankment and other riverside roads.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cholera outbreaks in the city declined, and his work is credited with saving countless lives.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Smellbourne and beyond.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia's booming cities were no better.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1880s Melbourne was among the richest cities in the world, but waste drained into open gutters, cesspits and the Yarra.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Critics punned on \"Marvellous Melbourne\" and called it Marvellous Smellbourne.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Typhoid was a constant threat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A board of works formed in 1891, and later that decade the first homes were connected to a sewer, with waste pumped to a treatment farm at Werribee.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sydney built sewers through the late 1800s.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Around 1980 Australian company Caroma developed the dual flush toilet, saving large amounts of water.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 2007, British Medical Journal readers voted sanitation the greatest medical milestone since 1840, ahead of antibiotics and vaccines.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "By WHO and UNICEF estimates, more than 3 billion people still lack safely managed sanitation.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "World Toilet Day is 19 November.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: The Great Stink of 1858 pushed politicians to build London's sewers once they could smell the problem themselves.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. What were the key steps in Appert's method?",
-   "c": 3,
+   "t": "Question one. What did Muybridge's photographs reveal about galloping horses?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. All four hooves leave the ground, legs tucked under.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What were the key steps in Appert's method?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Seal food in glass bottles, then heat them in boiling water.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. How did people keep ice through hot summers before machines?",
-   "c": 3,
+   "t": "Question three. How did people keep ice through hot summers before machines?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. They stored winter ice in pits and ice houses.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Why did Parliament act on London's sewage in 1858?",
-   "c": 3,
+   "t": "Question four. Why did Parliament act on London's sewage in 1858?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The stench reached the politicians themselves.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

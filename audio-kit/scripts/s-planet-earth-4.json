@@ -1,11 +1,11 @@
 {
  "id": "s-planet-earth-4",
- "h": "ice-cores,climate-change,renewable-energy",
+ "h": "ice-ages,glaciers,green-sahara",
  "title": "Planet Earth & Climate · Episode 4",
  "chapters": [
-  "Ice cores: reading Earth's frozen diary",
-  "Climate change: the basics",
-  "Renewable energy"
+  "Ice ages",
+  "Glaciers: rivers of ice",
+  "When the Sahara was green"
  ],
  "units": [
   {
@@ -15,805 +15,793 @@
    "ps": false
   },
   {
-   "t": "In this episode: Ice cores: reading Earth's frozen diary, Climate change: the basics and Renewable energy.",
+   "t": "In this episode: Ice ages, Glaciers: rivers of ice and When the Sahara was green.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Ice cores: reading Earth's frozen diary.",
+   "t": "Part one. Ice ages.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Drill deep into Antarctica and you pull up ancient air, volcanic fallout and the planet's temperature history, layer by layer, going back 800,000 years.",
+   "t": "Twenty thousand years ago you could have walked from Melbourne to Hobart, and on to New Guinea.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Snow that becomes a record.",
+   "t": "The reason lies in a slow wobble in Earth's orbit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still in an ice age.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the coldest parts of Greenland and Antarctica, snow falls and never melts.",
+   "t": "To geologists, an ice age is any long period when large ice sheets exist on Earth.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Each year's snow buries the last, compressing into granular firn and then solid ice.",
+   "t": "By that definition we are living in one now, because Antarctica and Greenland are covered in ice.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The youngest ice sits on top and the oldest near the bedrock, sometimes more than three kilometres down.",
+   "t": "The current ice age began about 2.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scientists drill out cores about ten centimetres wide and ship them frozen to laboratories.",
+   "t": "6 million years ago.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Where snowfall is heavy, each year leaves a distinct layer, so layers can be counted like tree rings for tens of thousands of years.",
+   "t": "Within it, the climate has swung between cold glacial periods, when ice sheets spread across North America and northern Europe, and shorter warm interglacial periods like today's.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Deeper down, the ice thins and flows, so ages come from flow models and volcanic markers.",
+   "t": "Our interglacial, the Holocene, began about 11,700 years ago.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Eruptions such as Tambora in 1815 leave sulphate spikes in both Greenland and Antarctic ice, tying the records to one calendar.",
+   "t": "When people say 'the Ice Age', they usually mean the most recent glacial period, which peaked around 20,000 years ago.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Bubbles of ancient air.",
+   "t": "Milankovitch cycles.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The most remarkable treasure in ice cores is air.",
+   "t": "Serbian scientist Milutin Milanković calculated how small orbital changes alter the sunlight reaching different latitudes.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "As firn turns to ice, the spaces between grains close off and trap tiny bubbles of atmosphere.",
+   "t": "Eccentricity, the shape of Earth's orbit, varies over about 100,000 years.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the laboratory, scientists crush or melt samples under vacuum and measure gases such as carbon dioxide and methane.",
+   "t": "Obliquity, the axis tilt, varies between about 22 and 24.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "There is one subtlety.",
+   "t": "5 degrees over 41,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Precession, the axis wobble, takes roughly 23,000 years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together they change how much summer sunshine reaches the far north, where ice sheets grow and melt.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1976, deep-sea sediment cores confirmed this rhythm.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The nudges are small, but feedbacks amplify them.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Air keeps circulating through the porous firn until it is sealed, typically several tens of metres down.",
+   "t": "Spreading ice reflects more sunlight, and colder oceans absorb more carbon dioxide.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "So the trapped air is younger than the ice around it, sometimes by thousands of years where snowfall is slow.",
+   "t": "Antarctic ice cores, going back about 800,000 years, show carbon dioxide at roughly 180 parts per million in glacial periods and about 280 in warm ones.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scientists correct for the gap.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australian researchers contributed greatly with cores from Law Dome, near Casey Station, where high snowfall gives a detailed record of carbon dioxide over the past two thousand years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A thermometer in the water.",
+   "t": "Ice-age Australia.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ice itself records temperature.",
+   "t": "The Last Glacial Maximum, roughly 26,000 to 19,000 years ago, was the coldest part of the last glacial period.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Some water molecules contain heavier isotopes, such as oxygen-18 instead of oxygen-16, or deuterium, a heavy form of hydrogen.",
+   "t": "Ice sheets up to about 3 kilometres thick covered Canada, the northern United States and much of northern Europe.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "As moist air travels towards the poles and cools, the heavier molecules tend to fall out as rain or snow first.",
+   "t": "Global temperatures were around 6 degrees Celsius colder than before the industrial era, though figures vary.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "So the colder the conditions, the fewer heavy molecules remain in the snow that finally lands on the ice sheet.",
+   "t": "Woolly mammoths and cave lions roamed Europe's cold steppes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia had no large ice sheets, but it was colder, drier and windier, and desert dunes expanded.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "By measuring the ratio of heavy to light isotopes in each layer, scientists can reconstruct how temperature changed over time.",
+   "t": "Glaciers carved Tasmania's highlands, including Cradle Mountain's lakes, and small glaciers formed near Mount Kosciuszko.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This isotope thermometer, developed largely by Danish scientist Willi Dansgaard from the 1950s, is a foundation of modern climate science.",
+   "t": "Willandra Lakes, including Lake Mungo, held water at various times.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "800,000 years of climate.",
+   "t": "Aboriginal people had already lived here for tens of thousands of years and adapted to these harsh conditions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower seas, Sahul.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The longest continuous ice core record comes from Dome C, high on the East Antarctic plateau, drilled by the European project EPICA.",
+   "t": "At the Last Glacial Maximum, so much water was locked up in ice that global sea levels were roughly 120 metres lower than today.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It reaches back about 800,000 years and shows eight full cycles of ice ages and warmer interglacial periods.",
+   "t": "Australia, New Guinea and Tasmania formed a single landmass scientists call Sahul.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Through all of them, carbon dioxide and temperature rise and fall together.",
+   "t": "Bass Strait was a broad plain that could be walked across, and a land bridge joined Cape York to New Guinea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A similar landmass, Sunda, joined Indonesian islands to Asia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the ice melted, seas rose, at times by more than a metre per century.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In cold glacial periods carbon dioxide sat around 180 parts per million.",
+   "t": "Tasmania was cut off roughly 12,000 years ago and New Guinea roughly 8,000 years ago, though estimates vary.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In warm interglacials it rose to around 280 to 300.",
+   "t": "Seas reached near present levels about 7,000 years ago.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Changes in Earth's orbit pace the cycles, with carbon dioxide acting as a powerful amplifier.",
+   "t": "Some researchers suggest certain Aboriginal oral traditions may preserve memories of rising seas, an idea taken seriously but still debated.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "By the mid-2020s atmospheric carbon dioxide had passed 420 parts per million, far outside the range of the entire ice core record.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Abrupt change, older ice.",
+   "t": "What it means for us.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Greenland cores revealed something unsettling.",
+   "t": "A modest change in sunlight, amplified by ice and carbon dioxide feedbacks, was enough to shift global temperatures by several degrees and sea levels by over 100 metres.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the last ice age, temperatures there repeatedly jumped by several degrees, sometimes ten or more, within decades.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These Dansgaard–Oeschger events showed that climate can change abruptly.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The ice also records human history: lead from Roman mining and smelting settled in the snow, and dipped in times of war and plague.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Wildfires and dust storms leave traces too.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A puzzle remains.",
+   "t": "Today, carbon dioxide has risen from about 280 parts per million before industry to well over 400, higher than at any time in the ice-core record and far faster than natural glacial cycles.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "About a million years ago, ice-age cycles lengthened from roughly 41,000 to about 100,000 years, and nobody is sure why.",
+   "t": "On orbital grounds alone, scientists expect the next glacial period is many tens of thousands of years away, and human emissions may delay it further.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In early 2025 the Beyond EPICA project reached bedrock at Little Dome C, recovering ice believed to be more than a million years old, though dating is still under way.",
+   "t": "The coastlines we know, and the Aboriginal history written into them, are a reminder that the map is never permanent.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: Snow that never melts compresses into ice, forming a dated archive with the oldest layers at the bottom.",
+   "t": "The key idea: Technically we live in an ice age, in a warm interglacial period that began about 11,700 years ago.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Climate change: the basics.",
+   "t": "Part two. Glaciers: rivers of ice.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "The physics has been understood since the 1800s.",
+   "t": "Glaciers look frozen in place, but they flow, grind and carve like slow-motion rivers.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Here's what's actually happening, what it means for Australia and what's being done.",
+   "t": "They shaped many of the world's most beautiful landscapes, including some in Tasmania.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The greenhouse effect.",
+   "t": "Ice that moves.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Sunlight warms the Earth's surface, which then gives off heat as infrared radiation.",
+   "t": "Stand beside a glacier in New Zealand or Alaska and you will hear it creak, groan and sometimes crack like a gunshot, because it is moving.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Gases such as water vapour, carbon dioxide, CO₂, and methane absorb some of that infrared and send it back down, like a blanket.",
+   "t": "A glacier is a large body of ice that forms on land and flows downhill or outward under its own weight.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This natural greenhouse effect is essential: without it, Earth's average temperature would be around minus 18 degrees instead of about 15 degrees.",
+   "t": "Most move perhaps tens of centimetres to a few metres a day, though some outlet glaciers in Greenland and Antarctica race along at many kilometres a year.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The problem is thickening the blanket.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This isn't new science.",
+   "t": "Glaciers and ice sheets together hold most of the planet's fresh water, around two thirds by common estimates.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1856, Eunice Foote showed that a glass cylinder of CO₂ heated up more in sunlight than one of ordinary air.",
+   "t": "Glaciers exist on every continent except mainland Australia, from tropical peaks in South America and Africa to the polar regions.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "John Tyndall measured how gases absorb heat in 1859, and in 1896 Svante Arrhenius calculated that burning coal could warm the planet.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Where the CO₂ comes from.",
+   "t": "From snow to flowing ice.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Since the Industrial Revolution, humans have burned vast amounts of coal, oil and gas, and cleared forests.",
+   "t": "Every glacier begins as snow.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Atmospheric CO₂ has risen from about 280 parts per million to over 420, higher than at any time in at least 800,000 years, based on air bubbles trapped in Antarctic ice.",
+   "t": "Where more falls in winter than melts in summer, it builds up year after year.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "We know the extra carbon comes from fossil fuels because it carries a distinctive isotope signature.",
+   "t": "As new layers pile on, older snow is compressed into rounded grains called firn.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Globally, the biggest sources are electricity and heat, industry such as steel and cement, transport, agriculture, land clearing and buildings.",
+   "t": "Over years to centuries the firn is squeezed until the air spaces close off as tiny bubbles and it becomes solid glacier ice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thick ice absorbs red light, which is why deep crevasses glow blue, and the trapped bubbles preserve samples of ancient air.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under enough pressure, solid ice behaves a little like stiff toffee.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Methane, from livestock, landfill and gas leaks, is a powerful short-lived gas.",
+   "t": "Its crystals slowly deform and slide past one another, and many glaciers also slide on meltwater at their base.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In Australia, coal-reliant electricity has historically been the largest source, and emissions per person are among the highest in the developed world.",
+   "t": "The brittle surface cracks into crevasses, which can be tens of metres deep and hidden under snow bridges.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "How much warmer.",
+   "t": "Nature's bulldozers.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The global average surface temperature has risen by roughly 1.",
+   "t": "As a glacier moves, it plucks rocks from its bed and drags them along like sandpaper.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "3 to 1.",
+   "t": "A river usually cuts a narrow V-shaped valley, but a glacier widens and deepens it into a broad U with steep walls.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "4 degrees since the late 1800s, and the last decade was the warmest on record.",
+   "t": "At the head of a glacier, ice gouges a bowl-shaped hollow called a cirque, which often holds a lake after the ice melts.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 2024, the global average for a single year exceeded 1.",
+   "t": "Where several cirques eat into a mountain from different sides, they leave a sharp pyramid peak, as with the Matterhorn in the Alps.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5 degrees above pre-industrial levels for the first time.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's climate has warmed by about 1.",
+   "t": "When glaciers carve valleys below sea level and the ice later retreats, the sea floods in, creating fjords like those of Norway and Fiordland in New Zealand.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "5 degrees since national records began in 1910, according to the Bureau of Meteorology and CSIRO.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Land warms faster than oceans, which is why Australia's figure is higher than the global average.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Global sea level has also risen by more than 20 centimetres since 1900, and the rate is increasing.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What it means here.",
+   "t": "What glaciers leave behind.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "For Australia, the effects include more frequent and intense heatwaves, and longer, more dangerous bushfire seasons in the south and east.",
+   "t": "Glaciers are messy.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Some areas get heavier downpours, while the south-west and south-east get less cool-season rain.",
+   "t": "Everything they carry, from fine rock flour to boulders the size of houses, is dumped where the ice melts.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The oceans around Australia have warmed and become more acidic, which stresses marine life.",
+   "t": "Ridges of this debris are called moraines, and they mark the sides and furthest reach of old glaciers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Huge lone boulders sitting far from any matching rock are glacial erratics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1800s, scientists such as Louis Agassiz used clues like these to argue that much of Europe had once been buried under ice, an idea that was startling at the time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meltwater is milky with fine rock flour, which is why glacier-fed lakes often glow turquoise, as at Lake Tekapo in New Zealand and Lake Louise in Canada.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "During marine heatwaves, when seawater stays unusually hot for days or weeks, corals expel the algae that feed them and turn white.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Great Barrier Reef has suffered several of these mass bleaching events since 2016.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rising seas also add to the risk of flooding along low-lying coasts.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Paris and progress.",
+   "t": "Tasmania and a warming world.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the 2015 Paris Agreement, nearly every country agreed to keep warming well below 2 degrees and pursue efforts to limit it to 1.",
+   "t": "Mainland Australia has no glaciers today, and saw only small ones in the Snowy Mountains during the last ice age.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "5 degrees.",
+   "t": "Tasmania tells a different story.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scientists say that needs steep emissions cuts this decade and net zero, where remaining emissions are balanced by removals, around mid-century.",
+   "t": "Ice caps and glaciers once covered parts of the Central Highlands and West Coast ranges.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Every fraction of a degree matters: 2 degrees instead of 1.",
+   "t": "Dove Lake, beneath Cradle Mountain, sits in a basin carved by ice, and Lake St Clair, Australia's deepest freshwater lake, was also shaped by glaciers.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5 degrees means more extreme heat, more species loss and far more damage to coral reefs.",
+   "t": "Heard Island, an Australian territory in the Southern Ocean, still has active glaciers.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Solutions are scaling quickly.",
+   "t": "Worldwide, most mountain glaciers are losing ice, linked to rising temperatures.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Solar power's cost fell by roughly 90 per cent in the 2010s.",
+   "t": "Their meltwater feeds rivers that supply many millions of people, and shrinking glaciers may mean lower summer flows.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Australia has more than four million rooftop solar systems, among the most per person in the world, and renewables now supply more than 40 per cent of the main grid's electricity.",
+   "t": "In 2019 Iceland held a memorial for Okjokull, a glacier that had lost so much ice it was no longer considered one.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Individuals help most through big choices: how they power and heat their homes, how they travel and how they vote.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Greenhouse gases trap heat that would otherwise escape to space, and the physics has been understood for over a century.",
+   "t": "The key idea: A glacier is a large mass of ice that flows downhill under its own weight.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Renewable energy.",
+   "t": "Part three. When the Sahara was green.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Australia has more rooftop solar per person than almost anywhere on Earth.",
+   "t": "Ten thousand years ago, people fished, swam and herded cattle across land that is now the world's largest hot desert.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Here's how renewables work, and what makes the switch hard.",
+   "t": "A wobble in Earth's orbit explains how.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Why renewables.",
+   "t": "Hippos in the desert.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Renewable energy comes from sources that are constantly replenished: sunlight, wind, flowing water and heat from the Earth.",
+   "t": "The Sahara covers around nine million square kilometres of North Africa, larger than Australia, and much of it gets almost no rain.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Fossil fuels like coal and gas release carbon dioxide stored over millions of years when burned, and electricity generation has long been one of Australia's largest sources of greenhouse emissions.",
+   "t": "Yet clues to a different past are scattered across it.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Renewables produce almost no emissions while running, although making and installing them has a footprint.",
+   "t": "Rock paintings and engravings at places like Tassili n'Ajjer in Algeria show giraffes, elephants, rhinoceroses, hippopotamuses and herds of cattle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fossilised crocodile and fish bones lie in bare sand, and ancient shorelines mark vanished lakes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mega-Lake Chad once covered hundreds of thousands of square kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists call this wetter time the African Humid Period, lasting roughly from 15,000 to 5,000 years ago.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Across their whole lifetime, solar, wind and hydro emit only a small fraction of the carbon of coal per unit of electricity.",
+   "t": "In 1933 explorer László Almásy found the Cave of Swimmers in Egypt's Gilf Kebir, whose figures appear to swim, though some researchers think they may be spiritual rather than literal.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "They also use free fuel, a big reason the cost of renewable electricity has fallen so sharply over the past two decades.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Solar power.",
+   "t": "The orbital wobble.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Solar photovoltaic panels convert sunlight directly into electricity.",
+   "t": "The main driver was astronomical.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When light hits a cell of specially treated silicon, it knocks electrons loose and the cell's structure pushes them one way, creating direct current.",
+   "t": "Earth's axis slowly wobbles, like a spinning top, in a cycle of roughly 20,000 to 26,000 years called precession.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "An inverter converts this to the alternating current used in homes.",
+   "t": "This changes the time of year when Earth is closest to the Sun.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A University of New South Wales team led by Martin Green developed the PERC cell design in the 1980s, which became the world's dominant solar cell technology for years.",
+   "t": "Around 10,000 years ago the Northern Hemisphere was closest during its summer, so North Africa received noticeably more summer sunshine than today.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Panel prices fell by around 90 per cent during the 2010s as mass production scaled up, largely in China.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sunshine, rebates and falling prices helped more than a third of Australian houses install panels, around four million systems by the mid-2020s, among the highest rates per person in the world.",
+   "t": "Stronger heating over the land drew the West African monsoon much further north, carrying rain deep into what is now desert.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Wind and hydro.",
+   "t": "Feedbacks amplified the change: plants and lakes darkened the landscape and recycled moisture into the air, helping the rains persist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The opposite process eventually dried the region out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People of the green Sahara.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Wind turbines capture the energy of moving air, spinning a generator.",
+   "t": "People moved into the Sahara as it greened.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Modern towers can exceed 100 metres, with blades longer than an Olympic swimming pool.",
+   "t": "At Gobero, in Niger, archaeologists working from 2000 onwards uncovered graves of communities who lived beside an ancient lake.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Wind speeds rise with height and power rises steeply with speed, so taller turbines produce much more.",
+   "t": "Their remains lay with bone harpoons, fish hooks and pottery, along with bones of fish, turtles and crocodiles.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The best resources are along the southern coast and in elevated areas, and South Australia gets well over half its electricity from wind and solar combined.",
+   "t": "One moving burial held a woman and two children, apparently laid to rest together.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Wind suits solar because it often blows at night and in winter, when solar output is low.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hydroelectric power, Australia's oldest large-scale renewable, uses water flowing downhill through turbines and can ramp up within minutes, a valuable backup when solar and wind dip.",
+   "t": "Across the region people made some of the world's early pottery and, later, took up cattle herding as conditions became drier and less predictable.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Tasmania gets most of its electricity from hydro, and the Snowy Mountains Scheme is the mainland's biggest.",
+   "t": "Rock art shows people with herds and dogs.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Storing energy.",
+   "t": "This was not a single culture but many groups, adapting over thousands of years to a landscape that kept changing around them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drying out.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "At midday, rooftop solar can flood the grid, and wholesale prices sometimes go negative.",
+   "t": "As Earth's orbit continued its slow cycle, summer sunshine in North Africa weakened and the monsoon retreated south.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Then the sun sets and the wind drops.",
+   "t": "The lakes shrank, the grasslands thinned and the Sahara became desert again around 5,000 years ago.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Storage solves both problems.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2017, after a statewide blackout the year before, the Hornsdale Power Reserve was built near Jamestown in South Australia.",
+   "t": "Scientists still debate how quickly.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "At 100 megawatts, it was then the world's largest lithium-ion battery, built in under 100 days.",
+   "t": "Ocean sediments, which record dust blown off Africa, suggest a fairly abrupt shift over a few centuries.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It stabilises the grid, responding to faults in fractions of a second, faster than traditional power stations.",
+   "t": "Lake and pollen records suggest a more gradual drying that varied by place.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Home batteries store daytime solar for the evening.",
+   "t": "The people there had to adapt, and many appear to have moved towards more reliable water, including the Nile Valley.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Snowy 2.",
+   "t": "Some archaeologists suggest this migration played a part in the rise of early Egyptian civilisation, though that link remains a hypothesis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A desert that breathes.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "0 is pumped hydro: it links two reservoirs, Tantangara and Talbingo, pumping water uphill when power is cheap and releasing it when needed, storing energy for days rather than hours.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its estimated cost has blown out from about $2 billion to more than $20 billion.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Trade-offs and targets.",
+   "t": "The green period was not unique.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Solar and wind are variable, so the grid needs storage, backup such as gas, and smarter demand management.",
+   "t": "Sediment records show the Sahara has swung between desert and grassland many times over hundreds of thousands of years, roughly in step with the precession cycle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These green corridors may have opened routes for animals and early humans to move out of Africa.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even as a desert, the Sahara shapes the planet.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Good sites are often far from cities, so thousands of kilometres of new transmission lines are needed, which can face strong opposition.",
+   "t": "Winds lift hundreds of millions of tonnes of dust each year and carry it across the Atlantic.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Wind and solar farms use large areas of land, and turbines can affect birds and landscapes.",
+   "t": "Much comes from the Bodele Depression in Chad, the dried bed of the old mega-lake.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Panels, turbines and batteries need mined minerals, and recycling at scale is still developing.",
+   "t": "Satellite studies suggest this dust delivers phosphorus and other nutrients to the Amazon rainforest, helping fertilise one of Earth's richest ecosystems.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Still, renewables supplied roughly 40 per cent of electricity in the main eastern and southern grid by the mid-2020s, up from under 10 per cent in the early 2000s, and in 2022 the federal government set a target of 82 per cent by 2030, though progress is debated.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "For a home system, get several quotes from accredited installers and check rebates.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Renewable energy comes from naturally replenished sources and produces almost no emissions while running.",
+   "t": "The key idea: Rock art, fossils and ancient shorelines show the Sahara once had lakes, grasslands and large animals.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -825,37 +813,37 @@
    "ps": false
   },
   {
-   "t": "Question one. How do scientists date ice too deep for its yearly layers to be counted?",
+   "t": "Question one. Why do geologists say we are still in an ice age?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. By using ice-flow models and volcanic markers.",
+   "t": "Answer. Ice sheets still cover Antarctica and Greenland.",
    "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why is the natural greenhouse effect important?",
+   "t": "Question two. What makes a glacier move?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Without it, Earth would be far too cold.",
+   "t": "Answer. Its own weight pulling it downhill.",
    "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Why has the cost of renewable electricity fallen so sharply?",
+   "t": "Question three. Which of these is evidence that the Sahara was once green?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Free fuel and mass-produced equipment have cut costs.",
+   "t": "Answer. Rock art showing hippos and cattle.",
    "c": 3,
    "k": "a",
    "ps": false

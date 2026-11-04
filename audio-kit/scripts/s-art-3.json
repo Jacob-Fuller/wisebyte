@@ -1,11 +1,11 @@
 {
  "id": "s-art-3",
- "h": "bauhaus-design-school,frida-kahlo,looking-at-art",
+ "h": "impressionism,modern-art,bauhaus-design-school",
  "title": "Art History · Episode 3",
  "chapters": [
-  "The Bauhaus: the school that designed the modern world",
-  "Frida Kahlo: painting her own reality",
-  "How to look at a painting"
+  "Impressionism",
+  "Modern art, explained",
+  "The Bauhaus: the school that designed the modern world"
  ],
  "units": [
   {
@@ -15,865 +15,805 @@
    "ps": false
   },
   {
-   "t": "In this episode: The Bauhaus: the school that designed the modern world, Frida Kahlo: painting her own reality and How to look at a painting.",
+   "t": "In this episode: Impressionism, Modern art, explained and The Bauhaus: the school that designed the modern world.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. The Bauhaus: the school that designed the modern world.",
+   "t": "Part one. Impressionism.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Rejected by the art establishment and mocked by critics, a group of painters in 1870s Paris changed how the world sees light.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rejected by the Salon.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 19th-century Paris, an artist's career depended on the Salon, the official exhibition run by the state-backed Académie des Beaux-Arts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its juries favoured large, highly finished paintings of history, myth and religion, with smooth surfaces that hid the brushwork.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thousands of works were rejected each year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1863 so many were turned away that Emperor Napoleon III allowed a Salon des Refusés, an exhibition of the rejected.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crowds came partly to laugh, especially at Édouard Manet's Le Déjeuner sur l'herbe, which showed a naked woman picnicking with clothed men in modern dress.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going it alone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frustrated with the Salon, a group including Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Camille Pissarro and Berthe Morisot organised their own show in 1874, in the former studio of the photographer Nadar.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of Monet's works was titled Impression, Sunrise, a hazy view of the port of Le Havre.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The critic Louis Leroy seized on it and mockingly called the group 'Impressionists', meaning their pictures looked like unfinished sketches.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The artists eventually adopted the name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They held eight group exhibitions between 1874 and 1886.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Painting light outdoors.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Traditional painters sketched outside but finished their pictures in the studio.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Impressionists wanted to capture a real moment of light and weather, so many worked en plein air, French for 'in the open air'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paint in collapsible metal tubes, invented in 1841, made colours portable, and new railways carried Parisians to riverside towns and the coast.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Working fast before the light changed, they used quick, visible brushstrokes and set bright colours side by side, letting the eye blend them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Monet painted the same subject at different times, such as haystacks and Rouen Cathedral, and later painted his Giverny water garden about 250 times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A radical break.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today Impressionism is hugely popular, but it broke several rules at once.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The paintings looked unfinished.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their subjects were train stations, boating parties and gardens, not gods or battles, and they told no moral story.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shadows were blue and purple rather than brown and black.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Japanese woodblock prints and photography influenced their cropped, flat, frozen compositions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The painters were not all alike.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Renoir loved joyful social scenes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Degas disliked the label and worked mostly indoors, painting dancers and cafés from odd angles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Morisot, in seven of the eight shows, painted women and children at home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary Cassatt, an American, also joined.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian bush.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1880s, Melbourne painters including Tom Roberts, Arthur Streeton and Frederick McCubbin set up artists' camps at Box Hill and Heidelberg, then on the city's rural edge.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Painting outdoors, they tried to capture the harsh, bright Australian light.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1889 they held the 9 by 5 Impression Exhibition, with many works painted on cigar-box lids.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roberts's Shearing the Rams, 1890, became a national icon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians debate how closely they followed French Impressionism.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To enjoy these works, look from two distances.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Up close you see separate dabs of colour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few metres back they merge into shimmering light.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 19th-century Paris the state-run Salon decided which art was seen, and it favoured polished, traditional paintings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Modern art, explained.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Melting clocks, soup cans and paint dripped on the floor: the ideas behind a century of art that people love to argue about.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beyond copying the eye.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the 1880s, some artists felt Impressionism was too focused on fleeting light.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The critic Roger Fry later grouped them as 'Post-Impressionists'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paul Cézanne rebuilt nature from simple shapes, aiming for solidity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vincent van Gogh used swirling brushwork and intense colour to express emotion, as in The Starry Night, 1889; he sold very few paintings in his lifetime.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paul Gauguin used flat, symbolic colour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Georges Seurat built pictures from tiny dots of pure colour, a method called pointillism.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each moved away from copying the visible world and towards expressing ideas and feelings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cubism and abstraction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since the Renaissance, European painting used perspective to show a scene from one fixed viewpoint, like a window.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1907 to 1914, Pablo Picasso and Georges Braque broke that rule.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They split objects into facets and showed several sides at once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cubists also invented collage, gluing newspaper onto canvas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A painting was now a flat object, not a window.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That opened a question: could art show nothing recognisable at all?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1910s Kandinsky compared colour to music, Malevich painted a black square, and Mondrian used straight lines and primary colours.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hilma af Klint had painted abstractly since 1906 but kept it private.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1917 Duchamp submitted a urinal titled Fountain, asking what makes something art.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dreams and the unconscious.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After the horror of World War I, many artists distrusted reason itself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1924 the French writer André Breton published the Surrealist Manifesto, inspired by Sigmund Freud's ideas about dreams and the unconscious.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surrealists tried to unlock the irrational through dream imagery, chance and automatic drawing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salvador Dalí's The Persistence of Memory, 1931, with its melting clocks, is the most famous example.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "René Magritte painted a pipe with the words 'This is not a pipe' beneath it, a witty reminder that a picture of a thing is not the thing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surrealism spread into film, photography and advertising.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New York and Pop.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After World War II, the art world's centre shifted from Paris to New York.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Abstract Expressionists made huge canvases meant to carry intense feeling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jackson Pollock dripped and poured paint onto canvas laid on the floor, so the work recorded his movement.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mark Rothko painted glowing rectangles of colour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1973 the Australian government bought Pollock's Blue Poles for $1.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3 million, causing a public uproar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is now valued at far more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the late 1950s and 1960s, Pop Art reacted against that seriousness, borrowing from advertising, comics and celebrities.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Andy Warhol painted Campbell's Soup Cans, 1962, and Roy Lichtenstein enlarged comic panels, asking whether high art and commercial images were really separate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "My kid could do that.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The complaint that a child could paint a Rothko or a Pollock misses what these artists were doing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many were highly trained: Picasso painted in a skilled academic style as a teenager, then chose to abandon it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The point was often the idea, the risk of going first, and hundreds of deliberate choices about scale, colour and balance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2011 study found that people, including non-experts, more often preferred abstract artists' works over similar-looking pictures by children or animals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you meet a puzzling work, ask what the artist is rejecting, what choices you can see, and how it feels.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You are allowed not to like it, but try to understand it first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Post-Impressionists such as Cézanne, Van Gogh, Gauguin and Seurat moved from copying what the eye sees towards expressing ideas and feelings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Bauhaus: the school that designed the modern world.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "A German art school lasted only fourteen years before the Nazis shut it down.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Yet its ideas are in your kitchen chairs, your fonts and the buildings you walk past every day.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Art meets craft.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1919, just after the First World War, the architect Walter Gropius founded a school in Weimar, Germany, by merging an art academy with a school of arts and crafts.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He called it the Staatliches Bauhaus, roughly meaning state house of building.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gropius believed the old split between fine artists and craftspeople was harmful.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Painters looked down on furniture makers, while industry churned out poorly designed products.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "At the Bauhaus, students learned artistic principles and hands-on skills in workshops for metal, wood, textiles, pottery, printing and more.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The long-term goal was building, bringing all the arts together.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Germany was poor and divided, and the school hoped to help shape a better society.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Learning to see again.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "New students first took the preliminary course, developed by Johannes Itten and later run by László Moholy-Nagy and Josef Albers.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The aim was to unlearn old academic habits and experiment directly with materials.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Students explored the textures of wood, glass, paper and metal, studied contrasts of light and dark, and built structures from folded paper.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Albers later became famous for his studies of how colours change depending on their neighbours.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The painters Paul Klee and Wassily Kandinsky taught theories of form and colour.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It was one of the most remarkable teaching staffs ever gathered.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Objects and women.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The school shifted from handcraft towards designing prototypes for industry.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Marianne Brandt designed teapots and lamps.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Marcel Breuer designed a tubular steel armchair in the mid 1920s, later called the Wassily chair, inspired by the steel tubes of his bicycle.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Herbert Bayer designed clean lower case typefaces.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many Bauhaus designs are still made today.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The school officially welcomed women, and in its first year more women than men applied.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Leaders worried, and many women were pushed towards weaving.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "They turned that limitation into an achievement: under Gunta Stölzl, the first female master, the weaving workshop became one of the most commercially successful, and Anni Albers developed new textiles.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Brandt broke into metalwork.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Dessau and the Nazis.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Conservative politicians in Weimar saw the Bauhaus as foreign, left-wing and a waste of public money, and cut its funding.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1925 it moved to Dessau, where Gropius designed an icon of modern architecture, completed in 1926: a glass curtain wall, flat roofs and linked wings.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gropius stepped down in 1928, followed by Hannes Meyer and, from 1930, Ludwig Mies van der Rohe.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Weimar and Dessau buildings are now UNESCO World Heritage sites.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Nazis attacked it as un-German and communist.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "After they gained power on Dessau's council, the school was forced out in 1932.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Mies tried to continue in Berlin, but police raided it, and the staff closed it in 1933.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Jewish and left-wing members suffered persecution, and some were killed in the Holocaust.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A worldwide legacy.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In fourteen years the school had perhaps 1,250 students, a small number for such influence.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Its closure scattered its ideas worldwide.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gropius taught at Harvard, and Mies led the architecture school at what became the Illinois Institute of Technology, designing glass and steel towers that defined the modern skyline.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Moholy-Nagy founded the New Bauhaus in Chicago in 1937.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Josef and Anni Albers taught at Black Mountain College in North Carolina.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bauhaus-trained architects helped build the White City of Tel Aviv, now a World Heritage site.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A common myth credits the Bauhaus with the slogan form follows function, but it came from the American architect Louis Sullivan in the 1890s.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Still, it suits the Bauhaus well.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Walter Gropius founded the Bauhaus in 1919 to unite art and craft, so students learned both principles and hands-on skills.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Frida Kahlo: painting her own reality.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "A teenage bus crash left her in pain for life.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "From her bed, with a mirror above her, Frida Kahlo began painting the face that would become one of the most recognised in art.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A girl from Coyoacán.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Magdalena Carmen Frida Kahlo was born on 6 July 1907 in Coyoacán, then a village on the edge of Mexico City.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Her father was a photographer of German origin and her mother was Mexican.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Later she often gave her birth year as 1910, the year the Mexican Revolution began, linking herself to the birth of modern Mexico.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At about six she caught polio, which left her right leg thinner than the left.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Bright and rebellious, she was admitted in 1922 as one of a small number of girls at the elite National Preparatory School, planning to study medicine.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Art was not yet her ambition.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The accident.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On 17 September 1925, the bus Frida was riding in collided with a streetcar in Mexico City.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "She was eighteen.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A metal handrail pierced her body, and she fractured her spine, pelvis, collarbone, ribs and right leg.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Doctors doubted she would survive.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "She did, but she spent months in bed and lived with pain for the rest of her life, undergoing many operations.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "During her recovery, her mother had a special easel made so she could paint lying down, and a mirror fitted above her bed.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "With her own reflection as the most available subject, she began painting self-portraits.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Medicine gave way to art.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Frida and Diego.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1928 Frida showed her paintings to Diego Rivera, already Mexico's most famous painter and a leader of the mural movement, which covered public walls with scenes of Mexican history and workers' lives.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He encouraged her, and they married in 1929.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He was about twenty years older and much larger, and her parents reportedly compared the match to an elephant marrying a dove.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Both had many affairs, and Rivera's affair with Frida's sister Cristina hurt her deeply.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They divorced in 1939 and remarried in 1940.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They travelled to the United States, where Rivera painted murals, and their circle included artists, writers and political figures, among them the exiled Russian revolutionary Leon Trotsky.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Her own reality.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Kahlo made around 55 self-portraits, more than a third of her known paintings.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "She kept her joined eyebrows and faint moustache, and often wore traditional Tehuana dresses from southern Mexico, celebrating Indigenous culture.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Her small, detailed works drew on folk art and devotional paintings called retablos, and were frank about pain, miscarriage, surgery and heartbreak.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In The Two Fridas, 1939, two versions of herself sit hand in hand, their exposed hearts joined by a single vein.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Surrealist leader André Breton visited in 1938 and arranged a Paris exhibition in 1939.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Louvre bought her self-portrait The Frame, making her the first twentieth century Mexican artist in its collection.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Yet she said she did not paint dreams but her own reality.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Final years and fame.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Her health worsened in the 1940s and 1950s.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "She wore supportive corsets, some of which she painted on, and had several spinal operations.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1953 part of her right leg was amputated because of gangrene.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That year she had her first solo exhibition in Mexico.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Told by doctors not to attend, she arrived by ambulance and received guests lying on her four poster bed, which was installed in the gallery.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "She died at the Blue House on 13 July 1954, aged 47.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In life she was often seen as Rivera's wife.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "From the 1970s feminist art historians, Mexican American artists and a 1983 biography broadened her audience.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2021 Diego and I sold for about 35 million US dollars, then a record for a Latin American artist.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Frida Kahlo was born in 1907 near Mexico City, survived polio, and planned to study medicine, not art.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. How to look at a painting.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Most gallery visitors spend less than half a minute in front of a painting.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here is how to see far more in the same wall.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The half-minute problem.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Researchers who have quietly timed visitors in major museums, such as the Metropolitan Museum of Art in New York, found that people often spend less than 30 seconds in front of a work, and part of that time goes to reading the label.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is not surprising.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Galleries are big, walls are crowded, and we are used to scrolling.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But paintings were usually made over weeks or months, and they were designed to be looked at slowly.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Begin with your first reaction.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Are you drawn in, bored, uneasy or delighted?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Where did your eye land first?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Artists use contrast, colour and light to pull attention to a focal point.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Composition and colour.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Describe what you see, as if to someone on the phone.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Naming things forces you to notice them.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A useful trio of questions from Visual Thinking Strategies is: What is going on here?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What do I see that makes me say that?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What more can I find?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Composition is how the picture is arranged.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Look for big shapes, such as the stable triangle in many Renaissance paintings, and lines that lead your eye.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Try squinting: detail fades and the structure of light and dark appears.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Colour carries emotion before you know the subject.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Warm colours feel energetic, cool ones calm.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Complementary colours, such as blue and orange, intensify each other, as Van Gogh used deliberately.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Light and shadow.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Find the light source.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Is it a window, a candle, the sun or nowhere in particular?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Strong contrast between light and dark is called chiaroscuro, and it creates drama and a sense of solid form.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Italian painter Caravaggio, around 1600, used spotlights of light against deep darkness, like a stage.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rembrandt used light to reveal emotion in faces.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Johannes Vermeer's soft window light makes quiet domestic moments feel almost sacred.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Light can also carry meaning.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In religious art it often signals the divine, and in Impressionism it becomes the subject itself.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Context comes second.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Once you have looked closely, context adds layers.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Who made this, when and where?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Who paid for it, and where was it meant to hang: a church, a palace, a home, a gallery?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What did its symbols mean to people then?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In old European paintings, a skull or a snuffed candle reminds viewers of death, and a dog often suggests loyalty.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For Aboriginal art, meaning may be tied to Country and law, and some of it is not public.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Read the label and wall text after your first look, not before, so your own eyes do the work first.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Slow looking in practice.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Harvard art historian Jennifer Roberts famously asks her students to look at one artwork for three hours, and they notice things they would never see at a glance.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "You don't need three hours.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Try five or ten minutes with one painting.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Look at the edges and corners, which people ignore, then step back for the whole.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "'Museum fatigue' is real, and attention drops fast after an hour or so.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Pick a handful of works and leave while you are still enjoying it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "General admission to many major Australian galleries, including the National Gallery of Australia, NGV, the Art Gallery of NSW and QAGOMA, is free, so short repeat visits cost nothing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A quick sketch makes you look harder than a photo.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Gallery visitors often spend under 30 seconds on a painting, even though paintings were made to be looked at slowly.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -885,37 +825,37 @@
    "ps": false
   },
   {
-   "t": "Question one. What was Gropius's central aim for the Bauhaus?",
+   "t": "Question one. What did the Salon juries mostly favour?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Large, polished paintings of history and myth.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Post-Impressionists such as Cézanne and Van Gogh move towards?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Expressing ideas and feelings over appearances.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What was Gropius's central aim for the Bauhaus?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. To unite fine art and craft, working towards building.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. What does Kahlo's early plan to study medicine show?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. She did not set out to become an artist.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. Why do studies of gallery visitors point to a problem?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Visitors often give each work under half a minute.",
    "c": 3,
    "k": "a",
    "ps": false

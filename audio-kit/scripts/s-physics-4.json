@@ -1,0 +1,948 @@
+{
+ "id": "s-physics-4",
+ "h": "relativity,quantum,antimatter",
+ "title": "Physics Basics · Episode 4",
+ "chapters": [
+  "Einstein's relativity, simply",
+  "Quantum mechanics, simply",
+  "Antimatter: the universe's missing twin"
+ ],
+ "units": [
+  {
+   "t": "Physics Basics. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Einstein's relativity, simply, Quantum mechanics, simply and Antimatter: the universe's missing twin.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Einstein's relativity, simply.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Moving clocks run slow, space bends, and your head ages faster than your feet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Relativity is strange, and it's been confirmed again and again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light's fixed speed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you throw a ball forward at 20 kilometres an hour on a train doing 100 kilometres an hour, someone on the platform sees it move at 120 kilometres an hour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light doesn't work that way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1887, Michelson and Morley tried to detect Earth's motion through a supposed 'ether' that carried light waves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They found nothing: light's speed came out the same in every direction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light always travels at about 300,000 kilometres per second, whether you move towards it or away.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1905, Albert Einstein, then a 26-year-old clerk at the Swiss patent office in Bern, took this as a basic law and followed it to astonishing conclusions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slow clocks, short rulers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If light's speed is fixed for everyone, time must give.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A clock moving relative to you runs slower from your point of view: time dilation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At everyday speeds the effect is tiny but measurable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1971, atomic clocks flown around the world on airliners differed from ground clocks by billionths of a second, as predicted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muons, created when cosmic rays hit the upper atmosphere, should mostly decay before reaching the ground, yet many arrive, because their clocks run slow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast-moving objects also contract along their direction of motion, though travellers notice nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Near light speed, each extra push takes more and more energy, and reaching it would take infinite energy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Large Hadron Collider pushes protons beyond 99.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "999999 per cent of light speed, but never to it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The twin puzzle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine one twin staying on Earth while the other flies to a distant star and back at close to light speed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On return, the traveller is younger, perhaps by years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It seems paradoxical, since each twin sees the other moving.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the situations aren't symmetrical.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The traveller accelerates, turns around and comes back, changing reference frames.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Earth twin doesn't.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effect is real on small scales.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronauts on the International Space Station, moving at about 28,000 kilometres an hour, age a few thousandths of a second less than people on Earth over a six-month mission.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spacetime and gravity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1908, Einstein's former teacher Hermann Minkowski showed that relativity treats space and time as one four-dimensional fabric: spacetime.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Observers in motion slice it into 'space' and 'time' differently, so they can disagree about whether two distant events were simultaneous, and neither is wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is no universal 'now'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "General relativity, completed in 1915, covered gravity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Einstein realised that free fall feels exactly like floating without gravity, which he called the happiest thought of his life.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mass and energy curve spacetime, and objects follow the curves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As John Wheeler put it, spacetime tells matter how to move; matter tells spacetime how to curve.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theory explained a drift in Mercury's orbit and predicted that light bends around massive objects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arthur Eddington's 1919 eclipse expeditions confirmed it, making Einstein famous overnight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cosmic lenses, pocket proof.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A massive galaxy cluster can act as a giant lens, bending and magnifying the light of objects far behind it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Einstein worked this out in 1936 but thought it would never be seen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first lensed quasar was found in 1979, and the James Webb telescope now uses lensing to study galaxies too faint to see otherwise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A perfect alignment smears the background object into an Einstein ring.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Relativity also predicts that a spinning mass drags spacetime around with it, which NASA's Gravity Probe B measured around Earth, reporting in 2011.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gravity slows time too: clocks run faster where gravity is weaker, so your head ages slightly faster than your feet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GPS satellites gain a net 38 microseconds a day from both effects.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Uncorrected, positions would drift by about 10 kilometres daily.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The speed of light is the same for every observer, however they are moving, and that single fact upends our ideas of time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Quantum mechanics, simply.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The physics of the very small breaks every everyday rule.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet it's one of the most precisely tested theories in science, and it runs your phone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Physics of the small.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quantum mechanics describes how things behave at the scale of atoms and particles such as electrons and photons.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At that size, everyday ideas of cause and effect stop working the way you'd expect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It sounds like science fiction, yet it's one of the most precisely tested theories in science, with predictions confirmed to many decimal places.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's also practical.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without it, we'd have no transistors, computer chips, lasers, LEDs, solar panels or MRI machines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your phone runs on it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy in packets.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1900, Max Planck found that the colours of light from hot objects only made sense if energy is given off in tiny fixed amounts, which he called quanta.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1905, Albert Einstein showed that light itself comes in packets, now called photons, to explain how light knocks electrons out of metal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That work, not relativity, won him his Nobel Prize.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1913, Niels Bohr proposed that electrons in an atom have only certain energy levels, like rungs on a ladder rather than a ramp.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jumping between them gives off exactly the right amount of light.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why each element glows in its own set of colours, which astronomers use to work out what distant stars are made of.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 'quantum leap' is actually incredibly tiny.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Waves and particles.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light and matter behave like particles in some experiments and like waves in others.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the famous double-slit experiment, electrons are fired one at a time at a barrier with two narrow slits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each electron lands as a single dot on the screen behind, like a particle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time, though, the dots build up a striped interference pattern, which only waves make, as if each electron passed through both slits at once.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try to detect which slit each electron goes through, and the pattern disappears.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Probability and uncertainty.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quantum mechanics doesn't say exactly what a particle will do.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It gives probabilities.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before it's measured, a particle can be in a 'superposition' of several possible states at once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measuring it produces one definite result, with odds the theory predicts precisely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Schrödinger's cat, both alive and dead until the box is opened, was meant to show how strange this seems when scaled up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1927, Werner Heisenberg showed you can't know a particle's exact position and momentum at the same time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This isn't a flaw in our instruments; it's built into nature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's also why atoms don't collapse: an electron squeezed into the nucleus would have enormous uncertainty in its momentum, so it spreads out in a cloud instead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spooky links, new machines.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two particles can become entangled, so that measuring one tells you about the other, however far apart they are.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Einstein called it 'spooky action at a distance' and doubted it, but experiments have confirmed it repeatedly, and that work won the 2022 Nobel Prize in Physics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tunnelling lets particles pass through barriers they classically shouldn't cross.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps power the Sun's fusion and is used in some computer memory.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first quantum revolution gave us transistors and lasers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A second is under way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Quantum computers use qubits, which can be in superpositions of 0 and 1, to tackle problems such as simulating molecules for new medicines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're still experimental and error-prone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is a notable player, with research groups in Sydney, Melbourne and Brisbane.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Quantum mechanics describes atoms and particles, is among the most precisely tested theories in science, and underpins modern electronics.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Antimatter: the universe's missing twin.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For every particle there is a mirror-image twin with the opposite charge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they meet, both vanish in a flash of pure energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So why is the universe made almost entirely of one kind?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Predicted, then found.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1928 Paul Dirac combined quantum mechanics with Einstein's special relativity in one equation for the electron.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It worked beautifully, but it had a strange feature.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Just as the square root of four can be plus or minus two, the equation also gave solutions that seemed to describe electrons with negative energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dirac took them seriously.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1931 he proposed they pointed to a new particle with an electron's mass but a positive charge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1932 Carl Anderson found it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His cloud chamber, sitting in a strong magnet, recorded cosmic rays from space.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He photographed a track that curved like an electron's, but the wrong way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A lead plate across the chamber showed which way the particle travelled.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called it the positron, and shared the 1936 Nobel Prize in Physics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Total conversion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every particle has an antiparticle with the same mass but opposite charge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electrons have positrons, and protons have antiprotons.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a particle meets its antiparticle, they annihilate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their mass becomes energy, usually as gamma rays, following E = mc².",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is the most complete conversion of mass into energy known.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nuclear fission and fusion turn less than one per cent of their fuel's mass into energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Annihilation converts all of it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The process also runs backwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sufficiently energetic gamma ray passing near an atomic nucleus can turn into an electron and a positron.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is called pair production, and it creates matter out of energy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building anti-atoms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Emilio Segrè and Owen Chamberlain led the team that created the antiproton at Berkeley in 1955, and won the 1959 Nobel Prize in Physics.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1995 researchers at CERN, near Geneva, combined an antiproton with a positron to make antihydrogen, the simplest anti-atom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They made only a handful, and the atoms annihilated almost instantly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holding antimatter is the hard part, because touching the wall of any container destroys it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2010 CERN's ALPHA experiment trapped antihydrogen in a carefully shaped magnetic field, and soon held some for around a quarter of an hour.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2023 ALPHA showed that antihydrogen falls under gravity, just like ordinary matter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Useful, but not fuel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Antimatter already works in hospitals.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A PET scan, positron emission tomography, uses a sugar tagged with a radioactive atom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Busy tissue, such as some tumours, takes up more of it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each emitted positron meets an electron almost at once, and the two annihilate into gamma rays heading in opposite directions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Detectors catch both and map the activity.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Positrons also occur naturally, in a very small fraction of potassium-40 decays, found in bananas and in you, and in some thunderstorms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As fuel, antimatter disappoints.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is made in accelerators one collision at a time, using far more energy than it could ever return, and it must be suspended in a vacuum.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "CERN has noted that all the antimatter it has made would light one bulb for only minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The missing antimatter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is the deepest puzzle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Our best theories say the Big Bang should have produced matter and antimatter in equal amounts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They should have annihilated completely, leaving a universe of nothing but light.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, there are galaxies, stars and people, all made of matter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small excess of matter survived, often estimated at about one extra particle for every billion pairs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1967 Andrei Sakharov set out the conditions needed for such an imbalance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 1964, experiments have found that some particles and their antiparticles behave slightly differently, but the differences found so far are far too small to explain it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why anything exists at all is still unsolved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Antimatter was predicted by an equation in 1931 and spotted in cosmic-ray tracks in 1932.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What was so strange about the speed of light?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It is the same for every observer, however they are moving.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does quantum mechanics matter in everyday life?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It underpins technology like transistors and lasers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why did Dirac propose a new particle?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. His equation's extra solutions implied a positively charged electron twin.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

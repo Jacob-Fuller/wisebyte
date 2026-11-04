@@ -1,10 +1,9 @@
 {
  "id": "topic-beliefs-1",
- "h": "dia-de-muertos,king-arthur-legend",
+ "h": "dia-de-muertos",
  "title": "Myths & Religions Shorts",
  "chapters": [
-  "Día de Muertos: a festival for the dead",
-  "King Arthur: how a legend was built"
+  "Día de Muertos: a festival for the dead"
  ],
  "units": [
   {
@@ -14,7 +13,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Día de Muertos: a festival for the dead and King Arthur: how a legend was built.",
+   "t": "In this episode: Día de Muertos: a festival for the dead.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -278,326 +277,26 @@
    "ps": true
   },
   {
-   "t": "Part two. King Arthur: how a legend was built.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "There may never have been a King Arthur.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Yet over a thousand years, writers in Wales, England and France assembled Camelot, the Round Table and the Holy Grail piece by piece.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Faint traces after Rome.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Roman authority in Britain collapsed in the early fifth century.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Over the next two hundred years, Anglo-Saxon groups settled much of what became England, while Britons held out in the west and north.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Written records are extremely thin, which is why legends could flourish.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A British monk, Gildas, writing in the sixth century, described a British victory over the Saxons at Mount Badon.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Tellingly, he never mentions Arthur.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The earliest possible reference is in a Welsh poem, Y Gododdin, which praises a warrior as brave, \"though he was no Arthur\".",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its date is uncertain and the line may be a later addition.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From these faint traces, a towering figure would grow.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Twelve battles.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Around 830, the Latin Historia Brittonum, traditionally linked to a monk named Nennius, listed twelve battles fought by Arthur, a \"leader of battles\", ending at Badon.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Some sites are impossible to locate, and one passage has him carrying an image of the Virgin Mary into combat.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A later Welsh chronicle, the Annales Cambriae, records Badon and also Camlann, \"in which Arthur and Medraut fell\".",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Medraut would become the treacherous Mordred.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Early Welsh poems and tales show a different Arthur, leading heroes against giants, witches and a monstrous boar.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most historians now think there is not enough evidence to say whether a real Arthur existed, though the debate continues.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Geoffrey's bestseller.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Arthur most people know was launched by Geoffrey of Monmouth, a cleric in Oxford.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His History of the Kings of Britain, completed around 1136, claimed to be translated from an ancient British book, a claim most scholars doubt.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Geoffrey gave Arthur a dramatic life.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Merlin's magic lets Uther Pendragon visit Igerna at Tintagel, and Arthur is conceived.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "As king, Arthur defeats the Saxons, conquers much of Europe and challenges Rome itself.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "While he is away, his nephew Mordred seizes the throne and Guinevere.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Arthur returns, kills Mordred and is mortally wounded, then carried to the island of Avalon to be healed.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The book was a medieval sensation, surviving in more than two hundred manuscripts.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Knights, table and Grail.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Writers across the Channel dressed Geoffrey's warrior king in courtly fashion.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1155 the Norman poet Wace retold the history in French verse and introduced the Round Table, where no knight could claim the place of honour.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Later, Chrétien de Troyes shifted attention from Arthur to his knights.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He gave us the earliest surviving story of Lancelot's love for Guinevere, and first mentioned Camelot.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Chrétien's unfinished Perceval, from the 1180s, introduced a mysterious graal, a serving dish carried in a procession.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He died before explaining it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Soon Robert de Boron identified the Grail as the vessel of the Last Supper, and later romances made the quest a spiritual test that most knights failed.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The pure Galahad, Lancelot's son, achieves it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Malory and the returning king.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1191, monks at Glastonbury Abbey announced they had found the grave of Arthur and Guinevere.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The abbey needed funds after a fire, and many historians suspect the find was staged.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It still tied Avalon to Glastonbury.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Nearly three centuries later, Sir Thomas Malory, who wrote at least part of his work in prison, gathered the French and English stories into one English prose narrative.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "William Caxton printed it in 1485 as Le Morte d'Arthur, the main source for later retellings.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Legend said Arthur would return in Britain's hour of need, and he has.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Tennyson made him a model of Victorian duty.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "T. H. White used him to think about power after two world wars.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Arthur stands for the hope of a just ruler, and the sadness when good kingdoms fall.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Arthur's story grew from very thin records in the obscure centuries after Roman rule ended in Britain.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 2,
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. How does Día de Muertos differ from Halloween?",
-   "c": 2,
+   "c": 1,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It welcomes the dead home with love.",
-   "c": 2,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. Why could Arthur legends flourish in the centuries after Rome?",
-   "c": 2,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Written records from the period are extremely thin.",
-   "c": 2,
+   "c": 1,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 2,
+   "c": 1,
    "k": "end",
    "ps": false
   }

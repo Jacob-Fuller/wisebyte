@@ -1,12 +1,12 @@
 {
  "id": "s-books-1",
- "h": "epics,shakespeare,the-novel,frankenstein",
+ "h": "epics,hero-journey-stories,shakespeare,fairy-tale-origins",
  "title": "Great Books · Episode 1",
  "chapters": [
   "The great epics",
+  "The hidden shapes of stories",
   "Shakespeare",
-  "The rise of the novel",
-  "Frankenstein and the birth of science fiction"
+  "The dark origins of fairy tales"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: The great epics, Shakespeare, The rise of the novel and Frankenstein and the birth of science fiction.",
+   "t": "In this episode: The great epics, The hidden shapes of stories, Shakespeare and The dark origins of fairy tales.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -286,823 +286,823 @@
    "ps": true
   },
   {
-   "t": "Part two. Shakespeare.",
+   "t": "Part two. The hidden shapes of stories.",
    "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Is there really only a handful of plots in the world?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Writers and scientists have long tried to map the hidden structures beneath the stories we love.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early maps of plot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Think of almost any film you have enjoyed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Someone wants something, obstacles appear, things get worse, then there is a turning point and a resolution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It feels natural, but people have tried to describe the pattern for over two thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In his Poetics, in the 4th century BCE, Aristotle observed that a good tragedy has a beginning, a middle and an end, and its events follow from one another by necessity or probability.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A plot is a chain of causes, not a list of events.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1863 the German critic Gustav Freytag drew drama as a five-part pyramid: introduction, rising action, climax, falling action and catastrophe or resolution.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It fits tragedies like Hamlet well, but suits many modern stories less well.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hero's journey.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1949 the American scholar Joseph Campbell published The Hero with a Thousand Faces.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drawing on myths from many cultures, he argued that hero stories often follow a similar path, which he called the monomyth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hero leaves the ordinary world after a call to adventure, often helped by a mentor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hero crosses into an unfamiliar world, faces trials and a great ordeal, gains a reward or insight, and returns home transformed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Campbell became enormously influential in Hollywood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "George Lucas has said his work shaped Star Wars, and screenwriters later popularised the pattern as a practical template.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics argue Campbell picked examples that fit and ignored many that do not, but the idea remains widely used.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Counting the plots.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2004 the British journalist Christopher Booker published The Seven Basic Plots, arguing that stories fall into types such as overcoming the monster, rags to riches, the quest, comedy, tragedy and rebirth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others propose anywhere from three to over thirty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jaws and David and Goliath really are both about overcoming a monster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But critics say the categories are so broad that almost anything fits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kurt Vonnegut drew stories as lines on a graph, with good fortune up and bad fortune down.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2016 US researchers analysed the emotional words in over 1,000 works of fiction and reported six basic emotional arcs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like all such studies, it is open to debate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other storytelling traditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most of these models come from European and American traditions and assume stories are driven by conflict between a hero and an obstacle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Other traditions work differently.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A classical structure from Chinese poetry, later used in Japanese and Korean storytelling and often called kishotenketsu in Japanese, has four parts: introduction, development, a twist and a conclusion that brings the parts together.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The twist need not be a conflict, just a surprising new angle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aboriginal storytelling traditions are often closely tied to land and place, and many stories connect to particular sites and to responsibilities for Country, rather than following one hero's arc.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These differences remind us that the Western plot is one model among many.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why structure matters.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing these patterns does not mean every story must follow them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many great books play with structure: they start at the end, tell events out of order, or refuse a tidy resolution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But understanding the common shapes is useful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a reader, it helps you notice why a story feels satisfying or why it drags.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a writer, it gives you questions to ask: what does the main character want, what stands in the way, and what changes by the end?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists have also found that people tend to remember information better when it is told as a story with causes and consequences.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That may be why the same shapes keep appearing, from campfire tales to streaming series.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We seem to think in stories.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Thinkers from Aristotle to Freytag described plot as a chain of causes that rises and falls.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Shakespeare.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "A glove-maker's son from a small market town wrote plays that are still performed around the world, and he put words in your mouth you didn't know were his.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A Stratford boy.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "William Shakespeare was baptised in Stratford-upon-Avon on 26 April 1564.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "His father John was a glove-maker who became a local official.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "At 18 William married Anne Hathaway, who was 26.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "They had three children: Susanna, then twins Hamnet and Judith.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hamnet died in 1596, aged 11.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Surprisingly little is known about his personal life, and the records have a gap from about 1585 to 1592 that scholars call 'the lost years'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "By 1592 he was working in London, where rival Robert Greene mocked him as an 'upstart crow'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Unusually, he was actor, writer and part-owner of his company, which made him fairly wealthy.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Globe and the Folio.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He became a leading member of the Lord Chamberlain's Men, which became the King's Men after James I took the throne in 1603.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1599 the company built the Globe Theatre on the south bank of the Thames.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It burned down in 1613 when a cannon fired during a performance set the thatched roof alight.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A reconstruction opened near the site in 1997.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Shakespeare is credited with about 37 plays and 154 sonnets.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many plays were never printed in his lifetime.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1623 two fellow actors, John Heminges and Henry Condell, published 36 of them in the First Folio.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "About 18, including Macbeth and The Tempest, had never been printed and might otherwise have vanished.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "About 235 copies survive, including one in Sydney's State Library of NSW.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tragedy, comedy and history.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "His tragedies follow powerful people destroyed by their own choices, flaws or circumstances.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hamlet agonises over revenge.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Macbeth, spurred by a prophecy and his wife's ambition, spirals into tyranny.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Othello is manipulated by Iago into jealousy and murder.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "King Lear divides his kingdom and is betrayed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Characters think aloud in soliloquies, letting us overhear their minds.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The comedies, such as A Midsummer Night's Dream and Twelfth Night, feature mistaken identities, disguises and happy endings, usually weddings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Because women could not act on the English stage, boys played female roles.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The histories, including Richard III and Henry V, shaped popular ideas of English kings far more than historians would like.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Late plays like The Tempest are often called romances: stories of loss, magic and forgiveness.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Words and verse.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Oxford English Dictionary lists Shakespeare as the earliest known source for many words, such as 'eyeball', 'bedroom' and 'swagger', though some were probably already in speech.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Phrases first found in his plays include 'wild-goose chase', Romeo and Juliet, 'green-eyed monster' and 'a foregone conclusion', both Othello.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Much of his writing is blank verse: unrhymed lines of iambic pentameter.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "That is ten syllables with an unstressed-stressed beat, da-DUM da-DUM da-DUM da-DUM da-DUM, close to natural speech.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Kings and lovers tend to speak in verse, servants and comic characters in prose.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A rhyming couplet often closes a scene, like a musical full stop.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Reading aloud makes the lines easier to follow.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why he lasts.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Shakespeare's plays survive because they deal with things that never go away: ambition, jealousy, love, grief, power and family conflict.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "They are also endlessly adaptable.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "West Side Story reworks Romeo and Juliet, 10 Things I Hate About You updates The Taming of the Shrew, and The Lion King borrows from Hamlet.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australian director Baz Luhrmann's Romeo + Juliet, 1996, kept the original language in a modern setting.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bell Shakespeare, founded by John Bell in 1990, tours his plays around Australia.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The best way in is to watch a performance first.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "These were scripts for actors, not texts for exams.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Shakespeare was born in Stratford-upon-Avon in 1564, became a London actor, writer and shareholder, and little is known of his private life.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. The rise of the novel.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "The novel is the youngest of the great literary forms, yet it became the way billions of people explore other lives.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Here's how it began, and the Australian books worth knowing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The first novels.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A novel is a long, invented story told in prose, usually focused on characters' inner lives.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The word comes from the Italian 'novella', meaning a new story.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Around AD 1000 in Japan, the court lady Murasaki Shikibu wrote The Tale of Genji, a subtle story of life at the imperial court.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is often called the world's first novel, though 'first' depends on how strictly you define the form.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In Europe, the book most often called the first modern novel is Cervantes' Don Quixote, 1605 and 1615.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A gentleman reads so many chivalry tales that he becomes a knight and attacks windmills, believing them giants.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It gave English the word 'quixotic' and the phrase 'tilting at windmills'.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "English novels take off.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Daniel Defoe's Robinson Crusoe, 1719, is often called the first English novel.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It presented itself as a true account of a sailor shipwrecked for 28 years, and its power came from practical detail.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Defoe was probably partly inspired by Alexander Selkirk, marooned off Chile from 1704 to 1709.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Richardson's Pamela, 1740, and Fielding's Tom Jones, 1749, followed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The novel spread because several changes arrived together: cheaper printing, rising literacy, and a middle class with money and leisure.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Circulating libraries let readers borrow books for a fee, and many readers and writers were women.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Unlike epics about heroes, novels focused on ordinary people.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The form proved flexible, producing Mary Shelley's Frankenstein, 1818, an early science fiction work.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Austen and Dickens.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Jane Austen, 1775–1817, published four novels in her lifetime, all anonymously, the first credited only to 'a Lady'.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Northanger Abbey and Persuasion appeared after her death at 41.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pride and Prejudice, 1813, opens with the famous line about a single man in possession of a good fortune.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "She wrote about courtship, class and money with sharp irony, and refined a way of slipping in and out of a character's thoughts.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Charles Dickens, 1812–1870, was Victorian England's superstar novelist.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "At 12, when his father was jailed for debt, he worked in a boot polish factory, an experience that fuelled his anger at poverty.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most of his novels came out in weekly or monthly instalments, much like a TV series.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "'Dickensian' now describes grim, overcrowded poverty.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's classics.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australian novels grew out of the colonial experience.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Marcus Clarke's For the Term of His Natural Life, first serialised in the early 1870s, told a harrowing story of the convict system.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dickens's Great Expectations also features a convict transported to New South Wales.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Miles Franklin's My Brilliant Career, 1901, about a spirited young woman in the bush, was written when she was very young, and her bequest later funded the Miles Franklin Literary Award.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Henry Handel Richardson was the pen name of Ethel Richardson, author of The Getting of Wisdom.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Patrick White, author of Voss and The Tree of Man, won the Nobel Prize in Literature in 1973.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He was the first Australian to win it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Modern Australian voices.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Tim Winton has won the Miles Franklin Award four times.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His novel Cloudstreet, 1991, about two working-class families sharing a big old house in Perth, is often voted a favourite Australian book.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Kate Grenville's The Secret River, 2005, follows a convict settler on the Hawkesbury River and confronts the violence of colonisation.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Kim Scott, a Noongar writer, became the first Aboriginal author to win the Miles Franklin, for Benang in 2000.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Waanyi writer Alexis Wright won it for Carpentaria in 2007.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "To start reading, pick one classic and one modern novel, and try your local library's free audiobook and ebook apps.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The key idea: The novel is long prose fiction about characters' inner lives, with early landmarks in Japan's Tale of Genji and Spain's Don Quixote.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Frankenstein and the birth of science fiction.",
+   "t": "Part four. The dark origins of fairy tales.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "A teenager, a stormy summer and a ghost story contest produced one of the most influential novels ever written.",
+   "t": "Before Disney, Cinderella's stepsisters cut off parts of their feet to fit the slipper.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The year without summer.",
+   "t": "Fairy tales have a long, strange and sometimes gruesome history.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older than writing.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In April 1815, Mount Tambora in what is now Indonesia exploded in one of the largest eruptions in recorded history.",
+   "t": "Long before anyone wrote them down, fairy tales were told aloud, by grandparents at the fire, by workers passing the time and by nurses to children.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Its ash and gases cooled the global climate, and Europe's 1816 became the year without a summer, with cold, rain and failed harvests.",
+   "t": "They were not just for kids.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That June, a group of young English writers stayed near Lake Geneva: the poet Lord Byron at the Villa Diodati, and nearby Percy Bysshe Shelley, eighteen-year-old Mary Godwin, her stepsister Claire Clairmont and Byron's doctor, John Polidori.",
+   "t": "Adults told tales of clever peasants, cruel stepmothers and magical helpers to entertain each other and pass on lessons.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Trapped indoors, they read ghost stories aloud, and Byron proposed that each write one.",
+   "t": "Because the tales lived in memory, they changed with each teller and crossed borders.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Mary struggled for days.",
+   "t": "Folklorists catalogue thousands of tale types in the Aarne-Thompson-Uther index.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cinderella is a good example.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Polidori's effort became The Vampyre in 1819, which helped shape the vampire as an elegant aristocrat.",
+   "t": "The Greek writer Strabo recorded the story of Rhodopis, whose sandal an eagle dropped in an Egyptian king's lap.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A waking dream.",
+   "t": "A 9th-century Chinese tale tells of Ye Xian, helped by a fish's bones, who loses a golden shoe.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perrault and Basile.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "After listening to Byron and Percy discuss whether life could be artificially created, Mary had what she later called a waking dream.",
+   "t": "In 1697, Charles Perrault, a member of the French Academy, published a small book of tales that included 'Cinderella', 'Sleeping Beauty', 'Little Red Riding Hood' and 'Puss in Boots'.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "She pictured a pale student kneeling beside a thing he had put together, watching it stir into life, then fleeing in horror.",
+   "t": "He polished folk tales for fashionable readers at the court of Louis XIV, adding wit and ending each tale with a little moral in verse.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "She described this in an introduction to the 1831 edition, so it is her own account, years later.",
+   "t": "Perrault gave us the pumpkin coach and the glass slipper.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Mary was the daughter of two radical thinkers: Mary Wollstonecraft, author of A Vindication of the Rights of Woman, who died shortly after her birth, and the philosopher William Godwin.",
+   "t": "His Red Riding Hood ends badly: the wolf eats her, and no woodcutter arrives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The moral warns young women about smooth-talking men.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earlier, in the 1630s, the Italian writer Giambattista Basile had published his own collection, including early versions of Cinderella and Sleeping Beauty.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Brothers Grimm.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Frankenstein was published anonymously in January 1818, when she was twenty.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many reviewers assumed the author was a man.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Science at life's edge.",
+   "t": "In 1812, the German scholars Jacob and Wilhelm Grimm published the first volume of their Children's and Household Tales.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Frankenstein was not pure fantasy.",
+   "t": "They were language experts who wanted to preserve what they saw as the authentic voice of the German people, at a time when Germany was divided and occupied by Napoleon's France.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their image of peasants telling ancient tales is a little misleading.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the 1780s, the Italian scientist Luigi Galvani made the legs of dead frogs twitch using electricity, which led to the term galvanism.",
+   "t": "Many storytellers were educated, middle-class young women, some of French Huguenot descent, who already knew Perrault's tales.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "His nephew Giovanni Aldini went further.",
+   "t": "One prized source, Dorothea Viehmann, was a tailor's widow with a vast memory for stories.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In London in 1803, he applied electric currents to the body of an executed criminal, making the face grimace and a hand rise, to the alarm of onlookers.",
+   "t": "The brothers revised the collection repeatedly, and the final edition of 1857 held around 200 tales.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Many people wondered whether electricity might be the spark of life itself.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mary Shelley knew about these debates.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the novel, Victor Frankenstein is deliberately vague about his methods, but a scientist using cutting-edge knowledge to cross a forbidden line came straight from the science of her day.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The creature speaks.",
+   "t": "Softer, but bloodier.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Anyone who knows Frankenstein only from films may be surprised by the book.",
+   "t": "The first Grimm edition was not a children's book, and parents complained.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "First, Frankenstein is the scientist, Victor.",
+   "t": "So Wilhelm in particular reworked the tales for family reading.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The creature is never given a name.",
+   "t": "Sexual hints went.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Second, he is no grunting brute.",
+   "t": "In the first 'Rapunzel', the witch discovers the prince's visits when Rapunzel innocently remarks that her clothes are getting tight around her waist.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Abandoned by his horrified creator, he teaches himself to speak and read by secretly watching a family through a gap in a cottage wall.",
+   "t": "Later editions changed this to a harmless slip of the tongue.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "He reads Milton's Paradise Lost and compares himself to both Adam and Satan.",
+   "t": "Evil mothers were often turned into stepmothers, to protect the ideal of motherhood.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "When he confronts Victor, he speaks with great eloquence about his loneliness and the cruelty he has suffered, and asks Victor to make him a companion.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Victor's refusal sets off the tragic final events.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The real horror of the book is rejection.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "First science fiction.",
+   "t": "Violence mostly stayed, because it punished wickedness.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Frankenstein grew out of the Gothic tradition of haunted castles, which began with Horace Walpole's The Castle of Otranto in 1764.",
+   "t": "In the Grimms' Cinderella, the stepsisters cut off a toe and a heel to fit the slipper, and at the wedding, birds peck out their eyes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Andersen and endurance.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "But Mary Shelley did something new.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Her monster was made not by a curse or spell but by a scientist using knowledge and method.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The writer Brian Aldiss argued this makes it the first true science fiction novel, a view many critics share.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The subtitle, The Modern Prometheus, points to the myth of the Titan who stole fire from the gods.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Her question was new: what responsibility do creators have for what they make?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The 1931 Universal film with Boris Karloff, and Jack Pierce's flat-topped makeup, turned the creature into a mostly silent icon.",
+   "t": "Hans Christian Andersen mostly invented new tales, starting in 1835: 'The Little Mermaid', 'The Ugly Duckling', 'The Emperor's New Clothes' and 'The Snow Queen'.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The key idea: Frankenstein began in 1816, when a volcanic eruption's cold, stormy summer trapped young writers indoors.",
+   "t": "In his original 'Little Mermaid', the prince marries someone else.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She refuses to kill him to save herself and dissolves into foam, becoming a spirit of the air.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many readers see Andersen's own loneliness in his stories.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fairy tales keep returning because they deal with growing up, injustice, luck and courage.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1976 Bruno Bettelheim argued that their frightening parts help children face fears safely, though his ideas are debated.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2016 study suggested some tales may be thousands of years old, though such estimates are uncertain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fairy tales began as spoken folk tales, and Cinderella-type stories have been told around the world for well over a thousand years.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1126,7 +1126,19 @@
    "ps": false
   },
   {
-   "t": "Question two. What made Shakespeare unusual among playwrights of his day?",
+   "t": "Question two. What was Aristotle's key point about plot?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Events should follow from one another as a chain of causes.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What made Shakespeare unusual among playwrights of his day?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1138,25 +1150,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Why is the title 'first novel' disputed?",
+   "t": "Question four. Why do very similar fairy tales appear in many different countries?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. It depends on how you define a novel.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What set the stage for the ghost story contest that produced Frankenstein?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. A volcanic eruption cooled the climate and kept the group indoors.",
+   "t": "Answer. Spoken tales changed with each teller and crossed borders.",
    "c": 4,
    "k": "a",
    "ps": false

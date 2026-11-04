@@ -1,11 +1,12 @@
 {
  "id": "s-psychology-2",
- "h": "habits,self-control-marshmallow,cognitive-biases",
+ "h": "habits,self-control-marshmallow,cognitive-biases,cognitive-dissonance",
  "title": "Psychology · Episode 2",
  "chapters": [
   "How habits really work",
   "Willpower: what the marshmallow test really tells us",
-  "Cognitive biases: the shortcuts that fool you"
+  "Cognitive biases: the shortcuts that fool you",
+  "Cognitive dissonance: why we twist the facts to feel better"
  ],
  "units": [
   {
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: How habits really work, Willpower: what the marshmallow test really tells us and Cognitive biases: the shortcuts that fool you.",
+   "t": "In this episode: How habits really work, Willpower: what the marshmallow test really tells us, Cognitive biases: the shortcuts that fool you and Cognitive dissonance: why we twist the facts to feel better.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -849,50 +850,368 @@
    "ps": true
   },
   {
-   "t": "Quick recall. Answer out loud, or just in your head.",
+   "t": "Part four. Cognitive dissonance: why we twist the facts to feel better.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. In the habit loop, what is the cue?",
+   "t": "When reality clashes with what we believe or what we've done, something has to give.",
    "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surprisingly often, it isn't the belief.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A prophecy fails.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1954, a small group in the American Midwest believed a flood would destroy much of the world on 21 December, and that a flying saucer would rescue the faithful beforehand.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some members quit jobs and gave away possessions.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unknown to the group, several new members were researchers working with psychologist Leon Festinger.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They watched as midnight passed with no spaceship and no flood.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rather than abandon the belief, the leader announced that the group's faith had saved the world, and some members began seeking publicity and recruits for the first time.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Festinger and colleagues described the episode in the 1956 book When Prophecy Fails.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It illustrated an idea Festinger would soon make famous.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What dissonance is.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1957 Festinger published A Theory of Cognitive Dissonance.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When we hold two beliefs, or a belief and an action, that conflict, we feel an uncomfortable tension.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A smoker who knows smoking kills experiences it every time they light up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That discomfort motivates us to restore consistency, and there are only a few ways.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We can change our behaviour, by quitting.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We can change our belief, by deciding the risks are exaggerated.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Or we can add thoughts that soften the clash, such as 'my grandfather smoked and lived to ninety' or 'everyone dies of something'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing behaviour is often the hardest option, so the mind quietly reaches for the others.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Justifying our choices.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dissonance is thought to be strongest after a hard decision.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Agonise between two similar cars, buy one, and you may suddenly notice how good it is and how flawed the other was.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1956 Jack Brehm had people choose between two appliances they liked equally; the chosen item tended to rise in their ratings, the rejected one to fall.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later researchers noted a statistical problem with this design, and corrected studies often find a smaller effect.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1968 racetrack study, punters who had just placed a bet were more confident of winning.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same logic gives effort justification.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1959 study, Elliot Aronson and Judson Mills found that people who endured an embarrassing initiation rated a dull group more highly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It helps explain fierce loyalty after hazing, and why people stay with failing projects.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debates and doubts.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous dissonance study is a 1959 experiment by Festinger and James Carlsmith.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Students did an hour of dull tasks, then were paid one dollar or twenty to tell the next participant it was fun.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The one dollar group later rated the task as more enjoyable.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The explanation: twenty dollars was reason enough to lie, one dollar was not, so they decided the task wasn't so bad.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Replications of this kind of finding have been mixed, so it deserves caution.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theory has always had critics.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s Daryl Bem argued that we simply infer our attitudes from our behaviour.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others suggested the real driver is protecting our self-image as a good, sensible person.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The doomsday study is also questioned.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most psychologists still accept that people often rationalise, but treat specific classic experiments cautiously.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using dissonance wisely.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The practical value of dissonance theory is self-awareness.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you feel defensive, irritated or eager to explain something away, a cherished belief may have met an inconvenient fact.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pausing to ask 'what would change my mind?'",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "helps.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So does separating your identity from your opinions: being wrong about a decision does not make you foolish.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In relationships, remember that others feel dissonance too, so cornering someone with evidence often makes them dig in.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Offering a face-saving way to change their mind works better.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is a famous anecdote from Benjamin Franklin, who said he won over a rival by asking to borrow a rare book.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helping you, perhaps, made the rival like you more.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A doomsday group whose prophecy failed gave psychologists a view of how people defend a belief.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. In the habit loop, what is the cue?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The trigger that starts the loop.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What was the original aim of Mischel's marshmallow experiments?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. To find which strategies help children delay.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. Why do cognitive biases occur?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Fast mental shortcuts that mislead everyone the same way.",
-   "c": 3,
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What did the failed doomsday prophecy illustrate?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. People may defend a belief harder when reality contradicts it.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

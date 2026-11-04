@@ -1,0 +1,912 @@
+{
+ "id": "s-safety-5",
+ "h": "carbon-monoxide,electrical-safety,driving-long-distance",
+ "title": "First Aid & Safety · Episode 5",
+ "chapters": [
+  "Carbon monoxide: the invisible killer",
+  "Electricity: the danger you can't see",
+  "Staying alive on long drives"
+ ],
+ "units": [
+  {
+   "t": "First Aid & Safety. Episode five.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Carbon monoxide: the invisible killer, Electricity: the danger you can't see and Staying alive on long drives.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Carbon monoxide: the invisible killer.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It has no colour, no smell and no taste, and its symptoms feel like the flu.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how an ordinary heater can quietly poison a home, and how to stop it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two brothers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In May 2010, two brothers, Chase and Tyler Robinson, died in their sleep at their rented home in Mooroopna, near Shepparton in Victoria.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cause was carbon monoxide from a faulty gas heater.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing had seemed wrong: no smoke, no strange smell, and no alarm, because the home had no carbon monoxide detector.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A coronial inquest examined who was responsible for maintaining the heater.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their mother, Vanessa Robinson, became a prominent campaigner for gas heater safety, and Victoria has since introduced regular gas safety checks in rental homes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a painful reminder that the most dangerous hazards may be ones we cannot sense.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How it harms.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carbon monoxide is made when fuels such as gas, wood, charcoal, petrol or diesel burn without enough oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Red blood cells carry oxygen using haemoglobin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carbon monoxide binds to it roughly two hundred times more strongly than oxygen does, so even small amounts steadily push oxygen out of the blood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brain and heart suffer first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gas is colourless, odourless and tasteless, so people breathe it unaware.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High levels can cause unconsciousness and death within minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lower levels over hours or days can cause lasting brain and heart damage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms that fool.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early symptoms are ordinary: headache, dizziness, nausea, vomiting, tiredness, weakness, breathlessness and confusion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People assume flu, migraine or a stomach bug.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clues point to carbon monoxide instead.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several people, or pets, feel sick at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symptoms are worse at home or with a heater running, and improve outside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People who are asleep or have been drinking may lose consciousness before noticing, so night-time poisoning is especially dangerous.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Babies, older people, pregnant women and people with heart or lung disease are more vulnerable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sources and servicing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A major source in Australian homes is gas space heaters, especially older or poorly maintained ones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An open-flued heater should send fumes out through a flue, but a blocked or faulty flue, or exhaust fans pulling air the wrong way, can spill carbon monoxide inside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unflued heaters release fumes into the room and need good ventilation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other causes are barbecues, camping stoves, patio heaters or charcoal used indoors, in tents, caravans or garages, generators near open windows, and engines running in closed garages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Have gas heaters serviced by a licensed gasfitter, generally at least every two years or as the manufacturer recommends.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warning signs include a yellow or orange flame, soot or stains, and a stuffy room.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you rent, ask when the heater was last checked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alarms and action.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smoke alarms don't detect carbon monoxide.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A separate alarm from a hardware store warns you when levels rise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Place it per the instructions, typically near fuel-burning appliances and sleeping areas, and test it regularly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Requirements for them vary by state and territory, but regulators encourage them, especially with gas heating.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An alarm is a backstop, not a substitute for servicing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you suspect poisoning, get everyone, including pets, into fresh air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If quick and safe, switch off the appliance and open doors on your way out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start CPR if someone isn't breathing normally.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't return until a licensed gasfitter has checked the source.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treatment is high-concentration oxygen, and everyone should be assessed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Two young brothers died in 2010 from a faulty gas heater, with no smoke, smell or alarm to warn them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Electricity: the danger you can't see.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Electricity gives no warning: no smell, no sound, nothing to see.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few simple rules, and one small switch in your meter box, stand between ordinary life and a fatal shock.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why current kills.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Current crossing the chest can throw the heart into a chaotic rhythm called ventricular fibrillation, where it quivers instead of pumping.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is cardiac arrest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Current can also make muscles contract so strongly a person can't let go of what they're holding.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And as it passes through tissue, it generates heat and burns along its path.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Entry and exit wounds can look small while muscles, nerves and blood vessels inside are badly damaged.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anyone who has had a significant shock or electrical burn should be checked by a doctor, even if they feel fine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety switches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A residual current device, called a safety switch in Australia, constantly compares the current going out along the active wire with the current returning along the neutral.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If they don't match, current is leaking somewhere, possibly through a person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The switch cuts the power within a fraction of a second, fast enough to greatly reduce the risk of death.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety switches differ from circuit breakers and fuses, which mainly protect wiring from overload.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Newer homes must have them, but many older homes have them on only some circuits, or none.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most have a test button worth pressing regularly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leave it to licensed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Across Australia, it's illegal for an unlicensed person to do electrical wiring work, such as installing power points, replacing light switches or running cables.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Faulty wiring can kill, sometimes years later and for someone else entirely, and a loose connection can start a fire inside a wall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At home, the habits are simple.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't use appliances with frayed or damaged cords.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't overload power boards or daisy-chain them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep appliances away from water and never touch switches with wet hands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never fish toast from a plugged-in toaster with a knife.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a switch or power point feels warm or smells of burning, get it checked.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Powerlines down.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After storms, crashes and bushfires, powerlines can lie on the ground, fences, cars or trees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Treat every fallen line as live, even if it isn't sparking, because it may be re-energised automatically.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distributors advise staying at least eight metres away, about two car lengths.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electricity can travel through wet ground, puddles, fences and metal, so you needn't touch the line to be hurt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000 if someone is injured or there's a fire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a line falls on your car, stay inside unless it's on fire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you must leave, jump clear with your feet together, never touching the car and ground at the same time, then shuffle away with small steps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helping, and looking up.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If someone is being electrocuted, don't grab them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The current can flow into you too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switch off the power at the switchboard or wall, or unplug the appliance if safe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For powerlines and high voltage, don't approach: call 000 and wait for the electricity company.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once power is off, check them using DRSABCD, start CPR if needed, send for a defibrillator and cool burns under cool running water for twenty minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many serious accidents happen outdoors when tall objects meet overhead lines: ladders, tipper trays, boat masts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electricity can also arc across a gap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look up before raising anything tall, carry long objects horizontally, and never climb poles, towers or train roofs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Electric current can stop the heart and cause deep burns that look small from outside.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Staying alive on long drives.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Australia's long, empty roads are beautiful, but fatigue, wildlife and remote breakdowns catch out even experienced drivers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how to make every road trip end safely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hypnotic road.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is something hypnotic about a long Australian highway: straight bitumen, red dirt, a horizon that never gets closer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is part of the danger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Australians live in cities, yet a large share of road deaths happen on rural and regional roads, often in single-vehicle crashes where a car leaves the road or hits a tree.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speeds are higher, roads may be narrow or unsealed, and help can be hours away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Road safety campaigns talk about the 'fatal five': speeding, drink and drug driving, not wearing a seatbelt, fatigue and distraction.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On long drives the last two matter most, because they creep up on people who felt fine when they set out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fatigue and microsleeps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Being awake for a long time impairs reactions and judgement in a way research has compared to having alcohol in your blood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scariest part is the microsleep: a few seconds when your brain switches off, often without you realising.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At 100 kilometres per hour a car covers nearly 28 metres every second, so a four-second microsleep carries you well over 100 metres with nobody in control.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Warning signs include yawning, heavy eyes, drifting in your lane, missing signs and not remembering the last few kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opening the window or turning up the music does not fix tiredness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The only real cure is sleep, so pull over somewhere safe for a rest or a power nap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Planning to beat fatigue.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fatigue is far easier to prevent than to fight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start a long drive well rested, and avoid setting out after a full day of work or when your body normally sleeps, such as late at night and in the mid-afternoon slump.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Road safety agencies commonly recommend a break of at least 15 minutes every two hours.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get out, walk around, and have a drink and a snack.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look for Driver Reviver sites, which often operate on major highways in holiday periods and offer free tea, coffee and a chat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you can, share the driving with another licensed driver.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be honest about how far you can go.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An extra night in a motel is a small price compared with the cost of a crash.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Animals, trains and gravel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kangaroos, wallabies, wombats, emus and livestock are a real hazard, especially at dawn, dusk and night.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slow down where wildlife signs appear and scan the verges for eyes reflecting your headlights.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If an animal jumps out, brake firmly in a straight line.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many serious crashes happen when drivers swerve, lose control and hit a tree or oncoming vehicle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kangaroos can change direction suddenly, and where there is one there are often more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Road trains, trucks towing several trailers, can stretch beyond 50 metres.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pass only with a long, clear view ahead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If one approaches on a narrow road, slow down and move left.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On gravel, drive slower, avoid harsh braking and steering, and keep your headlights on in dust.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check road conditions first, as roads may close after rain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Remote breakdowns and help.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before heading remote, tell someone your route and arrival time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carry far more water than you think you need, plus food, a first aid kit, a spare tyre and tools.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mobile coverage vanishes across much of Australia, so many travellers carry a satellite device or personal locator beacon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you break down, stay with your vehicle.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is far easier for searchers to spot than a person, and it gives shade.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People have died walking away in extreme heat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a crash, get clear of traffic and turn on your hazard lights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Call Triple Zero, 000, if someone is hurt or trapped, a vehicle is on fire or the road is blocked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The free Emergency+ app shows your GPS location to read to the operator.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A first aid course will prepare you to help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Country roads carry a disproportionate share of Australia's road deaths, and fatigue and distraction are the quiet killers on long drives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What made the faulty heater in this case so dangerous?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The gas gives no smoke, smell or taste to warn you.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why should anyone with a significant electric shock see a doctor even if they feel fine?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Skin wounds can hide serious internal damage.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why are long country drives especially risky?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Higher speeds, fatigue and help being far away.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

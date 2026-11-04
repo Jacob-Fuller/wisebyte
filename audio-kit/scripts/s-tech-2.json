@@ -1,12 +1,12 @@
 {
  "id": "s-tech-2",
- "h": "internet,undersea-cables,the-cloud,search-engines",
+ "h": "barcodes-qr-codes,internet,undersea-cables,the-cloud",
  "title": "How Tech Works · Episode 2",
  "chapters": [
+  "Barcodes and QR codes: reading the stripes",
   "How the internet works",
   "The internet lives under the sea",
-  "Where the cloud really lives",
-  "How a search engine finds anything"
+  "Where the cloud really lives"
  ],
  "units": [
   {
@@ -16,1105 +16,1093 @@
    "ps": false
   },
   {
-   "t": "In this episode: How the internet works, The internet lives under the sea, Where the cloud really lives and How a search engine finds anything.",
+   "t": "In this episode: Barcodes and QR codes: reading the stripes, How the internet works, The internet lives under the sea and Where the cloud really lives.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How the internet works.",
+   "t": "Part one. Barcodes and QR codes: reading the stripes.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Lines drawn in beach sand, a pack of chewing gum in Ohio and a Japanese board game all helped create the codes you scan every day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lines in the sand.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1948 the head of an American food chain reportedly asked a Drexel Institute dean whether checkouts could be automated.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Graduate student Bernard Silver overheard and told his friend Norman Joseph Woodland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Woodland recalled the breakthrough on a Miami beach.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thinking of the Morse code he learned as a Boy Scout, he dragged his fingers through the sand, turning dots and dashes into thin and thick lines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pair filed a patent in 1949, granted in 1952, including a circular 'bullseye' version readable from any direction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But nothing could read it cheaply.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practical barcodes had to wait more than two decades for lasers and microchips.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A pack of gum.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1970s American grocers agreed on one standard, the Universal Product Code, or UPC.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The winning design came from IBM, where Woodland then worked.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It used straight vertical bars, since the bullseye tended to smudge on fast printing presses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 26 June 1974, at a Marsh supermarket in Troy, Ohio, a cashier scanned a ten-pack of Wrigley's Juicy Fruit gum.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Take-up was slow, because shops needed expensive scanners and manufacturers had to print codes on everything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once enough products carried them, the benefits snowballed: faster queues, fewer pricing errors and detailed data on what sold and when.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europe adopted a compatible 13-digit system, which Australia uses too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading the stripes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A barcode is a message written in light and shadow.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scanner shines light across the stripes, traditionally a red laser, though many modern scanners use a small camera.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Black bars absorb light and white spaces reflect it, so a sensor sees a rapidly changing pattern.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each digit is a particular combination of bar and space widths.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guard patterns at the start, middle and end show where the code begins and whether it is being read upside down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The number rarely contains the price.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It identifies the product, and the shop's computer looks up the current price in its database.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why a price change does not mean relabelling every item.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A code in two dimensions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An ordinary barcode holds only a short number, and Japanese car factories scanned many for every box of parts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At Denso Wave, then part of the car-parts maker Denso, engineer Masahiro Hara led a team to design something better.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He has said the idea came while playing Go, whose black and white stones on a grid suggested storing information in two dimensions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Released in 1994, the Quick Response code could hold thousands of characters, including Japanese kanji.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The hardest puzzle was making it instantly recognisable among printed clutter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The team studied printed material to find a shape that almost never appears by chance, and settled on the nested squares now in three corners of every QR code.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tough, free and risky.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The three large squares are finder patterns.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wherever the code sits in an image, the scanner spots them and works out which way is up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rest of the grid holds data plus error correction, based on mathematics published by Irving Reed and Gustave Solomon in 1960, also used on CDs and in spacecraft communication.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the highest of four protection levels, roughly 30 per cent of the code can be dirty or covered and still be recovered.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why a logo can sit over the middle of a code.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Denso Wave pledged not to enforce its patent, so anyone can use QR codes freely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scammers exploit that, sticking fake codes over real ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the web address before entering anything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The barcode began as an idea sketched in beach sand in 1948, but took decades to become practical.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How the internet works.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "What actually happens in the second between tapping a link and seeing a page.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A network of networks.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The internet is a global network of networks: billions of computers, phones and servers owned by millions of organisations, linked by cables, fibre optics, radio and satellites.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Nobody owns it as a whole.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It grew from ARPANET, a US research network that sent its first message in October 1969.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The system crashed after two letters, so the first message was 'lo'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia's first international internet connection came in 1989, linking the University of Melbourne to Hawaii.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Packets and addresses.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you send a photo or make a video call, the data is chopped into small packets, typically around 1,500 bytes each.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Each carries addressing information, like an envelope, and travels independently, possibly by different routes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "At the destination they're reassembled in order.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If one goes missing, only that piece is resent.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "This packet switching makes the network resilient: if one route fails, packets take another.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Every device has an IP address.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The older IPv4 system, with addresses like 203.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "0.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "113.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "42, allows about 4.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "3 billion combinations, which ran out as the internet grew.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The newer IPv6 allows an almost unimaginable number.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Routers read each packet's address and pass it on hop by hop, often across a dozen or more routers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Names and rules.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "People remember names like abc.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "net.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "au, but computers need numbers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Domain Name System, or DNS, translates names into IP addresses.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your device asks a DNS server, sometimes passing through a chain of others, and gets an answer in a fraction of a second.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If DNS fails, websites seem to vanish even though they're still running, which is behind some major outages.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The internet also works because everyone follows shared rules, called protocols.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Vint Cerf and Bob Kahn designed the two most important in the 1970s: IP handles addressing and routing, and TCP makes sure data arrives complete and in order.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "ARPANET adopted TCP/IP on 1 January 1983, often called the internet's birthday.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "HTTP and SMTP, for web pages and email, sit on top.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cables and the last mile.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "It's easy to imagine data flying through space, but around 99 per cent of international internet traffic travels through undersea fibre-optic cables.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hundreds of them cross the ocean floors, many only about as thick as a garden hose, carrying data as pulses of light.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia's cables land in places including Sydney and Perth.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ship anchors, earthquakes and even shark bites occasionally damage them.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The link from your home to the wider network is called the last mile, and it's often the slowest part.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most Australian homes connect through the NBN by fibre, fibre and copper, cable or fixed wireless.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Mobile networks use radio to nearby towers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Remote areas increasingly use low-Earth-orbit satellites, which sit much closer than older ones, reducing delay.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The web isn't the internet.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The internet and the web aren't the same thing.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The internet is the network.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The World Wide Web, proposed by Tim Berners-Lee at the physics lab CERN in 1989, is one service running on it, made of web pages linked together and viewed in a browser.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Email, video calls, online games and streaming are other services using the same network.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Berners-Lee chose not to patent the web, making it free for anyone to use, which helped it spread worldwide.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: The internet is a global network of networks with no single owner, and it grew from ARPANET in 1969.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. The internet lives under the sea.",
-   "c": 1,
+   "t": "Part three. The internet lives under the sea.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "When you video call someone overseas, your voice almost certainly travels as flashes of light through a cable lying on the ocean floor.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "These hidden lines carry the vast majority of the world's international data.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cables, not satellites.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ask people how the internet crosses oceans and many guess satellites.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Satellites matter for remote areas, ships and planes, but the overwhelming majority of data between continents travels through cables on the sea floor.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Several hundred submarine cables are in service, stretching well over a million kilometres in total.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you email London, join a meeting with colleagues in Singapore or watch an overseas video that isn't cached locally, your data races through them.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cables are faster, carry vastly more data and cost far less per bit than satellites, which is why they dominate.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Light in a glass thread.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "At the heart of a cable are a handful of optical fibres, strands of extremely pure glass about as thin as a human hair.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Lasers send pulses of light down each one, and the light stays inside by reflecting off the glass boundary.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Modern systems send many colours down the same fibre at once, each carrying its own stream.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Layers of protection surround the fibres: gel, steel wires, a copper layer to carry power and plastic insulation.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the deep ocean, a cable may be only as thick as a garden hose.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Light fades over distance, so repeaters spaced roughly 50 to 100 kilometres apart boost it with optical amplifiers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Power reaches them along the copper layer from shore stations.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Laying a cable.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before laying, surveyors map the seabed and avoid steep slopes, rocky ridges, undersea volcanoes and busy anchorages.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Specialised cable ships then carry thousands of kilometres of cable coiled in huge tanks.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In deep water, the ship slowly pays out the cable, which sinks to rest on the sea floor, sometimes more than eight kilometres down.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Closer to shore, where fishing and anchors pose dangers, the cable is thicker and more heavily armoured, and a plough often buries it in a trench.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It comes ashore at a landing station.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A long cable can take many months to lay, and projects often cost hundreds of millions of dollars.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Breaks and repairs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cables do break.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Industry groups estimate well over a hundred faults worldwide each year.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most come from people, particularly fishing trawlers dragging gear and ships dropping or dragging anchors.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Earthquakes and underwater landslides cause others.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sharks have been filmed biting cables, but they are not a significant cause of damage.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When a fault occurs, traffic is usually rerouted over other cables, so users may only notice slower speeds.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A repair ship then finds the break, lifts the cable with a grappling hook or a remotely operated vehicle, splices in a new section on deck and lowers it back.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many countries protect cable zones near their coasts.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A Victorian beginning.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1858, a telegraph cable across the Atlantic let Queen Victoria and US President James Buchanan exchange messages.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It failed within weeks, partly because operators applied too much voltage.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1866, the steamship Great Eastern laid a durable one.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Insulation was gutta percha, a natural latex.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia joined the network in 1872, when the Overland Telegraph from Adelaide to Darwin linked to an undersea cable north toward Java.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Messages that took weeks by ship now arrived within hours.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Today almost all of Australia's international traffic still depends on cables, landing mainly near Sydney and Perth, plus Darwin and the Sunshine Coast.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Protection zones restrict anchoring and some fishing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tech giants now help fund new cables, and governments treat them as critical infrastructure.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Almost all international internet data travels through cables on the sea floor, not satellites.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Where the cloud really lives.",
-   "c": 2,
+   "t": "Part four. Where the cloud really lives.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Your photos, emails and streamed shows are not floating in the sky.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "They live in giant, humming buildings full of computers, protected by fences, guards and biometric checks.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Someone else's computer.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Take a photo and a copy may be backed up to the cloud within moments.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The word suggests something weightless, but the reality is metal, cables and electricity.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The cloud simply means using computers that belong to another company, reached over the internet.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When you check email in a browser, stream a show or save to an online drive, the work and storage happen in a data centre, possibly thousands of kilometres away.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A large data centre looks like a library where the shelves are computers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Tall racks hold servers, computers without screens or keyboards, stacked like pizza boxes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fibre optic lines, often from several providers, link it to the internet.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hyperscale sites can hold tens of thousands of servers, protected by fences, guards, mantraps and biometric checks.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keeping machines cool.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Every server turns electricity into heat, and thousands packed together could quickly cook themselves.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many data centres arrange racks in alternating hot and cold aisles: cool air is pushed through the front of the servers and hot air is captured from the back.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Large chillers, fans and cooling towers then remove the heat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some facilities use water to cool, which raises concerns in dry regions.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Others pump liquid directly to the hottest chips, an approach that has become more common as artificial intelligence hardware runs hotter.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some companies build in cold climates, such as the Nordic countries, to use chilly outside air, and a few have experimented with reusing waste heat to warm nearby homes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Power and copies.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A data centre cannot switch off during a storm.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "If the grid supply flickers, banks of batteries in an uninterruptible power supply take over instantly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Within seconds to minutes, large diesel or gas generators start and carry the load for as long as their fuel lasts.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The system is tested regularly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hard drives fail all the time, and in a building with thousands of them, some fail every day.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "So an uploaded photo is typically stored as several copies, or split into pieces with extra error-correcting information, across different drives and machines.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Important services also copy data to separate buildings or regions.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "This redundancy is why a cloud backup is generally safer than one external drive in a drawer.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Still, accounts get hacked and services shut down, so keep precious files in more than one place.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Content close to home.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you press play on a popular show, the video probably does not travel from a central data centre overseas.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Streaming services and many websites use content delivery networks, which keep copies of popular content on servers close to where people live, including in Australian cities and inside some internet providers' networks.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your request is quietly directed to the nearest suitable server, so the video starts faster and long international links are not clogged with millions of identical streams.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The same trick speeds up news sites, software updates and online games.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "This matters in Australia, which is far from many of the world's big data hubs, so every round trip to the United States or Europe adds a noticeable delay.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The cost of convenience.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Convenience has a footprint.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Estimates from bodies such as the International Energy Agency suggest data centres use somewhere around one to two percent of the world's electricity, and demand is rising quickly as artificial intelligence grows.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Big cloud companies have signed deals to buy large amounts of renewable energy, though how green any particular data centre is can be complicated.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In Australia, Sydney and Melbourne host most data centres, and new projects compete for grid connections and land.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Location also matters legally.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Data stored in another country may be subject to that country's laws, so governments, banks and health services often require sensitive information to stay onshore.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "As a user, delete things you no longer need, and check where and how a service stores your data, especially anything personal or confidential.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: The cloud means using computers owned by someone else, kept in warehouse-sized data centres full of servers.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. How a search engine finds anything.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Type a few words and, in a fraction of a second, the right page appears out of billions.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is not searching the internet when you press Enter.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It did that long before.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "No catalogue.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When the World Wide Web opened to the public in the early 1990s there were only a handful of websites, and people kept lists.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Within a few years there were millions of pages, written by anyone and linked every which way, with no central catalogue.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Early helpers took two approaches.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Yahoo began in 1994 as a hand-built directory, with people sorting sites into categories like a library.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Others, such as AltaVista, used software to read pages automatically and match the words you typed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Directories could not keep up with the web's growth, and word-matching was easily fooled: a page repeating a word hundreds of times could jump to the top.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Search needed a better way to judge which pages were worth showing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Crawlers and the index.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Behind every search engine is a crawler, also called a spider or bot.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It starts with known web addresses, downloads each page, notes every link and adds the new addresses to its list.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This reaches much of the public web, but never all of it: pages behind logins are left out, and a small file called robots.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "txt, a convention from 1994, lets sites ask crawlers to stay away.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A search engine does not scan the internet when you press Enter.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It has already built an index, like the one in a textbook, listing for each word the pages that contain it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Searching 'koala habitat' finds pages on both lists.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This inverted index runs to well over a hundred million gigabytes, so answers return in a fraction of a second.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Links as votes.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1996 two Stanford PhD students, Larry Page and Sergey Brin, began a research project nicknamed BackRub.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Their insight came from academic publishing, where an important paper is one that many others cite.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They treated a link from one page to another as a citation.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A page linked by many others was probably useful, and a link from an important page counted for more than one from an obscure page.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They called the measure PageRank, a pun on Page's surname.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Their company, launched in 1998 as Google, took its name from 'googol', the number 1 followed by 100 zeros, with a change of spelling.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its results were noticeably better than rivals', and within a few years it dominated web search.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ranking today.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "PageRank still matters, but it is now one ingredient among many.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Search engines try to work out what you meant, not just what you typed, so a search for 'how tall is Uluru' can surface a page saying 'Uluru rises 348 metres above the plain'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They also consider how recent a page is, whether it works on phones, your language and where you are, which is why 'pizza near me' gives different answers in Perth and Hobart.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Machine learning increasingly helps interpret meaning.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "How signals are combined is a closely guarded secret, partly for competitive reasons and partly to stop people gaming the system.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A whole industry, search engine optimisation, exists to help sites climb the rankings.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Who pays for free.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Running a search engine costs a fortune, yet you pay nothing.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The money comes mainly from advertising.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When you search for 'running shoes', advertisers compete in an automated auction, run in a split second, for the chance to show you a link, and they typically pay only when someone clicks.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A search is a powerful moment for advertisers, because you are telling the engine exactly what you want right now.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This model explains a few things.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Sponsored results often appear above ordinary ones, marked with a small label.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Engines also learn from what people click.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Notice the difference between an ad and a result, and remember the top link is not automatically the best one.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The early web outgrew hand-built directories and simple word matching, so search needed a smarter way to judge pages.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1126,7 +1114,19 @@
    "ps": false
   },
   {
-   "t": "Question one. Why is the internet called a 'network of networks'?",
+   "t": "Question one. Why did the first barcode patent not lead to scanners straight away?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Cheap readers needed lasers and microchips, not yet built.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why is the internet called a 'network of networks'?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1138,7 +1138,7 @@
    "ps": false
   },
   {
-   "t": "Question two. How does most international internet traffic cross the oceans?",
+   "t": "Question three. How does most international internet traffic cross the oceans?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1150,25 +1150,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What does 'the cloud' really refer to?",
+   "t": "Question four. What does 'the cloud' really refer to?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Computers owned by another company.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Why did simple word-matching search fail on the early web?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Pages could repeat a word to jump to the top.",
    "c": 4,
    "k": "a",
    "ps": false

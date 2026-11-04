@@ -1,12 +1,11 @@
 {
  "id": "s-explorers-2",
- "h": "age-of-discovery,magellan,longitude-problem,cook",
+ "h": "age-of-discovery,magellan,longitude-problem",
  "title": "Great Explorers · Episode 2",
  "chapters": [
   "Columbus, da Gama and the Age of Discovery",
   "Magellan: the first voyage around the world",
-  "The longitude problem: how a clock saved sailors",
-  "James Cook's voyages"
+  "The longitude problem: how a clock saved sailors"
  ],
  "units": [
   {
@@ -16,7 +15,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Columbus, da Gama and the Age of Discovery, Magellan: the first voyage around the world, The longitude problem: how a clock saved sailors and James Cook's voyages.",
+   "t": "In this episode: Columbus, da Gama and the Age of Discovery, Magellan: the first voyage around the world and The longitude problem: how a clock saved sailors.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -820,308 +819,50 @@
    "ps": true
   },
   {
-   "t": "Part four. James Cook's voyages.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "A farm labourer's son became the Pacific's greatest mapmaker.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His voyages changed science, and the fate of the peoples he met.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Labourer to captain.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "James Cook was born in Yorkshire in 1728, the son of a farm labourer.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He learned seamanship on coal ships out of Whitby, joined the Royal Navy in 1755 and rose quickly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "During the Seven Years' War he helped chart the St Lawrence River, then made his name mapping Newfoundland with remarkable precision.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Largely self-taught, he was a skilled mathematician and astronomer, rare for someone without a privileged education.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1768 he was chosen to command a scientific voyage to the Pacific aboard the Endeavour, a converted Whitby coal ship.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Venus and the south.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The official purpose of the first voyage, 1768 to 1771, was to watch Venus cross the Sun from Tahiti on 3 June 1769.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Transits come in pairs about eight years apart, with over a century between pairs, and astronomers hoped to calculate the Earth-Sun distance.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cook also carried secret orders to seek the great southern continent, Terra Australis.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Aboard was the wealthy young botanist Joseph Banks, who collected thousands of plants with Daniel Solander.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cook mapped both islands of New Zealand, partly seen by Abel Tasman in 1642.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Early encounters with Māori ended in bloodshed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In April 1770 he reached Australia's east coast at Kamay, Botany Bay, named for Banks's new plants, where Gweagal men opposed the landing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "On Possession Island in August 1770, Cook claimed the east coast for Britain without its peoples' consent.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Reef and science.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In June 1770 the Endeavour ran aground on the Great Barrier Reef.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The crew threw cannons, ballast and supplies overboard and, once afloat, slowed the leak by drawing a sail packed with oakum and wool under the hull: fothering.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They limped to the Endeavour River, near Cooktown, where repairs took about seven weeks.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "There they had extended contact with the Guugu Yimithirr people and recorded the word 'kangaroo', from gangurru.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Banks and Solander brought back many plants new to European science, and artist Sydney Parkinson made hundreds of drawings before dying on the voyage home.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The first voyage was still deadly: over a third of the crew died, mostly of disease caught at Batavia, Jakarta.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cook later fought scurvy with fresh food, sauerkraut and strict cleanliness, and lost very few men to it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The later voyages.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On the second voyage, 1772 to 1775, Cook carried a copy of John Harrison's marine chronometer, accurate enough to calculate longitude at sea, and praised it.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He crossed the Antarctic Circle, showing any southern continent must lie in the icy far south, not the temperate latitudes Europeans imagined.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "On the third voyage, 1776 to 1780, searching for a Northwest Passage above North America, he became the first European known to reach Hawai'i, in 1778.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He sailed north through the Bering Strait until ice blocked the way.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Back in Hawai'i, amid rising tensions over a stolen boat, he was killed in a confrontation at Kealakekua Bay on 14 February 1779.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His crew completed the voyage without him.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A contested legacy.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Cook's charts and Banks's enthusiasm for Botany Bay influenced Britain's decision to send convicts to New South Wales.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The First Fleet arrived in January 1788, but Captain Arthur Phillip found Botany Bay unsuitable, with poor soil and little fresh water, and moved about 12 kilometres north to Sydney Cove in Port Jackson, a harbour Cook had noted but not entered.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The founding, on 26 January, is now Australia Day, which many Aboriginal and Torres Strait Islander people mourn as the beginning of invasion.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cook's maps were so accurate that some were used for over a century, and his voyages advanced botany, astronomy and knowledge of the Pacific.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Yet for many Aboriginal Australians, Māori and Pacific peoples, his arrival marks dispossession and disease.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Both views reflect real history, and holding both is part of understanding the past honestly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: James Cook, a farm labourer's son, taught himself navigation, astronomy and surveying and became a brilliant chart maker.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. Why did Europeans want direct sea routes to Asia?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. To buy valuable spices without paying many middlemen.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What was Magellan trying to reach by sailing west?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The Spice Islands in modern Indonesia.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. Why could navigators be badly wrong about their position at sea?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Small errors in dead reckoning built up daily.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What does Cook's early career show?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Skill and study took a labourer's son to command.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

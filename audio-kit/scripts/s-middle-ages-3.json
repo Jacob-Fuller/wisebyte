@@ -1,12 +1,11 @@
 {
  "id": "s-middle-ages-3",
- "h": "mongol-empire,mali-empire-mansa-musa,magna-carta,gothic-cathedrals",
+ "h": "crusades,mongol-empire,mali-empire-mansa-musa",
  "title": "The Middle Ages · Episode 3",
  "chapters": [
+  "The Crusades",
   "Genghis Khan and the Mongol Empire",
-  "Mansa Musa and the golden empire of Mali",
-  "Magna Carta",
-  "Gothic cathedrals: how medieval builders made stone fly"
+  "Mansa Musa and the golden empire of Mali"
  ],
  "units": [
   {
@@ -16,1106 +15,806 @@
    "ps": false
   },
   {
-   "t": "In this episode: Genghis Khan and the Mongol Empire, Mansa Musa and the golden empire of Mali, Magna Carta and Gothic cathedrals: how medieval builders made stone fly.",
+   "t": "In this episode: The Crusades, Genghis Khan and the Mongol Empire and Mansa Musa and the golden empire of Mali.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Genghis Khan and the Mongol Empire.",
+   "t": "Part one. The Crusades.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For two centuries, European Christians launched military expeditions to the Holy Land.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The consequences are still debated today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The call to crusade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jerusalem, holy to Christians, Jews and Muslims, had been under Muslim rule since the 600s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1095, after the Byzantine emperor Alexios I asked for help against the Seljuk Turks, Pope Urban II preached at Clermont in France, urging Western Christians to fight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He promised that those who went would have their sins forgiven.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tens of thousands responded, from knights to ordinary people, motivated by faith, adventure, wealth and land.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They sewed cloth crosses onto their clothes; 'crusade' comes from the Latin crux, meaning cross.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The First Crusade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the main armies even left, crusaders attacked Jewish communities in Rhineland cities like Mainz and Worms, massacring many people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main armies marched through Byzantine lands, besieged Antioch for months and, in 1099, captured Jerusalem, killing many of its Muslim and Jewish inhabitants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They set up four Crusader States along the eastern Mediterranean coast: Edessa, Antioch, Tripoli and the Kingdom of Jerusalem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their success owed much to divisions among local Muslim rulers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Military orders soon formed to defend these states and protect pilgrims.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saladin and Richard.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Muslim rulers gradually united.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Salah al-Din, known as Saladin, a Kurdish-born sultan of Egypt and Syria, defeated the crusader army at Hattin in 1187, trapping it far from water in summer heat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He then retook Jerusalem, largely without the massacres of 1099, letting many inhabitants ransom themselves.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even his enemies praised his honour and generosity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Third Crusade, 1189 to 1192, was led by Richard I of England, Philip II of France and Frederick Barbarossa, who drowned on the way.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Richard won battles, including Arsuf, but never retook Jerusalem.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He agreed a truce with Saladin allowing Christian pilgrims to visit, then was captured on his way home and held for a massive ransom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crusades gone astray.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1204, the Fourth Crusade, deep in debt to Venice for its ships, looted Constantinople, capital of the Christian Byzantine Empire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The bronze horses now at St Mark's in Venice were among the spoils.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The betrayal deepened the split between Eastern and Western churches.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crusades were also launched against pagans in the Baltic and Cathar heretics in France.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frederick II regained Jerusalem in 1229 by treaty with barely any fighting, but it was lost again in 1244.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Louis IX of France was captured in Egypt in 1250 and ransomed, then died of disease near Tunis in 1270.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Children's Crusade of 1212 is poorly recorded and partly legend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The last Crusader stronghold, Acre, fell in 1291.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orders and legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Knights Templar, founded around 1120, combined monastic vows with fighting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They grew rich from donations and let pilgrims deposit money in Europe and draw it in the East.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1307, France's Philip IV, who owed them money, had them arrested on dubious charges, and the Pope dissolved the order in 1312.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Crusades boosted Mediterranean trade, especially for Venice and Genoa, and brought European contact with Arabic goods and learning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They also involved persecution of Jews and violence against Eastern Christians and Muslims.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muslim writers of the time often saw crusaders as a frontier nuisance; the crusades loomed larger in later memory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Understanding them means seeing several perspectives.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1095, Pope Urban II urged Western Christians to fight for Jerusalem, promising forgiveness of sins.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Genghis Khan and the Mongol Empire.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "A boy abandoned on the harsh steppe grew up to build the largest connected land empire in history.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here is how the Mongols conquered so much, so quickly, and what their rule left behind.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Outcast to conqueror.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Born Temüjin around 1162 on the Mongolian steppe, the future Genghis Khan lost his father to poisoning by a rival tribe, and his clan abandoned the family.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "They survived on roots and fish at the bottom of steppe society, and he was later captured but escaped.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He learned that loyalty mattered more than birth and gathered followers by rewarding those who stood by him.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "By 1206 he had united the Mongol and Turkic tribes and was proclaimed Genghis Khan.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Every Mongol man was a skilled horse archer.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Genghis grouped them in units of ten, a hundred, a thousand and ten thousand, mixing tribes so loyalty shifted to the khan.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Each warrior carried several horses, used feigned retreats, and the army recruited Chinese and Persian engineers to build siege engines.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Conquest and terror.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "It would be wrong to romanticise the Mongols.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cities that surrendered were often spared, but those that resisted could be destroyed and their people killed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Mongols spread stories of these massacres to frighten others into giving up.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "After the ruler of the Khwarazmian Empire in Central Asia killed Mongol envoys, Genghis Khan's armies devastated the region's great cities from 1219.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1258 his grandson Hulegu captured Baghdad, then one of the world's great centres of learning, and much of it was sacked.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Historians debate the numbers, which medieval chroniclers may have exaggerated, but millions died across Asia and Eastern Europe, and some regions took centuries to recover.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Empire, split and limits.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Genghis Khan died in 1227, but his sons and grandsons kept expanding.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Under Ögedei, Mongol armies swept into Russia, Poland and Hungary.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1242 they withdrew from Europe, which many historians link to news of Ögedei's death requiring the princes to choose a new leader.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "At its peak in the later 1200s, the realm was the largest connected land empire ever.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It soon split into four states: the Golden Horde in Russia, the Ilkhanate in Persia, the Chagatai Khanate in Central Asia, and the Yuan dynasty in China, founded by Kublai Khan.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Mongols could be beaten.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Mamluks defeated them at Ain Jalut in 1260, and Kublai's invasions of Japan in 1274 and 1281 failed, partly due to storms.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Ming drove the Yuan from China in 1368.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Horses, passports and post.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ruling such a vast area needed fast communication.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Mongols built the yam, a network of relay stations where official riders could swap horses, get food and rest.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Messages could travel remarkable distances in days rather than weeks.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Important travellers carried a paiza, a metal or wooden tablet that worked a little like a passport, showing they were under the khan's protection and entitled to help.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Mongols also took censuses, collected taxes and wrote laws.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Genghis Khan had his people adopt a script borrowed from the Uyghurs so Mongolian could be written down.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "For a nomadic people with no tradition of cities, this was a remarkable feat of administration.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Mongol Peace.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Once fighting died down in many regions, the empire's size had an unexpected effect.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "One family controlled the routes from China to the Middle East and Russia, so merchants could travel the Silk Roads more safely.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Historians call this period the Pax Mongolica, or Mongol Peace.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Goods, ideas and people moved across Eurasia.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Paper money, gunpowder and printing techniques travelled west, while Persian astronomers and doctors worked in China.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Mongols were generally tolerant of different religions, and Buddhists, Muslims, Christians and Daoists could be found at the khan's court.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The darker side is that diseases travelled too, and many historians think the Black Death spread along these same routes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Today Genghis Khan is honoured in Mongolia as a national founder, on banknotes and in a giant statue near the capital.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Genghis Khan rose from a hunted outsider by rewarding loyalty and building a disciplined, mixed-tribe army.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Mansa Musa and the golden empire of Mali.",
-   "c": 1,
+   "t": "Part three. Mansa Musa and the golden empire of Mali.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "In 1324 a West African king travelled to Mecca with so much gold that he reportedly upset the economy of Cairo.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "His empire of Mali was one of the richest in the medieval world.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A king who dazzled Cairo.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1324, a vast caravan arrived in Cairo on its way to Mecca.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "At its head was Mansa Musa, ruler of the Mali Empire, travelling with thousands of attendants and camels reportedly loaded with gold.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Arab writer al-Umari, who spoke to people in Cairo who had met the king, reported that Musa gave away and spent so much gold that its value in the city fell and had not recovered years later.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Exact figures from the time are impossible to check, and later retellings have grown with each telling.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "But the story spread across the Mediterranean world and put Mali firmly on the mental map of merchants and rulers who had barely heard of West Africa.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Founders, rulers and griots.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Mali Empire grew from a small Mande kingdom on the upper Niger River.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Its founder, Sundiata Keita, is remembered in an epic still performed today.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the story he is born unable to walk, mocked and exiled, but returns to defeat the sorcerer king Sumanguru, usually dated to around the 1230s.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Historians treat the epic as part history, part legend, but agree Sundiata built a strong state that his successors expanded across much of West Africa.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Mali was a patchwork of provinces and tributary kingdoms ruled by a mansa.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Islam was the faith of the court and many merchants, while many ordinary people kept older beliefs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Griots, storytellers and musicians, memorised royal genealogies and history, which is how the Sundiata epic survived.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gold and salt.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "For centuries, much of the gold used in the Mediterranean world and the Middle East came from West Africa.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Rich goldfields lay in regions such as Bambuk and Bure, within or near Mali's lands.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Mali did not need to mine it all: it controlled and taxed the trade.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the other direction came salt, dug in slabs from desert mines such as Taghaza in the Sahara.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In hot climates people need salt to survive, so it was extremely valuable, at times traded weight for weight against gold, according to some accounts.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Camel caravans crossed the desert on journeys that could take months, and cities on the edge of the Sahara grew wealthy as meeting points for desert and river trade.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Timbuktu, city of books.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Today 'Timbuktu' is used in English to mean the remotest place imaginable, but in the 1300s it was a thriving crossroads.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "After returning from Mecca, Mansa Musa is said to have brought scholars and an architect back with him, and the Djinguereyber Mosque, built of mud brick and wood, is traditionally linked to his reign.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The city became a centre where scholars taught law, astronomy, mathematics and medicine, and families collected manuscripts over generations.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many of these handwritten books survived in private libraries for centuries.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When armed groups occupied Timbuktu in 2012, librarians and residents quietly smuggled hundreds of thousands of manuscripts out of the city in boxes and sacks to keep them safe.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A traveller's report and decline.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Moroccan traveller Ibn Battuta visited Mali around 1352 to 1353, some fifteen years after Mansa Musa's death.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He described the court of Musa's brother, Mansa Sulayman, with its ceremonies, interpreters and guards.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He grumbled that the king's gift to him was disappointingly small, but praised the safety of the roads and noted how seriously people took Friday prayers and their children's learning of the Quran.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "After Mansa Musa, Mali faced succession disputes, provincial rebellions and desert raids.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1400s the Songhay Empire, based at Gao, took Timbuktu and much of the trade.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Catalan Atlas, around 1375, shows a crowned African ruler holding a gold nugget.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Modern Mali took its name from the empire when it became independent from France in 1960.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Mansa Musa's 1324 pilgrimage made Mali famous far beyond Africa, even if the details have grown with retelling.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Magna Carta.",
    "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "In 1215, rebel barons forced an English king to accept that even he was bound by law.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It barely lasted, but the idea became legendary.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A bad king.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "King John, who ruled from 1199, lost most of England's lands in France, including Normandy in 1204, earning the nickname 'Softsword'.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "To fund attempts to win them back, he squeezed his barons with heavy taxes, fees and fines, seized property, took hostages and punished enemies without trial.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He also quarrelled with the Pope over who should be Archbishop of Canterbury, and the Pope suspended most church services in England for years.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "After a final defeat in France in 1214, many powerful barons had had enough.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They rebelled and captured London in 1215.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Runnymede, 1215.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In a meadow called Runnymede, beside the Thames west of London, John met the rebels and sealed a charter later divided into 63 clauses.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He didn't sign it: it was authenticated with the royal seal, and copies were sent around the kingdom.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Magna Carta means 'Great Charter' in Latin.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most clauses dealt with barons' specific grievances: inheritance, fees, forests and fish weirs in rivers.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "John agreed partly to buy time.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Within weeks he asked the Pope to cancel it, and the Pope declared it null and void.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Civil war followed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key promises.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Clause 39 promised that no free man would be arrested, imprisoned, stripped of property, outlawed or exiled except by the lawful judgement of his peers or by the law of the land.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Clause 40 said: 'To no one will we sell, to no one will we deny or delay right or justice.'",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At the time, 'free men' excluded most people, including unfree peasants called villeins.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Other clauses were practical.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Widows kept their inheritance and couldn't be forced to remarry.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Clause 35 required standard measures for wine, ale and corn.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most radical was clause 61: a council of 25 barons could seize the king's castles if he broke his word.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "No king would accept that for long, and later versions dropped it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It survived.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "John died in 1216, and the advisers of his nine-year-old son Henry III reissued the charter in revised forms to win support, in 1216, 1217 and 1225.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Edward I confirmed it in 1297, and that version entered the statute books.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most clauses have since been repealed, but three remain in English law, including the promise of justice and due process.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Four original copies of the 1215 charter survive, and a 1297 version, bought by the Australian government in 1952, is on display at Parliament House in Canberra.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A companion Charter of the Forest followed in 1217.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It restored ordinary people's rights to collect firewood and let pigs forage in royal forests, and said no one would lose life or limb for taking the king's deer.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It stayed on the statute books until 1971.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A myth that mattered.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1600s, lawyers such as Edward Coke used Magna Carta to argue against kings claiming absolute power, and in the 1700s American colonists cited it against British rule.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Much of what they read into it, like trial by jury as we know it, went beyond what the barons intended.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Historians call this the myth of Magna Carta.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But the myth was powerful: it shaped the US Bill of Rights, and in 1948 Eleanor Roosevelt hoped the Universal Declaration of Human Rights might become an international Magna Carta.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its deepest legacy is the rule of law: power exercised under known laws, applying even to those in charge, with a right to fair legal process.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia inherited this through English common law, including habeas corpus, the right to challenge unlawful detention.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: King John lost lands in France, taxed heavily and punished enemies without trial, so his barons rebelled.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Gothic cathedrals: how medieval builders made stone fly.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Without calculators or engineering degrees, medieval masons raised stone ceilings dozens of metres into the air and filled walls with glowing glass.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here is how they pulled it off.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "An abbot who wanted light.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1140s Suger, abbot of Saint-Denis just north of Paris, set out to rebuild the choir of his abbey church, the burial place of French kings.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Influenced by the idea that God could be experienced as light, he wanted a church that glowed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His builders combined existing techniques, the pointed arch, ribbed vaults and large windows, in a new way.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The result, consecrated in 1144, felt astonishingly open and bright compared with the thick-walled, shadowy Romanesque churches before it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Historians treat it as the birth of Gothic.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The style spread through travelling master masons.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The name 'Gothic' came later, as a Renaissance insult blaming the style on the Goths.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Arches and flying buttresses.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A pointed arch pushes outwards less than a semicircular arch of the same width.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is also adaptable: a round arch's height is fixed by its width, but a pointed one can be steeper or flatter, so narrow and wide arches reach the same height.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "With ribbed vaults, a skeleton of stone ribs carrying the ceiling, masons could roof complicated spaces.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A stone vault constantly pushes the tops of the walls outwards.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Romanesque builders used thick walls and small windows.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Gothic builders moved the support outside.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A flying buttress is a half arch that leaps across the side aisle to a stone pier, catching the vault's thrust and channelling it to the ground.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Heavy pinnacles on the piers help.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The walls no longer held much up, so they became enormous windows.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Walls of coloured light.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Step inside Chartres Cathedral on a sunny day and the walls seem to dissolve into deep blues and reds.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Medieval stained glass was made by adding metal oxides to molten glass: cobalt for blue, copper for red and green.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Glaziers cut the coloured pieces, painted details such as faces and folds in dark enamel fired onto the surface, and joined everything with lead strips.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Iron frames held the panels.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The windows told Bible stories and saints' lives, and often showed the trades who paid for them, such as bakers or shoemakers.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Circular rose windows, divided like flower petals, became a signature of the style.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The deep blue of Chartres has been admired for centuries and is still hard to reproduce exactly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Building without equations.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Medieval builders had no theory of forces in the modern sense.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Master masons worked with geometry, using compasses, set squares and string to lay out proportions, and guarded rules of thumb passed down through apprenticeships.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Designs were drawn full size on plaster floors called tracing floors, from which templates for each stone were cut.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Builders learned by trial and, sometimes, disaster.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "At Beauvais in northern France, where they attempted the tallest Gothic choir of all, with a vault about forty-eight metres high, part of the vault collapsed in 1284 and was rebuilt with extra supports.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The work was also slow.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cologne Cathedral was begun in 1248 and not finished until 1880, after centuries of interruption.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Gothic comes to Australia.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1800s Gothic made a spectacular comeback.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Architects in Britain saw it as a deeply Christian and national style, and the rebuilt Houses of Parliament in London became its most famous example.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Writers found Gothic buildings romantic and mysterious, and the word lent its name to spooky novels set in crumbling castles.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is now a neutral description.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Revival travelled with the British Empire, and Australia is full of it.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "William Wardell designed both St Mary's Cathedral in Sydney and St Patrick's Cathedral in Melbourne, with pointed arches, rib vaults and stained glass in homage to medieval models.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The main quadrangle at the University of Sydney is another well-known example.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The originals still matter: when fire tore through Notre-Dame in 2019 people worldwide watched in grief, and its reopening in December 2024 was celebrated.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The key idea: Gothic architecture began in the 1140s when Abbot Suger rebuilt Saint-Denis to glow with light.",
-   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why did Genghis Khan mix men from different tribes in his army units?",
-   "c": 4,
+   "t": "Question one. What did Pope Urban II promise those who went on crusade?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Forgiveness of their sins.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did Genghis Khan mix men from different tribes in his army units?",
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. To replace tribal loyalty with loyalty to the khan.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why did Mansa Musa's pilgrimage matter for Mali's reputation?",
-   "c": 4,
+   "t": "Question three. Why did Mansa Musa's pilgrimage matter for Mali's reputation?",
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It made Mali famous among Mediterranean merchants.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. Why were the barons angry with King John?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. He lost French lands and punished without trial.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What did Abbot Suger want his rebuilt church at Saint-Denis to achieve?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. A church full of light, unlike dark Romanesque churches.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

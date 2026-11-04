@@ -1,12 +1,12 @@
 {
  "id": "s-economics-1",
- "h": "supply-demand,externalities,monopolies-competition,incentives",
+ "h": "supply-demand,externalities,monopolies-competition,market-for-lemons",
  "title": "Economics · Episode 1",
  "chapters": [
   "Supply and demand: why things cost what they do",
   "Externalities: the costs nobody pays for",
   "Monopolies and why competition matters",
-  "Incentives: why rewards so often backfire"
+  "The market for lemons: when sellers know more than buyers"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Supply and demand: why things cost what they do, Externalities: the costs nobody pays for, Monopolies and why competition matters and Incentives: why rewards so often backfire.",
+   "t": "In this episode: Supply and demand: why things cost what they do, Externalities: the costs nobody pays for, Monopolies and why competition matters and The market for lemons: when sellers know more than buyers.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -826,295 +826,265 @@
    "ps": true
   },
   {
-   "t": "Part four. Incentives: why rewards so often backfire.",
+   "t": "Part four. The market for lemons: when sellers know more than buyers.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Offer people a reward and they'll respond, just not always the way you hoped.",
+   "t": "A short paper about dodgy used cars was rejected by several journals.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Here's why clever incentives can go spectacularly wrong.",
+   "t": "It went on to win a Nobel Prize and explain why some markets break down.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The great rat hunt.",
+   "t": "Peaches and lemons.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1902 French colonial authorities in Hanoi faced rats in the city's new sewers, and plague made it urgent.",
+   "t": "In the United States a defective car is called a lemon, and a good one a peach.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They offered a small bounty for every rat killed, paid on presentation of a tail.",
+   "t": "In 1970 economist George Akerlof used used cars to explore a powerful idea.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Soon officials noticed rats running around without tails.",
+   "t": "The seller knows the car's history.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "People were cutting off tails for the reward and releasing the rats to breed.",
+   "t": "The buyer usually does not.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The historian Michael Vann found reports of rat farming too.",
+   "t": "Economists call this asymmetric information.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The scheme did what it paid for, not what it meant.",
+   "t": "If buyers cannot tell peaches from lemons, they offer only an average price.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To the owner of a genuine peach, that is too low, so many decide not to sell.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That leaves more lemons, buyers lower their offers further, and more good cars leave.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the extreme, the market collapses until only lemons remain, or no trade happens at all, even though buyers would gladly pay a fair price for a good car.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rejected, then rewarded.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "People respond to what is actually rewarded, not what the designer intended.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It's one of the most important and most forgotten lessons in economics.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "People respond.",
+   "t": "The paper had a rocky start.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "If there's one sentence many economists would put on a T shirt, it's 'people respond to incentives'.",
+   "t": "Akerlof later recounted that several leading journals rejected it, with reviewers suggesting it was too trivial or, alternatively, that if it were correct, economics would be different.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was eventually published in the Quarterly Journal of Economics in 1970.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over time it became one of the most cited papers in the field, because the idea applied far beyond cars.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2001 Akerlof shared the Nobel Prize in economics with Michael Spence and Joseph Stiglitz, who had developed related ideas about how markets cope with hidden information.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together their work helped launch the economics of information, which now underpins thinking about insurance, lending and online trade.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Adverse selection.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "An incentive is anything that makes an action more or less attractive: a price, a bonus, a fine, a deadline, even praise or embarrassment.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Raise the price of something and people tend to buy less of it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many responses are what policymakers want.",
+   "t": "Insurance shows the lemons problem in reverse.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Australia's container deposit schemes and rooftop solar incentives have changed behaviour on a large scale.",
+   "t": "The buyer of health insurance often knows more about their own health than the insurer does.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The trouble comes when incentives are designed carelessly, because people are quick to find the easiest path to a reward, whether or not it achieves the actual goal.",
+   "t": "If premiums are set at an average level, people who expect to need lots of care find the deal attractive, while healthy people may decide it is not worth it.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Measures as targets.",
+   "t": "As the healthy leave, the insured pool gets sicker and more expensive, premiums rise and still more healthy people drop out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This spiral is called adverse selection.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Lifetime Health Cover, introduced in 2000, tackles it by adding a loading to private hospital cover premiums for people who first take out cover later in life, from their early thirties on, encouraging people to join while young and healthy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Signals and screens.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1975 the economist Charles Goodhart observed that statistics used to guide policy tend to break down once they become targets.",
+   "t": "Markets are not helpless.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Marilyn Strathern later summed it up: 'When a measure becomes a target, it ceases to be a good measure.'",
+   "t": "Michael Spence showed how the informed side can send a signal, an action that is costly for low-quality sellers to fake.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A call centre rewarding short call times may find staff hanging up on difficult customers.",
+   "t": "A dealer who offers a long warranty on a used car signals confidence, since honouring it on a lemon would be expensive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spence's best-known example was education: a degree may signal persistence and ability to employers, whatever its direct usefulness.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Joseph Stiglitz showed how the less informed side can screen, for instance by offering a menu of insurance policies with different excesses, so customers reveal their own risk by what they choose.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brand reputations, independent inspections and vehicle history reports all do the same job, making hidden quality visible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lemons everywhere.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A hospital judged on waiting times may find creative ways to reclassify waits.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Schools judged on test scores can end up teaching to the test.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "There's an old Soviet era joke about a nail factory: given a target by weight, it made a few giant useless nails; given a target by number, it made millions of tiny ones.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Whatever gets measured gets gamed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fines and crowding out.",
+   "t": "Once you see the lemons problem, it appears everywhere.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In a 2000 study, Uri Gneezy and Aldo Rustichini looked at Israeli day care centres where parents were often late.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Some introduced a small fine, and lateness rose.",
+   "t": "Online marketplaces rely on ratings and reviews so strangers can trust each other, and fake reviews are damaging precisely because they poison those signals.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The paper's title, 'A Fine Is a Price', gives the reason: late pick-up had meant imposing on a teacher's goodwill, but now it felt like a service parents could buy.",
+   "t": "Lenders check credit histories because borrowers know more about their own finances.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "When the fines were removed, lateness stayed high.",
+   "t": "Employers ask for references.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A cheap financial incentive had replaced a social one, and the old norm didn't return.",
+   "t": "Consumer protection laws, including statutory guarantees that goods must be of acceptable quality, give buyers some assurance and reduce the advantage of sellers who hide defects.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Money can crowd out other motives.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1970 Richard Titmuss argued that paying for blood could undermine the civic duty of voluntary donors.",
+   "t": "Akerlof's insight was that missing information is not a minor detail.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Researchers debate how strong this is, and payment raises effort in many settings.",
+   "t": "It can stop a market working at all.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "But people are also motivated by pride, fairness and belonging.",
+   "t": "Much of the machinery of modern commerce, from warranties to watchdogs, exists to close that gap.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Australia's Lifeblood relies on unpaid volunteers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Moral hazard and design.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Moral hazard is an insurance term: if someone else bears the cost when things go wrong, people may be less careful.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A driver with comprehensive insurance might park carelessly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A bank expecting a rescue might make riskier loans, keeping profits and passing losses to taxpayers, a worry after 2008.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Insurers use excesses so customers share part of every claim.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It can be managed, not eliminated.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's banking Royal Commission, which reported in 2019, heard many examples of staff chasing commissions and sales targets at customers' expense.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "To design better incentives, reward the true goal rather than an easy proxy, imagine how a cynical person might game it and close those loopholes, and use several measures.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pride, trust and fairness are incentives too.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ask the rat tail question: what am I really paying for?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: People respond to what is actually rewarded, not what the designer meant.",
+   "t": "The key idea: When sellers know far more than buyers, good products can be driven out of a market.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1162,13 +1132,13 @@
    "ps": false
   },
   {
-   "t": "Question four. What went wrong with the Hanoi rat bounty?",
+   "t": "Question four. In Akerlof's model, why might good cars disappear from the market?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. People bred rats and cut off tails for cash.",
+   "t": "Answer. Average prices are too low for their owners.",
    "c": 4,
    "k": "a",
    "ps": false

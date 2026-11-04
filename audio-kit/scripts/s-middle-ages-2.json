@@ -1,12 +1,11 @@
 {
  "id": "s-middle-ages-2",
- "h": "norman-conquest-1066,byzantine-empire,islamic-golden-age,crusades",
+ "h": "norman-conquest-1066,byzantine-empire,islamic-golden-age",
  "title": "The Middle Ages · Episode 2",
  "chapters": [
   "1066: the year England changed hands",
   "Byzantium: the Roman Empire that didn't fall",
-  "The Islamic Golden Age",
-  "The Crusades"
+  "The Islamic Golden Age"
  ],
  "units": [
   {
@@ -16,7 +15,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: 1066: the year England changed hands, Byzantium: the Roman Empire that didn't fall, The Islamic Golden Age and The Crusades.",
+   "t": "In this episode: 1066: the year England changed hands, Byzantium: the Roman Empire that didn't fall and The Islamic Golden Age.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -784,308 +783,50 @@
    "ps": true
   },
   {
-   "t": "Part four. The Crusades.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "For two centuries, European Christians launched military expeditions to the Holy Land.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The consequences are still debated today.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The call to crusade.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Jerusalem, holy to Christians, Jews and Muslims, had been under Muslim rule since the 600s.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1095, after the Byzantine emperor Alexios I asked for help against the Seljuk Turks, Pope Urban II preached at Clermont in France, urging Western Christians to fight.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He promised that those who went would have their sins forgiven.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Tens of thousands responded, from knights to ordinary people, motivated by faith, adventure, wealth and land.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They sewed cloth crosses onto their clothes; 'crusade' comes from the Latin crux, meaning cross.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The First Crusade.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Before the main armies even left, crusaders attacked Jewish communities in Rhineland cities like Mainz and Worms, massacring many people.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The main armies marched through Byzantine lands, besieged Antioch for months and, in 1099, captured Jerusalem, killing many of its Muslim and Jewish inhabitants.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They set up four Crusader States along the eastern Mediterranean coast: Edessa, Antioch, Tripoli and the Kingdom of Jerusalem.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Their success owed much to divisions among local Muslim rulers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Military orders soon formed to defend these states and protect pilgrims.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Saladin and Richard.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Muslim rulers gradually united.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Salah al-Din, known as Saladin, a Kurdish-born sultan of Egypt and Syria, defeated the crusader army at Hattin in 1187, trapping it far from water in summer heat.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He then retook Jerusalem, largely without the massacres of 1099, letting many inhabitants ransom themselves.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Even his enemies praised his honour and generosity.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Third Crusade, 1189 to 1192, was led by Richard I of England, Philip II of France and Frederick Barbarossa, who drowned on the way.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Richard won battles, including Arsuf, but never retook Jerusalem.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He agreed a truce with Saladin allowing Christian pilgrims to visit, then was captured on his way home and held for a massive ransom.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Crusades gone astray.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1204, the Fourth Crusade, deep in debt to Venice for its ships, looted Constantinople, capital of the Christian Byzantine Empire.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The bronze horses now at St Mark's in Venice were among the spoils.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The betrayal deepened the split between Eastern and Western churches.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Crusades were also launched against pagans in the Baltic and Cathar heretics in France.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Frederick II regained Jerusalem in 1229 by treaty with barely any fighting, but it was lost again in 1244.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Louis IX of France was captured in Egypt in 1250 and ransomed, then died of disease near Tunis in 1270.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Children's Crusade of 1212 is poorly recorded and partly legend.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The last Crusader stronghold, Acre, fell in 1291.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Orders and legacy.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Knights Templar, founded around 1120, combined monastic vows with fighting.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They grew rich from donations and let pilgrims deposit money in Europe and draw it in the East.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1307, France's Philip IV, who owed them money, had them arrested on dubious charges, and the Pope dissolved the order in 1312.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Crusades boosted Mediterranean trade, especially for Venice and Genoa, and brought European contact with Arabic goods and learning.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They also involved persecution of Jews and violence against Eastern Christians and Muslims.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Muslim writers of the time often saw crusaders as a frontier nuisance; the crusades loomed larger in later memory.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Understanding them means seeing several perspectives.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: In 1095, Pope Urban II urged Western Christians to fight for Jerusalem, promising forgiveness of sins.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. Why was the English throne contested in 1066?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Edward died childless, and three men claimed the crown.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What did the Byzantines consider themselves?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Romans, heirs of the Roman Empire.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. How did scholars of the Islamic Golden Age help preserve Greek science?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. By translating them into Arabic and studying them.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What did Pope Urban II promise those who went on crusade?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Forgiveness of their sins.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

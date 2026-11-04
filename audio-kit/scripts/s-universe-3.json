@@ -1,11 +1,12 @@
 {
  "id": "s-universe-3",
- "h": "cosmic-distance-ladder,dark-matter-energy,exoplanets",
+ "h": "moon,eclipses,stars,spectroscopy-starlight",
  "title": "The Universe · Episode 3",
  "chapters": [
-  "How we measure the universe",
-  "Dark matter and dark energy",
-  "Exoplanets: worlds beyond the Sun"
+  "The Moon: our strange companion",
+  "Eclipses: the cosmic coincidence",
+  "The life and death of stars",
+  "Reading starlight: what stars are made of"
  ],
  "units": [
   {
@@ -15,926 +16,1082 @@
    "ps": false
   },
   {
-   "t": "In this episode: How we measure the universe, Dark matter and dark energy and Exoplanets: worlds beyond the Sun.",
+   "t": "In this episode: The Moon: our strange companion, Eclipses: the cosmic coincidence, The life and death of stars and Reading starlight: what stars are made of.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How we measure the universe.",
+   "t": "Part one. The Moon: our strange companion.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "No one has ever stretched a tape measure to a star, yet we know distances across billions of light-years.",
+   "t": "It was born in a collision, it's slowly drifting away, and it controls the tides at your local beach.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The trick is a ladder of clever steps.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "How far is far.",
+   "t": "Born in a collision.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Light covers about 300,000 kilometres every second.",
+   "t": "The leading explanation is the giant-impact hypothesis.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Even so, sunlight takes about eight minutes to reach us, and light from Proxima Centauri, the nearest star beyond the Sun, takes over four years.",
+   "t": "About 4.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "So astronomers use the light-year: the distance light travels in a year, about 9.",
+   "t": "5 billion years ago, a Mars-sized body, sometimes called Theia, smashed into the young Earth.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5 trillion kilometres.",
+   "t": "The collision flung molten rock into orbit, which clumped together to form the Moon.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It is a distance, not a time.",
+   "t": "Evidence includes the Moon's small iron core and the remarkable similarity between Apollo Moon rocks and rocks on Earth.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That has a fascinating consequence.",
+   "t": "The dark patches you can see are called maria, Latin for 'seas', because early astronomers thought they were oceans.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Look at a star a thousand light-years away and you see light that left it a thousand years ago.",
+   "t": "They are plains of solidified lava that flooded huge impact basins roughly 3 to 3.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Looking further means looking back in time.",
+   "t": "9 billion years ago.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "No single method works for everything.",
+   "t": "With no wind, rain or moving plates, craters last billions of years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Binoculars show bright rays spreading from young craters like Tycho.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One face, many phases.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Astronomers built a chain of techniques, each checked against the last, called the cosmic distance ladder.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Echoes and parallax.",
+   "t": "The Moon spins once in exactly the time it takes to orbit Earth, about 27 days, so the same side always faces us.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The first rung is our own neighbourhood.",
+   "t": "Earth's gravity gradually slowed its spin until it locked into step, a process called tidal locking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The far side isn't permanently dark; it gets just as much sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans first saw it in 1959, in photos from a Soviet probe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Moon makes no light of its own; half of it is always lit by the Sun.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Knowing the speed of light, we can bounce signals off objects and time the echo.",
+   "t": "As it orbits, we see different amounts of that lit half, giving the phases in a cycle of about 29.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Radar off Venus, Mars and asteroids fixes the solar system's scale; the Earth to Sun distance, the astronomical unit, is about 150 million kilometres.",
+   "t": "5 days.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Lasers fired at reflectors left by Apollo astronauts give the Moon's distance to within millimetres, and show it drifting away a few centimetres a year.",
+   "t": "From Australia, the Moon appears 'upside down' compared with northern hemisphere pictures, so a waxing crescent is lit on the left.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Next comes parallax.",
+   "t": "Tides and drifting.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Hold a thumb at arm's length and look with one eye, then the other: it seems to jump against the background.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Astronomers use two positions of Earth, six months apart.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A nearby star shifts slightly against distant ones, and geometry turns that shift into a distance.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Friedrich Bessel first managed it in 1838; the Gaia spacecraft has since measured over a billion stars.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Leavitt and Hubble.",
+   "t": "The Moon's gravity pulls hardest on the ocean facing it, creating a bulge, and least on the far side, where another bulge forms.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Parallax only works nearby.",
+   "t": "As Earth rotates through the two bulges, most coasts get two high tides a day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Sun and Moon line up at full and new moon, we get extra-large spring tides.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's north-west has some of the world's largest tides, over 10 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apollo astronauts left mirrors on the Moon.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Beyond it, astronomers need standard candles: objects of known true brightness.",
+   "t": "Lasers fired at them show it is drifting away by about 3.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the early 1900s Henrietta Swan Leavitt of Harvard Observatory studied the Small Magellanic Cloud, visible from Australia.",
+   "t": "8 centimetres a year, roughly the rate your fingernails grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tidal forces are also lengthening Earth's day: hundreds of millions of years ago, a day was around 22 hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sun, Moon, shadow.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "She found that Cepheid variables, stars that brighten and dim rhythmically, follow a pattern: the slower the pulse, the brighter the star.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "So a Cepheid's rhythm reveals its distance.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1920s Edwin Hubble used this to settle whether spiral nebulae lay inside the Milky Way.",
+   "t": "By a remarkable coincidence, the Sun is about 400 times wider than the Moon and about 400 times further away, so they look almost the same size in our sky.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Cepheids in Andromeda showed it was a separate galaxy far beyond our own, now known to be about 2.",
+   "t": "When the Moon passes directly in front of the Sun, it can block it completely in a total solar eclipse.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "5 million light-years away.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The known universe grew from one galaxy to billions.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Exploding yardsticks.",
+   "t": "When Earth passes between the Sun and Moon, its shadow falls on the Moon, often turning it red, in a lunar eclipse.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Cepheids are not bright enough to see in very distant galaxies.",
+   "t": "Eclipses don't happen every month because the Moon's orbit is tilted slightly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the Moon drifts away, it will look too small to cover the Sun, and total solar eclipses will end.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who owns the Moon.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "For those, astronomers use Type Ia supernovae.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These are thought to occur when a white dwarf, the dense remnant of a star like the Sun, is pushed over a critical limit and blows apart.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Because they explode in a fairly consistent way, their peak brightness can be worked out.",
+   "t": "Officially, nobody owns the Moon.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "That makes them standard candles visible across billions of light-years.",
+   "t": "The 1967 Outer Space Treaty, joined by Australia and more than 100 other countries, says no nation can claim the Moon or any other celestial body, and that space should be used for peaceful purposes.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1998 two teams used them to discover that the universe's expansion is speeding up, not slowing down.",
+   "t": "But plans to mine lunar water ice raise a new question: can a company own what it digs up?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2020, Australia was one of eight founding signatories of the Artemis Accords, US-led principles that support using space resources and call for protecting historic sites such as the Apollo landing areas.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "One team was led by Brian Schmidt, working at the Australian National University's Mount Stromlo Observatory near Canberra.",
+   "t": "Dozens more countries have since signed, while China and Russia are planning their own lunar research station instead.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "He shared the 2011 Nobel Prize in Physics with Saul Perlmutter and Adam Riess.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Redshift and a puzzle.",
+   "t": "The key idea: The Moon most likely formed when a Mars-sized body hit the young Earth, and its dark seas are ancient lava plains.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "At the top of the ladder is redshift.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "As the universe expands, light is stretched to longer, redder wavelengths.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The further away a galaxy is, the faster it recedes and the redder its light, a relationship known as Hubble's law.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Once the ladder is calibrated, redshift tells astronomers roughly how far away a galaxy is.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But there is a puzzle.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Measuring today's expansion rate with the ladder of Cepheids and supernovae gives a noticeably higher answer than calculating it from the faint afterglow of the Big Bang, the cosmic microwave background.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This mismatch, called the Hubble tension, has persisted as measurements have improved.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It might be a subtle error somewhere, or a sign that our picture of the universe is missing something.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Astronomers measure space in light-years, the distance light travels in a year, using a chain of methods called the cosmic distance ladder.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Dark matter and dark energy.",
+   "t": "Part two. Eclipses: the cosmic coincidence.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Everything we have ever seen, every star, planet and person, makes up only about 5 per cent of the universe.",
+   "t": "For a few minutes, day turns to night, the temperature drops and stars appear at noon.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The rest is a mystery with a name but no explanation.",
+   "t": "It happens because of one of the luckiest coincidences in the solar system.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The missing mass.",
+   "t": "A perfect fit.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1933 Swiss astronomer Fritz Zwicky measured the speeds of galaxies in the Coma Cluster.",
+   "t": "Hold your thumb at arm's length and it can hide a whole building.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They moved so fast that the cluster should have flown apart, unless it held far more mass than its light suggested.",
+   "t": "The Moon does the same trick with the Sun.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "He called the hidden material 'dunkle Materie', German for dark matter.",
+   "t": "The Sun is roughly 400 times the Moon's diameter, yet it also sits roughly 400 times farther from us.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "His estimate was far too large, since distances were badly underestimated then, but the puzzle was real.",
+   "t": "Both discs therefore look almost exactly the same size in our sky, about half a degree across.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the 1970s Vera Rubin and Kent Ford measured spiral galaxies such as Andromeda.",
+   "t": "No other planet has a moon that fits its sun so neatly.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In a solar system, outer planets orbit slowly.",
+   "t": "When the Moon passes directly between Earth and the Sun, it can cover the blinding disc completely and leave the faint outer atmosphere, the corona, glowing like a silver crown.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In these galaxies the outer stars did not slow down.",
+   "t": "It is an accident of geometry, and we happen to live in the right era to enjoy it.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The simplest explanation was a vast, invisible halo of extra mass around each galaxy.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Seeing the invisible.",
+   "t": "Total, annular, partial.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Dark matter gives off no light, but it has gravity, and gravity bends light.",
+   "t": "The Moon's orbit is not a perfect circle.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Massive galaxy clusters act as giant warped lenses, stretching the images of more distant galaxies into arcs.",
+   "t": "If an eclipse happens when the Moon is near its closest point, it looks big enough to cover the Sun entirely, giving a total eclipse.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "By measuring that distortion, astronomers can map where the mass actually is.",
+   "t": "Near its farthest point, the Moon looks slightly too small and a bright ring of sunlight surrounds it.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Bullet Cluster is two galaxy clusters that collided.",
+   "t": "That is an annular eclipse, from the Latin annulus, meaning ring.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone outside the narrow central path sees only a partial eclipse, with a bite taken out of the Sun.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 2006 researchers showed that most of the ordinary matter, hot gas, had been slowed and piled up in the middle.",
+   "t": "The path of totality is usually only about 100 to 200 kilometres wide and races across Earth's surface faster than a jet airliner.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most of the mass, revealed by lensing, had passed straight through.",
+   "t": "That is why eclipse chasers travel the world to stand in exactly the right strip of land.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This was widely seen as strong evidence that dark matter is a real substance, separate from ordinary matter.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What could it be.",
+   "t": "Why not every month.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Dark matter is not simply dim stars, dust or black holes.",
+   "t": "The Moon circles Earth roughly once a month, so you might expect an eclipse at every new moon.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Observations rule out ordinary matter making up more than a small fraction of it.",
+   "t": "The catch is that its orbit is tilted about five degrees compared with Earth's path around the Sun.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most physicists think it is a particle outside the standard model of particle physics, one that interacts with almost nothing except through gravity.",
+   "t": "Most months the new moon slides just above or below the Sun in our sky and nothing happens.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Candidates include weakly interacting massive particles, nicknamed WIMPs, and extremely light particles called axions.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Experiments deep underground, shielded from cosmic rays, wait for a dark matter particle to bump into an atom.",
+   "t": "Eclipses can only occur when a new or full moon lines up with one of the two points where the orbits cross.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Australia's Stawell Underground Physics Laboratory, in a Victorian gold mine, hosts one.",
+   "t": "These alignments arrive in eclipse seasons, roughly every six months.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "So far there is no confirmed detection, and a minority of scientists suspect gravity itself needs modifying.",
+   "t": "Ancient Babylonian astronomers noticed that eclipses repeat in a cycle of about 18 years and 11 days, now called the saros.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A speeding-up universe.",
+   "t": "It let them predict eclipses long before anyone understood orbits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blood moon.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Astronomers have known since the 1920s that the universe is expanding.",
+   "t": "In a lunar eclipse, Earth passes between the Sun and the full Moon, and our planet's shadow falls across the lunar surface.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The natural assumption was that gravity would slow it.",
+   "t": "You might expect the Moon to vanish, but it usually glows deep copper or blood red.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the 1990s two rival teams set out to measure the slowdown using Type Ia supernovae, exploding white dwarfs with a predictable peak brightness that work as cosmic distance markers.",
+   "t": "The reason is our atmosphere.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Saul Perlmutter led one team in the United States.",
+   "t": "Sunlight skimming past the edge of Earth is bent inwards towards the Moon, and most of its blue light is scattered out on the way, the same process that makes sunsets red.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In effect, the Moon is lit by every sunrise and sunset on Earth at once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unlike solar eclipses, lunar eclipses can be seen by anyone on the night side of the planet, and they are completely safe to watch with the naked eye.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Brian Schmidt led the other, the High-Z Supernova Search Team, at the Australian National University's Mount Stromlo Observatory, with Adam Riess making key analyses.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1998 both found the same startling result: distant supernovae were fainter than expected, so the expansion is accelerating.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The three shared the 2011 Nobel Prize in Physics.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dark energy.",
+   "t": "Watching safely.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Something seems to be pushing space apart.",
+   "t": "Even when most of the Sun is covered, the remaining sliver is intense enough to damage the retina.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Physicists call it dark energy, a name for the effect rather than an explanation.",
+   "t": "The retina has no pain receptors, so you may not notice until afterwards.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The leading idea is that empty space carries a small, constant energy, like the cosmological constant Einstein added to his equations and later abandoned.",
+   "t": "Ordinary sunglasses are nowhere near dark enough.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Yet quantum theory predicts a value wildly larger than observed, one of science's biggest mismatches.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The universe's budget appears to be about 68 per cent dark energy, 27 per cent dark matter and only 5 per cent ordinary matter.",
+   "t": "Safe options include certified eclipse glasses or solar viewers meeting the ISO 12312-2 standard, or an indirect method such as a pinhole projector, where you look at an image of the Sun cast onto paper.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Recent results from the Dark Energy Spectroscopic Instrument in Arizona hint that dark energy may be weakening, but they are not yet conclusive.",
+   "t": "Never look through binoculars, a camera or a telescope without a proper solar filter fitted to the front.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "We can measure the universe precisely and still not say what most of it is.",
+   "t": "The one exception is the brief period of totality, when the Sun is completely hidden.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: Galaxies spin and cluster as if they hold far more mass than their visible stars and gas supply.",
+   "t": "The moment the first bead of sunlight reappears, the glasses go back on.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's turn comes on 22 July 2028, when totality crosses the country, including Sydney.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Exoplanets: worlds beyond the Sun.",
+   "t": "The key idea: The Sun is about 400 times wider than the Moon but also about 400 times farther away, so they look almost the same size.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The life and death of stars.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Thirty-odd years ago we knew of no planets around other stars like the Sun.",
+   "t": "How stars are born, why their mass decides their fate, and why many of them don't shine alone.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Now we know of more than 6,000, and some might be able to hold liquid water.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From zero to thousands.",
+   "t": "Born in clouds.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "An exoplanet is any planet orbiting a star other than the Sun.",
+   "t": "Stars form inside giant, cold clouds of gas and dust called nebulae, made mostly of hydrogen.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "For centuries people wondered whether they existed, but they were too faint and too close to their bright stars to see.",
+   "t": "Something, perhaps a nearby supernova or a collision between clouds, disturbs the gas.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1992 astronomers confirmed planets orbiting a pulsar, the dead core of an exploded star.",
+   "t": "Gravity pulls denser clumps together, and as they shrink they heat up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the core reaches about 10 million degrees, nuclear fusion ignites and a star is born.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Orion Nebula, a fuzzy patch in Orion's 'sword', the handle of the Saucepan in Australian skies, is a stellar nursery you can see with the naked eye.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1995 Swiss astronomers Michel Mayor and Didier Queloz found 51 Pegasi b around a Sun-like star, earning the 2019 Nobel Prize in Physics.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It was a surprise: a giant like Jupiter circling its star every four days.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "By 2025 the count of confirmed exoplanets passed 6,000, and it keeps climbing.",
+   "t": "The Sun and starlight.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Transit and wobble.",
+   "t": "In a star's core, hydrogen nuclei are squeezed so hard they fuse into helium, converting a little mass into a lot of energy.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Most known exoplanets were found by the transit method.",
+   "t": "The Sun converts about 4 million tonnes of matter into energy every second.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That outward push balances gravity pulling inwards, and for most of a star's life the two stay locked in balance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun is a fairly ordinary star, 4.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 billion years old and roughly halfway through its life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its surface is about 5,500 degrees, its core about 15 million °C. Energy can take tens of thousands of years to leave the core, then about eight minutes to reach Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colour shows temperature: reddish Antares is cooler, blue-white Rigel hotter.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When a planet crosses its star, it blocks a tiny fraction of the light: about 1 per cent for a Jupiter-sized planet, and one part in 10,000 for an Earth-sized one.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The dip reveals the planet's size, and the time between dips gives its orbit.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Only planets aligned edge-on to us transit, so many more go unseen.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Astronomers use statistics to account for them.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The wobble method works because a planet and its star circle a shared centre of mass.",
+   "t": "Mass decides fate.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The star moves slightly towards us, then away, stretching and squeezing its light by the Doppler effect.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This found 51 Pegasi b and hundreds more, and it gives the planet's mass.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Combined with a transit, mass reveals density: rocky, watery or gassy.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Kepler, TESS and Webb.",
+   "t": "A star's mass decides its colour, brightness and lifespan.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "NASA's Kepler space telescope, launched in 2009, stared at one patch of sky containing about 150,000 stars.",
+   "t": "Small, cool red dwarfs use fuel so slowly they can shine for trillions of years, far longer than the universe has existed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most stars in the galaxy are red dwarfs, too faint to see by eye.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Massive blue stars burn hot and fast and last only a few million years: more fuel means a shorter life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In about 5 billion years, the Sun will swell into a red giant, perhaps engulfing Mercury, Venus and possibly Earth.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "By 2018 it had found more than 2,600 confirmed planets, and showed that planets are common, likely outnumbering stars in our galaxy.",
+   "t": "Long before then, in about a billion years, its growing brightness will have boiled away Earth's oceans.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Its successor, TESS, launched in 2018, scans most of the sky for planets around bright, nearby stars that are easier to study.",
+   "t": "It will puff off its outer layers as a planetary nebula, leaving a white dwarf: a dense, Earth-sized ember that cools over trillions of years.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The James Webb Space Telescope, launched in 2021, can analyse starlight filtering through a planet's atmosphere.",
+   "t": "The death of a giant.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 2022 it clearly detected carbon dioxide on a hot giant called WASP-39b.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bigger telescopes are coming, including the Giant Magellan Telescope, with Australian partners.",
+   "t": "Massive stars end far more violently.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Citizen science projects such as Planet Hunters also let volunteers spot transits in real data.",
+   "t": "They fuse heavier and heavier elements in their cores, up to iron.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Strange new worlds.",
+   "t": "Fusing iron doesn't release energy, so the core collapses in less than a second and rebounds in a supernova, an explosion that can briefly outshine a galaxy of billions of stars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The collapsed core becomes a neutron star, so dense that a teaspoon would weigh billions of tonnes, or, if massive enough, a black hole.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stars in pairs.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Exoplanets have overturned expectations.",
+   "t": "Our solitary Sun is a little unusual: close to half of Sun-like stars have at least one companion.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Hot Jupiters are gas giants orbiting so close to their stars that their years last only days.",
+   "t": "Algol, in Perseus, dims noticeably every 2.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Kepler-16b orbits two stars, so it would have two suns in its sky, like Tatooine in Star Wars.",
+   "t": "9 days as a fainter partner crosses in front of it.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The most common planets found so far are super-Earths and sub-Neptunes, sizes between Earth and Neptune that our solar system lacks entirely.",
+   "t": "Sirius is circled by a small, faint white dwarf, Sirius B.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a white dwarf pulls enough gas from a close partner, or merges with another white dwarf, it can blow apart in a type Ia supernova.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The TRAPPIST-1 system, about 40 light-years away, has seven roughly Earth-sized planets, some in the habitable zone.",
+   "t": "These reach a predictable peak brightness, so astronomers use them to measure distances across the universe, work that earned ANU's Brian Schmidt a share of the 2011 Nobel Prize in Physics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Stars form in nebulae when gravity pulls gas together until the core ignites nuclear fusion.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The nearest known exoplanet, Proxima Centauri b, circles the closest star to the Sun, 4.",
-   "c": 2,
-   "k": "s",
+   "t": "Part four. Reading starlight: what stars are made of.",
+   "c": 3,
+   "k": "head",
    "ps": false
   },
   {
-   "t": "2 light-years away.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Even so, at the speed of the Voyager probes it would take over 70,000 years to reach.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Habitable zone, and life.",
-   "c": 2,
+   "t": "In 1835 a famous philosopher declared that we could never know what the stars are made of.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Life as we know it needs liquid water, so astronomers look in a star's habitable zone: not too hot, not too cold for surface water.",
-   "c": 2,
+   "t": "Within a few decades, scientists were doing exactly that, using rainbows.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An impossible question.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Around a dim red dwarf the zone sits very close in; around a bright star, far out.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is a starting point, not a verdict.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Venus lies near the Sun's inner edge but is scorching, and Mars near the outer edge is frozen and dry.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "To search for life, astronomers study atmospheres for biosignatures, such as oxygen alongside methane, which shouldn't linger together unless replenished.",
-   "c": 2,
+   "t": "The French philosopher Auguste Comte, founder of positivism, wanted science to stick to what could be observed.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Claims need extreme care.",
-   "c": 2,
+   "t": "In 1835 he gave an example of knowledge forever beyond reach: we could study the stars' shapes, distances and motions, but never their chemical composition, since no one could visit them or take a sample.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 2025 a team reported a possible hint of a life-linked sulphur compound on K2-18b, but other scientists found the evidence weak.",
-   "c": 2,
+   "t": "It seemed reasonable.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chemistry meant handling substances in a laboratory, and the stars were unreachably far away.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "So far, there is no confirmed evidence of life beyond Earth.",
-   "c": 2,
+   "t": "Yet within about 25 years, scientists found a way to identify elements in the Sun from Earth.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: The first exoplanets were confirmed in the 1990s, and more than 6,000 are known today.",
-   "c": 2,
+   "t": "Comte's claim is now often quoted as a warning that 'impossible' can be a dangerous word.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key had already been found, in a ray of sunlight split by glass.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dark lines in the rainbow.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Isaac Newton showed in the 1660s that a prism splits sunlight into a rainbow, a spectrum.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1814, German optician Joseph von Fraunhofer built instruments precise enough to magnify it and found hundreds of thin dark lines, as if exact colours were missing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He mapped about 570 and labelled the strongest with letters, a system still used.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He could not explain them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1859 in Heidelberg, physicist Gustav Kirchhoff and chemist Robert Bunsen heated substances in a flame and studied the light through a prism.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each element gave its own set of bright lines, like a barcode.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sodium's two yellow lines matched two of Fraunhofer's dark lines.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooler gas in the Sun's outer layers absorbs those same colours, so dark lines reveal which elements are present.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helium, found in sunlight.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During a total solar eclipse in 1868, astronomers studying the Sun's glowing outer layers saw a bright yellow line that matched no known element.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jules Janssen observed it from India, and Norman Lockyer studied it soon afterwards.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lockyer, working with chemist Edward Frankland, concluded it belonged to a new element and named it helium, after Helios, the Greek god of the Sun.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many chemists were sceptical of an element known only from a distant star.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then in 1895 Scottish chemist William Ramsay detected the same spectral line from gas released by a uranium mineral.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helium, the second most common element in the universe, had first been discovered 150 million kilometres away.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The method also found two new elements on Earth, caesium and rubidium.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cecilia Payne's discovery.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1900s astronomers assumed stars had about the same make-up as Earth's crust, rich in heavier elements like iron.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cecilia Payne, a young British astronomer who moved to Harvard because women had few prospects in astronomy in England, applied new atomic physics to stellar spectra.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her 1925 doctoral thesis concluded that stars are overwhelmingly hydrogen and helium, in vastly greater amounts than anyone expected.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The senior astronomer Henry Norris Russell persuaded her to describe the result as almost certainly not real.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A few years later Russell reached the same conclusion himself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Payne was right: hydrogen and helium make up about 98 per cent of the ordinary matter in stars.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Her thesis is now considered among the most important in astronomy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colour, temperature, motion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spectra hold far more than a list of ingredients.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A star's colour reveals its surface temperature: red stars are relatively cool, around 3,000 degrees, while blue-white stars can exceed 20,000 degrees.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1900s, Annie Jump Cannon at Harvard classified hundreds of thousands of stars by spectrum into the sequence O, B, A, F, G, K and M, from hottest to coolest, which astronomers still use.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spectra also reveal motion through the Doppler effect.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Light from an object moving away is stretched towards the red end, while light from one approaching is squeezed towards blue.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measuring these tiny shifts showed that distant galaxies are rushing away from us, the evidence for an expanding universe, and it still helps detect planets around other stars.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In 1835 Auguste Comte called the chemistry of the stars forever unknowable, a reminder that 'impossible' is a dangerous word.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. What does it mean to see a star that is a thousand light-years away?",
-   "c": 3,
+   "t": "Question one. What evidence supports the idea that a Mars-sized body hit the young Earth?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. You see light that left it a thousand years ago.",
-   "c": 3,
+   "t": "Answer. Moon rocks closely resemble rocks on Earth.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. What did Vera Rubin find in spiral galaxies?",
-   "c": 3,
+   "t": "Question two. Why do the Sun and Moon look almost the same size from Earth?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Outer stars orbit about as fast as inner ones.",
-   "c": 3,
+   "t": "Answer. The Sun is 400 times larger but 400 times farther away.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What did 51 Pegasi b, the first planet found around a Sun-like star, show?",
-   "c": 3,
+   "t": "Question three. What balances the pull of gravity inside a star like the Sun?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Giant planets can orbit very close to their stars.",
-   "c": 3,
+   "t": "Answer. The push of energy released by hydrogen fusion.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What lesson is Auguste Comte's 1835 claim often used to illustrate?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Calling something unknowable can be wrong.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

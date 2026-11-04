@@ -1,0 +1,870 @@
+{
+ "id": "s-books-4",
+ "h": "dystopias,pen-names,banned-books",
+ "title": "Great Books · Episode 4",
+ "chapters": [
+  "Dystopian classics",
+  "Pen names: why writers hide",
+  "Banned books: the trials that changed what we can read"
+ ],
+ "units": [
+  {
+   "t": "Great Books. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Dystopian classics, Pen names: why writers hide and Banned books: the trials that changed what we can read.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Dystopian classics.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Surveillance, censorship, engineered happiness, stripped rights: the great dystopian novels imagined them decades ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's why these warnings still feel so current.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Utopia's dark mirror.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1516 the English statesman Thomas More published Utopia, describing an ideal island society.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He built a pun into the name: in Greek it can mean both 'no place' and 'good place'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A dystopia is the opposite, an imagined society where things have gone terribly wrong, often in the name of making them better.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "John Stuart Mill is credited with one of the earliest recorded uses of 'dystopian', in an 1868 speech.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dystopian fiction takes a trend in the present, such as surveillance, propaganda or technology, and pushes it to an extreme.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "H.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "G. Wells' The Time Machine, 1895, imagined humanity split into two degraded species, a dark joke about class division.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pleasure or fear.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yevgeny Zamyatin's We, written around 1920–21, depicts a society where people have numbers instead of names.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Banned in the Soviet Union, it was first published in English in 1924.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Orwell reviewed it in 1946.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aldous Huxley's Brave New World, 1932, imagines a World State where babies are conditioned into fixed castes and kept content with easy pleasures, constant entertainment and a mood-lifting drug called soma.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its disturbing twist is that most citizens are happy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "George Orwell's Nineteen Eighty-Four, 1949, is set in Oceania, where Winston Smith rewrites old newspaper records so the past matches the Party's claims.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two-way screens watch citizens, the Thought Police punish forbidden ideas, and Newspeak aims to make rebellion unthinkable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Huxley versus Orwell.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Readers have long compared the two books.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Orwell imagined people controlled by fear, surveillance and censorship.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Huxley imagined people who didn't need controlling, because they had been conditioned to love their servitude and were too distracted to care.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 1949 letter to Orwell, his former pupil at Eton, Huxley praised Nineteen Eighty-Four but predicted that rulers would find gentler methods more efficient.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1985 the American critic Neil Postman argued in Amusing Ourselves to Death that television culture made Huxley the better prophet.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people now see elements of both in the modern world, which is part of their lasting power.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Burning books, silencing women.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Ray Bradbury's Fahrenheit 451, 1953, firemen start fires, burning any books they find.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The title is the temperature at which Bradbury believed paper catches fire, about 233 degrees Celsius.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fireman Guy Montag begins secretly reading the books he should destroy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bradbury later said it was as much about people choosing wall-sized screens and shallow entertainment over thinking as about censorship.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Margaret Atwood's The Handmaid's Tale, 1985, a theocratic regime called Gilead forces fertile women to bear children for powerful families, and forbids women to read, work or own property.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Atwood has said she included nothing that had not already happened somewhere in history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its red-cloaked costume has been worn at protests in many countries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warnings, not predictions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dystopias are best read as warnings rather than forecasts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By exaggerating something already present, they help readers notice it: how much we share with tech companies, how language can be bent, how rights can quietly erode.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also ask what makes us human when systems try to flatten individuality.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The genre remains hugely popular, from Suzanne Collins' The Hunger Games, 2008, to Nevil Shute's On the Beach, 1957, a post-apocalyptic novel set in Melbourne.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you read one, ask two questions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What present-day fear is this story built on?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And which warning signs, if any, can you see around you?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A dystopia is an imagined society gone badly wrong, which takes a present trend and pushes it to a frightening extreme.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Pen names: why writers hide.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "George Orwell, Mark Twain and George Eliot were not real names.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Behind every pen name is a reason, from prejudice to privacy to a bit of mischief.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not who they seemed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A pen name, also called a pseudonym or nom de plume, is a name an author publishes under instead of their own.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The practice is ancient and widespread.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Voltaire was born François-Marie Arouet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lewis Carroll was Charles Dodgson.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "George Orwell was Eric Arthur Blair.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian readers know Henry Handel Richardson, author of The Fortunes of Richard Mahony, but the writer was in fact Ethel Florence Lindesay Richardson.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Writers have adopted pen names to escape prejudice, to protect their families, to keep a day job, to separate different kinds of writing, or simply because they liked the sound of something better.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each disguise tells a small story about the pressures writers faced in their time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bells and Eliot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1846 three sisters in a Yorkshire parsonage published poems as Currer, Ellis and Acton Bell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1847 Jane Eyre by Currer Bell became a sensation, and Wuthering Heights and Agnes Grey followed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The authors were Charlotte, Emily and Anne Brontë.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They chose names that were not obviously female because, Charlotte later explained, critics treated women writers with prejudice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charlotte and Anne revealed themselves to their publisher in 1848.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary Ann Evans, a respected editor and translator, turned to fiction in the 1850s as George Eliot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She wanted her work judged as serious literature, not light romance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She also lived openly with the married writer George Henry Lewes, a scandal in Victorian England.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A male name kept attention on the books.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her identity soon leaked, but she kept the name.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twain and Orwell.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Samuel Clemens worked as a Mississippi riverboat pilot before he became a writer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On the river, crew called out depth readings, and mark twain meant the second mark on the line: two fathoms, about 3.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 metres, deep enough for a steamboat to pass safely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clemens began signing his newspaper writing Mark Twain in 1863.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eric Blair adopted the name George Orwell in 1933 for his first book, Down and Out in Paris and London, partly to spare his family embarrassment about his time living in poverty.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "George was a solidly English name, and the River Orwell in Suffolk was one he knew.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both disguises became so famous that the real names now sound like the pseudonyms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Starting over in secret.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pen names are not only for beginners.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stephen King published several novels as Richard Bachman, partly because publishers then believed more than about one book a year by the same author would saturate the market.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bookshop worker noticed similarities and researched copyright records, and King was exposed in 1985.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "J. K. Rowling's initials were themselves a kind of disguise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Her publisher suggested boys might be reluctant to read a book by a woman, and she borrowed the K from her grandmother Kathleen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2013 she published a crime novel, The Cuckoo's Calling, as Robert Galbraith.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It had modest sales until her authorship leaked, after which it shot up the bestseller lists overnight.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Galbraith episode suggests that names strongly influence sales, if not quality.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The writer behind the curtain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Italian novelist who writes as Elena Ferrante has kept her real identity officially private since her first novel in 1992, even as her Neapolitan novels became international bestsellers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She has said that books, once written, do not need their authors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Journalists have tried to unmask her, prompting fierce debate about whether readers have any right to know.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pen names raise interesting questions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Does knowing an author's gender, background or reputation change how we read?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, pen names are also common in genre fiction, where authors may write romance under one name and thrillers under another so that loyal readers know what to expect.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: A pen name is an invented name an author publishes under, and writers have long used them for reasons from prejudice to privacy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Banned books: the trials that changed what we can read.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Popes, customs officers and courts have all tried to stop people reading certain books.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Again and again, the ban made the book more famous.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Church's list.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1559, under Pope Paul IV, the Catholic Church published the Index Librorum Prohibitorum, the Index of Prohibited Books.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Catholics were forbidden to read or own listed works without permission.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Index grew out of anxiety about the printing press and the Protestant Reformation, which spread new ideas faster than authorities could control them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over time it included works by figures such as the astronomer Galileo and the philosopher René Descartes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galileo's Dialogue, which defended the idea that the Earth moves around the Sun, stayed on the list for around two centuries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The final edition appeared in 1948, and the Index was formally abolished in 1966, ending its legal force.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ulysses and Lady Chatterley.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "James Joyce's Ulysses broke many rules, including frank descriptions of sex and the body.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The full book appeared in Paris in 1922, then was smuggled and seized by customs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1933 Random House arranged a seizure to provoke a test case.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judge John M. Woolsey ruled the book, read as a whole, was not obscene, and it was published legally in the United States in 1934.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "D. H. Lawrence's Lady Chatterley's Lover stayed banned in Britain in full for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 1959 law allowed literary merit as a defence, and Penguin tested it in 1960 with a cheap, unabridged paperback.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prosecutor asked jurors if it was a book they would want their wives or servants to read, which sounded hopelessly out of touch.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The jury acquitted Penguin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's long list.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian censorship ran largely through customs, which seized imported books at the border, alongside state obscenity laws.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For long periods the list of banned titles was itself kept confidential, so readers often did not know what they were missing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Works by Joyce, Lawrence and many others were banned at various times, as were political works judged subversive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lady Chatterley's Lover stayed banned in Australia for several years after the British trial.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pressure for change grew through the 1960s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1970, Penguin Australia secretly printed Philip Roth's banned novel Portnoy's Complaint locally and distributed it, provoking prosecutions in several states.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around the same time, the federal customs minister Don Chipp began dramatically loosening the system, moving toward a classification approach.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fire and fatwa.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 10 May 1933, Nazi-organised students in Berlin and other German cities burnt tens of thousands of books by Jewish, left-wing and other authors deemed un-German.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than a century earlier the poet Heinrich Heine, whose own works were burnt, had written in a play that where books are burnt, people will eventually be burnt too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1989 Iran's supreme leader, Ayatollah Khomeini, issued a fatwa calling for the death of Salman Rushdie over his novel The Satanic Verses, which many Muslims considered blasphemous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rushdie spent years in hiding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His Japanese translator, Hitoshi Igarashi, was murdered in 1991.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022, Rushdie himself was stabbed at a public lecture in New York state and lost the sight of one eye.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why bans backfire.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Censors face a stubborn problem: forbidding a book advertises it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Lady Chatterley trial turned a little-read novel into a bestseller, and Ulysses gained a glamorous reputation partly because readers had to smuggle it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, book bans more often take the form of challenges to books in school and public libraries, where parents or groups ask for titles to be removed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Organisations such as the American Library Association track these challenges, which in recent years have frequently targeted books about race, gender and sexuality.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People still argue about where the line falls between protecting children and restricting ideas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many libraries celebrate an annual Banned Books Week, inviting readers to discover the books others tried to keep from them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: For four centuries the Catholic Church kept an official list of forbidden books, which grew from fear of the printing press.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What does a dystopian novel typically do?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Pushes a present-day trend to an extreme.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why have writers adopted pen names?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To avoid prejudice or protect privacy.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What prompted the Church to create the Index of Prohibited Books?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Fear of new ideas spreading in print.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

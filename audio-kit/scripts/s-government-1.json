@@ -1,11 +1,12 @@
 {
  "id": "s-government-1",
- "h": "how-democracy,social-contract,political-ideas",
+ "h": "how-democracy,social-contract,political-ideas,australian-parliament",
  "title": "Government & Democracy · Episode 1",
  "chapters": [
   "How democracy works",
   "The social contract: why we agree to be governed",
-  "Left, right and the big political ideas"
+  "Left, right and the big political ideas",
+  "How Australia's Parliament works"
  ],
  "units": [
   {
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: How democracy works, The social contract: why we agree to be governed and Left, right and the big political ideas.",
+   "t": "In this episode: How democracy works, The social contract: why we agree to be governed, Left, right and the big political ideas and How Australia's Parliament works.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -843,50 +844,362 @@
    "ps": true
   },
   {
-   "t": "Quick recall. Answer out loud, or just in your head.",
+   "t": "Part four. How Australia's Parliament works.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. What is the main difference between direct and representative democracy?",
+   "t": "Two chambers, a Prime Minister who isn't mentioned in the Constitution, and a Governor-General with rarely used powers.",
    "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how laws really get made in Canberra.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Responsible government.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's system is based on the British Westminster model, with a federal twist borrowed from the United States, which is why it is nicknamed 'Washminster'.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its defining feature is responsible government: ministers sit in Parliament, answer questions in daily Question Time, and stay in office only while they keep the confidence of the lower house.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surprisingly, the Constitution doesn't mention the Prime Minister or the cabinet.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Both rest on conventions inherited from Britain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The PM leads the party or coalition with majority support in the House, is chosen by that party rather than by voters, and can be replaced mid-term if the party changes leader.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Senior ministers form the cabinet, which decides in confidence.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under cabinet solidarity, ministers must publicly back its decisions or resign.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The House and the Senate.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The House of Representatives has about 150 members, each representing one electorate of, on average, more than 100,000 voters.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Terms last up to three years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The party or coalition with a majority forms government, and the largest group outside it is the Opposition, which scrutinises the government.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate has 76 senators: 12 from each state regardless of population, and two each from the ACT and Northern Territory.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Equal state representation was a condition of the smaller colonies joining federation.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "State senators serve six-year terms, with half elected every three years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proportional representation means minor parties often hold the balance of power.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Senate reviews and amends bills and investigates government through committees.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It cannot introduce tax bills or amend certain money bills, but it can reject them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From bill to Act.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A proposed law is called a bill.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most come from ministers, though any member can introduce one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In each house it is introduced at first reading, debated at second reading, examined clause by clause and voted on at third reading.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both houses must pass it in identical form.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Governor-General then gives Royal Assent, and it becomes an Act.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Governments often lack a Senate majority, so they negotiate with crossbenchers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the Senate twice rejects a bill, at least three months apart, section 57 of the Constitution allows a double dissolution: both houses are dissolved and every seat is contested.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the new Parliament still disagrees, a joint sitting can decide.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are rare.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The latest double dissolution was in 2016, and 1974 produced the only joint sitting.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Governor-General.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is a constitutional monarchy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The King of Australia is represented by the Governor-General, who is appointed by the monarch on the Prime Minister's advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On paper the powers look huge: summoning and dissolving Parliament, assenting to laws and commanding the defence force.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By convention, though, the Governor-General almost always acts on ministers' advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small set of reserve powers can be used independently in a crisis.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous use came in 1975, when Governor-General Sir John Kerr dismissed Prime Minister Gough Whitlam during a budget deadlock, a decision still debated today.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each state also has its own governor.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three tiers of government.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has three tiers of government.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each state has its own parliament, led by a Premier, and handles areas like schools, hospitals, police and roads.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All state parliaments have two houses except Queensland's, which abolished its upper house in 1922.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ACT and Northern Territory have single-house assemblies led by Chief Ministers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The third tier is local government.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than 500 councils run services such as rubbish collection, local roads, libraries and planning approvals.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Councils aren't recognised in the federal Constitution; state laws create them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knowing which level handles what tells you whether to contact your councillor, your state MP or your federal member.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Australia's government must keep the confidence of the House, and the Prime Minister and cabinet rest on convention, not the Constitution.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What is the main difference between direct and representative democracy?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Citizens decide directly, or elect others to decide.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. Why did Hobbes think people should accept a powerful ruler?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It prevents constant fear and conflict.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. On economic questions, what does the left generally favour?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. More government action to reduce inequality.",
-   "c": 3,
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Where does the role of Prime Minister come from?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Convention, not the Constitution's text.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

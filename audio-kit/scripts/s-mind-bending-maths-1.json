@@ -178,7 +178,7 @@
    "ps": false
   },
   {
-   "t": "Late warnings, quick sums.",
+   "t": "Late warnings.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -208,6 +208,24 @@
    "ps": false
   },
   {
+   "t": "The reason is a neat property of doubling: each new step is bigger than all the earlier steps added together.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One plus two plus four makes seven, just short of the next step, eight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the final doubling alone produces half of all the growth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
    "t": "Early on the numbers look tiny, and by the time the problem is obvious, few doublings remain.",
    "c": 0,
    "k": "s",
@@ -215,42 +233,6 @@
   },
   {
    "t": "That is why acting a few days sooner matters so much early in an outbreak.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "To estimate doubling time, divide 72 by the yearly percentage growth.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "At 6 per cent, it takes about 12 years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Credit card debt charging 20 per cent would double in under four years if unpaid.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is general information, not financial advice; moneysmart.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "gov.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "au has free calculators.",
    "c": 0,
    "k": "s",
    "ps": false

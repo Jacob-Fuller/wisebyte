@@ -1,12 +1,11 @@
 {
  "id": "s-first-civs-1",
- "h": "mesopotamia,code-of-hammurabi,writing-origins,rosetta-stone",
+ "h": "mesopotamia,code-of-hammurabi,writing-origins",
  "title": "The First Civilisations · Episode 1",
  "chapters": [
   "Mesopotamia: where civilisation began",
   "Hammurabi's Code: law carved in stone",
-  "The invention of writing",
-  "The Rosetta Stone: cracking the code of the pharaohs"
+  "The invention of writing"
  ],
  "units": [
   {
@@ -16,7 +15,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Mesopotamia: where civilisation began, Hammurabi's Code: law carved in stone, The invention of writing and The Rosetta Stone: cracking the code of the pharaohs.",
+   "t": "In this episode: Mesopotamia: where civilisation began, Hammurabi's Code: law carved in stone and The invention of writing.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -874,320 +873,50 @@
    "ps": true
   },
   {
-   "t": "Part four. The Rosetta Stone: cracking the code of the pharaohs.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "For fourteen centuries nobody on Earth could read an Egyptian hieroglyph.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Then a broken slab of stone and a stubborn young Frenchman changed everything.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A slab in a wall.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In July 1799, during Napoleon’s invasion of Egypt, French soldiers rebuilding a fort near Rashid, Rosetta, in the Nile Delta noticed a dark block covered in writing.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It was a broken slab of granodiorite, a little over a metre tall, with three bands of text.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The text was an ordinary decree from priests at Memphis in 196 BC, praising the young king Ptolemy V. What mattered was the format: hieroglyphs, Demotic, the everyday cursive script, and ancient Greek.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Scholars could read Greek, so it could act as a crib for the other two.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The British took the stone in 1801 under the terms of surrender, and it has been in the British Museum since 1802.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why nobody could read it.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hieroglyphs were used for over three thousand years, but as Egypt became part of the Greek, Roman and Christian world, fewer people learnt them.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The last known inscription was carved at the temple of Philae in AD 394, and the knowledge vanished.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For centuries, European scholars believed each picture stood for a deep idea.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the seventeenth century, Athanasius Kircher published elaborate translations that were pure invention.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That assumption was the real barrier.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "While people looked for hidden philosophy in every owl and reed, they could not see that many signs simply spelt out sounds, like letters.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Even with the Greek crib, cracking the code took more than twenty years.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Names in ovals.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Some hieroglyphs were enclosed in an oval ring, now called a cartouche.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Scholars suspected these held royal names.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1810s, the English polymath Thomas Young, a physicist and doctor, showed that one cartouche matched the name Ptolemy in the Greek text, and he identified several sounds correctly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But he believed sound signs were used mainly for foreign names.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Then a second inscription helped.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "An obelisk from Philae carried the names Ptolemy and Cleopatra, which share the letters p, t, o and l.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Where the same signs spelt the shared sounds in both cartouches, even in different positions, that was strong evidence of an alphabet-like system.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Champollion’s leap.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Jean-François Champollion, a French linguist, had studied languages obsessively since boyhood, including Coptic, the late form of Egyptian still used in Christian church services.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1822, he studied cartouches copied from temples such as Abu Simbel.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "One began with a sun disc.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In Coptic, the word for sun was ‘re’.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It ended with signs he already read as ‘s’, and between them was a sign he linked to the Coptic word for birth, ‘mise’.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Together they spelt Ramesses, a truly Egyptian pharaoh, not a Greek one.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Sound signs were used throughout the script.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A family story says he rushed to his brother’s office, cried that he had done it, and collapsed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "How the script works.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Champollion announced his results in a famous letter in September 1822, and the decades that followed confirmed and refined them.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hieroglyphic writing proved to be a clever mixture.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some signs stand for a single consonant, some for two or three consonants together, and some for a whole word.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many words end with a silent sign called a determinative, which tells the reader what kind of thing is meant.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A pair of walking legs might mark a verb of movement, while a seated man marks a person.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Vowels were usually not written, which is why scholars still argue over how names were pronounced.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Once the system was understood, temple walls, tomb paintings and papyri could finally speak again.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The Rosetta Stone carried one decree in three scripts, so readable Greek could unlock the unreadable Egyptian.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. Why did irrigation help start civilisation in Mesopotamia?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It created a food surplus, so some people could do other jobs.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. Why was the best-known copy of the code found in Iran rather than Babylon?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Scholars think an Elamite king took it as war plunder.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. Why did writing develop as cities grew?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Administrators needed records beyond memory.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Why was the Rosetta Stone so valuable to scholars?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. One decree appeared in Greek, which they could read.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

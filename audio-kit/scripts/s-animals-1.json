@@ -64,19 +64,25 @@
    "ps": false
   },
   {
-   "t": "Scientists also learned caution from Clever Hans, a German horse in the early 1900s that seemed to do arithmetic.",
+   "t": "Gibbons were once thought slow because they failed a classic test: using a stick to rake in a banana.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1907, psychologist Oskar Pfungst showed Hans was reading tiny, unconscious cues from his questioner.",
+   "t": "The researcher Benjamin Beck realised their hook-like hands, built for swinging through trees, were poor at that kind of handling.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Today researchers use careful controls and look at abilities like problem-solving, memory, learning from others and understanding what other individuals know.",
+   "t": "When he redesigned the test to suit their bodies, the gibbons did well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers also follow Morgan's Canon, set out by the British psychologist C. Lloyd Morgan in 1894: don't credit an animal with a higher mental ability if a simpler one explains the behaviour.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -1090,13 +1096,13 @@
    "ps": false
   },
   {
-   "t": "Question one. What did the Clever Hans case teach scientists?",
+   "t": "Question one. Why did gibbons once seem worse than chimpanzees at using tools?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Tests need controls for unconscious cues.",
+   "t": "Answer. The test didn't suit their hook-like hands.",
    "c": 4,
    "k": "a",
    "ps": false

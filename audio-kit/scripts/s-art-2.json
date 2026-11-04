@@ -1,12 +1,12 @@
 {
  "id": "s-art-2",
- "h": "vermeer-light,ukiyo-e-great-wave,impressionism,modern-art",
+ "h": "mona-lisa-theft,sistine-chapel-ceiling,vermeer-light,ukiyo-e-great-wave",
  "title": "Art History · Episode 2",
  "chapters": [
+  "The day the Mona Lisa vanished",
+  "Michelangelo and the Sistine Chapel ceiling",
   "Vermeer: the mystery of light",
-  "The Great Wave and the floating world",
-  "Impressionism",
-  "Modern art, explained"
+  "The Great Wave and the floating world"
  ],
  "units": [
   {
@@ -16,1093 +16,1111 @@
    "ps": false
   },
   {
-   "t": "In this episode: Vermeer: the mystery of light, The Great Wave and the floating world, Impressionism and Modern art, explained.",
+   "t": "In this episode: The day the Mona Lisa vanished, Michelangelo and the Sistine Chapel ceiling, Vermeer: the mystery of light and The Great Wave and the floating world.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Vermeer: the mystery of light.",
+   "t": "Part one. The day the Mona Lisa vanished.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1911 a handyman walked out of the Louvre with the world's most famous painting under his smock.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strangely, the theft is a big part of why it became so famous.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A quiet Monday.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mondays were cleaning days at the Louvre.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The galleries were shut and workmen wandered the halls.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the morning of 21 August 1911, a man in a white workman's smock lifted Leonardo da Vinci's portrait off its hooks in the Salon Carré.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The painting is small, about 77 by 53 centimetres, and painted on a thin poplar panel rather than canvas.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thief carried it to a service stairwell, removed the heavy frame and protective glass box, and slipped the panel under his clothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accounts differ on whether he hid in a storeroom overnight or arrived that morning among the staff.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, he walked out into the Paris streets and nobody stopped him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nobody noticed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The next morning, the painter Louis Béroud arrived to sketch and found four iron pegs where the Mona Lisa should have been.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guards assumed the museum's photographers had taken it, which happened regularly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only when Béroud pressed them did the truth sink in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Louvre closed for a week and the director lost his job.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Police followed strange trails.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The poet Guillaume Apollinaire was jailed for several days because an acquaintance had earlier stolen ancient statuettes from the Louvre that Picasso had ended up with.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Picasso was questioned too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both were cleared.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real thief had been interviewed early, at his lodgings, and aroused no suspicion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The inside man.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vincenzo Peruggia was an Italian craftsman who had worked at the Louvre and helped install the very glass cases meant to protect its paintings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He knew the building, and the staff knew him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For more than two years he kept the Mona Lisa in a trunk with a false bottom in his Paris room.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In late 1913 he wrote to Alfredo Geri, an art dealer in Florence, offering to return the painting to Italy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Geri arranged a hotel meeting with Giovanni Poggi, director of the Uffizi Gallery.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After examining the panel and checking the Louvre's markings on its back, they alerted police, and Peruggia was arrested.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patriot or opportunist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At his trial in Florence, Peruggia argued that he had acted out of patriotism.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He believed, wrongly, that Napoleon had looted the painting from Italy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In fact Leonardo took it to France himself, and it entered the French royal collection long before Napoleon was born.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peruggia's story struck a chord with many Italians, and he received a fairly light sentence of a little over a year, of which he served only about seven months.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians note that he had also asked for money, so his motives were probably mixed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before going home, the painting was displayed in Florence, Rome and Milan to enormous crowds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It returned to the Louvre in early 1914.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How theft made a star.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before 1911, the Mona Lisa was admired by art lovers, but it was not obviously the most famous painting on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The theft changed that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For two years the story ran in newspapers worldwide, and photographs of the portrait were printed again and again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Visitors even queued at the Louvre to stare at the empty space on the wall.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the painting came back, it returned as a celebrity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Art historians often call the theft a turning point, alongside Leonardo's reputation and the picture's remarkable technique, such as the soft, smoky blending called sfumato.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today it sits behind protective glass and is seen by millions of visitors every year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Mona Lisa was stolen on Monday 21 August 1911, when the Louvre was closed for cleaning and workmen moved freely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Michelangelo and the Sistine Chapel ceiling.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A sculptor who didn't want the job spent four years painting a chapel ceiling twenty metres above the floor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He didn't do it lying on his back, either.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A reluctant painter.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1508, Michelangelo Buonarroti was in his early thirties and already famous for his marble David in Florence and his Pietà in Rome.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He thought of himself first as a sculptor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pope Julius II, a forceful and warlike pope, had hired him to carve a grand tomb, but then turned to decorating the ceiling of the Sistine Chapel, built by his uncle, Pope Sixtus IV.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo had little experience of fresco and accepted reluctantly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The walls already held frescoes by leading painters such as Botticelli and Perugino.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ceiling, painted as a starry sky, was about to be transformed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Painting on wet plaster.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fresco means fresh in Italian.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The painter applies pigments mixed with water onto wet lime plaster.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As the plaster dries, a chemical reaction locks the colour into the wall, making it extremely durable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The catch is speed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each day only as much plaster as could be painted before it set was laid.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These daily patches are called giornate, from the Italian for a day's work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mistakes could not be painted over; the plaster had to be chipped away and redone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo's team transferred his designs to the plaster using full-size drawings called cartoons, either by pricking holes along the lines or by pressing them into the soft surface.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Standing, not lying down.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A popular image shows Michelangelo lying on his back for years, paint dripping onto his face.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In reality, he designed a wooden scaffold that bridged the chapel just below the ceiling, leaving the floor free for services.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He and his assistants worked standing, heads tilted back and arms raised.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was still punishing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Michelangelo wrote a comic poem, with a little sketch in the margin, complaining about his aching neck, bent back and the paint dripping onto his face.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nor did he work entirely alone, as another myth claims.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Assistants ground pigments, prepared plaster and helped with some painting, although he painted the great majority of the figures himself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The story overhead.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ceiling is about 40 metres long and 13 metres wide, with more than 300 figures.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Down the centre run nine scenes from Genesis, from God separating light from darkness to the story of Noah.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around them sit huge prophets and sibyls, prophetesses from the classical world, and muscular nude youths called ignudi on painted architecture that only looks three-dimensional.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Michelangelo painted the scenes in reverse story order, starting near the entrance with Noah, and his figures grew larger as he went.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In The Creation of Adam, fingertips almost meet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some writers say the shape around God resembles a brain, hidden by Michelangelo the anatomist, but there is no evidence he intended it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Judgment and restoration.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ceiling was unveiled in 1512 and stunned everyone who saw it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than two decades later, Michelangelo painted The Last Judgment across the wall behind the altar, working from 1536 to 1541.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Christ raises the saved while the damned tumble towards hell.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some church officials were scandalised by the nudity, and after his death Daniele da Volterra was hired to paint drapery over figures, earning the nickname Il Braghettone, the breeches maker.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For centuries, candle and incense smoke and old varnish darkened the ceiling.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A Vatican restoration from 1980 to 1994 revealed vivid pinks, greens, oranges and blues.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was controversial, with some critics arguing that final touches were lost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The chapel still hosts the conclave that elects a pope.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pope Julius II hired Michelangelo, who saw himself as a sculptor, to paint the Sistine Chapel ceiling in 1508.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Vermeer: the mystery of light.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Barely three dozen paintings, almost no letters, no surviving drawings.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Johannes Vermeer painted quiet rooms full of light, and art detectives are still arguing about how he did it.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Few paintings, fewer records.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Johannes Vermeer was baptised in Delft, in the Dutch Republic, in 1632.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "His father was a weaver who also dealt in art, and Johannes took over the business.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He married Catharina Bolnes, from a Catholic family, in 1653, and they had a large family.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He joined the painters' guild and later served as one of its heads.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Yet he left no diaries, no letters about his art and no drawing that can confidently be attributed to him.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Nearly everything known comes from legal and financial documents.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Scholars attribute only about 34 to 37 surviving paintings to him, and some attributions are disputed.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He seems to have worked very slowly, perhaps finishing only a few a year.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Light from the left.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A striking number of Vermeer's paintings show a quiet room lit by a window on the left.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The figures are usually one or two women, reading letters, pouring milk, playing music or weighing pearls.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A local collector, Pieter van Ruijven, appears to have bought many of them, which may have let Vermeer work carefully.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He watched how daylight behaves.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In The Milkmaid, the whitewashed wall is full of subtle shifts, tiny nail holes and marks.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Shadows are not just darker; they pick up colour from nearby surfaces.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tiny dots of light paint suggest sparkle on bread, metal or fabric.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "They resemble the blurred highlights of an out-of-focus lens, which has fuelled debate about his methods.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Expensive blue.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Natural ultramarine was made from lapis lazuli, a semi-precious stone mined in what is now Afghanistan.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It cost more than many other pigments, and many painters saved it for important details, such as the robes of the Virgin Mary.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Vermeer used it remarkably freely.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It appears in the blue and yellow headscarf of the Girl with a Pearl Earring and in the apron of The Milkmaid.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Technical studies have also found ultramarine mixed into shadows and underlayers, where it helps create cool, luminous tones.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Such lavish spending is puzzling for an artist who ended his life in debt.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It remains part of the mystery of his methods and his finances.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The camera obscura debate.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A camera obscura is a darkened box or room in which a lens projects an image of the outside scene onto a surface.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The device was known in Vermeer's day.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Delft was home to the microscope pioneer Antonie van Leeuwenhoek, later trustee of Vermeer's bankrupt estate, though nothing suggests they discussed optics.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 2001 the historian Philip Steadman argued that the geometry of several Vermeer rooms fits a camera obscura, and David Hockney suggested Old Masters used optical aids.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 2013 documentary Tim's Vermeer, inventor Tim Jenison used a lens and mirror to produce a strikingly close copy of The Music Lesson without painting training.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Critics reply that possible is not proven.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "No document mentions Vermeer owning such a device, and composition, colour and mood still demanded his skill.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lost and found.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1672 France invaded the Dutch Republic and the art market collapsed.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Vermeer's income dried up.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He died in December 1675, aged 43, leaving his family deeply in debt.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "His widow later said the stress of financial ruin had contributed to his death.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Over the following centuries his name faded, and some paintings were sold under other artists' names.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1860s the French critic Théophile Thoré-Bürger published enthusiastic articles about him and helped restore his reputation.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Since then his fame has soared.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Girl with a Pearl Earring is now one of the best-known paintings in the world, and a major Vermeer exhibition in Amsterdam in 2023 sold out completely.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Vermeer left only about 34 to 37 paintings and almost no personal records, so much about him is guesswork.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. The Great Wave and the floating world.",
-   "c": 1,
+   "t": "Part four. The Great Wave and the floating world.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "A giant wave curls like a claw over three tiny boats while Mount Fuji sits calmly in the distance.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "This Japanese print is one of the most famous images on Earth.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Here is the world that made it.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pictures of the floating world.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "During the Edo period, from 1603 to 1868, Japan was largely closed to the outside world and ruled from Edo, today's Tokyo.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "As cities grew, prosperous merchants and artisans built a lively popular culture of theatre, teahouses, fashion and pleasure districts.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The word 'ukiyo' once meant a sorrowful, fleeting world in a Buddhist sense, but came to mean the 'floating world' of urban entertainment, enjoyed for the moment.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ukiyo-e, pictures of the floating world, showed that culture.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Early ones were paintings, but woodblock prints made them affordable to ordinary townspeople.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Popular subjects included kabuki actors, celebrated beauties and courtesans, legendary heroes and, later, landscapes and travel scenes.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "They were the posters and celebrity photos of their day.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A team effort.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "We usually name a single artist, but a ukiyo-e print was a team product.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The publisher came up with the project, paid for it and sold the results.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The designer, the artist we remember, drew the image in ink on thin paper.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A skilled carver pasted that drawing face down onto a block of cherry wood and carved away everything except the lines, destroying the original in the process.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Extra blocks were carved for each colour.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A printer then brushed water-based ink onto each block in turn and pressed damp paper onto it by hand with a flat pad called a baren.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Small notches called kento made sure each colour lined up precisely.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A single print could need a dozen or more blocks.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Brocade pictures.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Early woodblock prints were black and white or had a few colours added by hand.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1765 the artist Suzuki Harunobu and his collaborators produced prints using many separate colour blocks, made possible by the reliable registration system.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "These full-colour prints were called nishiki-e, or 'brocade pictures', because their rich colours reminded people of luxurious woven silk.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "They kicked off a golden age.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Kitagawa Utamaro became famous for elegant portraits of women, often close-up half-length figures.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Toshusai Sharaku produced striking, almost caricature-like portraits of kabuki actors in a career of less than a year, before vanishing from the record.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Prints were produced in large editions and sold in shops, many relatively cheaply, part of the everyday visual life of the city.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hokusai and Hiroshige.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Katsushika Hokusai, born in 1760, worked for roughly seven decades and changed his name around thirty times.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Around 1831 he designed Thirty-six Views of Mount Fuji.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Its most famous image, Under the Wave off Kanagawa, now called The Great Wave, shows boats dwarfed by a towering wave whose foam breaks into claw-like fingers, with Fuji small in the distance.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It uses Prussian blue, an imported synthetic pigment cheaper and more lasting than earlier blues.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Thousands of copies were probably printed.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "His younger rival Utagawa Hiroshige became famous for gentler, atmospheric landscapes.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "His 1830s series The Fifty-three Stations of the Tokaido followed the road from Edo to Kyoto through rain, snow and dusk, part souvenir and part journey for those who could not travel.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Soft colour gradations, made by wiping the ink on the block, put viewers in the scene.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Japan meets Europe.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1850s Japan was forced to open its ports to foreign trade, and Japanese goods flowed into Europe.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A popular story says a French artist found Hokusai's sketches used as packing around porcelain; it may be partly legend, but prints certainly arrived in large numbers.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Japonisme swept through Western art and design.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Artists admired bold flat colour, strong outlines, unusual high or low viewpoints and off-centre compositions, which differed from Europe's realistic perspective.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Van Gogh and his brother Theo collected hundreds of prints in Paris, and Vincent painted copies of two Hiroshige prints with his own intense colours.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Monet's collection still hangs at Giverny, and his Japanese-style footbridge appears in his garden paintings.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Degas and Cassatt borrowed the cropped, off-centre compositions.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The floating world helped shape modern Western art.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Ukiyo-e were affordable woodblock prints celebrating the urban pleasures of Edo-period Japan.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Impressionism.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Rejected by the art establishment and mocked by critics, a group of painters in 1870s Paris changed how the world sees light.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rejected by the Salon.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 19th-century Paris, an artist's career depended on the Salon, the official exhibition run by the state-backed Académie des Beaux-Arts.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Its juries favoured large, highly finished paintings of history, myth and religion, with smooth surfaces that hid the brushwork.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Thousands of works were rejected each year.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1863 so many were turned away that Emperor Napoleon III allowed a Salon des Refusés, an exhibition of the rejected.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Crowds came partly to laugh, especially at Édouard Manet's Le Déjeuner sur l'herbe, which showed a naked woman picnicking with clothed men in modern dress.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Going it alone.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Frustrated with the Salon, a group including Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Camille Pissarro and Berthe Morisot organised their own show in 1874, in the former studio of the photographer Nadar.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One of Monet's works was titled Impression, Sunrise, a hazy view of the port of Le Havre.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The critic Louis Leroy seized on it and mockingly called the group 'Impressionists', meaning their pictures looked like unfinished sketches.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The artists eventually adopted the name.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They held eight group exhibitions between 1874 and 1886.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Painting light outdoors.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Traditional painters sketched outside but finished their pictures in the studio.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Impressionists wanted to capture a real moment of light and weather, so many worked en plein air, French for 'in the open air'.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Paint in collapsible metal tubes, invented in 1841, made colours portable, and new railways carried Parisians to riverside towns and the coast.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Working fast before the light changed, they used quick, visible brushstrokes and set bright colours side by side, letting the eye blend them.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Monet painted the same subject at different times, such as haystacks and Rouen Cathedral, and later painted his Giverny water garden about 250 times.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A radical break.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Today Impressionism is hugely popular, but it broke several rules at once.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The paintings looked unfinished.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Their subjects were train stations, boating parties and gardens, not gods or battles, and they told no moral story.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Shadows were blue and purple rather than brown and black.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Japanese woodblock prints and photography influenced their cropped, flat, frozen compositions.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The painters were not all alike.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Renoir loved joyful social scenes.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Degas disliked the label and worked mostly indoors, painting dancers and cafés from odd angles.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Morisot, in seven of the eight shows, painted women and children at home.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mary Cassatt, an American, also joined.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Australian bush.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the late 1880s, Melbourne painters including Tom Roberts, Arthur Streeton and Frederick McCubbin set up artists' camps at Box Hill and Heidelberg, then on the city's rural edge.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Painting outdoors, they tried to capture the harsh, bright Australian light.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1889 they held the 9 by 5 Impression Exhibition, with many works painted on cigar-box lids.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Roberts's Shearing the Rams, 1890, became a national icon.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Historians debate how closely they followed French Impressionism.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "To enjoy these works, look from two distances.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Up close you see separate dabs of colour.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A few metres back they merge into shimmering light.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: In 19th-century Paris the state-run Salon decided which art was seen, and it favoured polished, traditional paintings.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Modern art, explained.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Melting clocks, soup cans and paint dripped on the floor: the ideas behind a century of art that people love to argue about.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Beyond copying the eye.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "By the 1880s, some artists felt Impressionism was too focused on fleeting light.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The critic Roger Fry later grouped them as 'Post-Impressionists'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Paul Cézanne rebuilt nature from simple shapes, aiming for solidity.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Vincent van Gogh used swirling brushwork and intense colour to express emotion, as in The Starry Night, 1889; he sold very few paintings in his lifetime.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Paul Gauguin used flat, symbolic colour.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Georges Seurat built pictures from tiny dots of pure colour, a method called pointillism.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Each moved away from copying the visible world and towards expressing ideas and feelings.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Cubism and abstraction.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Since the Renaissance, European painting used perspective to show a scene from one fixed viewpoint, like a window.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Around 1907 to 1914, Pablo Picasso and Georges Braque broke that rule.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They split objects into facets and showed several sides at once.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cubists also invented collage, gluing newspaper onto canvas.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A painting was now a flat object, not a window.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That opened a question: could art show nothing recognisable at all?",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1910s Kandinsky compared colour to music, Malevich painted a black square, and Mondrian used straight lines and primary colours.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hilma af Klint had painted abstractly since 1906 but kept it private.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1917 Duchamp submitted a urinal titled Fountain, asking what makes something art.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dreams and the unconscious.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "After the horror of World War I, many artists distrusted reason itself.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1924 the French writer André Breton published the Surrealist Manifesto, inspired by Sigmund Freud's ideas about dreams and the unconscious.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Surrealists tried to unlock the irrational through dream imagery, chance and automatic drawing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Salvador Dalí's The Persistence of Memory, 1931, with its melting clocks, is the most famous example.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "René Magritte painted a pipe with the words 'This is not a pipe' beneath it, a witty reminder that a picture of a thing is not the thing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Surrealism spread into film, photography and advertising.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "New York and Pop.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "After World War II, the art world's centre shifted from Paris to New York.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Abstract Expressionists made huge canvases meant to carry intense feeling.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Jackson Pollock dripped and poured paint onto canvas laid on the floor, so the work recorded his movement.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mark Rothko painted glowing rectangles of colour.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1973 the Australian government bought Pollock's Blue Poles for $1.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "3 million, causing a public uproar.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is now valued at far more.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the late 1950s and 1960s, Pop Art reacted against that seriousness, borrowing from advertising, comics and celebrities.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Andy Warhol painted Campbell's Soup Cans, 1962, and Roy Lichtenstein enlarged comic panels, asking whether high art and commercial images were really separate.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "My kid could do that.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The complaint that a child could paint a Rothko or a Pollock misses what these artists were doing.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Many were highly trained: Picasso painted in a skilled academic style as a teenager, then chose to abandon it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The point was often the idea, the risk of going first, and hundreds of deliberate choices about scale, colour and balance.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A 2011 study found that people, including non-experts, more often preferred abstract artists' works over similar-looking pictures by children or animals.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When you meet a puzzling work, ask what the artist is rejecting, what choices you can see, and how it feels.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "You are allowed not to like it, but try to understand it first.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Post-Impressionists such as Cézanne, Van Gogh, Gauguin and Seurat moved from copying what the eye sees towards expressing ideas and feelings.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1114,7 +1132,31 @@
    "ps": false
   },
   {
-   "t": "Question one. What makes Vermeer unusual for a famous painter?",
+   "t": "Question one. Why could the thief move so freely through the Louvre?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The galleries were closed and workmen were about.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How did Michelangelo see himself when he accepted the commission?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. First of all as a sculptor, new to fresco.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What makes Vermeer unusual for a famous painter?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1126,37 +1168,13 @@
    "ps": false
   },
   {
-   "t": "Question two. What made ukiyo-e affordable to ordinary townspeople?",
+   "t": "Question four. What made ukiyo-e affordable to ordinary townspeople?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Many copies could be printed from the same blocks.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. What did the Salon juries mostly favour?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Large, polished paintings of history and myth.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What did Post-Impressionists such as Cézanne and Van Gogh move towards?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Expressing ideas and feelings over appearances.",
    "c": 4,
    "k": "a",
    "ps": false

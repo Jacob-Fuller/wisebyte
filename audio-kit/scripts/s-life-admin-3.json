@@ -1,0 +1,936 @@
+{
+ "id": "s-life-admin-3",
+ "h": "emergency-department-explained,travelling-overseas-smoothly,after-someone-dies",
+ "title": "Life Admin · Episode 3",
+ "chapters": [
+  "The emergency department: how it really works",
+  "Travelling overseas without the drama",
+  "When someone dies: the practical steps"
+ ],
+ "units": [
+  {
+   "t": "Life Admin. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The emergency department: how it really works, Travelling overseas without the drama and When someone dies: the practical steps.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The emergency department: how it really works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why does someone who arrived after you get seen first?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The answer goes back to Napoleon's battlefields, and understanding it makes a hospital visit far less frustrating.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born on the battlefield.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For much of history, wounded soldiers were treated according to rank, or not until the fighting ended.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dominique-Jean Larrey, a surgeon in Napoleon's armies, changed that.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He introduced light, fast horse-drawn ‘flying ambulances’ to reach the wounded during battle, and insisted the most dangerously injured be treated first, whatever their rank or even their side.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word triage comes from the French trier, meaning to sort.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea spread through military medicine and, in the twentieth century, into civilian hospitals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The principle is the same today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An emergency department is not a queue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a sorting system designed to make sure the person most likely to die without help is seen first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Triage and the scale.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At an Australian emergency department you will usually speak first with a triage nurse.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a couple of minutes they ask what has happened, check key signs such as breathing and pulse, and look for danger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are not diagnosing you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are deciding how long you can safely wait.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be clear and specific, and neither exaggerate nor play things down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian and New Zealand departments use the Australasian Triage Scale, in place in various forms since the 1990s.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Category 1 is immediately life-threatening, seen immediately.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Category 2, such as severe chest pain, within 10 minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Category 3 within 30 minutes, Category 4 within an hour and Category 5 within two hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are the maximum times for assessment and treatment to begin, not for the whole visit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Busy departments sometimes miss targets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why you might wait.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Waiting rooms can be maddening, especially when others are called ahead of you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Usually someone more urgent has come in, perhaps by ambulance through a different door.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arriving by ambulance does not jump the queue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ambulance patients are triaged too, so a less urgent one may still wait.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another major cause of delay is access block.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When patients who need admission cannot move to a ward because no beds are free, they stay in emergency, occupying cubicles and staff time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why waits often reflect pressure across the whole hospital rather than slow work in the department itself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing, and preparing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Always call Triple Zero, 000, or go to emergency for chest pain, difficulty breathing, signs of stroke such as a drooping face or slurred speech, severe bleeding, a serious head injury, seizures, severe burns, or someone unconscious or unresponsive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If in doubt, call 000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a sprain, minor cut or ear infection, a GP, after-hours GP or urgent care clinic may see you faster, and pharmacists and nurse-staffed advice lines can help you decide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you go, bring your Medicare card, a list of medicines and allergies, and details of your doctor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask staff before you eat or drink, as you may need surgery or tests.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A friend can listen and speak up for you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If your condition worsens while you wait, tell the triage nurse straight away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You can be reassessed and moved up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Costs and afterwards.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you are eligible for Medicare, treatment as a public patient in a public hospital emergency department costs nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ambulances are different.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some states and territories cover their own residents, while others can charge substantial fees unless you have ambulance cover through a state scheme or private health insurance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your situation before you need one, though cost should never stop you calling 000 in an emergency.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you are discharged, ask for a copy of your discharge summary, make sure you understand any new medicines and warning signs, and book a follow-up with your GP.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The emergency department fixes the crisis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your GP handles what comes after.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Triage means treating the sickest first, an idea that began in Napoleonic battlefield medicine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Travelling overseas without the drama.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The best trips start long before the airport.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A little preparation with your passport, the right insurance and official travel advice can save you a world of trouble.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Passport and entry rules.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every year some travellers are turned away at check-in because their passport expires too soon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many countries require it to be valid for at least six months beyond your arrival or departure date, and some need blank pages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the expiry date months ahead and renew at passports.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Processing times can stretch in busy seasons, and priority processing costs extra.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australians can visit many countries without a visa, but not all.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some require an electronic authorisation applied for online, such as the US ESTA or UK ETA; others need an embassy visa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do not forget countries where you only change planes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use official government sites linked from Smartraveller, and beware look-alike sites charging large fees for forms you could lodge yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some common medicines are restricted overseas, so check those rules too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smartraveller and insurance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smartraveller, smartraveller.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "gov.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "au, run by the Department of Foreign Affairs and Trade, gives each destination an advice level, from 'Exercise normal safety precautions' up to 'Do not travel'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regions can differ.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read it before you book and again before you leave.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insurers may refuse cover in places marked 'Do not travel'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smartraveller puts it bluntly: if you cannot afford travel insurance, you cannot afford to travel.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Overseas treatment can cost tens of thousands of dollars, and an evacuation flight home far more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy cover when you book so cancellation is protected, then read the product disclosure statement for pre-existing conditions, the excess, and exclusions such as scooter riding without the right licence, extreme sports or alcohol.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Credit card insurance often has strict conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money, phones, documents.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A card blocked for suspicious overseas activity can leave you stranded at a hotel desk.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check whether your bank wants to know your travel plans, and carry at least two ways to pay, kept in different places.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compare fees: some cards charge international transaction fees on every purchase, while travel cards and some bank accounts do not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before you leave, check your phone plan's roaming charges, which can be huge, or plan to buy a local SIM or eSIM.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Save digital copies of your passport, insurance policy and bookings somewhere you can reach from any device, and share them with someone at home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A printed copy of your insurer's emergency number in your wallet is a smart backup.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your health on the road.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some vaccinations need several weeks to take effect, or more than one dose, so book a GP or travel clinic six to eight weeks before departure if you can.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bring a list of your medicines and a letter from your doctor describing them, and keep them in original labelled packaging.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has reciprocal health care agreements with some countries, including the United Kingdom, New Zealand and Ireland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These can cover medically necessary treatment, but they are limited and do not replace insurance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On long flights, move around and drink water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthdirect and Smartraveller both have practical travel health pages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice, so talk to a health professional about your own needs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When things go wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If your passport is stolen, report it to local police and contact the nearest Australian embassy or consulate for an emergency travel document.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you are arrested, seriously ill or caught in a crisis, consular staff can help, and the 24-hour Consular Emergency Centre can be reached from anywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smartraveller lists the numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the Consular Services Charter is clear about the limits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The government cannot pay your medical bills or legal fees, get you out of jail or override local laws.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is exactly why insurance and good preparation matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before you leave, make sure someone at home has your itinerary and knows how to reach you, and check in with them regularly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Check your passport expiry months ahead, as many countries want six months' validity, and check entry rules for every country, including transits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. When someone dies: the practical steps.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the middle of grief come phone calls, forms and decisions nobody prepares you for.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing the order of things can lift some of the weight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First hours and certification.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If someone dies suddenly or unexpectedly, or you are unsure whether they have died, call Triple Zero, 000, straight away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Operators will guide you, and paramedics and often police will attend.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the death was expected, for example someone in palliative care at home, there is no need for an ambulance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contact their doctor or palliative care team, who will arrange for the death to be confirmed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is generally no requirement to have the body taken away immediately, so you can take time to sit with the person and call family.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before a funeral, a doctor must complete a medical certificate stating the cause of death.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sudden, unexpected, violent, accidental or unexplained deaths must be reported to the coroner, who may order a post-mortem or an inquest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coronial staff can explain each step.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The funeral and registration.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most families engage a funeral director, who collects the person, helps arrange the service and usually lodges the details to register the death with the state or territory Registry of Births, Deaths and Marriages.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The registry then issues the official death certificate, which differs from the doctor's medical certificate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You will need it, or certified copies, for banks, super funds and insurers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check whether the person left wishes about burial, cremation or music.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A funeral can be religious or secular, large or small.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Funerals can cost many thousands of dollars, and grieving families may overspend out of love or guilt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get more than one quote, ask for itemised prices and consider simpler options such as direct cremation followed by a memorial gathering.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A calmer friend can join the meetings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Telling organisations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A surprising number of organisations need to be told: Services Australia for Centrelink and Medicare, the Australian Taxation Office, banks, super funds, insurers, employers, utility and phone companies, and more.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The free Australian Death Notification Service, run with the state registries, lets you notify a number of participating organisations in one go once the death is registered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a list of who you have contacted, when and what they said.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many banks and large companies have dedicated bereavement teams who can make it gentler.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Redirecting mail and closing unused accounts also helps protect against criminals who misuse the identities of people who have died.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Money and the estate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If there is a will, the executor it names manages the estate: gathering assets, paying debts and distributing what remains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If there is no will, a close relative can apply to the court to be appointed administrator.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Until it is clear who has the authority, avoid giving away belongings or money, however obvious the wishes seem.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some things move outside the estate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jointly held bank accounts and property usually pass straight to the surviving owner, and super is paid by the fund's trustee, often following the member's nominations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many banks will pay funeral invoices directly from the deceased's account.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A final tax return is often needed, and solicitors and public trustees can help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looking after the living.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the first weeks the to-do list can feel endless, but very little has to happen immediately.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prioritise the essentials, such as the funeral and anything protecting the estate, and let the rest wait.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accept practical offers such as cooking, making calls or minding children, and consider putting one organised friend or relative in charge of the paperwork list.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grief comes in waves and can bring exhaustion, poor sleep and forgetfulness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talk with your GP if you are struggling, and know that grief support services exist; Lifeline, 13 11 14, answers any time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you are ever worried about your safety or someone else's, call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being kind to yourself is part of the work.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Call 000 for a sudden death, but an expected death needs no rush, and some deaths must go to the coroner.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What principle does triage follow?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The sickest patients are seen first.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why check your passport expiry date months before travelling?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Many countries want six months' validity beyond your trip.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What should you do first if a death is sudden or unexpected?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Call Triple Zero, 000,.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

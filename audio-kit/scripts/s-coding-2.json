@@ -1,8 +1,9 @@
 {
  "id": "s-coding-2",
- "h": "halting-problem,programming-languages,open-source",
+ "h": "algorithms,halting-problem,programming-languages,open-source",
  "title": "Coding Basics · Episode 2",
  "chapters": [
+  "Algorithms, explained",
   "Turing and the problems no computer can solve",
   "Why there are so many programming languages",
   "Open source: the free code running the world"
@@ -15,926 +16,1232 @@
    "ps": false
   },
   {
-   "t": "In this episode: Turing and the problems no computer can solve, Why there are so many programming languages and Open source: the free code running the world.",
+   "t": "In this episode: Algorithms, explained, Turing and the problems no computer can solve, Why there are so many programming languages and Open source: the free code running the world.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Turing and the problems no computer can solve.",
+   "t": "Part one. Algorithms, explained.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The word sounds futuristic, but it comes from a scholar in 9th-century Baghdad, and you use algorithms every time you look up a word or take the fastest route home.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What an algorithm is.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An algorithm is a precise method for getting something done.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "School long division is one: follow the steps and you get the answer every time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So is the way you find a name in a phone book.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Code is how an algorithm is written for a computer, but the algorithm is the idea behind it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A good one must be unambiguous, must finish, and must produce the right result.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word comes from al-Khwarizmi, a Persian mathematician working in Baghdad in the 9th century, whose books on calculation spread through Europe in Latin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 300 BC, Euclid described a method for finding the largest number dividing two others.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is still taught and used inside some encryption that protects online banking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searching and sorting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guess a number from 1 to 100, told 'higher' or 'lower' each time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guessing 1, 2, 3 could take 100 tries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guessing 50, then 25 or 75, halves the possibilities each time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is binary search, and it always finds the number within seven guesses.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among a million sorted items, it needs only about 20 steps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It only works if items are in order, so computers spend much effort sorting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bubble sort swaps neighbouring items that are out of order, repeating until none remain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It works but is painfully slow on big lists.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Merge sort splits the list in half, sorts each half, then merges them, like combining two sorted piles of exam papers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a million items, it can be tens of thousands of times faster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why efficiency matters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computer scientists care less about speed on ten items than about how the work grows as the data grows.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some algorithms double their work when the data doubles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others quadruple it, and some grow so explosively that even the fastest supercomputer could not finish before the sun burns out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is why choosing the right algorithm often matters more than buying a faster computer.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A clever method on an old laptop can beat a clumsy method in a data centre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Programmers describe this growth with a notation called 'Big O'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maps and feeds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a map app plots the fastest drive from Parramatta to Bondi, it solves a shortest-path problem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roads become a network of points and connections, each with a travel time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1956 the Dutch computer scientist Edsger Dijkstra devised a method for this, reportedly in about 20 minutes at a cafe in Amsterdam.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern apps use faster descendants, plus live traffic from other phones, to reroute you around a crash.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 'the algorithm', people usually mean ranking systems on social media, video and shopping sites.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They use signals such as what you watched, liked, shared or lingered on to predict what you'll engage with.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early Google search used PageRank, which treated links as votes of importance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because feeds optimise for engagement, they can favour content that provokes strong emotions, which is a real and debated concern.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Algorithms in your life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Knowing how algorithms work gives you some control.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Feed algorithms learn from your behaviour, so deliberately following, muting and choosing 'not interested' changes what you see.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pausing on outrage teaches the system to show more of it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Algorithmic thinking also helps offline.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Looking for a lost item?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Search systematically, room by room, rather than randomly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Packing a car boot?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big items first is a simple algorithm that usually works well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breaking a messy task into clear, repeatable steps is exactly what programmers do, and it works just as well in a kitchen or an office.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: An algorithm is a clear, step-by-step method for solving a problem, and the idea exists apart from any code.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Turing and the problems no computer can solve.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Before electronic computers existed, a 23-year-old mathematician proved there are questions no computer, however powerful, will ever be able to answer.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hilbert's challenge.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1928 David Hilbert and Wilhelm Ackermann posed the Entscheidungsproblem, or ‘decision problem’.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Could a definite step-by-step procedure decide whether any statement in formal logic is provable?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If so, mathematics could in principle be mechanised.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1931 Kurt Gödel had shown that any consistent system rich enough for arithmetic contains true statements it cannot prove, but the decision problem was a separate question.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Answering it needed a precise definition of ‘mechanical procedure’.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1936 Alan Turing, a 23-year-old fellow of King's College, Cambridge, supplied one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He imagined a simple machine: an endless tape of squares, a head that reads, writes or erases one symbol at a time and moves left or right, and a finite table of rules.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Anything that can be calculated by a precise procedure, he argued, such a machine can calculate.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "One machine for all.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Turing's paper, ‘On Computable Numbers’, held a second startling idea.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The rule table of any Turing machine can itself be written down as symbols on a tape.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "So a universal machine, given a description of any other machine plus its input, can simulate it step by step and produce the same result.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "One machine can do the work of every machine, if it is handed the right instructions.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is exactly what a modern computer is.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your laptop needs no different hardware to be a word processor, a game or a calculator; it simply loads a different program.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Historians debate how directly Turing's abstract idea influenced the engineers who built the first stored-program computers in the late 1940s, but the concept existed in 1936.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The program that never stops.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Anyone who has watched a frozen app knows that programs can get stuck in endless loops.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A perfect checker, able to examine any program and its input and say in advance whether it will stop or run forever, would be enormously useful.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some cases are easy: a program that counts from one to ten halts, while ‘repeat forever’ does not.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Others are fiendish.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Imagine a program that searches for an even number greater than 2 that is not the sum of two primes, and stops only if it finds one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Whether it ever halts depends on Goldbach's conjecture, unsolved since 1742.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A perfect halting checker would settle such questions instantly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is the halting problem.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A proof by contradiction.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Suppose someone claims to have built a perfect checker, called H. In the form usually taught today, the argument runs like this.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Build a program called Contrary that takes any program, asks H whether it halts when given its own code, and then does the opposite.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If H says it halts, Contrary loops forever; if H says it loops, Contrary stops.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Now feed Contrary its own code.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Whatever H predicts, Contrary does the reverse, so H is wrong.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "No such H can exist.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turing used reasoning of this kind to answer Hilbert: no general mechanical procedure can decide every mathematical question.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The American logician Alonzo Church reached the same conclusion independently, by a different route, shortly before.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Living with the impossible.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The halting problem is no quirk of old mathematics.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A later result, Rice's theorem, extends it: no program can perfectly decide, for every possible program, any meaningful property of how that program behaves, such as whether it will ever leak a password.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is why no antivirus software can be guaranteed to catch every piece of malicious code, and why tools that check programs for bugs must accept limits.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "They can miss problems, raise false alarms or give up on some cases.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In practice, engineers work around this with time limits, careful restrictions and checkers that are right most of the time.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turing's 1936 insight remains a humbling boundary.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some questions are not merely hard for computers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "They are impossible.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Turing answered Hilbert's decision problem by first defining exactly what a mechanical procedure is.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Why there are so many programming languages.",
-   "c": 1,
+   "t": "Part three. Why there are so many programming languages.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "There are thousands of programming languages, from Python to COBOL.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here's why, and which ones actually run your world.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bridging people and machines.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A processor only understands machine code: long strings of ones and zeros representing basic operations such as adding two numbers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Writing that by hand is slow and error-prone.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Programming languages sit in the middle.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "They let people write with words and symbols closer to human thinking, then translate them into machine code.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The earliest programmers in the 1940s worked almost directly with machine instructions.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "FORTRAN, released by IBM in 1957 and led by John Backus, was one of the first widely used high-level languages, built for heavy maths.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "COBOL followed in 1959 for business record-keeping, influenced by Grace Hopper.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It still runs many banks, insurers and agencies, because rewriting decades of reliable code is risky and expensive.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why so many.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Thousands of languages have been created, though only a few dozen are in wide everyday use.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Why not one for everything?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "For the same reason there isn't one tool in a shed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A hammer and a screwdriver both help you build, but suit different jobs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some languages are designed for raw speed, giving close control over memory and hardware.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Others prioritise safety, catching mistakes before the program runs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some are easy to read and quick to write.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Others specialise in one domain, such as databases or statistics.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Every design choice is a trade-off, and new languages appear when people want a different balance.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Compiled or interpreted.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "There are two broad ways to turn code into something a computer can run.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A compiled language, such as C, C++, Rust or Go, is translated in full before it runs, like translating a whole book before publishing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The result usually runs very fast.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "An interpreted language, like Python, is translated while the program runs, more like a live interpreter at a meeting.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "That makes experimenting easier, but it often runs more slowly.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In practice the line has blurred, and many modern languages, including JavaScript in web browsers, use clever mixtures of both.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Well-known languages.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Python, created by Guido van Rossum and released in 1991, is named after Monty Python, not the snake.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It has readable code and is widely used in data analysis, science, automation and AI.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "JavaScript was created by Brendan Eich at Netscape in 1995, famously in about ten days.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Despite the name, it has little to do with Java; the name was largely marketing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It runs in every major browser.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Swift, from Apple in 2014, builds iPhone and Mac apps.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Kotlin is Google's preferred language for Android, alongside the older Java, also common in large business systems.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "SQL asks questions of databases, such as 'show all customers in Victoria'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "C, created in the early 1970s at Bell Labs, remains the foundation of operating systems like Linux.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "C# suits business software and Unity games.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Learning your first.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Languages are more alike than they look.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Nearly all have variables, conditions, loops and functions.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Once you understand these in one, a second is mostly new spelling and grammar, like learning Spanish after Italian.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Employers generally care more about problem-solving than any single language.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The hard part isn't memorising commands but breaking problems into small, precise steps.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you want to try coding, pick one language and stick with it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Python is a common first choice because it reads almost like English.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "For websites, start with HTML, CSS and JavaScript.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Free courses are plentiful, and Australian public libraries often run coding sessions.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Build small things you care about, like a budget calculator.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Expect to feel stuck often; that is simply what programming feels like.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Programming languages let people write instructions in readable form that are translated into the machine code a processor runs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Open source: the free code running the world.",
-   "c": 2,
+   "t": "Part four. Open source: the free code running the world.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Much of the digital world runs on software written in the open and given away.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 2024, one engineer's curiosity about a half-second delay showed both the strength and the fragility of that system.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Recipes anyone can read.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Software begins as source code, instructions written in a programming language.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most commercial programs are distributed only in compiled form, which computers can run but humans can barely read, so the recipe stays secret.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Open source software publishes the recipe.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Anyone can study it, fix it, improve it or build on it, under a licence that sets the rules.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some licences let you do almost anything; others require you to share your changes too.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Open source does not mean nobody is paid.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many developers are employed by companies that rely on the software.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "But the code itself is shared, and it is everywhere: phones, cars, televisions, routers and the servers behind most websites.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "From printer to Linux.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "By the late 1970s software was increasingly locked up as a commercial product.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Richard Stallman, an MIT programmer, later described a formative frustration: a jamming laser printer he could not fix because the maker would not share the source code.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1983 he announced the GNU project to build a complete operating system of free software, and in 1985 founded the Free Software Foundation.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "'Free' meant freedom, not price.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "His GNU General Public License required shared changes to stay free, a twist nicknamed copyleft.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "GNU still lacked a kernel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In August 1991 Linus Torvalds, a 21-year-old Helsinki student, posted that he was writing a free operating system, just a hobby, not big and professional like GNU.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Programmers worldwide sent improvements, and Linux was born.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He later created Git too.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Running the world.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Linux is far more widespread than most people realise.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Android, the world's most popular phone system, is built on the Linux kernel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Linux runs most of the servers behind websites and cloud services, and since 2017 every one of the 500 fastest supercomputers on the TOP500 list has run it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Open source also supplies browser engines, databases, programming languages and the encryption libraries protecting online banking.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Companies build on this shared foundation rather than writing everything from scratch.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Even firms that once feared open source came around.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Microsoft's chief executive Steve Ballmer called Linux 'a cancer' in 2001; Microsoft later became one of open source's biggest contributors.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Holding up the internet.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Shared code has a weakness: everyone uses it, but no one in particular is responsible for it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 2014 researchers discovered Heartbleed, a serious flaw in OpenSSL, encryption software used by a large share of secure web servers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The project was run by a handful of people, with only one working on it full time, and received only around 2000 US dollars a year in donations.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 2021 another severe flaw, Log4Shell, turned up in Log4j, a widely used logging tool maintained largely by volunteers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Each crisis pushed companies and governments to fund critical projects more seriously.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A popular web cartoon sums up the worry: digital infrastructure balanced on one small project that a lone volunteer has thanklessly maintained for years.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Half a second.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In March 2024 Andres Freund, a Microsoft engineer who works on the PostgreSQL database, noticed something odd: logging in to a test machine used more processor time than it should, adding about half a second.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Curious, he traced the delay to xz Utils, a small compression tool in many Linux systems.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Someone had hidden a backdoor in it that could have let an attacker take control of affected servers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The culprit, using the name Jia Tan, had spent around two years earning the trust of the project's overstretched volunteer maintainer before gaining the access to slip it in.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It was caught before reaching the stable versions of major Linux distributions.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Who was behind it remains unknown, though many security experts suspect a well-resourced, possibly state-backed group.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Open source software publishes its source code so anyone can study, change and share it under a licence.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why did Turing need to describe his imaginary machine to answer Hilbert?",
-   "c": 3,
+   "t": "Question one. What three things must a good algorithm do?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Be unambiguous, finish, and give the right result.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did Turing need to describe his imaginary machine to answer Hilbert?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. A 'mechanical procedure' had to be defined first.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why do programming languages exist?",
-   "c": 3,
+   "t": "Question three. Why do programming languages exist?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. They let people write readable code that gets translated.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What makes software open source?",
-   "c": 3,
+   "t": "Question four. What makes software open source?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Its source code is public to study and change.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

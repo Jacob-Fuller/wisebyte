@@ -1,0 +1,942 @@
+{
+ "id": "s-explorers-4",
+ "h": "burke-and-wills,polar-explorers,shackleton-endurance",
+ "title": "Great Explorers · Episode 4",
+ "chapters": [
+  "Burke and Wills: the expedition that went wrong",
+  "The race to the poles",
+  "Shackleton and the Endurance"
+ ],
+ "units": [
+  {
+   "t": "Great Explorers. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Burke and Wills: the expedition that went wrong, The race to the poles and Shackleton and the Endurance.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Burke and Wills: the expedition that went wrong.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1860 a lavishly equipped expedition left Melbourne cheered by thousands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within a year its leaders were dead, starving beside a creek where others had lived for millennia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A grand departure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 20 August 1860, crowds gathered in Royal Park, Melbourne, to farewell the Victorian Exploring Expedition.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its goal was to cross the continent to the Gulf of Carpentaria, over 3,000 kilometres through country few colonists had seen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Organised by the Royal Society of Victoria, it was one of the best equipped expeditions in Australian history, with around nineteen men, horses, wagons and about two dozen camels imported from India.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victoria, rich from the gold rushes, wanted the glory of being first, and perhaps a route for a telegraph line.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its leader, Robert O'Hara Burke, was an Irish-born police officer known for courage and charm, but with no experience of exploration or the inland.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "William John Wills, a young surveyor, handled navigation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trouble from the start.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Problems began almost immediately.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The expedition was overloaded and slow, and quarrels broke out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Menindee, on the Darling River, the second in command, George Landells, resigned after clashing with Burke.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Burke feared a rival South Australian expedition led by John McDouall Stuart might beat him, so he grew impatient and began splitting his party to move faster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He set up a depot at Cooper Creek, in what is now south-west Queensland.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In December 1860, with summer heat building, he set out for the Gulf with just three companions, Wills, Charles Gray and John King, plus a horse and six camels.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He left William Brahe in charge of the depot, to wait about three months, or longer if possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Gulf, then the return.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The small party moved north quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By around February 1861 they reached the tidal channels and mangroves near the Flinders River.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swamps blocked their view of the open sea, but they had effectively crossed the continent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The return was a grim march.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Food ran low, and the wet season turned the ground to mud.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The men killed and ate several camels and their horse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charles Gray grew ill and weak, and Burke at first suspected him of pretending.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Gray was caught taking extra flour, Burke reportedly hit him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gray died in April 1861, and burying him cost a day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every delay mattered, because they relied on Brahe still being at the depot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brahe's men had already waited longer than three months, and some were sick with scurvy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Missing by hours.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On the evening of 21 April 1861, Burke, Wills and King staggered back into the Cooper Creek depot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was empty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brahe's party had left that same morning, only hours earlier.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a coolibah tree, Brahe's men had carved a message telling them to dig.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Buried beneath were supplies and a note.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tree, now known as the Dig Tree, still stands beside the creek.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too weak to catch up with Brahe, Burke decided to head for Mount Hopeless, the nearest South Australian pastoral outpost, rather than follow the known route home.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a cruel twist, Brahe returned briefly to the depot later, but did not notice signs that Burke had been there, and left again.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Survival and legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The three men never reached Mount Hopeless.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Yandruwandha people, who had lived there for thousands of years, gave them fish and cakes made from nardoo, a fern whose spore cases are ground into flour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Burke at one point fired a pistol to drive them away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians think the explorers skipped the traditional preparation, which removes a substance that destroys vitamin B1, worsening their starvation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Burke and Wills died around the end of June 1861.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "King survived with the Yandruwandha until Alfred Howitt's rescue party found him in September.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Royal Commission criticised Burke's judgement and the organisers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1863 the pair received a grand public funeral in Melbourne.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stuart's party crossed south to north and returned in 1862.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the story is a lesson in poor leadership and in ignoring Aboriginal knowledge.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The lavishly equipped Victorian Exploring Expedition of 1860 set out to cross Australia from south to north, led by a man with no exploring experience.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The race to the poles.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Frostbite, starvation and extraordinary endurance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The early 1900s 'heroic age' of polar exploration produced triumph and tragedy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The heroic age.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 1900, the North and South Poles were among the last great unreached places on Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Heroic Age of Antarctic Exploration, usually dated from about 1897 to Shackleton's death in 1922, brought expeditions from Britain, Norway, Australia, Japan, Germany and elsewhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Explorers faced temperatures below minus 40 degrees, blizzards, hidden crevasses and months of darkness.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They had wool and fur clothing, sledges, and little or no radio contact.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Expeditions often lasted two or three years, and many men didn't return.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Amundsen versus Scott.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roald Amundsen had learned polar techniques from Inuit people: fur clothing, dog sledging and careful pacing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He secretly switched his plans from the North Pole to the South.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From the Bay of Whales he laid supply depots, marked so they could be found in poor visibility, and used sled dogs, some killed to feed the others and the men.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His five-man team, on skis, reached the pole on 14 December 1911 and returned safely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain's Robert Falcon Scott relied on ponies and motor sledges, which failed, then man-hauled heavy sledges.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His five men reached the pole on 17 January 1912 to find Amundsen's tent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They all died on the return, about 18 kilometres short of a major depot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scott also faced unusually cold weather, and his team hauled about 16 kilograms of rock samples to the end.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oates and preparation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lawrence Oates, crippled by frostbite, walked out into a blizzard to avoid slowing the others, reportedly saying, 'I am just going outside and may be some time.'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scott and his last two companions died in their tent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians still debate Scott's choices, but some differences are clear.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Amundsen's dogs travelled fast over snow and ice and could be eaten along the way.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scott's ponies suffered in the cold and his men exhausted themselves hauling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Amundsen's team were expert skiers and dog drivers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He later wrote that victory awaits the one who has everything in order.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Survival against the odds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adelaide geologist Douglas Mawson led the Australasian Antarctic Expedition from Cape Denison, one of the windiest places on Earth at sea level.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In December 1912, Belgrave Ninnis fell into a crevasse with the sledge carrying most of their food.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mawson and Xavier Mertz turned back, eating their dogs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mertz died, probably partly from vitamin A poisoning from dog liver.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mawson struggled on alone for about a month, fell into a crevasse himself, and reached base just after his ship had left.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He survived another winter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1915, Ernest Shackleton's Endurance was crushed by sea ice in the Weddell Sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His 28 men camped on the ice, then reached Elephant Island.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shackleton and five others sailed the James Caird about 1,300 kilometres to South Georgia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every man was rescued.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wreck was found in 2022, 3,000 metres down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "North Pole and today.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The North Pole sits on drifting sea ice, which makes it hard to reach and harder to prove.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "American Robert Peary claimed it in 1909 with Matthew Henson and four Inuit men, Ootah, Egingwah, Seegloo and Ooqueah, and Frederick Cook claimed 1908.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both claims are widely doubted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1926, Amundsen, Lincoln Ellsworth and Umberto Nobile flew over the pole in the airship Norge, generally regarded as the first verified visit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1959 Antarctic Treaty set Antarctica aside for peaceful science, banning military activity and, under a later protocol, mining.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia claims about 42 per cent, the largest share, though claims are held in abeyance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its stations, such as Casey, are supplied from Hobart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ice cores there hold air bubbles hundreds of thousands of years old.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Arctic's shrinking summer sea ice is one of the clearest signs of warming.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Between about 1897 and 1922, explorers raced to the poles in conditions that killed many of them.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Shackleton and the Endurance.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "His ship was crushed by ice and his men were stranded at the bottom of the world.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What happened next became the most famous survival story in polar history.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A plan, and a myth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 1914 Amundsen had reached the South Pole and Scott had died returning from it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ernest Shackleton wanted a new prize: the first crossing of Antarctica on foot, from the Weddell Sea to the Ross Sea, about 2,900 kilometres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His ship Endurance sailed from England in August 1914, just as the First World War began.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Admiralty told him to carry on.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The famous \"Men wanted for hazardous journey\" advertisement is almost certainly a myth: researchers have found no trace of it in the archives.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In reality thousands reportedly applied, and Shackleton chose men through quick, quirky interviews, valuing cheerfulness under strain as much as skill.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trapped in the ice.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In January 1915, still short of the Antarctic coast, Weddell Sea pack ice closed around Endurance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 28 men played football on the floes and held concerts while the ship drifted through the polar winter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the pressure grew and the hull buckled.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In October Shackleton ordered everyone onto the ice, and in November Endurance sank.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal became getting every man home alive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crew camped on moving ice with three lifeboats, and the sled dogs had to be shot.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photographer Frank Hurley, an Australian, kept a few glass plate photographs and smashed the rest so he would not be tempted to go back.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In April 1916 the ice broke up and they took to the boats.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elephant Island and the Caird.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After about a week at sea the boats reached Elephant Island in mid April 1916, the first solid ground in about 16 months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But it lay far from any shipping route and nobody knew they were there.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So Shackleton took five men in the James Caird, a lifeboat under 7 metres long that the ship's carpenter had strengthened and partly decked over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other 22, led by Frank Wild, sheltered under two upturned boats and ate penguins and seals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 24 April the six set out for South Georgia, 1,300 kilometres away.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frank Worsley navigated with only a handful of sun sightings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The men were soaked, chipped ice off the boat and survived a hurricane force storm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After about 16 days they landed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over the mountains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They had landed on the wrong side of South Georgia, and the whaling stations lay on the far coast.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The boat was too battered to sail around.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So Shackleton, Worsley and Tom Crean crossed the island's unmapped glaciers and mountains, with screws in their boots for grip, a rope and almost no rest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After about 36 hours they reached the Stromness whaling station in May 1916.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shackleton then made several attempts to reach Elephant Island, but ice turned him back.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 30 August 1916 the Chilean tug Yelcho, commanded by Luis Pardo, finally got through.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All 22 men were alive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sadly, the expedition's separate Ross Sea party, on the far side of Antarctica, lost three men.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wreck is found.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For over a century Endurance lay somewhere beneath the Weddell Sea, so choked with ice that searching seemed nearly impossible.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 2022 an expedition using an icebreaker and underwater robots located the wreck about 3,000 metres down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wooden hull was largely intact, and the name ENDURANCE could still be read across the stern.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cold water and the absence of the wood-eating creatures found in warmer seas had protected it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wreck is a protected historic site under the Antarctic Treaty and is being left undisturbed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shackleton's expedition failed at everything it set out to do, yet it is remembered for something rarer: a leader who brought every man of Endurance home.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Shackleton planned the first crossing of Antarctica and chose his crew for temperament as well as skill.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What was a major weakness of Robert O'Hara Burke as expedition leader?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He had no experience of exploring.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was the Heroic Age of Antarctic Exploration?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Dangerous polar expeditions between 1897 and 1922.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the truth about the \"Men wanted for hazardous journey\" advertisement?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. No trace of it exists in the archives, so it is probably a myth.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

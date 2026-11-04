@@ -1,12 +1,12 @@
 {
  "id": "s-physics-1",
- "h": "newtons-laws,gravity,why-things-float,energy",
+ "h": "newtons-laws,gravity,why-things-float,air-pressure",
  "title": "Physics Basics · Episode 1",
  "chapters": [
   "Newton's laws of motion",
   "Gravity",
   "Why things float",
-  "Energy: what it is and where it goes"
+  "Air pressure: the weight of the sky"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Newton's laws of motion, Gravity, Why things float and Energy: what it is and where it goes.",
+   "t": "In this episode: Newton's laws of motion, Gravity, Why things float and Air pressure: the weight of the sky.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -832,283 +832,265 @@
    "ps": true
   },
   {
-   "t": "Part four. Energy: what it is and where it goes.",
+   "t": "Part four. Air pressure: the weight of the sky.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Energy can't be created or destroyed, only changed from one form to another.",
+   "t": "Right now the air is pressing on you with the weight of about ten tonnes on every square metre.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Almost all of it on Earth started in the Sun.",
+   "t": "Here's why you don't notice, and how people first worked it out.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Changed, never lost.",
+   "t": "An ocean of air.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Energy is what makes things happen.",
+   "t": "Air feels like nothing, but it is made of real molecules with real mass, and there are many kilometres of it stacked above your head.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Physicists define it as the capacity to do work, applying a force over a distance.",
+   "t": "At sea level, that weight presses on every surface with a force of roughly ten tonnes per square metre, about 101 kilopascals.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Kinetic energy is the energy of motion.",
+   "t": "So why aren't we flattened?",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Potential energy is stored, like water behind a dam or a stretched rubber band.",
+   "t": "Because air pressure pushes in every direction at once, not just downward, and the fluids and air inside your body push back outward with equal force.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "There are also chemical, thermal, electrical, light, sound and nuclear forms.",
+   "t": "Everything is balanced.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Energy is measured in joules, named after English brewer and physicist James Joule; Australian food labels use kilojoules.",
+   "t": "You only notice when that balance is suddenly upset, for example when your ears pop in a lift, or when a sealed packet of chips puffs up on a flight.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Energy is never created or destroyed.",
+   "t": "Torricelli's tube.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the 1840s, Joule showed that a set amount of mechanical work always produces the same amount of heat.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Riding downhill turns potential into kinetic energy; braking turns it into heat in the pads.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When we 'waste' energy, we convert it into forms less useful to us.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Speed squares energy.",
+   "t": "In the early 1600s, well diggers and engineers knew a frustrating fact.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Kinetic energy equals half the mass times the speed squared.",
+   "t": "Suction pumps could not raise water more than about ten metres, however well they were built.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evangelista Torricelli, a former assistant to Galileo, suspected the weight of the air was the answer.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1643 he filled a long glass tube with mercury, which is about 13.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 times denser than water, covered the open end and turned it upside down into a dish of mercury.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The column dropped until it stood about 76 centimetres high, leaving an empty space at the top.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The air pressing on the dish was holding the mercury up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Torricelli had made the first barometer, and he noticed the height changed slightly from day to day.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Up the mountain.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Double your speed and your kinetic energy quadruples.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A car at 60 kilometres an hour carries four times the energy of the same car at 30 kilometres an hour.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The brakes, or in a crash the vehicle and the people inside, must absorb all of it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That is why braking distances grow so quickly with speed, and why lower limits in busy areas, like 40 kilometres an hour school zones, save lives.",
+   "t": "The French thinker Blaise Pascal reasoned that if the atmosphere really had weight, less of it should press down at the top of a mountain.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Small increases in speed matter more than they feel.",
+   "t": "In 1648 he persuaded his brother-in-law, Florin Périer, to test the idea on the Puy de Dôme, a volcanic peak in central France.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Nothing is 100% efficient.",
+   "t": "Périer left one mercury tube at the bottom with a watcher and carried another to the summit, about a kilometre higher.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the top, the mercury column was several centimetres shorter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Coming down, it rose again.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a beautifully simple experiment that settled the question.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today the unit of pressure, the pascal, honours Pascal, and aircraft altimeters still work by measuring this same fall in pressure with height.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A push, not a pull.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Old incandescent bulbs turned only about 5 per cent of electricity into light; LEDs use roughly 75–80 per cent less electricity for the same light.",
+   "t": "Around 1650, Otto von Guericke, scientist and mayor of Magdeburg, built one of the first air pumps.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Petrol engines turn roughly 20–30 per cent of fuel energy into motion, while electric motors manage around 90 per cent.",
+   "t": "He fitted two copper hemispheres about half a metre across together with only a greased rim between them, then pumped out the air.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Muscles convert only about a quarter of the energy they use into movement, the rest becoming heat, which is why exercise warms you up.",
+   "t": "The atmosphere outside clamped the halves together.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Heat pumps, including reverse-cycle air conditioners, seem to beat the rules, but they move heat rather than make it, delivering three or more units of heat per unit of electricity.",
+   "t": "Accounts describe two teams of horses failing to pull the sphere apart, yet when air was let back in, the halves simply fell open.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is the same when you drink through a straw.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The underlying principle is the second law of thermodynamics: energy tends to spread out and become less concentrated, which is why perpetual motion machines are impossible.",
+   "t": "You lower the pressure inside your mouth, and the normal air pressure on the drink's surface pushes it up.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Sun's power.",
+   "t": "Suction cups work the same way.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That also explains the old pump puzzle: the atmosphere can push water up only about ten metres, because that is the height of water column it can balance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pressure in daily life.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Plants capture sunlight through photosynthesis, feeding almost every food chain.",
+   "t": "Air pressure changes from place to place, and those differences drive the weather.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Coal, oil and gas are the remains of ancient plants and marine organisms, so they are stored ancient sunlight.",
+   "t": "High pressure usually brings sinking air and settled, clear skies, while low pressure brings rising air, cloud and often rain.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Wind comes from the Sun heating Earth unevenly; hydro depends on rain, which depends on the Sun evaporating water.",
+   "t": "Wind is air moving from higher pressure towards lower, which is why the curved lines on a weather map, called isobars, are so useful.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Sunlight striking Earth in an hour or two carries about as much energy as humanity uses in a year.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The exceptions are nuclear energy, geothermal heat and tidal energy, which comes mainly from the Moon's gravity.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Sun runs on E = mc², Einstein's 1905 finding that mass is a form of energy.",
+   "t": "Pressure also changes how we cook.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Fusion converts about four million tonnes of the Sun's mass into energy every second.",
+   "t": "A pressure cooker traps steam, raising the pressure so water boils at around 120 degrees and food cooks much faster.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "One gram of matter, fully converted, would release roughly the energy of 20,000 tonnes of TNT.",
+   "t": "And at an airliner's cruising height, the outside air is far too thin to breathe for long, so cabins are pressurised to a level similar to being on a mountain a couple of kilometres high.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Power and your body.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Power is how fast energy is transferred: one watt is one joule per second.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A kettle might draw 2,000 watts or more, a laptop about 50 and a phone charger 5–20.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Electricity bills charge in kilowatt-hours: 1,000 watts for an hour, like running a small heater.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The biggest home users are heating and cooling, hot water, clothes dryers and pool pumps, and standby power adds up.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Energy Rating Label stars and full dishwasher loads help cut bills.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Your body is an energy converter too.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One food calorie is about 4.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "2 kilojoules, and Australian labels use 8,700 kilojoules a day as a reference for an average adult, though needs vary.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Even at rest, your brain uses about a fifth of your energy.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Energy is the ability to do work, and it changes form without ever being created or destroyed.",
+   "t": "The key idea: Air has weight, and the atmosphere presses on everything, but we are not crushed because the pressure is balanced.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1156,13 +1138,13 @@
    "ps": false
   },
   {
-   "t": "Question four. What does the law of conservation of energy say?",
+   "t": "Question four. Why aren't we crushed by the weight of the atmosphere?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Energy changes form, but the total stays the same.",
+   "t": "Answer. Air pushes all ways and we push back.",
    "c": 4,
    "k": "a",
    "ps": false

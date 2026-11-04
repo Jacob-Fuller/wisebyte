@@ -1,11 +1,12 @@
 {
  "id": "s-mind-bending-maths-2",
- "h": "shuffled-deck-factorial,seven-bridges-networks,fair-division",
+ "h": "shuffled-deck-factorial,seven-bridges-networks,fair-division,fractals-coastlines",
  "title": "Mind-Bending Maths · Episode 2",
  "chapters": [
   "Every shuffle is history: the astonishing size of 52",
   "The seven bridges puzzle and the maths of networks",
-  "I cut, you choose: the maths of fair sharing"
+  "I cut, you choose: the maths of fair sharing",
+  "Fractals: the infinite detail of coastlines, ferns and clouds"
  ],
  "units": [
   {
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Every shuffle is history: the astonishing size of 52, The seven bridges puzzle and the maths of networks and I cut, you choose: the maths of fair sharing.",
+   "t": "In this episode: Every shuffle is history: the astonishing size of 52, The seven bridges puzzle and the maths of networks, I cut, you choose: the maths of fair sharing and Fractals: the infinite detail of coastlines, ferns and clouds.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -945,50 +946,362 @@
    "ps": true
   },
   {
-   "t": "Quick recall. Answer out loud, or just in your head.",
+   "t": "Part four. Fractals: the infinite detail of coastlines, ferns and clouds.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why does a pack of 52 cards have so many possible orders?",
+   "t": "How long is a coastline?",
    "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The honest answer is 'it depends on your ruler', and that puzzle opened the door to a whole new kind of geometry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The growing coastline.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Try measuring a rocky coastline on a map with dividers set to 100 kilometres.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You cut across bays and headlands and get one number.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Set the dividers to 10 kilometres and you follow more of the wiggles, so the total grows.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walk the shore with a one-metre ruler, tracing around every rock, and it grows again.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the mid twentieth century the English scientist Lewis Fry Richardson noticed this when comparing published lengths of coasts and borders, which often disagreed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1967 Benoit Mandelbrot built on this in a famous paper titled 'How Long Is the Coast of Britain?'",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His point was that for shapes like coastlines, length is not a fixed property.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It depends on the scale you measure at.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repeating shapes in nature.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A fern frond is made of smaller leaflets shaped much like the whole frond.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A floret of romanesco broccoli looks like a miniature of the whole head.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is self-similarity, and shapes with rough detail across many scales are called fractals, a word Mandelbrot coined in 1975 from the Latin fractus, meaning broken.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In nature the repetition is imperfect and limited, but it appears in river networks, trees, lightning and clouds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Branching solves practical problems.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your windpipe splits again and again, ending in hundreds of millions of tiny air sacs, packing tens of square metres of surface for oxygen into your chest.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blood vessels branch so almost every cell sits near a capillary.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The infinite snowflake.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1904 the Swedish mathematician Helge von Koch described a startling shape.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with an equilateral triangle.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the middle third of each side, add a smaller triangle pointing outwards, turning each side into four shorter pieces.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repeat on every piece, forever.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each round multiplies the outline's length by four thirds, so the edge grows without limit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the area settles at exactly eight fifths of the starting triangle's.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scale a line up by three and you get three copies; a square gives nine.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A Koch side gives four, so its dimension is the power of three that makes four: about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "26.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mandelbrot estimated about 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 for Britain's rugged west coast, while smoother coastlines came out closer to 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Mandelbrot set.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous fractal comes from a very short rule.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with zero.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Square it and add a fixed number, called c.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then take the result, square it and add c again, over and over.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For some values of c the numbers stay small forever.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For others they rush off towards infinity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The numbers involved are complex numbers, which can be plotted as points on a flat plane.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colour every point that stays small black, and you get the Mandelbrot set, named after Benoit Mandelbrot, who studied it using computers at IBM around 1980.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its boundary is endlessly intricate.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zoom in anywhere along the edge and you find spirals, seahorse shapes and tiny copies of the whole set.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fractals at work.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Computer graphics pioneers realised that repeatedly adding smaller random bumps to a shape produces convincing mountains, coastlines and clouds.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fractal techniques helped create a computer-generated planet surface for the 1982 film Star Trek II: The Wrath of Khan, and similar ideas still build landscapes in films and video games.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some mobile phone antennas use fractal-like shapes, which let a compact antenna work across a wide range of frequencies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists use fractal dimension to describe the roughness of surfaces, the branching of blood vessels in medical scans and the sprawl of growing cities.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mandelbrot himself applied fractal thinking to financial markets, arguing that prices are wilder and more prone to sudden jumps than standard models assume.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The more finely you measure a jagged coastline, the longer it gets.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does a pack of 52 cards have so many possible orders?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Choices shrink: 52, then 51, then 50 ….",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What was the Königsberg bridge puzzle?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Whether one walk could cross all seven bridges once.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. Why does ‘I cut, you choose’ encourage the cutter to be fair?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The cutter gets whichever piece is left.",
-   "c": 3,
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why does a coastline's measured length keep growing as the ruler gets shorter?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A shorter ruler follows more of the bays and wiggles.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

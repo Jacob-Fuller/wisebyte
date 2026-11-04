@@ -1,10 +1,11 @@
 {
  "id": "s-inventions-4",
- "h": "flight,shipping-container,australian-inventions",
+ "h": "flight,shipping-container,accidental-inventions,australian-inventions",
  "title": "Great Inventions · Episode 4",
  "chapters": [
   "The story of flight",
   "The shipping container: the box that changed the world",
+  "Happy accidents: inventions nobody planned",
   "Genuinely Australian inventions"
  ],
  "units": [
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: The story of flight, The shipping container: the box that changed the world and Genuinely Australian inventions.",
+   "t": "In this episode: The story of flight, The shipping container: the box that changed the world, Happy accidents: inventions nobody planned and Genuinely Australian inventions.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -531,326 +532,644 @@
    "ps": true
   },
   {
-   "t": "Part three. Genuinely Australian inventions.",
+   "t": "Part three. Happy accidents: inventions nobody planned.",
    "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some of the most useful things in your home began as mistakes, spills and puzzling surprises.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The trick was having someone there who noticed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prepared mind.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Louis Pasteur is said to have remarked that chance favours the prepared mind.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Invention is full of examples: a surprising result turns up, most people wipe it away, and someone with the right knowledge stops and asks why.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Accidental discovery is sometimes called serendipity, a word coined in 1754 by the English writer Horace Walpole, inspired by a fairy tale about three princes of Serendip, an old name for Sri Lanka, who kept making lucky finds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These stories have been retold many times and sometimes polished.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each still shows that a lucky moment needed skill and persistence to become useful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rubber and X-rays.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Natural rubber was frustrating: sticky and smelly in summer, cracked in winter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "American inventor Charles Goodyear experimented for years while sinking into debt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By his own account, around 1839 he let a rubber and sulphur mixture touch a hot stove.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It charred like leather but stayed flexible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was vulcanisation, named after Vulcan, the Roman god of fire.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heating rubber with sulphur links its long molecules together, making tyres and seals possible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Goodyear died in debt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In November 1895, German physicist Wilhelm Röntgen noticed a coated screen glowing near a cathode ray tube he had covered in black cardboard.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He called the unknown rays X. They passed through flesh but not bone, and one early image showed his wife's hand with her ring.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He won the first Nobel Prize in Physics in 1901.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Microwaves and Velcro.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Raytheon built magnetrons, devices that make microwaves for radar.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The story goes that engineer Percy Spencer noticed a chocolate bar in his pocket had melted near one, then aimed the beam at popcorn kernels, which popped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Microwaves make water molecules in food jiggle, and that motion becomes heat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raytheon patented the idea in 1945.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its first oven, the Radarange, was fridge-sized.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Affordable home models came in the late 1960s and 1970s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1941, Swiss engineer George de Mestral came back from an Alpine walk with burrs clinging to his trousers and dog.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under a microscope he saw tiny hooks catching loops of thread.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A strip of hooks and a strip of loops could make a fastener.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After years of work he patented Velcro, from velours, velvet, and crochet, hook.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Copying nature this way is called biomimicry.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A glue that didn't stick.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1968, Spencer Silver, a chemist at the American company 3M, was trying to make a very strong adhesive.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead he made a weak one.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It stuck to surfaces but peeled off cleanly and could be reused.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Silver found it interesting and spent years promoting it inside the company, but nobody could think of a product.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer came from his colleague Art Fry, who sang in a church choir and was annoyed that his paper bookmarks kept falling out of his hymn book.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He realised Silver's glue could make a bookmark that stayed put without damaging the pages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After testing and false starts, 3M launched Post-it Notes nationally in the United States in 1980.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A solution had waited years for the right problem.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Luck needs hard work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is tempting to think great inventions arrive in a flash, but every story here involved long, unglamorous work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Goodyear experimented for years before his stove moment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Röntgen spent weeks testing his rays before announcing anything.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "De Mestral took more than a decade to turn burrs into a product, and the Post-it took roughly twelve years from odd glue to shop shelves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each discovery also depended on someone who understood enough to see that a surprise mattered.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern research organisations try to leave room for this by giving scientists time to follow curious results.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson works in everyday life too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When something goes unexpectedly, ask what it might be telling you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Lucky accidents become inventions only when someone with knowledge notices the surprise and asks why.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Genuinely Australian inventions.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "From flight recorders to the tech inside Wi-Fi, some of the world's most useful ideas have Australian fingerprints.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here is what is truly ours, and what is shared.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The black box flight recorder.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1953 and 1954, a series of de Havilland Comet jet crashes left investigators puzzled.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "David Warren, a scientist at the Aeronautical Research Laboratories in Melbourne, realised that a recording of the crew's voices and instrument readings would help explain future crashes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "By 1958 he had a working prototype that stored hours of cockpit sound and flight data.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Simpler instrument-only recorders were being developed elsewhere, but Warren's combination of voices and data was new.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia became one of the first countries to require cockpit voice recorders, in the 1960s.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Despite the name, 'black boxes' are painted bright orange so they are easier to find.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ultrasound and the bionic ear.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Medical ultrasound builds pictures from sound echoes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Scottish doctor Ian Donald pioneered its use in pregnancy in the 1950s, but at the Ultrasonics Institute in Sydney, George Kossoff and David Robinson's team developed grey-scale imaging in the early 1970s.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Earlier scans showed mostly stark outlines; grey-scale revealed shades of soft tissue.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australian company Ausonics commercialised it, and it became standard worldwide.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A cochlear implant bypasses the damaged inner ear and stimulates the hearing nerve with electrical signals.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Single-channel implants already existed, so Graeme Clark didn't invent the idea.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "His Melbourne team's achievement was a multi-channel implant that conveyed speech far more clearly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The first patient, Rod Saunders, received one in 1978.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cochlear Limited commercialised it in the 1980s, and it has become one of the world's leading hearing implant makers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Spray-on skin.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Severe burns heal slowly, and large skin grafts can leave heavy scarring.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1990s in Perth, plastic surgeon Doctor Fiona Wood and scientist Marie Stoner developed a way to spray a patient's own skin cells onto a wound to help new skin grow.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Early versions grew the cells in a laboratory first.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The later ReCell device processes a small sample of healthy skin into a cell suspension during the operation itself.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wood led the burns team at Royal Perth Hospital that treated many survivors of the 2002 Bali bombings, and she was named Australian of the Year in 2005.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wi-Fi and Google Maps.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia didn't invent Wi-Fi outright.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the early 1990s a CSIRO team including radio astronomer John O'Sullivan tackled a stubborn problem: indoors, radio signals bounce off walls and the echoes smear fast data together.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Using mathematics from radio astronomy, they developed a way around it, with a US patent granted in 1996.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It became part of widely used Wi-Fi standards, 802.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "11a and 802.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "11g, and earned CSIRO hundreds of millions of dollars in licensing settlements.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Google Maps began as Where 2 Technologies, a Sydney start-up founded by Danish-born brothers Lars and Jens Rasmussen with Noel Gordon and Stephen Ma.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Google bought it in 2004 and launched Maps in 2005, with much early development done in Sydney.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When you read that something was 'invented in Australia', ask which part, and who else helped.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hills Hoist and plastic money.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1945 Lance Hill, in Adelaide, built a rotary clothesline with a winding crank to raise and lower it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Demand led him to start a business with his brother-in-law Harold Ling.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hill did not invent the rotary clothesline: earlier designs had been patented in Australia, including by Gilbert Toyne decades before.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "His success came from a sturdy, adjustable design and post-war mass production.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Soon after decimal currency arrived in 1966, forgers produced convincing fake $10 notes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Reserve Bank and CSIRO spent about two decades developing banknotes on polymer, a plastic film.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The first, a commemorative $10 note, was issued in 1988, and by 1996 Australia had a full set.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A clear window is very hard to copy, and the notes last several times longer than paper; dozens of countries now use polymer.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: David Warren's flight recorder was new because it captured cockpit voices as well as instrument data.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. What did George Cayley realise about how an aeroplane could work?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. A fixed wing can give lift while another part gives thrust.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What was the main problem with break bulk shipping?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Ships sat idle for days being unloaded.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What was new about David Warren's flight recorder?",
-   "c": 3,
+   "t": "Question three. Why do accidents lead to inventions only for some people?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Someone with the right knowledge asks why.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What was new about David Warren's flight recorder?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It also recorded cockpit voices.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

@@ -1,12 +1,12 @@
 {
  "id": "s-relationships-1",
- "h": "attachment,siblings-science,love-science,love-languages",
+ "h": "attachment,power-of-touch,siblings-science,love-science",
  "title": "Relationships · Episode 1",
  "chapters": [
   "Attachment styles",
+  "The power of touch",
   "Siblings: the longest relationship of your life",
-  "The science of love",
-  "Love languages: what the science says"
+  "The science of love"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Attachment styles, Siblings: the longest relationship of your life, The science of love and Love languages: what the science says.",
+   "t": "In this episode: Attachment styles, The power of touch, Siblings: the longest relationship of your life and The science of love.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -262,787 +262,805 @@
    "ps": true
   },
   {
-   "t": "Part two. Siblings: the longest relationship of your life.",
+   "t": "Part two. The power of touch.",
    "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your skin has nerve fibres that seem to exist mainly to register a caring stroke.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Touch is one of the first languages we learn, and one we never stop needing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first sense.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Touch is the first sense to develop in the womb, and for a newborn it is a primary way of experiencing the world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Being held, rocked and stroked helps regulate a baby's temperature, breathing and heart rate, and calms distress.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1950s Harry Harlow's infant rhesus monkeys clung to a soft cloth mother rather than a wire one that provided milk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The experiments are now considered cruel, but they helped overturn the idea that babies attach to carers simply because carers feed them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1978 in Bogotá, Colombia, paediatrician Edgar Rey Sanabria faced an incubator shortage and began having mothers hold premature babies skin-to-skin on their chests.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Called kangaroo mother care, it can improve survival, warmth, breathing, feeding and weight gain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Health Organization recommends it, and skin-to-skin contact is common in Australian hospitals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nerves made for caress.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skin is packed with sensors for pressure, vibration, temperature and pain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late twentieth century, Scandinavian researchers including Åke Vallbo and Håkan Olausson studied a slow-conducting nerve fibre in human hairy skin, such as the arm and back, called C-tactile afferents.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These respond most strongly to gentle stroking at roughly the speed of a caress, a few centimetres per second, and at about skin temperature.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They seem linked to the pleasant, emotional feeling of touch rather than to identifying textures or shapes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In one striking case, a patient who had lost the large nerve fibres that carry ordinary touch information could still faintly detect gentle stroking and report it as pleasant.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our bodies appear to have a dedicated channel for affectionate touch.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Touch speaks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2006 study led by psychologist Matthew Hertenstein, pairs of strangers sat either side of a barrier, unable to see each other.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One put an arm through, and the other tried to communicate specific emotions only by touching the forearm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Receivers identified anger, fear, disgust, love, gratitude and sympathy well above chance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each had a typical touch: love was often stroking, sympathy patting, gratitude shaking hands, and anger hitting or squeezing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brief touches can also shift behaviour.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1984 restaurant experiment by April Crusco and Christopher Wetzel, diners lightly touched on the hand or shoulder by a waitress tended to leave larger tips than those not touched.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hugs and health.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Touch from a trusted person can damp the body's stress response.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In experiments where women faced the threat of a mild electric shock in a brain scanner, holding their husband's hand reduced activity in threat-related brain regions, and the effect was stronger in happier marriages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2015 study led by psychologist Sheldon Cohen, around 400 healthy adults reported how often they were hugged, then were deliberately exposed to a common cold virus and monitored in quarantine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Those who received more frequent hugs and had more social support tended to have less severe symptoms if they got sick.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The study cannot prove hugs caused this, since huggers may differ in other ways, but it fits a wider pattern linking warm contact with health.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Culture, consent and need.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Norms around touch differ widely.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In an often-quoted informal 1960s study, psychologist Sidney Jourard counted café couples touching in an hour: very high in San Juan and Paris, very low in Florida and none in London.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was small, but later research also finds big differences between countries and relationships.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the culture, touch helps only when wanted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unwanted touch triggers stress, and people, including children, may decline a hug.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asking 'Do you want a hug?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "costs nothing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some people, especially those who live alone, older people and the isolated, go weeks without kind touch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Touch starvation' is an everyday phrase, not a diagnosis, but surveys link lack of touch with loneliness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Welcome hugs, holding hands, massage, sport, dancing, patting a pet or a hand on the chest can all help.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Touch develops first and is central to how babies bond, grow and survive, as kangaroo care shows.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Siblings: the longest relationship of your life.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Your brothers and sisters often share more years of your life than your parents, partner or children do.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here is what research says about rivalry, birth order myths, only children and why sibling bonds matter so much.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The longest relationship.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Who will be around for your whole life?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Parents usually die before us, and partners and friends tend to arrive later.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Siblings can share almost every chapter, from childhood bath times to retirement, often across seven or eight decades.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Siblings share parents, homes, family jokes and memories nobody else holds.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "They can be best friends, fierce rivals, or both on the same day.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Researchers have long focused on parents and partners, but interest in siblings is growing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "These relationships shape how we learn to share, fight, negotiate and love, and they often matter more in old age than people expect.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rivalry and training.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Sibling conflict is extremely common in childhood; studies of young siblings at home have recorded squabbles many times a day, often over parents' time and approval.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Lasting resentment seems to come less from conflict itself than from differential treatment: children believing a parent favours one of them.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "What matters most is often whether the difference seems fair.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Extra homework help for a younger child may be accepted, while unexplained favouritism lingers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Parents who explain their reasons and avoid comparisons can ease rivalry.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "For all the fighting, siblings give daily practice at sharing, standing up for yourself and making up.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Warm sibling bonds are linked with better emotional understanding, and a supportive sibling can buffer family stress.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ongoing bullying by a sibling is harmful, though, and shouldn't be dismissed as normal rivalry.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The birth order myth.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Popular wisdom says firstborns are bossy achievers, middle children are overlooked peacemakers, and youngest children are charming, rebellious and spoiled.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It is a satisfying story, and most of us can think of examples.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "But in large samples the effects mostly vanish.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A 2015 study by German psychologists Julia Rohrer, Boris Egloff and Stefan Schmukle used data from over twenty thousand people in Germany, the United States and the United Kingdom.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It found no meaningful birth order effects on traits such as extraversion, agreeableness or conscientiousness.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It did find a very small average advantage for firstborns on intelligence measures, far too small to matter for any individual.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The stereotypes persist because they make tidy stories, and we remember the examples that fit.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Why siblings differ.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many parents marvel at how different their children are, despite the same home and the same parents.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Siblings share, on average, about half of their genetic variation, so there is plenty of room for difference.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Research also points to the non-shared environment: experiences that differ between siblings, such as different friends, teachers, hobbies, illnesses or even different treatment by parents.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Scientists find that much of the environmental influence on personality comes from these, not from the family home as a whole.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A family is not one environment but several.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Each child arrives at a different time with a different temperament, and parents change over the years.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Siblings may also carve out different niches, one the sporty one and another the bookish one, to stand out.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Only children and adult siblings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Only children have long had a bad reputation.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the late nineteenth century the American psychologist G. Stanley Hall reportedly called being an only child a disease in itself.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Later research, including reviews by Toni Falbo, has generally found only children are much like others on personality, sociability and adjustment.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Differences are small, and some favour only children, such as slightly higher achievement.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "They gain social skills through cousins, friends and school.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In adulthood, sibling contact often drops as careers and families take over, yet many bonds warm again in midlife and old age.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Caring for ageing parents can bring siblings together, or reignite tensions over fairness and money.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some relationships do break down.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you have drifted from a sibling, a small step, like sharing an old photo, can reopen the door.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Siblings can share more of your life than parents, partners or friends, so the bond matters.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. The science of love.",
-   "c": 2,
+   "t": "Part four. The science of love.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Chemistry, psychology and a famous 36 questions.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "What researchers have learned about falling, and staying, in love.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Love on the brain.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a 2005 study, Helen Fisher, Arthur Aron and colleagues scanned people newly and intensely in love as they viewed photos of their beloved.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dopamine-rich regions, including the ventral tegmental area and parts of the caudate nucleus, became more active: the same reward circuitry that responds to food, winning money and some drugs.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "That helps explain the obsessive thinking, energy and craving of early love, and why rejection can feel like withdrawal.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Scans of recently rejected lovers also showed activity in reward and craving regions.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fisher proposed three systems: lust, driven by hormones like testosterone and oestrogen; attraction, linked to dopamine and focused on one person; and attachment, linked to oxytocin and vasopressin, which creates the calm bond that helps partners stay together.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "They can occur separately.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It's a useful model, not settled fact.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Who we fall for.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "We tend to fall for people we see often: classmates, coworkers, neighbours, teammates.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A 1950 study of MIT student housing by Leon Festinger and colleagues found friendships formed most often between people living closest together.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Repeated exposure increases liking, the mere-exposure effect.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "We favour people similar in values, background and interests; 'opposites attract' gets little research support.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "We also like people who like us back.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Looks matter most at first meetings and less as people get to know each other.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Closeness can be built, too.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1997, Arthur Aron's team had pairs of strangers spend 45 minutes taking turns through 36 increasingly personal questions, from light ones to memories, regrets and problems.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pairs felt much closer than those making small talk.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The aim was closeness, not romance, and it works for friendships too.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Culture, passion and time.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Some claim romantic love was invented by medieval European poets.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The evidence disagrees.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1992, William Jankowiak and Edward Fischer searched ethnographic records from 166 cultures and found clear evidence of romantic love in about 89 per cent, with most of the rest lacking enough information.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Love poems survive from ancient Egypt.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "What differs is how much weight love gets when choosing a partner: in some societies families lead matchmaking and love is expected to grow after marriage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Passionate love, the intense early longing, usually declines over the first few years.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Companionate love, a deep friendship of trust, affection and shared life, can keep growing, and many long-married couples report high satisfaction.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Robert Sternberg's 1986 triangular theory mixes intimacy, passion and commitment; consummate love combines all three.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Novelty and excitement.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Arthur Aron's self-expansion theory proposes that we're drawn to partners who broaden our lives, and that relationships feel most alive when they keep adding new experiences.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a 2000 study, couples who crossed a gym-mat obstacle course while strapped together at the wrist and ankle reported greater relationship satisfaction afterwards than couples given a mundane task.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A famous 1974 experiment by Donald Dutton and Aron, on a swaying suspension bridge in Canada, suggested people can partly mistake the arousal of fear or excitement for attraction.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The practical lesson: keep trying new things together, from a hike to a cooking class.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "What keeps couples together.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Psychologist John Gottman observed thousands of couples in his University of Washington 'love lab'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Stable couples responded to each other's 'bids' for attention, like a comment about a bird outside or a hand on the shoulder, far more often than couples who later split.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In one study of newlyweds, those still together six years later had turned towards bids about 86 per cent of the time, versus about 33 per cent for those who divorced.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Stable couples also kept around five positive interactions for every negative one during conflict.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Gottman identified contempt, such as eye-rolling and mockery, as the strongest predictor of breakups.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Everyday kindness matters more than grand gestures.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Early romantic love activates the brain's dopamine reward system, and Fisher proposed three overlapping systems: lust, attraction and attachment.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Love languages: what the science says.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Words, time, gifts, help or touch: millions of couples have sorted themselves into love languages.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Relationship scientists have now put the idea to the test.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Where it came from.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Gary Chapman, a Baptist pastor and marriage counsellor in North Carolina, noticed a pattern.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Partners often loved each other but felt unloved, because each expressed affection in a way the other did not register.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1992 he published The Five Love Languages, arguing that people give and receive love through different channels.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The book became one of the best-selling relationship books ever, with versions for parents, workplaces and teenagers.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Online quizzes let people find their primary language, and the terms have entered everyday speech.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The five are words of affirmation, quality time, receiving gifts, acts of service and physical touch.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Chapman's central claim is that each person has one or two primary languages, and that speaking your partner's is the key to them feeling loved.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Putting it to the test.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If Chapman were right, couples whose languages match should be noticeably more satisfied.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Studies have tested this and the results are underwhelming.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A 2017 study by Bunt and Hazelwood found that matching love languages did not predict relationship satisfaction, while partners' broader self-regulation did.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "People also often do not fit one primary language; many value all five quite highly.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Questionnaires force artificial choices, such as asking whether you would rather receive a hug or a compliment, when most people would happily take both.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Psychologists have also questioned whether five is the right number at all.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A balanced diet.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 2024 psychologists Emily Impett, Haeyoung Gideon Park and Amy Muise reviewed love languages against decades of relationship science.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They found three core assumptions lacked strong evidence: that people have a single primary love language, that there are exactly five, and that matched couples are happier.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rather than discarding the idea, they offered a different metaphor.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Love is less like a language you either speak or do not, and more like a balanced diet.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most people need affection, attention, support, appreciation and closeness in some mix, and that mix can change over a lifetime or even week to week.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A partner recovering from surgery may crave practical help; one facing a big exam may need encouragement.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What the idea gets right.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "None of this makes love languages useless.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The core insight, that people notice and value different gestures and that you should not simply give the love you would like to receive, is sound advice.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many couples find the vocabulary helps start conversations they might otherwise avoid, such as 'I feel closest to you when we spend time together, not when you buy me things.'",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The risk comes when the label becomes a rule or an excuse.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Someone says 'my language is gifts' and feels entitled to presents, or 'touch isn't my language' and dismisses a partner's need for affection.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Used as a conversation starter instead of a type, the idea can do good.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What really matters.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Relationship scientists point to patterns that matter more than categories.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One is perceived partner responsiveness, studied by Harry Reis and others: the sense that your partner understands you, values you and cares for your needs.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Another comes from John Gottman's research, which describes everyday 'bids' for connection, such as pointing out a bird outside or sighing about a hard day.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Couples who regularly turn towards these bids, responding with interest rather than ignoring them, tend to stay together and stay happier.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Expressing gratitude, sharing good news and celebrating each other's wins also predict closeness.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In short, happy couples pay attention to each other's changing needs and keep showing up, whatever form the love takes.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The key idea: Gary Chapman proposed in 1992 that people give and receive love in different ways, and couples flounder when they mismatch.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1066,7 +1084,19 @@
    "ps": false
   },
   {
-   "t": "Question two. Why are siblings often described as the longest relationship of a person's life?",
+   "t": "Question two. What did Harlow's monkey experiments help overturn?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The idea that babies bond with carers only for food.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why are siblings often described as the longest relationship of a person's life?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1078,25 +1108,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What does early romantic love activate in the brain?",
+   "t": "Question four. What does early romantic love activate in the brain?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The dopamine reward system, as with food or money.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What was Chapman's central claim about love languages?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Each person has one or two primary love languages.",
    "c": 4,
    "k": "a",
    "ps": false

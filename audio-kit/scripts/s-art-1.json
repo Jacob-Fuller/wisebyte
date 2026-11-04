@@ -1,12 +1,12 @@
 {
  "id": "s-art-1",
- "h": "cave-art,story-of-pigments,aboriginal-art,sistine-chapel-ceiling",
+ "h": "cave-art,story-of-pigments,aboriginal-art,bayeux-tapestry",
  "title": "Art History · Episode 1",
  "chapters": [
   "The first artists",
   "The colourful history of paint",
   "Aboriginal art",
-  "Michelangelo and the Sistine Chapel ceiling"
+  "The Bayeux Tapestry: 1066 in wool"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: The first artists, The colourful history of paint, Aboriginal art and Michelangelo and the Sistine Chapel ceiling.",
+   "t": "In this episode: The first artists, The colourful history of paint, Aboriginal art and The Bayeux Tapestry: 1066 in wool.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -826,265 +826,265 @@
    "ps": true
   },
   {
-   "t": "Part four. Michelangelo and the Sistine Chapel ceiling.",
+   "t": "Part four. The Bayeux Tapestry: 1066 in wool.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "A sculptor who didn't want the job spent four years painting a chapel ceiling twenty metres above the floor.",
+   "t": "A strip of linen nearly 70 metres long tells the story of the Norman conquest of England like a medieval comic strip.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "He didn't do it lying on his back, either.",
+   "t": "And technically, it isn't even a tapestry.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A reluctant painter.",
+   "t": "Not a tapestry.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1508, Michelangelo Buonarroti was in his early thirties and already famous for his marble David in Florence and his Pietà in Rome.",
+   "t": "A true tapestry has its picture woven into the cloth on a loom.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "He thought of himself first as a sculptor.",
+   "t": "The Bayeux Tapestry was made differently.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Pope Julius II, a forceful and warlike pope, had hired him to carve a grand tomb, but then turned to decorating the ceiling of the Sistine Chapel, built by his uncle, Pope Sixtus IV.",
+   "t": "Its images were stitched with coloured woollen yarn onto a long band of plain linen, which makes it an embroidery.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Michelangelo had little experience of fresco and accepted reluctantly.",
+   "t": "It is roughly 68 metres long but only about half a metre tall, made from several pieces of linen joined together.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The walls already held frescoes by leading painters such as Botticelli and Perugino.",
+   "t": "The embroiderers used a handful of colours, mainly reds, yellows, greens and blues, yet created hundreds of people, horses, ships, buildings and animals.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The ceiling, painted as a starry sky, was about to be transformed.",
+   "t": "Short Latin captions run above the scenes.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Painting on wet plaster.",
+   "t": "Read from left to right, it unfolds like a film reel, which is why it is often called the world's oldest comic strip.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Made by the conquered.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Fresco means fresh in Italian.",
+   "t": "No document records who ordered it, but most historians think it was Odo, Bishop of Bayeux and half-brother of William the Conqueror.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The painter applies pigments mixed with water onto wet lime plaster.",
+   "t": "Odo appears prominently in the scenes, and Bayeux Cathedral was consecrated in 1077, a likely occasion for such a gift.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "As the plaster dries, a chemical reaction locks the colour into the wall, making it extremely durable.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The catch is speed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Each day only as much plaster as could be painted before it set was laid.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These daily patches are called giornate, from the Italian for a day's work.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mistakes could not be painted over; the plaster had to be chipped away and redone.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Michelangelo's team transferred his designs to the plaster using full-size drawings called cartoons, either by pricking holes along the lines or by pressing them into the soft surface.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Standing, not lying down.",
+   "t": "Strangely for a French treasure, it was probably made in England.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A popular image shows Michelangelo lying on his back for years, paint dripping onto his face.",
+   "t": "The style of the drawings and some of the spelling in the captions suggest English craftspeople, possibly in Canterbury, which was famous for its needlework.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So the story of England's conquest may have been stitched by the conquered themselves, working for one of the new Norman rulers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The oath of Harold.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In reality, he designed a wooden scaffold that bridged the chapel just below the ceiling, leaving the floor free for services.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He and his assistants worked standing, heads tilted back and arms raised.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It was still punishing.",
+   "t": "The embroidery opens with the old king, Edward the Confessor, and his powerful nobleman Harold Godwinson.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Michelangelo wrote a comic poem, with a little sketch in the margin, complaining about his aching neck, bent back and the paint dripping onto his face.",
+   "t": "Harold sails to France, is captured, and ends up at the court of William, Duke of Normandy.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Nor did he work entirely alone, as another myth claims.",
+   "t": "He even joins William on a campaign in Brittany.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Assistants ground pigments, prepared plaster and helped with some painting, although he painted the great majority of the figures himself.",
+   "t": "Then comes the key scene: Harold swears an oath with his hands on holy relics.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The story overhead.",
+   "t": "The embroidery does not spell out the promise, but Norman sources claimed he swore to support William's claim to the English throne.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The ceiling is about 40 metres long and 13 metres wide, with more than 300 figures.",
+   "t": "When Edward died in January 1066 and Harold took the crown himself, the Normans could present him as an oath breaker.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tapestry tells the story from the winners' point of view.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comet and invasion.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Down the centre run nine scenes from Genesis, from God separating light from darkness to the story of Noah.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Around them sit huge prophets and sibyls, prophetesses from the classical world, and muscular nude youths called ignudi on painted architecture that only looks three-dimensional.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Michelangelo painted the scenes in reverse story order, starting near the entrance with Noah, and his figures grew larger as he went.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In The Creation of Adam, fingertips almost meet.",
+   "t": "Soon after Harold is crowned, people point up at a star with flaming tails.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Some writers say the shape around God resembles a brain, hidden by Michelangelo the anatomist, but there is no evidence he intended it.",
+   "t": "This is Halley's Comet, which really did appear in the spring of 1066 and was widely seen as an omen.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Judgment and restoration.",
+   "t": "The embroidery then shows something history books often skip: the logistics of invasion.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The ceiling was unveiled in 1512 and stunned everyone who saw it.",
+   "t": "Trees are felled, ships are built, and men carry armour, swords, spears and barrels of wine down to the boats.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Horses are loaded and the fleet crosses the Channel.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once landed, the Normans build a fort and cook a feast.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These everyday scenes are priceless to historians, offering rare pictures of eleventh century clothing, weapons, tools, ships and food.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hastings and survival.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "More than two decades later, Michelangelo painted The Last Judgment across the wall behind the altar, working from 1536 to 1541.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Christ raises the saved while the damned tumble towards hell.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some church officials were scandalised by the nudity, and after his death Daniele da Volterra was hired to paint drapery over figures, earning the nickname Il Braghettone, the breeches maker.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For centuries, candle and incense smoke and old varnish darkened the ceiling.",
+   "t": "Norman cavalry charge English soldiers in a shield wall on a hill.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A Vatican restoration from 1980 to 1994 revealed vivid pinks, greens, oranges and blues.",
+   "t": "At one point William lifts his helmet to show he is still alive.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It was controversial, with some critics arguing that final touches were lost.",
+   "t": "Then comes Harold's death, though historians still debate which figure is Harold, and some think the arrow in the eye was altered in nineteenth century restoration.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The chapel still hosts the conclave that elects a pope.",
+   "t": "The final section is missing.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: Pope Julius II hired Michelangelo, who saw himself as a sculptor, to paint the Sistine Chapel ceiling in 1508.",
+   "t": "The first written record is an inventory of 1476, when it hung in Bayeux Cathedral.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the French Revolution it was nearly cut up to cover wagons, until a local official saved it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Napoleon displayed it while planning his own invasion of England.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1944 it was moved to the Louvre for safekeeping.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its home is Bayeux, but in 2026 it was lent to the British Museum in London while its Bayeux museum is rebuilt.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Bayeux Tapestry is actually an embroidery: coloured wool stitched onto linen, not woven on a loom.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1132,13 +1132,13 @@
    "ps": false
   },
   {
-   "t": "Question four. How did Michelangelo see himself when he accepted the commission?",
+   "t": "Question four. Why is the Bayeux Tapestry technically not a tapestry?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. First of all as a sculptor, new to fresco.",
+   "t": "Answer. It is embroidered with wool on linen, not woven.",
    "c": 4,
    "k": "a",
    "ps": false

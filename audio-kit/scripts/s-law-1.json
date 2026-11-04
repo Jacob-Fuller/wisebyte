@@ -1,12 +1,12 @@
 {
  "id": "s-law-1",
- "h": "legal-system-au,common-law-civil-law,trial-by-jury,constitution-au",
+ "h": "legal-system-au,common-law-civil-law,trial-by-jury,habeas-corpus",
  "title": "Law & Your Rights · Episode 1",
  "chapters": [
   "How Australian law works",
   "Common law and civil law: the world's two great legal families",
   "Trial by jury: twelve ordinary people",
-  "The Australian Constitution"
+  "Habeas corpus: the right not to simply vanish"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: How Australian law works, Common law and civil law: the world's two great legal families, Trial by jury: twelve ordinary people and The Australian Constitution.",
+   "t": "In this episode: How Australian law works, Common law and civil law: the world's two great legal families, Trial by jury: twelve ordinary people and Habeas corpus: the right not to simply vanish.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -862,271 +862,271 @@
    "ps": true
   },
   {
-   "t": "Part four. The Australian Constitution.",
+   "t": "Part four. Habeas corpus: the right not to simply vanish.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "A document written by colonial delegates in the 1890s still decides who can make which laws, and only the voters can change it.",
+   "t": "Two Latin words protect you from being locked away without reason.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Six colonies, one nation.",
+   "t": "They have stood up to kings, slave owners and presidents.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Produce the body.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Before 1901, Australia was six British colonies with their own parliaments, tariffs and even railway gauges.",
+   "t": "Habeas corpus is Latin for 'you shall have the body'.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Through the 1890s, delegates met at conventions to draft a federal constitution.",
+   "t": "It is the name of a writ, a formal court order, directed at whoever is holding a prisoner, whether a jailer, a soldier or a government official.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Unusually for the time, voters approved it at colonial referendums, and the British Parliament passed it as the Commonwealth of Australia Constitution Act 1900.",
+   "t": "The writ commands them to bring the person before the court and show a lawful reason for the detention.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Commonwealth began on 1 January 1901.",
+   "t": "If they cannot, the judge can order the prisoner released.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Constitution is short, around 128 sections, and freely available online.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Federation meant dividing power.",
+   "t": "It does not decide whether someone is guilty.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Section 51 lists about 40 subjects for Commonwealth laws, including defence, taxation, trade between states, marriage, immigration, currency and postal services.",
+   "t": "It asks a more basic question: is there any legal authority to hold this person at all?",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Everything unlisted stays with the states, which run police, schools, hospitals and most criminal law.",
+   "t": "That makes it a check on power itself.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "If a valid Commonwealth law conflicts with a state law, section 109 makes the state law invalid to the extent of the inconsistency.",
+   "t": "Without it, a government could make people disappear into cells with no charge, no trial and no end date.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "How it's built.",
+   "t": "Forged by conflict.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Constitution is organised into chapters.",
+   "t": "Versions of the writ existed in English courts by the 1200s, at first mostly to bring people to court.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Chapter I creates the Parliament: the King, represented by the Governor-General, the Senate and the House of Representatives.",
+   "t": "Judges later used it to test whether detentions were lawful, drawing strength from Magna Carta of 1215: no free man to be imprisoned except by the lawful judgment of his peers or the law of the land.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Chapter II covers the executive government, which puts laws into action.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Chapter III establishes the High Court and other federal courts.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia is a constitutional monarchy and a parliamentary democracy.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Senate gives each original state the same number of senators regardless of population, 12 each since 1984, protecting smaller states.",
+   "t": "In 1627 Charles I jailed knights who refused a forced loan demanded without Parliament's consent.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The House of Representatives is based on population, and the party or coalition that controls it forms government.",
+   "t": "The jailer's only answer was that they were held by the king's special command, and the court refused to release them.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Power drifts to Canberra.",
+   "t": "Outrage helped produce the Petition of Right in 1628, declaring such imprisonment unlawful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1679 Parliament passed the Habeas Corpus Act, setting deadlines and penalties to stop officials dodging the writ.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "James Somerset's freedom.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The founders expected the states to stay powerful, but the balance has shifted.",
+   "t": "In 1772 the writ was used in a dramatic case.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the Engineers' Case of 1920, the High Court began reading Commonwealth powers broadly.",
+   "t": "James Somerset had been enslaved in Virginia and brought to England by Charles Stewart, a customs official.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "During World War II, the Commonwealth took over income tax, the High Court upheld the scheme, and that is why income tax is now collected federally.",
+   "t": "Somerset escaped, was recaptured and was put aboard a ship bound for Jamaica, where he would be sold.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Section 96 lets the Commonwealth give states money on conditions, so it can shape areas like schools and hospitals that it doesn't directly control.",
+   "t": "Supporters, including the campaigner Granville Sharp, sought habeas corpus.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The gap between who raises the money and who spends it is called vertical fiscal imbalance, and it drives constant federal and state negotiation.",
+   "t": "Lord Mansfield, the senior judge of the King's Bench, ruled that no law in England allowed a master to force Somerset out of the country, and Somerset was freed.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Separate powers.",
+   "t": "The decision did not abolish slavery, which continued in British colonies for decades.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it was widely celebrated and became a landmark in the long struggle against slavery.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suspending the writ.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Constitution separates three arms of government: the legislature makes laws, the executive carries them out, and the judiciary interprets and applies them.",
+   "t": "Because habeas corpus limits government power, governments under pressure have sometimes tried to switch it off.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In Australia, the legislature and executive are closely linked, because ministers must sit in parliament and answer to it.",
+   "t": "Britain's Parliament suspended it several times, for example in the 1790s amid fears of revolution spreading from France.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This is called responsible government.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The separation of judicial power is much stricter.",
+   "t": "The framers of the United States Constitution included the writ but allowed suspension only in cases of rebellion or invasion when public safety required it.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the Boilermakers' Case, 1956, the High Court held that federal courts can exercise only judicial power, and bodies that aren't courts can't exercise it.",
+   "t": "In 1861, at the start of the Civil War, President Abraham Lincoln suspended it in some areas.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This protects judges' independence, so courts can rule against the government of the day without fear.",
+   "t": "Chief Justice Roger Taney argued in the Merryman case that only Congress had that power, and Lincoln largely ignored him.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Changing it, and your rights.",
+   "t": "Congress later authorised suspension.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lawyers and historians still debate how far emergencies justify setting aside this ancient safeguard.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The writ today.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Under section 128, the Constitution changes only by referendum.",
+   "t": "English colonists carried habeas corpus around the world.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A change needs a double majority: a majority of voters nationally and a majority in at least four of the six states.",
+   "t": "It remains part of the law in countries including Australia, New Zealand, Canada, India and the United States.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Only eight of 45 proposals since 1901 have succeeded.",
+   "t": "In Australia, superior courts such as the state Supreme Courts and the High Court can issue it.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1967, over 90 per cent voted to let the Commonwealth make laws for Aboriginal people and count them in the population; the 1999 republic and 2023 Voice proposals failed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "There is no national bill of rights.",
+   "t": "In practice, many detentions are now reviewed through other routes, such as bail hearings, appeals and judicial review, so the old writ is used less often than its fame suggests.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Constitution has few express rights, such as jury trial for serious Commonwealth offences and 'just terms' for acquired property.",
+   "t": "But it still matters most when other protections fail.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1992 the High Court found an implied freedom of political communication, not a general free speech right.",
+   "t": "It has been invoked over immigration detention, mental health detention and wartime imprisonment.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most protections come from ordinary laws, which parliament can change.",
+   "t": "Its message endures: power must always answer one question in court.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Read the official Yes and No cases before voting.",
+   "t": "By what lawful authority is this person being held?",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This is general information only.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The Constitution united six colonies in 1901 and divides law-making power between the Commonwealth and the states.",
+   "t": "The key idea: Habeas corpus is a court order demanding that a jailer justify why a person is being held.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1174,13 +1174,13 @@
    "ps": false
   },
   {
-   "t": "Question four. What happens to a state law that conflicts with a valid Commonwealth law?",
+   "t": "Question four. What question does habeas corpus force a jailer to answer?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The state law is invalid to the extent of the inconsistency.",
+   "t": "Answer. What lawful authority justifies the detention.",
    "c": 4,
    "k": "a",
    "ps": false

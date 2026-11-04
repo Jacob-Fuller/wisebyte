@@ -1,11 +1,12 @@
 {
  "id": "s-mind-bending-maths-3",
- "h": "fractals-coastlines,chaos-butterfly-effect,benfords-law",
+ "h": "geometry-in-nature,chaos-butterfly-effect,benfords-law,ramanujan",
  "title": "Mind-Bending Maths · Episode 3",
  "chapters": [
-  "Fractals: the infinite detail of coastlines, ferns and clouds",
+  "Nature's geometry: hexagons, spirals and bubbles",
   "Chaos and the butterfly effect",
-  "Benford's law: why so many numbers start with 1"
+  "Benford's law: why so many numbers start with 1",
+  "Ramanujan: the clerk who wrote to Cambridge"
  ],
  "units": [
   {
@@ -15,307 +16,289 @@
    "ps": false
   },
   {
-   "t": "In this episode: Fractals: the infinite detail of coastlines, ferns and clouds, Chaos and the butterfly effect and Benford's law: why so many numbers start with 1.",
+   "t": "In this episode: Nature's geometry: hexagons, spirals and bubbles, Chaos and the butterfly effect, Benford's law: why so many numbers start with 1 and Ramanujan: the clerk who wrote to Cambridge.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Fractals: the infinite detail of coastlines, ferns and clouds.",
+   "t": "Part one. Nature's geometry: hexagons, spirals and bubbles.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "How long is a coastline?",
+   "t": "Bees build hexagons, sunflowers count in Fibonacci numbers and soap bubbles solve maths problems in an instant.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The honest answer is 'it depends on your ruler', and that puzzle opened the door to a whole new kind of geometry.",
+   "t": "Nature is full of geometry, and there are good reasons why.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The growing coastline.",
+   "t": "The bee's hexagon.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Try measuring a rocky coastline on a map with dividers set to 100 kilometres.",
+   "t": "Honeycomb is made of near-perfect hexagons.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "You cut across bays and headlands and get one number.",
+   "t": "Only three regular shapes fit together on a flat surface with no gaps: triangles, squares and hexagons.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Set the dividers to 10 kilometres and you follow more of the wiggles, so the total grows.",
+   "t": "Of these, hexagons enclose a given area with the shortest total wall.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Walk the shore with a one-metre ruler, tracing around every rock, and it grows again.",
+   "t": "For cells of equal area, a square needs about 7.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the mid twentieth century the English scientist Lewis Fry Richardson noticed this when comparing published lengths of coasts and borders, which often disagreed.",
+   "t": "5 per cent more perimeter than a hexagon, and a triangle about 22 per cent more.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1967 Benoit Mandelbrot built on this in a famous paper titled 'How Long Is the Coast of Britain?'",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His point was that for shapes like coastlines, length is not a fixed property.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It depends on the scale you measure at.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Repeating shapes in nature.",
+   "t": "Bees must eat honey to make wax, so saving wax saves energy.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A fern frond is made of smaller leaflets shaped much like the whole frond.",
+   "t": "Around 300 CE Pappus of Alexandria praised bees for their geometric wisdom.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The stronger claim, that hexagons beat every possible way of dividing a flat surface into equal areas, was only proved in 1999, by the mathematician Thomas Hales.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is known as the honeycomb conjecture.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunflower spirals.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A floret of romanesco broccoli looks like a miniature of the whole head.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is self-similarity, and shapes with rough detail across many scales are called fractals, a word Mandelbrot coined in 1975 from the Latin fractus, meaning broken.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In nature the repetition is imperfect and limited, but it appears in river networks, trees, lightning and clouds.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Branching solves practical problems.",
+   "t": "Look closely at a large sunflower and you will see seeds in two sets of spirals, one clockwise and one anticlockwise.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Your windpipe splits again and again, ending in hundreds of millions of tiny air sacs, packing tens of square metres of surface for oxygen into your chest.",
+   "t": "Count them and you often get neighbouring Fibonacci numbers, such as 34 and 55, or 55 and 89.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Blood vessels branch so almost every cell sits near a capillary.",
+   "t": "Pinecones, pineapples and daisy centres show smaller pairs, like 8 and 13.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The infinite snowflake.",
+   "t": "The pattern is common rather than universal.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1904 the Swedish mathematician Helge von Koch described a startling shape.",
+   "t": "A large citizen science project published in 2016, inspired by Alan Turing's interest in sunflowers, counted the spirals on hundreds of seed heads.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A sizeable minority did not fit simple Fibonacci patterns.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nature leans strongly towards these numbers, but it is not an unbreakable rule.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The golden angle.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Start with an equilateral triangle.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "On the middle third of each side, add a smaller triangle pointing outwards, turning each side into four shorter pieces.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Repeat on every piece, forever.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Each round multiplies the outline's length by four thirds, so the edge grows without limit.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Yet the area settles at exactly eight fifths of the starting triangle's.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Scale a line up by three and you get three copies; a square gives nine.",
+   "t": "A sunflower head grows from the centre, adding seeds one at a time, each at a fixed angle from the one before.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A Koch side gives four, so its dimension is the power of three that makes four: about 1.",
+   "t": "If that angle were a simple fraction of a turn, such as a quarter, seeds would line up in four straight spokes with big gaps between them.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "26.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mandelbrot estimated about 1.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "25 for Britain's rugged west coast, while smoother coastlines came out closer to 1.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Mandelbrot set.",
+   "t": "The angle that best avoids lining up is about 137.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The most famous fractal comes from a very short rule.",
+   "t": "5 degrees, called the golden angle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is linked to the golden ratio, the number that resists approximation by simple fractions more than any other.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With it, seeds fill the head evenly and pack in as many as possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The spirals we see, and their Fibonacci counts, are a side effect of that efficient packing, and computer models reproduce them from this one rule.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bubbles solve problems.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Start with zero.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Square it and add a fixed number, called c.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Then take the result, square it and add c again, over and over.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For some values of c the numbers stay small forever.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For others they rush off towards infinity.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The numbers involved are complex numbers, which can be plotted as points on a flat plane.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Colour every point that stays small black, and you get the Mandelbrot set, named after Benoit Mandelbrot, who studied it using computers at IBM around 1980.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its boundary is endlessly intricate.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Zoom in anywhere along the edge and you find spirals, seahorse shapes and tiny copies of the whole set.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fractals at work.",
+   "t": "Blow a single soap bubble and it becomes a sphere.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Computer graphics pioneers realised that repeatedly adding smaller random bumps to a shape produces convincing mountains, coastlines and clouds.",
+   "t": "For any amount of air, a sphere has the smallest possible surface, and surface tension pulls the soap film as tight as it can go.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When bubbles cluster in a foam, they follow rules set out by the Belgian physicist Joseph Plateau in 1873.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Fractal techniques helped create a computer-generated planet surface for the 1982 film Star Trek II: The Wrath of Khan, and similar ideas still build landscapes in films and video games.",
+   "t": "Soap films always meet in threes, at equal angles of 120 degrees, and the edges where films meet always come together in fours, at about 109.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Some mobile phone antennas use fractal-like shapes, which let a compact antenna work across a wide range of frequencies.",
+   "t": "5 degrees.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scientists use fractal dimension to describe the roughness of surfaces, the branching of blood vessels in medical scans and the sprawl of growing cities.",
+   "t": "Dip a wire frame into soapy water and the film often forms the smallest surface spanning it, instantly solving a problem that can take pages of calculation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The architect Frei Otto used soap film models to design light, curving roofs.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Mandelbrot himself applied fractal thinking to financial markets, arguing that prices are wilder and more prone to sudden jumps than standard models assume.",
+   "t": "Spirals, size and stone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A snail or nautilus cannot remodel its shell, so it adds material at the open end and each turn is a scaled-up copy of the last.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The result is close to a logarithmic spiral, which keeps its shape however far you zoom.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: The more finely you measure a jagged coastline, the longer it gets.",
+   "t": "Jacob Bernoulli called it the 'marvellous spiral' and asked for it on his gravestone, though the mason carved the wrong kind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Claims that the nautilus follows the golden ratio do not survive careful measurement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Geometry also limits size.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Double an ant's length, width and height and its leg strength rises four times, but its weight rises eight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galileo described this square-cube law in 1638, which is why elephants have stout legs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slowly cooling lava cracks at angles near 120 degrees into columns, as at the Giant's Causeway and Organ Pipes National Park near Melbourne.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hexagons enclose a given area with the least wall, so bees save wax by building them.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -927,50 +910,350 @@
    "ps": true
   },
   {
-   "t": "Quick recall. Answer out loud, or just in your head.",
+   "t": "Part four. Ramanujan: the clerk who wrote to Cambridge.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why does a coastline's measured length keep growing as the ruler gets shorter?",
+   "t": "A largely self-taught clerk in Madras posted pages of strange formulas to a famous English mathematician.",
    "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were so astonishing that they changed both men's lives.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A borrowed book.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Srinivasa Ramanujan was born on 22 December 1887 in Erode, in southern India, and grew up in Kumbakonam.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As a teenager he found a book by George Shoobridge Carr, a summary of several thousand mathematical results, mostly given without proofs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He worked through it alone, filling notebooks with his own discoveries.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His obsession had a cost.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He won a college scholarship but neglected his other subjects, failed his exams and lost it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For several years he lived in poverty, working with little guidance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eventually supporters who recognised his talent helped him find a job as a clerk at the Madras Port Trust in 1912, giving him a small wage and time to keep working.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The letter to Cambridge.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In January 1913 Ramanujan wrote to Godfrey Harold Hardy, a leading mathematician at Trinity College, Cambridge, enclosing pages of formulas, many about infinite series, without proof.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hardy got many letters from cranks and was tempted to dismiss it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But he and John Littlewood realised the pages were remarkable: some results known, a few wrong, many new and astonishing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hardy said some must be true, because no one would have had the imagination to invent them otherwise.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ramanujan sailed for England in 1914.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hardy insisted on rigorous proofs, while Ramanujan reached results by intuition, saying some came from his family goddess Namagiri.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wartime Cambridge was hard for a strict vegetarian far from home, yet in 1918 he became a Fellow of the Royal Society, one of the first Indians so honoured.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The taxicab number.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous story comes from Hardy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Visiting his friend in hospital, Hardy remarked that he had arrived in taxi number 1729, which seemed a rather dull number.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ramanujan replied that, on the contrary, it was very interesting.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is the smallest number that can be written as the sum of two cubes in two different ways.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check it: 1 cubed plus 12 cubed is 1 plus 1,728, which is 1,729.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And 9 cubed plus 10 cubed is 729 plus 1,000, which is also 1,729.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Numbers with this property are now called taxicab numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The story captures something real about Ramanujan, who knew individual numbers like old friends.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Breaking numbers into pieces.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One of their greatest achievements concerns partitions, the ways to write a whole number as a sum of positive whole numbers.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The number 4 has five: 4, 3 plus 1, 2 plus 2, 2 plus 1+1 and 1 plus 1+1 plus 1.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Counts explode as numbers grow.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The number 200 has 3,972,999,029,388, a figure Percy MacMahon worked out painstakingly by hand.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hardy and Ramanujan found a formula that estimated such values with astonishing accuracy, later refined into an exact formula.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ramanujan also spotted hidden patterns.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The partition counts of 4, 9, 14, 19, 24 and so on, every fifth number, are always divisible by 5.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those counts begin 5, 30, 135, 490 and 1,575.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A short life, long legacy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 1917 Ramanujan was seriously ill.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The cause is still debated; tuberculosis and a liver infection, amoebiasis, have both been suggested.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He returned to India in 1919, still working on ‘mock theta functions’, and died on 26 April 1920, aged 32.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1976 George Andrews found a bundle of later papers, the ‘lost notebook’, in Trinity's library.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers spent decades proving its results, and some ideas have found uses in modern physics.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His 1914 formulas for pi later helped computers calculate millions of digits.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "India celebrates 22 December as National Mathematics Day.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His story is also a warning: he was found partly by luck, through supporters and one letter that reached the right reader.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hardy wondered how much more he might have achieved with an earlier, fuller education.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ramanujan taught himself mathematics from a book of results with few proofs, at the cost of his formal education.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do bees build hexagonal cells?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. A shorter ruler follows more of the bays and wiggles.",
-   "c": 3,
+   "t": "Answer. They need the least wall, which saves wax.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What did Laplace's imaginary intellect illustrate?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Perfect data would make the future knowable.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. What did the worn pages in the logarithm books suggest?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Numbers starting with 1 were looked up far more often.",
-   "c": 3,
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What did Ramanujan's obsession with mathematics cost him?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. His formal education.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

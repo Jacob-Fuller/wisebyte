@@ -133,7 +133,7 @@ WB.L("optical-illusions", "psychology", "beginner", "Why optical illusions fool 
     [1, "What explains why 'the dress' looked different to different people?", ["Colour blindness in some viewers","The photo had been digitally altered","Differences between screens only","Different assumptions about the lighting"], 3, "Colour constancy means the brain corrects for assumed lighting, and people assumed different light."],
     [2, "What is true of the moon near the horizon?", ["Its image is about the same size as when high","Its image is clearly larger on your retina","It really is much closer","The atmosphere magnifies it greatly"], 0, "Photographs show the same size; the apparent enlargement happens in the brain."],
     [3, "What does the Rubin vase show about perception?", ["Faces are harder to see than objects","The brain picks one reading, then may switch","Colours shift as your focus changes","Memory improves with repeated practice"], 1, "The retinal image stays fixed while interpretation flips, so perception is an active process."],
-    [4, "What does the McGurk effect show?", ["Hearing improves with eyes closed","Music changes mood","Loud noises distort vision","What you see changes what you hear"], 3, "Senses combine, so one can reshape another, a reminder that certainty isn't accuracy."]
+    [4, "Why don't you notice the blind spot in each eye?", ["It is too small to affect what you see","It only appears in very dim light","Constant blinking hides it from view","The brain fills the gap from what's around it"], 3, "The brain quietly fills the hole with the surrounding pattern, a reminder that seeing is not proof."]
   ],
   {"added":"2026-09-25","push":"There's a hole in your vision right now. Your brain just hides it from you."});
 

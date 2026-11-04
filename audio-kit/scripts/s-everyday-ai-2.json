@@ -1,0 +1,990 @@
+{
+ "id": "s-everyday-ai-2",
+ "h": "robot-origins,moravecs-paradox,self-driving-cars",
+ "title": "AI in Everyday Life · Episode 2",
+ "chapters": [
+  "Where the word 'robot' came from",
+  "Why robots find easy things hard",
+  "Self-driving cars: the long road"
+ ],
+ "units": [
+  {
+   "t": "AI in Everyday Life. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Where the word 'robot' came from, Why robots find easy things hard and Self-driving cars: the long road.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Where the word 'robot' came from.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The word 'robot' is barely a century old.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was born in a Czech play about manufactured workers who rise up against their makers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A play from Prague.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1920 the Czech writer Karel Čapek published R.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "U.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "R.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": ", short for Rossum's Universal Robots.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It premiered in Prague in January 1921 and soon played in New York, London and beyond, carrying a new word into dozens of languages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The play is set in a factory on a remote island that mass-produces cheap, tireless, obedient artificial workers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Humans grow idle, the robots rebel, and almost all of humanity is wiped out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Čapek credited his brother Josef with the word.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Karel had considered 'labori', from Latin, but found it too bookish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Josef suggested 'roboti', from the Czech 'robota', meaning drudgery or forced labour, historically the unpaid work serfs owed their landlords.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name hinted at exploitation from the start.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not metal at all.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you picture R.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "U.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "R.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "s robots as clanking metal figures, you are picturing a later idea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Čapek's robots were assembled from an artificial organic material, a kind of synthetic protoplasm, mixed in vats and shaped into bodies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They looked almost human and were built in factories like any other product.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In modern terms they resemble biological androids more than mechanical machines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The metal man came mostly from later films, magazine covers and toys of the 1920s and 1930s, such as the gleaming robot in Fritz Lang's 1927 film Metropolis.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over time, 'robot' came to mean any machine that senses, decides and acts in the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older dreams of automata.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The dream is ancient.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greek myths described bronze guardians like Talos, said to patrol the island of Crete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the first century AD, Hero of Alexandria wrote about devices driven by water, air and weights, including self-opening temple doors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1206 the engineer Ismail al-Jazari, working in what is now Turkey, described water-powered automata, including a band of mechanical musicians.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In eighteenth century Switzerland, Pierre Jaquet-Droz and his collaborators built 'The Writer', a doll-sized boy who dips a quill in ink and writes a programmable message.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It still works and is displayed in a museum in Neuchâtel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These were marvels of clockwork, though none could sense or respond to the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asimov's three laws.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1940s the American writer Isaac Asimov grew tired of stories where robots always turned on their creators.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In his 1942 story 'Runaround' he set out the Three Laws of Robotics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A robot must not harm a human or, through inaction, allow one to come to harm.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It must obey human orders unless that conflicts with the first law.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And it must protect itself unless that conflicts with the first two.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asimov also coined the word 'robotics'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many of his best stories are about the laws failing in unexpected ways, an early insight into how hard it is to turn values into rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real robots, old questions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real robots arrived in factories, not living rooms.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1961 the Unimate, built from George Devol's patented programmable arm and promoted by Joseph Engelberger, began work at a General Motors plant in New Jersey, lifting and stacking hot die-cast metal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was just a heavy arm bolted to the floor, but it could be reprogrammed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today millions of industrial robots weld, paint, pack and assemble, mostly in controlled environments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Čapek's themes remain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What happens when machines do the work?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who profits?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Could created beings deserve rights?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many researchers think the robot-uprising template distorts public thinking, since real AI risks are more often errors, bias, misuse and economic disruption.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technology is also about the people who build and own it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The word 'robot' comes from the Czech 'robota', meaning forced labour, and first appeared in Karel Čapek's 1920 play R.U.R.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Why robots find easy things hard.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Computers beat world champions at chess decades ago, yet folding a towel can still defeat a robot.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This puzzle, Moravec's paradox, reveals something surprising about our own brains.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The towel problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A computer beat the world chess champion back in 1997.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Software can now solve tricky maths problems and write passable essays.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet ask a robot to fold a basket of laundry, and you are in for a long wait.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Towels flop, shirts tangle and socks hide inside sleeves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Robots are improving, but they remain slow and easily confused.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tidying a messy room or picking strawberries without bruising them is just as hard, though a child can learn both.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1980s, the robotics researcher Hans Moravec and others noticed this upside-down pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Logic puzzles, algebra and board games were comparatively easy for computers, but a one-year-old's skills in seeing, moving and handling objects were extremely hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Steven Pinker later summed it up: the hard problems turned out to be easy, and the easy problems hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evolution's head start.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moravec's explanation was evolutionary.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Animals have been seeing, balancing, grasping and moving through the world for hundreds of millions of years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Natural selection has had enormous time to refine these abilities, and huge parts of our brains are devoted to them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because this machinery is so polished, it runs without our noticing, so it feels effortless.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Abstract reasoning, like long division or planning a chess move, is a much more recent trick in evolutionary terms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We find it hard precisely because our brains aren't built for it, so we have to do it slowly and consciously.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Computers don't share our evolutionary history, so what is easy and hard for them looks very different.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Messy reality.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A chessboard has 64 squares and a fixed set of rules.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The real world has neither.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A robot picking up a coffee mug must cope with different shapes, sizes, weights and colours, slippery handles, odd lighting, reflections and mugs that are half full.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its sensors are imperfect, and its motors don't move precisely as commanded.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fabrics, food, cables and plants change shape when touched.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every small error compounds: grip slightly off, and the mug slips.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humans cope through constant fine adjustment, using touch, sight and balance together without thinking.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Giving robots a sense of touch anywhere near as rich as our fingertips, which pack in thousands of sensitive nerve endings, remains a major engineering challenge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The data problem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern AI made its great leaps in language and images partly because the internet offered mountains of text and pictures to learn from.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is no equivalent internet of robot movements.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Collecting data on how to grasp, fold or pour usually means running real robots in real rooms, which is slow, expensive and occasionally breaks things.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers try several workarounds.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They train robots in computer simulations, where thousands of virtual attempts run in parallel, though skills learned there don't always transfer neatly to the real world.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They record humans demonstrating tasks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And labs increasingly pool data from many different robots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether these approaches can close the gap is one of the biggest open questions in robotics today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where robots shine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Robots are superb in the right setting.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Car factories use robot arms for welding and painting because every car arrives in the same position.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is a world leader in automated mining, with driverless haul trucks and trains in the Pilbara.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Robots also take on dangerous, dirty or dull jobs, from bomb disposal to inspecting pipes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trick is usually to make the world simpler for the robot, rather than the robot cleverer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The paradox also hints that automation is more complicated than assumed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drafting text, summarising documents and crunching numbers suit computers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plumbers, electricians, aged care workers, chefs and gardeners rely on dexterity and judgement in unpredictable spaces, which remain hard for machines.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No job is permanently safe, and predictions have often been wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Moravec's paradox: tasks that feel effortless to people, like folding laundry, are often hardest for machines, while abstract reasoning is easier.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Self-driving cars: the long road.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Cars that drive themselves have been 'a few years away' for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how they actually work, and why the last few per cent of driving is the hardest part.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A race with no winner.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In March 2004, a line of strange vehicles bristling with sensors set off across the Mojave Desert.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were competing in the DARPA Grand Challenge, a race for driverless vehicles organised by a United States defence research agency, with a million dollar prize.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The course was around 230 kilometres long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not one vehicle finished.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The best got only about 12 kilometres before getting stuck, and others veered off course, stalled or tangled with fences.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In October 2005, the story was very different: five vehicles completed a new course, and a team from Stanford University won.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That leap, from failure to success in about eighteen months, convinced many engineers that self-driving cars were truly possible, and kicked off the industry we see today.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Levels of automation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not every car with clever features is self-driving.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Engineers commonly use a scale from SAE International, a standards body, that runs from level 0 to level 5.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At level 0 the human does everything.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Levels 1 and 2 are driver assistance, such as adaptive cruise control and lane-keeping: the car helps with steering or speed, but the human must watch the road at all times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At level 3, the car can drive itself in limited conditions but may ask the human to take over.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Level 4 means no human is needed within a defined area or set of conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Level 4 robotaxis already carry paying passengers in parts of several US and Chinese cities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Level 5, a car that can drive anywhere a person could, does not yet exist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See, predict, plan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cameras read signs, lights and lane markings.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Radar measures distance and speed and works in rain and fog.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lidar sweeps laser pulses around the car to build a detailed three-dimensional map.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each has weaknesses: cameras struggle with glare and darkness, radar is blurry, and lidar can be affected by heavy rain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So software fuses the data, called sensor fusion, into one best guess.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing a cyclist is only the first step.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The car must predict what the cyclist might do in the next few seconds, plan its own path and speed, then turn the plan into steering and braking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Machine learning does much of this, alongside hand-written rules that must never be broken, like stopping at a red light.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The long tail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most driving is routine, and computers handle routine well.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The trouble is what engineers call the long tail: the endless variety of rare situations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A kangaroo bounding out at dusk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A police officer waving traffic through a red light.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A mattress in the middle of a freeway.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roadworks where the painted lines contradict the temporary cones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A child chasing a ball from behind a parked van.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each of these is unusual on its own, but together they happen all the time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humans handle them using common sense and general knowledge of the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A machine has only what it has learned or been programmed to do, and a situation it has never seen before can confuse it in ways that are hard to predict.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety, blame and the law.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Road crashes kill over a thousand people in Australia each year, and human error plays a part in most.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporters say automated cars, which never get drunk, tired or distracted, could save lives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sceptics note that automated systems make different mistakes, and proving them safer takes huge amounts of driving data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At level 2, people can trust aids too much and stop paying attention, though they remain legally responsible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a driverless car crashes, who is at fault: owner, manufacturer or software developer?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australian governments are working on a national framework, and trials have run on set routes with safety operators.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lane-keeping and adaptive cruise control are aids, not chauffeurs: under Australian road rules you remain responsible.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rules are evolving, so check your state transport authority for the current position.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The modern self-driving era began with a desert race in which no vehicle finished, then succeeded within about eighteen months.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Where does the word 'robot' come from?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A Czech word for forced labour.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What does Moravec's paradox observe?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Reasoning is easier for computers than sensing and moving.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did the DARPA Grand Challenge show between 2004 and 2005?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Rapid progress, from zero finishers to five.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

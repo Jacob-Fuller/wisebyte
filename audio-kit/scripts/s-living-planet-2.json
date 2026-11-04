@@ -1,0 +1,918 @@
+{
+ "id": "s-living-planet-2",
+ "h": "carnivorous-plants,mangroves,yellowstone-wolves",
+ "title": "Plants, Soil and Ecosystems · Episode 2",
+ "chapters": [
+  "Plants that eat animals",
+  "Mangroves: forests at the edge of the sea",
+  "The wolves of Yellowstone"
+ ],
+ "units": [
+  {
+   "t": "Plants, Soil and Ecosystems. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Plants that eat animals, Mangroves: forests at the edge of the sea and The wolves of Yellowstone.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Plants that eat animals.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Snapping traps, sticky tentacles and slippery pitchers: some plants have turned the tables on the animal world, and Australia is a hotspot for them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why eat meat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a peat bog: soggy, acidic and sunlit, with soil that holds almost no nitrogen or phosphorus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most plants struggle there.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carnivorous plants thrive, because they trap and digest insects and other small creatures, absorbing the minerals the soil lacks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They still make their own food from sunlight, like any green plant.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Prey is more of a fertiliser supplement than a main meal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are several hundred species, and the habit has evolved independently several times in unrelated plant groups, a sign of how useful it is in poor soils.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each group came up with its own kind of trap, from snapping jaws to sticky glue to water-filled pits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flytraps and pitchers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Venus flytrap grows wild only in a small area of North and South Carolina.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its trap is a pair of hinged lobes with a few trigger hairs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One touch does nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second touch within about 20 seconds snaps it shut in a fraction of a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This counting stops the plant wasting energy on raindrops.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A struggling insect keeps brushing the hairs, which seals the trap and releases digestive juices.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Digestion takes several days, and each trap can open and close only a limited number of times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pitcher plants use a passive trap: a deep cup of digestive fluid with a slippery rim.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Insects tumble in and cannot climb out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has native Nepenthes pitcher plants in far north Queensland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sundews and bladderworts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sundews look covered in morning dew, but each tentacle's droplet is sticky glue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A landing insect is held fast, and in many species the tentacles bend inward to press it against the leaf, where enzymes digest it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is one of the world's great centres of sundew diversity, especially the south-west of Western Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some are tiny pygmy sundews no bigger than a coin, and many survive dry summers as underground tubers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bladderworts, which live in water or wet soil, pump water out of tiny bladders to create low pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a water flea brushes a trigger hair, a trapdoor opens and the bladder sucks it in within a tiny fraction of a second, one of the fastest movements known in plants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Albany pitcher plant.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has a true original: the Albany pitcher plant.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It grows wild only in a small coastal region of south-west Western Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is so distinctive that it is the only species in its plant family.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its small, hairy pitchers sit at ground level, catching mostly ants and other crawling insects.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plants like this are specialists of nutrient-poor wetlands and heaths, so they are vulnerable when those places change.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Draining swamps, clearing land, adding fertiliser and suppressing the natural fires that keep competing plants in check can all push them out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their striking looks also attract collectors, and poaching is a serious problem for the Venus flytrap and some Nepenthes species.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Never dig carnivorous plants up from bushland.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Growing them at home.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carnivorous plants break most gardening rules.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ordinary potting mix and fertiliser can burn their roots.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most are grown in peat moss or a substitute mixed with sand or perlite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tap water often contains enough dissolved minerals to harm them over time, so use rainwater or distilled water, and many types like to sit in a shallow tray of it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most need plenty of bright light.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resist feeding them pieces of meat, which can rot in the trap, and avoid triggering flytraps for fun, since every closure uses energy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Outdoors, they usually catch all the insects they need.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buy plants from reputable nurseries that propagate their own stock, not plants that may have been taken from the wild.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Carnivorous plants eat animals mainly to gain nitrogen and phosphorus that their poor soils lack.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Mangroves: forests at the edge of the sea.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Muddy, smelly and buzzing with life, mangroves are trees that drink salt water, breathe through snorkels and quietly protect Australia's coasts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trees in the sea.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Walk a mangrove boardwalk at low tide and you hear snapping shrimp, popping air bubbles in the mud and crabs scuttling into holes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Twice a day, the sea floods in over the roots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mangroves are not one kind of plant but a mix of trees and shrubs from different families, each adapted to life where land meets salt water.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They grow along sheltered tropical and warm coastlines worldwide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has around 40 species and one of the largest areas of mangrove forest of any country, across the north and down both the east and west coasts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around Darwin, Cairns and the Gulf of Carpentaria, they form vast, dense forests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salt, snorkels and stilts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Salt water kills most plants by drawing water out of their cells.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many mangroves filter salt out at the roots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others take it in and then expel it: the grey mangrove, Australia's most widespread species, pushes salt out through glands in its leaves, and you may taste crystals on a leaf's underside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some store salt in old leaves or bark and shed them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This costs energy, so growth is often slower in very salty places.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mangrove mud has almost no oxygen.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Grey mangroves send up pencil-like roots called pneumatophores that act as snorkels, taking in air through tiny pores at low tide.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red mangroves stand on arching prop roots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These tangles also anchor the trees and slow the water, so sediment settles and builds the shoreline.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Babies born ready.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most plants drop seeds and wait for them to sprout.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many mangroves do something closer to giving birth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The seed germinates while still on the parent tree, growing into a seedling called a propagule.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In some species these look like long green cigars or pens dangling from the branches.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When ready, the propagule drops.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the tide is out, it may lodge in the mud and start growing straight away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the tide is in, it floats off and can drift for weeks or even months before washing up somewhere suitable.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This head start helps the young plant establish where waves and tides would sweep away an ordinary seed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also how mangroves have spread along coastlines and between islands across the tropics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nurseries and guardians.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Calm water and tangled roots make an ideal nursery.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Young fish and prawns hide from predators while feeding on fallen, decaying mangrove leaves.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Barramundi, mud crabs, mangrove jack and banana prawns all depend on mangroves for part of their lives.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Birds use them too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rotten egg smell is not a sign of trouble: it comes from bacteria breaking down organic matter in oxygen-poor mud, part of the recycling that makes the system so productive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mangroves also act as a natural sea wall, absorbing wave and storm surge energy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their waterlogged mud buries dead material, building deep, carbon-rich soil.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Per hectare, these 'blue carbon' ecosystems can store several times more carbon than many land forests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clearing them can release it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under pressure.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Worldwide, large areas of mangroves have been cleared for shrimp farms, ports, housing and farmland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's are in better shape than many, but not immune.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In late 2015 and early 2016, mangroves along roughly 1,000 kilometres of the Gulf of Carpentaria died back over a few months, affecting thousands of hectares.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists linked the event to drought, high temperatures and a temporary drop in sea level during a strong El Niño.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some areas have since begun to recover.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mangroves are protected by law in Australian states and territories.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Queensland, for example, they are protected marine plants, and damaging them without approval is an offence, so check local rules before trimming any.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The simplest way to appreciate them is from a boardwalk.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Mangroves are a mix of salt-tolerant trees and shrubs that grow where tropical and warm coasts meet the tide.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The wolves of Yellowstone.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When wolves returned to Yellowstone in 1995, they became the centre of one of ecology's most famous stories.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The truth is messier, and more interesting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keystone species.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1960s American ecologist Robert Paine ran a simple experiment on the rocky shore of Washington State.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He repeatedly removed a predatory sea star from one stretch of rocks and left a neighbouring stretch alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without the sea star, mussels took over, crowding out other species, and the shore's diversity collapsed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paine called such a species a keystone, after the stone at the top of an arch that holds the rest in place.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea that predators can shape whole ecosystems through a chain of effects called a trophic cascade became hugely influential.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sea otters, for instance, protect kelp forests by eating sea urchins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wolves in Yellowstone became the most famous test case of all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lost and returned.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yellowstone, established in 1872, was the world's first national park, but early managers saw wolves as vermin that killed livestock and the elk and deer visitors liked to see.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Government hunters shot, trapped and poisoned them, and by the mid-1920s they were gone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elk numbers rose, and managers worried about heavy browsing of young aspen, willow and cottonwood.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rangers at times culled elk themselves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Attitudes changed, and after the wolf was listed as endangered, plans to restore it gained momentum despite fierce opposition from ranchers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1995 and 1996, 31 wolves from Canada were released into the park, and more went to central Idaho.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They thrived, settling at roughly one hundred inside the park, and became a major attraction in the Lamar Valley.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The famous story.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As the wolves settled in, elk numbers on the northern range fell sharply, from around 19,000 in the mid-1990s to a fraction of that within two decades.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some researchers reported willows and aspens growing taller in places, and beaver colonies increased.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A powerful story took shape.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wolves, it was said, not only ate elk but frightened them away from exposed valleys and riverbanks, creating a landscape of fear.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Freed from browsing, trees recovered, beavers returned, songbirds followed and riverbanks stabilised.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A short online video in 2014, How Wolves Change Rivers, spread this story to many millions of viewers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a beautiful narrative of nature healing itself, and parts of it are supported by real evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What scientists argue about.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many ecologists think the popular story is too tidy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Elk declined for several reasons at once, including predation by cougars and bears as well as wolves, hunting outside the park and drought.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some studies found elk did not avoid risky places as strongly as the landscape of fear idea suggested, and that aspen often failed to recover even where wolves were common.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other work found willow recovery was patchy and modest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One reason is that when beavers vanished, their dams collapsed, streams cut deeper channels and the water table dropped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Willows on those drier banks struggle however few elk there are.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers still disagree on how much of Yellowstone's change can truly be credited to wolves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lessons from the debate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Decades of radio-collar data make Yellowstone's wolves among the most studied large predators on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some effects are well established.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their kills feed ravens, eagles, magpies, bears and coyotes through winter, and wolves have reshaped the behaviour and numbers of other predators.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elk herds are smaller and behave differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What remains contested is how far those changes flowed down to trees, rivers and the wider landscape.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The debate is not a failure of science but science working, as researchers test an appealing idea against messy data.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The broader lesson is valuable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Removing a top predator can change an ecosystem for a century, and putting it back does not simply rewind the clock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Some species have effects on their ecosystem far larger than their numbers suggest.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do carnivorous plants catch animals?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To get nutrients poor soils lack.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What are mangroves?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Salt-tolerant trees and shrubs of tidal coasts.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is a keystone species?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. One with outsized effects for its numbers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

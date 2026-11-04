@@ -1,9 +1,10 @@
 {
  "id": "s-animals-3",
- "h": "tardigrades,bees,spider-silk",
+ "h": "tardigrades,animal-longevity,bees,spider-silk",
  "title": "Amazing Animals · Episode 3",
  "chapters": [
   "Tardigrades: the toughest animals on Earth",
+  "Animals that cheat ageing",
   "Why bees matter",
   "Spider silk: nature's super-material"
  ],
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Tardigrades: the toughest animals on Earth, Why bees matter and Spider silk: nature's super-material.",
+   "t": "In this episode: Tardigrades: the toughest animals on Earth, Animals that cheat ageing, Why bees matter and Spider silk: nature's super-material.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -291,524 +292,806 @@
    "ps": true
   },
   {
-   "t": "Part two. Why bees matter.",
+   "t": "Part two. Animals that cheat ageing.",
    "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A shark born before Captain Cook sailed, a rodent that barely seems to age, a jellyfish that turns back its own clock: what nature's longest lives reveal about growing old.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ming the clam.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2006, scientists dredging the seabed off Iceland pulled up an ordinary-looking clam.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was frozen on board as routine, so it was already dead when researchers counted the growth rings in its shell, much like tree rings, and realised it was extraordinary.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ocean quahog, nicknamed Ming, was about 507 years old, alive since around the start of the 1500s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ming is one of the oldest individual animals whose age has been reliably measured.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its story raises a big question: if some animals live for centuries, why do others, including us, age and die on a much shorter schedule?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why do we age.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ageing is an evolutionary puzzle.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why would natural selection allow bodies to wear out?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Biologists such as Peter Medawar and George Williams developed an influential answer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the wild, most animals die young from predators, disease, accidents or starvation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Genes that cause problems late in life are rarely 'seen' by natural selection, because few individuals live long enough for them to matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some genes that help early, for example by boosting reproduction, might even cause harm later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A related idea, the 'disposable soma' theory, says bodies invest in reproduction rather than perfect long-term repair.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It predicts that animals facing less outside danger should age more slowly.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many long-lived species fit that pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Giants and mole-rats.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greenland shark lives in cold North Atlantic and Arctic waters.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sharks lack bony growth rings, so in 2016 researchers used radiocarbon dating on eye lenses, which form before birth and do not change.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They estimated the largest shark was around 400 years old, with a wide margin of uncertainty, making it the longest-lived vertebrate known.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bowhead whales may live more than 200 years, and old harpoon tips from the 1800s have been found in whales caught in modern times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The pink, almost hairless naked mole-rat of East Africa has lived over 30 years in captivity, where a mouse lives two or three.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A study found its risk of dying did not seem to rise with age, unlike almost every other mammal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also very rarely gets cancer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turning back the clock.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A tiny jellyfish, Turritopsis dohrnii, is nicknamed the immortal jellyfish.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When injured, stressed or old, it can transform back into an earlier life stage, a polyp attached to the seabed, and grow into a new jellyfish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In principle, it could repeat this many times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In practice, individuals still die from predators and disease, so it is not truly immortal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The freshwater hydra, a small relative of jellyfish, also appears to show little or no ageing.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stem cells constantly renew its body, and in laboratory studies hydra did not show the usual rise in death rate over time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These animals suggest ageing is not an unbreakable law of biology.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cancer and our own lives.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cancer starts when a cell picks up harmful mutations and divides out of control.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "So animals with more cells, living longer, should get more cancer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet large animals do not seem to have higher rates than small ones, a puzzle called Peto's paradox.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elephants have around 20 copies of the TP53 gene, which helps trigger the death of damaged cells, while humans have one pair.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bowhead whales appear unusually good at repairing DNA.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These animals give researchers real leads.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But they do not yet translate into treatments that extend human life, and many anti-ageing products lack good evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not health advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The well-tested basics, such as not smoking, staying active, sleeping well and eating well, remain best supported.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Some animals live for centuries, and their ages can be read from growth layers, raising the question of why ageing happens at all.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why bees matter.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "About a third of what we eat depends on pollinators.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia has around 2,000 native bee species most people have never noticed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "What's on the line.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many flowering plants can't make fruit or seeds unless pollen moves between flowers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Wind does the job for some, like wheat and rice, but many rely on insects that visit flowers for nectar and carry pollen with them.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bees are the most important.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The UN Food and Agriculture Organization estimates that about three quarters of the world's leading food crops benefit at least partly from animal pollination.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Almonds depend almost entirely on bees; Australia's almond industry hires hundreds of thousands of beehives each year.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Apples, cherries, blueberries, avocados, melons and pumpkins also rely heavily on them.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "We wouldn't starve without pollinators, but diets would be less varied and nutritious, and many foods would cost much more.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Honey bees.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The honey bee most people know isn't native to Australia; European honey bees were introduced in 1822.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A hive can hold tens of thousands of bees: one queen who lays eggs, a few hundred male drones, and thousands of female workers who build comb, feed young, guard the hive and forage.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Making about half a kilogram of honey may take around two million flowers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When a forager finds good flowers, she returns and performs a 'waggle dance'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The angle of her waggle run relative to vertical shows the food's direction relative to the Sun, and its length shows distance.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Other bees follow and fly straight there.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Karl von Frisch decoded the dance and shared the 1973 Nobel Prize in Physiology or Medicine.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia's native bees.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia has around 2,000 native bee species, many still not formally described.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most are solitary: each female builds her own nest in the ground, in wood or in plant stems, and doesn't live in a hive.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The blue-banded bee pollinates tomatoes by 'buzz pollination', vibrating flowers to shake pollen loose, something honey bees can't do.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "About a dozen species are social stingless bees, found mainly in warmer areas, which make small amounts of tangy 'sugarbag' honey that Aboriginal people have long harvested.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Threats and varroa.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Bees face many pressures: loss of flowering habitat, some pesticides, diseases and parasites, and climate change shifting when flowers bloom.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The varroa mite, a parasite that has devastated honey bee colonies worldwide, was detected in Newcastle, NSW, in 2022.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia had been the last inhabited continent free of it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "After a major effort, authorities concluded in 2023 that eradication was no longer feasible, and the focus shifted to managing it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Native bees aren't affected by varroa but face their own habitat pressures.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Other pollinators, and you.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Bees aren't the only pollinators.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hoverflies, beetles, moths and butterflies all move pollen.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Honeyeaters and lorikeets pollinate banksias, grevilleas and eucalypts, flying foxes carry pollen across the landscape at night, and the honey possum feeds almost entirely on nectar and pollen.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "You can help even on a balcony.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Plant a variety of flowers, especially native ones, so something blooms across the seasons.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Herbs like lavender, basil and rosemary attract bees.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Avoid spraying pesticides on flowering plants, leave a shallow dish of water with pebbles, and provide bare ground or a simple 'bee hotel' of drilled wood blocks for native solitary bees.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: About three quarters of leading food crops benefit from animal pollination, and bees are the most important pollinators.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Spider silk: nature's super-material.",
-   "c": 2,
+   "t": "Part four. Spider silk: nature's super-material.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Weight for weight, some spider silk is stronger than steel and tougher than Kevlar.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Spiders make it at room temperature from water and protein, and we still cannot copy it properly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Liquid into thread.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Silk is made of proteins called spidroins, stored in the spider's abdomen as a thick liquid.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "As the spider draws it out through tiny spinnerets, changes in acidity and water content, plus the stretching force of pulling, make the molecules line up and lock into a solid fibre.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It happens at normal temperature with water as the solvent, while human factories making strong fibres often need high heat and harsh chemicals.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Orb-weavers, which build wheel-shaped webs, can have up to seven types of silk gland.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Strong dragline silk forms the frame and safety line.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The sticky capture spiral is stretchier and coated with glue droplets, so a fast insect is slowed rather than bouncing off.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Other silks wrap prey, cement threads down and case eggs.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Stronger than steel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The claim that spider silk is stronger than steel is often repeated, so let us be precise.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Steel and good dragline silk have broadly similar strength per thickness, but silk is far lighter, so weight for weight silk comes out ahead.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Its real superpower is toughness, the energy a material can absorb before breaking.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Because dragline silk both resists pulling and stretches a good deal, it absorbs more energy than Kevlar, the fibre used in protective vests.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The toughest silk known comes from Darwin's bark spider of Madagascar, described in 2010.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It builds enormous webs over rivers, anchored by bridge lines that can stretch around 25 metres across the water.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Flying on silk.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Silk lets spiders fly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a behaviour called ballooning, a spider climbs to a high point, raises its abdomen and releases fine threads into the air until it lifts off.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Spiders have been found drifting thousands of metres up and landing on ships far out at sea, which helps explain how they are among the first animals to colonise new islands.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Scientists long assumed ballooning depended only on wind.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Research published in 2018 showed spiders also respond to the atmosphere's natural electric field, which can lift their charged silk.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In parts of Australia, mass ballooning occasionally blankets paddocks in shimmering silk, sometimes nicknamed angel hair.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A million-spider cape.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "People have long dreamed of spider silk cloth, but spiders are territorial and often cannibalistic, so they cannot be packed together like silkworms.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A famous project in Madagascar showed what it takes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Textile maker Simon Peers and designer Nicholas Godley had workers collect more than a million golden orb-weaver spiders over several years, gently draw silk from each with a hand-cranked device, then return them to the wild.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The naturally golden textiles, including a cape shown at London's Victoria and Albert Museum in 2012, are among the rarest fabrics in the world.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Long before that, fine spider silk served as crosshairs in optical instruments such as telescope and gun sights, because it was thin, strong and even.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Copying the spider.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Since spiders cannot be farmed, scientists have tried to make silk without them.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Researchers have inserted spider silk genes into bacteria, yeast, silkworms and plants, and in one well-known project, into goats whose milk contained silk proteins.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Making the protein is the easier half.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Spinning it into fibre as good as a spider's is very hard, because the spider's duct performs its chemistry and stretching with remarkable precision.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some companies have launched products using artificial silk proteins, but none yet matches natural dragline silk at large scale.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Possible uses include medical sutures, artificial ligaments, lightweight protective gear and biodegradable materials.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "For now the humble garden spider still out-engineers the laboratory.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Spider silk is a protein stored as liquid and turned into solid thread as it is drawn out, and one spider can make several kinds.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. Where can tardigrades be found?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Almost everywhere, even in backyard moss.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why would our food supply change without pollinators?",
-   "c": 3,
+   "t": "Question two. How was the age of Ming the clam worked out?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Counting growth rings in its shell.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why would our food supply change without pollinators?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Many fruit, nut and veg crops would suffer.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. How does liquid silk protein become a solid thread?",
-   "c": 3,
+   "t": "Question four. How does liquid silk protein become a solid thread?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Acidity changes and pulling align proteins.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

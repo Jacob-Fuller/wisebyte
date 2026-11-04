@@ -466,43 +466,49 @@
    "ps": false
   },
   {
-   "t": "Unit economics.",
+   "t": "Selling hours or products.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Unit economics looks at the profit or loss on a single sale or customer.",
+   "t": "Some models sell time.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Two numbers are especially useful.",
+   "t": "A plumber, consultant or hairdresser earns only while working, so income is capped by the hours in a week and the price customers will pay.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Customer acquisition cost, or CAC, is what you spend on marketing and sales to win one new customer.",
+   "t": "Growing usually means hiring, and costs grow alongside sales.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Customer lifetime value, or LTV, is the total profit a typical customer brings over the whole relationship.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If it costs $200 to win a customer who only brings $150 in profit, growing faster just loses money faster.",
+   "t": "Other models sell something made once and sold many times.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A commonly quoted rule of thumb, especially for subscription businesses, is an LTV at least three times CAC.",
+   "t": "An online course, a recipe ebook or an app can cost a lot to create but very little to sell one more copy, so margins can widen as sales rise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many small businesses mix the two: a personal trainer adds group classes to one-on-one sessions, or a bookkeeper offers fixed-price packages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A useful question for any idea: when sales double, what happens to costs?",
    "c": 1,
    "k": "s",
    "ps": false

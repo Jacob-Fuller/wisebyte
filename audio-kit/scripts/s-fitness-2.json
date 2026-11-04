@@ -1,10 +1,11 @@
 {
  "id": "s-fitness-2",
- "h": "water-and-thirst,alcohol,sun-safety",
+ "h": "water-and-thirst,alcohol,building-a-better-sleep-routine,sun-safety",
  "title": "Health & Fitness · Episode 2",
  "chapters": [
   "Water and thirst: how much do you really need",
   "Alcohol and your body",
+  "Building a better sleep routine",
   "Sun, UV and skin cancer"
  ],
  "units": [
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Water and thirst: how much do you really need, Alcohol and your body and Sun, UV and skin cancer.",
+   "t": "In this episode: Water and thirst: how much do you really need, Alcohol and your body, Building a better sleep routine and Sun, UV and skin cancer.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -591,326 +592,608 @@
    "ps": true
   },
   {
-   "t": "Part three. Sun, UV and skin cancer.",
+   "t": "Part three. Building a better sleep routine.",
    "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Good sleep is less about a magic pill and more about a handful of habits done consistently.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is a practical routine you can start tonight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anchor your wake time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people try to fix bad sleep by going to bed earlier, then lie awake staring at the ceiling.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A better starting point is the other end of the night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body clock, the circadian rhythm, runs on a cycle of roughly 24 hours and is set largely by when you wake and see light.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choose a wake time you can keep seven days a week, within about half an hour, weekends included.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Big Saturday sleep-ins shift your clock later, which is part of why Monday mornings feel brutal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Get outside within an hour of waking, even on a cloudy day.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a far stronger signal than indoor lighting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the evening, dim the house lights and lower screen brightness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caffeine, alcohol and dinner.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That 3 pm flat white may feel harmless, but caffeine stays in your system for several hours, and for some people much longer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It blocks the receptors for adenosine, a chemical that builds up while you are awake and makes you feel sleepy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A common suggestion is to have your last caffeine around midday or early afternoon, and to watch for hidden sources such as energy drinks, cola, some teas and dark chocolate.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol is trickier because it can make you drowsy at first.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later in the night it tends to disrupt sleep, causing lighter, more broken rest and more trips to the bathroom.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy meals close to bedtime can also cause discomfort, so eat dinner a few hours before bed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prepare the night.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Children have bedtime routines for good reason, and adults benefit from the same idea.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For the last half hour to an hour, do a few calm things in roughly the same order, such as a warm shower, setting out tomorrow's clothes, reading a paper book and slow breathing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep work emails and gripping news out of this window.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If worries race, write tomorrow's to-do list first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then make the bedroom cool, dark and quiet.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In hot Australian summers, a fan, air conditioning or lighter bedding helps, and block-out curtains or an eye mask cut street light and early dawn.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check that your mattress and pillow still support you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charge your phone outside the room and use a cheap alarm clock instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you cannot sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lying in bed for an hour willing yourself to sleep can teach your brain to link bed with frustration.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sleep specialists often suggest a different approach.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have been awake for what feels like twenty minutes or so, without clock watching, get up and go to another dim room.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do something quiet and boring, such as reading or folding washing, and return to bed only when you feel sleepy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Repeat if needed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It feels counterintuitive, but over time it rebuilds the link between bed and sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Avoid checking the time repeatedly, which tends to increase anxiety.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep naps short, ideally under half an hour and before mid afternoon, so they do not steal sleep from the night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When to get help.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most adults are thought to need roughly seven to nine hours of sleep, though individuals vary.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Occasional bad nights are normal, but persistent trouble is worth taking seriously.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "See your GP if poor sleep lasts for weeks and affects your daytime life, if a partner notices loud snoring, pauses in breathing or gasping, if you feel very sleepy during the day, especially while driving, or if you have strong urges to move your legs at night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These can point to treatable sleep conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Effective help exists, including a structured talking therapy for insomnia known as CBT-I. The Sleep Health Foundation and healthdirect have reliable information.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information, not medical advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A fixed wake time and morning light are the strongest tools for setting your body clock.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Sun, UV and skin cancer.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Australia has one of the highest skin cancer rates in the world.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most of it is preventable, and it's not about the temperature.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Not about the temperature.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia and New Zealand have the highest melanoma rates in the world.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Cancer Council estimates that about two in three Australians will be diagnosed with skin cancer by age 70.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It is our most common cancer, and melanoma, the most dangerous type, kills over a thousand Australians each year.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "High UV levels, an outdoor lifestyle and a largely fair-skinned population drive the risk, but most skin cancers are preventable.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sunburn and skin cancer come from ultraviolet, UV, radiation, not heat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "You can't see or feel UV.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "You can burn badly on a cool, cloudy or windy day, because UV passes through cloud and a breeze makes you feel cooler.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "UV peaks at midday and in summer, but in much of Australia it reaches damaging levels most of the year, including winter in the north.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "UV index and five steps.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The UV index measures UV strength on a scale from 0 with no upper limit; 11 and above is extreme.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "At 3 or above, it can damage skin and protection is recommended, which in much of Australia is most days.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The free SunSmart app and the Bureau of Meteorology show daily sun protection times for your location.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Slip, Slop, Slap began in 1981, sung by an animated seagull, and grew into SunSmart with two more steps.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Slip on sun-protective clothing.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Slop on SPF30 or higher broad-spectrum, water-resistant sunscreen.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Slap on a broad-brimmed hat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Seek shade.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Slide on sunglasses that meet the Australian standard.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "No single measure is enough; use them together.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sunscreen and tans.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most people apply far less sunscreen than they need and get only a fraction of the protection on the label.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Adults need about a teaspoon for each arm, each leg, the front, the back, and the face, neck and ears: roughly 35 millilitres in all.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Apply it about 20 minutes before going out.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Reapply every two hours, and after swimming, sweating or towelling off.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Check the expiry date, and never use it to extend time in the sun.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "There is no safe tan.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A tan is your skin making extra pigment in response to damage, and every sunburn raises skin cancer risk, especially in childhood and adolescence.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Solariums significantly increase melanoma risk, so commercial ones were banned nationwide in 2015 and 2016.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fake tan is safer, but gives no UV protection.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Vitamin D balance.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Sunlight helps your body make vitamin D, which is important for bones and muscles, and the balance matters.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In summer, most fair-skinned Australians get enough from just a few minutes of sun on their arms and hands on most days, outside peak UV times.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In winter, in southern parts of Australia where UV is lower, you may need more time outdoors.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "People with naturally very dark skin need more sun exposure.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you're concerned about your levels, talk to your GP.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Know your skin.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Skin cancers found early are usually easy to treat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Get to know your skin, including areas you can't easily see, using a mirror or a partner.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "See a doctor promptly about any new spot, or any spot that changes in size, shape or colour, bleeds, itches or doesn't heal.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The ABCDE guide helps identify suspicious moles: Asymmetry, irregular Border, uneven Colour, Diameter larger than about 6 millimetres, and Evolving, meaning changing over time.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When in doubt, get it checked.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: UV radiation, not heat, causes sunburn and skin cancer, so you can burn on cool or cloudy days.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. Why does the body guard its water levels so carefully?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Almost every vital reaction happens in water.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What speeds up how quickly your body clears alcohol?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Nothing; only time lowers it.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Why can you get badly sunburnt on a cool, cloudy day?",
-   "c": 3,
+   "t": "Question three. Why is a steady wake time a better starting point than an earlier bedtime?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It anchors your body clock, set by waking and light.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why can you get badly sunburnt on a cool, cloudy day?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. UV passes through cloud and isn't about heat.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

@@ -1,12 +1,12 @@
 {
  "id": "s-physics-2",
- "h": "heat-temperature,electricity,magnetism,light",
+ "h": "energy,heat-temperature,static-electricity,electricity",
  "title": "Physics Basics · Episode 2",
  "chapters": [
+  "Energy: what it is and where it goes",
   "Heat and temperature: what 'hot' really means",
-  "How electricity works",
-  "Magnetism: the invisible pull",
-  "Light and colour"
+  "Static electricity: sparks from nowhere",
+  "How electricity works"
  ],
  "units": [
   {
@@ -16,1165 +16,1129 @@
    "ps": false
   },
   {
-   "t": "In this episode: Heat and temperature: what 'hot' really means, How electricity works, Magnetism: the invisible pull and Light and colour.",
+   "t": "In this episode: Energy: what it is and where it goes, Heat and temperature: what 'hot' really means, Static electricity: sparks from nowhere and How electricity works.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Heat and temperature: what 'hot' really means.",
+   "t": "Part one. Energy: what it is and where it goes.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Energy can't be created or destroyed, only changed from one form to another.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Almost all of it on Earth started in the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changed, never lost.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Energy is what makes things happen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Physicists define it as the capacity to do work, applying a force over a distance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kinetic energy is the energy of motion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Potential energy is stored, like water behind a dam or a stretched rubber band.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are also chemical, thermal, electrical, light, sound and nuclear forms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy is measured in joules, named after English brewer and physicist James Joule; Australian food labels use kilojoules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy is never created or destroyed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1840s, Joule showed that a set amount of mechanical work always produces the same amount of heat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Riding downhill turns potential into kinetic energy; braking turns it into heat in the pads.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When we 'waste' energy, we convert it into forms less useful to us.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speed squares energy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kinetic energy equals half the mass times the speed squared.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Double your speed and your kinetic energy quadruples.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A car at 60 kilometres an hour carries four times the energy of the same car at 30 kilometres an hour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brakes, or in a crash the vehicle and the people inside, must absorb all of it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why braking distances grow so quickly with speed, and why lower limits in busy areas, like 40 kilometres an hour school zones, save lives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Small increases in speed matter more than they feel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing is 100% efficient.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Old incandescent bulbs turned only about 5 per cent of electricity into light; LEDs use roughly 75–80 per cent less electricity for the same light.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Petrol engines turn roughly 20–30 per cent of fuel energy into motion, while electric motors manage around 90 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Muscles convert only about a quarter of the energy they use into movement, the rest becoming heat, which is why exercise warms you up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat pumps, including reverse-cycle air conditioners, seem to beat the rules, but they move heat rather than make it, delivering three or more units of heat per unit of electricity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The underlying principle is the second law of thermodynamics: energy tends to spread out and become less concentrated, which is why perpetual motion machines are impossible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun's power.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plants capture sunlight through photosynthesis, feeding almost every food chain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coal, oil and gas are the remains of ancient plants and marine organisms, so they are stored ancient sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wind comes from the Sun heating Earth unevenly; hydro depends on rain, which depends on the Sun evaporating water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight striking Earth in an hour or two carries about as much energy as humanity uses in a year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The exceptions are nuclear energy, geothermal heat and tidal energy, which comes mainly from the Moon's gravity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Sun runs on E = mc², Einstein's 1905 finding that mass is a form of energy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fusion converts about four million tonnes of the Sun's mass into energy every second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One gram of matter, fully converted, would release roughly the energy of 20,000 tonnes of TNT.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Power and your body.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Power is how fast energy is transferred: one watt is one joule per second.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A kettle might draw 2,000 watts or more, a laptop about 50 and a phone charger 5–20.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Electricity bills charge in kilowatt-hours: 1,000 watts for an hour, like running a small heater.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest home users are heating and cooling, hot water, clothes dryers and pool pumps, and standby power adds up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Energy Rating Label stars and full dishwasher loads help cut bills.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body is an energy converter too.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One food calorie is about 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 kilojoules, and Australian labels use 8,700 kilojoules a day as a reference for an average adult, though needs vary.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even at rest, your brain uses about a fifth of your energy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Energy is the ability to do work, and it changes form without ever being created or destroyed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Heat and temperature: what 'hot' really means.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Why does a tiled floor feel colder than carpet in the same room?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The answer reveals what heat and temperature really are.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The cold tile mystery.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Step barefoot from carpet onto bathroom tiles on a winter morning and the tiles feel icy, though a thermometer would show both at the same temperature.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your skin does not sense temperature directly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It senses how quickly heat flows out of it.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tiles conduct heat well, so they pull warmth from your feet fast.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Carpet traps air, a poor conductor, so it feels warmer.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The same trick makes metal playground equipment burn in summer while a wooden bench feels merely warm.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Everything is made of moving atoms and molecules.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Temperature measures how vigorously they move, on average.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Heat is energy flowing from a hotter object to a cooler one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A bathtub of warm water holds far more thermal energy than a cup of boiling water, because it has vastly more molecules.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Absolute zero and scales.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "If temperature is jiggling, there must be a point where the jiggling is as small as it can be: absolute zero, minus 273.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "15 degrees Celsius.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Kelvin scale, named after Belfast-born Lord Kelvin, starts there, with steps the same size as Celsius degrees, so water freezes at about 273 kelvin.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the early 1700s Daniel Fahrenheit built accurate mercury thermometers, with water freezing at 32 degrees and boiling at 212.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Anders Celsius proposed 100 degrees between the two; his original ran upside down, until it was flipped.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia switched from Fahrenheit to Celsius in the early 1970s, which is why older Australians still talk of a 'century' for a 100 degree day.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Three ways heat moves.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Conduction is heat passing directly through a material, particle bumping particle, like a metal spoon warming in hot soup.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Convection happens in liquids and gases, which can flow.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Warm fluid is less dense and rises, cooler fluid sinks, and the circulation carries heat around.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is how a heater warms a room.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Radiation needs no material at all.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Every warm object gives off infrared light, and that is how the Sun's warmth crosses 150 million kilometres of empty space to reach your face.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A vacuum flask blocks all three: the vacuum between its walls stops conduction and convection, and shiny surfaces reflect radiation back where it came from.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Why water heats slowly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Put a metal saucepan and the water inside it on the stove, and the pan gets hot long before the water does.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Water has an unusually high heat capacity: it takes a lot of energy to raise its temperature, and it releases that energy slowly as it cools.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "This shapes weather.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Oceans warm and cool far more slowly than land, so coastal cities such as Perth and Sydney have milder swings in temperature than inland towns such as Alice Springs.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "On a hot afternoon, land heats faster than the sea, warm air rises over the land, and cooler air flows in from the ocean as a sea breeze.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Water also takes a lot of energy to evaporate, which is why evaporating sweat carries so much heat away from your skin.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "How a fridge moves heat.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Heat naturally flows from hot to cold, never the other way on its own.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A fridge pushes it uphill, from the cold inside to the warmer kitchen, and pays for this with electricity.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The trick is a refrigerant circulating in a closed loop of pipes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Inside the fridge, it evaporates at low pressure, and evaporating soaks up heat, just as sweat cools your skin.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A compressor then squeezes the vapour, making it hot, and it releases that heat through coils at the back or sides, which is why they feel warm.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The fluid condenses back to a liquid and the cycle repeats.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Reverse-cycle air conditioners and heat pumps work the same way, often moving several units of heat per unit of electricity.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The key idea: Tiles feel colder than carpet at the same temperature because they pull heat away from your skin faster, and heat is energy flowing, not the same thing as temperature.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. How electricity works.",
-   "c": 1,
+   "t": "Part three. Static electricity: sparks from nowhere.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "That zap from a car door or a supermarket trolley is the same force that gave electricity its name, and it runs the printer in your office.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Amber and a word.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ancient Greeks noticed that amber, the golden fossilised tree resin, attracted bits of straw, feathers and dust when rubbed with fur or wool.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tradition credits the philosopher Thales of Miletus, around 600 BC, with describing this, though nothing he wrote survives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Greek word for amber was elektron.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost two thousand years later, in 1600, the English physician William Gilbert showed in a book on magnetism that many other materials, like glass and sulfur, behaved the same way.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called them electricus, Latin for like amber.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From that root came the word electricity, so every power point in your home carries an echo of a lump of ancient resin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the charge comes from.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Atoms contain positive protons and negative electrons, normally in balance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When two different materials touch and rub, electrons can transfer from one to the other.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The one that gains electrons becomes negative and the other positive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists rank materials by this tendency in the triboelectric series.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opposite charges attract and like charges repel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rub a balloon on your jumper and it sticks to a wall, even though the wall is neutral.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The negative balloon pushes electrons in the wall's surface slightly away and draws positive charge closer, and the nearer attraction wins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is induction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put your hand on a Van de Graaff generator and your hairs all share one charge, repel and stand up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Physicists still don't fully understand how charge moves in contact.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why you get zapped.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Walking across carpet in rubber-soled shoes, or sliding across a car seat, can build up several thousand volts on your body.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nothing happens until you reach for something metal, like a door handle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the charge jumps the gap in a tiny spark, and you feel the zap.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Despite the high voltage, the shock is harmless because the amount of charge is tiny and the current lasts a fraction of a second.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shocks are far more common in dry conditions, such as cold winter days or air-conditioned offices.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In humid air, a thin film of moisture lets charge leak away before it can build up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A simple trick is to touch metal with a key first, so the spark jumps from the key.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Static at work.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1938, American patent lawyer Chester Carlson, tired of copying documents by hand, made the first dry copy using static electricity in a makeshift lab in Queens, New York.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His process, later called xerography, took years to find a backer but became the basis of the photocopier and the laser printer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside, light creates a pattern of charge on a drum, powdery toner sticks only to the charged areas, and heat fuses it onto paper.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Static also cleans the air.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electrostatic precipitators, developed in the early twentieth century, charge smoke particles in chimneys so they are drawn onto collecting plates.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Car makers use the same idea to spray paint evenly onto charged car bodies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When static is dangerous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most shocks are merely annoying, but a spark in the wrong place can start a fire.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Petrol gives off flammable vapour, and fuel stations warn people not to get back into their car while refuelling, because sliding across the seat can build up charge that may spark at the nozzle.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Touching the metal body of the car before handling the nozzle helps discharge you safely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a fire starts, move away and call 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fine dust from flour, sugar or grain can explode if a spark ignites a dense cloud of it, which is why factories and silos manage static carefully.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electronics are vulnerable too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A discharge too small for you to feel can still damage a microchip, so technicians often wear grounding wrist straps.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The word electricity comes from the Greek word for amber, which attracts small objects when rubbed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. How electricity works.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Flick a switch and the lights come on.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Behind that is a flow of electrons, a power station, and a grid spanning a continent.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Charge and current.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In metals like copper, some outer electrons are free to wander between atoms.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When a battery pushes them, they drift through the wire as an electric current.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Individual electrons move very slowly, often less than a millimetre per second, but the push travels at a large fraction of light speed, like pushing water into a full pipe.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Copper is used for most wiring because it conducts well and costs far less than silver, the best conductor.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Static electricity is charge that builds up rather than flows.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Rub a balloon on your hair and electrons move to the balloon, so it clings to walls.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lightning is the same on a colossal scale: ice particles colliding in storm clouds separate charge until a discharge leaps to the ground, heating the air to around 30,000 degrees.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Thunder is that explosive expansion.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Volts, amps and loops.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Voltage, in volts, is the electrical pressure pushing charge around a circuit.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Current, in amps, is the charge flowing per second.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Resistance, in ohms, is how strongly a material opposes flow.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Georg Ohm's 1827 law says voltage equals current times resistance.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Voltage times current gives power in watts.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australian household supply is 230 volts, against about 120 in North America.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Current flows only around a complete loop, and a switch breaks or connects it.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a series circuit one failure stops everything, like some old Christmas lights.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In a parallel circuit each component has its own path, as in house wiring, so one broken appliance doesn't cut power to the rest.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turbine to home.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1831, Michael Faraday found that moving a magnet near a coil of wire produces a current.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Almost all power stations use this: something spins a turbine connected to a generator.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Coal and nuclear plants boil water for steam, gas plants mostly use hot combustion gases, and wind and hydro spin turbines directly.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Solar panels turn light directly into electricity in silicon, with no moving parts.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Grids use alternating current, which completes 50 cycles a second, 50 hertz, in Australia.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1880s, Edison championed direct current and Tesla and Westinghouse championed AC.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "AC won because transformers raise its voltage for long-distance transmission, then lower it for homes.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "High voltage means lower current, and less energy wasted as heat in the wires.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some very long or undersea cables, like Basslink, use high-voltage DC.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The national grid.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia's main grid, the National Electricity Market, links Queensland, New South Wales, the ACT, Victoria, South Australia and Tasmania.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It stretches around 5,000 kilometres, one of the longest interconnected systems in the world.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Western Australia and the Northern Territory run separate systems.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Because electricity is hard to store at scale, supply must match demand every moment, and operators balance it around the clock.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Big batteries, pumped hydro schemes like Snowy 2.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "0, and rooftop solar are changing how the grid works.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In South Australia, rooftop solar has at times supplied most of the state's demand, while evenings, when solar fades and households cook and run heaters, remain the peak.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Electrical safety.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It is the current through the body that makes shocks dangerous, not voltage alone, and wet skin has much lower resistance, so far more current flows.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Keep appliances away from baths, sinks and pools.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Never use damaged cords, and don't overload power boards or plug them into each other.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fuses and circuit breakers cut power when too much current flows.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Safety switches, RCDs, detect current leaking to earth, perhaps through a person, and cut power in a fraction of a second.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Test them with their test button regularly; many authorities suggest every three months.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fixed wiring in Australia must be done by a licensed electrician.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "If someone is being electrocuted, don't touch them: switch off the power if it's safe, then call 000.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Stay at least eight metres from fallen power lines and treat them as live.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Current is the flow of charge; individual electrons move slowly, but the push travels very fast.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Magnetism: the invisible pull.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "A fridge magnet, a compass needle and the southern lights are all showing you the same hidden force at work.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A rock that points north.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Long before anyone understood it, people noticed that certain dark rocks pulled iron towards them.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "These lodestones are made of magnetite that has become naturally magnetised, possibly by lightning strikes.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In China, lodestone spoons were said to swing round to point in a fixed direction, and by the early twelfth century Chinese sailors steered with magnetised needles.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The compass later spread to the Arab world and Europe, where it helped make the great ocean voyages possible.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For centuries, nobody could say why a sliver of iron should care which way north was.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The answer lay deep inside atoms, and deep inside the Earth itself.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Tiny magnets lining up.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Each electron acts like a tiny bar magnet, thanks to a property called spin.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In most materials, including wood, plastic, water and your body, electrons pair up and their effects cancel.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In a few, unpaired electrons add together, and when enough point the same way, the object is magnetic.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Iron, nickel and cobalt are the classic magnetic metals.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Their atoms group into domains, each already magnetised.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In a nail the domains point every which way and cancel.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bring a strong magnet near and they swing into line, so the nail becomes a magnet for a while.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Permanent magnets keep their domains aligned.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Heat scrambles the order.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Above the Curie point, about 770 degrees Celsius for iron, the magnetism disappears.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "One force, many uses.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1820 Hans Christian Oersted saw a compass needle twitch when current flowed in a nearby wire: electricity can create magnetism.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1831 Michael Faraday showed the reverse.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Moving a magnet near a coil makes a current flow: electromagnetic induction.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1860s James Clerk Maxwell showed electricity and magnetism are one force, and predicted waves travelling at the speed of light.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Light, radio waves and X-rays are all electromagnetic waves.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Faraday's discovery powers your life.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Nearly every power station spins a magnet and a coil past each other so induction pushes current through the coil.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Motors run the trick backwards, in your fridge, washing machine and car windows.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "MRI scanners line up hydrogen atoms in your body, then listen to their faint radio signals.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Earth's magnetic shield.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Earth behaves like a huge magnet, which is why compasses work.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Its field is generated about 3,000 kilometres below your feet, in the outer core, where molten iron churns and flows like a natural dynamo.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The field reaches far into space and deflects most of the solar wind, a stream of charged particles from the Sun.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some particles are funnelled towards the poles, where they hit gases in the upper atmosphere and make them glow.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the Southern Hemisphere that glow is the aurora australis, sometimes seen from Tasmania.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The field is restless.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The magnetic poles wander, and every so often the whole field flips.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The last full reversal happened roughly 780,000 years ago.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Animals with a compass.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Humans need a compass, but many animals seem to carry one inside them.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Experiments show that migratory birds, sea turtles, salmon and even some insects use Earth's magnetic field to find their way.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Young loggerhead turtles appear to read the field's strength and angle to stay on course across thousands of kilometres of ocean.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "How they sense it remains one of biology's lingering puzzles.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One leading idea is that light-sensitive proteins in birds' eyes react to magnetism, perhaps letting them 'see' the field as a faint pattern over their vision.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Another is that tiny grains of magnetite in some animals' bodies act like compass needles.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Both may be true in different species.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: People used magnetic rocks and compasses for thousands of years before anyone could explain why they work.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Light and colour.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Light is the fastest thing in the universe, it's both a wave and a particle, and colour doesn't exist without a brain to see it.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The cosmic speed limit.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Light moves at 299,792 kilometres per second in a vacuum, usually rounded to 300,000.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In one second it could circle the Earth about seven and a half times.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Moonlight takes about 1.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "3 seconds to reach us, sunlight about 8 minutes and 20 seconds, and light from Proxima Centauri, the nearest star beyond the Sun, over four years.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "So when you look at distant stars, you're looking into the past: their light left years, centuries or millennia ago.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Light slows down in glass and water, but nothing with mass can ever reach its speed in a vacuum.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The hidden spectrum.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Light is electromagnetic radiation, a travelling wave of electric and magnetic fields, as Scottish physicist James Clerk Maxwell showed in the 1860s.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Visible light is only a narrow band, with wavelengths of about 400 to 700 nanometres.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Longer wavelengths include infrared, which you feel as heat, then microwaves and radio waves.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Shorter ones include ultraviolet, which causes sunburn, then X-rays and gamma rays.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They're all the same kind of thing, differing only in wavelength and energy.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some animals sense beyond our range.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Bees see ultraviolet patterns on flowers that are invisible to us, and some snakes detect the infrared glow of warm-blooded prey.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bending light apart.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Smooth surfaces such as mirrors and still water reflect light at the same angle it arrives, which is why you see clear images in them.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When light passes from one material into another, such as air into water, it changes speed and bends.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is refraction.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It makes a straw look broken in a glass and a pool look shallower than it is.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Lenses in glasses, cameras and eyes use it to focus light, and optical fibres use total internal reflection to carry internet data across oceans.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1660s, Isaac Newton split sunlight with a prism, then recombined it, showing that white light is a mixture.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Violet bends most and red least.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Raindrops do the same job: light enters, reflects off the back and bends again on the way out.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "You see a rainbow with the Sun behind you.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why things have colour.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A banana looks yellow because it reflects mostly yellowish wavelengths and absorbs the rest.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A black T-shirt absorbs most light, so it heats up in the sun.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The sky is blue because air molecules scatter short blue wavelengths far more than red, a process called Rayleigh scattering.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At sunrise and sunset light crosses far more air, so blue is scattered away and reds and oranges remain.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Clouds look white because their larger droplets scatter all colours equally.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Colour itself is made by your brain.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Your eyes have three types of cone cell, and the brain compares their signals.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That's why screens make almost any colour from red, green and blue dots, and why magenta, which matches no single wavelength, still looks real.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "About 8 per cent of men and 0.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "5 per cent of women of Northern European descent have some colour vision deficiency.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Wave, particle, laser.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the early 1800s, Thomas Young shone light through two narrow slits and saw bands of light and dark, as overlapping water waves would make.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "That was strong evidence for a wave.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But in 1905 Einstein explained the photoelectric effect, where light knocks electrons out of metal, by treating light as particles, later called photons.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He won the 1921 Nobel Prize for this, not for relativity.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Light acts as both, depending on how it's measured, a puzzle at the heart of quantum physics.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A laser produces waves of one wavelength, marching in step, in a narrow beam.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Einstein predicted the process in 1917 and Theodore Maiman built the first working laser in 1960.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Lasers now read barcodes, carry data, cut steel and reshape corneas.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Powerful pointers can damage eyes and are restricted in Australia.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Light travels at about 300,000 kilometres per second, and nothing with mass can match that speed.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1186,7 +1150,19 @@
    "ps": false
   },
   {
-   "t": "Question one. Why do tiles feel colder than carpet when both are at the same temperature?",
+   "t": "Question one. What does the law of conservation of energy say?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Energy changes form, but the total stays the same.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why do tiles feel colder than carpet when both are at the same temperature?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1198,37 +1174,25 @@
    "ps": false
   },
   {
-   "t": "Question two. Electrons drift slowly, so why does a light come on instantly?",
+   "t": "Question three. What did the ancient Greeks notice about amber, which gave electricity its name?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. When rubbed, it attracted small objects.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Electrons drift slowly, so why does a light come on instantly?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The push travels through the wire extremely fast.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. What stands out about the early history of magnets?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. People used them long before knowing why.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What does it mean to look at a distant star?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. You see light that left it centuries ago or more.",
    "c": 4,
    "k": "a",
    "ps": false

@@ -1,12 +1,12 @@
 {
  "id": "s-coding-1",
- "h": "babbage-and-lovelace,what-is-code,text-encoding,algorithms",
+ "h": "babbage-and-lovelace,what-is-code,text-encoding,file-compression",
  "title": "Coding Basics · Episode 1",
  "chapters": [
   "Babbage, Lovelace and the first computer design",
   "What code really is",
   "How computers store letters and emoji",
-  "Algorithms, explained"
+  "How files get squeezed: the art of compression"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Babbage, Lovelace and the first computer design, What code really is, How computers store letters and emoji and Algorithms, explained.",
+   "t": "In this episode: Babbage, Lovelace and the first computer design, What code really is, How computers store letters and emoji and How files get squeezed: the art of compression.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -814,295 +814,277 @@
    "ps": true
   },
   {
-   "t": "Part four. Algorithms, explained.",
+   "t": "Part four. How files get squeezed: the art of compression.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "The word sounds futuristic, but it comes from a scholar in 9th-century Baghdad, and you use algorithms every time you look up a word or take the fastest route home.",
+   "t": "A whole CD's worth of music can shrink to about a tenth of its size, so thousands of songs fit on your phone.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "What an algorithm is.",
+   "t": "Compression works by finding patterns, and by cleverly throwing away what your eyes and ears will not miss.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making files smaller.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "An algorithm is a precise method for getting something done.",
+   "t": "One minute of uncompressed CD-quality stereo audio takes about ten megabytes.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "School long division is one: follow the steps and you get the answer every time.",
+   "t": "Uncompressed high definition video would need hundreds of megabytes every few seconds, far more than a typical home connection could carry.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "So is the way you find a name in a phone book.",
+   "t": "Yet you stream films on a train and store thousands of photos on a phone.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Code is how an algorithm is written for a computer, but the algorithm is the idea behind it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A good one must be unambiguous, must finish, and must produce the right result.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The word comes from al-Khwarizmi, a Persian mathematician working in Baghdad in the 9th century, whose books on calculation spread through Europe in Latin.",
+   "t": "The trick is compression: representing the same information, or something close enough, in fewer bits.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Around 300 BC, Euclid described a method for finding the largest number dividing two others.",
+   "t": "Lossless compression shrinks a file so it can be rebuilt perfectly, bit for bit.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It is still taught and used inside some encryption that protects online banking.",
+   "t": "Lossy compression goes further by discarding details people are unlikely to notice.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Searching and sorting.",
+   "t": "Most media you enjoy relies on clever lossy methods built on top of lossless ideas.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Patterns and short codes.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Guess a number from 1 to 100, told 'higher' or 'lower' each time.",
+   "t": "Picture a clear blue sky, where a row holds a thousand identical blue pixels.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Guessing 1, 2, 3 could take 100 tries.",
+   "t": "Instead of storing blue a thousand times, store 'blue, repeated 1,000 times'.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Guessing 50, then 25 or 75, halves the possibilities each time.",
+   "t": "This is run length encoding.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This is binary search, and it always finds the number within seven guesses.",
+   "t": "A more powerful method from Abraham Lempel and Jacob Ziv in the late 1970s replaces repeated sequences with a short pointer: 'go back this far and copy this many characters'.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Among a million sorted items, it needs only about 20 steps.",
+   "t": "Variations power ZIP files, PNG images and web page transfers.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It only works if items are in order, so computers spend much effort sorting.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bubble sort swaps neighbouring items that are out of order, repeating until none remain.",
+   "t": "Morse code already used another idea: the common letter E is one dot, while rare Q gets a long pattern.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It works but is painfully slow on big lists.",
+   "t": "In 1952, David Huffman, then an MIT student, published a method for building the best such code.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Merge sort splits the list in half, sorts each half, then merges them, like combining two sorted piles of exam papers.",
+   "t": "Truly random data cannot be shrunk at all.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "On a million items, it can be tens of thousands of times faster.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why efficiency matters.",
+   "t": "How JPEG fools your eyes.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Computer scientists care less about speed on ten items than about how the work grows as the data grows.",
+   "t": "Lossy image compression exploits quirks of human vision.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Some algorithms double their work when the data doubles.",
+   "t": "JPEG, a standard from the early 1990s, first separates brightness from colour.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Others quadruple it, and some grow so explosively that even the fastest supercomputer could not finish before the sun burns out.",
+   "t": "Our eyes are far more sensitive to brightness differences than colour ones, so JPEG usually stores colour at lower resolution.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This is why choosing the right algorithm often matters more than buying a faster computer.",
+   "t": "Next it splits the image into small blocks, typically eight by eight pixels, and describes each as a mix of smooth patterns, from broad gradients to fine stripes.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A clever method on an old laptop can beat a clumsy method in a data centre.",
+   "t": "The fine, busy patterns matter least to our eyes, so they are rounded off heavily or thrown away.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Programmers describe this growth with a notation called 'Big O'.",
+   "t": "Lossless coding then packs what remains.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Maps and feeds.",
+   "t": "Push the quality setting down and the trick shows: blurry edges, smudged colours and visible square blocks.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When a map app plots the fastest drive from Parramatta to Bondi, it solves a shortest-path problem.",
+   "t": "How MP3 fools your ears.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Roads become a network of points and connections, each with a travel time.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1956 the Dutch computer scientist Edsger Dijkstra devised a method for this, reportedly in about 20 minutes at a cafe in Amsterdam.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Modern apps use faster descendants, plus live traffic from other phones, to reroute you around a crash.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "By 'the algorithm', people usually mean ranking systems on social media, video and shopping sites.",
+   "t": "Audio formats such as MP3, developed in Germany in the late 1980s and early 1990s, and the later AAC, use psychoacoustics, the science of how we perceive sound.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They use signals such as what you watched, liked, shared or lingered on to predict what you'll engage with.",
+   "t": "We cannot hear very high or very low frequencies well, and a loud sound masks quieter sounds at nearby frequencies.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Early Google search used PageRank, which treated links as votes of importance.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Because feeds optimise for engagement, they can favour content that provokes strong emotions, which is a real and debated concern.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Algorithms in your life.",
+   "t": "An encoder analyses music in short slices, works out which parts would be masked or inaudible, and spends fewer bits on them or drops them.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Knowing how algorithms work gives you some control.",
+   "t": "The result can be roughly a tenth the size of the original CD audio while sounding very similar to most listeners.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At low bit rates, you may hear swirly, watery artefacts, particularly in cymbals and applause.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Feed algorithms learn from your behaviour, so deliberately following, muting and choosing 'not interested' changes what you see.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pausing on outrage teaches the system to show more of it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Algorithmic thinking also helps offline.",
+   "t": "Video and lost generations.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Looking for a lost item?",
+   "t": "Consecutive video frames are usually very similar.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a newsreader shot, the background barely changes.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Search systematically, room by room, rather than randomly.",
+   "t": "Codecs such as H.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Packing a car boot?",
+   "t": "264, H.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Big items first is a simple algorithm that usually works well.",
+   "t": "265 and AV1 store full keyframes only occasionally, and describe how blocks have moved since an earlier frame, plus small corrections.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Breaking a messy task into clear, repeatable steps is exactly what programmers do, and it works just as well in a kitchen or an office.",
+   "t": "When data goes missing, streams turn into smeared blocks because movement is applied to the wrong picture until the next keyframe.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: An algorithm is a clear, step-by-step method for solving a problem, and the idea exists apart from any code.",
+   "t": "Confetti, rain and fast panning are hard to compress.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lossy formats also cause generation loss.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each time you edit and re-save a JPEG, or share a photo through apps that recompress it, more detail is lost.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep an original of anything important, and make compressed copies from that master.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Compression stores the same information in fewer bits, either perfectly rebuilt, lossless, or close enough, lossy.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1150,13 +1132,13 @@
    "ps": false
   },
   {
-   "t": "Question four. What three things must a good algorithm do?",
+   "t": "Question four. What is the difference between lossless and lossy compression?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Be unambiguous, finish, and give the right result.",
+   "t": "Answer. Lossless rebuilds exactly, lossy discards some detail.",
    "c": 4,
    "k": "a",
    "ps": false

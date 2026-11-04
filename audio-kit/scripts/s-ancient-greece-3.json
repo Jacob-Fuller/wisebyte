@@ -1,0 +1,858 @@
+{
+ "id": "s-ancient-greece-3",
+ "h": "library-of-alexandria,antikythera-mechanism,greek-legacy",
+ "title": "Ancient Greece · Episode 3",
+ "chapters": [
+  "The Library of Alexandria: what really happened",
+  "The Antikythera mechanism: an ancient computer",
+  "What the Greeks gave us"
+ ],
+ "units": [
+  {
+   "t": "Ancient Greece. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The Library of Alexandria: what really happened, The Antikythera mechanism: an ancient computer and What the Greeks gave us.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The Library of Alexandria: what really happened.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "It is the most famous lost library in history, supposedly destroyed in a single catastrophic fire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The truth is slower, stranger and more of a warning.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A library for the world.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After Alexander the Great died, his general Ptolemy took Egypt and made Alexandria his capital.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early in the third century BC, Ptolemy I or his son Ptolemy II founded the Mouseion, a temple to the Muses that worked as a research institute, and with it the Library.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Ptolemies wanted Alexandria to outshine Athens as the centre of Greek culture, so they paid scholars to live, work and dine together at royal expense.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The aim was bold: collect every important book written in Greek, plus translations of works from other cultures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A later tradition says the Hebrew scriptures were first translated into Greek there, producing the Septuagint.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hungry for books.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The physician Galen, writing centuries later, told two stories.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ships arriving in the harbour were searched for books, which were copied; the owners received the copies and the Library kept the originals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And Ptolemy III borrowed the official Athenian texts of Aeschylus, Sophocles and Euripides, left fifteen talents of silver as a deposit, then kept the originals and forfeited the money.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These tales may be exaggerated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The size is just as uncertain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ancient writers give figures from about forty thousand to seven hundred thousand scrolls, often long after the fact, and duplicates and multi-scroll works muddle any count.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its main rival was Pergamon, in modern Turkey.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The scholars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Eratosthenes, one of its chief librarians, estimated the circumference of the Earth by comparing the angle of the Sun's shadow at Alexandria and at Syene, far to the south, on the same day.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His result was remarkably close to the true value, though historians debate how close because his units of length are uncertain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The poet Callimachus compiled the Pinakes, a huge catalogue of Greek authors and works, often called an ancestor of the library catalogue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zenodotus and Aristarchus produced careful editions of Homer by comparing different copies to remove errors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alexandria also became a great centre of medicine, mathematics and astronomy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caesar's fire.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous story of the Library's destruction involves Julius Caesar.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 48 BC, besieged in Alexandria during the civil war involving Cleopatra and her brother, Caesar set fire to ships in the harbour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several ancient writers say the blaze spread and burned books, and Seneca mentions forty thousand lost.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the sources disagree about what burned.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some historians think the fire mainly destroyed warehouses near the docks holding scrolls awaiting export or cataloguing, not the Library itself.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What is clear is that scholarly life continued.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The geographer Strabo worked in the city a couple of decades later and wrote about the Mouseion, without mentioning a destroyed library.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A slow fade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As early as 145 BC, Ptolemy VIII expelled many intellectuals, including the head librarian Aristarchus.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under Roman rule royal patronage vanished, and in the AD 270s fighting under Aurelian devastated the palace quarter where the Library probably stood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A quieter enemy was damp coastal air, which rotted fragile papyrus scrolls unless they were recopied.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A library that loses its funding and staff loses its books without any fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later writers blamed convenient villains.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The AD 391 destruction of the Serapeum, and the murder of Hypatia in 415, did not destroy the Library.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tale of Caliph Umar burning books in 642 first appears over five centuries later, and most historians reject it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Ptolemies founded the Library in the early third century BC, inside a royal research institute called the Mouseion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The Antikythera mechanism: an ancient computer.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Divers searching for sponges found a lump of corroded bronze in a Roman-era shipwreck.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More than a century later, scientists realised it was a geared machine that modelled the heavens.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Treasure from the deep.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1900, Greek sponge divers sheltering from a storm near the island of Antikythera, between Crete and the Greek mainland, found an ancient shipwreck.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Over the next year, with only basic diving gear, they and the Greek government recovered bronze and marble statues, glassware, coins and pottery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ship sank in the first century BC, probably carrying luxury goods towards Italy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among the finds were unremarkable lumps of corroded bronze and wood.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1902 the archaeologist Valerios Stais noticed a gear wheel embedded in one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few people could believe the ancient Greeks had built anything so intricate, and for decades the object remained a puzzle in an Athens museum.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gears hidden in rock.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The mechanism survives in 82 fragments, the largest about the size of a hand.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inside are at least 30 interlocking bronze gears, some with teeth only a millimetre or two apart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1950s the British physicist and historian Derek de Solla Price began studying it seriously.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With X-ray images in the 1970s, he proposed that it was a calendar computer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then, in 2005, the Antikythera Mechanism Research Project used high-resolution X-ray CT scanning and advanced surface imaging.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These revealed hidden gears and thousands of tiny inscribed letters, many unseen for two thousand years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The inscriptions were a kind of user manual, describing what the dials showed and how to read them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hand-cranked cosmos.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The mechanism sat in a wooden box about the size of a shoebox, with dials front and back.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A user turned a handle on the side, moving the date forward or backward, and the gears carried the motion to the pointers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The front showed the zodiac and a 365-day calendar, with pointers for the sun and moon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small ball, half pale and half dark, rotated to show the moon's phase.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers believe it also showed the five planets known to the Greeks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The moon does not move at a steady speed: it moves faster when closer to Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two slightly off-centre gears, linked by a pin sliding in a slot, made its pointer speed up and slow down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is astronomy and engineering in a few centimetres of bronze.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Predicting eclipses.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The back held two large spiral dials.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One followed the Metonic cycle: 19 solar years almost exactly match 235 lunar months, which helped keep lunar and solar calendars in step.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other tracked the Saros cycle of 223 lunar months, after which similar eclipses tend to recur.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inscriptions marked months when solar or lunar eclipses could be expected, and some even noted the likely time of day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These cycles were known from centuries of Babylonian astronomical records.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Greeks combined that knowledge with their own geometric models of the heavens and turned the results into gears, so a user could predict eclipses years ahead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small dial tracked a four-year cycle of major Panhellenic games, including the Olympics, so the device served everyday life too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A lost technology.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Who made it is still debated.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Estimates range across the second and early first centuries BC, and the calendar's month names point to Corinthian colonies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some connect it to Archimedes of Syracuse, but there is no proof.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most startling thing is that it is unique.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nothing of similar complexity survives from the ancient world, and nothing like it is known until astronomical clocks appeared in medieval Europe more than a thousand years later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cicero mentions devices showing the heavens, so it was probably not the only one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bronze was often melted down, which may explain why others did not survive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021, a University College London team published a new reconstruction of the front display.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fragments are in the National Archaeological Museum in Athens.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sponge divers found a Roman-era shipwreck in 1900, and a corroded lump from it turned out to contain a gear wheel.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. What the Greeks gave us.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Theatre, the Olympics, geometry, medicine and thousands of everyday words.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You use Ancient Greece every day without noticing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Olympic Games and theatre.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every four years, athletes from across the Greek world gathered at Olympia to honour Zeus.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A sacred truce allowed safe travel.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The earliest event was a sprint of about 190 metres, the stadion, which gave us the word stadium.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Winners received an olive wreath.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The games ended around AD 393 and were revived in Athens in 1896.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Athens, plays were performed at festivals for the god Dionysus in huge open-air theatres; the one at Epidaurus seated around 14,000.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tragedies by Aeschylus, Sophocles and Euripides explored fate, pride and suffering.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comedies, especially by Aristophanes, mocked politicians and celebrities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Actors, all men, wore masks, while a chorus sang and commented.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drama, scene, chorus, tragedy, comedy and theatre are all Greek.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Homer and the myths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Iliad and the Odyssey, epic poems credited to Homer, were probably written down in the 700s BC after generations of oral performance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Iliad tells of the rage of Achilles during the Trojan War; the Odyssey follows Odysseus' ten-year struggle to get home.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greeks memorised and quoted them as we might quote Shakespeare.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek myths of gods and heroes, from Zeus and Athena to Heracles and Medusa, still fill films, novels and games.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phrases like Achilles' heel, a Trojan horse, Pandora's box and a herculean task all come from these stories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maths, science and medicine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Euclid's Elements, written in Alexandria around 300 BC, organised geometry into proofs built from a few simple starting assumptions.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was a textbook for over 2,000 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archimedes showed that pi lies between 3 10/71 and 3 1/7 and worked out the principle of buoyancy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eratosthenes estimated the circumference of the Earth by comparing noon shadows in two Egyptian cities, getting surprisingly close.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aristarchus even suggested the Earth orbits the Sun.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hippocrates of Kos, born around 460 BC, taught that illnesses have natural causes, not divine punishment, and that doctors should carefully record symptoms.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His followers' theory of four humours was wrong, yet it dominated Western medicine for about 2,000 years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Hippocratic Oath inspired modern pledges such as the Declaration of Geneva.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek architecture.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greek temples followed strict proportions and used three main column styles, called orders.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doric columns are plain and sturdy, Ionic columns have scroll-shaped tops, and Corinthian columns are topped with carved acanthus leaves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Builders even used subtle tricks: the Parthenon's columns swell slightly and lean inwards so the building looks perfectly straight from a distance.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Romans copied these styles, and they spread again during the Renaissance and the Greek Revival of the 1700s and 1800s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look at courthouses, banks and museums, including many in Australian cities, and you'll often see Greek-style columns and triangular pediments.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alphabet and words.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around the 800s BC, Greeks adapted the alphabet of the Phoenicians, seafaring traders from modern Lebanon.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phoenician writing recorded only consonants, so the Greeks turned some unneeded letters into vowels.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Greek alphabet then passed to the Etruscans and Romans, becoming the Latin alphabet used for English, and later inspired Cyrillic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek letters are everywhere in science: pi for circles, delta for change, alpha, beta and gamma for radiation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English is packed with Greek: democracy, philosophy, biology, telephone and alphabet itself.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cardiology comes from kardia, heart, and -itis means inflammation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An odyssey is a long journey, after Odysseus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learning roots like tele, far, graph, write, and bio, life, helps you decode unfamiliar words.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Greeks gave us the Olympics and theatre, along with words like stadium, drama and chorus.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What was the Ptolemies' ambitious aim for the Library?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To gather every important Greek book and translations.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How was the mechanism's significance first hinted at?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A gear wheel was noticed embedded in a corroded lump from the wreck.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What do the words stadium, drama and chorus have in common?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They all come from Greek.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

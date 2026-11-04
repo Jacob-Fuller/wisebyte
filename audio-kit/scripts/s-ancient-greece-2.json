@@ -1,12 +1,11 @@
 {
  "id": "s-ancient-greece-2",
- "h": "greek-philosophers,alexander,antikythera-mechanism,greek-legacy",
+ "h": "greek-wars,greek-philosophers,alexander",
  "title": "Ancient Greece · Episode 2",
  "chapters": [
+  "Marathon, Thermopylae and Salamis",
   "Socrates, Plato and Aristotle",
-  "Alexander the Great",
-  "The Antikythera mechanism: an ancient computer",
-  "What the Greeks gave us"
+  "Alexander the Great"
  ],
  "units": [
   {
@@ -16,1136 +15,830 @@
    "ps": false
   },
   {
-   "t": "In this episode: Socrates, Plato and Aristotle, Alexander the Great, The Antikythera mechanism: an ancient computer and What the Greeks gave us.",
+   "t": "In this episode: Marathon, Thermopylae and Salamis, Socrates, Plato and Aristotle and Alexander the Great.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Socrates, Plato and Aristotle.",
+   "t": "Part one. Marathon, Thermopylae and Salamis.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In the 400s BC the mighty Persian Empire invaded Greece twice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Three battles decided whether Greek civilisation would survive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An empire and a revolt.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 500 BC, the Achaemenid Persian Empire ruled millions of people across three continents, linked by royal roads and governed through provinces called satrapies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greek cities on the coast of Ionia, in modern Turkey, were under Persian control.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they rebelled in 499 BC, Athens and Eretria sent ships to help, and rebels burned the provincial capital of Sardis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "King Darius I crushed the revolt and resolved to punish Athens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wars that followed pitted a vast, well-organised empire against a handful of quarrelsome Greek city-states, and the outcome shaped the history of Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hoplites and triremes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A Greek hoplite was a citizen-soldier who bought his own armour: a bronze helmet, a large round shield and a long thrusting spear.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hoplites fought shoulder to shoulder in a phalanx, each man's shield partly protecting his neighbour, so discipline mattered more than individual heroics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At sea, the key weapon was the trireme, a sleek warship rowed by about 170 oarsmen on three levels, with a bronze ram at the bow for smashing enemy hulls.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rowers were often poorer citizens, and their importance to the navy later strengthened their political voice in Athens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marathon, 490 BC.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 490 BC a Persian fleet landed at Marathon, about 40 kilometres from Athens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Athenians, joined by the small city of Plataea, were outnumbered but charged across the plain and won a decisive victory.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Herodotus says about 6,400 Persians died against 192 Athenians, figures that may be inflated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He also tells of a runner, Pheidippides, who ran roughly 240 kilometres to Sparta to ask for help before the battle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The more famous story, of a messenger running from Marathon to Athens and dying after announcing victory, appears in later writers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It inspired the marathon race at the 1896 Olympics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thermopylae, 480 BC.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darius died before he could strike again, so his son Xerxes planned a far bigger invasion.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His engineers built bridges of boats across the Hellespont and dug a canal through the Athos peninsula.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 480 BC a vast army and navy moved into Greece.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many Greek cities submitted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others, led by Sparta and Athens, formed an alliance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Greek force of several thousand, including King Leonidas and 300 Spartans, blocked the narrow pass of Thermopylae.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For three days they held off the Persians, including the elite Immortals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then a local Greek, Ephialtes, showed the Persians a mountain path around the pass.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leonidas sent most of the army away and stayed with a rearguard of Spartans and several hundred Thespians, who were killed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a defeat, but it bought time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Salamis, Plataea and legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Persians burned an evacuated Athens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Themistocles had earlier persuaded the city to spend a silver strike on around 200 triremes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now he lured the bigger Persian fleet into the narrow straits near Salamis, reportedly with a false message that the Greeks were about to flee.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crowded together, the Persian ships couldn't manoeuvre, and the Greek triremes rammed and sank many.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 479 BC, the Greeks defeated Mardonius's army at Plataea, and the invasions were over.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Had Persia won, Athens' democracy and golden age might never have happened.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Herodotus, writing a generation later, is called the father of history.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But he included myths and rumours, so his numbers, such as Xerxes' army of millions, are almost certainly exaggerated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Persia's punishment of Athens for helping a revolt set up a clash between an empire and quarrelsome city-states.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Socrates, Plato and Aristotle.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Three thinkers, teacher to student to student, laid the foundations of Western philosophy, science and politics.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before the philosophers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Around 600 BC, thinkers in Greek cities began asking what the world was made of, without appealing to gods.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Thales of Miletus thought everything came from water, and is said to have predicted a solar eclipse.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pythagoras and his followers found mathematical patterns in music and the cosmos.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Heraclitus said everything is always changing: you can't step into the same river twice.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Democritus, building on his teacher Leucippus, proposed that all matter is made of tiny indivisible particles, which he called atoms.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "They were often wrong in the details, but the method mattered: seeking natural explanations and arguing about them openly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Socrates: question everything.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Socrates, about 470–399 BC, wrote nothing down.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "We know him through his students, mainly Plato and Xenophon.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A stonemason's son who served as a hoplite, he wandered Athens barefoot, questioning people who claimed to know about justice, courage or goodness, until their confident definitions fell apart.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He said he was wise only because he knew how little he knew.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 399 BC, a jury convicted him of corrupting the youth and disrespecting the city's gods, and he was sentenced to death by drinking hemlock.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He refused his friends' offer to help him escape.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Socratic method.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Socratic method starts with a claim, such as 'courage is standing firm in battle', then asks questions that reveal exceptions and contradictions, forcing a better definition.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many dialogues end without a final answer, but everyone understands the problem more clearly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "At his trial, as Plato records it, Socrates declared that 'the unexamined life is not worth living'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The method lives on in tutorials, law school classes where students are questioned on cases, and coaching and therapy that help people examine their own assumptions.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Its core habit, asking 'how do you know?'",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": ", is useful anywhere.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Plato: Forms and the Republic.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Plato, about 428–348 BC, wrote around 35 dialogues, most starring Socrates, and founded the Academy in Athens around 387 BC.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He argued that the things we see are imperfect copies of perfect, eternal Forms: every circle you draw is slightly flawed, but the Form of a circle is perfect.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In his allegory of the cave, prisoners chained in the dark mistake shadows on a wall for reality, and philosophy is the journey out into the light.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In The Republic, he imagined a city of workers, guardians and rulers, ruled by philosopher-kings trained for decades to know the Good.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He argued suitable women could be guardians too.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He distrusted democracy, partly because it had executed Socrates.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Critics, from Aristotle to Karl Popper, argue his ideal state would be authoritarian.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Aristotle and survival.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Aristotle, 384–322 BC, studied at Plato's Academy for about 20 years, tutored Alexander the Great, then founded the Lyceum.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Unlike Plato, he believed knowledge starts with careful observation.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He dissected animals, noted that dolphins breathe air, and developed the first formal system of logic.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some of his science was wrong, like heavier objects falling faster, but his method endured.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In ethics, he said a good life is eudaimonia, flourishing through practising virtue.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Each virtue is a balance between extremes: truthfulness sits between boastfulness and false modesty.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Greek learning survived in the Byzantine Empire and the Islamic world, where scholars in Baghdad translated Aristotle.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "It returned to Europe through Latin translations.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Whitehead called European philosophy 'a series of footnotes to Plato'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: From around 600 BC, Greek thinkers sought natural explanations for the world and argued about them openly.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Alexander the Great.",
-   "c": 1,
+   "t": "Part three. Alexander the Great.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Before he turned 33, he built one of the largest empires in history.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Then it fell apart almost overnight.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A prince of Macedon.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Macedon, north of Greece, was seen by many Greeks as half-barbarian.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Philip II turned it into a military power, reorganising its army around the phalanx: dense blocks of soldiers with pikes called sarissas, around five to six metres long.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "His son Alexander was educated by Aristotle, who taught him philosophy, medicine and literature.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Alexander reportedly slept with a copy of Homer's Iliad under his pillow and saw himself as a new Achilles.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "At 18 he commanded cavalry at Chaeronea.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When Philip was assassinated in 336 BC, Alexander became king at 20 and quickly crushed rivals and rebellious Greek cities.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Legend adds that he tamed the wild horse Bucephalus by noticing it feared its own shadow.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Conquering Persia.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 334 BC Alexander crossed into Asia with around 40,000 soldiers.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He defeated Persian forces at the Granicus River, then beat King Darius III himself at Issus in 333 BC.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "After a seven-month siege of the island city of Tyre, he took Egypt, where he founded Alexandria and was welcomed as pharaoh.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 331 BC he crushed Darius again at Gaugamela, in modern Iraq, and marched into Babylon and the Persian capitals.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Darius was killed by his own nobles in 330 BC.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Alexander now ruled the old Persian Empire.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "At Gordium in 333 BC, legend says he sliced through a tangled knot that only Asia's future ruler could undo.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "'Cutting the Gordian knot' now means solving a hard problem boldly.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Edge of the world.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Alexander kept marching east through modern Afghanistan, Uzbekistan and Pakistan, fighting difficult guerrilla campaigns in the mountains.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 326 BC he defeated King Porus at the Hydaspes River in a hard-fought battle that included war elephants.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Impressed, he let Porus keep ruling as an ally.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Alexander wanted to push on to what he believed was the edge of the world, but at the Hyphasis River his soldiers, who had marched thousands of kilometres over eight years, refused.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He turned back, leading part of the army through the Gedrosian desert, a brutal crossing that cost many lives.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "General, ruler and sudden death.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Alexander never lost a major battle.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He combined infantry, cavalry and siege engineering and often charged at the head of his Companion cavalry.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He tried to blend Greek and Persian rule, adopting Persian dress and marrying Roxana and later Persian princesses.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He could also be brutal: he razed Thebes, killed or enslaved thousands at Tyre, and killed his friend Cleitus in a drunken rage.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 323 BC, he fell ill in Babylon and died after about two weeks, aged 32.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The cause is still debated: fever, typhoid, malaria, heavy drinking and poison have all been suggested.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Asked who should inherit, he supposedly said, 'To the strongest.'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "His generals fought for decades, and the empire broke into kingdoms, including Ptolemaic Egypt and the Seleucid Empire.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Hellenistic world.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The three centuries after Alexander are called the Hellenistic period.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A common form of Greek, koine, became a shared language from Egypt to Afghanistan.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Alexandria grew into the intellectual capital of the ancient world, with its famous Library and scholars like Euclid.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Greek art mixed with local traditions, producing Greek-influenced Buddhist statues in Gandhara.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Those who marched with Alexander wrote about him, but their works are lost.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The surviving histories, by Arrian, Plutarch, Diodorus, Quintus Curtius and Justin, were written between about 300 and 500 years later.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some portray him as a hero, others as a tyrant ruined by power and drink.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "So when you meet a vivid Alexander story, ask who told it, when, and why.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Philip II built Macedon into a military power, and his son Alexander became king at 20.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. The Antikythera mechanism: an ancient computer.",
    "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Divers searching for sponges found a lump of corroded bronze in a Roman-era shipwreck.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "More than a century later, scientists realised it was a geared machine that modelled the heavens.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Treasure from the deep.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1900, Greek sponge divers sheltering from a storm near the island of Antikythera, between Crete and the Greek mainland, found an ancient shipwreck.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Over the next year, with only basic diving gear, they and the Greek government recovered bronze and marble statues, glassware, coins and pottery.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The ship sank in the first century BC, probably carrying luxury goods towards Italy.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Among the finds were unremarkable lumps of corroded bronze and wood.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1902 the archaeologist Valerios Stais noticed a gear wheel embedded in one.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Few people could believe the ancient Greeks had built anything so intricate, and for decades the object remained a puzzle in an Athens museum.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Gears hidden in rock.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The mechanism survives in 82 fragments, the largest about the size of a hand.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Inside are at least 30 interlocking bronze gears, some with teeth only a millimetre or two apart.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1950s the British physicist and historian Derek de Solla Price began studying it seriously.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "With X-ray images in the 1970s, he proposed that it was a calendar computer.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Then, in 2005, the Antikythera Mechanism Research Project used high-resolution X-ray CT scanning and advanced surface imaging.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These revealed hidden gears and thousands of tiny inscribed letters, many unseen for two thousand years.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The inscriptions were a kind of user manual, describing what the dials showed and how to read them.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A hand-cranked cosmos.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The mechanism sat in a wooden box about the size of a shoebox, with dials front and back.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A user turned a handle on the side, moving the date forward or backward, and the gears carried the motion to the pointers.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The front showed the zodiac and a 365-day calendar, with pointers for the sun and moon.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A small ball, half pale and half dark, rotated to show the moon's phase.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Researchers believe it also showed the five planets known to the Greeks.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The moon does not move at a steady speed: it moves faster when closer to Earth.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Two slightly off-centre gears, linked by a pin sliding in a slot, made its pointer speed up and slow down.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That is astronomy and engineering in a few centimetres of bronze.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Predicting eclipses.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The back held two large spiral dials.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One followed the Metonic cycle: 19 solar years almost exactly match 235 lunar months, which helped keep lunar and solar calendars in step.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The other tracked the Saros cycle of 223 lunar months, after which similar eclipses tend to recur.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Inscriptions marked months when solar or lunar eclipses could be expected, and some even noted the likely time of day.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These cycles were known from centuries of Babylonian astronomical records.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Greeks combined that knowledge with their own geometric models of the heavens and turned the results into gears, so a user could predict eclipses years ahead.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A small dial tracked a four-year cycle of major Panhellenic games, including the Olympics, so the device served everyday life too.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A lost technology.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Who made it is still debated.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Estimates range across the second and early first centuries BC, and the calendar's month names point to Corinthian colonies.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some connect it to Archimedes of Syracuse, but there is no proof.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The most startling thing is that it is unique.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Nothing of similar complexity survives from the ancient world, and nothing like it is known until astronomical clocks appeared in medieval Europe more than a thousand years later.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cicero mentions devices showing the heavens, so it was probably not the only one.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bronze was often melted down, which may explain why others did not survive.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2021, a University College London team published a new reconstruction of the front display.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The fragments are in the National Archaeological Museum in Athens.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Sponge divers found a Roman-era shipwreck in 1900, and a corroded lump from it turned out to contain a gear wheel.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. What the Greeks gave us.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Theatre, the Olympics, geometry, medicine and thousands of everyday words.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "You use Ancient Greece every day without noticing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Olympic Games and theatre.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Every four years, athletes from across the Greek world gathered at Olympia to honour Zeus.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A sacred truce allowed safe travel.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The earliest event was a sprint of about 190 metres, the stadion, which gave us the word stadium.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Winners received an olive wreath.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The games ended around AD 393 and were revived in Athens in 1896.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In Athens, plays were performed at festivals for the god Dionysus in huge open-air theatres; the one at Epidaurus seated around 14,000.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Tragedies by Aeschylus, Sophocles and Euripides explored fate, pride and suffering.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Comedies, especially by Aristophanes, mocked politicians and celebrities.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Actors, all men, wore masks, while a chorus sang and commented.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Drama, scene, chorus, tragedy, comedy and theatre are all Greek.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Homer and the myths.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Iliad and the Odyssey, epic poems credited to Homer, were probably written down in the 700s BC after generations of oral performance.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Iliad tells of the rage of Achilles during the Trojan War; the Odyssey follows Odysseus' ten-year struggle to get home.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Greeks memorised and quoted them as we might quote Shakespeare.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Greek myths of gods and heroes, from Zeus and Athena to Heracles and Medusa, still fill films, novels and games.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Phrases like Achilles' heel, a Trojan horse, Pandora's box and a herculean task all come from these stories.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Maths, science and medicine.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Euclid's Elements, written in Alexandria around 300 BC, organised geometry into proofs built from a few simple starting assumptions.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It was a textbook for over 2,000 years.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Archimedes showed that pi lies between 3 10/71 and 3 1/7 and worked out the principle of buoyancy.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Eratosthenes estimated the circumference of the Earth by comparing noon shadows in two Egyptian cities, getting surprisingly close.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Aristarchus even suggested the Earth orbits the Sun.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hippocrates of Kos, born around 460 BC, taught that illnesses have natural causes, not divine punishment, and that doctors should carefully record symptoms.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His followers' theory of four humours was wrong, yet it dominated Western medicine for about 2,000 years.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Hippocratic Oath inspired modern pledges such as the Declaration of Geneva.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Greek architecture.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Greek temples followed strict proportions and used three main column styles, called orders.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Doric columns are plain and sturdy, Ionic columns have scroll-shaped tops, and Corinthian columns are topped with carved acanthus leaves.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Builders even used subtle tricks: the Parthenon's columns swell slightly and lean inwards so the building looks perfectly straight from a distance.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Romans copied these styles, and they spread again during the Renaissance and the Greek Revival of the 1700s and 1800s.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Look at courthouses, banks and museums, including many in Australian cities, and you'll often see Greek-style columns and triangular pediments.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Alphabet and words.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Around the 800s BC, Greeks adapted the alphabet of the Phoenicians, seafaring traders from modern Lebanon.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Phoenician writing recorded only consonants, so the Greeks turned some unneeded letters into vowels.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Greek alphabet then passed to the Etruscans and Romans, becoming the Latin alphabet used for English, and later inspired Cyrillic.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Greek letters are everywhere in science: pi for circles, delta for change, alpha, beta and gamma for radiation.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "English is packed with Greek: democracy, philosophy, biology, telephone and alphabet itself.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Cardiology comes from kardia, heart, and -itis means inflammation.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "An odyssey is a long journey, after Odysseus.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Learning roots like tele, far, graph, write, and bio, life, helps you decode unfamiliar words.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The Greeks gave us the Olympics and theatre, along with words like stadium, drama and chorus.",
-   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. What was new about the first Greek philosophers' approach?",
-   "c": 4,
+   "t": "Question one. Why did Darius I resolve to punish Athens?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Athens had helped the Ionian Greek revolt.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was new about the first Greek philosophers' approach?",
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. They looked for natural explanations, not gods.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. How did Philip II turn Macedon into a military power?",
-   "c": 4,
+   "t": "Question three. How did Philip II turn Macedon into a military power?",
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. By reorganising its army around the pike phalanx.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. How was the mechanism's significance first hinted at?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. A gear wheel was noticed embedded in a corroded lump from the wreck.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What do the words stadium, drama and chorus have in common?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. They all come from Greek.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

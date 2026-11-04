@@ -1,9 +1,9 @@
 {
  "id": "s-mythology-3",
- "h": "irish-myths,maui-polynesian-myths,aboriginal-dreaming",
+ "h": "king-arthur-legend,maui-polynesian-myths,aboriginal-dreaming",
  "title": "Mythology · Episode 3",
  "chapters": [
-  "Ireland's gods, heroes and fairy mounds",
+  "King Arthur: how a legend was built",
   "Māui and the myths of Polynesia",
   "The Dreaming: law, land and story"
  ],
@@ -15,277 +15,295 @@
    "ps": false
   },
   {
-   "t": "In this episode: Ireland's gods, heroes and fairy mounds, Māui and the myths of Polynesia and The Dreaming: law, land and story.",
+   "t": "In this episode: King Arthur: how a legend was built, Māui and the myths of Polynesia and The Dreaming: law, land and story.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Ireland's gods, heroes and fairy mounds.",
+   "t": "Part one. King Arthur: how a legend was built.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Before St Patrick, Ireland had shining gods who vanished into the hills, a hero who could fight an army alone, and a giant who supposedly built a causeway to Scotland.",
+   "t": "There may never have been a King Arthur.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Stories saved by monks.",
+   "t": "Yet over a thousand years, writers in Wales, England and France assembled Camelot, the Round Table and the Holy Grail piece by piece.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faint traces after Rome.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The pre-Christian Irish left no written scriptures.",
+   "t": "Roman authority in Britain collapsed in the early fifth century.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Poets and druids, trained for years, carried genealogies, laws and tales in memory.",
+   "t": "Over the next two hundred years, Anglo-Saxon groups settled much of what became England, while Britons held out in the west and north.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "What we have comes mostly from manuscripts copied by monks between roughly the eighth and fifteenth centuries, long after Ireland became Christian.",
+   "t": "Written records are extremely thin, which is why legends could flourish.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That makes the stories wonderful but tricky.",
+   "t": "A British monk, Gildas, writing in the sixth century, described a British victory over the Saxons at Mount Badon.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The scribes preserved them with affection, yet they also reshaped them, turning old gods into ancient kings and fitting Irish history into a biblical timeline.",
+   "t": "Tellingly, he never mentions Arthur.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scholars sort the tales into groups: the Mythological Cycle, the Ulster Cycle, the Fenian Cycle and the Cycles of the Kings.",
+   "t": "The earliest possible reference is in a Welsh poem, Y Gododdin, which praises a warrior as brave, \"though he was no Arthur\".",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Invaders and shining ones.",
+   "t": "Its date is uncertain and the line may be a later addition.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From these faint traces, a towering figure would grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Twelve battles.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The medieval Lebor Gabála Érenn, the \"Book of the Taking of Ireland\", tells of Ireland settled in waves, from Partholón and Nemed to the Fir Bolg, each struggling against the monstrous Fomorians.",
+   "t": "Around 830, the Latin Historia Brittonum, traditionally linked to a monk named Nennius, listed twelve battles fought by Arthur, a \"leader of battles\", ending at Badon.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Then came the Tuatha Dé Danann, magical beings who arrived wrapped in mist, and finally the Milesians, ancestors of the Irish.",
+   "t": "Some sites are impossible to locate, and one passage has him carrying an image of the Virgin Mary into combat.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Compiled largely in the eleventh century, it is legend, not history.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many scholars see the Tuatha Dé as former gods.",
+   "t": "A later Welsh chronicle, the Annales Cambriae, records Badon and also Camlann, \"in which Arthur and Medraut fell\".",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Lugh, master of every craft, led them to victory over the Fomorians.",
+   "t": "Medraut would become the treacherous Mordred.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Brigid, linked with poetry and healing, lives on as St Brigid.",
+   "t": "Early Welsh poems and tales show a different Arthur, leading heroes against giants, witches and a monstrous boar.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Morrígan, goddess of war, could become a crow.",
+   "t": "Most historians now think there is not enough evidence to say whether a real Arthur existed, though the debate continues.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "When the Milesians won, the Tuatha Dé withdrew into the sídhe, the ancient mounds, and became the fairy folk of folklore.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cú Chulainn, the Hound.",
+   "t": "Geoffrey's bestseller.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The boy Sétanta, nephew of King Conchobar of Ulster, arrived late to a feast at the smith Culann's house.",
+   "t": "The Arthur most people know was launched by Geoffrey of Monmouth, a cleric in Oxford.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Culann's ferocious guard dog attacked him, and he killed it.",
+   "t": "His History of the Kings of Britain, completed around 1136, claimed to be translated from an ancient British book, a claim most scholars doubt.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Seeing the smith's grief, the boy offered to be his hound until a new one was raised.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "So he became Cú Chulainn, \"Culann's Hound\".",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In battle he could be seized by a terrifying frenzy, the ríastrad, which twisted his body into a monstrous shape.",
+   "t": "Geoffrey gave Arthur a dramatic life.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the epic Táin Bó Cúailnge, the \"Cattle Raid of Cooley\", Queen Medb of Connacht invades Ulster to seize a prize bull.",
+   "t": "Merlin's magic lets Uther Pendragon visit Igerna at Tintagel, and Arthur is conceived.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Ulster warriors lie helpless under a curse, so the teenage Cú Chulainn holds back her army alone, fighting a long series of duels at a river ford.",
+   "t": "As king, Arthur defeats the Saxons, conquers much of Europe and challenges Rome itself.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A hero's death.",
+   "t": "While he is away, his nephew Mordred seizes the throne and Guinevere.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arthur returns, kills Mordred and is mortally wounded, then carried to the island of Avalon to be healed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The book was a medieval sensation, surviving in more than two hundred manuscripts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Knights, table and Grail.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Irish heroes lived under geasa, sacred prohibitions that could not be broken without disaster.",
+   "t": "Writers across the Channel dressed Geoffrey's warrior king in courtly fashion.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Cú Chulainn was bound never to eat dog meat, yet also never to refuse hospitality.",
+   "t": "In 1155 the Norman poet Wace retold the history in French verse and introduced the Round Table, where no knight could claim the place of honour.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Before his last battle, three old women offered him dog meat, and either choice meant breaking a geis.",
+   "t": "Later, Chrétien de Troyes shifted attention from Arthur to his knights.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Weakened, he fought on.",
+   "t": "He gave us the earliest surviving story of Lancelot's love for Guinevere, and first mentioned Camelot.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Mortally wounded, he tied himself to a standing stone so that he could die on his feet, facing his enemies.",
+   "t": "Chrétien's unfinished Perceval, from the 1180s, introduced a mysterious graal, a serving dish carried in a procession.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They dared not approach until a crow, the sign of the Morrígan, landed on his shoulder.",
+   "t": "He died before explaining it.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A bronze statue of the dying Cú Chulainn stands in Dublin's General Post Office as a memorial to those who fought in the 1916 Easter Rising.",
+   "t": "Soon Robert de Boron identified the Grail as the vessel of the Last Supper, and later romances made the quest a spiritual test that most knights failed.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Fionn, swans and Youth.",
+   "t": "The pure Galahad, Lancelot's son, achieves it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Malory and the returning king.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Fenian Cycle follows Fionn mac Cumhaill and his war band.",
+   "t": "In 1191, monks at Glastonbury Abbey announced they had found the grave of Arthur and Guinevere.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "As a youth he served a poet who had spent seven years trying to catch the Salmon of Knowledge.",
+   "t": "The abbey needed funds after a fire, and many historians suspect the find was staged.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Told to cook it but not taste it, Fionn burnt his thumb, sucked it, and gained all its wisdom.",
+   "t": "It still tied Avalon to Glastonbury.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Later folklore made him a giant who built the Giant's Causeway as a road to Scotland, a playful tale about land formed by cooling lava.",
+   "t": "Nearly three centuries later, Sir Thomas Malory, who wrote at least part of his work in prison, gathered the French and English stories into one English prose narrative.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the Children of Lir, a jealous stepmother turns four children into swans for nine hundred years.",
+   "t": "William Caxton printed it in 1485 as Le Morte d'Arthur, the main source for later retellings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legend said Arthur would return in Britain's hour of need, and he has.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When the spell breaks, they age and die.",
+   "t": "Tennyson made him a model of Victorian duty.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Fionn's son Oisín rides to Tír na nÓg, the Land of Youth.",
+   "t": "T. H. White used him to think about power after two world wars.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "After what seems three years, he visits home and finds three hundred have passed.",
+   "t": "Arthur stands for the hope of a just ruler, and the sadness when good kingdoms fall.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Touching the ground, he ages instantly.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Most Irish myths survive only because medieval Christian scribes wrote them down, and they reshaped them as they did.",
+   "t": "The key idea: Arthur's story grew from very thin records in the obscure centuries after Roman rule ended in Britain.",
    "c": 0,
    "k": "s",
    "ps": true
@@ -873,13 +891,13 @@
    "ps": false
   },
   {
-   "t": "Question one. Why are Irish myths tricky to treat as pure pre-Christian belief?",
+   "t": "Question one. Why could Arthur legends flourish in the centuries after Rome?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Monks wrote them down and reshaped them.",
+   "t": "Answer. Written records from the period are extremely thin.",
    "c": 3,
    "k": "a",
    "ps": false

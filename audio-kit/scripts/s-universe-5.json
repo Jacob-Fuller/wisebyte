@@ -1,0 +1,1153 @@
+{
+ "id": "s-universe-5",
+ "h": "exoplanets,black-holes,gravitational-waves,big-bang",
+ "title": "The Universe · Episode 5",
+ "chapters": [
+  "Exoplanets: worlds beyond the Sun",
+  "How black holes work",
+  "Gravitational waves: hearing the universe",
+  "The Big Bang"
+ ],
+ "units": [
+  {
+   "t": "The Universe. Episode five.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Exoplanets: worlds beyond the Sun, How black holes work, Gravitational waves: hearing the universe and The Big Bang.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Exoplanets: worlds beyond the Sun.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Thirty-odd years ago we knew of no planets around other stars like the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now we know of more than 6,000, and some might be able to hold liquid water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From zero to thousands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An exoplanet is any planet orbiting a star other than the Sun.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For centuries people wondered whether they existed, but they were too faint and too close to their bright stars to see.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1992 astronomers confirmed planets orbiting a pulsar, the dead core of an exploded star.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1995 Swiss astronomers Michel Mayor and Didier Queloz found 51 Pegasi b around a Sun-like star, earning the 2019 Nobel Prize in Physics.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was a surprise: a giant like Jupiter circling its star every four days.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By 2025 the count of confirmed exoplanets passed 6,000, and it keeps climbing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Transit and wobble.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most known exoplanets were found by the transit method.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When a planet crosses its star, it blocks a tiny fraction of the light: about 1 per cent for a Jupiter-sized planet, and one part in 10,000 for an Earth-sized one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dip reveals the planet's size, and the time between dips gives its orbit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only planets aligned edge-on to us transit, so many more go unseen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers use statistics to account for them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wobble method works because a planet and its star circle a shared centre of mass.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The star moves slightly towards us, then away, stretching and squeezing its light by the Doppler effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This found 51 Pegasi b and hundreds more, and it gives the planet's mass.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Combined with a transit, mass reveals density: rocky, watery or gassy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kepler, TESS and Webb.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "NASA's Kepler space telescope, launched in 2009, stared at one patch of sky containing about 150,000 stars.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By 2018 it had found more than 2,600 confirmed planets, and showed that planets are common, likely outnumbering stars in our galaxy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its successor, TESS, launched in 2018, scans most of the sky for planets around bright, nearby stars that are easier to study.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The James Webb Space Telescope, launched in 2021, can analyse starlight filtering through a planet's atmosphere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2022 it clearly detected carbon dioxide on a hot giant called WASP-39b.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bigger telescopes are coming, including the Giant Magellan Telescope, with Australian partners.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Citizen science projects such as Planet Hunters also let volunteers spot transits in real data.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strange new worlds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Exoplanets have overturned expectations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hot Jupiters are gas giants orbiting so close to their stars that their years last only days.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kepler-16b orbits two stars, so it would have two suns in its sky, like Tatooine in Star Wars.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most common planets found so far are super-Earths and sub-Neptunes, sizes between Earth and Neptune that our solar system lacks entirely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The TRAPPIST-1 system, about 40 light-years away, has seven roughly Earth-sized planets, some in the habitable zone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The nearest known exoplanet, Proxima Centauri b, circles the closest star to the Sun, 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "2 light-years away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even so, at the speed of the Voyager probes it would take over 70,000 years to reach.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Habitable zone, and life.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Life as we know it needs liquid water, so astronomers look in a star's habitable zone: not too hot, not too cold for surface water.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around a dim red dwarf the zone sits very close in; around a bright star, far out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a starting point, not a verdict.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Venus lies near the Sun's inner edge but is scorching, and Mars near the outer edge is frozen and dry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To search for life, astronomers study atmospheres for biosignatures, such as oxygen alongside methane, which shouldn't linger together unless replenished.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Claims need extreme care.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2025 a team reported a possible hint of a life-linked sulphur compound on K2-18b, but other scientists found the evidence weak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So far, there is no confirmed evidence of life beyond Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The first exoplanets were confirmed in the 1990s, and more than 6,000 are known today.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How black holes work.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Places where gravity wins completely, time slows down and even light can't escape.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gravity that won't let go.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every object has an 'escape velocity': about 11 kilometres per second for Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a black hole it exceeds the speed of light, about 300,000 kilometres per second, and since nothing travels faster than light, nothing gets out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1783, English clergyman John Michell imagined 'dark stars' that light couldn't escape.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The modern idea came from Einstein's general relativity, 1915, which describes gravity as the bending of space and time by mass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Karl Schwarzschild soon found that the equations allowed such regions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades many physicists, including Einstein, doubted they existed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name 'black hole' was popularised in the late 1960s.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Born from dying stars.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A star of roughly 20 or more times the Sun's mass eventually runs out of fuel.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without the outward push of nuclear fusion, its core collapses under its own gravity in a fraction of a second, often triggering a supernova that blasts away the outer layers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What remains is crushed into a black hole.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Milky Way probably contains millions of these stellar black holes, most of them invisible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most large galaxies also have a supermassive black hole at their centre, weighing millions to billions of Suns.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gas falling into one can heat up and shine brighter than a whole galaxy, creating a quasar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The point of no return.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The boundary around a black hole is the event horizon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Outside it, a powerful enough rocket could still escape.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside, every possible path leads further in.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A black hole with the mass of our Sun would have an event horizon only about 6 kilometres across, and Earth squeezed into one would be about the size of a marble.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the centre, general relativity predicts a 'singularity', where our current physics breaks down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gravity strengthens closer to a mass.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Near a small black hole, the pull on your feet would far exceed the pull on your head, stretching you like a noodle.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists really do call this spaghettification.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near a supermassive black hole the stretching at the horizon is gentler, so you could cross it unaware, but you'd never come back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time slows down.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Einstein's general relativity predicts that time passes more slowly in stronger gravity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It isn't only theory: clocks on GPS satellites, high above Earth in weaker gravity, tick slightly faster than clocks on the ground, and the system must correct for it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near a black hole the effect becomes extreme.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To a distant observer, a clock falling towards a black hole would appear to tick slower and slower as it neared the event horizon, its light growing dimmer and redder.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing the invisible.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black holes can't be seen directly, but their surroundings can.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astronomers proved our galaxy's supermassive black hole, Sagittarius A*, is there by tracking stars whipping around an invisible object at enormous speeds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It weighs about 4 million Suns and lies around 26,000 light-years away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That work won the 2020 Nobel Prize in Physics.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2015, the LIGO detectors in the US picked up gravitational waves, tiny ripples in space itself, from two black holes colliding more than a billion light-years away.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2019, the Event Horizon Telescope, a network of radio telescopes working as one Earth-sized dish, released the first image of a black hole's shadow, in galaxy M87.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2022 it imaged Sagittarius A*.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A black hole is a region where gravity is so strong that not even light can escape.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Gravitational waves: hearing the universe.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A century after Einstein predicted them, scientists caught a ripple in space itself that had travelled for over a billion years from two colliding black holes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ripples too faint to feel.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drop a stone into a pond and ripples spread outward.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1916 Albert Einstein realised his theory of general relativity predicted something similar in space itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mass and energy curve spacetime, and when massive objects accelerate, especially in close orbits, they send out ripples at the speed of light.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A passing wave stretches space in one direction and squeezes it in the other, including the space you occupy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But spacetime is extraordinarily stiff.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first wave measured changed the length of a four-kilometre detector arm by about a thousandth of the width of a proton.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Einstein doubted anyone could ever measure it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before then, the only evidence was indirect: a neutron star pair, found in 1974, spiralling together at just the rate expected.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The detectors.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Laser Interferometer Gravitational-Wave Observatory, LIGO, has two detectors in the United States, at Hanford in Washington state and Livingston in Louisiana.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each is shaped like a giant L, with two arms four kilometres long.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A laser beam is split in two and sent down both arms, bouncing off mirrors before the beams are recombined.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Normally they cancel out perfectly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a gravitational wave passes, one arm stretches while the other shrinks, the beams fall out of step and a flicker of light appears.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two widely separated detectors help rule out local disturbances such as trucks or earthquakes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europe's Virgo and Japan's KAGRA have since joined, helping pinpoint sources in the sky.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first chirp.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 14 September 2015, just days after the upgraded detectors switched on, both LIGO sites recorded the same signal, milliseconds apart.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turned into sound, it rose in pitch and volume and ended in a sudden chirp.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It came from two black holes, each about 30 times the mass of the Sun, merging 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3 billion years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the final fraction of a second, roughly three Suns' worth of mass became gravitational waves, briefly outpowering all the stars in the observable universe combined.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The discovery was announced in February 2016, almost a century after Einstein's prediction.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rainer Weiss, Barry Barish and Kip Thorne won the 2017 Nobel Prize in Physics for it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's part.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia has been part of the gravitational wave story for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers at the Australian National University, the University of Western Australia, the University of Adelaide and other institutions developed technologies used in LIGO, including precise laser and optics techniques and ways to reduce quantum noise in the measurements.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australians were among the authors of the discovery papers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today many of these researchers belong to OzGrav, the ARC Centre of Excellence for Gravitational Wave Discovery, which works on detecting signals, analysing data and following up events with telescopes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's Southern Hemisphere position helps, since it covers parts of the sky that northern telescopes cannot see well.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light and gravity together.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black hole mergers produce gravitational waves but little or no light.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neutron star collisions are different.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 17 August 2017, LIGO and Virgo picked up a merger about 130 million light-years away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "About 1.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "7 seconds later, a space telescope recorded a burst of gamma rays from the same region, and within hours telescopes worldwide were watching the debris.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This was the birth of multi-messenger astronomy: studying one event through different signals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The near-simultaneous arrival of light and gravitational waves after 130 million years confirmed that gravity travels at the speed of light to extraordinary precision, and ruled out several alternative theories of gravity.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Detections are now routine, with hundreds of candidates so far.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Future instruments, such as ESA's planned LISA, will listen for slower waves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Gravitational waves are ripples in spacetime from accelerating masses, so faint that even colliding black holes barely disturb Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The Big Bang.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "13.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "8 billion years ago, everything you can see was in an unimaginably hot, dense state.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How do we know?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not an explosion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Big Bang theory describes how the universe expanded from an extremely hot, dense state about 13.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "8 billion years ago.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name is misleading.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It wasn't an explosion in one place, flinging matter outwards into empty space.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was the expansion of space itself, happening everywhere at once.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There's no centre and no edge to point to.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name was coined by astronomer Fred Hoyle in a 1949 radio broadcast, though he preferred a rival theory.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The expanding universe.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1920s, astronomers still argued about whether other galaxies even existed.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Edwin Hubble settled that and then, in 1929, showed that nearly all galaxies are moving away from us, and the further away they are, the faster they recede.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's what you'd expect if space itself is stretching.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Picture raisins in rising bread dough: every raisin moves away from every other, and distant ones separate faster.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Run the film backwards and everything converges.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because space expanded while light travelled, the observable universe is about 93 billion light-years across, though only 13.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "8 billion years old.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An echo of creation.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the universe began hot and dense, some of that heat should still be around, stretched into faint microwaves by billions of years of expansion.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1965, Arno Penzias and Robert Wilson at Bell Labs found a mysterious hiss in their radio antenna, coming from every direction.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At first they suspected pigeon droppings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was the cosmic microwave background, and it won them a Nobel Prize.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For its first 380,000 years, the universe was a glowing fog of charged particles that scattered light.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When it cooled enough for atoms to form, the fog cleared and light travelled freely.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a long 'dark age', gravity pulled gas into the first stars and galaxies within a few hundred million years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The James Webb Space Telescope, launched in 2021, is spotting galaxies from this early era.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it's made of.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the first fraction of a second, the universe was too hot for atoms.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As it cooled, within about three minutes protons and neutrons fused into the nuclei of the lightest elements.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theory predicts about three-quarters hydrogen and a quarter helium by mass, with a trace of lithium, which is what astronomers see in the oldest stars and gas clouds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Everything we can see, including stars, planets and people, is only about 5 per cent of the universe's contents.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 27 per cent is dark matter, detected only through its gravity.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The other 68 per cent or so is dark energy, which is speeding up the expansion, discovered in 1998.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We don't yet know what either is.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before the Big Bang.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Big Bang theory describes how the universe evolved from an early hot, dense state.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It doesn't explain what caused that state or whether anything came 'before'.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time itself may have begun with the Big Bang, making 'before' meaningless, like asking what's north of the North Pole.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some physicists explore ideas such as cosmic inflation, a brief burst of extreme expansion in the first instant, or even multiple universes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These are active areas of research, not settled science.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The universe beyond what we can observe may be much larger, possibly infinite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Big Bang was the expansion of space itself, everywhere at once, not an explosion into existing space.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did 51 Pegasi b, the first planet found around a Sun-like star, show?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Giant planets can orbit very close to their stars.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why can nothing escape from a black hole?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its escape velocity exceeds light speed.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is it so hard to detect gravitational waves?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Spacetime is so stiff that effects are tiny.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What was the Big Bang?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The stretching of space itself, everywhere at once.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

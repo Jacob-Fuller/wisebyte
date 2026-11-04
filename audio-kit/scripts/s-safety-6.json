@@ -1,0 +1,972 @@
+{
+ "id": "s-safety-6",
+ "h": "map-and-compass,lost-in-the-bush,emergency-kit-plan",
+ "title": "First Aid & Safety · Episode 6",
+ "chapters": [
+  "Reading a map and compass",
+  "Lost in the bush: how to be found",
+  "Get ready: your emergency kit and household plan"
+ ],
+ "units": [
+  {
+   "t": "First Aid & Safety. Episode six.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Reading a map and compass, Lost in the bush: how to be found and Get ready: your emergency kit and household plan.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Reading a map and compass.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Phones die, satellites drop out and screens are hard to read in the rain.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A paper map and a compass need no battery, and the skills to use them are surprisingly learnable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Paper and scale.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Phone navigation is brilliant until the battery goes flat in the cold, the screen cracks or you lose signal in a deep valley.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bushwalking clubs and search and rescue groups in Australia still advise carrying a paper map and compass, and knowing how to use them, as a backup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Navigating with a map also makes you read the land and notice ridges and creeks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People following a blue dot often have little idea of their surroundings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walking maps are usually topographic, with scales such as 1:25,000 or 1:50,000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On a 1:25,000 map, one centimetre is 250 metres; on a 1:50,000 map, 500 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The larger the second number, the more ground the map covers and the less detail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Map distance is flat, so a steep kilometre takes longer than a level one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contours and grid references.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each contour line joins points of the same height, and the contour interval is in the legend.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Close lines mean steep ground; wide spacing means gentle ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stacked closed rings mark a hill or peak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "V or U shapes pointing uphill show a valley or gully, often with a creek.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pointing downhill, they show a spur, a ridge running down from higher ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A grid reference describes a location precisely, perhaps to rescuers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian topographic maps use the Map Grid of Australia, with vertical lines called eastings and horizontal lines called northings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Give the easting first, then the northing: ‘along the corridor, then up the stairs’.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A four-figure reference identifies a grid square, usually one kilometre across.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Six figures estimate tenths within it, to about 100 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Norths and bearings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "True north is the geographic North Pole.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Grid north follows the map's vertical grid lines and is very close to true north.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magnetic north is where your compass points.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The difference is magnetic declination.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia it ranges from near zero in parts of Western Australia to over ten degrees east in the south-east.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maps print the declination.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ten-degree error over five kilometres puts you almost a kilometre off course.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To take a bearing, lay a baseplate compass's edge on the map joining where you are to where you are going, with its arrow pointing to the destination.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn the dial until the orienting lines parallel the grid lines, with the orienting arrow to the top of the map.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read the bearing, then correct for declination: where it is east, subtract it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walking on a bearing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hold the compass flat with the direction-of-travel arrow pointing ahead.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn your whole body until the red, north end of the needle sits inside the orienting arrow, often remembered as ‘red in the shed’.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The arrow now points along your bearing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rather than staring at the compass, pick a distinct landmark in that direction, walk to it, then repeat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep the compass away from metal, phones, car bodies and power lines, which can pull the needle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Another technique is aiming off: when heading for a point on a creek or track, deliberately aim to one side so you know which way to turn on arrival.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A compass for here.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earth's magnetic field also dips downward at an angle that changes with latitude.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A compass needle is weighted to cancel that dip in the region where it will be used.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A compass balanced for Europe or North America may tilt, drag on its housing and read sluggishly in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check it is balanced for the southern hemisphere or Australian zone, or choose a global needle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practise somewhere safe and familiar, such as a local park or well-marked track, before relying on your skills in remote country.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And always tell someone your plans and carry an emergency beacon where there is no phone coverage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A paper map and compass never run out of battery, and a map's scale tells you real distances.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Lost in the bush: how to be found.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every year in Australia, bushwalkers, campers and tourists get lost, and most are found alive.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The ones who do best usually prepared before they left and stayed calm once things went wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How people get lost.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Few people set out for an adventure that ends in a police search.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More often it starts small.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A walker follows a faint side trail that looks like a shortcut.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A day hike runs late and the light fades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mist rolls over a ridge and every gum tree looks the same.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tired walker takes a wrong turn at an unmarked junction and keeps going, hoping the track will reconnect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Search and rescue teams know these patterns well.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People rarely realise they are lost straight away, and the urge to keep moving and fix the problem quickly often carries them further from where searchers will look.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan and beacon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most important safety step happens before you leave home.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tell a reliable person your route, when you expect to be back and when to raise the alarm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the weather, fire danger ratings and park alerts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Carry extra water and food, warm and waterproof layers, a torch, a first aid kit, and a map and compass or GPS, and know how to use them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do not rely on a phone alone, since coverage is patchy and batteries die.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A personal locator beacon sends a distress signal by satellite to the Australian Maritime Safety Authority.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most include GPS, work almost anywhere with a clear view of the sky and need no subscription.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Register yours with AMSA for free, and only activate it in a genuine life-threatening emergency.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stop and think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The moment you realise you do not know where you are, the most useful thing you can do is stop.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many outdoor organisations teach STOP: Stop, Think, Observe, Plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sit down, have a drink of water and let the first rush of panic pass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think about when you last knew for certain where you were.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Observe the time of day, the weather and how much water, food and battery you have.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you can confidently retrace your steps to a known point, that may be sensible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If not, the best plan is usually to stay where you are, especially if someone knows your trip plan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wandering further makes you harder to find, burns energy and water, and can lead into steep or dangerous country.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shelter, water, warmth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Survival instructors use a rough rule of threes: around three hours in harsh conditions without shelter, around three days without water and around three weeks without food.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The numbers vary greatly, but the order is useful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In hot conditions, find shade, rest through the heat of the day and ration your effort rather than your water, drinking what you need.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In cold, wet or windy conditions, which occur in alpine areas and Tasmania even in summer, hypothermia is a serious danger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put on all your layers, get out of the wind, and insulate yourself from the cold ground with leaves, a pack or anything dry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food matters least.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people can go several days without eating and still be found in reasonable health.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Helping searchers find you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Move to a clearing, track or open ridge if it is safe, as thick canopy hides you from the air.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lay out bright clothing or a space blanket.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three of anything, such as three whistle blasts, three flashes of light or three piles of rocks, is widely recognised as a distress signal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A whistle carries much further than a voice and uses less energy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small mirror or phone screen can flash sunlight at aircraft.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have reception, call Triple Zero, 000, and ask for police, who coordinate land searches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your call can connect through another carrier's network, and the Emergency+ app shows your GPS coordinates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then stay put, follow instructions and keep your phone in low power mode.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A text to family may get through when a call will not.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Getting lost usually starts with small, ordinary mistakes, and the urge to keep moving often makes it worse.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Get ready: your emergency kit and household plan.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "When disaster strikes, the decisions you make in the first hour matter most.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A little planning on a quiet weekend can make those decisions almost automatic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plan once, calmly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine your phone buzzes at midnight with an emergency warning and you have half an hour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where are the car keys?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What about the dog, the medicines and the passports?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stress makes clear thinking hard.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Red Cross and state emergency services urge every household to plan ahead so you do the thinking once, in calm conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with your risks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Northern coasts face cyclones and storm surge, river towns face floods, bushland edges face fire, and cities face heatwaves, storms and outages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost everyone could face a house fire.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check council and emergency service websites, and ask long-term neighbours who remember past events.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your household plan.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A plan doesn't need to be complicated.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It should answer a few questions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When will you leave, and what triggers that decision?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where will you go: friends or relatives in a safer area, or an evacuation centre?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How will you get there, and what is your backup route if roads close?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How will family members contact each other if phones are down or you're split up?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many families choose one contact person in another area.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Write key numbers on paper too, in case your phone dies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Red Cross offers free planning tools, including its Get Prepared app.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Share the plan with everyone in the household and review it each year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kit and pets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An emergency kit is a collection of supplies stored together.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common guideline is about three litres of drinking water per person per day for at least three days, plus food needing no cooking or refrigeration.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Add a torch, battery radio, first aid kit, power bank, cash, medicines, glasses and anything needed for babies, older relatives or people with a disability.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep document copies in a waterproof bag or saved securely online.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the kit every six months.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People have delayed evacuating because of pets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Microchip them, keep a photo on your phone, pack food, leads and a carrier, and find out which shelters take animals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move horses and livestock early.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying informed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reliable information can decide whether you leave in time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia uses a national warning system with three levels: Advice, Watch and Act, and Emergency Warning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each state and territory has its own emergency websites and apps, so find yours before you need them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Bureau of Meteorology provides weather and flood warnings, and ABC local radio is an official emergency broadcaster that often keeps going when other services fail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A battery or wind-up radio helps if power and mobile networks go down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be careful with social media: it spreads local news quickly, but rumours and old photos circulate too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check official sources before acting, and if your life is in danger, call Triple Zero, 000.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Looking after each other.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many Australian disasters, the first people to help were neighbours, not police or firefighters.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They checked on older residents, shared generators, moved livestock and offered spare rooms.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Strong local connections are linked to communities coping and recovering better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Build them simply: swap phone numbers, find out who might need help to evacuate, and join a local community or volunteer group.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you have a medical condition or disability, tell trusted neighbours what support you may need.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recovery can take months or years, and stress and grief are normal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian Red Cross, councils and recovery centres can help.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, so follow official advice for your area.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Planning in calm conditions lets you act quickly in an emergency, so start by learning your local risks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. On a 1:50,000 map, what does one centimetre represent?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. 500 metres.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What often carries lost walkers further from where searchers will look?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The urge to keep moving to fix things fast.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why do emergency organisations urge households to plan ahead?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Stress makes clear thinking hard.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

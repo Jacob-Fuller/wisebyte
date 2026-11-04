@@ -1,12 +1,12 @@
 {
  "id": "s-food-1",
- "h": "knife-skills,cookware-pans-guide,flavour,food-safety",
+ "h": "knife-skills,cookware-pans-guide,flavour,umami-msg",
  "title": "Food & Cooking · Episode 1",
  "chapters": [
   "Knife skills",
   "Pots and pans: what your cookware is doing",
   "The science of flavour",
-  "Food safety at home"
+  "Umami and the MSG story"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Knife skills, Pots and pans: what your cookware is doing, The science of flavour and Food safety at home.",
+   "t": "In this episode: Knife skills, Pots and pans: what your cookware is doing, The science of flavour and Umami and the MSG story.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -916,307 +916,277 @@
    "ps": true
   },
   {
-   "t": "Part four. Food safety at home.",
+   "t": "Part four. Umami and the MSG story.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Australians get food poisoning millions of times a year, and much of it starts in home kitchens.",
+   "t": "A Japanese chemist tasting his soup discovered a fifth basic taste.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A few habits prevent most of it.",
+   "t": "The seasoning he created went on to become one of the most misunderstood ingredients in the world.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Bacteria and the danger zone.",
+   "t": "A chemist and his soup.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Food Standards Australia New Zealand estimates Australians have around 4 to 5 million cases of food poisoning each year, with tens of thousands of hospitalisations.",
+   "t": "In 1908 the Japanese chemist Kikunae Ikeda was enjoying dashi, a broth made with kombu seaweed, when he wondered about its distinctive savoury taste.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Many are never diagnosed and are dismissed as a '24-hour bug'.",
+   "t": "It was not sweet, sour, salty or bitter, the four tastes scientists recognised then.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Causes include Campylobacter, Salmonella, Listeria, toxin-producing E.",
+   "t": "Working with large quantities of kombu, he isolated crystals of glutamic acid, an amino acid, and showed that its salts carried the taste.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "coli and norovirus.",
+   "t": "He named the sensation umami, from a Japanese word for delicious, roughly 'savoury deliciousness'.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Pregnant women, babies, young children, older people and anyone with a weakened immune system face a higher risk, especially from soft cheeses, deli meats and raw eggs.",
+   "t": "Ikeda then found a stable, easy-to-use seasoning based on it, monosodium glutamate, or MSG.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most bacteria multiply fastest between 5 degrees and 60 degrees, the danger zone, and some can double every 20 minutes or so.",
+   "t": "With a business partner, he launched it in Japan in 1909 as Ajinomoto.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glutamate is everywhere.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Keep the fridge at 5 degrees or below, ideally 3 to 4 degrees, the freezer at about minus 18 degrees, and hot food above 60 degrees.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some bacteria make toxins that cooking doesn't destroy, so prevention matters more than reheating.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Time rules and leftovers.",
+   "t": "MSG sounds industrial, but glutamate is one of nature's most common amino acids.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The 2-hour/4-hour rule guides ready-to-eat food that has been left out.",
+   "t": "Our bodies make it, and breast milk contains it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Usually it is locked inside proteins, where we cannot taste it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When proteins break down through ripening, ageing, drying, cooking or fermenting, free glutamate is released.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why ripe tomatoes taste more savoury than green ones, and why parmesan, soy sauce, fish sauce, miso, mushrooms, anchovies and Vegemite are so rich in depth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other Japanese scientists later found inosinate in dried bonito and guanylate in dried shiitake.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It counts the total time between 5 degrees and 60 degrees.",
+   "t": "Combined with glutamate, these nucleotides multiply umami rather than adding to it.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Under 2 hours, use it or refrigerate it.",
+   "t": "Japanese dashi pairs kombu with bonito.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Between 2 and 4 hours, use it straight away.",
+   "t": "Western cooks pair tomatoes or parmesan with meat.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Over 4 hours, throw it out.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "On a hot Australian day, bring an esky with ice bricks to picnics and barbecues.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Leftovers are safe if handled well.",
+   "t": "A fifth taste confirmed.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Refrigerate cooked food once it stops steaming, and divide large batches into shallow containers so they cool faster.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Eat within 2 to 3 days or freeze.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Reheat until steaming hot throughout, ideally 75 degrees, and only once.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rice needs extra care: spores of Bacillus cereus survive cooking and produce toxins if rice sits at room temperature, so cool and refrigerate it quickly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Raw meat, heat and eggs.",
+   "t": "For decades many Western scientists doubted that umami was a separate taste.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Cross-contamination spreads bacteria from raw meat, poultry or seafood to food that won't be cooked again.",
+   "t": "They argued it was a blend of other tastes, or an effect of smell.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The debate shifted in the early 2000s, when researchers identified taste receptors on the tongue that respond specifically to glutamate, giving umami a clear biological basis.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it is widely accepted as the fifth basic taste, alongside sweet, sour, salty and bitter.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why would we evolve to detect it?",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Store raw meat in sealed containers on the bottom shelf.",
+   "t": "A common explanation is that umami signals protein.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Use separate boards for raw meat and salads, or wash boards and knives in hot soapy water between uses.",
+   "t": "Glutamate is released when protein-rich foods are cooked or aged, so a taste that rewards it steers us towards nourishing food.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Don't wash raw chicken: splashing spreads Campylobacter around the kitchen, and cooking kills it anyway.",
+   "t": "Sweetness signals energy from sugars, bitterness may warn of toxins, and sourness of unripe or spoiled food.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Cook chicken, mince, sausages, burgers and rolled or stuffed meats to 75 degrees in the thickest part, because mincing and rolling mix surface bacteria inside.",
+   "t": "How a rumour began.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Dishes with raw or lightly cooked eggs, such as homemade mayonnaise, aioli and eggnog, are a leading cause of Salmonella outbreaks in Australia.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Use pasteurised egg products and keep raw-egg sauces in the fridge for no more than a day.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Symptoms and getting help.",
+   "t": "For its first half-century MSG drew few complaints.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Food poisoning usually causes nausea, vomiting, diarrhoea, stomach cramps and sometimes fever, headache or aches.",
+   "t": "In 1968 a doctor wrote to a prominent medical journal describing numbness and palpitations after eating at Chinese restaurants in the United States, wondering whether cooking wine, sodium or MSG was to blame.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The term 'Chinese restaurant syndrome' spread through newspapers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many now see the panic as tinged with prejudice, since parmesan, tomatoes and stock were rarely blamed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since the 1970s, many studies, including double-blind trials, have generally failed to find consistent reactions at normal food amounts.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Symptoms can start within a few hours of eating or take several days, depending on the cause; Listeria can take weeks.",
+   "t": "Food Standards Australia New Zealand considers MSG safe for the general population.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That means the last meal you ate isn't always the culprit.",
+   "t": "In Australia it appears on labels by name or as flavour enhancer 621, and 'no added MSG' products may still contain natural glutamate.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most cases pass within a few days.",
+   "t": "This is general information, so speak with a doctor about any concerns.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooking with umami.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The main priority is fluids: sip water or oral rehydration solution from a pharmacy.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "See a doctor if you have blood in your stool, signs of dehydration such as dizziness or very little urine, a high fever, or symptoms lasting more than a few days.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Seek help early if you are in a high-risk group.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Four everyday habits.",
+   "t": "Today MSG is mostly made by fermentation.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Most home food poisoning can be prevented with four habits.",
+   "t": "Bacteria feed on sugars from crops such as sugarcane, corn or cassava and produce glutamate, which is purified and crystallised.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It looks like fine white salt, tastes mild on its own, and lifts soups, stir-fries, stews and dressings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "MSG has roughly a third as much sodium as table salt, so swapping some salt for a little MSG can reduce sodium without losing flavour.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You do not need the crystals to cook with umami.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Clean: wash hands before cooking and after handling raw meat, and keep benches, boards and tea towels clean.",
+   "t": "A splash of soy or fish sauce, a spoonful of tomato paste, a grating of parmesan, a few dried mushrooms or a dab of Vegemite in gravy all deepen flavour in the same way.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Chill: refrigerate food promptly and check your fridge with a cheap thermometer.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Separate: keep raw and ready-to-eat foods apart.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cook: cook high-risk foods thoroughly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Also avoid cooking for others while you have vomiting or diarrhoea, and for at least 48 hours after symptoms stop.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Don't use cracked or dirty eggs.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When in doubt, throw it out: a smell test can't detect many harmful bacteria.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is general information, not medical advice.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Food poisoning is common in Australia, and bacteria multiply fastest between 5 degrees and 60 degrees.",
+   "t": "The key idea: In 1908 Kikunae Ikeda identified a savoury taste he named umami, then created MSG.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1264,13 +1234,13 @@
    "ps": false
   },
   {
-   "t": "Question four. Why is the temperature range of 5 degrees to 60 degrees called the danger zone?",
+   "t": "Question four. What did Kikunae Ikeda's discovery show about savoury taste?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Bacteria multiply fastest in that range.",
+   "t": "Answer. It is a distinct taste linked to glutamate.",
    "c": 4,
    "k": "a",
    "ps": false

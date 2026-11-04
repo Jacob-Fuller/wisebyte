@@ -1,12 +1,12 @@
 {
  "id": "s-work-1",
- "h": "time-management,writing-emails,giving-and-receiving-feedback,running-a-good-meeting",
+ "h": "time-management,pareto-principle,writing-emails,giving-and-receiving-feedback",
  "title": "Get Ahead at Work · Episode 1",
  "chapters": [
   "Time management that works",
+  "The 80/20 rule: the vital few",
   "Writing work emails people read",
-  "Giving and receiving feedback at work",
-  "Running a meeting worth attending"
+  "Giving and receiving feedback at work"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Time management that works, Writing work emails people read, Giving and receiving feedback at work and Running a meeting worth attending.",
+   "t": "In this episode: Time management that works, The 80/20 rule: the vital few, Writing work emails people read and Giving and receiving feedback at work.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -322,1021 +322,973 @@
    "ps": true
   },
   {
-   "t": "Part two. Writing work emails people read.",
+   "t": "Part two. The 80/20 rule: the vital few.",
    "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A few customers bring most of the sales, a few problems cause most of the headaches.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The eighty-twenty rule is one of the most useful ideas in business, and one of the most misunderstood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From Pareto to Juran.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vilfredo Pareto, an Italian engineer turned economist, studied data on wealth and income in the late nineteenth and early twentieth centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He noticed that a small fraction of people owned a very large share of the land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Italy, roughly 80 per cent of the land was held by about 20 per cent of the population, and he found similar patterns elsewhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A tale about pea pods in his garden is hard to verify.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pareto never proposed a universal rule.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That came decades later from Joseph Juran, a quality pioneer who found a few causes produced most manufacturing defects.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called them the vital few, as opposed to the trivial many, later the useful many, and named the idea after Pareto.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He later acknowledged he had stretched Pareto's work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the rule says.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At heart the Pareto principle is a simple observation: inputs and outputs are often unequal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A minority of causes frequently produces most of the results.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a typical business, a small group of customers may account for most of the revenue, a few products for most of the profit, or a handful of recurring faults for most of the complaints.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The numbers 80 and 20 are a memorable shorthand, not a law of nature.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The real split might be 70/30, 90/10 or 95/5.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two numbers also do not have to add up to 100, because they measure different things: one is the share of causes, the other the share of effects.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using it at work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The practical power of the Pareto principle is in deciding where to look first.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quality engineers use a Pareto chart, a bar chart that sorts problems from most to least frequent, to show which few causes deserve attention.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A cafe owner might find that a handful of menu items make most of the money, and simplify the rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A support team might find that most calls are about a few common issues, and fix those with clearer instructions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In personal work, it suggests asking which tasks truly move a project forward, and doing those before polishing the details.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The question is not how to do everything, but which few things matter most.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where people go wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because it is catchy, the principle is often misused.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some people treat eighty-twenty as an exact law and assume the numbers without measuring anything.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others conclude the remaining 80 per cent of customers, tasks or products can simply be dropped.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That can be a serious mistake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small customers may become large ones, cheap products may draw people into a store, and routine tasks such as paperwork, safety checks and maintenance can have serious consequences if neglected.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Juran's later phrase, the useful many, was a deliberate correction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The principle works best as a prompt to gather data and look for imbalances, not as an excuse to ignore everything outside the top fifth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the world is lopsided.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why do so many things follow this lopsided pattern?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One reason is that success compounds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular product gets better shelf space, more reviews and more word of mouth, which makes it more popular still.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A big customer may grow faster because it already has scale.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In networks such as cities, websites and social media, a few hubs attract a large share of the connections.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mathematicians describe such distributions as heavy-tailed or power laws, and they appear in fields from earthquakes to book sales.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This helps explain why averages can mislead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a few cases dominate the total, the typical case may look very different from the average one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pareto noticed unequal wealth in Italy, and Joseph Juran later turned the idea into a general management rule.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Writing work emails people read.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Most work emails get skimmed in seconds.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A few simple habits make yours the ones that get read, understood and acted on.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Write for a skimmer.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your reader is probably on a phone between meetings, deciding from the subject line and first couple of lines whether to act now, deal with it later or ignore it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before writing, ask: what do I want this person to know, and what do I want them to do?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you can't answer both in a sentence, you're not ready to write.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Treat the subject line as a headline.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "'Quick question' or 'Update' says nothing and is hard to find later.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Try 'Approval needed: Q3 marketing budget by Friday'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Prefixes like 'Action:' or 'FYI:' help people triage.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If the topic changes, change the subject line.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A very short message can go entirely in the subject, followed by 'EOM', end of message.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bottom line up front.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many of us were taught to write chronologically: background, then reasoning, then the point.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "At work, flip it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Put the bottom line up front, a habit known as BLUF, borrowed from military writing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Start with the conclusion, decision or request, then add context for anyone who wants it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Compare 'Following our discussion last week, and after reviewing the supplier quotes, I've looked at our options...'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "with 'I recommend we go with Supplier B; it's $4,000 cheaper and can deliver two weeks sooner.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Details below.'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The second version can be understood and acted on even if the reader stops after one sentence.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Brief, clear requests.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Aim for an email that fits on a phone screen.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cut warm-up phrases like 'I just wanted to reach out to touch base regarding'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Stick to one topic per email, or one of them gets forgotten, and use short paragraphs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Number multiple questions so the reader can reply 'Yes to 1, no to 2'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If it needs pages of explanation, attach a document or book a meeting.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Vague requests get vague results.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "'Thoughts?'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "invites delay; 'Can you confirm by Thursday 5 pm whether the venue booking for 40 people is okay?'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "gets an answer.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Name the person when writing to several, because a request addressed to everyone is often done by no one.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Offer options, 'Does 10 am or 2 pm suit?'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": ", and say 'No reply needed' when it applies.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tone and channel.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Without voice and facial expression, readers tend to read neutral messages as more negative than intended.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A clipped 'Fine.'",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "or 'Per my last email' can land as irritation.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In Australian workplaces, 'Hi Sam' and 'Thanks' or 'Kind regards' are standard.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Avoid sarcasm, excessive exclamation marks and ALL CAPS, and match your reader's formality.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Email is poor for some jobs.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "If it's urgent, call.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If it's emotional, such as feedback, conflict or bad news, talk in person or by video.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If a chain goes back and forth three or four times, have a quick conversation, then send a short summary of what was agreed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Never send an email while angry: save it as a draft and reread it later.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Work emails can be forwarded and may be used in legal disputes.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Before you hit send.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A thirty-second check prevents most email embarrassments.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Are the right people in To, who must act, and Cc, who just need to know?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Use Reply All only when everyone genuinely needs your reply.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Did you attach the file you mentioned?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Is your key point in the first lines, with any request and deadline clear?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Are names spelt correctly?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Read anything sensitive aloud and imagine how it sounds to someone having a bad day.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many email programs let you delay or schedule sending.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "That gives you a window to catch mistakes and avoids late-night emails that pressure colleagues to reply outside hours.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then send, and move on.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Assume your reader is busy and skimming, so make the subject line and opening say what the email is and what you need.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Giving and receiving feedback at work.",
-   "c": 2,
+   "t": "Part four. Giving and receiving feedback at work.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Feedback can lift a team or wreck a week.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A few practical techniques make it clearer, kinder and far more useful.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why feedback goes wrong.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Think of the last time someone said 'Can I give you some feedback?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your heart probably sped up.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Feedback feels personal because work is tied to our sense of competence and belonging.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Delivered badly, it makes people stop listening and start defending.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The common problems are easy to spot.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Vague feedback, such as 'be more professional', gives nothing to act on.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Feedback saved for an annual review arrives months too late.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Feedback mixed with frustration sounds like an attack.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "And generic praise like 'great job' feels hollow.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The good news is that giving and receiving feedback are both skills, and a few simple structures make conversations shorter, clearer and less painful.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Situation, behaviour, impact.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "One widely used structure, developed by the Center for Creative Leadership, has three steps.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Name the situation: 'In Tuesday's client meeting'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Describe the specific behaviour you saw or heard, without guessing at motives: 'you interrupted the client twice'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Explain the impact: 'they seemed frustrated and we did not get the full picture'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "This keeps the conversation on facts rather than character judgements like 'you are rude'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Then pause and ask, 'How did it look from your side?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "There may be context you missed.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The same structure works for praise: 'When you stayed calm with that upset customer this morning, the whole queue relaxed, and she thanked us on the way out.'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Timing and the future.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Feedback is most useful within a day or two, but not in the heat of the moment.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "If you are angry, wait.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Give criticism in private, never in front of colleagues or customers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ask first: 'Have you got ten minutes?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Avoid important feedback by text or chat, where tone is easily misread.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Once you have heard their view, shift forward.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ask 'What could we try next time?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "People commit more to solutions they helped shape.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Make any request clear, such as 'please let clients finish before you jump in', and agree on one or two changes, not ten.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then follow up and notice improvement.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Think of feedback as coaching: the goal is not to win an argument about the past but to make next week better.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Receiving feedback well.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When feedback lands, your instinct may be to explain, justify or counterattack.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Try to resist, at least at first.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Breathe, listen to the whole message and ask clarifying questions: 'Can you give me an example?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "or 'What would good look like?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Summarise what you heard to check you understood.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then thank them, even if you disagree, because giving feedback takes effort and some courage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "You do not have to accept every point on the spot.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It is fine to say, 'I want to think about that and come back to you.'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Later, sort what you heard into three piles: useful and true, partly true and simply not right.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Act on the first pile.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Asking and leading.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Waiting for feedback means getting it on someone else's schedule, often when something has gone wrong.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ask instead, and be specific, because 'Any feedback?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "usually produces 'No, all good'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Try 'What is one thing I could do to make my reports more useful?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ask a mix of people, including those who report to you, who may need reassurance that honesty is safe.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Leaders shape feedback culture more than any policy.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "If you get defensive, people stay quiet and you lose early warnings.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you thank people for raising concerns, they learn it is safe.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hold regular one to ones, and keep a light record so reviews hold no surprises.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep feedback separate from formal performance or disciplinary processes, which have their own rules.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Fair Work Ombudsman publishes free guides for managers and employees.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Most feedback fails because it is vague, late or delivered in a way that triggers defence.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Running a meeting worth attending.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Most of us have sat through a meeting that should have been an email.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here is how to run one people are glad they came to.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The cost of a meeting.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Picture eight people in a one hour meeting.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "That is not one hour of work.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is eight hours, nearly a full working day.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If the meeting drifts, ends without a decision and needs a follow up, the cost doubles.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bad meetings also drain energy, interrupt focused work and teach people that their time does not matter.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Good ones can settle in thirty minutes a question that would take two weeks of emails, and get everyone moving in the same direction.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The difference is rarely luck.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Good meetings are designed, and anyone can learn how, whether you lead a team or are organising your first catch up.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Meeting or not, and who.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If you only need to share information, an email, short document or recorded update is often better.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Meetings suit things that need live conversation: decisions, tricky problems, building agreement, brainstorming and sensitive issues.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Finish this line: 'By the end of this meeting, we will have...'",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If you cannot, you are not ready to book.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Put that sentence at the top of the invitation.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Invite only people who must decide, hold information you cannot get elsewhere or must carry out the outcome.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Others can read a summary.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But leaving out a key person often means redoing the meeting.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Respect different working hours, and consider twenty five or fifty minutes instead of an hour, leaving a buffer between calls.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Write a real agenda.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "An agenda that says 'budget, rosters, other business' tells nobody what to prepare.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Turn each item into a question with a time: 'Which of the two venue quotes do we accept?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ten minutes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Read the attached comparison first.'",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Put the most important item first, while energy is high, and send the agenda and any reading at least a day ahead.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Ask people to come prepared, and say so plainly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some teams start with a few quiet minutes to read the key document together, which levels the playing field and means nobody bluffs.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If someone wants to add an item, ask them to tell you beforehand.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "An agenda is a promise about how you will use people's time.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Run the room.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Begin on time, even if someone is late, and restate the purpose in a sentence.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "As chair, your job is to guide, not dominate.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Watch the clock and gently steer drifting conversations: 'Good point, let us park it.'",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Keep a visible parking lot list so people know side issues have not been ignored.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Draw out quieter people by asking them directly, and politely rein in those who speak at length.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In hybrid meetings, make sure remote attendees can hear, see shared material and get a fair turn, perhaps by calling on them first.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If the discussion is going in circles, summarise where things stand and ask what is needed to decide.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "End and follow up.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The last five minutes matter most, so protect them.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Read back what was decided in plain words.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "List the actions: what, who and by when.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "An action without a name next to it usually does not happen.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Check nobody disagrees, then finish a few minutes early.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A good test: could every attendee tell a colleague, in a sentence or two, what was decided and what they must do next?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Within a few hours, send a brief note covering decisions, actions with owners and dates, and open questions.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Store it where the team can find it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Check on actions when due.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Review regular meetings now and then, and be willing to shorten or cancel them.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: A meeting uses everyone's time at once, so its cost is multiplied by the number of people in the room.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1360,7 +1312,19 @@
    "ps": false
   },
   {
-   "t": "Question two. Which subject line is most effective?",
+   "t": "Question two. What did Joseph Juran add to Pareto's observation?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. He generalised it into a rule that a few causes drive most problems.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Which subject line is most effective?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1372,25 +1336,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Which of these is the most useful kind of feedback?",
+   "t": "Question four. Which of these is the most useful kind of feedback?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Specific and timely, so the person knows what to change.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Why is a one hour meeting with eight people costly?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. It adds up to about eight hours of work time.",
    "c": 4,
    "k": "a",
    "ps": false

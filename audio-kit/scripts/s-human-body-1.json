@@ -1,12 +1,12 @@
 {
  "id": "s-human-body-1",
- "h": "cells,heart-blood,how-breathing-works,digestion",
+ "h": "cells,heart-blood,lymphatic-system,how-breathing-works",
  "title": "The Human Body · Episode 1",
  "chapters": [
   "The cell: life's building block",
   "Your heart and blood",
-  "How breathing works",
-  "How digestion works"
+  "The lymphatic system: your hidden drainage network",
+  "How breathing works"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: The cell: life's building block, Your heart and blood, How breathing works and How digestion works.",
+   "t": "In this episode: The cell: life's building block, Your heart and blood, The lymphatic system: your hidden drainage network and How breathing works.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -586,565 +586,565 @@
    "ps": true
   },
   {
-   "t": "Part three. How breathing works.",
+   "t": "Part three. The lymphatic system: your hidden drainage network.",
    "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Alongside your blood vessels runs a second network that most people barely know exists.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without it, you would swell up like a balloon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The leak problem.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your smallest blood vessels, the capillaries, are deliberately leaky.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As blood flows through, pressure pushes plasma into the tissues, carrying oxygen and nutrients to cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it seeps back, but not all.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each day several litres are left among the cells.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If nothing collected it, your tissues would swell and your blood volume would steadily fall.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the job of the lymphatic system, a network of thin-walled vessels that begin as tiny dead-end tubes woven among the tissues.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They soak up the excess fluid, now called lymph, along with proteins, debris and sometimes germs, and carry it back towards the bloodstream.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A system with no pump.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blood has the heart to push it around, but lymph has no central pump.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lymphatic vessels contain one-way valves, like those in veins, that stop fluid flowing backwards.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The walls of larger vessels can contract rhythmically, and each time nearby muscles squeeze, or your chest rises and falls as you breathe, lymph is nudged further along.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of it eventually drains through the thoracic duct into large veins near the left collarbone, rejoining the blood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This helps explain why ankles often swell after hours of sitting still on a long flight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With the leg muscles inactive, fluid moves along more slowly, and gravity lets it pool in the feet.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Checkpoints for germs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Along the lymphatic vessels sit lymph nodes, small bean-shaped structures found in clusters in places such as the neck, armpits and groin.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Estimates vary, but a typical adult has several hundred.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As lymph passes through, the nodes filter out debris and microbes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are also packed with lymphocytes, the immune cells that recognise specific invaders.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because fluid from every tissue flows through them, nodes act as checkpoints where immune cells meet evidence of infection.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they detect a threat, lymphocytes multiply rapidly, which is why the glands in your neck can swell and become tender during a sore throat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tonsils, spleen and thymus are also part of the wider lymphatic family.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Milky vessels and fat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1622 Italian anatomist Gaspare Aselli, dissecting a recently fed dog, noticed thin white threads across its intestines.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cutting one released a milky fluid.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called them lacteals, from the Latin for milk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decades later Jean Pecquet traced the fluid to the thoracic duct, and in the 1650s Olaus Rudbeck and Thomas Bartholin described the wider lymphatic network.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aselli's vessels had a real purpose.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most nutrients go straight into blood vessels leading to the liver, but fats are packaged into large particles called chylomicrons that enter the lacteals instead.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a fatty meal, gut lymph turns cloudy and white.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This fat-rich fluid travels up the thoracic duct and enters the bloodstream near the collarbone, reaching the body before it passes through the liver.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When drainage fails.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When lymphatic vessels are blocked or damaged, fluid builds up as lymphoedema, a persistent swelling often in an arm or leg.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia a common cause is cancer treatment, because surgery or radiation may damage lymph nodes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cancers can spread via lymph vessels, so surgeons often check the first node a tumour drains into, called the sentinel node.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In parts of the tropics, mosquito-borne parasitic worms cause lymphatic filariasis, which in severe cases brings enormous swelling called elephantiasis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Textbooks long taught that the brain had no lymphatic vessels.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2015 two teams, one in the United States and one in Finland, independently reported them in the meninges, the membranes wrapping the brain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They appear to drain fluid, waste and immune cells towards nodes in the neck.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their role in disease remains uncertain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fluid constantly leaks out of your capillaries, and the lymphatic system collects it and returns it to the blood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. How breathing works.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "You will take around 20,000 breaths today without thinking about any of them.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here is the clever machinery that keeps the air moving.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Autopilot and diaphragm.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "You breathe roughly 12 to 20 times a minute, almost none of them by choice.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Breathing runs automatically yet can be taken over by will: you can hold your breath, sing a long note or blow out candles.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When you stop paying attention, the brainstem quietly takes control back.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Every breath delivers oxygen your cells need to release energy from food, and removes the carbon dioxide they produce.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lungs have no muscles of their own.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The diaphragm, a dome of muscle beneath them, contracts and flattens, while rib muscles lift the ribcage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The chest enlarges, pressure inside drops below the air outside, and air flows in.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Breathing out at rest is mostly passive: the diaphragm relaxes and elastic lungs spring back.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hiccups are sudden spasms of the diaphragm.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A tree, then a swap.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Air passes the voice box, travels down the windpipe and splits into two main branches, one per lung, which divide again and again like an upside-down tree.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The smallest twigs end in tiny air sacs called alveoli.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "There are hundreds of millions, giving the lungs an enormous surface.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The right lung has three lobes, the left only two, leaving room for the heart.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The nose warms, moistens and filters the air.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Each alveolus is wrapped in hair-thin capillaries.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Oxygen crosses into the blood and latches onto haemoglobin in red blood cells, while carbon dioxide moves out.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Inhaled air is about 21 per cent oxygen, and exhaled air still has roughly 16 per cent.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "That leftover oxygen is one reason rescue breaths during CPR can help someone who is not breathing.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The urge to breathe.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hold your breath and the urge to breathe becomes overwhelming.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Surprisingly, that urge is not mainly caused by running low on oxygen.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sensors in the brainstem and major arteries track carbon dioxide in the blood, which also changes its acidity.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When carbon dioxide rises, they push you hard to breathe.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "This carries a safety lesson.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Some swimmers and divers hyperventilate before going underwater, blowing off carbon dioxide so they can stay down longer.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The urge to breathe is delayed, but oxygen keeps falling, and a person can black out without warning.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is a known cause of drowning, even among strong swimmers, so hyperventilating before breath-holding in the water is dangerous and should be avoided.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Built-in cleaning crew.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Every day you breathe in dust, pollen, smoke particles and microbes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your airways are lined with sticky mucus that traps particles, and with millions of microscopic hair-like structures called cilia.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The cilia beat in coordinated waves, moving mucus up to the throat, where it is usually swallowed without you noticing.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Scientists sometimes call this the mucociliary escalator.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Coughing and sneezing are the emergency backups, blasting out irritants at high speed.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cigarette smoke damages and slows the cilia, which is one reason people who smoke often develop a persistent cough: the body must cough up what the escalator can no longer clear.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bushfire smoke is also hard on airways, so on smoky days it makes sense to follow local health advice.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Breathing and how you feel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Breathing is closely tied to the nervous system.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you are anxious, breathing tends to become fast and shallow, and when you are relaxed it slows down.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The link works in both directions, so deliberately slowing your breath, especially with a long, unhurried breath out, can help many people feel calmer.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Exercise does not grow new lung tissue, but it trains the breathing muscles, the heart and the muscles that use oxygen, so everyday activity feels easier.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Lung function naturally declines a little with age, and smoking speeds that decline sharply.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Breathlessness that is new, sudden or worsening deserves attention.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "This lesson is general information rather than medical advice, so if you are worried about your breathing, talk to a doctor or check healthdirect, and in an emergency call triple zero.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Breathing runs on autopilot via the brainstem, and the diaphragm does the work of drawing air in.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. How digestion works.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "From first bite to final exit, your food travels through several metres of tubing and takes a day or more.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here's what happens along the way.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mouth to stomach.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The digestive tract is a long tube from mouth to anus, often quoted as about nine metres in an adult.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Chewing breaks food up, and saliva, about half a litre to one and a half litres a day, contains amylase, which starts turning starch into sugar.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That's why bread tastes slightly sweet if chewed long enough.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Waves of muscle contraction, called peristalsis, push food down the oesophagus, even if you're upside down.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The stomach is a stretchy muscular bag that churns food with hydrochloric acid, which kills many microbes, and pepsin, which starts digesting protein.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Mucus protects its lining, which renews every few days.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "After a few hours, the thick liquid called chyme is released gradually into the small intestine.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The small intestine.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Despite its name, the small intestine is the longest part of the tract, several metres long and a few centimetres wide.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Bile from the liver breaks fat into droplets, and pancreatic enzymes break down carbohydrates, proteins and fats into sugars, amino acids and fatty acids.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Millions of finger-like villi, covered in even smaller microvilli, give a huge surface area to absorb nutrients into the blood.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Blood from the gut goes first to the liver, which processes nutrients, stores energy as glycogen and removes toxins, including alcohol.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The largest internal organ, it can regenerate remarkably.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The pancreas also makes insulin, which helps cells absorb sugar.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The large intestine.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "What's left, mostly fibre, water and bacteria, passes into the large intestine, or colon, about 1.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "5 metres long.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Here water and salts are absorbed, turning liquid waste into solid stool, which can take a day or more.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The colon is home to trillions of bacteria, the gut microbiome.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They ferment fibre, produce some vitamins such as vitamin K, and help train the immune system.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fermenting fibre also makes short-chain fatty acids that help nourish the colon lining.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Researchers are actively studying links between the microbiome and health, though many popular claims go beyond current evidence.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hunger and fullness.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Your gut and brain talk constantly, through hormones and the vagus nerve.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "An empty stomach releases ghrelin, which increases hunger.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "As you eat, the stomach stretches and the intestine releases hormones that signal fullness.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fat tissue releases leptin, which helps regulate appetite over the longer term.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These signals take time to register, which is one reason eating quickly makes it easier to overeat.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Short sleep and stress also affect appetite; short sleep, for example, is linked to stronger hunger.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The gut even has its own vast network of nerves, sometimes called the second brain.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When things go wrong.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Reflux, where acid flows back into the oesophagus, causes heartburn; large meals, lying down after eating and alcohol worsen it.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Many adults make less lactase after childhood, so dairy may cause bloating.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Coeliac disease, an immune reaction to gluten, affects roughly 1 in 70 Australians, and most don't know they have it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Irritable bowel syndrome causes pain and changed bowel habits without visible damage.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Symptoms overlap, so see a GP rather than cutting out foods on your own.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most Australians eat less fibre than recommended.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Vegetables, fruit, legumes and whole grains keep you regular and feed healthy bacteria.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Seek advice about persistent bowel changes, blood in stool or unexplained weight loss.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Free bowel cancer screening kits are available from age 45.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Digestion starts with chewing and saliva, then the stomach churns food with acid.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1180,25 +1180,25 @@
    "ps": false
   },
   {
-   "t": "Question three. What happens when the diaphragm contracts?",
+   "t": "Question three. Why does the body need a lymphatic system?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. To return fluid that leaks from capillaries.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What happens when the diaphragm contracts?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It flattens and enlarges the chest.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Why can you still swallow food while upside down?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Muscle waves push food along the tube.",
    "c": 4,
    "k": "a",
    "ps": false

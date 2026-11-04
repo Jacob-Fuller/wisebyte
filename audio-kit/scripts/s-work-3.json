@@ -1,11 +1,11 @@
 {
  "id": "s-work-3",
- "h": "asking-for-a-pay-rise,leaving-a-job-well,burnout-and-disconnecting",
+ "h": "resume-that-gets-read,job-interview,asking-for-a-pay-rise",
  "title": "Get Ahead at Work · Episode 3",
  "chapters": [
-  "Asking for a pay rise",
-  "Leaving a job the right way",
-  "Burnout and the right to disconnect"
+  "Writing a resume that gets read",
+  "Acing a job interview",
+  "Asking for a pay rise"
  ],
  "units": [
   {
@@ -15,895 +15,901 @@
    "ps": false
   },
   {
-   "t": "In this episode: Asking for a pay rise, Leaving a job the right way and Burnout and the right to disconnect.",
+   "t": "In this episode: Writing a resume that gets read, Acing a job interview and Asking for a pay rise.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Asking for a pay rise.",
+   "t": "Part one. Writing a resume that gets read.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A recruiter might give your resume less than a minute on the first pass.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how to make those seconds count, step by step.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Skimmed, then tailored.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Picture a hiring manager with sixty applications, a cold coffee and a meeting in twenty minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They glance at the top of page one, scan your latest job title, look for words that match the ad and decide whether to keep going.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At many larger employers, software also sorts applications first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both reward a clear layout, plain headings, relevant words near the top and evidence you can do the job.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Print the job ad and highlight every skill, tool and duty.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep a master document, then copy it for each application.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Put the most relevant experience first and use the ad's phrases where honest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reorder skills and trim unrelated roles to a line.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't stuff in words you can't back up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aim for twenty focused minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A familiar structure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian resumes follow a familiar pattern, and familiar is good because readers know where to look.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Start with your name, phone, email, suburb and state, and a LinkedIn link if it's current.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't need your street address, a photo, date of birth or marital status; leaving them out also helps protect you from unconscious bias.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Next, a two or three sentence summary, then work history, most recent first, then skills, then education and licences or tickets, such as a white card or RSA.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two to three pages is common for experienced workers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Hospitality supervisor with six years in busy venues, strong at rostering and training' beats 'hard-working team player seeking new challenges'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Achievements, not duties.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most resumes read like job descriptions: 'responsible for customer service'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That tells the reader the role, not how well you did it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swap duties for achievements, using action, task and result.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead of 'handled customer complaints', try 'resolved escalated complaints for a busy retail store, helping lift our customer survey score over six months'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Numbers make claims concrete: how many customers, how big a budget, how much time saved, how many people trained.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only use figures you can explain in an interview, because good interviewers will ask.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you can't measure something, describe the scale or outcome.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start lines with strong verbs such as led, built, reduced, organised or trained.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Traps to avoid.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Recruiters often say the fastest route to the 'no' pile is a typo in the first few lines.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Read your resume aloud, slowly, then ask someone else to read it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Watch for inconsistent dates, mixed tenses and an unprofessional email address.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short lines with clear headings are easier to scan than long blocks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leave out reasons for leaving jobs, salary history and unrelated personal details.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't exaggerate titles or qualifications: employers can and do check, and a stretched claim can cost you the job later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gaps in your history are normal; a brief line such as 'career break, caring for family' or 'travel and study' is enough.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Send a PDF unless the employer asks otherwise.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cover letter and referees.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the ad asks for a cover letter, keep it to about a page.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Open with the role and one genuine reason you want it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the middle, pick two or three requirements and give a brief example of how you meet each.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Close by welcoming a chat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Address it to a real person if the ad names one, and never leave another company's name in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most employers check references by phone before an offer.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choose two or three people who have recently supervised you, not friends or family.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask permission, confirm their contact details and tell them which jobs you're applying for.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Referees available on request' is acceptable.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then track where you applied and when, so you can follow up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your resume is skimmed first, so tailor it to each job ad, using the ad's language honestly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Acing a job interview.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Interviews reward preparation far more than charisma.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how to research, structure your stories and follow up like a pro.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prepare and research.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Interviewers want to know three things: can you do the job, will you want to do it, and will you work well with the team?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your task is to give clear evidence for all three.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Start with the position description, highlight the key skills and selection criteria, and pick a real example for each.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sort out the practical details: time, location or video link, and who you're meeting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arrive about ten minutes early, or test your technology beforehand.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then research the organisation: its website, news coverage and the LinkedIn profiles of your interviewers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Don't just recite facts; connect them to yourself: 'I saw you're expanding into Queensland; I managed a similar regional rollout in my last role.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The STAR method.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Behavioural questions ask how you handled real situations: 'Tell me about a time you dealt with a difficult customer.'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea is that past behaviour is a reasonable guide to future behaviour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The STAR method gives your answer a clear shape.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Situation: briefly set the scene.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Task: what you needed to achieve.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Action: what you did, the heart of the answer, so use 'I' rather than 'we'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Result: what happened, ideally with a number, and what you learnt.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Aim for one to two minutes per answer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prepare six to eight STAR stories in advance, since each can usually be adapted to several different questions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Classic and tricky questions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Tell me about yourself' invites a one to two minute professional summary: your current role, relevant experience and why this job, not your life story.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'What's a weakness?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "calls for a genuine but manageable weakness and what you're doing about it, not a disguised boast like 'I'm a perfectionist'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If asked why you're leaving, stay positive and never criticise a former employer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nerves are normal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If stumped, say 'Good question, let me think.'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If unsure what's being asked, ask.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you don't know something, say so and explain how you'd find out.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For salary, research typical pay beforehand and give a range.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, anti-discrimination laws generally stop employers basing hiring decisions on attributes such as age, pregnancy, race or disability, so you can politely steer back to your ability to do the job.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Make a good impression.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First impressions form early: arrive on time, greet people warmly, dress slightly more formally than the workplace's everyday standard, and be polite to everyone, including the receptionist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On video, check lighting, framing, sound and background, and look at the camera.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most useful habit is practising answers out loud, with a friend or by recording yourself, because things that sound fine in your head often come out rambling.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Employers often choose the capable candidate who clearly wants the job over a slightly stronger but indifferent one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When asked 'Do you have any questions for us?'",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": ", don't say no.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Try 'What would success look like in the first six months?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answers help you decide if you want the job.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Save leave and pay for later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After the interview.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within a day, consider sending a short email thanking the interviewer and briefly restating your interest.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It won't rescue a poor interview, but it's courteous and keeps you front of mind.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, reference checks with previous managers are common, so give your referees a heads-up and tell them about the role.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Write down the questions you were asked and how you answered while it's fresh; it's valuable practice for next time.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you haven't heard back by the date they mentioned, a polite follow-up email is fine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you miss out, it's reasonable to ask for feedback, though not every employer will provide it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Interviewers want evidence you can do the job, will want to do it and will fit the team, so prepare examples and research the organisation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Asking for a pay rise.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Many people wait years to be offered more money.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here is how to prepare for, start and handle the pay rise conversation yourself.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why people do not ask.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Sam has been in the same role for three years.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "She has trained two new starters, taken on the rostering and quietly fixed the ordering system.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Her pay has only moved when the award minimum went up.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Plenty of people never ask, because it feels awkward, greedy or risky.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Yet to a manager, a well prepared request from a valued employee is a normal part of running a team, and far better than that person resigning without warning.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Asking does not guarantee a yes.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "But a clear, evidence based conversation usually leads somewhere useful: a rise now, a plan for one later or honest feedback about what is standing in the way.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Know your floor and market.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "If an award or enterprise agreement covers you, it sets minimum rates for your classification.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Use the Fair Work Ombudsman's pay calculator or pay guides, and check your classification level, since duties often grow faster than job titles.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you are paid below the minimum, that is an underpayment to be fixed, not a pay rise conversation.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is general information, not legal or financial advice.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your market value is roughly what another employer would pay for your skills, location and work.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Job sites, job ads that list pay, industry surveys and professional associations all help.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "You are generally free to discuss your pay with colleagues too.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Look for a range, then pick a specific amount near the upper end of what you can justify, plus the lowest outcome you would happily accept.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Build your case.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The strongest case focuses on what you contribute.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Gather evidence: projects you delivered, problems you solved, money or time you saved, new responsibilities and positive feedback from customers or colleagues.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Write it down in one or two pages.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Be specific: 'took over weekly rostering for a team of twelve' beats 'helped out with admin'.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Avoid leading with personal reasons such as rent or the cost of living.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "They are real pressures, but they are not reasons your employer should pay you more than someone else in the same role.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you have been given a bigger job without a bigger title or pay, say so plainly, and show how your role has changed since your pay was last set.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pick the right moment.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Good moments include your annual review, soon after a clear win, when you take on new responsibilities, or a few months before budgets are set for the next financial year, which starts on 1 July for many Australian organisations.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Bad moments include the middle of a crisis, straight after redundancies or late on a Friday.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Do not ambush your manager in a corridor.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ask for a meeting: 'I would like to book half an hour to talk about my role and pay.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Would next week work?'",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "That gives them time to prepare and signals you are serious.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If there is a formal review cycle, find out when decisions are made, because by the review meeting the money may already be allocated.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Running the conversation.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Open warmly, saying you enjoy the role and want to talk about pay given how your work has grown.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Share two or three strong examples, make a specific request and briefly explain how you arrived at it.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then pause.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Silence feels uncomfortable, but it gives your manager space to respond.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Stay calm, and avoid ultimatums unless you are truly prepared to leave.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If the answer is no, ask what would need to change, and agree specific, measurable goals and a date to revisit, perhaps in three or six months.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Put it in writing.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "You can also ask for training, a study allowance, flexible hours or a better title.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then follow up with a short email, and track your progress.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If promises are repeatedly broken, that is useful information too.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Silence rarely gets you paid more, and most managers expect the question at some point.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Leaving a job the right way.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "How you leave a job can shape your references, your final pay and your reputation for years.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here is how to resign well.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Endings are remembered.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The manager you leave behind may one day interview you, become your client or be called as your referee.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The colleague who covered your workload after a messy exit may turn up at your next workplace.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A good exit protects your references, makes sure you receive everything you are owed and leaves the door open.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A bad exit, such as walking out mid shift, posting complaints online or vanishing without a handover, can follow you for years.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Leaving well does not mean pretending everything was perfect.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It means being clear, professional and fair, even if you are glad to be going.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is general information, not legal advice.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Fair Work Ombudsman has details for your situation.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Notice and the conversation.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Your notice period is usually set by your award, enterprise agreement or contract, so check all three.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One to four weeks is common, often depending on how long you have worked there.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Casual employees often have different rules.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If you do not give the required notice, some awards and agreements allow your employer to deduct an amount from your final pay.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Your manager should hear the news from you, not the grapevine.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Ask for a short private meeting, say you have decided to leave, give your last day and thank them.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "You need not explain where you are going or air every grievance.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Then send a short resignation letter or email with the date, your role, a clear statement that you are resigning, your last day and a thank you.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Keep a copy.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Counter offers.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "An employer may respond to your resignation with more money, a new title or a promise that things will change.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It can be flattering, and occasionally it is exactly what you wanted.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But ask why you started looking in the first place.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If the reasons were pay alone, a counter offer might solve it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If they were culture, management, workload or growth, money rarely fixes those for long.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Consider, too, why it took a resignation to get the offer.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some managers react badly, with anger or guilt.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Stay polite, firm and brief.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The decision is yours.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "You must not be threatened or punished for exercising workplace rights, and the Fair Work Ombudsman can give information if things go wrong.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hand over properly.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Use your notice period to make life easy for whoever takes over.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Write a handover document covering current projects, where key files and passwords are stored through approved channels, upcoming deadlines, regular tasks and important contacts.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Note what is half finished and what happens next.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Offer to train a colleague or your replacement.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Be honest about what you cannot finish.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Keep working properly until your last day, because coasting is noticed.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Return laptops, phones, keys and uniforms.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Do not take confidential information, client lists or company files, which could breach your contract or the law.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Say goodbye to colleagues and swap personal contact details with those you want to stay in touch with.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Final pay and goodbyes.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Final pay should include wages to your last day and other outstanding amounts.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Under the National Employment Standards, unused annual leave is paid out, including leave loading if your award, agreement or contract provides for it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Unused personal or carer's leave generally is not.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Long service leave depends mostly on your state or territory and sometimes your award.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Check your final payslip against your leave balance, confirm your final super is paid, and download your payslips before system access ends.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Raise anything missing in writing, then contact the Fair Work Ombudsman if needed.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ask a manager or senior colleague to be a referee.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Give constructive exit feedback, update LinkedIn only after telling your manager, send a farewell message and avoid criticising your old employer publicly.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many people return later.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: How you leave can shape your references, final pay and reputation, because industries are smaller than they look.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Burnout and the right to disconnect.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Burnout is more than a bad week.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Learn the warning signs, what you can change and what Australian workplace rules say about switching off.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What burnout is.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Jess used to love her job.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Now Sunday nights bring a knot in her stomach, she snaps at colleagues and tasks that once took an hour drag on all afternoon.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "She is not lazy.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "She may be burning out.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The World Health Organization describes burnout as an occupational phenomenon, not a medical condition, resulting from chronic workplace stress that has not been successfully managed.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It has three features: energy depletion or exhaustion, increased mental distance from your job or feelings of negativity or cynicism about it, and reduced professional effectiveness.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Because burnout is about work specifically, solutions often involve how work is organised, not just personal resilience.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This lesson is general information, not medical, legal or professional advice.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Warning signs and causes.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Early signs include trouble switching off, poor sleep, tiredness that rest does not fix, irritability, dreading work, getting sick more often and uncharacteristic mistakes.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Others may notice first, so take it seriously if a partner or friend says you seem different.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These signs overlap with depression and anxiety, so do not self diagnose.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Speak with your GP.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Healthdirect and Beyond Blue offer free information and phone support around the clock.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Researchers point to mismatches between people and work: too heavy a workload for too long, little control, too little recognition, conflict or isolation, unfairness, and clashing values.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Long hours alone do not always cause burnout.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The danger zone is high demands, low control and little support.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Employers have duties.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Under work health and safety laws, employers must, so far as is reasonably practicable, ensure the health and safety of workers, and health includes psychological health.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In recent years, most Australian jurisdictions have introduced regulations on managing psychosocial hazards, which are aspects of work that can cause psychological harm.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Examples include excessive job demands, poor support, low role clarity, bullying, harassment and poor workplace relationships.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This means a sustained, unmanageable workload is not just your personal problem.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is a workplace risk your employer should identify and control.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many employers also offer an Employee Assistance Program, which typically provides free, confidential short term counselling, so it is worth asking whether yours does.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The right to disconnect.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 2024, Australia added a right to disconnect to the Fair Work Act.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It began applying to employees of non small business employers in August 2024 and was extended to small business employees in August 2025.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In broad terms, an employee can refuse to monitor, read or respond to contact, or attempted contact, from their employer or a third party such as a client outside their working hours, unless that refusal is unreasonable.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Whether it is unreasonable depends on factors such as the reason for the contact, how it is made, whether you are paid to be available, your role and your personal circumstances.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Emergencies and genuine on call arrangements are treated differently.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Check the Fair Work Ombudsman website for how this applies to you.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Boundaries and speaking up.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Set a clear end to your workday and mark it with a small ritual, such as closing the laptop or writing tomorrow's top three tasks.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Turn off work notifications outside hours.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Take your leave and switch off fully.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "None of this fixes a broken workload, but it helps you recover.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many people wait until they are close to collapse before saying anything.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Book a private conversation and describe the situation concretely: what is on your plate, how many hours it takes and what is slipping.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Frame it as a resourcing problem to solve together, and bring options for what could be paused, delegated or simplified.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Follow up in writing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If nothing changes, consider HR, a union, your health and safety representative or the Fair Work Ombudsman.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Burnout is a work related pattern of exhaustion, cynicism and reduced effectiveness, not simple tiredness.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -915,37 +921,37 @@
    "ps": false
   },
   {
-   "t": "Question one. Why is asking for a pay rise often better than staying silent?",
+   "t": "Question one. Why mirror the job ad's language when it is honest to do so?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It helps screeners spot the match quickly.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What are most interviewers trying to find out?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Whether you can do it, want it and fit in.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is asking for a pay rise often better than staying silent?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It often leads to a rise, a plan or useful feedback.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. Why does the way you leave a job matter?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Past managers may become referees, clients or colleagues.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. How does the World Health Organization describe burnout?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. An occupational phenomenon from unmanaged chronic work stress.",
    "c": 3,
    "k": "a",
    "ps": false

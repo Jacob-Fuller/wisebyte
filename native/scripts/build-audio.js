@@ -155,12 +155,21 @@ if (fs.existsSync(mPath)) Object.assign(manifest.episodes, JSON.parse(fs.readFil
 /* episodes recorded with audio-kit/generate.py. Set AUDIO_BASE when their files are hosted elsewhere (e.g. Cloudflare R2) */
 const kitM = path.join(root, "audio-kit", "out", "manifest.json");
 if (fs.existsSync(kitM)) for (const [id, x] of Object.entries(JSON.parse(fs.readFileSync(kitM, "utf8")).episodes || {})) {
+  if (ALL_LESSONS.some(l => l.id === id)) continue;   /* a re-recorded original: handled below */
   const cur = episodes.find(e => e.id === id);
   if (!cur || (x.h && x.h !== lessonsKey(cur))) { delete manifest.episodes[id]; console.log(`skipping ${id}: recorded for a different set of lessons, re-record it`); continue; }
   const base = process.env.AUDIO_BASE || (manifest.episodes[id] && manifest.episodes[id].base);
   manifest.episodes[id] = base ? { ...x, base } : x;
 }
 for (const id of HELD) delete manifest.episodes[id];
+/* every published lesson-episode recording must still narrate exactly this episode's lessons, in order */
+for (const id of Object.keys(manifest.episodes)) {
+  const e = episodes.find(x => x.id === id); if (!e) { if (!ALL_LESSONS.some(l => l.id === id)) delete manifest.episodes[id]; continue; }
+  const dp = path.join(goAudio, id + ".json"); if (!fs.existsSync(dp)) continue;
+  const ch = JSON.parse(fs.readFileSync(dp, "utf8")).chapters || [];
+  const want = e.lessons.map(l => clean(L[l].title));
+  if (ch.length !== want.length || ch.some((c, i) => c !== want[i])) { delete manifest.episodes[id]; console.log(`withdrawn ${id}: its recording no longer matches the episode's lessons, re-record it`); }
+}
 for (const o of originals) {
   if (recorded[o.id]) { manifest.episodes[o.id] = recorded[o.id]; continue; }   /* re-recorded with a corrected script: its files come from audio-kit/out */
   const A = AUDIO[o.id];

@@ -1,11 +1,12 @@
 {
  "id": "s-human-body-3",
- "h": "muscles-bones,skin-largest-organ,senses",
+ "h": "liver-chemical-factory,kidneys-filters,hormones-messengers,muscles-bones",
  "title": "The Human Body · Episode 3",
  "chapters": [
-  "Muscles and bones",
-  "Your skin: the organ you wear",
-  "How your senses work"
+  "The liver: your chemical factory",
+  "Your kidneys: the body's master filters",
+  "Hormones: the body's chemical messengers",
+  "Muscles and bones"
  ],
  "units": [
   {
@@ -15,914 +16,1142 @@
    "ps": false
   },
   {
-   "t": "In this episode: Muscles and bones, Your skin: the organ you wear and How your senses work.",
+   "t": "In this episode: The liver: your chemical factory, Your kidneys: the body's master filters, Hormones: the body's chemical messengers and Muscles and bones.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Muscles and bones.",
+   "t": "Part one. The liver: your chemical factory.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Quietly tucked under your ribs is an organ that stores fuel, builds proteins, breaks down toxins and can even regrow itself.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meet the liver.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The organ that regrows.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Greek myth, Prometheus stole fire from the gods and was chained to a rock.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each day an eagle ate his liver, and each night it grew back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether or not the storytellers knew it, they picked exactly the right organ.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The liver is famous among doctors for its ability to regenerate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If a large part is removed, the remaining tissue can grow and restore much of the organ's size and function within weeks to months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is what makes living donor liver transplants possible: part of a healthy adult's liver can be given to someone else, and both pieces can grow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few organs can do anything like it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First stop for everything.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your liver sits in the upper right of your abdomen, behind the lower ribs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At around one and a half kilograms, it is the largest solid organ inside the body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of its blood arrives through the hepatic portal vein, straight from the stomach and intestines, so nearly everything you absorb passes through the liver first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After a meal, with help from insulin, the liver links surplus sugar into glycogen for storage.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hours later, as blood sugar dips, it breaks glycogen down and releases sugar, keeping your brain fuelled overnight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a long fast it can make new sugar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also packages fats and makes cholesterol.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is both pantry and kitchen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proteins, bile and colour.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver makes most of the clotting factors that stop bleeding after a cut.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It also produces albumin, the most abundant blood protein, which keeps fluid inside blood vessels.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a struggling liver can cause easy bruising or swollen legs.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors check liver function with a blood test.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also makes bile, a greenish-yellow fluid stored in the gallbladder.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bile breaks fat into tiny droplets, a bit like washing-up liquid on a greasy pan, so enzymes can digest it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bile carries away bilirubin, a yellow substance made from old red blood cells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gut bacteria change it further, giving poo its brown colour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If bilirubin builds up in the blood, skin and eyes turn yellow, a sign called jaundice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clearing chemical waste.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Breaking down proteins releases ammonia, which is harmful to the brain at high levels.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver converts it into urea, a much safer substance that the kidneys flush out in urine.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The liver also alters many medicines, hormones and foreign substances so they are easier to excrete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol is a major example.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver breaks it down at a fairly fixed pace, often estimated at around one standard drink an hour, and nothing such as coffee or a cold shower speeds it up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also why detox teas and cleanses are unnecessary for healthy people: the liver and kidneys already do this job continuously, and do it well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The silent organ.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The liver has few pain nerves and plenty of spare capacity, so it can be quite damaged before you feel unwell.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fat build-up in the liver is now common, often linked with being overweight, type 2 diabetes and inactivity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It frequently causes no symptoms at first and can often improve with changes to diet, activity and weight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heavy drinking and viral hepatitis are other major causes of damage.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia offers vaccination against hepatitis B, and effective treatments now exist for hepatitis C. This is general information, not medical advice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you have concerns about your liver, your GP can arrange simple blood tests, and healthdirect offers reliable background.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The liver can regenerate after part is removed, which makes living donor transplants possible.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Your kidneys: the body's master filters.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Two fist-sized organs filter your entire blood supply many times a day, balancing water, salt and acid with exquisite precision.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A surprising workload.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each kidney is about the size of a fist, yet together they receive about a fifth of the blood your heart pumps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day they filter something like 180 litres of fluid, enough to fill a large bathtub.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A typical adult makes only around one and a half litres of urine, so the kidneys reclaim about 99 per cent of it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The working unit is the nephron, and each kidney has roughly a million.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In its glomerulus, a tangle of capillaries, blood pressure pushes water and small molecules through a fine filter while blood cells and most proteins stay behind.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Along the tube that follows, cells take back sugar, salts, amino acids and most of the water, and add extra wastes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What remains becomes urine.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Balancing water.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Work outdoors in the Pilbara all day without drinking enough and your urine turns darker and smaller in volume.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drink plenty on a cool day and it turns pale and plentiful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kidneys are following instructions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When your blood becomes too concentrated, sensors in the brain trigger the release of antidiuretic hormone, also called vasopressin, from the pituitary gland.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It makes the final parts of the nephron more permeable to water, so more is reabsorbed and urine becomes concentrated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Alcohol suppresses this hormone, partly why drinking makes people urinate more and can leave them dehydrated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Urine colour is a rough guide to hydration, though some vitamins, foods and medicines change it too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More than filtering.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sodium and potassium must stay in a narrow range for nerves and muscles, including the heart.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The kidneys fine-tune both.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When blood flow to them falls, they release renin, starting a chain of reactions that narrows blood vessels and makes the body retain salt and water.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "More fluid means higher pressure, and several common blood pressure medicines act on this pathway.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kidneys also remove acid and hold onto bicarbonate, a natural buffer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When their oxygen falls, as at altitude or after blood loss, they release erythropoietin, EPO, telling the bone marrow to make more red blood cells.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "EPO is a vital medicine, but was notoriously misused as a doping drug.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also complete the activation of vitamin D, needed to absorb calcium for healthy bones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stones and silent damage.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Kidney stones are hard deposits that form when minerals in urine, most often calcium combined with oxalate, become concentrated enough to crystallise.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A small stone may pass unnoticed, but one moving down the narrow tube to the bladder can cause sudden, severe pain that many rank among the worst they have experienced.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dehydration is a common contributor, which matters in hot parts of Australia.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long-term diabetes and high blood pressure are two leading causes of chronic kidney disease.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the kidneys have so much reserve, it often causes no symptoms until a lot of function is lost.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Simple blood and urine tests can pick it up early, when steps to protect the kidneys work best.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Living with one, or none.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With so much spare capacity, most people can live a normal life with just one kidney, which is why living kidney donation is possible.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first successful kidney transplant took place in Boston in 1954, between identical twins, which avoided the problem of rejection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When both kidneys fail, a person needs dialysis, where a machine or the lining of the abdomen filters the blood, or a transplant.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia you can register as an organ and tissue donor through the Australian Organ Donor Register, run by Services Australia, and it is important to talk about your wishes with family.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For kidney health questions, see your GP or healthdirect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your kidneys filter around 180 litres of fluid a day but make only about one and a half litres of urine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Hormones: the body's chemical messengers.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A tiny drop of the right chemical can make your heart race, your stomach growl or a child grow taller.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hormones are the body's slow but powerful postal service.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Messages in the blood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nearly step on a snake on a bush track and your heart pounds within seconds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nerves start that response almost instantly, but hormones help drive it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hormone is a chemical messenger made in one place and carried in the blood to cells elsewhere, where it changes what they do.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only cells with the matching receptor respond, like a letter only the right key can open.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nerves are like phone calls: fast, targeted and brief.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hormones are more like a broadcast: slower to arrive, but able to reach the whole body and keep working for minutes, hours or even years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word comes from a Greek term meaning to set in motion, popularised by physiologist Ernest Starling in 1905.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glands and thermostats.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Glands that release hormones straight into the blood make up the endocrine system: the thyroid, the adrenal glands on top of the kidneys, the pancreas, and the ovaries or testes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fat tissue, the gut, the heart and the kidneys release some too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the brain, the hypothalamus monitors the body and signals the pea-sized pituitary, often called the master gland, which tells other glands to speed up or slow down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Levels stay steady through negative feedback, like a thermostat.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When thyroid hormone falls, the signals urge the thyroid to make more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it rises enough, they ease off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The thyroid needs iodine, and since 2009 iodised salt has been required in most commercial Australian bread to top up intake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fight, flight and cortisol.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you get a fright, your adrenal glands release adrenaline, also called epinephrine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It quickens the heart, widens the airways, sends more blood to the muscles and releases stored fuel, preparing you to fight or flee.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The adrenals also make cortisol, often labelled the stress hormone, though that undersells it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cortisol helps regulate blood sugar, blood pressure, inflammation and energy use.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It follows a daily rhythm too, typically rising in the early morning to help you wake and falling towards night.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Short bursts of these hormones are normal and useful.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Problems are more likely when stress is intense and long-lasting, which is one reason sleep, exercise and rest matter for the whole body.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Insulin and hope.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After a meal, sugar enters your blood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pancreas releases insulin, which signals cells in the muscles, liver and fat to take that sugar in, bringing blood levels back down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between meals, another hormone, glucagon, does the reverse.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In type 1 diabetes, the immune system destroys the cells that make insulin.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Before the 1920s, that meant a grim and usually short life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1921, Frederick Banting and Charles Best, working with colleagues at the University of Toronto, extracted insulin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In early 1922 a teenage boy, Leonard Thompson, became the first person treated with it, and his condition improved.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within a few years insulin was being produced on a large scale, saving countless lives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hunger, sleep and love.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ghrelin, made mainly in the stomach, tends to rise before meals and stirs up hunger.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leptin, released by fat tissue, helps tell the brain how much energy is stored.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melatonin, from the pineal gland, rises as light fades and signals that it is time for sleep, which is why bright screens late at night can make it harder to drift off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oxytocin plays key roles in childbirth and breastfeeding and is involved in bonding.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is nicknamed the love hormone, but its effects are complex and depend on context, so the nickname oversimplifies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hormone problems can cause vague symptoms such as tiredness or weight changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A GP can arrange tests, and healthdirect is a reliable starting point.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Hormones are chemicals released into the blood that change how distant cells behave.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Muscles and bones.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Your skeleton is living tissue that rebuilds itself constantly, and your muscles are the engines that move it.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The living skeleton.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Babies are born with around 270 to 300 bones or bony pieces, many of which fuse as they grow, leaving about 206 in adults.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "More than half your bones are in your hands and feet.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The femur is the largest; the stapes in the middle ear, about the size of a grain of rice, is the smallest.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bone isn't dead and dry.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It has blood vessels and nerves, and it's made of flexible collagen hardened with calcium and phosphate.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Osteoclasts break down old bone and osteoblasts build new bone, so your skeleton is gradually renewed.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Marrow makes blood cells, and bones store calcium.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Weight-bearing exercise makes bones denser; long bed rest or spaceflight makes them lose mass.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "How joints work.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Where bones meet, joints allow movement.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hinge joints, like the knee and elbow, bend mainly one way.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ball-and-socket joints, like the hip and shoulder, rotate in many directions.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The shoulder is the most mobile joint, which is also why it dislocates more easily.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Smooth cartilage covers bone ends and synovial fluid lubricates them.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cartilage has no blood supply, so it heals poorly, and its wear is part of osteoarthritis.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ligaments connect bone to bone; tendons connect muscle to bone.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Achilles tendon, at the back of the ankle, is the body's strongest.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "How muscles work.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "You have over 600 skeletal muscles.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Protein filaments, actin and myosin, slide past each other when a nerve signal arrives, shortening the muscle.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Muscles can only pull, so they work in pairs: to bend your elbow the biceps contracts while the triceps relaxes.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Working muscles make heat, which is why shivering warms you.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Slow-twitch fibres resist fatigue and power posture, walking and long-distance running.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Fast-twitch fibres are quick and powerful but tire sooner, suiting sprinting and heavy lifting.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your mix is partly genetic, and training can't completely change it, but endurance work improves stamina and strength training thickens fibres.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "How bones heal.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When a bone breaks, bleeding forms a clot around the break.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Within days, cells lay down a soft callus of cartilage and fibrous tissue that bridges the gap.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Over the following weeks, osteoblasts replace it with a harder bony callus, and over months the bone is remodelled towards its original shape.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many simple fractures in adults take roughly six to eight weeks to heal enough for normal use, though full remodelling takes longer.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Children heal faster.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Casts and splints hold the pieces in line so they knit correctly.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Smoking slows bone healing noticeably.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Use it or lose it.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "From your 30s or 40s, muscle mass slowly declines; in older age this is called sarcopenia.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Bone density also falls, especially in women after menopause, raising the risk of osteoporosis, where bones break easily.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Weak muscles make falls more likely, a major cause of injury in older Australians.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Strength training and weight-bearing exercise, like walking or stair climbing, build muscle and bone at any age, even in the 80s and 90s.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bones need calcium, from dairy, leafy greens, canned fish with bones and fortified foods, and vitamin D, made by skin from sunlight, so balance sun protection with exposure.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Muscles need protein across the day.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Adults should do muscle-strengthening activity on at least two days a week.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A GP can check your bone health.",
-   "c": 0,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Bones are living tissue that supports you, protects organs and constantly rebuilds.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Your skin: the organ you wear.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "It is waterproof, self-repairing, temperature-controlled and covered in sensors, and you are wearing it right now.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Meet the most underrated organ you have.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The organ you wear.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Lay an adult's skin flat and it would cover roughly two square metres, and weigh several kilograms.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is the body's largest organ.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It keeps water in and germs out, shields you from sunlight, helps control temperature, makes vitamin D and heals itself after cuts.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is also a sensor.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Specialised nerve endings respond to light touch, vibration, pressure, stretching, heat, cold and damage.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They are not spread evenly.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fingertips, lips and tongue are packed with receptors, while your back has far fewer, which is why it is hard to tell whether one or two pencil points are pressing on it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fingerprint ridges form before birth and help with grip and fine texture.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Even identical twins have different fingerprints, because small variations in the womb shape the ridges.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Layers that renew.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Skin has three layers.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The epidermis is thin, but it faces the world.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its top is flattened dead cells packed with tough keratin, forming a waterproof, germ-resistant barrier.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Beneath it, the dermis is woven from collagen and elastin fibres that give strength and stretch, and holds blood vessels, nerve endings, hair roots and sweat glands.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The fat layer below cushions you, stores energy and holds in heat.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At the base of the epidermis, cells divide constantly and are pushed upwards, filling with keratin and dying on the way.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The journey takes roughly a month, so you grow a new outer skin many times a year.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A popular claim says most household dust is dead skin, but much indoor dust comes from outside.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The colour of skin.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Cells called melanocytes at the bottom of the epidermis make a pigment called melanin.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "People of all skin tones have broadly similar numbers of melanocytes.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What differs is how much melanin they make and what type.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "More melanin, especially the darker form, gives deeper skin tones and stronger natural protection against ultraviolet radiation.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When skin is exposed to the sun, melanocytes ramp up production.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "That is a tan: a sign skin has been damaged and is trying to defend itself.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Scientists think skin colour varies so much because our ancestors lived under very different levels of sunlight, balancing protection from UV against the need to make vitamin D. In a high-UV country like Australia, sun protection matters for everyone.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cooling and goosebumps.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On a hot Brisbane afternoon, your skin becomes a cooling system.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Millions of sweat glands release watery sweat, and as it evaporates it carries heat away.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Blood vessels near the surface widen, so warm blood sends heat out, which is why your face flushes.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the cold the reverse happens: vessels narrow to keep warmth near your core.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A second type of sweat gland, found mainly in the armpits and groin, releases a thicker sweat.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is odourless at first, and the smell comes from skin bacteria breaking it down.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Goosebumps are made by tiny muscles that pull hairs upright.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In furry animals this traps insulating air or makes them look bigger.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In us, it is mostly a curious leftover.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ageing and sun protection.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "As we age, skin makes less collagen and elastin, grows thinner and holds less moisture, which is why wrinkles and sagging appear.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "But much of what people think of as ageing skin is actually sun damage.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Compare the skin on someone's forearm with the inner upper arm and the difference can be striking.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia has some of the highest rates of skin cancer in the world, so sun protection is the single most useful habit: shade, clothing, a broad-brimmed hat, sunglasses and sunscreen, especially when the UV index is 3 or above.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Getting to know your own skin and checking for new or changing spots is also worthwhile.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is general information, not medical advice, so for any concern see a doctor or visit healthdirect.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Skin is your largest organ, covering about two square metres and packed with touch sensors, especially in the fingertips.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. How your senses work.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "You have far more than five senses.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "And every one of them is your brain's interpretation, not a direct window on the world.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "More than five.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The idea of five senses goes back to Aristotle.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Scientists now count many more, depending on how you define a sense.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Proprioception tells you where your limbs are without looking, which is how you can touch your nose with your eyes closed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The vestibular system in your inner ear senses balance and motion.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Separate receptors detect temperature and pain.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Interoception reports your internal state, like hunger, thirst, a full bladder or a racing heart.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "All of them work the same basic way: specialised receptor cells convert physical signals into nerve impulses that the brain interprets.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "How we see.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Light enters through the cornea and lens, which focus it onto the retina at the back of the eye.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The iris adjusts the pupil to control how much light gets in.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The retina holds about 120 million rods, which work in dim light but don't see colour, and about 6 million cones, which detect colour in three types, roughly sensitive to red, green and blue.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Cones are packed into a small central spot, the fovea, which gives your sharpest vision.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The image on the retina is upside down; the brain flips it.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Each eye also has a blind spot where the optic nerve leaves, which your brain fills in.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hearing and balance.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Sound waves vibrate the eardrum.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Three tiny bones amplify the vibrations and pass them to the cochlea, a fluid-filled spiral about the size of a pea.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Thousands of hair cells bend with the vibrations, different parts responding to different pitches.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Young people typically hear from about 20 to 20,000 vibrations per second, and the upper limit drops with age.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Loud noise can permanently damage hair cells, which don't regrow in humans.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Next to the cochlea, three semicircular canals sense head rotation as fluid lags behind and bends hair cells, and tiny crystals shift with gravity.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When these disagree with vision, as when reading in a car, you may get motion sickness.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Spinning makes you dizzy because the fluid keeps moving.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Smell, taste and touch.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Taste and smell detect molecules.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Taste buds, mostly on the tongue, are replaced every week or two, which is why a burnt tongue recovers.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Humans have around 400 types of smell receptor, and combinations let us tell apart far more odours than once believed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Smell signals travel almost directly to brain areas for emotion and memory, which is why a scent can instantly bring back a place.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sudden loss of smell is worth mentioning to a doctor.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Skin has receptors for light touch, pressure, vibration, stretch, heat, cold and pain.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Fingertips and lips are packed with them, so the brain's touch map, the 'homunculus', has huge hands and lips.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many receptors adapt quickly, so you stop noticing your clothes.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "People born unable to feel pain often suffer serious injuries unknowingly.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Brain-built reality.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Your brain combines information from different senses, fills gaps and makes predictions.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the McGurk effect, watching lips say one sound makes you hear another.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Expectations change taste: the same wine can taste better when people are told it's expensive.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some people have synaesthesia, such as seeing colours when hearing music.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Perception is an active construction, not a camera recording.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Protect what you have.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia's strong sun makes sunglasses and hats worthwhile, as UV contributes to cataracts.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Regular eye tests can catch glaucoma before you notice vision loss.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A common workplace guide treats noise averaging 85 decibels over eight hours as the limit before protection is needed; earbuds at high volume count.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "See a doctor promptly about sudden loss of smell, hearing or vision, or new dizziness.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Beyond the classic five, we also sense body position, balance, temperature, pain and internal states.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why is bone described as living tissue?",
-   "c": 3,
+   "t": "Question one. Why are living donor liver transplants possible?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The liver can regrow after part is removed.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What happens to most of the fluid the kidneys filter each day?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It is taken back into the blood.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How do hormones mainly reach their target cells?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Carried in the bloodstream.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why is bone described as living tissue?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It is constantly broken down and rebuilt.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. Why is it hard to tell whether one or two pencil points are touching your back?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. The back has far fewer touch receptors.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. How can you touch your nose with your eyes closed?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. A sense tells you where your limbs are.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

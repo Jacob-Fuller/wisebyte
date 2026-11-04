@@ -1,10 +1,10 @@
 {
  "id": "s-evolution-2",
- "h": "dna,genes-inheritance,human-evolution",
+ "h": "island-evolution,symbiosis,human-evolution",
  "title": "Evolution & Genetics · Episode 2",
  "chapters": [
-  "DNA: your body's instruction manual",
-  "Genes and inheritance",
+  "Island evolution: giants, dwarfs and the dodo",
+  "Symbiosis: the partnerships that built life",
   "The human story"
  ],
  "units": [
@@ -15,499 +15,577 @@
    "ps": false
   },
   {
-   "t": "In this episode: DNA: your body's instruction manual, Genes and inheritance and The human story.",
+   "t": "In this episode: Island evolution: giants, dwarfs and the dodo, Symbiosis: the partnerships that built life and The human story.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. DNA: your body's instruction manual.",
+   "t": "Part one. Island evolution: giants, dwarfs and the dodo.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Two metres of code in every cell, written in a four-letter alphabet.",
+   "t": "Strand animals on an island and strange things happen.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The code of life.",
+   "t": "Elephants shrink, rats grow huge and birds forget how to fly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Natural laboratories.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "DNA, short for deoxyribonucleic acid, carries the instructions for building and running almost every living thing, from bacteria to blue whales.",
+   "t": "Islands have taught biologists more about evolution than almost anywhere.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It's found inside nearly every cell in your body.",
+   "t": "Colonists that drift, fly or blow in are cut off from their relatives, often with few competitors and no large predators, and over generations they can change dramatically.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Unwound and laid end to end, the DNA in a single human cell would stretch about two metres, yet it's packed into a nucleus too small to see without a microscope.",
+   "t": "Darwin's 1835 visit to the Galapagos helped shape his thinking.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1953, James Watson and Francis Crick published its structure: a double helix, like a twisted ladder.",
+   "t": "Galapagos finches show adaptive radiation, where one ancestor spreads into many forms.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Their model relied heavily on X-ray images by Rosalind Franklin, especially 'Photo 51', and on data from Maurice Wilkins.",
+   "t": "Over about two million years, one colonising group became more than a dozen species, with beaks for crushing seeds, probing cactus flowers, catching insects or even drinking seabird blood.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Watson, Crick and Wilkins won the 1962 Nobel Prize.",
+   "t": "After a severe drought in 1977 left only large, hard seeds on Daphne Major, Peter and Rosemary Grant found that bigger-beaked birds survived better and the next generation had larger beaks.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Franklin had died of cancer in 1958, aged 37, and her crucial role is now widely recognised.",
+   "t": "Evolution can be measured within years.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A four-letter alphabet.",
+   "t": "The island rule.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The rungs of the DNA ladder are made of four chemical bases: adenine, A, thymine, T, cytosine, C, and guanine, G. A always pairs with T, and C always pairs with G. That means each strand is a complementary template for the other, so a cell can copy its DNA by unzipping the ladder and building new partner strands.",
+   "t": "Biologists have noticed a broad tendency nicknamed the island rule.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The human genome contains about 3 billion of these base pairs.",
+   "t": "Large mammals stranded on islands often become smaller over generations, perhaps because food is limited and there are fewer predators to outgrow.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "From gene to protein.",
+   "t": "Small animals such as rodents often become larger, perhaps because they no longer need to hide from predators and face less competition.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fossil record is full of examples.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dwarf elephants, some about the size of a large pig, once lived on Mediterranean islands including Sicily, Malta and Crete.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On the Indonesian island of Flores, there were dwarf relatives of elephants alongside giant rats.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The rule is a tendency rather than a law, and scientists still debate how consistent it is, but the examples are striking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hobbit of Flores.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "To use a gene, a cell first copies it into messenger RNA, which carries the instructions out of the nucleus to protein-building machines called ribosomes.",
+   "t": "In 2003 researchers excavating Liang Bua cave on Flores found the skeleton of an adult human relative who stood about a metre tall.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ribosomes read the message three letters at a time.",
+   "t": "It was named Homo floresiensis and quickly nicknamed the hobbit.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Each three-letter 'word', called a codon, calls for one of 20 amino acids, the building blocks of proteins, or signals where to stop.",
+   "t": "Its brain was about the size of a chimpanzee's, yet stone tools were found in the same cave layers.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Four letters give 64 possible codons, so most amino acids have several, which means some spelling changes make no difference to the protein.",
+   "t": "Later work dated the remains to between roughly 100,000 and 60,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How the hobbits came to be so small is still debated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One idea is that they descended from Homo erectus and shrank under island conditions, like the island's elephants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Another is that they came from an older, already small-bodied lineage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way, island life shaped human evolution too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Forgetting how to fly.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1961, Marshall Nirenberg and Heinrich Matthaei decoded the first codon, starting a race that cracked the whole code by the mid-1960s.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mutations and variation.",
+   "t": "Flying is expensive.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Every time a cell divides, it copies its 3 billion letters and occasionally makes a mistake.",
+   "t": "It needs big muscles and a light, demanding body.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On islands without ground predators, many birds evolved to give it up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dodo of Mauritius was a large, flightless relative of pigeons, and its closest living relative is the Nicobar pigeon.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "New Zealand, with no native land mammals other than bats, became a kingdom of birds, including the giant moa, the kiwi and the kakapo, a heavy, flightless, nocturnal parrot.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Losing flight was sensible until humans arrived with rats, cats, pigs and hunting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The dodo was gone within a century of Dutch sailors landing in 1598, with the last widely accepted sighting in 1662.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The moa vanished within a few centuries of people reaching New Zealand.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fragile and precious.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Radiation, like UV from the sun, and chemicals, like those in tobacco smoke, can also damage DNA.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These changes are mutations.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most are harmless or quickly repaired.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some cause disease, including many cancers, which is one reason sun protection matters in Australia.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Occasionally a mutation is useful, and over generations such changes are the raw material for evolution.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Any two people share about 99.",
+   "t": "Island species often evolve without defences against newcomers, so they are especially vulnerable.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "9 per cent of their DNA.",
+   "t": "A large share of recorded animal extinctions in the past five centuries have been island species, many caused by introduced rats, cats and other invaders.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The remaining 0.",
+   "t": "Australia has a famous case.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "1 per cent, around 3 million letters, accounts for differences in appearance and some disease risks.",
+   "t": "On Lord Howe Island, a large, flightless stick insect disappeared after black rats came ashore from a shipwreck in 1918.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "There's more genetic variation within any so-called racial group than between groups, so scientists consider race a social idea rather than a clear biological category.",
+   "t": "In 2001, researchers found a tiny surviving population on Ball's Pyramid, a sheer volcanic spire in the ocean nearby.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Reading and matching DNA.",
+   "t": "Captive breeding programs have since raised many more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019 a major operation began to eradicate rodents from Lord Howe, opening the possibility of returning the insect home.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Islands show both how easily species are lost and how they can be saved.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Islands isolate living things, and Galapagos finches show how fast evolution can run there.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Human Genome Project, an international effort to read an entire human genome, finished in 2003 after 13 years at a cost of about US$2.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "7 billion.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Today a genome can be sequenced in about a day for a few hundred dollars.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Doctors can diagnose rare genetic diseases in babies, match cancer treatments to a tumour's mutations and track viruses in real time, as in the COVID-19 pandemic.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1984, Alec Jeffreys found that repeated stretches of DNA vary so much between people they form a pattern almost unique to each person, identical twins aside.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "DNA fingerprinting settled a 1985 immigration case, cleared an innocent man who had confessed and, in 1988, helped convict the real killer.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Modern profiles compare short repeated sequences at around 20 places in the genome.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: DNA carries the instructions for building and running living things, and its double-helix structure was revealed in 1953.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Genes and inheritance.",
+   "t": "Part two. Symbiosis: the partnerships that built life.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Why do you have your mother's eyes but your grandfather's chin, and why can two siblings look like strangers?",
+   "t": "Nearly every cell in your body contains descendants of ancient bacteria.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Genes are recipes.",
+   "t": "Life on Earth is less a war of all against all than a tangle of deals, partnerships and double-crosses.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deals, not just wars.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A gene is a section of DNA that holds instructions, usually for building a particular protein.",
+   "t": "Biologists sort close living-together relationships by who benefits.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Proteins do most of the work in your body, from carrying oxygen to colouring your eyes.",
+   "t": "In mutualism, both partners gain: bees collect nectar while pollinating flowers.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Humans have about 20,000 protein-coding genes, packed into 23 pairs of chromosomes inside almost every cell.",
+   "t": "In commensalism, one gains while the other is barely affected, like barnacles riding on a whale.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "One chromosome in each pair came from your mother and one from your father, so you carry two copies of most genes.",
+   "t": "In parasitism, one gains at the other's expense.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Different versions of the same gene are called alleles.",
+   "t": "The German botanist Anton de Bary coined the word symbiosis in 1879.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "One allele might produce more pigment, another less, and the combination you inherit shapes the result.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mendel's peas.",
+   "t": "These boxes are useful, but nature rarely respects them.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Gregor Mendel, a monk in what is now the Czech Republic, crossed thousands of pea plants between about 1856 and 1863, tracking traits like flower colour and plant height.",
+   "t": "A relationship can turn from helpful to harmful as conditions change, and each partner is under pressure to take a little more than it gives.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Symbiosis is best seen as a spectrum of bargains, constantly renegotiated by evolution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria inside your cells.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Traits didn't blend: tall crossed with short gave tall, not medium.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some versions mask others.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A dominant allele shows with one copy; a recessive allele needs two, one from each parent.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Purple crossed with white peas gave all purple.",
+   "t": "Life's most important partnership began well over a billion years ago.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "But when those plants bred together, white flowers returned in about one in four offspring, roughly three to one.",
+   "t": "A single-celled organism took in a bacterium and, instead of digesting it, came to depend on it.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The white allele was hidden, not lost.",
+   "t": "That bacterium became the mitochondrion, which powers our cells using oxygen.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Mendel published in 1866 and was largely ignored; around 1900 three scientists independently rediscovered his work.",
+   "t": "Later, an early cell took in a photosynthetic bacterium, which became the chloroplast in plants and algae.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Hidden carriers.",
+   "t": "In the 1960s, the American biologist Lynn Margulis championed this idea, called endosymbiosis, against widespread scepticism.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Because recessive alleles can hide, many people carry one copy of a gene variant linked to a genetic condition without any sign of it.",
+   "t": "The evidence now backs her.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mitochondria and chloroplasts have their own small circular DNA, bacteria-like ribosomes and double membranes, and they divide by splitting in two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Complex life, including us, is a partnership at its core.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lichens and corals.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Cystic fibrosis is a well-known example: roughly 1 in 25 Australians carries a cystic fibrosis variant.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If two carriers have a child, each pregnancy has a 1 in 4 chance of the child inheriting two copies, a 1 in 2 chance of being a carrier, and a 1 in 4 chance of inheriting neither.",
+   "t": "A lichen looks like a single organism, but it is a fungus living with an alga or a cyanobacterium.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "This is why reproductive carrier screening is offered in Australia; a GP or genetic counsellor can explain the options.",
+   "t": "The fungus provides structure and shelter, and its partner makes food from sunlight.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Why traits and siblings vary.",
+   "t": "Together they colonise bare rock, tree bark and frozen tundra where neither could live alone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2016, researchers found that many lichens also contain a yeast, a third partner that went unnoticed for over a century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reef-building corals work similarly.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Mendel chose traits controlled mainly by one gene.",
+   "t": "Their cells house microscopic algae that photosynthesise and pass much of their food to the coral.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the water becomes too hot, the partnership breaks down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The coral expels the algae and turns white, an event known as coral bleaching.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deals and double-crosses.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Most human traits are messier.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Height involves thousands of genetic variants, each with a tiny effect, plus childhood nutrition and health.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Eye colour involves several genes, which is why two blue-eyed parents can occasionally have a brown-eyed child.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Environment matters too: genes load the dice, but diet, experience and chance help decide the roll.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Siblings differ because each egg or sperm carries one chromosome from each of 23 pairs, chosen at random, allowing over 8 million combinations.",
+   "t": "A fig starts as an enclosed cluster of tiny flowers, and only a fig wasp, usually specialised to one or a few fig species, can pollinate it.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Crossing over, where chromosomes swap segments, shuffles genes further.",
+   "t": "A female squeezes in, often losing her wings, pollinates some flowers, lays eggs in others and dies.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Full siblings share about half of the DNA that varies between people, on average.",
+   "t": "Her offspring mate inside, and the females leave carrying pollen.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Identical twins share almost all of it.",
+   "t": "Neither partner can reproduce without the other, and the bond is tens of millions of years old.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "X-linked traits.",
+   "t": "Partnerships invite cheating.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Genes on the X chromosome behave unusually.",
+   "t": "Bluestreak cleaner wrasse remove parasites from larger fish, but would often rather nibble their protective mucus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clients chase cheats away, and cleaners behave better when other fish are watching.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sabre-toothed blenny goes further: it mimics a cleaner, then bites chunks from fish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partners close to home.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Most females have two X chromosomes; most males have one X and a much smaller Y. If a male inherits a recessive variant on his single X, no second copy masks it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That is why red-green colour blindness affects roughly 1 in 12 men of northern European ancestry but only about 1 in 200 women.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Haemophilia follows the same pattern, usually passing from carrier mothers to sons.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If a condition appears in several relatives, mention it to your GP, who may suggest screening or a genetic counsellor.",
+   "t": "In parts of Africa, the greater honeyguide leads people to wild bees' nests, then eats the wax left once humans open the hive.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A gene variant linked to disease often raises risk rather than guaranteeing illness, and lifestyle matters for conditions like heart disease.",
+   "t": "Yao honey hunters in northern Mozambique summon the bird with a special trilling call, and a 2016 study found it responded to that call far more than to other sounds.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Consumer DNA tests vary in accuracy for health claims.",
+   "t": "Our microbes matter too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trillions of bacteria, mostly in the gut, help digest food, train the immune system and fend off germs.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: A gene is a stretch of DNA carrying instructions for a protein, and you inherit two copies of most genes.",
+   "t": "The claim that they outnumber our cells ten to one is a myth: a 2016 study put the ratio closer to one to one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wolbachia bacteria introduced into Aedes aegypti mosquitoes reduce their ability to spread dengue.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Mosquito Program, which began in Australia, released them in north Queensland, where local outbreaks have since become very rare.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Symbiosis is a spectrum of close partnerships, from mutual benefit to parasitism, renegotiated as conditions change.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -801,25 +879,25 @@
    "ps": false
   },
   {
-   "t": "Question one. What does DNA do in a living cell?",
+   "t": "Question one. What did Peter and Rosemary Grant observe after the 1977 drought on Daphne Major?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. It stores instructions for building an organism.",
+   "t": "Answer. The next generation had larger beaks.",
    "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. What does a gene usually contain?",
+   "t": "Question two. What is commensalism?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Instructions for building a protein.",
+   "t": "Answer. One gains, the other is barely affected.",
    "c": 3,
    "k": "a",
    "ps": false

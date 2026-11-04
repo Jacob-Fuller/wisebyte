@@ -1,11 +1,11 @@
 {
  "id": "s-books-3",
- "h": "poetry,dystopias,banned-books",
+ "h": "dracula-bram-stoker,detective-fiction,poetry",
  "title": "Great Books · Episode 3",
  "chapters": [
-  "How poetry works",
-  "Dystopian classics",
-  "Banned books: the trials that changed what we can read"
+  "Dracula: the theatre manager's monster",
+  "How the detective story was invented",
+  "How poetry works"
  ],
  "units": [
   {
@@ -15,787 +15,823 @@
    "ps": false
   },
   {
-   "t": "In this episode: How poetry works, Dystopian classics and Banned books: the trials that changed what we can read.",
+   "t": "In this episode: Dracula: the theatre manager's monster, How the detective story was invented and How poetry works.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How poetry works.",
+   "t": "Part one. Dracula: the theatre manager's monster.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The world's most famous vampire was created by a busy Irish theatre manager who never set foot in Transylvania.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of what we think we know about Dracula isn't in the book.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theatre manager.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Abraham 'Bram' Stoker was born in Dublin in 1847.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As a small child he was so ill that he could barely walk, and he later wrote that he spent his early years in bed listening to his mother's stories, including grim memories of a cholera epidemic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He recovered completely and became a champion athlete at Trinity College Dublin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He worked as a civil servant at Dublin Castle while writing theatre reviews for free.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One review praised the actor Henry Irving, the two became friends, and in 1878 Stoker moved to London to become business manager of Irving's Lyceum Theatre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He held the job for around 27 years, handling everything from finances to tours, and wrote fiction in the gaps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vampires before Dracula.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Vampires did not begin with Stoker.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Eastern European folklore told of the restless dead returning to harm the living, and vampire panics in the 1700s spread across Europe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1819 John Polidori's story The Vampyre gave the creature an aristocratic, seductive character.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1840s the cheap serial Varney the Vampire thrilled readers for years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1872 Sheridan Le Fanu published Carmilla, about a female vampire, which scholars widely see as an influence on Stoker.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What Stoker added was scale and method.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He spent several years researching and planning, filling notebooks with ideas, and fused folklore, modern technology and Victorian anxieties into one sweeping thriller that would overshadow everything before it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A name found in Whitby.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stoker's surviving working notes show his vampire began as Count Wampyr.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1890 he holidayed in Whitby, a Yorkshire fishing town with a ruined abbey on the cliff.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the local library he read an 1820 book about Wallachia and Moldavia that mentioned a ruler called Dracula and claimed the word meant devil in the local language.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stoker seized the name.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The historical figure behind it was Vlad III of Wallachia, known as Vlad the Impaler, but scholars point out that Stoker seems to have known very little about him beyond the name.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whitby itself found its way into the novel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dracula comes ashore there when a ship runs aground in a storm, and he leaps onto land in the shape of a large dog.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A thriller told in documents.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dracula, published in May 1897, has no single narrator.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is assembled from journals, letters, newspaper cuttings, a ship's log and telegrams.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This form, called an epistolary novel, makes the story feel like a case file of real evidence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was also strikingly modern.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doctor Seward records his diary on a phonograph, and Mina Harker types up and organises the documents on a typewriter, cross-referencing them to track the Count.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The heroes use trains, telegrams and blood transfusions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stoker set an ancient monster against the newest technology of the 1890s, and much of the tension comes from that clash.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The heroes win less through strength than through information, teamwork and careful paperwork.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths and a stolen film.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Readers who come to the novel from films are often surprised.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stoker's Count walks around London in daylight; the sun weakens his powers but does not destroy him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sunlight as a killer was popularised by the 1922 German silent film Nosferatu.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The novel's Count is first an old man with a long white moustache who grows younger as he feeds.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The suave figure in evening dress owes much to stage adaptations and Bela Lugosi's 1931 Hollywood performance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Garlic, crucifixes and a stake through the heart do appear, but Stoker freely mixed his rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stoker died in 1912 with modest means.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nosferatu was an unauthorised adaptation that renamed the Count as Orlok.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His widow Florence sued, and a German court ordered copies destroyed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some prints survived abroad, and the film is now considered a masterpiece.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Bram Stoker spent most of his career managing a London theatre and wrote fiction in his spare time.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How the detective story was invented.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "From a murder in a Paris apartment to Sherlock Holmes and Agatha Christie, the whodunnit has a surprisingly short and lively history.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Poe's locked room.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1841, the American writer Edgar Allan Poe published 'The Murders in the Rue Morgue'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two women are found brutally killed in a Paris apartment that seems impossible to enter or leave.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The police are baffled.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then an eccentric amateur, C. Auguste Dupin, solves the case by pure reasoning, noticing clues everyone else missed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The answer is famously bizarre: an escaped orangutan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Poe wrote only three Dupin stories, but they set the pattern.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There is a brilliant, slightly odd detective, a less clever friend who narrates, a puzzling crime and a final explanation that makes everything click.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost every fictional detective since owes something to Dupin.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why the 1800s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is no accident that detective stories appeared in the 1800s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "London's Metropolitan Police was founded in 1829, and in 1842 it set up a small detective branch.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big cities were full of strangers, and crime became something to investigate with evidence, not simply punish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Newspapers fed public fascination with real murder cases.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At the same time, science was teaching people that careful observation could reveal hidden truths.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fictional detective captured that spirit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He, and later she, was a kind of scientist of crime, bringing order and reason to the chaos of the modern city.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Readers found that deeply reassuring, and many still do.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Holmes and a Melbourne rival.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1887, a young doctor named Arthur Conan Doyle introduced Sherlock Holmes and Doctor Watson in A Study in Scarlet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Holmes was partly modelled on Joseph Bell, an Edinburgh medical teacher who could deduce a patient's job from small details.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stories in The Strand Magazine from 1891 made him a sensation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When Doyle killed him off in 1893, readers cancelled their subscriptions, and Holmes returned in 1903.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A year before Holmes appeared, Fergus Hume, a lawyer raised in New Zealand, published The Mystery of a Hansom Cab in Melbourne.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It sold far more copies than Doyle's first Holmes novel, though Hume reportedly sold the rights cheaply and saw little profit.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Golden Age fair play.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Between the world wars, the puzzle mystery peaked.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Agatha Christie's first novel, The Mysterious Affair at Styles, appeared in 1920 and introduced the Belgian detective Hercule Poirot.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dorothy L. Sayers, Margery Allingham and New Zealand's Ngaio Marsh were also leading writers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their books often featured country houses, a closed group of suspects and a body in the library.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The central idea was fair play: every clue the detective used had to be shown to the reader too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1929 Ronald Knox published a tongue-in-cheek list of rules, including no supernatural forces and no undiscovered poisons.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1930 many of these writers formed the Detection Club in London, promising to play fair.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mean streets, modern crime.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not everyone loved tidy country house puzzles.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1920s and 1930s America, Dashiell Hammett and Raymond Chandler created hardboiled detectives: tough, weary private investigators in corrupt cities like San Francisco and Los Angeles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their stories were less about clever clues and more about violence, money and moral compromise.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chandler's Philip Marlowe became the model for countless film noir heroes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since then, crime fiction has split into police procedurals, psychological thrillers, Scandinavian noir and rural Australian crime, from Arthur Upfield to Kerry Greenwood and Jane Harper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet the basic appeal remains.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A crime throws the world out of balance, and a detective who notices what others miss puts it right.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Edgar Allan Poe set the pattern for the detective story in 1841 with 'The Murders in the Rue Morgue'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. How poetry works.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Poetry is the oldest way humans have made words memorable.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Learn a few of its tools and you'll hear them everywhere, from song lyrics to advertising slogans.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "What poetry does.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Poetry is language shaped with extra care for sound, rhythm and image, so a few words carry a lot of meaning and feeling.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It is probably the oldest form of literature.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Before writing was widespread, rhythm and repetition helped people memorise long stories, laws and genealogies, which is why the earliest epics are poems.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Poetry uses line breaks, compression and ambiguity on purpose, inviting you to slow down and read again.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Song lyrics, nursery rhymes, advertising jingles and football chants use the same tools, so almost everyone already knows more poetry than they think.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rhythm and metre.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "English words have stressed and unstressed syllables: we say 'to-DAY' and 'MOTH-er'.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "When a poem arranges these into a regular pattern, it has metre.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "An iamb is an unstressed syllable followed by a stressed one, da-DUM.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Five iambs make iambic pentameter, the most common metre in English poetry.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Read aloud Shakespeare's 'Shall I compare thee to a summer's day?'",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "and you'll hear the beat.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Poets often break the pattern deliberately to draw attention to a word.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Other feet exist.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A trochee, DUM-da, feels like a chant, as in the witches' 'Double, double toil and trouble'.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "An anapest, da-da-DUM, gallops, as in 'Twas the night before Christmas'.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tapping a poem's beat on a table is a quick way to find its metre.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rhyme, sonnets and haiku.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Rhyme repeats matching sounds, usually at line ends.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "ABAB means lines one and three rhyme, and lines two and four.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Full rhyme matches exactly, night, light, while half or slant rhyme only nearly matches, bone, moon, giving a subtler, unsettled effect.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "One 2000 study found people rated rhyming sayings as more truthful than the same ideas without rhyme.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A sonnet has 14 lines, usually in iambic pentameter, and almost all contain a 'volta', a turn where the argument or mood shifts.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Petrarch made it famous in the 1300s.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Shakespeare's sonnets use three four-line stanzas and a closing couplet.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Haiku, made famous by Matsuo Basho in the 1600s, traditionally has 17 sound units in a 5-7-5 pattern, a seasonal word and a 'cut'.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many English haiku use fewer syllables.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Free verse.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Free verse is poetry without a regular metre or rhyme scheme.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It is not formless: the poet still chooses exactly where each line breaks, which words sit together and what images build the effect.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The American poet Walt Whitman pioneered it in Leaves of Grass, 1855, with long, rolling lines celebrating ordinary people and the body.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the early 1900s, modernist poets such as T.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "S. Eliot and Ezra Pound made free verse central to poetry in English.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Today most published poetry is free verse, and line breaks do much of the work that rhyme once did, creating pauses, surprises and emphasis.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australian poets.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Andrew 'Banjo' Paterson, 1864–1941, wrote rollicking bush ballads such as 'The Man from Snowy River', 1890, which opens 'There was movement at the station', and the words of 'Waltzing Matilda', 1895.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Oodgeroo Noonuccal, 1920–1993, a Noonuccal woman from Minjerribah, North Stradbroke Island, published We Are Going in 1964, widely recognised as the first book of poetry by an Aboriginal Australian.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "She was also a leading campaigner for the 1967 referendum.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Judith Wright, 1915–2000, wrote vividly about the land and campaigned for the environment and Aboriginal land rights.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "To start, read one poem aloud, twice, before deciding what it means.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The key idea: Poetry compresses language, using sound, rhythm and imagery to make words memorable, and we already meet its tools in songs and slogans.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Dystopian classics.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Surveillance, censorship, engineered happiness, stripped rights: the great dystopian novels imagined them decades ago.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here's why these warnings still feel so current.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Utopia's dark mirror.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1516 the English statesman Thomas More published Utopia, describing an ideal island society.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He built a pun into the name: in Greek it can mean both 'no place' and 'good place'.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A dystopia is the opposite, an imagined society where things have gone terribly wrong, often in the name of making them better.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "John Stuart Mill is credited with one of the earliest recorded uses of 'dystopian', in an 1868 speech.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dystopian fiction takes a trend in the present, such as surveillance, propaganda or technology, and pushes it to an extreme.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "H.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "G. Wells' The Time Machine, 1895, imagined humanity split into two degraded species, a dark joke about class division.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pleasure or fear.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Yevgeny Zamyatin's We, written around 1920–21, depicts a society where people have numbers instead of names.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Banned in the Soviet Union, it was first published in English in 1924.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Orwell reviewed it in 1946.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Aldous Huxley's Brave New World, 1932, imagines a World State where babies are conditioned into fixed castes and kept content with easy pleasures, constant entertainment and a mood-lifting drug called soma.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Its disturbing twist is that most citizens are happy.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "George Orwell's Nineteen Eighty-Four, 1949, is set in Oceania, where Winston Smith rewrites old newspaper records so the past matches the Party's claims.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Two-way screens watch citizens, the Thought Police punish forbidden ideas, and Newspeak aims to make rebellion unthinkable.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Huxley versus Orwell.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Readers have long compared the two books.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Orwell imagined people controlled by fear, surveillance and censorship.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Huxley imagined people who didn't need controlling, because they had been conditioned to love their servitude and were too distracted to care.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In a 1949 letter to Orwell, his former pupil at Eton, Huxley praised Nineteen Eighty-Four but predicted that rulers would find gentler methods more efficient.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1985 the American critic Neil Postman argued in Amusing Ourselves to Death that television culture made Huxley the better prophet.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many people now see elements of both in the modern world, which is part of their lasting power.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Burning books, silencing women.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In Ray Bradbury's Fahrenheit 451, 1953, firemen start fires, burning any books they find.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The title is the temperature at which Bradbury believed paper catches fire, about 233 degrees Celsius.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fireman Guy Montag begins secretly reading the books he should destroy.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bradbury later said it was as much about people choosing wall-sized screens and shallow entertainment over thinking as about censorship.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In Margaret Atwood's The Handmaid's Tale, 1985, a theocratic regime called Gilead forces fertile women to bear children for powerful families, and forbids women to read, work or own property.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Atwood has said she included nothing that had not already happened somewhere in history.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its red-cloaked costume has been worn at protests in many countries.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Warnings, not predictions.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Dystopias are best read as warnings rather than forecasts.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "By exaggerating something already present, they help readers notice it: how much we share with tech companies, how language can be bent, how rights can quietly erode.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They also ask what makes us human when systems try to flatten individuality.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The genre remains hugely popular, from Suzanne Collins' The Hunger Games, 2008, to Nevil Shute's On the Beach, 1957, a post-apocalyptic novel set in Melbourne.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When you read one, ask two questions.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "What present-day fear is this story built on?",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "And which warning signs, if any, can you see around you?",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: A dystopia is an imagined society gone badly wrong, which takes a present trend and pushes it to a frightening extreme.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Banned books: the trials that changed what we can read.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Popes, customs officers and courts have all tried to stop people reading certain books.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Again and again, the ban made the book more famous.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Church's list.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1559, under Pope Paul IV, the Catholic Church published the Index Librorum Prohibitorum, the Index of Prohibited Books.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Catholics were forbidden to read or own listed works without permission.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Index grew out of anxiety about the printing press and the Protestant Reformation, which spread new ideas faster than authorities could control them.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Over time it included works by figures such as the astronomer Galileo and the philosopher René Descartes.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Galileo's Dialogue, which defended the idea that the Earth moves around the Sun, stayed on the list for around two centuries.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The final edition appeared in 1948, and the Index was formally abolished in 1966, ending its legal force.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Ulysses and Lady Chatterley.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "James Joyce's Ulysses broke many rules, including frank descriptions of sex and the body.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The full book appeared in Paris in 1922, then was smuggled and seized by customs.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1933 Random House arranged a seizure to provoke a test case.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Judge John M. Woolsey ruled the book, read as a whole, was not obscene, and it was published legally in the United States in 1934.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "D. H. Lawrence's Lady Chatterley's Lover stayed banned in Britain in full for decades.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A 1959 law allowed literary merit as a defence, and Penguin tested it in 1960 with a cheap, unabridged paperback.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The prosecutor asked jurors if it was a book they would want their wives or servants to read, which sounded hopelessly out of touch.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The jury acquitted Penguin.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's long list.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australian censorship ran largely through customs, which seized imported books at the border, alongside state obscenity laws.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "For long periods the list of banned titles was itself kept confidential, so readers often did not know what they were missing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Works by Joyce, Lawrence and many others were banned at various times, as were political works judged subversive.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Lady Chatterley's Lover stayed banned in Australia for several years after the British trial.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pressure for change grew through the 1960s.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1970, Penguin Australia secretly printed Philip Roth's banned novel Portnoy's Complaint locally and distributed it, provoking prosecutions in several states.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Around the same time, the federal customs minister Don Chipp began dramatically loosening the system, moving toward a classification approach.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fire and fatwa.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On 10 May 1933, Nazi-organised students in Berlin and other German cities burnt tens of thousands of books by Jewish, left-wing and other authors deemed un-German.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "More than a century earlier the poet Heinrich Heine, whose own works were burnt, had written in a play that where books are burnt, people will eventually be burnt too.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1989 Iran's supreme leader, Ayatollah Khomeini, issued a fatwa calling for the death of Salman Rushdie over his novel The Satanic Verses, which many Muslims considered blasphemous.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rushdie spent years in hiding.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His Japanese translator, Hitoshi Igarashi, was murdered in 1991.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2022, Rushdie himself was stabbed at a public lecture in New York state and lost the sight of one eye.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Why bans backfire.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Censors face a stubborn problem: forbidding a book advertises it.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Lady Chatterley trial turned a little-read novel into a bestseller, and Ulysses gained a glamorous reputation partly because readers had to smuggle it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Today, book bans more often take the form of challenges to books in school and public libraries, where parents or groups ask for titles to be removed.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Organisations such as the American Library Association track these challenges, which in recent years have frequently targeted books about race, gender and sexuality.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "People still argue about where the line falls between protecting children and restricting ideas.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Many libraries celebrate an annual Banned Books Week, inviting readers to discover the books others tried to keep from them.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: For four centuries the Catholic Church kept an official list of forbidden books, which grew from fear of the printing press.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -807,37 +843,37 @@
    "ps": false
   },
   {
-   "t": "Question one. Why are the earliest epics poems?",
+   "t": "Question one. How did Bram Stoker fit writing into his life?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. In the gaps of a busy theatre job.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What basic pattern did Poe's Dupin stories establish for detective fiction?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An odd genius, a narrating friend and a puzzle solved by reasoning.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why are the earliest epics poems?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Rhythm and repetition helped people memorise them.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. What does a dystopian novel typically do?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Pushes a present-day trend to an extreme.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. What prompted the Church to create the Index of Prohibited Books?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Fear of new ideas spreading in print.",
    "c": 3,
    "k": "a",
    "ps": false

@@ -1,10 +1,10 @@
 {
  "id": "s-government-3",
- "h": "human-rights,geneva-conventions,united-nations",
+ "h": "geneva-conventions,diplomatic-immunity,united-nations",
  "title": "Government & Democracy · Episode 3",
  "chapters": [
-  "Human rights: where they come from",
   "The Geneva Conventions: rules for the worst of times",
+  "Diplomatic immunity: why ambassadors can't be arrested",
   "The United Nations"
  ],
  "units": [
@@ -15,541 +15,559 @@
    "ps": false
   },
   {
-   "t": "In this episode: Human rights: where they come from, The Geneva Conventions: rules for the worst of times and The United Nations.",
+   "t": "In this episode: The Geneva Conventions: rules for the worst of times, Diplomatic immunity: why ambassadors can't be arrested and The United Nations.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Human rights: where they come from.",
+   "t": "Part one. The Geneva Conventions: rules for the worst of times.",
    "c": 0,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "In 1948, after the horrors of the Second World War, the world's nations agreed on a list of rights belonging to every person.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here's what's in it, and how Australia protects rights without a bill of rights.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rights for every person.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Human rights are the basic freedoms that belong to every person, regardless of nationality, sex, race or religion.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The idea has deep roots.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Magna Carta limited a king's power in 1215, Enlightenment thinkers wrote of natural rights, and France in 1789 and the United States in 1791 put rights into law.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But the idea that rights apply to all humanity, as an international concern, took shape after 1945.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A UN commission chaired by Eleanor Roosevelt drafted a common standard.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia sat on the eight-country drafting committee, and H.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "V. Evatt was President of the General Assembly when the Universal Declaration was adopted in Paris on 10 December 1948, by 48 votes to none with eight abstentions.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its first article: 'All human beings are born free and equal in dignity and rights.'",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From declaration to treaties.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Universal Declaration was not a treaty, so it didn't directly bind countries in law.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It was a statement of shared aims, though it has become enormously influential and has shaped many constitutions and laws.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "To turn its principles into binding obligations, the UN adopted two major treaties in 1966: the International Covenant on Civil and Political Rights, and the International Covenant on Economic, Social and Cultural Rights.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Together with the Declaration, they are often called the International Bill of Human Rights.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Other treaties followed on specific issues, including racial discrimination, discrimination against women, torture, children's rights and disability.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Two kinds of rights.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Civil and political rights mainly protect people from the misuse of state power and guarantee participation in public life.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They include the right to life, a fair trial, freedom of expression, religion and assembly, privacy, and the right to vote.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many can be limited in certain circumstances, for example to protect public safety or the rights of others, but some, such as the ban on torture, are treated as absolute.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Economic, social and cultural rights cover fair work, joining a union, social security, adequate food and housing, health and education.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Because these depend on resources, countries must achieve them progressively.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some argue they are as fundamental as civil rights, since freedom means little without food or schooling.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Others see them as policy goals for elected governments rather than rights for courts to enforce.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's approach.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia is often described as the only Western democracy without a national bill or charter of rights.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Instead, rights are protected in several ways.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Constitution contains a few express rights and an implied freedom of political communication.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The common law presumes Parliament doesn't intend to override basic freedoms unless it says so clearly.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Federal laws ban discrimination on grounds including race, 1975, sex, 1984, disability, 1992, and age, 2004, and the Australian Human Rights Commission handles complaints.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Since 2012, new federal bills must carry a statement on their compatibility with human rights, reviewed by a parliamentary committee.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The ACT, Victoria and Queensland have their own human rights Acts.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The debate, and your rights.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Supporters of a national bill of rights say current protections have gaps, that ordinary laws can be changed by any Parliament, and that a clear list would help vulnerable people.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Critics say elected Parliaments, not unelected judges, should balance rights, and that Australia already protects rights well.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A middle path is the Victorian model, where courts can declare laws inconsistent with rights but Parliament has the final say.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If you face discrimination at work, in housing, in education or from services, you can complain to the Australian Human Rights Commission or a state body.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1994, in Toonen v Australia, the UN Human Rights Committee found Tasmania's laws criminalising homosexual acts breached the right to privacy, and federal law changed soon after.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For advice on your situation, see a lawyer or community legal centre.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The Universal Declaration of Human Rights, adopted on 10 December 1948, set out rights that belong to every person simply because they are human.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. The Geneva Conventions: rules for the worst of times.",
-   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Even war has laws.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "They began with a Swiss businessman who stumbled onto a battlefield and could not forget what he saw.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "From Solferino to Geneva.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "In June 1859, Swiss businessman Henry Dunant travelled to northern Italy hoping to meet Napoleon III about a business venture.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "He arrived just after the Battle of Solferino.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tens of thousands lay dead or wounded, with little medical help.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Dunant organised local villagers, many of them women, to care for the wounded of both sides.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "His 1862 book, A Memory of Solferino, proposed trained volunteer relief groups and an international agreement protecting the wounded and their carers.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1863 he and four others formed what became the International Committee of the Red Cross.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1864 twelve states signed the first Geneva Convention.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wounded and sick soldiers had to be cared for on either side, and ambulances, hospitals and medical staff were protected, marked by a red cross on white, the reverse of the Swiss flag.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "A late honour.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dunant's own story did not end happily for many years.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "His business ventures in Algeria failed, he went bankrupt in the 1860s, and the scandal forced him out of the organisation he had helped create.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "He drifted through Europe in poverty and eventually settled in the small Swiss town of Heiden, where he lived quietly in a hospital home.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the 1890s a journalist rediscovered him, and his story spread again.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1901 Dunant shared the very first Nobel Peace Prize with the French peace campaigner Frédéric Passy.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "He died in 1910.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "His birthday, 8 May, is now celebrated as World Red Cross and Red Crescent Day.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Four conventions.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The original treaty was updated in 1906 and 1929, but the Second World War exposed its limits.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Millions of prisoners of war died in captivity, and civilians suffered mass killings, deportations and starvation under occupation.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1949 states agreed on four new Geneva Conventions.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The first protects wounded and sick soldiers on land.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The second does the same for those wounded, sick or shipwrecked at sea.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The third sets out how prisoners of war must be treated, including humane conditions and protection from torture and public curiosity.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The fourth, entirely new, protects civilians in enemy hands and in occupied territory.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Every country in the world has ratified the 1949 conventions, which makes them truly universal.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key principles.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Two Additional Protocols in 1977 strengthened protections for civilians and for victims of civil wars.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Together with other treaties, such as the Hague Conventions on weapons and tactics, they form international humanitarian law.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "A few principles run through it.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Distinction means combatants must tell military targets from civilians, and may only target the former.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Proportionality means an attack is unlawful if the expected harm to civilians would be excessive compared with the concrete military advantage.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "People who are no longer fighting, such as the wounded, the sick and those who surrender, must be treated humanely.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "These rules do not decide whether a war is justified.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "They apply equally to all sides, whatever the cause.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Emblems and enforcement.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The red cross emblem is protected by law and must not be misused, even for decoration or advertising.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The red crescent has been used since the 1870s, and in 2005 states adopted a third emblem, the red crystal, with no religious or national associations.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Enforcement is the hardest part.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The conventions require states to search for and prosecute people accused of grave breaches, such as wilful killing, torture or taking hostages, whatever their nationality.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia does this through its own legislation, including the Geneva Conventions Act 1957.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Since the 1990s, international tribunals and the International Criminal Court have also tried war crimes.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Violations still happen far too often, but the rules give victims a standard and the world a way to judge.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: One businessman's horror at a battlefield led to the Red Cross and the first Geneva Convention.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Diplomatic immunity: why ambassadors can't be arrested.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A diplomat can park illegally, refuse to answer police and walk free from a courtroom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "There is a surprisingly old and sensible reason why.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't shoot the messenger.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rulers have always needed to talk to their rivals, even during wars.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That only works if messengers can travel safely.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ancient Greek heralds, Roman envoys and ambassadors in many other civilisations were protected, often with religious overtones.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1200s, Mongol envoys sent by Genghis Khan to the Khwarazmian Empire in Central Asia were mistreated, and at least one was executed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Genghis Khan responded with a devastating invasion from 1219.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lesson has been learned again and again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If envoys can be arrested, jailed or killed, diplomacy collapses, and the only remaining way to settle disputes is force.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An ambassador arrested.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1708, Andrey Matveyev, the ambassador of Tsar Peter the Great, was about to leave London when he was dragged from his coach and briefly locked up over unpaid debts to local merchants.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Peter was furious and demanded that the offenders be severely punished.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The British government was embarrassed, but under English law the creditors had done nothing illegal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To repair the relationship, Parliament passed the Diplomatic Privileges Act, which made it unlawful to arrest ambassadors or seize their goods, and Queen Anne's government sent a formal apology to Moscow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It shows how international law often grows: an awkward incident exposes a gap, and states create rules so it does not happen again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Vienna Convention.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main rules are in the Vienna Convention on Diplomatic Relations of 1961, one of the most widely accepted treaties in the world.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia gives effect to it through its Diplomatic Privileges and Immunities Act of 1967.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Under the convention, diplomatic agents cannot be arrested or detained, and they are immune from the host country's criminal courts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are also immune from most civil and administrative cases, with exceptions such as private property deals or business unrelated to their official work.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their families generally share these protections.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The diplomatic bag, used to send documents and items between an embassy and its home government, must not be opened or detained.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A separate, narrower 1963 convention protects consular officials.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is an embassy foreign soil.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Films often say that stepping into an embassy means stepping onto foreign soil.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is a myth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An embassy in Canberra stands on Australian territory, and in general Australian law applies there.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What the Vienna Convention does is make the premises inviolable.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Police and other officials of the host country may not enter without the consent of the head of the mission, even with a warrant, and the host country must protect the building from intrusion or damage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why people sometimes seek refuge inside embassies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They have not left the country, but local authorities cannot simply walk in and take them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effect can look similar, but the legal reasoning is quite different.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why keep immunity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diplomats must respect local laws.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they break them, the host country can ask the sending country to waive immunity so the person can be prosecuted, or declare the diplomat persona non grata, an unwelcome person, who must then leave.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In April 1984, shots fired from the Libyan embassy in London killed Police Constable Yvonne Fletcher during a protest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain could not enter or prosecute, so after a siege it expelled the diplomats and broke off relations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why keep the system?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reciprocity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every country has diplomats abroad, sometimes in places with hostile governments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a host could arrest them on real or invented charges, they could become hostages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Immunity lets envoys report honestly and deliver unwelcome messages without fear.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Protecting envoys is one of the oldest rules of international relations, because without it no one could negotiate.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -837,25 +855,25 @@
    "ps": false
   },
   {
-   "t": "Question one. What idea lies at the heart of the 1948 Universal Declaration?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Rights belong to every person simply because they are human.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. What did the first Geneva Convention require?",
+   "t": "Question one. What did the first Geneva Convention require?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Wounded and sick soldiers to be cared for on either side.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why have societies long protected envoys?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Without safe messengers, rivals cannot negotiate.",
    "c": 3,
    "k": "a",
    "ps": false

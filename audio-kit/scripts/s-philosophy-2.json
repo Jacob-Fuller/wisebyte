@@ -1,12 +1,12 @@
 {
  "id": "s-philosophy-2",
- "h": "islamic-golden-age-philosophy,ethics,descartes-doubt,enlightenment",
+ "h": "ubuntu-philosophy,islamic-golden-age-philosophy,machiavelli-prince,ethics",
  "title": "Philosophy: Big Ideas · Episode 2",
  "chapters": [
+  "Ubuntu: I am because we are",
   "Philosophy's golden age in the Islamic world",
-  "Three ways to decide what's right",
-  "Descartes: I think, therefore I am",
-  "The Enlightenment"
+  "Machiavelli: the man behind ‘The Prince’",
+  "Three ways to decide what's right"
  ],
  "units": [
   {
@@ -16,1153 +16,1147 @@
    "ps": false
   },
   {
-   "t": "In this episode: Philosophy's golden age in the Islamic world, Three ways to decide what's right, Descartes: I think, therefore I am and The Enlightenment.",
+   "t": "In this episode: Ubuntu: I am because we are, Philosophy's golden age in the Islamic world, Machiavelli: the man behind ‘The Prince’ and Three ways to decide what's right.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Philosophy's golden age in the Islamic world.",
+   "t": "Part one. Ubuntu: I am because we are.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A person is a person through other people.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This idea from southern Africa helped guide a nation through its transition from apartheid, and it offers a challenge to the way many Western philosophies picture the self.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "I see you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many parts of southern Africa, a common greeting translates roughly as 'I see you', and the reply as 'I am here'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The exchange hints at a philosophy in which existence is affirmed through recognition by others.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is often summed up in the word ubuntu, found in Nguni languages such as isiZulu and isiXhosa, with related words across many Bantu languages.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ubuntu is usually translated as 'humanness' or 'humanity towards others', and captured in the isiZulu saying umuntu ngumuntu ngabantu: 'a person is a person through other persons'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is not one written theory by a founding philosopher.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a living ethical outlook, carried in proverbs, customs and everyday expectations, which thinkers have more recently set out systematically.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The relational self.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many influential Western philosophies start with the individual.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Descartes began with a single mind doubting everything; social contract theorists imagined separate individuals agreeing to form a society.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ubuntu starts elsewhere, treating people as fundamentally bound up with one another.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On many accounts, personhood is not just a biological fact but something you grow into by how you treat others.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In everyday speech in some communities, a person who behaves cruelly or selfishly may be said to lack ubuntu, or even to be 'not a person', meaning not living up to what a human should be.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Kenyan-born philosopher John Mbiti put a related African communal outlook in 1969: 'I am, because we are; and since we are, therefore I am.'",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What it asks of you.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In practice, ubuntu is associated with sharing with those in need, welcoming strangers, respecting elders, and repairing damaged relationships rather than simply punishing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A frequently told illustration is a traveller passing through a village, who would expect to be offered food and water without having to ask.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The American-born philosopher Thaddeus Metz, who works in South Africa, has tried to state its core precisely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On an ubuntu view, he suggests, right actions respect and promote harmonious relationships, where people identify with one another and act for each other's good.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wrong actions are unfriendly or divisive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes ubuntu different from both rule-based and outcome-based ethics: the focus is the quality of relationships.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reconciliation and law.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ubuntu became internationally known during South Africa's transition to democracy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 1993 interim Constitution said there was 'a need for ubuntu but not for victimisation'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archbishop Desmond Tutu, who chaired the Truth and Reconciliation Commission, explained his approach through ubuntu.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The commission offered amnesty to some perpetrators who fully disclosed politically motivated crimes, and gave victims a public platform.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tutu argued that dehumanising others diminishes the oppressor too, and that healing requires restoring relationships.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some victims felt justice was sacrificed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1995, in S v Makwanyane, the Constitutional Court ruled the death penalty unconstitutional.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Several judges cited ubuntu as valuing life and dignity and favouring reconciliation over retribution.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics say the concept is too broad to guide judges clearly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debates and wider voices.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ubuntu has thoughtful critics, including African philosophers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some say it has become a slogan, used in corporate training until it means little more than 'teamwork'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others warn against romanticising a single 'African' worldview across hundreds of cultures.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A deeper worry concerns rights: if personhood depends on community, what protects dissenters or people marginalised by their own communities?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defenders reply that ubuntu condemns treating anyone as less than human.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kwame Gyekye proposed a 'moderate communitarianism' giving both community and individual rights their due.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other African philosophers include Kwasi Wiredu, who urged 'conceptual decolonisation', and Henry Odera Oruka, who recorded the reasoning of local sages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ubuntu leaves a question worth asking: how much of who you are was made by other people?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ubuntu is a southern African idea that we become fully human through our relationships with others.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Philosophy's golden age in the Islamic world.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Between Ancient Greece and the European Renaissance, some of the boldest philosophy on Earth was written in Arabic.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Meet the thinkers who preserved Aristotle, argued about cause and effect, and imagined a man floating in the air.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Translating the Greeks.",
-   "c": 0,
+   "t": "Reason meets revelation.",
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the late 700s and 800s, under the Abbasid caliphs based in Baghdad, a remarkable translation movement got under way.",
-   "c": 0,
+   "t": "From the late 700s, Greek philosophy was translated into Arabic under the Abbasid caliphs, and it arrived in a culture already arguing about reason.",
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Scholars, many of them Christians fluent in Greek and Syriac, translated Aristotle, Plato's ideas as passed down by later writers, and Greek medicine, astronomy and mathematics into Arabic.",
-   "c": 0,
+   "t": "A school of theologians called the Mu'tazila held that reason alone could tell right from wrong, that God must be just, and that people have free will.",
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Wealthy patrons paid well.",
-   "c": 0,
+   "t": "They also taught that the Quran was created rather than eternal.",
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Baghdad's House of Wisdom is often associated with the movement, although historians debate how far it was a formal academy rather than a palace library.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Much of this learning was scarcely read in Western Europe at the time.",
-   "c": 0,
+   "t": "In 833 the caliph al-Ma'mun began an inquisition, the mihna, requiring judges and scholars to accept this view.",
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It became part of a lively intellectual culture stretching from Central Asia to Spain.",
-   "c": 0,
+   "t": "The scholar Ahmad ibn Hanbal refused, and under the next caliph he was imprisoned and flogged.",
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Thinkers did not just preserve these texts; they argued with them.",
-   "c": 0,
+   "t": "A later caliph abandoned the policy around 850, and Ibn Hanbal's stand became a lasting symbol of resistance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The question at its heart, how far reason should judge faith, runs through the philosophy that followed.",
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The first philosophers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Al-Kindi, working in Baghdad in the 800s, is often called 'the philosopher of the Arabs'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He argued that truth should be welcomed whatever its source, even foreign peoples, and that philosophy and revelation pointed in the same direction.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A generation or two later, al-Farabi, who probably came from Central Asia, became so respected as an interpreter of Aristotle that he was called 'the Second Teacher'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He wrote on logic, music and especially politics.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Inspired partly by Plato's Republic, he described a 'virtuous city' led by a wise ruler who would guide citizens towards true happiness.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "His work shaped how later thinkers connected philosophy, religion and the good society.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Avicenna's floating man.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ibn Sina, known in Europe as Avicenna, was born around 980 near Bukhara, in today's Uzbekistan.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "By his own account he mastered most sciences by eighteen.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "His Canon of Medicine served as a medical textbook in Europe for centuries.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In philosophy, he distinguished what a thing is, its essence, from the fact that it exists: you can understand a unicorn without knowing whether any exist.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He argued for a necessary being, whose essence includes existence, identified with God.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "His best-known thought experiment imagines a person created in mid-air, blindfolded, limbs apart, with no sensations.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Would they know they exist?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Avicenna said yes, taking this to show the self is distinct from the body.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It resembles Descartes's argument six centuries later.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Critics question whether imagining yourself without a body shows you could exist without one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Al-Ghazali and Averroes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Not everyone welcomed the philosophers' confidence.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the late 1000s, Abu Hamid al-Ghazali wrote The Incoherence of the Philosophers, attacking Avicenna and others.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "His most striking argument concerned causation.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "When cotton touches fire, it burns.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "But we observe only that burning follows contact, never a necessary connection.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He concluded that God directly creates each event, usually in regular patterns, so miracles are possible.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Centuries later David Hume made a similar observation for very different reasons.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the 1100s, in Córdoba, the judge and physician Ibn Rushd, or Averroes, replied with The Incoherence of the Incoherence.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "He argued that religious law itself encouraged capable people to study nature through reason.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "His commentaries on Aristotle became so influential in Latin translation that Thomas Aquinas called him simply 'the Commentator'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A shared inheritance.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "This was not only a Muslim story.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Jewish philosopher Moses Maimonides, born in Córdoba and later working in Egypt, wrote his Guide for the Perplexed in Arabic, engaging closely with Aristotle and Islamic philosophy.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Christian scholars in Spain translated Arabic works into Latin, feeding the rise of medieval European universities.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ibn Tufayl wrote a philosophical novel about a boy raised alone on an island who reasons his way to deep truths.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "It may have been known in Europe by the time of Robinson Crusoe.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It is also a myth that Islamic philosophy ended in the 1100s.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "It continued to flourish, especially in Persia, with thinkers such as Mulla Sadra in the 1600s.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "These debates on reason, faith and the self belong to everyone's intellectual history.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: From the late 700s, scholars under the Abbasid caliphs translated Greek philosophy and science into Arabic, and argued with it.",
-   "c": 0,
+   "t": "The key idea: Greek philosophy arrived in Arabic just as Muslim theologians were arguing over how far reason can judge matters of faith.",
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Three ways to decide what's right.",
-   "c": 1,
+   "t": "Part three. Machiavelli: the man behind ‘The Prince’.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Would you pull the lever?",
-   "c": 1,
+   "t": "His name became a byword for cunning and ruthlessness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But the real Niccolò Machiavelli was a tortured civil servant, a lover of republics and perhaps the first modern political scientist.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Servant, then prisoner.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Niccolò Machiavelli was born in Florence in 1469.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1498, four years after the Medici were driven out, he became a senior official of the new Florentine Republic, serving as secretary of its Second Chancery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For fourteen years he handled diplomacy and military affairs, visiting the courts of the French king, the pope and other rulers, and watching how power was gained and lost.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He also organised a citizen militia, believing Florence should not rely on hired mercenaries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1512, Spanish troops helped restore the Medici, and he lost his post.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early in 1513 his name appeared on a list of plotters and he was arrested.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He endured the strappado, hoisting by the wrists tied behind the back, reportedly without confessing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A general amnesty freed him weeks later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evenings with the ancients.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Machiavelli retired, impoverished, to his small farm outside Florence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a famous letter to his friend Francesco Vettori in December 1513, he described his days.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He snared birds, chatted with locals and played cards at the inn.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But in the evening he went to his study, took off his muddy clothes and put on formal robes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then, as he put it, he entered the ancient courts of ancient men and asked them the reasons for their actions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From those conversations with history he composed a little work on principalities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That work was The Prince, written hoping to win back favour and employment.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was dedicated to a member of the Medici family, but it was not published until 1532, five years after his death in 1527.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Better feared than loved.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Prince shocked readers because it described politics as it is, not as it ought to be.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Earlier advice books urged rulers to be generous, merciful and honest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Machiavelli argued that a ruler who always tried to be good would be ruined among so many who are not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is best to be both loved and feared, he wrote, but if one must choose, it is safer to be feared.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crucially, a ruler must avoid being hated, which usually means leaving subjects' property and families alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A ruler should be both a fox, to recognise traps, and a lion, to frighten wolves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His model was Cesare Borgia, who had his harsh deputy Remirro de Orco killed and displayed in Cesena.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Machiavelli's point: cruelty well used is applied once, for security, and then stops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fortune and virtue.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two words run through Machiavelli's writing: fortuna and virtù.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fortuna is luck or circumstance, the unpredictable force that can raise or ruin anyone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Virtù does not mean moral virtue.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It means skill, energy and boldness, the capacity to seize opportunities and adapt.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Machiavelli compared fortune to a violent river that floods the plains.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When it rages, nothing can stop it, but in calm times people can build dykes and embankments to control it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He guessed that fortune governs about half of our actions and leaves the other half to us.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A wise ruler prepares in good times and adapts quickly when circumstances change, rather than clinging to one way of acting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The republican Machiavelli.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The common image of Machiavelli as a cheerleader for tyranny is incomplete.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His longer book, the Discourses on Livy, praises the Roman Republic and argues that free republics, where citizens share power and laws restrain ambition, are generally more stable and successful than principalities.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even the phrase 'the ends justify the means' does not appear in his writings, although he did argue that rulers are judged by results.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1559 the Catholic Church placed his works on its Index of Prohibited Books, and Machiavellian came to mean scheming.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet many modern scholars see him as a founder of political science, one of the first to study power by observing what actually happens.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Machiavelli spent fourteen years as a senior official of the Florentine Republic before being dismissed and tortured when the Medici returned.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Three ways to decide what's right.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Would you sacrifice one person to save five?",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Philosophy's three big approaches to right and wrong, and how they help with real decisions.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Judging by results.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ethics, or moral philosophy, asks how we should live and act.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most of the time our instincts work fine: don't steal, keep promises, help people in need.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "But instincts can conflict, and some decisions in medicine, business, technology and our own lives are genuinely hard.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Three approaches dominate: consequentialism, deontology and virtue ethics.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Consequentialism says the right action has the best consequences.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Its most famous form, utilitarianism, was developed by Jeremy Bentham and John Stuart Mill: act to produce the greatest wellbeing for the greatest number.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It is practical and impartial, since everyone counts equally, and it underpins policy like cost-benefit analysis in health funding.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australian philosopher Peter Singer is a leading modern advocate.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The trouble with results.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Imagine a surgeon with five patients who will die without organ transplants, and a healthy visitor whose organs could save them all.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Pure consequence-counting seems to say: sacrifice the visitor.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Almost everyone recoils.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The approach has other problems.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It demands that we predict consequences, which is often impossible, and it can seem to ignore justice, rights and promises.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Defenders respond that, in practice, respecting rights usually produces the best outcomes anyway.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Still, the surgeon case shows why many people feel that results cannot be the whole story.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Duties and rules.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Deontology, from the Greek for 'duty', says some actions are right or wrong in themselves, whatever the consequences.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Lying, killing innocent people and breaking promises are wrong even if they'd produce good results.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Immanuel Kant argued we should act only on principles we could want everyone to follow, and treat people as ends in themselves, never merely as means.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "That explains why sacrificing the visitor is wrong: it uses him as a tool.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Human rights reflect this thinking.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rules have problems too.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Kant argued you shouldn't lie even to a murderer asking where your friend is hiding, which strikes most people as absurd.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Duties can also conflict.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many modern deontologists allow that duties can sometimes be outweighed, but deciding when is the hard part.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Becoming a good person.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Virtue ethics, going back to Aristotle in ancient Greece, shifts the question from 'What should I do?'",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "to 'What kind of person should I be?'",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It focuses on developing good character traits, or virtues, like honesty, courage, compassion, fairness and wisdom.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Aristotle argued that virtues sit between extremes: courage lies between cowardice and recklessness, and generosity between stinginess and extravagance.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Good people develop practical wisdom, the ability to judge what each situation needs, through experience and habit.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Instead of a formula, virtue ethics offers a standard to grow towards.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The trolley and three lenses.",
-   "c": 1,
+   "t": "Three lenses on a real choice.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the famous trolley problem, a runaway tram will kill five people unless you pull a lever to divert it onto a track where it will kill one.",
-   "c": 1,
+   "t": "Philosophers still haven't settled which approach is right.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Most people say pull it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But if the only way to stop the tram is to push a large person off a bridge, most refuse, though the numbers are identical.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Our intuitions draw on both consequences and duties.",
-   "c": 1,
+   "t": "In a large 2020 survey of professional philosophers, each of the three theories was favoured by roughly a third, and none came close to a majority.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "So don't pick one theory.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Try three lenses.",
-   "c": 1,
+   "t": "Use all three as lenses.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Consequences: who is affected, and how?",
-   "c": 1,
+   "t": "Say a colleague asks you to cover up a mistake that could hurt a client.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Duties: am I respecting rights and keeping commitments?",
-   "c": 1,
+   "t": "Consequences: who is affected, and how badly?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Duties: what have I promised, and whose rights are at stake?",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Character: what would a person I admire do?",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Often all three agree.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "When they don't, the tension shows what is at stake, which is where good judgement begins.",
-   "c": 1,
+   "t": "When they don't, the tension shows what is really at stake, which is where good judgement begins.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A quick test: would you be comfortable if the decision appeared on the front page?",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Consequentialism judges actions by their results, and utilitarianism aims for the greatest good for the greatest number.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Descartes: I think, therefore I am.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "What if everything you believe is a dream, or a trick?",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "René Descartes set out to doubt everything he possibly could, and what was left became one of the most famous sentences ever written.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Doubting everything.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the winter of 1619, a young Frenchman named René Descartes was stuck in Germany, serving with an army.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "By his own account, he spent a day alone in a stove-heated room, thinking.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Despite an excellent education, he felt much of what he had learned was uncertain.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Admiring the step-by-step certainty of geometry, he resolved to clear away every belief that could be doubted and see what solid ground remained.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In his Meditations of 1641 he began with the senses.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A tower looks round from far away and square up close; a straight stick looks bent in water.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A source that has fooled you once is not safe to trust fully.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This was a tool for one quiet hour of reflection, not a way to live as a sceptic.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The dream and the demon.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Descartes then raised a stronger worry.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He had often dreamed he was sitting by the fire in his dressing gown when he was actually asleep in bed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Is there any sure sign that separates waking life from a vivid dream?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If not, even the scene in front of him might be unreal.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Finally he imagined an evil demon, supremely powerful and cunning, devoting all its energy to deceiving him about everything, perhaps even simple sums.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Modern philosophers have updated the demon into a brain in a vat, fed false experiences by scientists, an idea that inspired films such as The Matrix.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The question is the same: can you prove this is not happening to you right now?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The one certainty.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here Descartes found his foothold.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Suppose the demon deceives him about everything.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Still, to be deceived, he must exist.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "To doubt, he must be thinking.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "However far the doubt is pushed, it cannot reach the fact that there is a doubter.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the Meditations he put it as 'I am, I exist', which must be true whenever he thinks it.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In his earlier Discourse on the Method of 1637, written in French, he used the form that became famous, usually rendered in Latin as cogito, ergo sum: I think, therefore I am.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The early Christian thinker Augustine had made a similar point more than a thousand years earlier, arguing that if he was mistaken, he must exist to be mistaken.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rebuilding, and mind and body.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Knowing only that you exist is a lonely position.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Descartes argued that his idea of a perfect being could only come from a perfect God, who would not deceive him, so clear and distinct perceptions could be trusted.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Critics noted the Cartesian circle: he seems to use clear ideas to prove God, then God to guarantee clear ideas.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His method also led to dualism.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He could doubt having a body but not that he was thinking, so mind must be a different kind of thing from body.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From 1643 Princess Elisabeth of Bohemia pressed him: if the mind is not physical, how can it move an arm?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He suggested the pineal gland in the brain, an answer few found satisfying.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most philosophers and scientists today reject his dualism.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why he still matters.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Descartes died in Stockholm in 1650, not long after moving there at the invitation of Queen Christina of Sweden.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "By starting from the individual mind and asking what it can know for certain, he put epistemology, the study of knowledge, at the centre of philosophy for centuries.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Later thinkers such as John Locke and David Hume answered him by stressing experience over pure reason.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He also helped shape modern science and gave us coordinate geometry, the familiar x and y axes, called Cartesian coordinates.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Even people who reject his conclusions use his method: when in doubt, slow down, question your assumptions and ask what you really have good reason to believe.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Descartes set out to clear away every doubtful belief and rebuild knowledge on a foundation that could not be doubted.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. The Enlightenment.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "In the 1700s, thinkers argued that reason, not tradition or kings, should guide human life.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Their ideas built the modern world.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dare to know.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1784 the German philosopher Immanuel Kant answered the question 'What is Enlightenment?'",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "with a motto borrowed from the Roman poet Horace: sapere aude, 'dare to know'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He meant having the courage to use your own understanding without being guided by someone else.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Building on the Scientific Revolution, thinkers across Europe and its colonies argued that reason and evidence, not tradition or superstition, should guide how we understand the world and organise society.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Isaac Newton's Principia, 1687, showed a few laws explaining both falling apples and orbiting planets.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If nature followed rational laws, why not society too?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The movement is usually dated from the late 1600s to around 1800.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Spreading the ideas.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Ideas spread through coffee houses, scientific societies, Parisian salons often hosted by women, and a booming trade in books.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The great project was the Encyclopédie, edited by Denis Diderot and Jean le Rond d'Alembert and published from 1751.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It aimed to gather all human knowledge, including practical trades, and French authorities repeatedly banned it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Voltaire used wit and satire to attack intolerance and censorship.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His novel Candide, 1759, mocks blind optimism.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Jailed in the Bastille and later exiled, he campaigned to clear Jean Calas, a Protestant wrongly executed in 1762, and won in 1765.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The famous line 'I disapprove of what you say, but I will defend to the death your right to say it' wasn't his.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His biographer Evelyn Beatrice Hall wrote it in 1906.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rights and consent.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The English philosopher John Locke, 1632 to 1704, argued that people are born with natural rights, including life, liberty and property, and that governments exist to protect them.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Government rests on the consent of the governed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If it violates those rights, people may replace it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In his Essay Concerning Human Understanding, 1689, he argued that the mind at birth is like a blank slate, shaped by experience rather than inborn ideas.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He also made an influential case for religious toleration.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His ideas deeply influenced the American Declaration of Independence, with its 'life, liberty and the pursuit of happiness', and later democratic constitutions.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dividing power.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In The Spirit of the Laws, 1748, Montesquieu argued liberty is safest when power is divided: one body makes laws, another carries them out, and an independent judiciary interprets them.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Each checks the others, so no one becomes all-powerful.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This separation of powers became central to the US Constitution.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's Constitution also separates legislative, executive and judicial power, and the High Court guarded judicial independence in the 1956 Boilermakers' case.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Jean-Jacques Rousseau opened The Social Contract, 1762, with: 'Man is born free, and everywhere he is in chains.'",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He argued legitimate authority comes from the collective will of the people, not kings or force.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Critics note his claim that dissenters can be 'forced to be free' could justify authoritarianism.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mary Wollstonecraft's Vindication of the Rights of Woman, 1792, extended these arguments to women.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Science, legacy, blind spots.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Scottish Enlightenment produced David Hume, Adam Smith, The Wealth of Nations, 1776, and James Hutton, who argued the Earth was far older than most believed.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Enlightenment science reached Australia too: James Cook's voyage, backed by the Royal Society, observed the 1769 transit of Venus from Tahiti, then charted the east coast in 1770.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Joseph Banks collected thousands of plant specimens.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Free speech, tolerance, democracy and equal rights are Enlightenment legacies, running through the 1948 Universal Declaration of Human Rights.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "But many thinkers accepted slavery, colonialism or the exclusion of women.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "British colonisation of Australia began in 1788, with devastating effects on Aboriginal and Torres Strait Islander peoples.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many argue the answer is to apply Enlightenment principles more consistently, not abandon them.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: The Enlightenment championed reason, evidence and individual rights over tradition and unquestioned authority.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1174,49 +1168,49 @@
    "ps": false
   },
   {
-   "t": "Question one. What did the Abbasid-era translators help achieve?",
+   "t": "Question one. What does the isiZulu saying umuntu ngumuntu ngabantu mean?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Greek learning was absorbed into Arabic thought and debated.",
+   "t": "Answer. A person is a person through other persons.",
    "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. What does utilitarianism say makes an action right?",
+   "t": "Question two. What was the central idea of the Mu'tazila theologians?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Human reason can judge right and wrong.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What did Machiavelli's years as a Florentine official give him?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An inside view of how power is won and lost.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What does utilitarianism say makes an action right?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It brings the greatest wellbeing overall.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. What was Descartes trying to do with his method of doubt?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Clear away doubtful beliefs to find a certain foundation.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What did Kant mean by 'dare to know'?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Using your own understanding with courage.",
    "c": 4,
    "k": "a",
    "ps": false

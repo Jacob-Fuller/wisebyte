@@ -1,12 +1,12 @@
 {
  "id": "s-safety-2",
- "h": "crash-scene-first-aid,bites-stings,poisons-and-button-batteries,water-safety",
+ "h": "seizure-first-aid,crash-scene-first-aid,bites-stings,poisons-and-button-batteries",
  "title": "First Aid & Safety · Episode 2",
  "chapters": [
+  "Seizures: what to do and what not to do",
   "First on the scene of a car crash",
   "Bites and stings in Australia",
-  "Poisons at home: one number to remember",
-  "Water safety"
+  "Poisons at home: one number to remember"
  ],
  "units": [
   {
@@ -16,1237 +16,1213 @@
    "ps": false
   },
   {
-   "t": "In this episode: First on the scene of a car crash, Bites and stings in Australia, Poisons at home: one number to remember and Water safety.",
+   "t": "In this episode: Seizures: what to do and what not to do, First on the scene of a car crash, Bites and stings in Australia and Poisons at home: one number to remember.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. First on the scene of a car crash.",
+   "t": "Part one. Seizures: what to do and what not to do.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Watching someone have a seizure is frightening, and the most famous piece of advice about it is completely wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The right response is calm, simple and mostly about keeping them safe.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An electrical storm.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain runs on electrical signals passed between billions of nerve cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During a seizure, a sudden burst of abnormal, synchronised activity disrupts that traffic.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What happens depends on where it starts and how far it spreads.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Epilepsy is a tendency to have recurring seizures.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But seizures can also be triggered by a high fever in young children, a head injury, very low blood sugar, alcohol withdrawal, some drugs, or an illness affecting the brain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seizures are more common than many people think, and many of us will witness one, so basic seizure first aid is worth knowing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not all look alike.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The type most people picture is a tonic-clonic seizure, once called grand mal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The person may cry out, stiffen, fall and jerk rhythmically, sometimes with noisy breathing, drooling or loss of bladder control.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most stop on their own within a few minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many seizures look nothing like this.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a focal seizure, a person may seem dazed, pluck at clothes, smack their lips, wander or not respond properly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An absence seizure, most common in children, can look like a few seconds of blank staring, easily mistaken for daydreaming.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Someone having a quieter seizure may be misjudged as drunk or rude when they actually need patience and protection.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time it, protect them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stay with the person and stay calm.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Check the time straight away, because how long the seizure lasts is one of the most important things to know.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Move hard or sharp objects away and put something soft, like a folded jacket, under their head.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If it's safe, loosen anything tight around the neck.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't hold them down or try to stop the movements.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Restraint can injure both of you and won't end the seizure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Don't move them unless they are in danger, such as near traffic, water, stairs or fire.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask onlookers to give them space and privacy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tongue myth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For generations, people were told to force something between the teeth of a person having a seizure, to stop them swallowing their tongue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is a harmful myth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The tongue is anchored to the floor of the mouth and cannot be swallowed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pushing a spoon, wallet or fingers into the mouth can break teeth, injure the jaw, cause choking on fragments and get your fingers badly bitten.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A person may bite their tongue or cheek, which can bleed, but this usually heals and is far less dangerous than what well-meaning bystanders cause.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the movements stop, roll the person onto their side into the recovery position.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Give no food or drink until they are fully awake and able to swallow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recovery and calling 000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Confusion, drowsiness or upset can last several minutes or longer after a seizure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Speak calmly, tell them where they are and stay until they're alert.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some people carry an identification card, wear a medical bracelet or have a seizure management plan.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people with known epilepsy don't need an ambulance for a typical short seizure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But Epilepsy Action Australia advises calling 000 if it lasts over five minutes, another follows before recovery, or they don't wake up.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call too if they are injured, have trouble breathing, are pregnant or diabetic, it's their first seizure, or you're unsure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any seizure in water is an emergency.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Febrile seizures in young children are usually harmless, but have a doctor check a first one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A seizure is a sudden burst of abnormal electrical activity in the brain, and it has many possible causes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. First on the scene of a car crash.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "One day you may be the first person to arrive at a crash.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "What you do in the first few minutes, starting with protecting yourself, can decide how many people go home.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Protect yourself first.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The instinct is to rush to the wreckage.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "But traffic is still moving, drivers are distracted, and visibility may be poor.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rescuers are sometimes struck by other vehicles.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Start by making yourself safe.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Slow down and park well clear of the crash, ideally off the road.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turn on your hazard lights.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If it's dark, wear something bright or use a torch, and set up a reflective triangle well back if you have one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep children and passengers in your car or well away from the road.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then assess the scene before approaching.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Call 000 well.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Call Triple Zero, 000, as early as possible, or ask a bystander to call while you check on people.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The most important information is where you are.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Look for road names, cross streets, kilometre markers, landmarks or direction of travel.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The free Emergency+ app, developed by Australia's emergency services, shows your GPS coordinates to read out.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then describe the crash: how many vehicles, how many injured, whether anyone is trapped, unconscious or bleeding badly, and whether there's fuel leaking, smoke or fire.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Stay on the line; the operator can guide you through first aid.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Check the hazards.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before approaching, look for dangers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Is there spilt fuel, smoke or fire?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fallen powerlines, which could make the vehicle and ground dangerous?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Is the car unstable, on its side or on a slope?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Is traffic still flowing?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If it's safe, ask occupants to turn off the ignition, or do it yourself if you can without risk, and make sure nobody smokes nearby.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Don't approach a vehicle with powerlines on it; stay at least eight metres away and warn others.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Electric and hybrid vehicles can carry high-voltage components, so leave anything beyond basic first aid to emergency crews.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you can't make it safe, stay back and wait.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Moving the injured.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "People in a crash may have hidden neck or spine injuries, and movement could make them worse.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "As a rule, leave injured people where they are and keep them still.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Support their head if they're conscious and it's comfortable.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Reassure them that help is coming and ask them not to move their head.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The exception is immediate danger: fire, rising water or traffic.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then getting them out matters more.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep head, neck and body aligned as best you can.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If someone is unresponsive, the airway is often the biggest threat.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australian guidelines say keeping it open outranks the possibility of spinal injury.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Follow DRSABCD.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If they're breathing, support the airway and roll them onto their side if needed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If not, they need CPR.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Helmets and duty.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Should you remove a motorcyclist's helmet?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Generally, leave it on.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It may support a neck injury, and incorrect removal could cause harm.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If the rider is conscious and breathing, open the visor, talk to them and keep them still.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The helmet only comes off if it stops you managing their airway or breathing, for example with vomiting or CPR.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ideally two people do it: one supports the head and neck, the other gently spreads the helmet and eases it off.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australian road rules require drivers in a crash to stop, help anyone injured and exchange details.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Witnesses are not usually obliged to stay, but their account helps.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It's normal to feel shaken afterwards.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A first aid course is the best preparation.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Make yourself safe before approaching a crash, because the scene is often dangerous for rescuers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Bites and stings in Australia.",
-   "c": 1,
+   "t": "Part three. Bites and stings in Australia.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Australia has some of the world's most venomous animals, yet deaths are rare.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Good first aid is a big part of why.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Snakebite first aid.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia has many of the world's most venomous snakes, including brown snakes, tiger snakes and taipans, yet snakebite deaths average only a few a year.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Fast first aid and antivenom are why.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many bites are painless and leave little to see, so treat any suspected bite seriously.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Call Triple Zero, 000.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Venom travels mostly through the lymphatic system, which muscle movement drives, so keep the person lying still.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Apply a pressure immobilisation bandage, a technique developed in Australia: bandage firmly over the bite, then up the whole limb from the fingers or toes, as snugly as for a sprain.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Splint the limb and leave the bandage on.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Don't wash the bite, as venom on the skin helps hospitals identify the snake.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Never cut, suck or use a tourniquet.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bandage or cold pack.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Funnel-web spiders, found mainly along the east coast including Sydney, have life-threatening venom, especially the males.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "No deaths have been recorded since antivenom arrived in 1981, but that relies on good first aid.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Treat a bite from a large black spider there like a snakebite: call 000, apply a pressure immobilisation bandage and keep the person still.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The same goes for blue-ringed octopus bites, which can stop breathing, and cone shell stings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Be ready to give rescue breaths or CPR.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Redbacks are different.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Their bite causes spreading pain, sweating and nausea, but no deaths have occurred since antivenom arrived in the 1950s.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pressure worsens the pain, so wash the area, apply a cold pack and seek medical advice.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Use the same for huntsman and white-tail bites.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bluebottles and box jellyfish.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Bluebottles wash up on beaches after onshore winds.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Their stings are very painful but rarely dangerous.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pick off any tentacles with your fingers, rinse with seawater, not fresh, then soak the area in hot water, as hot as the person can comfortably tolerate, for about 20 minutes.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Use a cold pack if you have no hot water.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Skip the vinegar.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Box jellyfish stings are among the world's most dangerous and can stop the heart within minutes.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Irukandji jellyfish can be as small as a fingernail; the sting may feel mild, then about half an hour later cause severe back pain, vomiting and high blood pressure.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "For any tropical sting, call 000, pour vinegar over it for at least 30 seconds and be ready to start CPR.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Don't rub it or use fresh water.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bees, ants and ticks.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A honeybee leaves its barbed sting in your skin, still pumping venom.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Speed matters more than technique, so scrape it sideways with a fingernail or pull it out, then apply a cold pack.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wasps and ants, such as jack jumpers, leave no sting behind.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Wash the area and use a cold pack.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "For ticks, Australian allergy experts advise 'freeze it, don't squeeze it'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Kill the tick where it sits with a freezing spray, such as one containing ether, then let it drop off or remove it carefully.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Squeezing or pulling a live tick can inject more allergen.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Anaphylaxis: act fast.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Anaphylaxis is a severe, rapid allergic reaction and can be fatal.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In Australia, stings from bees and jack jumper ants are a common cause.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Warning signs include difficult or noisy breathing, a swollen tongue, a tight throat, a hoarse voice, wheezing or persistent coughing, dizziness or collapse.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Young children may look pale and floppy.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lay the person flat.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Don't let them stand or walk, though they can sit if breathing is hard.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Give an adrenaline autoinjector into the outer mid-thigh and call Triple Zero, 000.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If in doubt, give adrenaline.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is general information, so a first aid course is strongly recommended.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: For a suspected snakebite, call Triple Zero, bandage the whole limb firmly and keep the person completely still.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Poisons at home: one number to remember.",
-   "c": 2,
+   "t": "Part four. Poisons at home: one number to remember.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Most poisonings happen not in labs or crime novels but in ordinary kitchens, bathrooms and handbags.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Knowing one phone number, and one danger hiding in your remote control, could save a child's life.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Accidents at home.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Poisoning sounds like something from a detective story, but most cases are home accidents.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Children under five are especially vulnerable because they explore with their mouths, copy adults and move fast.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A child can climb onto a bench, open a handbag or find a dropped tablet in seconds.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Common culprits include medicines, cleaning products, dishwasher and laundry pods, essential oils, cosmetics, garden chemicals and some plants.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Adults are poisoned too, often through medication mix-ups like a double dose, or chemicals kept in the wrong containers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A few habits prevent most of it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "13 11 26.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia's national poisoning advice number is 13 11 26, the Poisons Information Centre.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It's answered around the clock, every day, from anywhere.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Specialists can tell you whether a substance and amount is likely to be harmful, what to do now and whether to go to hospital.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many calls end with reassurance.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Save the number in your phone and put it on the fridge.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "But if the person has collapsed, is having a seizure, is having trouble breathing or is very drowsy, call Triple Zero, 000, first.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Don't make them vomit, or give milk, unless the Poisons line or a doctor says so.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Vomiting can burn corrosives twice or draw petroleum products into the lungs.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rinse skin and eyes with running water.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep the container.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Button batteries.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Small coin-shaped lithium batteries are in car keys, remote controls, kitchen scales, thermometers, toys and musical greeting cards.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "If a child swallows one and it lodges in the oesophagus, it reacts with saliva and body fluids to produce a strongly alkaline chemical that can burn through tissue, sometimes within two hours.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The damage can reach major blood vessels.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Children have died in Australia this way.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Symptoms may be vague or absent at first, so don't wait for them.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "If you suspect a child has swallowed a button battery, or put one in their nose or ear, call 000 or go straight to a hospital emergency department, and call 13 11 26 for advice.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Laws born of grief.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 2013, four-year-old Summer Steer of Queensland died after swallowing a button battery no one knew she had found.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Her death and others led to campaigns by families, doctors and consumer groups.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 2022, Australia introduced mandatory safety standards, enforced by the ACCC.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Products with button batteries must have secure compartments young children can't easily open, batteries must be in child-resistant packaging, and warnings are required.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia was among the first countries to introduce mandatory rules like this.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Still, older products, cheap imports and spare batteries in drawers remain a risk.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Store them up high and dispose of used ones safely.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Storage and wild poisons.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Keep medicines, including vitamins and pain relievers, in a locked or child-resistant cupboard at least 1.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "5 metres off the ground, not in handbags or on bedside tables.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Put them away straight after use, even while answering the door.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Never store chemicals in drink bottles.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep products in original labelled containers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ask visitors to keep bags out of reach.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some of the most dangerous poisons are natural.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The death cap mushroom, introduced to Australia, grows around Canberra and Melbourne, often under oaks.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cooking doesn't destroy its toxins, and part of one can cause liver failure, with symptoms delayed for many hours.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Never eat wild mushrooms unless an expert is certain.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "After eating an unknown mushroom or plant, call 13 11 26 at once and keep a sample.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Most poisonings are ordinary accidents at home, and children under five are the most at risk.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Water safety.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Drowning rarely looks like the movies: no splashing, no shouting.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Knowing what it really looks like could save someone you love.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A costly love of water.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Royal Life Saving Australia's annual reports typically record several hundred drowning deaths a year, plus many non-fatal drownings that can leave lasting brain injury.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Around four in five people who drown are male.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many assume beaches are the biggest danger, but rivers, creeks and lakes are often the leading location, particularly in regional areas.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "There are no lifeguards there, and snags, cold water and strong currents stay hidden.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Children under five are most at risk in and around home swimming pools.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most drownings are preventable with the right knowledge, supervision and choices.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Flags and rips.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The red and yellow flags mark the area lifesavers have chosen as safest that day and are actively watching.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Swimming outside them, or at unpatrolled beaches, greatly raises the risk.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Check the signs and ask a lifesaver if unsure.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Apps and websites such as Beachsafe list patrolled beaches.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rip currents are strong channels of water flowing away from shore, and are widely cited as killing more people than sharks, floods and bushfires combined.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They often look calm.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Look for deeper, darker water, a gap where waves aren't breaking, rippled water among smoother patches, sandy or foamy water flowing out, or debris moving seaward.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Watch from high on the beach for a few minutes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If you can't tell, swim between the flags.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Caught in a rip.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If you are caught in a rip, don't panic or exhaust yourself swimming straight back against it.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Relax and float to save energy; many rips circulate and may carry you back towards shallow water.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Raise one arm and wave.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That is the signal lifesavers look for.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If you are a capable swimmer, swim parallel to the beach or towards the breaking waves, which usually push you back to shore.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If you see someone else caught in a rip, call Triple Zero, 000, and alert a lifesaver.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Don't go in yourself unless you are trained.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Throw them something that floats, such as a boogie board or esky.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Drowning is quiet.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Real drowning rarely involves splashing and shouting.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A person who is drowning is fighting for air and often can't call out or wave.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Look for a head low in the water, mouth at water level, glassy eyes, an upright body with little leg movement, and arms pressing down on the water.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Children can slip under silently in seconds, even near adults.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If someone doesn't answer, act immediately.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Royal Life Saving's Keep Watch program says: supervise, restrict access, build water awareness and learn to resuscitate.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Keep young children within arm's reach of an adult who is actively watching, not on their phone.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fence pools, with self-closing, self-latching gates.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Empty buckets, baths and paddling pools, as toddlers can drown in a few centimetres of water.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rocks, boats and alcohol.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rock fishing is one of Australia's most dangerous recreational activities, because large 'king waves' can sweep people off rocks with little warning.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Wear a lifejacket; in some high-risk New South Wales areas it is compulsory.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Never fish alone, tell someone your plans, check the swell and tide, watch the spot for at least 20 minutes first, and never turn your back on the ocean.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Lifejackets matter on boats, kayaks and paddleboards too.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Alcohol is a factor in a significant share of adult drownings.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It impairs judgement and balance and encourages risky choices.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Avoid it before and during swimming, boating or fishing, and don't swim alone.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Be honest about your ability, and never dive into water of unknown depth.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Several hundred people drown in Australia each year, mostly men, and rivers, creeks and lakes are often the deadliest places, not beaches.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1258,7 +1234,19 @@
    "ps": false
   },
   {
-   "t": "Question one. Why should you park well clear of a crash and turn on hazard lights?",
+   "t": "Question one. What is a seizure?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A burst of abnormal electrical activity in the brain.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why should you park well clear of a crash and turn on hazard lights?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1270,7 +1258,7 @@
    "ps": false
   },
   {
-   "t": "Question two. How should a pressure immobilisation bandage be applied for a snakebite?",
+   "t": "Question three. How should a pressure immobilisation bandage be applied for a snakebite?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1282,25 +1270,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Why are children under five most at risk of poisoning?",
+   "t": "Question four. Why are children under five most at risk of poisoning?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. They explore with their mouths and move quickly.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Which type of location is often the leading site of drowning deaths in Australia?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Rivers, creeks and lakes.",
    "c": 4,
    "k": "a",
    "ps": false

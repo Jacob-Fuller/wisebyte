@@ -1,0 +1,900 @@
+{
+ "id": "s-food-history-2",
+ "h": "spice-trade,sugar-bitter-history,tea-story",
+ "title": "Food That Shaped the World · Episode 2",
+ "chapters": [
+  "The spice trade: flavours that built empires",
+  "Sugar: a sweet substance with a bitter past",
+  "Tea: one plant, a thousand cups"
+ ],
+ "units": [
+  {
+   "t": "Food That Shaped the World. Episode two.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The spice trade: flavours that built empires, Sugar: a sweet substance with a bitter past and Tea: one plant, a thousand cups.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The spice trade: flavours that built empires.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Pepper, cloves and nutmeg were once worth fighting and dying for.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The hunt for spices sent ships around the world, made fortunes and caused terrible violence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rare, far and precious.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A jar of nutmeg costs a few dollars today, but spices were once luxuries because they grew in so few places.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black pepper came from Kerala's Malabar Coast, true cinnamon from Sri Lanka, cloves from a handful of northern Moluccan islands, and nutmeg and mace almost entirely from the tiny Banda Islands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Indian, Arab, Malay, Chinese and other merchants carried them, each adding a markup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trade is ancient.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Romans loved pepper, and merchants used the monsoon winds to cross from Egypt's Red Sea ports to India in weeks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "According to ancient accounts, Alaric demanded thousands of pounds of pepper when he besieged Rome in 408.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular belief says spices hid the taste of rotting meat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most historians reject it: spices often cost far more than fresh meat.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Race for a sea route.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the medieval period, spices reached Europe through Middle Eastern routes and Italian cities such as Venice, which grew rich as middlemen.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Other European powers wanted to cut them out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portugal pushed down the coast of Africa, and in 1498 Vasco da Gama rounded the Cape of Good Hope and reached Calicut in India by sea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spain sponsored Christopher Columbus, who sailed west in 1492 hoping to reach Asia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He reached the Caribbean instead, where he met chillies and allspice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He called the chillies 'peppers', a name that has confused people ever since.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ferdinand Magellan's expedition, which completed the first circumnavigation of the globe in 1522, was also largely a search for a route to the spice islands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Monopolies and massacres.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the seventeenth century the Dutch East India Company, the VOC, set out to control the most valuable spices completely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its methods were brutal.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1621 forces under governor-general Jan Pieterszoon Coen conquered the Banda Islands, the world's only real source of nutmeg.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Bandanese were killed, enslaved or driven away, and the islands became plantations worked by enslaved people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Dutch also restricted clove trees to particular islands and destroyed trees elsewhere to keep prices high.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When England and the Netherlands made peace in 1667, the Dutch kept Run, a tiny nutmeg island the English had held, while England kept New Amsterdam, which it had seized and renamed New York.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In hindsight, the deal looks rather different.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How spices got cheap.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Monopolies over living plants rarely last.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1770s a French official, Pierre Poivre, organised expeditions that smuggled clove and nutmeg seedlings out of the Dutch-controlled islands to Mauritius and other French colonies.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During the Napoleonic Wars the British also moved spice plants to places such as Ceylon and Penang, and nutmeg later reached Grenada, which still has one on its flag.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clove growing became a major industry on Zanzibar, worked by enslaved people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As spices were grown in more places, prices fell.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "European tastes also shifted towards sugar, coffee, tea and chocolate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spices once worth a fortune became ordinary kitchen staples, sold cheaply in jars all over the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Saffron, vanilla and legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some spices stay expensive because they take so much work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Saffron, usually the priciest by weight, is the thread-like stigmas of a crocus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each flower has only three, picked by hand, so a kilogram needs well over a hundred thousand flowers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iran grows most of it, with small amounts from Tasmania.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vanilla is the cured pod of a Mexican orchid.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Elsewhere its natural pollinators are missing, until in 1841 Edmond Albius, a twelve-year-old enslaved boy on Reunion, devised the quick hand-pollination method still used today.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trade moved plants, people and ideas.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chillies became central to Indian, Thai, Sichuan and Korean food, and pepper sits beside salt on most Western tables.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It also left a legacy of conquest, monopoly, slavery and environmental change.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: For most of history spices were luxuries because they grew in few places and passed through many hands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Sugar: a sweet substance with a bitter past.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Sugar began as a rare spice and a medicine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its rise to everyday sweetness was driven by slavery, wars and, in Queensland, a painful chapter of Australian history.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From reed to luxury.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sugarcane is a giant grass first domesticated in New Guinea thousands of years ago.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In India, they learned to boil the juice down into crystals, at least by the early centuries AD.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word sugar descends from the Sanskrit sharkara, and candy from khanda.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek writers travelling with Alexander the Great's army in India described a reed that made honey without bees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arab and Persian cultivators spread cane and refining across the Mediterranean, and to medieval Europeans sugar was a luxury used in medicine and feasts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That changed when Europeans grew cane on Atlantic islands such as Madeira, then in the Americas: Columbus took it to Hispaniola in 1493.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices fell and demand soared, and in Britain sweetened tea became part of daily life.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slavery and the boycott.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sugar was hard, dangerous work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cane had to be crushed and boiled quickly after cutting, so mills and boiling houses ran around the clock.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brazil and then Caribbean islands such as Barbados and Jamaica became huge producers, and owners met their labour demand through the transatlantic slave trade.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Millions of enslaved Africans were shipped to the Americas, many to sugar colonies where death rates were terrible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Historians see sugar as a central engine of the slave economy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1790s, British pamphlets urged families to stop buying slave-grown sugar, and around 300,000 people took part.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Women, who largely controlled household shopping but could not vote, were central.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain abolished its slave trade in 1807 and slavery in most colonies from 1834.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The boycott is an early example of ethical consumption.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Napoleon and the beet.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1747 the German chemist Andreas Marggraf showed that sugar crystals from beets were identical to cane sugar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His student Franz Achard bred beets with more sugar and opened the first beet sugar factory in Silesia in 1801.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "War made the difference.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During the Napoleonic Wars, the British naval blockade cut France off from Caribbean cane sugar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Napoleon backed beet sugar with land grants, funding and decrees in the early 1810s, and factories sprang up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The industry survived the war, and a significant share of the world's sugar now comes from beets grown in cooler climates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chemically, white sugar from cane and from beet is the same molecule: sucrose.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Queensland and blackbirding.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sugar became a major Queensland industry from the 1860s.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Planters wanted cheap labour for hot, punishing work, and between 1863 and 1904 around 60,000 people from Pacific islands, especially today's Vanuatu and Solomon Islands, were brought to Queensland under labour contracts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some came willingly, but many were tricked, coerced or kidnapped, a practice known as blackbirding.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Wages were low, conditions harsh and death rates high.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After Federation, the Pacific Island Labourers Act of 1901 led to the deportation of most Islanders, as part of the White Australia policy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some stayed, and their descendants form the Australian South Sea Islander community, formally recognised by the Commonwealth in 1994.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cane toad was also introduced in 1935 to fight cane beetles.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sugar and your body.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Table sugar, sucrose, is one glucose and one fructose unit joined together, and your gut quickly splits it apart.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Honey, maple syrup, coconut sugar and raw sugar are mostly the same simple sugars in slightly different proportions, with only trace amounts of anything else, so they are not much healthier.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Health Organization recommends keeping free sugars below 10 per cent of daily energy, and suggests below 5 per cent brings further benefits.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Free sugars are those added to food, plus those in honey, syrups and juices.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sugars naturally inside whole fruit, milk and vegetables are not counted.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sugary drinks are the biggest single source for many people, and they are strongly linked to tooth decay and weight gain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sugarcane, first domesticated in New Guinea, became a rare spice and medicine before Europe's supplies grew and it turned into an everyday staple.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Tea: one plant, a thousand cups.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Green, black, white and oolong tea all come from the same shrub.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The differences lie in what happens to the leaves after picking, and the story of how tea spread reshaped empires.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One plant, many teas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Green, black, white and oolong tea all come from one evergreen shrub, Camellia sinensis.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Peppermint, chamomile and rooibos are herbal infusions, or tisanes, not true tea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Chinese variety has small leaves and suits cool mountains.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Assam variety, wild in north-east India, has big leaves and gives many black teas their malty strength.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real difference is oxidation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After picking, enzymes react with oxygen, as a cut apple turns brown.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For green tea, leaves are heated at once, by steaming in Japan or pan-firing in China, keeping them green and grassy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Black tea is withered, rolled and fully oxidised, deepening colour and briskness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oolong is partly oxidised.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "White tea is young buds, simply withered and dried.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China, Japan and Europe.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Legend says the emperor Shennong discovered tea when leaves blew into his boiling water, but that is a myth.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The hard evidence is still old: tea leaves buried in the tomb of a Han dynasty emperor who died in 141 BCE show tea was valued over 2,000 years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At first it was often a medicine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the eighth century, in the Tang dynasty, Lu Yu wrote 'The Classic of Tea', and tea became an art.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Buddhist monks carried it to Japan, where powdered green tea, matcha, became the heart of the tea ceremony.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dutch traders brought tea to Europe in the early 1600s.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Catherine of Braganza, a Portuguese princess already fond of tea, made it fashionable in England after marrying Charles II in 1662.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea, empire and a heist.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "English tea was expensive and heavily taxed, so smuggling flourished.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As prices fell, sugared tea became a British staple.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1773 Boston protesters dumped East India Company tea into the harbour, feeding the American Revolution.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain bought so much Chinese tea that it ran short of silver, a problem that helped lead to the Opium Wars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Britain wanted its own supply.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plantations began in Assam, where the local tea variety was identified in the 1820s and 1830s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between 1848 and 1851 the Scottish botanist Robert Fortune, sometimes in disguise, smuggled thousands of plants and seeds out of China, along with tea-making knowledge and skilled workers.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plantations spread across India and Ceylon, now Sri Lanka, and made tea cheap, but relied on poorly paid labourers in harsh conditions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China remains the biggest producer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brewing a better cup.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Black tea suits water just off the boil and a steep of three to five minutes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Green tea is more delicate: boiling water can scorch it and pull out bitterness, so many people use water cooled to roughly 70 to 80 degrees Celsius and steep it for less time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Oolongs often reward several short infusions from the same leaves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea usually has less caffeine per cup than coffee, plus an amino acid called L-theanine, which some research links to a calm, focused feeling.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tea bags spread widely in the twentieth century.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular story says they began when a New York merchant sent samples in small silk bags, though the history is fuzzier.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of Australia's colonial and early national history, tea was the drink of choice.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It travelled well and was easy to brew over a campfire, and the billy, a simple tin can for boiling water, became an icon of bush life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea was included in rations for convicts, soldiers and workers, and for much of the twentieth century Australians drank far more tea than coffee.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most tea is imported, but small amounts grow in the wet tropics of far north Queensland.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cafe espresso has since overtaken it, yet tea is still hugely popular, with specialty tea shops, bubble tea bars and Chinese and Indian traditions giving it fresh life.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: All true tea comes from one shrub, Camellia sinensis, and oxidation during processing creates green, black, oolong and white.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why do most historians reject the idea that spices hid the taste of rotten meat?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Spices often cost far more than fresh meat.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why did sugar change from a rare luxury to an everyday staple in Europe?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. More cane grown in the Americas lowered prices.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What mainly makes black tea different from green tea?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Its leaves are allowed to oxidise fully.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

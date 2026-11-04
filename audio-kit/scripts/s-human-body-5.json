@@ -1,0 +1,1147 @@
+{
+ "id": "s-human-body-5",
+ "h": "immune-system,fever-explained,sleep,why-we-age",
+ "title": "The Human Body · Episode 5",
+ "chapters": [
+  "How your immune system works",
+  "Fever: why your body turns up the heat",
+  "Why we sleep",
+  "Why we age: the biology of growing old"
+ ],
+ "units": [
+  {
+   "t": "The Human Body. Episode five.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How your immune system works, Fever: why your body turns up the heat, Why we sleep and Why we age: the biology of growing old.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How your immune system works.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Right now, an army of cells is patrolling your body, learning, remembering and fighting invaders you'll never notice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Layers of defence.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every day your body meets bacteria, viruses, fungi and parasites, called pathogens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most never make you sick, thanks to your immune system: a network of cells, tissues and organs including the bone marrow, thymus, spleen, lymph nodes and tonsils.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works in layers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first layer simply keeps invaders out.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Skin is a tough barrier.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mucus traps particles in your airways, and tiny hairs called cilia sweep it out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tears and saliva contain enzymes that break down bacteria, and stomach acid kills many microbes you swallow.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trillions of friendly bacteria on your skin and in your gut also take up space and resources that harmful microbes would otherwise use.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fast, then targeted.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If something gets past the barriers, the innate immune system responds within minutes to hours.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "White blood cells such as neutrophils and macrophages rush in and engulf invaders.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their chemical signals cause inflammation, the redness, heat, swelling and pain around a cut, which brings more blood and immune cells.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fever helps too: a higher temperature makes it harder for many pathogens to multiply and speeds up immune reactions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The adaptive system is slower, taking days, but highly targeted.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "B cells make antibodies, Y-shaped proteins that lock onto a specific pathogen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "T cells coordinate the response, and killer T cells destroy infected cells directly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your body can make enough different antibodies to recognise almost any invader.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Memory and vaccines.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After an infection, some B and T cells become long-lived memory cells.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If the same pathogen returns, they mount a faster, stronger response, often clearing it before you feel sick.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why you usually get diseases like chickenpox only once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Flu and common cold viruses keep changing their outer proteins or come in many varieties, so memory cells miss the new versions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Vaccines give your immune system a safe preview of a pathogen, using a weakened or inactivated form, a piece of it, or instructions for making a piece, as mRNA vaccines do.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Smallpox, which killed hundreds of millions of people, was declared eradicated in 1980.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When enough people are immune, disease struggles to spread, protecting those who can't be vaccinated: herd immunity.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When it overreacts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The immune system isn't perfect.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In allergies, it overreacts to harmless substances like pollen, dust mites or certain foods.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has one of the highest rates of food allergy in the world, especially among children.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In autoimmune diseases, such as type 1 diabetes, rheumatoid arthritis and coeliac disease, it mistakenly attacks the body's own tissues.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists are still unravelling why, but genetics and environment both play roles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is also why you can't 'boost' a healthy immune system into overdrive, and wouldn't want to: an overactive one causes problems of its own.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporting your immunity.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can support your immune system even if you can't boost it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Regular sleep, physical activity, a balanced diet with plenty of vegetables and fruit, not smoking and moderating alcohol all help it work well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying up to date with vaccinations and washing your hands prevent infections in the first place.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be sceptical of supplements and products that promise to 'boost immunity'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most people, the evidence is weak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you get frequent or unusual infections, see a doctor.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Your immune system works in layers, and the first is physical barriers such as skin, mucus and stomach acid.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Fever: why your body turns up the heat.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A fever is not your body losing control of its temperature.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a deliberate decision, and one that animals have been making for hundreds of millions of years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resetting the thermostat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your body temperature is controlled by the hypothalamus, a small region at the base of the brain that works like a thermostat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "During an infection, immune cells release signalling molecules, including cytokines such as interleukin 1 and interleukin 6.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These trigger a substance called prostaglandin E2, which raises the hypothalamus's set point.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Suddenly your normal temperature feels too cold.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You shiver, your skin turns pale as blood vessels narrow to save heat, and you reach for a blanket, all to warm up to the new target.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the fever breaks and the set point drops, the opposite happens: you feel hot, flush and sweat heavily.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The myth of 37 degrees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The figure of 37 degrees Celsius traces largely to German physician Carl Wunderlich, who in 1868 published an analysis of a huge number of armpit readings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His work helped make the thermometer a standard medical tool.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern measurements suggest the average is often a little lower, commonly around 36.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "5 to 36.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 degrees, depending on the person and where it is measured.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your temperature also follows your body clock, usually lowest in the early morning and highest in the late afternoon or evening.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Age, activity and, for women, the menstrual cycle shift it too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some researchers have found evidence that average temperatures have drifted down since Wunderlich's day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lizards with a fever.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s physiologist Matthew Kluger studied desert iguanas, which cannot make their own body heat and control temperature by moving between warm and cool spots.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When infected with bacteria, the lizards chose warmer places, raising their temperature by around two degrees, a so-called behavioural fever.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lizards kept at cooler temperatures were much more likely to die.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Similar behaviour has since been seen in fish, insects and other animals.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because fever appears across so many branches of the animal kingdom, and costs a lot of energy, most scientists conclude it evolved because it helps fight infection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A trait this costly and this useless would probably have been lost long ago.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How heat helps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fever seems to help in several ways.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many immune processes run faster when warm, including the movement of white blood cells and the production of some defensive molecules.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some bacteria and viruses multiply less efficiently in warmer surroundings, and the body also restricts the iron many bacteria need to grow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "History offers a grim illustration.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1917 Austrian psychiatrist Julius Wagner-Jauregg deliberately infected patients with neurosyphilis, then an incurable brain infection, with malaria to induce high fevers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some improved, and he won the Nobel Prize in 1927.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The treatment was dangerous and was abandoned once penicillin arrived, but it showed that fever could attack a disease.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fever, heat stroke, and help.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a fever the brain still regulates around its raised set point, so infection fevers rarely climb much above about 41 degrees.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In heat stroke the set point is unchanged: the body absorbs or makes heat faster than it can lose it, and temperature keeps rising.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fever medicines act on the set point, so they do not treat heat stroke.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is an emergency: call 000 and start cooling the person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most fevers pass within a few days, and medicines mainly improve comfort, so follow the label or ask a pharmacist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get urgent help for a baby under three months with fever, or for anyone with a stiff neck, a rash that does not fade when pressed, trouble breathing, severe drowsiness or confusion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Call 000 if a febrile seizure lasts more than five minutes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In a fever the brain deliberately raises its target temperature, which is why you shiver and feel cold as it rises.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why we sleep.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "You'll spend about a third of your life asleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what your brain is doing, and how to sleep better.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Active, not wasted.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You'll spend about a third of your life asleep, roughly 25 years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's not wasted time: sleep is when your body repairs tissue, regulates hormones, supports your immune system and locks in memories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearly every animal studied shows some form of sleep, even fruit flies and jellyfish.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each night runs in cycles of about 90 minutes, moving through light, deep, slow-wave, and REM sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Deep sleep dominates the first half of the night and drives physical recovery.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "REM, when most vivid dreams happen, grows longer towards morning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain is highly active during REM, but most muscles are paralysed so you don't act out your dreams.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Miss sleep and your mood, attention and judgement suffer fast.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your brain's night shift.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "While you sleep, your brain replays the day and strengthens what you learned, moving it into long-term storage.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People remember new facts and skills better after sleeping on them than after the same time awake, and deep and REM sleep both play a part.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep also aids problem-solving: people are more likely to spot hidden patterns after a night's rest.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why spaced learning beats an all-night cram.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleep may also be cleanup time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2013 study in mice found the brain's \"glymphatic\" system flushed fluid through brain tissue more actively during sleep, clearing waste that includes proteins linked to Alzheimer's.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But a 2024 mouse study found clearance was slower during sleep, so the idea is now debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chronic poor sleep is still linked to cognitive decline.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your clock and caffeine.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A master clock in your brain, the suprachiasmatic nucleus, runs a roughly 24-hour circadian rhythm.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It controls sleepiness, body temperature and hormones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light is its main timekeeper: morning daylight starts the day, and as evening falls, melatonin rises to prepare you for sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bright screens late at night can delay that signal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jet lag and shift work are hard because they force you out of sync with this clock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Meanwhile, a chemical called adenosine builds \"sleep pressure\" while you're awake.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Caffeine blocks it, masking tiredness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But caffeine has a half-life of about five hours, so half of a 3 pm coffee is still in you at 8 pm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Even if you fall asleep, it can reduce deep sleep, so many experts suggest no caffeine within 8 hours of bed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How much you need.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most adults need 7 to 9 hours a night, and teenagers need 8 to 10.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Very few people genuinely thrive on less than 6.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regularly falling short is linked to poorer concentration, mood and immunity, weight gain, and higher risks of heart disease and diabetes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's dangerous on the road too: being awake for 17 hours affects driving about as much as a blood alcohol level of 0.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "05.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surveys suggest many Australians regularly don't get enough.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sleeping better.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Consistency matters most: go to bed and wake at similar times every day, weekends included.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Get daylight in the morning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep your bedroom cool, dark and quiet, and use your bed mainly for sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the hour before bed, dim the lights and follow a wind-down routine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Limit caffeine later in the day, and alcohol at night, which may help you nod off but fragments sleep later.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you regularly struggle to sleep or snore heavily, see a doctor: conditions like sleep apnoea are common and treatable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Sleep is active maintenance, running in ~90-minute cycles of light, deep and REM sleep.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Why we age: the biology of growing old.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Some tortoises seem barely to age, while mice are old at three.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What is actually happening inside our cells as the years go by, and why did evolution let it happen at all?",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not wear and tear.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The body is not a car slowly wearing out.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It constantly repairs itself: cells are replaced, proteins recycled and damaged DNA fixed, often thousands of times a day in a single cell.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing seems to happen as damage accumulates faster than repair can keep up, and as the repair systems themselves weaken.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing is also the biggest single risk factor for heart disease, many cancers and dementia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why hasn't evolution removed it?",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Biologists including Peter Medawar and George Williams noted that most wild animals die young, so natural selection is strong in youth and weak in later life.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A gene harming only in old age is barely selected against, and one that helps us grow fast and breed early may be favoured despite later damage, an idea called antagonistic pleiotropy.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The shrinking telomere.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Telomeres are repeating stretches of DNA at the ends of chromosomes, often compared to the plastic tips on shoelaces.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each time most cells divide, the telomeres shorten, because the copying machinery cannot fully copy the very ends.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they become too short, the cell typically stops dividing or dies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1960s, Leonard Hayflick showed that normal human cells grown in the laboratory divide only a limited number of times, now called the Hayflick limit.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An enzyme called telomerase can rebuild telomeres and is active in some cells, such as certain stem cells.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many cancer cells switch it on, which helps them divide indefinitely.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That link shows why simply boosting telomerase is not a safe anti-ageing shortcut.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Zombie cells.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When cells are damaged or their telomeres run short, some enter a state called senescence.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They stop dividing, which helps prevent damaged cells turning cancerous.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But they do not always die.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can linger and release inflammatory chemicals that disturb surrounding tissue, earning the nickname zombie cells.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Normally the immune system clears them, but with age they seem to build up in many tissues.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The low-grade chronic inflammation that tends to rise with age, called inflammaging, may be partly driven by them.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In mice, clearing senescent cells has improved some measures of health.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Drugs designed to do this, called senolytics, are being tested in people, but it is too soon to know whether they will be safe and useful.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A web of causes.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2013, scientists proposed a widely cited framework of nine hallmarks of ageing, later expanded.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They include DNA damage, shortening telomeres, changes in how genes are switched on and off, faulty protein folding, faltering mitochondria, the cells' energy producers, senescent cells, exhausted stem cells and altered communication between cells.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chronic inflammation is often added too.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crucially, these processes are interlinked.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Damaged mitochondria can produce harmful molecules that damage DNA, which can push cells into senescence, which drives inflammation, which harms stem cells.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ageing looks less like a single cause and more like a web of problems feeding one another.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That complexity is one reason no single pill or treatment has been shown to halt human ageing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slowing the clock.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The naked mole-rat, a small burrowing rodent, can live over 30 years, many times longer than a mouse, with few signs of ageing for most of its life.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greenland sharks are estimated to live for centuries, and some tortoises have passed a hundred years.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the laboratory, genetic changes, certain drugs and reduced calorie intake without malnutrition have extended the lifespan of worms, flies and mice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Translating this to people is harder: trials take decades, and mouse results often fail to carry over.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No supplement has been proven to slow human ageing.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The evidence supports regular activity including strength training, not smoking, limited alcohol, a plant-rich diet, sleep, sun protection and social connection.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not medical advice; ask your GP about health checks.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Ageing is a build-up of damage and declining repair, which evolution does little to prevent.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Which of these is part of the body's first line of defence?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Skin, mucus and stomach acid.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does a person with a rising fever shiver and feel cold?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The brain has raised its target temperature.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why isn't sleep \"wasted time\"?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Your body repairs itself and stores memories.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why has evolution not eliminated ageing?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Natural selection is weak late in life.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 4,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

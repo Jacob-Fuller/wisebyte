@@ -1,11 +1,12 @@
 {
  "id": "s-universe-2",
- "h": "eclipses,stars,galaxies",
+ "h": "ocean-moons,pluto-dwarf-planets,comets,meteors-meteorites",
  "title": "The Universe · Episode 2",
  "chapters": [
-  "Eclipses: the cosmic coincidence",
-  "The life and death of stars",
-  "Galaxies and the Milky Way"
+  "Ocean moons: hidden seas of the outer solar system",
+  "Pluto and the dwarf planets",
+  "Comets: dirty snowballs from the deep",
+  "Shooting stars and meteorites"
  ],
  "units": [
   {
@@ -15,824 +16,1142 @@
    "ps": false
   },
   {
-   "t": "In this episode: Eclipses: the cosmic coincidence, The life and death of stars and Galaxies and the Milky Way.",
+   "t": "In this episode: Ocean moons: hidden seas of the outer solar system, Pluto and the dwarf planets, Comets: dirty snowballs from the deep and Shooting stars and meteorites.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Eclipses: the cosmic coincidence.",
+   "t": "Part one. Ocean moons: hidden seas of the outer solar system.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "For a few minutes, day turns to night, the temperature drops and stars appear at noon.",
+   "t": "Some of the best places to look for alien life may be dark oceans hidden beneath the ice of moons orbiting Jupiter and Saturn.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It happens because of one of the luckiest coincidences in the solar system.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A perfect fit.",
+   "t": "Hidden seas, tidal heat.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Hold your thumb at arm's length and it can hide a whole building.",
+   "t": "Out past Mars, sunlight is weak and the surface of Jupiter's and Saturn's moons sits well below minus 100 degrees Celsius.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Moon does the same trick with the Sun.",
+   "t": "Yet spacecraft show that several of these moons appear to hide global oceans of liquid water beneath shells of ice.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Sun is roughly 400 times the Moon's diameter, yet it also sits roughly 400 times farther from us.",
+   "t": "Europa may hold more water than all of Earth's oceans combined.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Both discs therefore look almost exactly the same size in our sky, about half a degree across.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "No other planet has a moon that fits its sun so neatly.",
+   "t": "How does water stay liquid?",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When the Moon passes directly between Earth and the Sun, it can cover the blinding disc completely and leave the faint outer atmosphere, the corona, glowing like a silver crown.",
+   "t": "Mainly through tidal heating.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It is an accident of geometry, and we happen to live in the right era to enjoy it.",
+   "t": "These moons follow slightly oval orbits around giant planets, so the pull of gravity changes and squeezes and stretches them.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Total, annular, partial.",
+   "t": "Like a paperclip bent back and forth, they warm by friction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jupiter's Io is the extreme case, the most volcanically active world in the solar system.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gentler heating, plus heat from radioactive elements in the rock, appears enough to keep oceans liquid under kilometres of ice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Europa's hidden ocean.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Moon's orbit is not a perfect circle.",
+   "t": "Europa is slightly smaller than our Moon, but its surface is bright white ice crisscrossed by reddish brown cracks, with very few craters.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "If an eclipse happens when the Moon is near its closest point, it looks big enough to cover the Sun entirely, giving a total eclipse.",
+   "t": "That means the surface is young and constantly reshaped.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Near its farthest point, the Moon looks slightly too small and a bright ring of sunlight surrounds it.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That is an annular eclipse, from the Latin annulus, meaning ring.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Anyone outside the narrow central path sees only a partial eclipse, with a bite taken out of the Sun.",
+   "t": "In the late 1990s NASA's Galileo spacecraft measured how Europa disturbed Jupiter's magnetic field, and the best explanation was a salty, electrically conducting ocean under the ice.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The path of totality is usually only about 100 to 200 kilometres wide and races across Earth's surface faster than a jet airliner.",
+   "t": "The ice shell is thought to be several to a few dozen kilometres thick, over an ocean perhaps around 100 kilometres deep.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That is why eclipse chasers travel the world to stand in exactly the right strip of land.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why not every month.",
+   "t": "Crucially, that ocean probably sits on a rocky seafloor.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Moon circles Earth roughly once a month, so you might expect an eclipse at every new moon.",
+   "t": "Water and rock could react chemically there, as they do around hydrothermal vents in Earth's deep oceans, where life thrives without sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enceladus geysers.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The catch is that its orbit is tilted about five degrees compared with Earth's path around the Sun.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most months the new moon slides just above or below the Sun in our sky and nothing happens.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Eclipses can only occur when a new or full moon lines up with one of the two points where the orbits cross.",
+   "t": "Enceladus is only about 500 kilometres across, small enough to fit within the width of Victoria, so scientists expected little.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "These alignments arrive in eclipse seasons, roughly every six months.",
+   "t": "Then in 2005 NASA's Cassini spacecraft spotted jets of water vapour and ice grains erupting from long cracks near its south pole, nicknamed tiger stripes.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ancient Babylonian astronomers noticed that eclipses repeat in a cycle of about 18 years and 11 days, now called the saros.",
+   "t": "The plumes feed one of Saturn's rings.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It let them predict eclipses long before anyone understood orbits.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The blood moon.",
+   "t": "Cassini later flew straight through them, essentially tasting an alien ocean.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In a lunar eclipse, Earth passes between the Sun and the full Moon, and our planet's shadow falls across the lunar surface.",
+   "t": "It found water, salts, carbon dioxide, ammonia and organic molecules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tiny silica grains hinted at hot water reacting with rock on the seafloor, and later analysis found phosphorus, an essential ingredient for life on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enceladus appears to tick many boxes for habitability: liquid water, chemical energy and the right raw materials.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Titan and Ganymede.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "You might expect the Moon to vanish, but it usually glows deep copper or blood red.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The reason is our atmosphere.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sunlight skimming past the edge of Earth is bent inwards towards the Moon, and most of its blue light is scattered out on the way, the same process that makes sunsets red.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In effect, the Moon is lit by every sunrise and sunset on Earth at once.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Unlike solar eclipses, lunar eclipses can be seen by anyone on the night side of the planet, and they are completely safe to watch with the naked eye.",
+   "t": "Saturn's Titan is bigger than Mercury and the only moon with a thick atmosphere, mostly nitrogen.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Watching safely.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Even when most of the Sun is covered, the remaining sliver is intense enough to damage the retina.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The retina has no pain receptors, so you may not notice until afterwards.",
+   "t": "At around minus 180 degrees Celsius, water is rock-hard, but methane and ethane flow as liquids.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ordinary sunglasses are nowhere near dark enough.",
+   "t": "Titan has clouds, rain, rivers and seas of liquid hydrocarbons.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Safe options include certified eclipse glasses or solar viewers meeting the ISO 12312-2 standard, or an indirect method such as a pinhole projector, where you look at an image of the Sun cast onto paper.",
+   "t": "In 2005 Europe's Huygens probe parachuted through the orange haze and landed on a damp plain strewn with rounded ice pebbles.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Measurements suggest a water ocean lies deep below.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jupiter's Ganymede is the largest moon in the solar system and the only one known to generate its own magnetic field.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Never look through binoculars, a camera or a telescope without a proper solar filter fitted to the front.",
+   "t": "Hubble observations of its shifting auroras suggest a salty ocean beneath the surface.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The one exception is the brief period of totality, when the Sun is completely hidden.",
+   "t": "Callisto may have one too, and oceans are suspected further out, including Triton and Pluto.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The moment the first bead of sunlight reappears, the glasses go back on.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's turn comes on 22 July 2028, when totality crosses the country, including Sydney.",
+   "t": "Missions and caution.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The key idea: The Sun is about 400 times wider than the Moon but also about 400 times farther away, so they look almost the same size.",
+   "t": "If buried oceans are common, liquid water may be far more widespread in the universe than on sunlit rocky planets like Earth, greatly increasing the number of places life could arise.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. The life and death of stars.",
+   "t": "Several spacecraft are on their way.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "ESA's JUICE, launched in 2023, will study Jupiter's icy moons and eventually orbit Ganymede.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA's Europa Clipper, launched in 2024, will make dozens of close flybys of Europa.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA's Dragonfly, a nuclear-powered rotorcraft, is planned to fly between sites on Titan in the 2030s.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists take great care not to contaminate these worlds with Earth microbes, a principle called planetary protection.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is why Galileo was deliberately plunged into Jupiter in 2003, and Cassini into Saturn in 2017, as their fuel ran low.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Several icy moons hide liquid oceans, kept from freezing by tidal heating as their planet's gravity flexes them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Pluto and the dwarf planets.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "How stars are born, why their mass decides their fate, and why many of them don't shine alone.",
+   "t": "In 2006 Pluto was voted out of the planet club.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Born in clouds.",
+   "t": "The real story is less about Pluto being demoted and more about discovering it had a lot of company.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Found by patience.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Stars form inside giant, cold clouds of gas and dust called nebulae, made mostly of hydrogen.",
+   "t": "In the early 1900s, astronomer Percival Lowell was convinced an unknown 'Planet X' lay beyond Neptune, and his observatory in Flagstaff, Arizona, kept searching after his death.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Something, perhaps a nearby supernova or a collision between clouds, disturbs the gas.",
+   "t": "In 1929 it hired Clyde Tombaugh, a 22-year-old Kansas farm boy with no university degree, who had impressed staff with drawings from his homemade telescope.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Gravity pulls denser clumps together, and as they shrink they heat up.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When the core reaches about 10 million degrees, nuclear fusion ignites and a star is born.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Orion Nebula, a fuzzy patch in Orion's 'sword', the handle of the Saucepan in Australian skies, is a stellar nursery you can see with the naked eye.",
+   "t": "Tombaugh photographed the same patches of sky several nights apart and flicked between the plates with a blink comparator, looking for a dot that moved against the background stars.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Sun and starlight.",
+   "t": "On 18 February 1930 he found one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The calculations that inspired the hunt later proved wrong, so finding Pluto was partly luck, combined with enormous patience.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Named by a schoolgirl.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In a star's core, hydrogen nuclei are squeezed so hard they fuse into helium, converting a little mass into a lot of energy.",
+   "t": "News of the new planet spread worldwide, and name suggestions poured in.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Sun converts about 4 million tonnes of matter into energy every second.",
+   "t": "In Oxford, England, 11-year-old Venetia Burney heard about it over breakfast and suggested Pluto, the Roman god of the underworld, fitting for a cold, dark world at the edge of the solar system.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That outward push balances gravity pulling inwards, and for most of a star's life the two stay locked in balance.",
+   "t": "Her grandfather passed the idea to an astronomer friend, who sent it to the Lowell Observatory.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Sun is a fairly ordinary star, 4.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "6 billion years old and roughly halfway through its life.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Its surface is about 5,500 degrees, its core about 15 million °C. Energy can take tens of thousands of years to leave the core, then about eight minutes to reach Earth.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Colour shows temperature: reddish Antares is cooler, blue-white Rigel hotter.",
+   "t": "Staff there voted unanimously in favour, partly because the first two letters, P and L, honoured Percival Lowell.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Mass decides fate.",
+   "t": "Venetia reportedly received a five-pound note as a reward.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon after, Walt Disney introduced a cartoon dog named Pluto.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decades later, an instrument on the New Horizons spacecraft was named in her honour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smaller and smaller.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A star's mass decides its colour, brightness and lifespan.",
+   "t": "At discovery, Pluto was assumed to be roughly Earth-sized, because it was thought to be disturbing Neptune's orbit.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Small, cool red dwarfs use fuel so slowly they can shine for trillions of years, far longer than the universe has existed.",
+   "t": "Each new measurement shrank it.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most stars in the galaxy are red dwarfs, too faint to see by eye.",
+   "t": "In 1978 astronomers discovered its largest moon, Charon, which allowed Pluto's mass to be calculated precisely.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Massive blue stars burn hot and fast and last only a few million years: more fuel means a shorter life.",
+   "t": "It was tiny: only about a fifth of our Moon's mass.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In about 5 billion years, the Sun will swell into a red giant, perhaps engulfing Mercury, Venus and possibly Earth.",
+   "t": "Pluto is about 2,380 kilometres across, narrower than Australia is wide.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Long before then, in about a billion years, its growing brightness will have boiled away Earth's oceans.",
+   "t": "Charon is about half Pluto's diameter, so large that the two swing around a shared point in the space between them.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It will puff off its outer layers as a planetary nebula, leaving a white dwarf: a dense, Earth-sized ember that cools over trillions of years.",
+   "t": "Pluto's orbit is also odd: stretched and tilted, and between 1979 and 1999 it came closer to the Sun than Neptune did.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The death of a giant.",
+   "t": "A crowded neighbourhood.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Massive stars end far more violently.",
+   "t": "In 1992 astronomers found another small icy body beyond Neptune, the first known member of what is now called the Kuiper Belt.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They fuse heavier and heavier elements in their cores, up to iron.",
+   "t": "Hundreds, then thousands more followed.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Fusing iron doesn't release energy, so the core collapses in less than a second and rebounds in a supernova, an explosion that can briefly outshine a galaxy of billions of stars.",
+   "t": "Pluto was not a lonely ninth planet but one of the largest of a vast belt of frozen leftovers.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The collapsed core becomes a neutron star, so dense that a teaspoon would weigh billions of tonnes, or, if massive enough, a black hole.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stars in pairs.",
+   "t": "The crisis came in 2005, when a team led by Mike Brown announced Eris, first thought larger than Pluto.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Our solitary Sun is a little unusual: close to half of Sun-like stars have at least one companion.",
+   "t": "Later measurements showed it is very slightly smaller in diameter but about a quarter more massive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If Pluto was a planet, Eris had to be one too, and possibly dozens more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In August 2006 the International Astronomical Union defined a planet in Prague: it orbits the Sun, is massive enough to be round, and has cleared the neighbourhood around its orbit.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Algol, in Perseus, dims noticeably every 2.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "9 days as a fainter partner crosses in front of it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sirius is circled by a small, faint white dwarf, Sirius B.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When a white dwarf pulls enough gas from a close partner, or merges with another white dwarf, it can blow apart in a type Ia supernova.",
+   "t": "Pluto has a heart.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "These reach a predictable peak brightness, so astronomers use them to measure distances across the universe, work that earned ANU's Brian Schmidt a share of the 2011 Nobel Prize in Physics.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Stars form in nebulae when gravity pulls gas together until the core ignites nuclear fusion.",
+   "t": "Pluto passes the first two tests but fails the third, because it shares its region with countless Kuiper Belt objects.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Galaxies and the Milky Way.",
+   "t": "It became a dwarf planet, alongside Eris and the asteroid Ceres, with Haumea and Makemake added later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some planetary scientists still argue for a definition based on a body's own properties, not its surroundings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "NASA's New Horizons flew past Pluto on 14 July 2015, nine and a half years after launch.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Expectations were modest: an old, cratered ball of ice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead it found a pale heart-shaped region, Tombaugh Regio, holding Sputnik Planitia, a young plain of nitrogen ice that flows like glaciers and has almost no craters.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There were also water-ice mountains kilometres high and a blue haze.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some of Tombaugh's ashes were aboard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Clyde Tombaugh found Pluto in 1930 by comparing photographs of the sky, partly through luck and mostly through patience.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Comets: dirty snowballs from the deep.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "On a dark night in outback Australia you can see our own galaxy's glowing core overhead, and two other galaxies with the naked eye.",
+   "t": "For thousands of years comets were seen as omens of doom.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Our home galaxy.",
+   "t": "Then one astronomer predicted a comet's return, died before he could see it, and was proved right.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Omens in the sky.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Milky Way is a vast system of stars, gas, dust and dark matter held together by gravity.",
+   "t": "A comet appears suddenly, hangs in the sky for weeks with a ghostly tail, then fades.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It is a barred spiral: a central bar of stars inside a flat disc with spiral arms, all wrapped in a faint halo of old stars.",
+   "t": "To many ancient cultures that unpredictability was frightening.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It spans roughly 100,000 light-years and holds perhaps 100 to 400 billion stars.",
+   "t": "Chinese astronomers kept careful comet records for more than two thousand years, often linking them to political upheaval.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Sun sits in a minor arm, the Orion Arm, about 26,000 light-years from the centre.",
+   "t": "In 1066 a bright comet appeared over Europe shortly before the Norman conquest of England, and the Bayeux Tapestry shows people pointing at it in alarm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The word comet comes from the Greek for 'long-haired', describing the streaming tail.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "We orbit at about 800,000 kilometres an hour, yet one lap takes around 230 million years.",
+   "t": "Aristotle believed comets were something happening in Earth's upper atmosphere, not objects travelling through space.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "At the centre lies a supermassive black hole, Sagittarius A*, about 4 million times the Sun's mass.",
+   "t": "It took many centuries, and better telescopes, to prove him wrong.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Because we live inside the disc, we see it edge-on, as a milky band.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "\"Galaxy\" comes from the Greek for milk.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A southern sky advantage.",
+   "t": "Halley's bold prediction.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Australians have one of the best views of our galaxy.",
+   "t": "In the early 1700s, the English astronomer Edmond Halley studied records of bright comets and noticed that those seen in 1531, 1607 and 1682 had remarkably similar paths.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Its brightest part, towards Sagittarius and Scorpius, rides high overhead on winter evenings.",
+   "t": "Using his friend Isaac Newton's new laws of gravity, he argued they were a single comet on a long oval orbit, returning roughly every 75 to 76 years.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Many Aboriginal cultures trace figures in the dark dust lanes, not just the stars.",
+   "t": "He predicted it would reappear around 1758.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The Emu in the Sky has its head in the dark Coalsack beside the Southern Cross, and its body along the Milky Way.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For many groups its position is linked to the emu breeding season, though stories differ between Nations.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Look south on a dark night and you may spot the Large and Small Magellanic Clouds, dwarf galaxies about 160,000 and 200,000 light-years away.",
+   "t": "Halley died in 1742 and never saw the result.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Aboriginal people knew them for thousands of years before Magellan's crew recorded them.",
+   "t": "On Christmas night 1758, a German farmer and amateur astronomer, Johann Palitzsch, spotted the comet right on cue.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For the best view, try a dark site such as Warrumbungle National Park.",
+   "t": "It was a triumph for Newton's physics, and the comet has carried Halley's name ever since.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Galaxy shapes.",
+   "t": "It last passed in 1986 and is due back in 2061.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A dirty snowball.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the 1920s, astronomer Edwin Hubble sorted galaxies by shape, and his scheme is still broadly used.",
+   "t": "In 1950 the American astronomer Fred Whipple proposed that a comet's heart, its nucleus, is a 'dirty snowball' of frozen water, carbon dioxide, ammonia and other ices mixed with dust and rock.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Spiral galaxies, like ours, have flat discs with arms where new stars form, and many have a central bar.",
+   "t": "Space missions have since confirmed the basic idea, though many comets turned out to be more dust than ice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A typical nucleus is only a few kilometres wide and surprisingly dark, reflecting about as much light as charcoal.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Elliptical galaxies are smooth, rounded collections of mostly older stars with little gas for new ones; the largest known galaxies are giant ellipticals.",
+   "t": "When the European probe Giotto flew past Halley's Comet in 1986, it photographed a lumpy, peanut-shaped nucleus roughly 15 kilometres long, jetting gas from its sunlit side.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Lenticular galaxies sit in between, with a disc but no clear arms.",
+   "t": "The display we see from Earth comes not from this tiny core but from the vast cloud it releases when warmed.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Irregular galaxies have no tidy shape, often because gravity from neighbours has pulled them around.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Collisions between galaxies are common over cosmic time, and they can transform one type into another.",
+   "t": "Two tails, not one.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Galaxies that eat galaxies.",
+   "t": "Far from the Sun a comet is frozen and inactive.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Big galaxies grow by merging with smaller ones.",
+   "t": "As it swings closer, sunlight warms the surface and the ices turn straight into gas, dragging dust out with them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This builds a fuzzy atmosphere called the coma, which can be larger than Jupiter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then the tails form.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Sagittarius Dwarf Galaxy is being stretched into streams of stars by our gravity right now.",
+   "t": "The dust tail is pushed gently by sunlight, curves along the comet's path and shines yellowish white.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Data from the Gaia spacecraft showed that a sizeable galaxy, nicknamed the Gaia Sausage, crashed into ours 8 to 11 billion years ago.",
+   "t": "The ion tail is made of electrically charged gas swept away by the solar wind, so it runs straight and often glows blue.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Many astronomers suspect Omega Centauri, a star cluster easily seen from Australia, is the leftover core of another victim.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Even so, stars almost never hit one another, because the gaps between them are so vast.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The largest galaxy in our Local Group, Andromeda, is about 2.",
+   "t": "Here is the surprise: both tails point away from the Sun, not behind the comet.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "5 million light-years away and approaching at about 110 kilometres/s.",
+   "t": "When a comet heads back out into the solar system, it travels tail first.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A 2025 study put the odds of a merger within the next 10 billion years at about 50-50.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Andromeda is visible to the naked eye from the north of Australia.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The dark matter puzzle.",
+   "t": "Origins and Rosetta.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the 1970s, astronomer Vera Rubin and colleagues measured how fast stars orbit in spiral galaxies.",
+   "t": "Comets are leftovers from the formation of the solar system about 4.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Stars far from the centre moved just as fast as those closer in, far faster than the visible matter's gravity could hold.",
+   "t": "6 billion years ago.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Something unseen was adding gravity.",
+   "t": "Those returning in under 200 years mostly come from the Kuiper Belt, a ring of icy bodies beyond Neptune.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Astronomers call it dark matter.",
+   "t": "Comets with orbits of thousands or millions of years are thought to come from the Oort Cloud, a vast shell of icy objects.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No one has directly seen it; it is inferred from the orbits of comets.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The European Space Agency's Rosetta reached comet 67P, a rubber-duck-shaped body about four kilometres long, after a ten-year chase.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It seems to make up about 85 per cent of all matter in the universe, forming huge halos around galaxies.",
+   "t": "In November 2014 it released the Philae lander.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Nobody yet knows what it is, and a minority of physicists explore modified gravity instead.",
+   "t": "Its harpoons failed to fire, and it bounced twice into a cliff's shadow, yet sent data for about 60 hours.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Every galaxy you see in the night sky is only the visible part of something much larger.",
+   "t": "Rosetta found 67P's water differs chemically from Earth's oceans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Before science explained them, comets were widely feared as signs of disaster, and even Aristotle misjudged what they were.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Let your eyes adjust for 20 minutes under a dark sky and look for yourself.",
-   "c": 2,
+   "t": "Part four. Shooting stars and meteorites.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most shooting stars are specks of dust smaller than a grain of rice, yet a few space rocks survive the fall and carry chemistry older than the Sun.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not really a star.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lie on your back somewhere dark for half an hour and you will probably see a few shooting stars.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Despite the name, they have nothing to do with stars.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: The Milky Way is a barred spiral about 100,000 light-years across, holding perhaps 100 to 400 billion stars.",
-   "c": 2,
+   "t": "Each one is a piece of rock or dust, often no bigger than a grain of sand, hitting the atmosphere at roughly 11 to 72 kilometres per second.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It heats the air so violently that it vaporises and makes the air glow, usually 70 to 100 kilometres up.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomers use three words.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A meteoroid drifts in space.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A meteor is the glowing streak.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A meteorite is any piece that survives and lands on the ground.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why showers return.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On most nights you might see a handful of random meteors an hour.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On certain dates each year the count jumps, sometimes to dozens an hour.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are meteor showers, and they arrive like clockwork because Earth crosses the same streams of debris at the same point in its orbit.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most streams were shed by comets as they swung past the Sun.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Halley's Comet, for example, feeds two showers: the Eta Aquariids in May and the Orionids in October.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The meteors seem to fly out from one point, the radiant, and the shower is named after the constellation it sits in.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a perspective effect, like parallel railway lines appearing to meet in the distance.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Showers for Australians.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some famous showers favour the north.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Perseids in August are low or invisible from much of Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Southern observers do better with the Eta Aquariids, peaking in early May, whose radiant rises higher in our pre-dawn sky.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Geminids, peaking around the middle of December, are among the richest showers of the year.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unusually, they come from an asteroid called Phaethon rather than a comet.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For any shower, get away from city lights, let your eyes adjust for at least 20 minutes and lie back to take in as much sky as possible.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Counts are usually best after midnight, when your side of Earth faces forward into the debris stream.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rocks from the sky.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meteorites come in three families.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stony ones are the most common, and many are chondrites containing round grains formed in the dust cloud that built the planets about 4.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 billion years ago.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron meteorites are metal chunks, thought to come from the cores of shattered asteroids.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stony-iron ones mix both.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On 28 September 1969 a meteorite broke up over Murchison in Victoria.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It contains amino acids, the building blocks of proteins, and grains older than the Sun itself.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Very large rocks barely notice the air and blast out craters, like the 880-metre Wolfe Creek Crater in Western Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2013 a roughly 20-metre object exploded over Chelyabinsk, Russia, and flying glass injured around 1,500 people.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Found a space rock.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's deserts are excellent meteorite hunting grounds.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dark rocks stand out on pale ground, and the dry climate slows weathering.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Curtin University's Desert Fireball Network uses cameras to photograph bright fireballs so their landing spots can be calculated and fragments recovered.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you think you have found one, look for a rock that feels unusually heavy for its size, often attracts a magnet and has a thin, dark, glassy crust from melting during its fall.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real meteorites rarely have bubbly holes.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most candidates turn out to be iron-rich Earth rocks or industrial slag, nicknamed meteorwrongs.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "State museums can often identify specimens, and in some states meteorites legally belong to the state, so check the rules before selling one.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A shooting star is a speck of space rock or dust burning up in the atmosphere, and it lands as a meteorite only if part survives.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why do the Sun and Moon look almost the same size from Earth?",
-   "c": 3,
+   "t": "Question one. What mainly keeps these moons' oceans from freezing?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The Sun is 400 times larger but 400 times farther away.",
-   "c": 3,
+   "t": "Answer. Heat from tidal flexing by their planet's gravity.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. What balances the pull of gravity inside a star like the Sun?",
-   "c": 3,
+   "t": "Question two. How did Clyde Tombaugh find Pluto?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The push of energy released by hydrogen fusion.",
-   "c": 3,
+   "t": "Answer. By comparing photographs for a dot that moved.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Why do we see the Milky Way as a band across the sky?",
-   "c": 3,
+   "t": "Question three. How did many ancient cultures see comets?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. We live inside its flat disc and look along it edge-on.",
-   "c": 3,
+   "t": "Answer. As frightening signs of disaster.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Which description fits a meteorite?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A space rock that survives and lands on Earth.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

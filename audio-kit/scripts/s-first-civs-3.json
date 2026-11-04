@@ -1,0 +1,876 @@
+{
+ "id": "s-first-civs-3",
+ "h": "ancient-china,persian-empire,maya-aztec-inca",
+ "title": "The First Civilisations · Episode 3",
+ "chapters": [
+  "Ancient China and the first emperor",
+  "Persia: the first superpower",
+  "The Maya, Aztecs and Inca"
+ ],
+ "units": [
+  {
+   "t": "The First Civilisations. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Ancient China and the first emperor, Persia: the first superpower and The Maya, Aztecs and Inca.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Ancient China and the first emperor.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "One ruler united China, standardised its writing, linked its first great walls and was buried with an army of clay soldiers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dynasties and the Mandate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chinese civilisation grew along the Yellow and Yangtze rivers, where people farmed millet and rice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Shang dynasty, about 1600–1046 BC, left the earliest known Chinese writing, on oracle bones: priests carved questions to ancestors onto bones and shells, heated them and read the cracks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Shang were also masters of bronze casting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Zhou dynasty that overthrew them introduced the Mandate of Heaven: the idea that heaven grants the right to rule to a just ruler and withdraws it from a bad one.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Floods, famines and revolts could be read as signs a dynasty had lost the mandate, which justified rebellion.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Warring States.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As Zhou power faded, China split into competing states, and by the end seven major powers were fighting for survival.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Constant war drove new ideas in the age of the Hundred Schools of Thought.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Confucius, who lived slightly earlier, taught respect, duty, family loyalty and government by virtuous example.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Daoism, traditionally traced to the possibly legendary Laozi, emphasised harmony with nature.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Legalists argued that strict laws, rewards and harsh punishments made a state strong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Military thinking flourished too, including The Art of War, traditionally credited to Sun Tzu.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron tools and crossbows also changed farming and warfare.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The First Emperor.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "King Ying Zheng of Qin, using Legalist ideas and a ruthless army, conquered the other states and declared himself Qin Shi Huang, 'First Emperor of Qin'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The name China likely comes from Qin.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He replaced hereditary lords with officials appointed and paid by the centre, a system later dynasties kept.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was also brutal: according to the historian Sima Qian, writing about a century later, he ordered books burned and scholars executed, though some details may be exaggerated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To bind the empire together, he imposed one script, one currency and standard weights and measures.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He even fixed cart axle widths so wagons could use the same ruts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roads and canals moved troops and goods quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He died in 210 BC, and his dynasty collapsed within four years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Walls and clay soldiers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Several Warring States had built walls against rivals and northern nomads.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Qin Shi Huang joined and extended the northern ones, using rammed earth and forced labour.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of the stone and brick wall tourists visit dates from the Ming dynasty, over 1,500 years later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "All its branches together stretch more than 20,000 kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is not visible from the Moon with the naked eye, a popular myth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1974, farmers digging a well near Xi'an found the Terracotta Army: an estimated 8,000 life-size soldiers, with horses and chariots, guarding the emperor in the afterlife.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each face looks individual, and they were once brightly painted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The emperor's own burial mound has never been opened.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sima Qian described rivers of mercury inside, and soil tests have found unusually high mercury levels there.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Han: trade and inventions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Han dynasty kept Qin's centralised system but softened it, adopting Confucian ideas and choosing officials partly by recommendation and examination rather than birth alone.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That grew into the imperial civil service examinations, used for over a thousand years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The emperor system lasted until 1912.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 138 BC, the envoy Zhang Qian travelled deep into Central Asia, and his reports helped open trade routes later called the Silk Road.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Silk, spices, horses, glass, ideas and religions moved along them, and Buddhism reached China from India this way.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Han China also developed paper, which Cai Lun improved around AD 105, and early lodestone direction-finders, ancestors of the compass.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China's majority ethnic group still calls itself the Han.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Shang left China's earliest writing, and the Zhou introduced the Mandate of Heaven, which justified rebellion against bad rulers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Persia: the first superpower.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Long before Rome, a Persian king built an empire stretching from Egypt to India.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Achaemenid Persians ran it with roads, couriers, coins and a surprising degree of tolerance.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cyrus and his Cylinder.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 550 BC, Cyrus of Persis, in south-western Iran, overthrew the Median kingdom that had dominated his people.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within about twenty years he conquered Lydia in Asia Minor and in 539 BC Babylon.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His dynasty is the Achaemenids.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His son Cambyses added Egypt, and Darius pushed east into the Indus Valley and west into Europe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At its height it covered more land than any empire before it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cyrus Cylinder, a 23-centimetre clay barrel found at Babylon in 1879, records that Cyrus restored temples and let displaced peoples return home.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Hebrew Bible also praises him for letting Jewish exiles rebuild their temple.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Calling it the first human rights charter goes too far: it is royal propaganda.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it reflects a real policy of working with local customs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darius organises an empire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darius I, who ruled from 522 to 486 BC, was the great organiser.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He divided the empire into provinces called satrapies, each run by a governor known as a satrap.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Satraps collected taxes and kept order, but the king also sent inspectors, whom the Greeks nicknamed 'the eyes and ears of the king', to check on them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darius introduced a gold coin, the daric, and standardised weights and measures.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Officials often wrote in Aramaic, which became a common administrative language across the Near East.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darius also recorded his rise to power on a huge rock carving at Behistun in western Iran, in three languages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Centuries later it helped scholars such as Henry Rawlinson crack cuneiform.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Royal Road and Persepolis.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "To hold the realm together, the Persians needed fast communication.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Royal Road ran roughly 2,500 kilometres from Sardis, near the Aegean, to Susa.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stations along it gave official messengers fresh horses, food and rest.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Herodotus wrote that nothing, not snow, rain, heat or darkness, stopped these couriers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A version of his words is carved on New York City's main post office.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A journey of three months on foot could reportedly be relayed in about a week.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "At Persepolis, Darius built a palace complex whose Apadana hall had tall stone columns topped with carved animals.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Carvings show delegates from across the empire bringing gifts, each in their own clothing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rather than slaughter, the art shows peaceful order, many peoples under one ruler.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faith and fire.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many Persian kings honoured Ahura Mazda, the wise lord at the centre of Zoroastrianism, one of the world's oldest surviving religions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its prophet, Zarathustra, known to the Greeks as Zoroaster, taught of a struggle between truth and order on one side and the lie and chaos on the other.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Darius's inscriptions repeatedly attack 'the Lie' and present the king as its enemy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fire was a sacred symbol of purity, a tradition still important in Zoroastrian fire temples today.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scholars debate how the kings' beliefs related to later Zoroastrian practice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some ideas, such as a final judgement and a struggle between good and evil, may have influenced later religions, though that too is debated.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek wars and the end.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of what Westerners learned about Persia came from its enemies.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darius and his son Xerxes invaded Greece in 490 and 480 BC and were defeated at battles such as Marathon and Salamis.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Greek writers portrayed the Persians as luxurious and tyrannical, a picture that coloured European views for centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In reality, Persia remained a great power for another 150 years.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its end came when Alexander the Great defeated Darius III in a series of battles and took the empire.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 330 BC Persepolis was burned, whether by accident, revenge or celebration is still argued.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet Alexander adopted many Persian ways of ruling, and later Iranian empires, the Parthians and Sasanians, would rise again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Cyrus built a vast empire in one lifetime and presented himself as a liberator, a policy of working with local customs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The Maya, Aztecs and Inca.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Pyramids, floating gardens and a road network across the Andes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Americas produced great civilisations with no contact with Europe or Asia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Civilisations of the Americas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People reached the Americas at least 15,000 years ago, most likely from Asia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without contact with Eurasia, they domesticated crops that now feed the world: maize, potatoes, tomatoes, cacao, chillies, squash and many beans.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Mesoamerica, modern Mexico and Central America, and the Andes, complex societies arose with cities, monumental architecture and states.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Olmecs, from around 1200 BC, are often called Mesoamerica's first civilisation, famous for colossal carved stone heads.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Andes, Caral in Peru was building large ceremonial mounds nearly 5,000 years ago, around the time of Egypt's early pyramids.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Maya.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Maya flourished especially between about AD 250 and 900, in city-states such as Tikal, Palenque and Copán.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were never one empire: rival kingdoms formed alliances and fought wars.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kings recorded their deeds on carved stone stelae.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their writing, using several hundred glyphs, was the most complete in the ancient Americas, and scholars have largely deciphered it since the 1970s and 1980s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maya mathematics counted in base 20 using a dot for one, a bar for five and a shell for zero.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were among the few ancient peoples to develop zero independently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Priests tracked the Sun, Moon and Venus and could predict eclipses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their Long Count calendar began at 3114 BC.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2012 'end of the world' was a modern myth: a cycle simply rolled over, like an odometer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Aztecs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Mexica, or Aztecs, founded Tenochtitlan on an island in Lake Texcoco around 1325.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It grew into one of the world's largest cities, with perhaps 200,000 people, connected to the shore by causeways and fed partly by chinampas: farm plots built up from the lake bed with mud and plants.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From 1428 the Aztecs led an alliance of three cities that conquered much of central Mexico, demanding regular tribute of maize, cloth, cacao, feathers and gold.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They practised human sacrifice on a large scale, believing it helped keep the Sun moving and the world in balance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern Mexico City stands on the ruins.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Inca.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1400s, especially under Pachacuti, the Inca expanded from Cusco to an empire of about 4,000 kilometres, from modern Ecuador to Chile.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They built roughly 40,000 kilometres of roads with rope bridges, and relay runners called chasquis carried messages hundreds of kilometres in a day or two.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their tight stonework at Machu Picchu and Cusco has survived major earthquakes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Inca had no written script as we know it.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Officials recorded numbers, and possibly more, on knotted cords called khipu, where knot type and position showed values in base 10.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead of money, people paid tax in labour, called mit'a, and the state stored food, cloth and weapons in storehouses.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farmers built terraces and freeze-dried potatoes into chuño.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conquest and legacy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hernán Cortés arrived in Mexico in 1519 with a few hundred Spaniards.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Allied with tens of thousands of Indigenous people who resented Aztec rule, he took Tenochtitlan in 1521.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Francisco Pizarro captured the Inca emperor Atahualpa in 1532, as a civil war split the empire.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest killer was disease: smallpox and other illnesses, to which Indigenous Americans had no immunity, killed a huge share of the population.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These were not 'lost' civilisations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Millions still speak Mayan languages, Nahuatl and Quechua.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English words like chocolate, tomato, avocado and chilli come from Nahuatl.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Potatoes transformed European diets, and Indigenous communities now lead efforts to protect their languages, sites and stories.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Without any contact with Eurasia, Americans domesticated crops that now feed the world and built cities and states.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What was the Mandate of Heaven?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The idea that heaven grants rule to just rulers.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How do historians generally view the claim that the Cyrus Cylinder was the first human rights charter?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As an overstatement of what was royal propaganda.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is notable about the crops the early Americans domesticated?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They arose independently and now feed the world.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

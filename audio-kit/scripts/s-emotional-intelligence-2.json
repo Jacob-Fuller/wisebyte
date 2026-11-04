@@ -1,11 +1,11 @@
 {
  "id": "s-emotional-intelligence-2",
- "h": "shame-and-guilt,stress,empathy",
+ "h": "anger-and-venting,shame-and-guilt,grief-how-we-mourn",
  "title": "Emotional Intelligence · Episode 2",
  "chapters": [
+  "Anger: why letting off steam backfires",
   "Shame and guilt: the self-conscious emotions",
-  "Stress: friend and foe",
-  "Empathy"
+  "Grief: what really happens when we lose someone"
  ],
  "units": [
   {
@@ -15,841 +15,919 @@
    "ps": false
   },
   {
-   "t": "In this episode: Shame and guilt: the self-conscious emotions, Stress: friend and foe and Empathy.",
+   "t": "In this episode: Anger: why letting off steam backfires, Shame and guilt: the self-conscious emotions and Grief: what really happens when we lose someone.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Shame and guilt: the self-conscious emotions.",
+   "t": "Part one. Anger: why letting off steam backfires.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Punch a pillow, scream into the void, smash plates in a rage room.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It feels like it should help.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The research says it usually makes things worse.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What anger is for.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anger has a bad reputation, but it exists for a reason.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It flares when we feel wronged, blocked or treated unfairly, and it prepares the body to push back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heart rate and blood pressure rise, adrenaline surges, muscles tense and attention narrows onto the problem.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In our evolutionary past that energy helped people defend food, territory or family.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today it can still be useful.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anger signals that something matters, it can give us courage to stand up for ourselves or others, and it has fuelled many campaigns against injustice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trouble is not feeling anger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is what we do next, and one of the most popular answers is wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The steam engine theory.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Aristotle wrote about catharsis, the purging of emotions, when he described how audiences felt after watching tragedy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Centuries later Sigmund Freud and others pictured emotions as fluid or steam in a closed system.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bottle it up and the pressure grows until it bursts out somewhere harmful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Let it out safely and you return to calm.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This hydraulic picture shaped twentieth century advice: hit a punching bag, scream into a pillow, play violent games to get aggression out of your system.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It lives on in rage rooms, where customers pay to smash crockery and old televisions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The picture feels right because anger feels like pressure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But feelings are not steam, and the brain is not a kettle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The punching bag test.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2002 psychologist Brad Bushman tested catharsis on about 600 university students.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each wrote an essay and received harsh feedback, supposedly from another student, including that it was one of the worst essays the reader had seen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One group then hit a punching bag while thinking about the person who insulted them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A second hit the bag while thinking about getting fit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A third sat quietly for a couple of minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards everyone could blast their insulter with unpleasant noise through headphones.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The group who vented while focused on their anger felt the most anger and were the most aggressive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The quiet group were the least angry and least aggressive.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doing nothing beat letting off steam.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why venting feeds anger.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Venting fails because it is rehearsal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Replaying an insult, ranting about it or acting out hitting someone keeps the alarm system switched on and the offence at the front of your mind.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologists call the mental version rumination, one of the strongest predictors of anger lasting longer and spilling onto innocent targets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A revved-up body is also primed to read new frustrations as further attacks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2021 Sophie Kjærvik and Brad Bushman pooled more than 150 studies.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Activities that lower arousal, such as slow breathing, relaxation, mindfulness, yoga and simply pausing, reliably reduced anger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hitting things, and in some studies vigorous exercise straight after a provocation, generally did not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Regular exercise still helps mood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you are boiling, though, cool the body first: breathe out longer than you breathe in, step away, or delay your reply.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Using anger well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stuffing anger down has costs too, including strain on relationships and health.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The skill lies between exploding and bottling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Once the first surge settles, ask what the anger points to.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was a boundary crossed?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is something unfair?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then say so plainly, focusing on the behaviour and its effect rather than attacking the person.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'I was embarrassed when the mistake was raised in front of everyone' invites a conversation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'You always humiliate me' invites a fight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Talking helps only when it moves towards understanding or solving the problem.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anger that is understood can lead to useful change.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anger that is merely released usually leads to more anger.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If anger often arrives too fast and hard, harms relationships, or has been linked to violence, see a GP for a referral.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In immediate danger, call 000.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Anger is an emotion built to confront perceived wrongs, and the trouble lies in what we do with it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Shame and guilt: the self-conscious emotions.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "They both make your face burn, but shame and guilt pull you in opposite directions.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "One tends to help you repair; the other tends to make you hide.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Learning the difference can change how you treat yourself and others.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Two kinds of sting.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Imagine you forget a close friend's birthday.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "One inner voice says, 'I did a thoughtless thing, I should call and make it up to her.'",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Another says, 'I'm a terrible friend, I always let people down.'",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Both are painful, but they are different emotions.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Psychologist June Tangney and her colleagues, who have studied this for decades, put it neatly: guilt is about a bad thing I did, while shame is about being a bad self.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The behaviour is the same, but the focus differs.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Guilt targets a specific action that can be changed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Shame targets the whole person, which feels far harder to fix.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That small shift in focus has big consequences for what people do next.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Self-conscious emotions.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Fear and joy appear early, but shame, guilt, embarrassment and pride emerge later, typically in the toddler years, once children see themselves as separate people who can be evaluated.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "These self-conscious emotions involve imagining how you look to others.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "They likely helped our ancestors live in groups, nudging people to follow shared rules, repair damage and avoid rejection.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Darwin was fascinated by blushing, which he saw as a uniquely human expression.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1946 anthropologist Ruth Benedict contrasted 'shame cultures' with 'guilt cultures'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Later scholars found this too neat, and she wrote without visiting Japan.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "People everywhere feel both emotions, though cultures differ in triggers and expression.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "No society runs on only one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Repair or hide.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "People prone to guilt rather than shame are more likely to apologise, accept responsibility and put things right.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Guilt says the problem is the action, so the solution is a better action.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tangney's research links guilt-proneness with empathy.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Excessive guilt over things that were not your fault is exhausting, but healthy guilt works like a moral compass.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Shame says the problem is you, and since you cannot swap yourself out, the instinct is to escape.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "People avoid eye contact, stop answering messages or hide the mistake.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Shame-proneness is also linked with defensiveness and anger: 'It's not my fault, it's yours.'",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is why shaming people often backfires.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Brené Brown argues that shame thrives on secrecy and silence, and loses some grip when spoken about.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Online pile-ons.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Public shaming is ancient.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Communities once used stocks, pillories and public notices to humiliate wrongdoers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Social media has revived the practice at enormous scale.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A clumsy joke or an angry moment caught on camera can be shared millions of times within hours, and the target may face abuse, lose a job and find their name permanently linked to the worst moment of their life.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Writer Jon Ronson explored such cases in his 2015 book So You've Been Publicly Shamed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Accountability for genuine harm matters, but crowds rarely calibrate the punishment to the offence, and the shame-anger cycle can make people dig in rather than reflect.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before joining a pile-on, ask whether you are aiming for repair, or just enjoying the feeling of righteousness.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turning shame around.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The split between shame and guilt is partly about how we talk to ourselves, and that can be practised.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you catch yourself thinking 'I'm an idiot', try 'I made a mistake, and here's what I can do about it.'",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Research on self-compassion suggests that responding to failure with kindness, rather than harsh self-attack, makes people more likely to take responsibility and improve, not less.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Talking to a trusted person also helps, because shame shrinks when shared and met with understanding.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "This is general information, not therapy.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If shame feels constant or overwhelming, a GP or psychologist can help, healthdirect lists mental health services across Australia, and Lifeline, 13 11 14, is there any time if you are struggling to cope or feel unsafe.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Guilt focuses on what you did, while shame focuses on who you are.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Stress: friend and foe.",
-   "c": 1,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Stress can sharpen you or wear you down.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The difference is how long it lasts and what you do with it.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The stress response.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When your brain perceives a threat, whether a snake, a looming deadline or a tense conversation, it triggers the stress response.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The adrenal glands release adrenaline, which speeds up your heart and breathing, and cortisol, which releases energy into the bloodstream.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Blood flow shifts to your muscles, your senses sharpen and digestion slows.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This fight-or-flight response evolved to help our ancestors escape predators.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It's fast and powerful, and it still switches on for modern, non-physical threats.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Good stress, bad stress.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Stress isn't all bad.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Short bursts sharpen focus and energy, which is why a little pressure before an exam or match can help.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1908, psychologists Yerkes and Dodson described what is now drawn as an inverted U: performance improves with arousal up to a point, then declines.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Challenges that stretch you, like learning a skill or exercising, involve a healthy kind of stress.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The trouble comes when the response doesn't switch off.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Work pressure, money worries, caring duties or conflict can keep it going for weeks or months.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Chronic stress is linked with poor sleep, anxiety, depression, headaches, digestive problems, weaker immunity and a higher risk of high blood pressure and heart disease.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It also pushes people towards extra alcohol, junk food and less exercise.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rethink the racing heart.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "How you think about stress can change how it affects you.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In experiments at Harvard, people taught to see their racing heart and fast breathing as their body preparing to perform, rather than as a sign of failure, showed healthier cardiovascular responses and performed better under pressure.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stanford psychologist Kelly McGonigal popularised this 'stress mindset' idea.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It doesn't mean pretending stress is fine.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "But seeing it as a sign that something matters to you can make it more useful and less harmful.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Calming the body.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Breathing is one of the few parts of the stress response you can control directly.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Slow breathing with long exhales activates the parasympathetic nervous system, the body's 'rest and digest' mode, lowering heart rate.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Try cyclic sighing: two inhales through the nose, the second topping up the lungs, then a long, slow exhale through the mouth.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In a 2023 Stanford study, five minutes a day lifted positive mood more than a similar amount of mindfulness meditation, and both reduced anxiety.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Other well-supported relievers are simple.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Exercise helps the body recover from stress, and good sleep keeps you less reactive.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A short walk in nature and time with people you trust help.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Limiting caffeine, alcohol and doomscrolling helps too.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Tackle it and get help.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Where you can, tackle the source.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Break big problems into small next steps.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Write down what's worrying you; getting it onto paper reduces its power.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Separate what you can control from what you can't, as the Stoics advised.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Set boundaries on work hours and commitments, and ask for help.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For money stress, the free National Debt Helpline, 1800 007 007, offers confidential financial counselling.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If stress feels overwhelming, lasts for weeks or affects your sleep, work, relationships or health, talk to your GP, who can discuss options including a mental health treatment plan with Medicare-subsidised psychology sessions.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Support is also available any time: Beyond Blue on 1300 22 4636 and Lifeline on 13 11 14, which is open 24 hours.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Asking early is good sense, not weakness.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Stress triggers adrenaline and cortisol, which prepare the body for fight or flight.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Empathy.",
+   "t": "Part three. Grief: what really happens when we lose someone.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Feeling with someone isn't the same as understanding them, and both are different from caring enough to help.",
+   "t": "The famous five stages of grief were never meant to be a map.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Three kinds of empathy.",
+   "t": "Here is what researchers have learned about how people actually carry loss, and why there is no single right way to do it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not a staircase.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Psychologists often split empathy into parts.",
+   "t": "In 1969 the Swiss-American psychiatrist Elisabeth Kübler-Ross published On Death and Dying, describing denial, anger, bargaining, depression and acceptance.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Emotional empathy is feeling what another person feels: wincing when someone stubs their toe, or tearing up at a friend's sad news.",
+   "t": "She had been listening to people who were terminally ill, not to people who had lost someone.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Cognitive empathy is understanding what someone thinks and feels, seeing the situation from their perspective.",
+   "t": "Over time the stages escaped the book and became a checklist, and grieving people sometimes worried they were doing it wrong because they skipped anger or circled back to denial.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Empathic concern, or compassion, is caring about their wellbeing and wanting to help.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These can come apart.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A con artist may have excellent cognitive empathy with no compassion at all, while someone overwhelmed by emotional empathy may feel so distressed that they struggle to help.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Good empathy usually blends all three.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Wired, then grown.",
+   "t": "Later research has not found that people move through fixed stages in a set order.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Brain imaging shows that watching someone else in pain activates some regions involved in our own pain, especially those tied to its emotional unpleasantness rather than the physical sensation.",
+   "t": "Kübler-Ross herself later said the stages were never meant to tidy messy emotions into neat packages.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They can still be useful words for feelings that turn up, but grief is less a staircase than weather: changeable, overlapping and different for everyone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grief lives in the body.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the 1990s, researchers in Parma, Italy, found 'mirror neurons' in monkeys, cells that fire both when the monkey acts and when it watches another do the same.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They were once hyped as the key to empathy; the reality is more complicated and still debated.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Development builds on this wiring.",
+   "t": "People who are grieving often describe it physically: a heavy chest, a hollow stomach, exhaustion that sleep does not fix.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Newborns often cry when they hear another baby cry.",
+   "t": "Many cannot concentrate, lose things or reread the same page again and again, a fog sometimes called grief brain.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "By 18 months to two years, many toddlers try to comfort someone upset, though they may offer their own teddy.",
+   "t": "Appetite can vanish or swing the other way.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Around age four, most children grasp that another person can believe something the child knows is wrong.",
+   "t": "These reactions make sense, because losing someone close is a major stress and the body's stress systems respond.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Psychologists call this theory of mind.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Blind spots and burnout.",
+   "t": "In rare cases, a sudden emotional shock is linked to a temporary heart condition called takotsubo cardiomyopathy, nicknamed broken heart syndrome, where part of the heart muscle suddenly weakens.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Empathy has blind spots.",
+   "t": "Most people recover.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The broader point is that grief is not weakness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is a whole-body response to a real and painful change in your world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Swinging between two worlds.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "We feel more for people who look like us, belong to our group or are close by, and more for one named child in trouble than for thousands in a statistic.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Psychologist Paul Bloom, in his 2016 book Against Empathy, argued that emotional empathy is a narrow, easily manipulated spotlight that can distort moral decisions.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Others say it remains vital for kindness when balanced with fairness.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It can also exhaust.",
+   "t": "Picture a widower who spends a morning crying over old photos, then an afternoon learning to cook his wife's meals, then an evening watching football and briefly forgetting.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Carers and health workers can suffer compassion fatigue.",
+   "t": "Dutch researchers Margaret Stroebe and Henk Schut described this in their dual process model.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Research by Tania Singer and colleagues separates empathic distress, feeling others' pain as your own, which is draining, from compassion, warm concern with a wish to help, which activates reward and connection networks and is more sustainable.",
+   "t": "One side is loss-oriented: remembering, yearning, feeling the pain.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Caring well may mean feeling for people, not exactly as they do.",
+   "t": "The other is restoration-oriented: handling practical tasks and taking breaks from sorrow.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Listening with empathy.",
+   "t": "People cope best moving between the two.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laughing at a funeral is not a betrayal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Psychologist George Bonanno found that the most common pattern after bereavement was not long collapse but real sadness with fairly stable functioning.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The most practical empathy skill is listening.",
+   "t": "People can absorb more loss than we assume, and there is no need to force one kind of grief.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keeping the bond.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Give full attention, which means putting the phone away.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Don't rush to fix the problem or compare, 'That happened to me too…', which moves the spotlight onto you.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Reflect back what you hear, 'That sounds really frustrating', and ask open questions like 'What was that like?'",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Validating feelings doesn't mean agreeing; it means acknowledging that their experience makes sense from where they stand.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "People who feel understood calm down faster and are more open to other views.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In disagreements, Adam Galinsky and colleagues found that actively considering what the other side thinks and wants helped negotiators reach better deals for both sides.",
+   "t": "For much of the twentieth century, the advice was to let go: detach from the dead and reinvest your feelings elsewhere.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Try stating their view so well that they'd agree with your summary before you give your own.",
+   "t": "In 1996 a book called Continuing Bonds, edited by Dennis Klass, Phyllis Silverman and Steven Nickman, challenged that idea.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Growing your empathy.",
+   "t": "It argued that many mourners keep an ongoing relationship with the person who died, and that this is often comforting.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think of someone who talks to a late parent at the cemetery, wears a grandmother's ring, cooks a family recipe on an anniversary, or asks what a lost friend would say about a decision.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Empathy can be developed.",
+   "t": "Across many cultures, rituals honour ancestors and keep their memory alive.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The goal of grieving is not to forget.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is to find a new place for the person in a life that continues.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hidden and prolonged grief.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Getting to know people from different backgrounds, through work, sport, volunteering or travel, widens the circle you naturally empathise with.",
+   "t": "Not every loss comes with a funeral or sympathy cards.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researcher Kenneth Doka coined the term disenfranchised grief for losses that are not openly acknowledged, such as a miscarriage, the death of an ex-partner, a pet, or a parent slowly lost to dementia.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Some studies suggest reading literary fiction improves understanding of others' minds, though results are mixed and effects may be small.",
+   "t": "Naming the loss helps, as does a small ritual like planting a tree.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Curiosity helps most: ask people about their lives and genuinely listen to the answers.",
+   "t": "Simply saying 'I know this matters, and I'm sorry' can mean more than advice.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Imagining yourself in someone's specific situation, rather than thinking about them from the outside, makes perspective-taking stronger.",
+   "t": "For most people the sharpest pain softens over months and years.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For a minority, intense yearning and an inability to re-engage with life persist; this is now recognised as prolonged grief disorder, and effective therapies exist.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Understanding someone's reasons is not the same as accepting them, but it makes a real solution far more likely.",
+   "t": "This is general information, not medical advice.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "And look after yourself, since stress and exhaustion shrink your capacity to care.",
+   "t": "Talk to your GP, see healthdirect, or call Lifeline on 13 11 14 if you are struggling.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: Empathy has three parts, feeling with someone, understanding them and caring enough to help, and they can come apart.",
+   "t": "The key idea: The five stages of grief began as observations of dying patients, not a rulebook for mourners.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -861,7 +939,19 @@
    "ps": false
   },
   {
-   "t": "Question one. According to June Tangney's framing, what is the core difference between guilt and shame?",
+   "t": "Question one. What is the main problem with anger according to this lesson?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. What we do with it, because the feeling can be useful.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. According to June Tangney's framing, what is the core difference between guilt and shame?",
    "c": 3,
    "k": "q",
    "ps": false
@@ -873,25 +963,13 @@
    "ps": false
   },
   {
-   "t": "Question two. What does the stress response do to your body?",
+   "t": "Question three. What is the best way to view the five stages of grief?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Speeds up heart and breathing, releasing energy.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. A con artist reads people's thoughts well but feels no concern for them. Which empathy is missing?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Empathic concern, caring how they fare.",
+   "t": "Answer. As useful words for feelings, not a fixed order.",
    "c": 3,
    "k": "a",
    "ps": false

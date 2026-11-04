@@ -1,11 +1,11 @@
 {
  "id": "s-government-2",
- "h": "australian-parliament,voting-au,gerrymandering",
+ "h": "voting-au,gerrymandering,human-rights",
  "title": "Government & Democracy · Episode 2",
  "chapters": [
-  "How Australia's Parliament works",
   "How voting works in Australia",
-  "Gerrymandering: winning by drawing the lines"
+  "Gerrymandering: winning by drawing the lines",
+  "Human rights: where they come from"
  ],
  "units": [
   {
@@ -15,913 +15,865 @@
    "ps": false
   },
   {
-   "t": "In this episode: How Australia's Parliament works, How voting works in Australia and Gerrymandering: winning by drawing the lines.",
+   "t": "In this episode: How voting works in Australia, Gerrymandering: winning by drawing the lines and Human rights: where they come from.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How Australia's Parliament works.",
+   "t": "Part one. How voting works in Australia.",
    "c": 0,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Two chambers, a Prime Minister who isn't mentioned in the Constitution, and a Governor-General with rarely used powers.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Here's how laws really get made in Canberra.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Responsible government.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia's system is based on the British Westminster model, with a federal twist borrowed from the United States, which is why it is nicknamed 'Washminster'.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Its defining feature is responsible government: ministers sit in Parliament, answer questions in daily Question Time, and stay in office only while they keep the confidence of the lower house.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Surprisingly, the Constitution doesn't mention the Prime Minister or the cabinet.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Both rest on conventions inherited from Britain.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The PM leads the party or coalition with majority support in the House, is chosen by that party rather than by voters, and can be replaced mid-term if the party changes leader.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Senior ministers form the cabinet, which decides in confidence.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Under cabinet solidarity, ministers must publicly back its decisions or resign.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The House and the Senate.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The House of Representatives has about 150 members, each representing one electorate of, on average, more than 100,000 voters.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Terms last up to three years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The party or coalition with a majority forms government, and the largest group outside it is the Opposition, which scrutinises the government.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Senate has 76 senators: 12 from each state regardless of population, and two each from the ACT and Northern Territory.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Equal state representation was a condition of the smaller colonies joining federation.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "State senators serve six-year terms, with half elected every three years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Proportional representation means minor parties often hold the balance of power.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Senate reviews and amends bills and investigates government through committees.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It cannot introduce tax bills or amend certain money bills, but it can reject them.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From bill to Act.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A proposed law is called a bill.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Most come from ministers, though any member can introduce one.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In each house it is introduced at first reading, debated at second reading, examined clause by clause and voted on at third reading.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Both houses must pass it in identical form.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Governor-General then gives Royal Assent, and it becomes an Act.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Governments often lack a Senate majority, so they negotiate with crossbenchers.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If the Senate twice rejects a bill, at least three months apart, section 57 of the Constitution allows a double dissolution: both houses are dissolved and every seat is contested.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If the new Parliament still disagrees, a joint sitting can decide.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These are rare.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The latest double dissolution was in 2016, and 1974 produced the only joint sitting.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Governor-General.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia is a constitutional monarchy.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The King of Australia is represented by the Governor-General, who is appointed by the monarch on the Prime Minister's advice.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "On paper the powers look huge: summoning and dissolving Parliament, assenting to laws and commanding the defence force.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "By convention, though, the Governor-General almost always acts on ministers' advice.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A small set of reserve powers can be used independently in a crisis.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The most famous use came in 1975, when Governor-General Sir John Kerr dismissed Prime Minister Gough Whitlam during a budget deadlock, a decision still debated today.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Each state also has its own governor.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Three tiers of government.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia has three tiers of government.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Each state has its own parliament, led by a Premier, and handles areas like schools, hospitals, police and roads.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "All state parliaments have two houses except Queensland's, which abolished its upper house in 1922.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The ACT and Northern Territory have single-house assemblies led by Chief Ministers.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The third tier is local government.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "More than 500 councils run services such as rubbish collection, local roads, libraries and planning approvals.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Councils aren't recognised in the federal Constitution; state laws create them.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Knowing which level handles what tells you whether to contact your councillor, your state MP or your federal member.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Australia's government must keep the confidence of the House, and the Prime Minister and cabinet rest on convention, not the Constitution.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. How voting works in Australia.",
-   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Australia gave the world the secret ballot, makes voting compulsory, and can count your ballot in several rounds.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here's what happens to your ballot after it drops in the box.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Compulsory since 1924.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia is one of a small number of democracies where voting is compulsory.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Enrolment became compulsory in 1911 and voting in 1924, first applying at the 1925 election.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turnout at the 1922 election had fallen below 60 per cent.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Since then it has usually been around 90 per cent or more.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Strictly, the legal duty is to attend a polling place, have your name marked off, and put your ballot paper in the box.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Because the ballot is secret, nobody checks how, or whether, you filled it in.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "People who don't vote without a valid reason receive a modest fine.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Supporters say compulsion gives governments a mandate from everyone.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Critics argue that voting should be a free choice.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "How preferences work.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "For the House of Representatives, Australia uses full preferential voting, introduced federally in 1918.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "You number every box in order of preference: 1 for your favourite, 2 for your next choice, and so on.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "A ballot not filled in correctly is informal and doesn't count.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "To win a seat, a candidate needs more than 50 per cent of formal votes.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "If nobody has this after first preferences, the candidate with the fewest votes is excluded and each of their ballots passes to the next preference marked.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "This repeats until someone crosses 50 per cent.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Say A has 44 per cent, B 41 per cent and C 15 per cent.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "If two-thirds of C's voters put B second, B gains 10 per cent and wins with 51 per cent.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "So you can back a minor candidate without 'wasting' your vote.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Voting for the Senate.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Senate ballot paper is large, divided by a thick black line.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Above the line, you number at least six party or group boxes.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Below the line, you number at least twelve individual candidates.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "These rules have applied since 2016.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Senators are elected by proportional representation using the single transferable vote.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "At a normal half-Senate election, six senators are elected per state, and each needs a quota of about 14.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "3 per cent of the votes.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Candidates who pass the quota have their surplus votes passed on at reduced value, and low candidates are excluded.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "This helps smaller parties win seats in proportion to their support.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "A fair and secret count.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Federal elections are run by the Australian Electoral Commission, an independent statutory authority established in 1984.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "It keeps the electoral roll, counts the votes and regulates donation disclosure.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "It also oversees redistributions, redrawing boundaries so seats in a state have roughly equal numbers of voters.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Independent committees, not politicians, draw them.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "States and territories have their own commissions.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Before the 1850s, voting in Britain and its colonies was often public, which made bribery and intimidation easy.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1856 Victoria and South Australia introduced the secret ballot: official, government-printed papers listing all candidates, marked privately.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Britain adopted it in 1872.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "American states took it up from the late 1880s and called it the 'Australian ballot'.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Making your vote count.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australian citizens aged 18 and over must enrol, and 16 and 17 year olds can enrol early.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Enrol or update your address with the AEC, usually online, whenever you move.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Federal elections are held on a Saturday.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "You can vote at any polling place in your state or territory, vote early at a pre-polling centre, or apply for a postal vote.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Polling places are often schools and halls, where sausage sizzles are a tradition.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Before election day, read about the candidates, not just the parties.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Follow the ballot instructions carefully, because a missing or repeated number can make a House vote informal.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "How-to-vote cards are only suggestions; number the boxes however you choose.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your vote is secret, and nobody can require you to reveal it.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Voting in federal elections has been compulsory since 1924, and turnout is usually around 90 per cent.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Gerrymandering: winning by drawing the lines.",
-   "c": 2,
+   "t": "Part two. Gerrymandering: winning by drawing the lines.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "You can lose the popular vote and still win the election, if someone has drawn the map cleverly enough.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Meet the strange art of the gerrymander.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A salamander in Massachusetts.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1812 the Massachusetts legislature redrew its state senate districts to help the governing party, and Governor Elbridge Gerry signed the map into law.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "One district north of Boston twisted so strangely that critics said it looked like a salamander.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Boston Gazette published a cartoon turning it into a winged, clawed beast and named it the 'Gerry-mander'.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The insult stuck.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Gerry's name was pronounced with a hard G, like Gary, but the word is now almost always said with a soft G, like Jerry.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gerry himself reportedly disliked the plan, yet his name is forever attached to it.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Packing and cracking.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Where each electorate elects one member, boundaries matter enormously.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Imagine a region with ten seats, where two parties each have half the voters.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Draw the lines one way and each party wins five seats.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Draw them another way and one party can win seven or eight.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "There are two classic tricks.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Packing means cramming as many of your opponent's supporters as possible into a few seats, which they win by huge, wasteful margins.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cracking means splitting the rest thinly across many seats, so they fall just short everywhere.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Their votes are not taken away.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "They are arranged so that many make no difference.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "With modern data and computers, these techniques can be applied with remarkable precision.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Unequal seats.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A cousin of the gerrymander is malapportionment, where some electorates hold many more voters than others.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "If country seats have half the voters of city seats, each country vote counts roughly double.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It sometimes reflected a belief that rural areas needed extra representation, and sometimes it simply helped whoever drew the map.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Britain's 'rotten boroughs' were tiny constituencies with a handful of voters that still elected MPs, until reforms from 1832 began to sweep them away.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In South Australia, heavily weighted rural seats kept Thomas Playford's government in power for decades, a system nicknamed the Playmander.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Queensland's zonal system, introduced under Labor in 1949 and later reshaped by Country and National Party governments, was nicknamed the Bjelkemander after Premier Joh Bjelke-Petersen.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Both let parties win government with fewer votes than their rivals.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Drawing lines fairly.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "After the Fitzgerald Inquiry into corruption in the late 1980s, Queensland moved to boundaries drawn by an independent commission with roughly equal enrolments.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Other states have also moved towards equal weighting over time.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Today federal boundaries are drawn by the Australian Electoral Commission, an independent statutory body, not by politicians.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "When population shifts or a state's number of seats changes, a redistribution is held.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Committees propose boundaries, the public and parties can lodge objections, and an independent commission makes the final decision.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The law requires electorates in a state to have close to the same number of voters, within set tolerances, while also considering communities of interest, transport links and physical features.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "States and territories run similar independent processes.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Parties still argue about decisions, but the pencil is out of the hands of those who benefit.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The fight elsewhere.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the United States, district lines are usually drawn by state legislatures, so whichever party controls a state can shape its map.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Both major parties have been accused of gerrymandering where they hold power.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some states have handed the job to independent or bipartisan commissions, often after citizen ballot initiatives.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "US Supreme Court decisions in the 1960s, especially Reynolds v Sims in 1964, required state legislative districts to have roughly equal populations, a principle known as one person, one vote.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Courts also hear challenges over racial discrimination.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "But in 2019, in Rucho v Common Cause, the Court held that partisan gerrymandering claims are political questions federal courts cannot resolve.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Researchers use measures such as the efficiency gap, which counts wasted votes, to detect unfair maps.",
-   "c": 2,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: The word 'gerrymander' comes from an 1812 cartoon mocking a district shaped like a monster.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Human rights: where they come from.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1948, after the horrors of the Second World War, the world's nations agreed on a list of rights belonging to every person.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's what's in it, and how Australia protects rights without a bill of rights.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rights for every person.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Human rights are the basic freedoms that belong to every person, regardless of nationality, sex, race or religion.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea has deep roots.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Magna Carta limited a king's power in 1215, Enlightenment thinkers wrote of natural rights, and France in 1789 and the United States in 1791 put rights into law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the idea that rights apply to all humanity, as an international concern, took shape after 1945.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A UN commission chaired by Eleanor Roosevelt drafted a common standard.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia sat on the eight-country drafting committee, and H.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "V. Evatt was President of the General Assembly when the Universal Declaration was adopted in Paris on 10 December 1948, by 48 votes to none with eight abstentions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its first article: 'All human beings are born free and equal in dignity and rights.'",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From declaration to treaties.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Universal Declaration was not a treaty, so it didn't directly bind countries in law.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was a statement of shared aims, though it has become enormously influential and has shaped many constitutions and laws.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To turn its principles into binding obligations, the UN adopted two major treaties in 1966: the International Covenant on Civil and Political Rights, and the International Covenant on Economic, Social and Cultural Rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Together with the Declaration, they are often called the International Bill of Human Rights.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other treaties followed on specific issues, including racial discrimination, discrimination against women, torture, children's rights and disability.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Two kinds of rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Civil and political rights mainly protect people from the misuse of state power and guarantee participation in public life.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They include the right to life, a fair trial, freedom of expression, religion and assembly, privacy, and the right to vote.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many can be limited in certain circumstances, for example to protect public safety or the rights of others, but some, such as the ban on torture, are treated as absolute.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economic, social and cultural rights cover fair work, joining a union, social security, adequate food and housing, health and education.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because these depend on resources, countries must achieve them progressively.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some argue they are as fundamental as civil rights, since freedom means little without food or schooling.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others see them as policy goals for elected governments rather than rights for courts to enforce.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's approach.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia is often described as the only Western democracy without a national bill or charter of rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Instead, rights are protected in several ways.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Constitution contains a few express rights and an implied freedom of political communication.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The common law presumes Parliament doesn't intend to override basic freedoms unless it says so clearly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Federal laws ban discrimination on grounds including race, 1975, sex, 1984, disability, 1992, and age, 2004, and the Australian Human Rights Commission handles complaints.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since 2012, new federal bills must carry a statement on their compatibility with human rights, reviewed by a parliamentary committee.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ACT, Victoria and Queensland have their own human rights Acts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The debate, and your rights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supporters of a national bill of rights say current protections have gaps, that ordinary laws can be changed by any Parliament, and that a clear list would help vulnerable people.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Critics say elected Parliaments, not unelected judges, should balance rights, and that Australia already protects rights well.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A middle path is the Victorian model, where courts can declare laws inconsistent with rights but Parliament has the final say.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you face discrimination at work, in housing, in education or from services, you can complain to the Australian Human Rights Commission or a state body.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1994, in Toonen v Australia, the UN Human Rights Committee found Tasmania's laws criminalising homosexual acts breached the right to privacy, and federal law changed soon after.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For advice on your situation, see a lawyer or community legal centre.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The Universal Declaration of Human Rights, adopted on 10 December 1948, set out rights that belong to every person simply because they are human.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -933,19 +885,7 @@
    "ps": false
   },
   {
-   "t": "Question one. Where does the role of Prime Minister come from?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Convention, not the Constitution's text.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. What does the law actually require of a voter at a federal election?",
+   "t": "Question one. What does the law actually require of a voter at a federal election?",
    "c": 3,
    "k": "q",
    "ps": false
@@ -957,13 +897,25 @@
    "ps": false
   },
   {
-   "t": "Question three. What is a gerrymander?",
+   "t": "Question two. What is a gerrymander?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Drawing electoral boundaries to favour one party.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What idea lies at the heart of the 1948 Universal Declaration?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Rights belong to every person simply because they are human.",
    "c": 3,
    "k": "a",
    "ps": false

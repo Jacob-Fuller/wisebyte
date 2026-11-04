@@ -1,11 +1,11 @@
 {
  "id": "s-economics-3",
- "h": "exchange-rates-aussie-dollar,recessions,great-economic-debate",
+ "h": "inflation,interest-rates,trade",
  "title": "Economics · Episode 3",
  "chapters": [
-  "Why the Aussie dollar rises and falls",
-  "Recessions: when economies shrink",
-  "Smith, Marx, Keynes and Hayek: the great economic debate"
+  "What inflation really is",
+  "Interest rates and the RBA",
+  "Why countries trade"
  ],
  "units": [
   {
@@ -15,181 +15,205 @@
    "ps": false
   },
   {
-   "t": "In this episode: Why the Aussie dollar rises and falls, Recessions: when economies shrink and Smith, Marx, Keynes and Hayek: the great economic debate.",
+   "t": "In this episode: What inflation really is, Interest rates and the RBA and Why countries trade.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Why the Aussie dollar rises and falls.",
+   "t": "Part one. What inflation really is.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "In 2001 an Australian dollar bought less than 50 US cents.",
+   "t": "Why a dollar buys less every year, what the Reserve Bank does about it and what it means for your money.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A decade later it bought more than a US dollar.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Here is what moves a currency.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A price like any other.",
+   "t": "Prices on the rise.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When you hear that the Australian dollar is ‘at 65 US cents’, it means one Australian dollar can be swapped for 65 American cents.",
+   "t": "Inflation is the general rise in prices across the economy over time.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "An exchange rate is a price, and like other prices it is set by supply and demand.",
+   "t": "When inflation is 3 per cent, something that cost $100 last year costs about $103 today, so each dollar buys a little less.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Every day, importers, exporters, tourists, investors and banks buy and sell currencies.",
+   "t": "Inflation is about the overall level, not any single price.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Trading is enormous, measured in trillions of US dollars a day worldwide.",
+   "t": "Over decades it adds up: something that cost $1 in 1990 costs well over $2 today.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "If more people want Australian dollars, perhaps to buy Australian iron ore or bonds, the price rises.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If more want to sell them, it falls.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Australian dollar, nicknamed the Aussie, is one of the most heavily traded currencies in the world.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Floating the dollar.",
+   "t": "The Australian Bureau of Statistics tracks a 'basket' of goods and services a typical household buys, from bread and petrol to rent and haircuts.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It was not always this way.",
+   "t": "The change in its cost is the Consumer Price Index, or CPI.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each item is weighted by household spending, so housing counts for far more than tea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since late 2025, the ABS has published a complete CPI every month, replacing the quarterly figure as the headline measure.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What causes it.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "For decades Australia's currency was pegged, first to the British pound, then to the US dollar, and from 1974 to a basket of currencies that officials adjusted.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The government and Reserve Bank effectively decided the rate, and strict controls limited how much money could flow in or out.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Defending the peg became harder as money sloshed around the world.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In December 1983 the Hawke government, with Treasurer Paul Keating, floated the dollar and removed most exchange controls, letting the market set the price.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Since then the Reserve Bank has only occasionally stepped into the market, usually during severe disorder.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What moves the Aussie.",
+   "t": "Demand-pull inflation happens when people and businesses want to buy more than the economy can produce, so sellers raise prices.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Australia sells vast quantities of iron ore, coal, gas, gold, wheat and beef.",
+   "t": "Cost-push inflation happens when the cost of making things rises, such as wages, energy or shipping, and businesses pass it on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The surge after COVID-19 was both: supply chains were disrupted and energy prices spiked while demand bounced back.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's inflation peaked at 7.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "8 per cent in late 2022.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extreme, runaway inflation is hyperinflation, often defined as prices rising more than 50 per cent in a month.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When those prices climb, foreign buyers need more Australian dollars, so the currency tends to rise.",
+   "t": "It usually happens when governments print money to pay debts.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That is why traders call it a commodity currency.",
+   "t": "In Germany in 1923, people carted cash around in wheelbarrows.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the 2000s, China's industrialisation lifted the dollar from under 48 US cents in 2001 to above parity in late 2010, peaking in 2011.",
+   "t": "Zimbabwe's peaked in 2008, and it went on to print a 100 trillion dollar note.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "When commodity prices later fell, so did the dollar.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Interest rates matter too.",
+   "t": "The Reserve Bank's job.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "If Australian rates exceed those in the United States or Japan, investors buy Australian dollars to earn more.",
+   "t": "Why not aim for zero?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A little inflation gives central banks room to cut rates in a downturn.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The carry trade borrows in a low-rate currency, such as the yen, to invest in a higher-rate one.",
+   "t": "Deflation, a general fall in prices, can be damaging: people delay purchases, businesses cut jobs and debts become harder to repay.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It can unwind suddenly, which is why the Aussie often falls in global crises.",
+   "t": "Japan struggled with low growth and deflation for years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Reserve Bank of Australia aims to keep inflation between 2 per cent and 3 per cent, focusing on the 2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "5 per cent midpoint.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its main tool is the cash rate, which flows through to mortgage, loan and savings rates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When inflation is too high, the RBA raises rates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowing becomes dearer, mortgage holders have less to spend, businesses invest less and demand cools.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the economy is weak, it cuts rates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changes take a year or more to fully work through.",
    "c": 0,
    "k": "s",
    "ps": false
@@ -201,637 +225,637 @@
    "ps": true
   },
   {
-   "t": "Whether a high dollar is good news depends on who you are.",
+   "t": "Inflation doesn't hit everyone equally.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When the Aussie is strong, overseas holidays are cheaper, imported cars and electronics cost less, and Australians can buy foreign shares more cheaply.",
+   "t": "Savers lose out when inflation runs higher than the interest they earn, because their money's buying power shrinks.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "But exporters suffer, because their goods become more expensive for foreign buyers, and local manufacturers struggle against cheaper imports.",
+   "t": "People on fixed incomes, or whose wages rise slower than prices, see their living standards fall.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Universities and tourism operators also feel it, since Australia becomes a pricier place to study or visit.",
+   "t": "Borrowers with fixed debts can benefit, because the real value of what they owe shrinks over time.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A weak dollar flips these effects.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Overseas trips hurt, but farmers, miners and tour operators gain.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This makes the exchange rate a kind of shock absorber for the economy, cushioning the blow when commodity prices or global conditions change.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Big Mac test.",
+   "t": "Economists talk about 'real' figures, meaning adjusted for inflation.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "If a currency is fairly priced, the same basket of goods should cost roughly the same everywhere once you convert the money.",
+   "t": "A 4 per cent pay rise with 5 per cent inflation is actually a 1 per cent real pay cut.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Protecting yourself.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Economists call this idea purchasing power parity.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1986 The Economist magazine turned it into a light-hearted gauge called the Big Mac index.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "If a Big Mac costs much more in Switzerland than in the United States after conversion, the Swiss franc looks overvalued by burger logic.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The index is deliberately simple, since local wages, rents and taxes all affect burger prices.",
+   "t": "You can't control inflation, but you can soften its effect.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "But it captures a real idea.",
+   "t": "Keep an emergency fund in a high-interest savings account rather than a zero-interest transaction account.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the long run, exchange rates tend to drift towards levels that make prices broadly comparable, even if they stray widely in the short term.",
+   "t": "For long-term money, investments like shares and property have historically outpaced inflation over long periods, though with more risk.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: An exchange rate is simply the price of one currency in terms of another, set by supply and demand.",
+   "t": "Review your pay regularly, since employers may not raise it automatically.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Recessions: when economies shrink.",
+   "t": "And shop around on big recurring bills like insurance, energy and phone plans, which often creep up when you stay with the same provider.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Inflation is the general rise in prices, measured in Australia by the Consumer Price Index.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Interest rates and the RBA.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Australia once went almost 30 years without one, a record for a rich country at the time.",
+   "t": "A decision made in a Sydney boardroom can change your mortgage repayment within weeks.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "What exactly is a recession, and what can governments do about it?",
+   "t": "Here's how the cash rate works and why it moves.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "What is a recession.",
+   "t": "The cash rate.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A recession is a significant, widespread decline in economic activity lasting more than a few months.",
+   "t": "Every day, banks lend each other money overnight to settle payments.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In Australia, the media usually applies a rule of thumb: two consecutive quarters of falling real GDP, known as a 'technical recession'.",
+   "t": "The interest on those loans is the cash rate.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Economists prefer a broader view.",
+   "t": "The Reserve Bank of Australia, RBA, sets a target for it and holds the rate there by adjusting the interest it pays and charges banks on money held with it.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In the United States, a committee of the National Bureau of Economic Research dates recessions by weighing employment, incomes, spending and production together.",
+   "t": "The RBA doesn't set your mortgage or savings rate, but the cash rate is the base cost of short-term money, so most other rates move with it.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "An economy can dip without a technical recession, and a sharp rise in unemployment can hurt more than GDP figures suggest.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A very deep, long recession is called a depression.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What triggers them.",
+   "t": "The RBA sets rates independently of the government of the day, which keeps election-year politics out of it.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Recessions usually start when spending drops sharply across the economy.",
+   "t": "Since 1993 it has targeted inflation of 2 to 3 per cent on average over time, while supporting full employment.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since 2025 a Monetary Policy Board has made the decisions, at eight scheduled meetings a year.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raising and cutting.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Common triggers include financial crises, when banks stop lending; central banks raising rates hard to fight inflation; supply shocks like the oil price spikes of the 1970s; the bursting of share or property bubbles; and wars or pandemics.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Once spending falls, a vicious circle can take hold.",
+   "t": "When strong demand pushes prices up faster than the target, the RBA raises the cash rate.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Businesses sell less, so they cut staff and investment.",
+   "t": "Borrowing costs more, so mortgage holders spend less and businesses hold back on expanding.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Newly unemployed people spend less, which hurts other businesses.",
+   "t": "Saving becomes more attractive, demand slows and price rises ease, though slower demand can also cost jobs.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Fear spreads too: worried households save rather than spend, even if their own jobs are safe, deepening the downturn.",
+   "t": "From May 2022 to November 2023 the RBA lifted the rate from a record low of 0.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Two Australian slumps.",
+   "t": "1 per cent to 4.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "35 per cent, one of its fastest rises.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the economy is weak, it cuts instead, and cheaper loans encourage spending and investment.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Great Depression began around 1929, marked by the Wall Street crash that October, and lasted much of the 1930s.",
+   "t": "It cut sharply in the 2008 financial crisis, and in 2020 it also bought government bonds to push longer-term rates down.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But rates can't fall far below zero, and very cheap money can inflate house prices and encourage risky borrowing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From cash rate to mortgage.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "World trade collapsed.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia, dependent on wool and wheat exports and overseas borrowing, was hit hard, with unemployment peaking at around 30 per cent in 1932 by union estimates.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Devaluing the Australian pound in 1931 made exports cheaper for foreign buyers and gave farmers some relief, but recovery was slow.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The 1990-91 recession followed a late-1980s boom in borrowing, property and shares.",
+   "t": "Most Australian mortgages have variable rates, which lenders usually adjust soon after an RBA decision, though they can move by more or less than the cash rate.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The RBA lifted rates sharply, with mortgage rates reaching about 17 per cent in 1989.",
+   "t": "That makes Australian households more sensitive to rate changes than Americans, who mostly hold 30-year fixed loans.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Several banks and building societies ran into trouble, and unemployment rose to about 11 per cent in 1992.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Paul Keating called it 'the recession we had to have'.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It locked in lower inflation, and the RBA adopted its inflation target in 1993.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Nearly three decades.",
+   "t": "The numbers add up fast.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "After 1991, Australia went nearly 29 years without a technical recession, the longest run of any advanced economy at the time.",
+   "t": "On a $500,000, 30-year loan, a rise of 0.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "25 percentage points lifts monthly repayments by roughly $80.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 2022 to 2023 rises added well over $1,000 a month to many such loans.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowers on fixed rates are shielded until their fixed term ends, when they face the new rates all at once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Savers and the dollar.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Helping factors included floating the dollar in 1983, tariff cuts, an independent central bank, strong population growth and booming Chinese demand for minerals.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Critics note that population growth flattered the figures, since GDP per person fell in some periods.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 2008 global financial crisis, much of the world suffered its worst recession since the 1930s after Lehman Brothers collapsed.",
+   "t": "Rate changes cut both ways.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Australia recorded one negative quarter but avoided a technical recession, thanks to a well-regulated banking system, rapid RBA rate cuts, a deposit guarantee, stimulus including cash payments of up to $900 and school building, and China's own massive stimulus.",
+   "t": "When rates rise, banks generally lift what they pay on savings accounts and term deposits, though often more slowly and by less than loan rates, so it pays to compare accounts.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "How governments respond.",
+   "t": "Retirees living off deposits welcome higher rates; borrowers don't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rates also affect the exchange rate.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The pandemic ended the run.",
+   "t": "Higher Australian rates, relative to other countries, can attract foreign money and lift the dollar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes imports and overseas holidays cheaper and exporters less competitive.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rates influence share and property prices as well, because they change what investors can earn elsewhere and how much buyers can borrow.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lags and your buffer.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Real GDP fell about 7 per cent in the June quarter of 2020, the largest quarterly fall on record.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Unlike most recessions, it was caused deliberately by health measures.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "JobKeeper paid employers $1,500 a fortnight per eligible worker, JobSeeker payments were temporarily boosted, and the RBA cut rates to 0.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "1 per cent.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The rebound was quick, though the stimulus is widely thought to have added to the inflation that followed.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Governments have two main tools: monetary policy, the RBA cutting rates, and fiscal policy, extra spending, tax cuts and payments.",
+   "t": "Economists say monetary policy works with 'long and variable lags', a phrase from Milton Friedman.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Automatic stabilisers help too: when unemployment rises, welfare payments rise and tax revenue falls.",
+   "t": "A rate change can take a year or two to reach spending, jobs and inflation, so the RBA must steer by forecasts.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Households can keep an emergency fund of a few months' expenses, manage debt and maintain their skills.",
+   "t": "Move too slowly and inflation becomes entrenched, as in the 1970s, when it topped 15 per cent and took years to bring down.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For personal decisions, talk to a licensed financial adviser.",
+   "t": "Move too hard and the economy can tip into recession.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: A recession is a significant, widespread fall in economic activity, often measured as two consecutive quarters of falling real GDP.",
+   "t": "No one predicts rates reliably, so build in a buffer.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Smith, Marx, Keynes and Hayek: the great economic debate.",
+   "t": "Lenders test whether you could cope with rates about 3 percentage points higher, and it's wise to use a similar margin in your own budget.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Extra repayments or an offset account help, as does comparing your rate with what new customers are offered.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decisions about your loans, talk to a licensed financial adviser or broker.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The cash rate is the overnight rate banks charge each other, and the RBA sets a target for it to keep inflation between 2 and 3 per cent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Why countries trade.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Four thinkers shaped how the modern world argues about markets, governments and fairness.",
+   "t": "Australia digs, ships and teaches its way to prosperity.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Their ideas still echo in every budget and election.",
+   "t": "The idea behind it, comparative advantage, is one of economics' most surprising insights.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Smith and specialisation.",
+   "t": "Why specialise.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1776 Adam Smith opened The Wealth of Nations with a pin factory.",
+   "t": "Imagine growing your own food, sewing your own clothes and building your own phone.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "One worker alone might make one pin a day, and certainly not twenty.",
+   "t": "You would be poor, busy and badly dressed.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ten workers splitting the job into specialised steps could make around 48,000.",
+   "t": "Instead, you specialise in a job and trade your earnings for things others make better or cheaper.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Specialisation plus trade, he argued, was the engine of prosperity.",
+   "t": "Countries do the same.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A butcher or baker feeds us out of self-interest, not kindness, and competition steers that self-interest towards serving others.",
+   "t": "Australia has vast iron ore deposits and good farmland but a small population and high wages, so it makes sense to export resources and farm products and import cars, electronics and clothing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Specialisation lets workers get very good at a few things, and trade lets everyone enjoy a far wider range of goods than they could produce alone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comparative advantage.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "He used the phrase 'invisible hand' only once in the book.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Smith was no cheerleader for business: he distrusted merchants conspiring to raise prices, criticised monopolies, and backed public spending on defence, justice, infrastructure and some basic education.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He had also written The Theory of Moral Sentiments, 1759, on how sympathy underpins morality.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Marx on capitalism.",
+   "t": "In 1817 British economist David Ricardo showed something counterintuitive.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Decades later, Karl Marx looked at the same industrial world and saw crowded slums, long hours and child labour.",
+   "t": "Suppose Portugal can make both wine and cloth more efficiently than England.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trade still benefits both, provided each specialises in the good with the lowest opportunity cost, meaning the least given up elsewhere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A top lawyer may type faster than her assistant, but her time is worth far more on legal work, so she hires the assistant to type.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Both are better off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is comparative advantage, as opposed to absolute advantage.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It explains why even highly productive countries import things they could make themselves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What Australia trades.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In The Communist Manifesto, 1848, with Friedrich Engels, and the first volume of Capital, 1867, he argued that capitalism rested on conflict between those who owned factories and those who worked in them.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Workers, he claimed, produced more value than they were paid, and owners kept the difference as profit.",
+   "t": "Exports are goods and services sold to foreigners; imports are bought from abroad.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "He predicted repeated crises and eventual overthrow.",
+   "t": "Politicians often treat exports as wins and imports as losses, but most economists see imports as the point of trade: they are what we get in return.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "His ideas inspired socialist movements and later communist states, whose record of repression and economic failure has been heavily criticised.",
+   "t": "A trade deficit isn't automatically bad, and Australia ran deficits for much of its history while growing rich.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Many historians still credit him with sharpening questions about power, inequality and economic change.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Keynes and demand.",
+   "t": "Services count too.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In the Great Depression of the 1930s, mass unemployment lasted for years, and advice to wait for markets to correct themselves looked hopeless.",
+   "t": "A tourist visiting the Great Barrier Reef or a foreign student in Melbourne is an Australian export.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Iron ore, mostly from the Pilbara and used to make steel, is usually the largest export, often worth over $100 billion a year, followed by coal and liquefied natural gas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "International education is the largest services export.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "China buys around a third of Australia's goods exports.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tariffs and trade deals.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In The General Theory, 1936, John Maynard Keynes offered a different diagnosis: an economy can get stuck with too little total spending, or demand.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When households and businesses are frightened, they cut back.",
+   "t": "A tariff is a tax on imports.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "That cuts other people's incomes and causes more cutbacks.",
+   "t": "It protects local producers, but consumers pay higher prices and businesses pay more for inputs.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In such times, he said, governments should step in, spending more or cutting taxes to restart demand, even if it means borrowing.",
+   "t": "From 1973, starting with a 25 per cent across-the-board cut, Australian governments dismantled most of the protection they had given manufacturers.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "He had earlier written the much quoted line 'In the long run we are all dead', a jab at those who said things would sort themselves out eventually.",
+   "t": "Some industries shrank, and car manufacturing ended in 2017, but prices fell and more efficient industries grew.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Hayek and prices.",
+   "t": "The US Smoot-Hawley tariffs of 1930 are a warning: they triggered retaliation that worsened the collapse of world trade in the Great Depression.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Trade Organization has set global rules since 1995.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Keynes's great rival was the Austrian-born economist Friedrich Hayek.",
+   "t": "Australia also signs free trade agreements, with the US, 2005, China, 2015, and the UK, 2023, and joins regional pacts like the CPTPP and RCEP.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These lower tariffs, though benefits are often smaller than governments promise.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Winners, losers, risks.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In The Road to Serfdom, 1944, he warned that heavy government planning could gradually erode personal freedom.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His most influential idea came in a 1945 essay, 'The Use of Knowledge in Society'.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Useful knowledge, Hayek pointed out, is scattered among millions of people.",
+   "t": "Economists broadly agree that trade raises national income, but not everyone wins.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A farmer knows the weather on her land, and a shopkeeper knows what customers want this week.",
+   "t": "Workers facing new import competition can lose jobs, often concentrated in particular towns, so good policy offers retraining and support rather than blocking trade.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "No central planner could gather it all.",
+   "t": "Dependence is a risk too.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Prices act like a vast communication system.",
+   "t": "From 2020 China restricted Australian goods including barley, wine, coal and lobster during a diplomatic dispute.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "If tin becomes scarce, its price rises, and people everywhere economise on tin without needing to know why.",
+   "t": "Exporters were hit hard, though many found other markets and most restrictions were lifted by 2024.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Markets, in this view, are a way of coordinating knowledge.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Swings and balance.",
+   "t": "Much of what you use daily was probably made overseas, and many Australian jobs depend on exports.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "After the Second World War, Keynesian ideas shaped policy across much of the West, including Australia, with governments aiming for full employment.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The 1970s changed that.",
+   "t": "When you hear tariff debates, ask who gains, who pays and by how much.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Oil shocks helped trigger stagflation, high inflation combined with high unemployment, which many Keynesian models struggled to explain.",
+   "t": "Protection has visible winners, while its costs are spread thinly across millions of consumers.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Milton Friedman, who argued that 'inflation is always and everywhere a monetary phenomenon', gained influence.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From the 1980s, many governments, Australia's included, floated currencies, deregulated finance and gave central banks the job of controlling inflation.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "After 2008, Keynesian stimulus returned.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Today almost every developed economy is a mixed economy, and most political arguments are about the balance: how much to tax, spend and regulate, and how to share the gains from growth.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Adam Smith argued that specialisation and trade create wealth, with self-interest kept in check by competition and rules.",
+   "t": "The key idea: Trade lets people and countries specialise in what they do best and swap for the rest.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -843,37 +867,37 @@
    "ps": false
   },
   {
-   "t": "Question one. What is an exchange rate?",
+   "t": "Question one. What does the Consumer Price Index measure?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. The price of one currency in another.",
+   "t": "Answer. The change in cost of a basket of everyday goods.",
    "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. What is a 'technical recession'?",
+   "t": "Question two. What is the cash rate?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Two consecutive quarters of falling real GDP.",
+   "t": "Answer. The rate banks charge each other for overnight loans.",
    "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What did Smith's pin factory example show?",
+   "t": "Question three. Why does it make sense for Australia to import cars and clothing?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Splitting a job into steps multiplies output.",
+   "t": "Answer. Trading for them leaves everyone with more.",
    "c": 3,
    "k": "a",
    "ps": false

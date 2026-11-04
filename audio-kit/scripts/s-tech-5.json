@@ -1,0 +1,840 @@
+{
+ "id": "s-tech-5",
+ "h": "gps,encryption,blockchain",
+ "title": "How Tech Works · Episode 5",
+ "chapters": [
+  "How GPS knows where you are",
+  "How encryption keeps secrets",
+  "Blockchain, simply"
+ ],
+ "units": [
+  {
+   "t": "How Tech Works. Episode five.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: How GPS knows where you are, How encryption keeps secrets and Blockchain, simply.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. How GPS knows where you are.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Your phone finds you to within a few metres by listening to ultra-precise clocks orbiting high above the Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Listening to satellites.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Global Positioning System is run by the US and uses a constellation of around 31 satellites orbiting about 20,200 kilometres above Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each one constantly broadcasts, in effect, \"I'm this satellite, here's my position, and this is the exact time.\"",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your phone doesn't send anything back.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It only listens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By measuring how long each signal took to arrive, it works out how far away each satellite is.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That distance is the starting point for everything else GPS does.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pinning down your position.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you're exactly 20,500 kilometres from one satellite, you could be anywhere on a giant sphere around it.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A second satellite narrows that to a circle.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A third narrows it to two points, one of which is usually far out in space.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This process is called trilateration.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A fourth satellite is needed because your phone's clock isn't perfectly accurate.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your device usually uses many more satellites for better accuracy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Timing matters enormously.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Signals travel at the speed of light, about 300,000 kilometres per second, so an error of one millionth of a second would put you out by about 300 metres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why each satellite carries atomic clocks accurate to billionths of a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blurred on purpose.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GPS began as a US military project.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The first satellite launched in 1978, and the full system was declared operational in 1995.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For years the military deliberately added errors to the civilian signal, a feature called Selective Availability.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ordinary receivers were accurate to only about 100 metres, while military users got precise positions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In May 2000, on the orders of President Bill Clinton, it was switched off.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Civilian accuracy improved roughly tenfold overnight, helping spark the boom in car navigation, fitness trackers and smartphone maps.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US later announced that newer satellites would be built without the ability to degrade the signal at all.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many systems, fast fixes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GPS isn't the only system.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Russia runs GLONASS, the European Union runs Galileo, and China runs BeiDou.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Together they're called GNSS, global navigation satellite systems.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most phones use several at once, seeing more satellites and getting faster, more accurate fixes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is building SouthPAN, which improves accuracy across Australia and New Zealand for farming, mining, aviation and emergency services.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A standalone receiver can be slow to lock on, because it downloads satellite data slowly from space.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your phone downloads it over the internet and also estimates your location from mobile towers and Wi-Fi networks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why it can find you almost instantly, even indoors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Limits and uses.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "GPS signals are weak by the time they reach Earth and can't pass through buildings or ground.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In city centres they bounce off tall buildings, making your blue dot jump around; this is the urban canyon effect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tunnels and dense forest can block them entirely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phones are typically accurate to about five metres under open sky, while surveying and farming equipment can reach centimetre accuracy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "GPS guides planes and ships, helps emergency services find people and lets tractors drive straight lines to save fuel and fertiliser.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its timing keeps mobile networks, power grids and stock exchanges in sync.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The US opened GPS to civilian use after a Korean Air Lines plane strayed into Soviet airspace and was shot down in 1983.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: GPS works by timing signals from satellites, with your phone listening only and never transmitting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How encryption keeps secrets.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The maths behind the padlock in your browser, and why it protects nearly everything you do online.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scrambling secrets.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Encryption turns readable information, called plaintext, into scrambled data, called ciphertext, using a key.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Only someone with the right key can turn it back.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It quietly protects your messages, passwords, banking, medical records and card payments.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without it, anyone who could intercept internet traffic, such as someone on the same public Wi-Fi, could read what you send.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Secret codes are ancient.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Julius Caesar is said to have shifted each letter three places along the alphabet, so A became D. Such ciphers fall to frequency analysis: E is the most common letter in English, so the most common symbol probably stands for E. The Arab scholar al-Kindi described this in the 9th century.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Enigma and the codebreakers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In World War II, Germany used the Enigma machine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its rotating wheels scrambled each letter differently, creating an astronomical number of possible settings, and the settings changed daily.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building on earlier work by Polish mathematicians, British codebreakers at Bletchley Park, including Alan Turing, built machines to find those daily settings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The intelligence helped the Allies win the Battle of the Atlantic and is thought to have shortened the war.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effort also helped lay the foundations for modern computing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One key or two.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In symmetric encryption, the same key locks and unlocks the data.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ciphers like the widely used AES standard are fast and extremely secure, so they protect files, phones and most internet traffic.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem is sharing the key.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For centuries, keys had to be delivered physically, by couriers or in person.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1976, Whitfield Diffie and Martin Hellman published a revolutionary idea, and in 1977 Rivest, Shamir and Adleman created RSA.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Public-key encryption uses two linked keys.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your public key can be shared with anyone to lock messages to you.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only your private key unlocks them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Think of a padlock anyone can snap shut, but only you can open.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The padlock in your browser.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When you see HTTPS and a padlock, a protocol called TLS is protecting the connection.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your browser checks the site's digital certificate, issued by a trusted authority, to confirm it's the real site.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The two then use public-key techniques to agree on a shared secret key, and switch to fast symmetric encryption for the rest of the session.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The padlock means the connection is encrypted, not that the website is trustworthy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Scam sites can have padlocks too.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why it's hard to break.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern encryption relies on maths that is easy to do one way and extremely hard to reverse.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Multiplying two huge prime numbers is easy for a computer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Working out which two primes made the result is enormously hard.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Guessing a 256-bit key by brute force would take longer than the age of the universe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So attackers rarely break the maths.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They steal passwords, trick people or exploit software bugs.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Apps like Signal, WhatsApp and iMessage use end-to-end encryption, so only sender and recipient can read messages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Future quantum computers could break some public-key systems, so new post-quantum standards were published in 2024.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Encryption uses a key to turn readable plaintext into scrambled ciphertext that only the key holder can reverse.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Blockchain, simply.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "What a blockchain actually is, what it's good for, and what it isn't, without the crypto hype.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Trust without a middleman.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Normally, when you send money online, a trusted middleman such as your bank keeps the official record of who owns what.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Digital files are easy to copy, so without that middleman, how would anyone stop you spending the same digital dollar twice?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A blockchain is a way for many people who don't know or trust each other to agree on a shared record, with no central authority.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It's a list of records, usually transactions, that thousands of computers keep identical copies of, often called a distributed ledger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anyone can check it, and no single person or company controls it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Blocks in a chain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Transactions are grouped into blocks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each block includes a hash of the block before it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hash is a digital fingerprint: a short code calculated from the data, which changes completely if even one character changes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because each block holds the previous block's fingerprint, the blocks link into a chain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Change anything in an old block and its fingerprint changes, breaking every link after it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because so many copies exist, you can't quietly rewrite history in one place, and everyone else would immediately notice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Agreeing without a boss.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The network needs a way to decide who adds the next block.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bitcoin uses proof of work: computers called miners compete to solve a hard mathematical puzzle, and the winner adds the block and earns new bitcoin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's deliberately expensive, which makes cheating costly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ethereum switched in 2022 to proof of stake.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Participants lock up their own coins as a guarantee of good behaviour and risk losing them if they cheat.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That cut Ethereum's energy use by more than 99 per cent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bitcoin, launched in 2009 by the pseudonymous Satoshi Nakamoto, was the first blockchain, with supply capped at 21 million coins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ethereum, launched in 2015, added smart contracts: programs on the blockchain that carry out an agreement automatically when set conditions are met.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Useful, but costly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Blockchains are genuinely useful when many parties need a shared, tamper-resistant record and don't want to trust one middleman: sending money across borders, tracking supply chains or proving ownership of a digital item.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But many proposed uses would work as well, or better, with an ordinary database run by a trusted organisation.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A good question is: why does this need a blockchain?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Removing the middleman has costs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Public blockchains can be slower and more expensive than card networks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bitcoin's electricity use has been estimated to be comparable to that of a mid-sized country.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Transactions generally can't be reversed, and if you lose your wallet's private key, there's no customer service.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your coins are gone.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crypto and risk.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thousands of other cryptocurrencies exist.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many have collapsed, and some were outright scams.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Prices are extremely volatile; a coin can lose most of its value within weeks, and money held on a crypto exchange isn't protected by the government's Financial Claims Scheme the way bank deposits are.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2025, AUSTRAC, Australia's financial crime regulator, limited cash transactions at crypto ATMs to $5,000 after finding they were heavily used by scam victims, many of them older Australians.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Crypto is also a favoured scam payment because transfers are fast and hard to reverse.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you choose to invest, use only money you can afford to lose, use reputable Australian-registered exchanges, and be deeply sceptical of anyone promising guaranteed returns.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is general information only.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A blockchain lets strangers agree on a shared record without a central authority in charge.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does your phone work out its distance from a GPS satellite?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. By timing how long its signal takes to arrive.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why can't someone on the same public Wi-Fi read your encrypted messages?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. They lack the key to unscramble the data.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What problem does a blockchain solve?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Letting strangers agree on a shared record.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

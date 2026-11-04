@@ -1,0 +1,1026 @@
+{
+ "id": "s-critical-thinking-4",
+ "h": "lady-tasting-tea,evidence,science-vs-pseudoscience",
+ "title": "Critical Thinking · Episode 4",
+ "chapters": [
+  "The lady tasting tea: how to design a fair test",
+  "How to judge a claim",
+  "Science or pseudoscience? How to tell the difference"
+ ],
+ "units": [
+  {
+   "t": "Critical Thinking. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The lady tasting tea: how to design a fair test, How to judge a claim and Science or pseudoscience? How to tell the difference.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The lady tasting tea: how to design a fair test.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A scientist claimed she could taste whether the milk or the tea went into the cup first.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Working out how to test her claim properly helped shape the modern experiment.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tea at Rothamsted.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1920s, at the Rothamsted agricultural research station north of London, the statistician Ronald Fisher offered a colleague a cup of tea.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Doctor Muriel Bristol, a scientist who studied algae, declined because he had poured the milk in after the tea.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She preferred milk first, and insisted she could taste the difference.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher was sceptical.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "According to later accounts from people who were there, a test was quickly arranged, and she reportedly identified the cups correctly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher used the story to open a chapter of his 1935 book The Design of Experiments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Behind a light-hearted example lay a serious question: how do you fairly test a claim?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What would luck look like.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fisher's key move was to assume the claim is false.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Suppose Bristol has no ability and is simply guessing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This assumption is now called the null hypothesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then ask whether her actual performance would be surprising by comparison.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His design used eight cups, four milk-first and four tea-first, in random order.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She would pick out the four milk-first cups.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There are 70 ways to choose four cups from eight, and only one is fully correct.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A guesser has a 1 in 70 chance of a perfect score, about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three right and one wrong can happen 16 ways, so scoring at least three out of four by luck is 17 in 70, about 24 per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's too common to prove anything.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decide what counts as convincing before you run the test.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why randomise.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why serve the cups in random order?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine the four milk-first cups were all prepared and served first.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They might be slightly cooler, or the taster might notice a pattern.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Any success could then come from those clues rather than from tasting the milk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher argued that randomisation is the most reliable protection against hidden factors like these, including ones nobody has thought of.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He also stressed keeping everything else the same: the same cups, the same tea and the same amount of milk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He developed these ideas through crop experiments at Rothamsted, where treatments were assigned to plots of land at random so that differences in soil couldn't bias the results.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Size matters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fisher's framework also shows why the number of trials matters.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "With six cups, three of each, there are only 20 ways to choose, so even a perfect score has a 1 in 20 chance of happening by luck, or five per cent.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With just four cups, two of each, a guesser gets a perfect score one time in six.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A test that small could never convince anyone, however good the taster.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher suggested treating results that would happen by chance less than about one time in 20 as worth taking seriously.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That convention later hardened into the famous 0.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "05 threshold for statistical significance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He saw it as a rough guide to which results deserve attention, not a magic line between truth and falsehood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trials, and a warning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Fisher's ideas now run through modern research.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Drug trials assign patients to treatment or placebo at random and ask how likely the results would be if the drug did nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farmers test crop varieties in randomised plots.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Technology companies run A/B tests, randomly showing different web page versions to different users.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three questions travel well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What would I expect to see if this claim were false?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Could something else explain the result?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Was the test big enough to tell?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet Fisher himself erred.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1950s he argued that the smoking and lung cancer link might not be causal, suggesting an inherited factor could explain both.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Asking about hidden causes is legitimate, but the evidence against smoking became overwhelming.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fisher was a keen pipe smoker and had consulted for the tobacco industry.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A casual claim at afternoon tea led Ronald Fisher to ask how to test any claim fairly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How to judge a claim.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "'Scientists say…', 'A study found…'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A practical checklist for deciding what to believe.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not all evidence is equal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anecdotes, expert opinions, single studies and large reviews all count as 'evidence', but they're not equally reliable.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Personal stories and opinions sit near the bottom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Above them come observational studies, then randomised controlled trials.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Near the top are systematic reviews and meta-analyses, which combine many good studies.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One study rarely settles a question.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small studies can also produce dramatic results by chance.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Getting 7 heads in 10 coin flips isn't unusual; 7,000 heads in 10,000 flips would be astonishing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A treatment that 'worked for 8 of 10 people' is far less convincing than one tested on thousands.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surprising small-study findings often shrink in larger studies, the decline effect.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compared with what.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without a comparison group, you can't tell whether an improvement came from the treatment, the placebo effect or people simply getting better on their own.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The choice of comparison matters too.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A new drug that beats a sugar pill may still be worse than the treatment doctors already use, so the most useful trials test new options against standard care.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of comparisons with patients from years earlier, or with people who chose not to take part, since they may differ in many ways.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you read about a study, ask: compared with what?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Risk needs numbers.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'Doubles your risk' sounds alarming, but if risk goes from 1 in 100,000 to 2 in 100,000, the absolute change is tiny.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Headlines prefer relative numbers because they sound bigger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Cuts risk by 50 per cent' might mean 2 in 1,000 falling to 1 in 1,000.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Always ask: out of how many people?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rarity also matters.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a disease affecting 1 in 1,000 people and a test that's 99 per cent accurate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Test 1,000 people: about 1 has the disease and tests positive, but about 10 of the 999 healthy people also test positive by mistake.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A positive result means only about a 1 in 11 chance of having it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That's why doctors often confirm with a second test.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who says so.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask who's making the claim and what they gain if you believe it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research funded by companies with a stake isn't automatically wrong, but it's more likely to favour the sponsor, so independent confirmation matters.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be wary of claims that appear only on sites selling a product.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is the source a peer-reviewed journal, a reputable organisation like the CSIRO or a university, or a press release, blog or social post?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Astronomer Carl Sagan popularised the principle that extraordinary claims require extraordinary evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Be alert to miracle breakthroughs, 'what they don't want you to know', testimonials instead of data, attacks on mainstream experts and pressure to buy now.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real breakthroughs are usually cautious and replicated by independent teams.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A quick checklist.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Next time you meet a claim, run through six questions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What's the source, and could they be biased?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What kind of evidence is it: anecdote, observational study or trial?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How many people were studied?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compared with what?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What are the absolute numbers?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And what do most experts in the field think?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You won't always have time to check everything, but even asking two or three of these questions will make you far harder to fool.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Evidence has a hierarchy, and small studies can produce dramatic results by chance, so the weight of evidence matters more than any single study.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Science or pseudoscience? How to tell the difference.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Astrology, crystal healing and a revolutionary new diet can all sound scientific.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few sharp questions reveal which ideas are willing to be proven wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Popper and falsifiability.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Vienna after the First World War, young Karl Popper was surrounded by bold ideas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Einstein's relativity made a risky prediction: starlight passing the Sun should bend by a specific amount.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1919, expeditions led by Arthur Eddington measured starlight during a solar eclipse and supported Einstein.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theory could have failed, and it didn't.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some popular theories of psychology and history, by contrast, explained every possible outcome.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Popper saw that as a weakness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His answer to the problem of separating science from non-science was falsifiability.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "'All swans are white' is falsifiable: one black swan breaks it, and Europeans found black swans in Western Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Invisible fairies tend my garden but leave no trace' isn't.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Falsifiable doesn't mean false, just testable.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask what would prove an idea wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The warning signs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Pseudoscience is dressed up to look scientific without behaving like science.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It shows familiar warning signs.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Claims are vague, so they can't easily be checked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evidence comes mainly from testimonials and anecdotes rather than controlled studies.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientific words such as 'quantum', 'energy' and 'frequency' are borrowed for glamour without precise meaning.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When a test fails, excuses appear: the sceptic's negative energy interfered.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The idea hasn't changed for decades despite new evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Critics are dismissed as closed-minded.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And there is often something to buy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No single sign proves an idea is bogus, but when several appear together, look much more carefully before you believe or spend.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astrology under test.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astrology makes claims that can, in principle, be tested: your birth chart is said to reveal your personality.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 1985 study in the journal Nature, physicist Shawn Carlson ran a double-blind test with astrologers who had agreed to the method in advance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They were given birth charts and asked to match each to the correct personality profile from a small set of options.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their success rate was about what guessing would produce.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other studies have looked for links between star signs and personality or career and generally found nothing meaningful.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Astrology can still be enjoyable, a prompt for reflection or a bit of fun.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But as a scientific claim about how people work, it hasn't passed the test.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Homeopathy in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Homeopathy was developed in Germany around 1800 by Samuel Hahnemann.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its central idea is that a substance causing symptoms can cure similar symptoms when heavily diluted, and that more dilution makes it stronger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many remedies are diluted so far that, statistically, not one molecule of the original substance is likely to remain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2015, Australia's National Health and Medical Research Council published a major review of the evidence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It concluded there were no health conditions for which there was reliable evidence that homeopathy was effective.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The council warned that choosing it over proven treatments may put health at risk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information rather than medical advice.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Talk to a doctor, and healthdirect is a reliable starting point for health questions in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Self-correction, not Galileo.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Science gets things wrong all the time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What makes it different is that it has ways of finding and fixing errors.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies are checked by experts, results are repeated by independent teams, and failed ideas are revised or dropped.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For decades, doctors thought stomach ulcers were mainly caused by stress.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Perth researchers Barry Marshall and Robin Warren showed that a bacterium, Helicobacter pylori, played a central role.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Marshall even swallowed a culture to prove the point.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Doctors were sceptical, but evidence won, and the pair received the 2005 Nobel Prize.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fringe promoters often say 'they laughed at Galileo'.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But for every rejected idea later proven right, vast numbers were rejected because they were wrong.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galileo was vindicated by his observations, not by being mocked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Being an outsider is fine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Avoiding tests isn't.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A claim is scientific if some observation could show it to be false, so a theory that fits every possible result tells you nothing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What question did the tea story lead Fisher to explore?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. How to fairly test whether a claim is true.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Which kind of evidence is generally the most reliable?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A systematic review of many studies.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What makes a claim scientific, according to falsifiability?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A test could show it to be false.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

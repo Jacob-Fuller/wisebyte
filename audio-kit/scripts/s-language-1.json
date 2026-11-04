@@ -1,12 +1,12 @@
 {
  "id": "s-language-1",
- "h": "language-origins,children-learning-language,sign-languages,english-language",
+ "h": "language-origins,children-learning-language,how-reading-works,sign-languages",
  "title": "Words & Language · Episode 1",
  "chapters": [
   "Where language came from",
   "How children learn to talk",
-  "Sign languages: real languages, not gestures",
-  "The strange story of English"
+  "What your eyes and brain do when you read",
+  "Sign languages: real languages, not gestures"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Where language came from, How children learn to talk, Sign languages: real languages, not gestures and The strange story of English.",
+   "t": "In this episode: Where language came from, How children learn to talk, What your eyes and brain do when you read and Sign languages: real languages, not gestures.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -610,517 +610,535 @@
    "ps": true
   },
   {
-   "t": "Part three. Sign languages: real languages, not gestures.",
+   "t": "Part three. What your eyes and brain do when you read.",
    "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Reading feels smooth and effortless, but your eyes are jumping, stopping and skipping all the time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "And your brain is using circuits that evolved for something else.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A borrowed brain.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Humans have been speaking for at least tens of thousands of years, probably far longer, but writing was invented only around 5,000 years ago, and mass literacy is barely a few centuries old.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is far too recent for evolution to have produced a brain built for reading.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The neuroscientist Stanislas Dehaene proposed a theory called neuronal recycling.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learning to read repurposes circuits that evolved for other jobs, such as recognising objects and faces, and links them to the brain's language areas.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In children learning to read, scans show a region on the underside of the left hemisphere becoming increasingly tuned to written letters and words.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is often called the visual word form area.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Recognising words.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The visual word form area sits in the left fusiform gyrus, near areas that respond to faces and objects.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It helps us recognise a word whether it is written in capitals, lower case or different fonts, an impressive feat of pattern recognition.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Damage to this area, for example from a stroke, can cause a condition in which a person can still write but struggles to read back what they have just written.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research also suggests that learning to read changes the brain in other ways, including how it processes spoken sounds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This partly explains why reading and phonics are so closely linked.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Eyes jump, not glide.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Watch someone's eyes as they read and you will see they do not move smoothly along the line.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They make quick jumps called saccades, separated by brief pauses called fixations.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In English, a typical fixation lasts roughly a quarter of a second, and a typical jump covers around seven to nine letters.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During the jump itself, you take in almost no useful visual information.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The brain stitches the pauses together so that reading feels continuous.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Readers skip many short, predictable words, such as the and of, and land more often on longer content words.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About one jump in ten or so goes backwards as the reader checks something.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers study all this with eye trackers, which record exactly where and when the eyes stop.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The window of attention.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sharp vision covers only a tiny part of what your eyes see, so at each fixation you can identify only a handful of letters clearly.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experiments in which on-screen text changes depending on where the reader is looking have measured this window.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For English readers it extends roughly three or four letters to the left of the fixation point and about fourteen or fifteen to the right, because that is where the next words are.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For readers of Hebrew, which runs right to left, the window is reversed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Information at the edge of the window helps the brain plan the next jump and get a head start on the next word.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Reading, in short, is constant prediction.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speed reading and myths.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Typical silent reading speeds for adults are roughly 200 to 300 words per minute.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A major 2016 review led by the eye-movement scientist Keith Rayner concluded that speed reading claims of thousands of words per minute do not hold up.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The limit is the brain's speed in recognising words and understanding language, not the eyes.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pushing faster means comprehension drops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speed reading is essentially skimming: useful for finding information, not for deep understanding.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Faster reading comes mainly from reading more.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The scrambled-letters meme claims research at Cambridge shows letter order does not matter if the first and last letters are right.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Matt Davis, a Cambridge scientist, found no such study.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The text works partly because many words are short, function words are intact, and letters stay near their correct positions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jumbled text still slows readers down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Writing is too recent for evolution to have built a reading brain, so reading repurposes circuits that evolved for other tasks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Sign languages: real languages, not gestures.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Sign languages have their own grammar, history and even accents.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "They are not universal, and they are not English on the hands.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Myths about signing.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Many hearing people assume sign language is one universal system of gestures, or a spoken language spelled out with the hands.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Neither is true.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "There are many sign languages around the world, and one widely used reference catalogue lists well over a hundred.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "They arise naturally wherever deaf people form communities, and they differ from each other as spoken languages do.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "British Sign Language and American Sign Language are not mutually intelligible, even though both countries speak English.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Each has its own vocabulary and grammar, which are not copied from the spoken language around it.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fingerspelling, where words are spelled letter by letter, exists but is used mainly for names and borrowed terms, not everyday conversation.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A French connection.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Why is American Sign Language so different from British?",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The answer is a historical accident.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1815 Thomas Hopkins Gallaudet, an American minister, travelled to Britain to learn how to teach deaf children, but the schools he visited were secretive about their methods.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Instead he met teachers from the Paris school for the deaf, which welcomed him, and studied there with Laurent Clerc, a deaf teacher.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Clerc agreed to come to America, and in 1817 they founded what is now the American School for the Deaf in Hartford, Connecticut.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The French signs Clerc brought mixed with local sign systems used by American deaf people.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The result was ASL, which still shares many signs with French Sign Language.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gallaudet University in Washington, DC, is named in his honour.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The island where everyone signed.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "On Martha's Vineyard, off Massachusetts, a hereditary form of deafness was unusually common from the 1700s into the early 1900s, especially in certain villages.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A local sign language developed, and many hearing islanders learnt it too.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Deaf people married, worked, voted and joined community life much like anyone else, and hearing residents sometimes signed to each other even when no deaf person was present.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The anthropologist Nora Ellen Groce documented this history in a 1985 book whose title reports what older residents told her: that everyone there spoke sign language.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The case suggests that deafness becomes a disability largely when society cannot communicate with deaf people.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "As the island became less isolated, the local sign language died out.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Milan ban.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1880, an international congress of educators of the deaf met in Milan.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Almost all delegates were hearing, and they voted overwhelmingly for oralism, teaching deaf children only through speech and lip-reading, and against sign language in classrooms.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Over the following decades, schools in many countries followed this approach.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Deaf children were often punished for signing, and some deaf teachers lost their jobs.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many deaf adults later described their schooling as deeply damaging, with years spent drilling speech instead of learning.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Yet sign languages survived in dormitories, playgrounds and deaf clubs, passed from child to child.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 2010 an international congress on deaf education, held in Vancouver, formally rejected the Milan resolutions and apologised for their effects.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Proof, and Auslan.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "For a long time even scholars thought sign was mere gesture.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1960 William Stokoe, a hearing English teacher at Gallaudet College, showed that ASL signs break into meaningful building blocks, such as handshape, location and movement, much as spoken words are built from sounds.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Change one element and the meaning changes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Later work found rich grammar, including space used to track who did what to whom, and raised eyebrows marking a yes or no question.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia's sign language is Auslan, a name that came into wide use in the 1980s.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It descends mainly from British Sign Language, with some Irish influence, and is closely related to New Zealand Sign Language.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Auslan users fingerspell with two hands, while ASL uses one.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It was recognised in the 1987 national language policy.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Sign languages are many separate natural languages with their own grammar, not universal gestures or spoken words spelled on the hands.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. The strange story of English.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Why is English spelling so chaotic?",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Why do we eat 'beef' from a 'cow'?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Blame invaders, printers and a mysterious vowel shift.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Old English and Norse.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "English began in the 5th century, when the Angles, Saxons and Jutes crossed the North Sea and settled in Britain.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Their Old English would be unreadable to most of us; the epic poem Beowulf looks almost foreign.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But many basic words come from it: house, water, bread, eat, sleep, mother, love, and 'English' itself, from the Angles.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "From the late 700s, Viking raiders and then settlers arrived.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Old Norse was related to Old English, so the two mixed easily.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "English borrowed hundreds of everyday words, including sky, egg, knife, window, skin, husband, law and even the pronouns they, them and their.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many 'sk' words, like skirt, are Norse; the older shirt survived beside it with a different meaning.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "1066 and French.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1066, William of Normandy conquered England, and for around 300 years the ruling class spoke Norman French.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "English survived among ordinary people but absorbed around 10,000 French words, especially to do with power: government, parliament, court, judge, jury, crime, army and nobility.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This created a class divide that still shows in food.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The animals, tended by English-speaking peasants, kept English names like cow, pig and sheep, while the meat served to French-speaking nobles took French names: beef, pork and mutton.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why spelling is odd.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Between roughly 1400 and 1700, English went through the Great Vowel Shift, a major change in how long vowels were pronounced.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "'Bite' had sounded like 'beet' and 'house' like 'hoose'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But spelling, influenced by printing's arrival in England in 1476, was starting to settle during this time, so many words kept spellings that matched older pronunciation.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Printers, some of them Dutch, added quirks too.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Words like 'knight', where the k and gh were once pronounced, are fossils of older English.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Samuel Johnson's influential dictionary of 1755 later helped standardise meanings and spellings.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A borrowing language.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "William Shakespeare's works contain the first recorded uses of many words and phrases still common, though some were probably already in speech: 'the be-all and end-all', 'heart of gold', 'a foregone conclusion', 'the green-eyed monster' and 'wear my heart upon my sleeve'.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The 1611 King James Bible popularised phrases like 'the salt of the earth'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "English is also a magpie language.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Latin and Greek gave thousands of scientific words.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Trade and empire brought shampoo, bungalow and pyjamas from Indian languages; tea and ketchup from Chinese; algebra and coffee via Arabic; tsunami and emoji from Japanese; chocolate and tomato from Nahuatl, the language of the Aztecs.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That is why English has several words for similar ideas.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australian and global English.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australian English developed from the mix of accents brought by convicts and settlers, mainly from southern England and Ireland, and soon sounded distinct.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It borrowed around 400 words from Aboriginal languages, including kangaroo, koala, wombat, dingo, billabong, yakka and boomerang.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It loves shortening words: arvo, brekkie, servo, barbie, ambo.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Spelling mostly follows British conventions, and the Macquarie Dictionary, first published in 1981, records it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Today around 1.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "5 billion people speak English, but only about 380 million as a first language.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It dominates international business, science, aviation and the internet, a result of British colonial history and later American influence.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "English keeps changing, and dictionaries add hundreds of new words each year.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: English began with Germanic tribes in the 5th century, then borrowed hundreds of everyday words from Viking settlers.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1156,25 +1174,25 @@
    "ps": false
   },
   {
-   "t": "Question three. Which statement about sign languages is accurate?",
+   "t": "Question three. How does the brain manage to read despite writing being so recent?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It repurposes circuits from other tasks.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Which statement about sign languages is accurate?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Each has its own vocabulary and grammar.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What do Norse words like 'sky', 'egg' and 'they' show about English?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Viking settlers shaped everyday English.",
    "c": 4,
    "k": "a",
    "ps": false

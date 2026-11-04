@@ -1,0 +1,906 @@
+{
+ "id": "s-decisions-3",
+ "h": "choice-overload,wisdom-of-crowds,game-theory",
+ "title": "Better Decisions · Episode 3",
+ "chapters": [
+  "The paradox of choice: can more options make us less happy",
+  "The wisdom of crowds: when many guesses beat experts",
+  "Game theory for everyday life"
+ ],
+ "units": [
+  {
+   "t": "Better Decisions. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: The paradox of choice: can more options make us less happy, The wisdom of crowds: when many guesses beat experts and Game theory for everyday life.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. The paradox of choice: can more options make us less happy.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Twenty-four jams, hundreds of streaming shows, dozens of super funds.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "More choice sounds like freedom, so why does it sometimes leave us stuck?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The jam study.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a California supermarket, psychologists Sheena Iyengar and Mark Lepper set up a tasting booth for gourmet jams.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some days it offered 24 flavours, others just six.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The big display drew more shoppers to stop.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But when it came to buying, the result flipped: about three per cent of those at the large display bought a jar, against about thirty per cent at the small one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Published in 2000, it was cited in business books, TED talks and marketing meetings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2004, Barry Schwartz built on it in The Paradox of Choice, arguing that beyond a point, more options leave us less satisfied: more regret, higher expectations and more self-blame.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then came replications.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As researchers tried to repeat choice overload experiments, the picture grew messier.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2010, Benjamin Scheibehenne, Rainer Greifeneder and Peter Todd pooled about fifty experiments.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On average, the effect of the number of options was close to zero.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some studies found overload, some found more options led to more buying, and many found no difference.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2015 analysis by Alexander Chernev, Ulf Bockenholt and Joseph Goodman found overload was more likely when options were complex and hard to compare, decisions were difficult or time-pressured, or people had no clear preferences.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If you already love apricot jam, a huge range is no problem.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One striking study is a starting point for science, not the final word.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Maximisers and satisficers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Economist Herbert Simon coined 'satisficing': choosing the first option that meets your standards rather than searching for the absolute best.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Schwartz and colleagues contrasted satisficers with maximisers, who feel they must examine every option.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2002 study, high maximisers reported more regret and less happiness and life satisfaction.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A later study of university graduates found maximisers tended to land jobs with higher starting salaries, but felt less satisfied with them.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Being a satisficer does not mean having low standards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It means knowing what is good enough for you, then stopping, rather than chasing a perfect option that may not exist.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big decisions and defaults.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Choice overload matters most for complex decisions such as insurance, energy plans and retirement savings.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research by Iyengar and colleagues on American retirement plans found that as the number of investment funds offered rose, participation tended to dip slightly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When overwhelmed, people often delay or accept the default.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, many workers never actively choose a super fund, and their contributions go into a default fund, which is part of why rules about default products matter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This is general information, not financial advice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To compare super funds, energy plans or insurance, government tools such as Moneysmart and the ATO's YourSuper comparison tool can narrow the field.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing well.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can protect yourself from the downsides of abundant choice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, decide what matters before you look: write down two or three must-haves and ignore options that fail them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, limit your search, perhaps to three options or a time limit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Third, for small decisions such as toothpaste or tonight's show, deliberately satisfice: pick something good enough and move on.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fourth, once you have chosen, stop shopping around, because constantly checking alternatives keeps regret alive.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Finally, use trusted recommendations and comparison tools to do some of the sorting.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't have to experience every option to enjoy choice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A famous study found shoppers stopped for a big jam display but bought far more from a small one.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The wisdom of crowds: when many guesses beat experts.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "In 1906 hundreds of people guessed the weight of an ox.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hardly anyone was spot on, but together they were astonishingly close.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Here's why, and when crowds turn foolish.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The ox at Plymouth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1906 the scientist Francis Galton visited a livestock fair in Plymouth, England.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Visitors could pay a small fee to guess the weight of an ox once it had been slaughtered and dressed, with prizes for the closest entries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galton, who was not a great admirer of ordinary people's judgement, collected the 787 legible tickets and analysed them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The guesses were all over the place.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the middle value, the median, was 1,207 pounds, about 547 kilograms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The actual weight was 1,198 pounds, so the crowd was out by less than one per cent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later analyses found the average was even closer.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Galton published the result in Nature in 1907 under the title ‘Vox Populi’, the voice of the people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why errors cancel out.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How can a crowd of non-experts beat almost every individual in it?",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each guess contains some genuine information and some error.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One person overestimates because the ox looks bulky; another underestimates because they're thinking of a smaller breed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If those errors point in different directions, they cancel out when averaged, while the useful information adds up.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result is often better than most individual guesses, and sometimes better than an expert's.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "James Surowiecki popularised the idea in his 2004 book The Wisdom of Crowds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By his account, on Who Wants to Be a Millionaire?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "the contestants' chosen friends gave the right answer about 65 per cent of the time, while the studio audience's most popular answer was right about 91 per cent of the time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Four conditions.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Surowiecki argued that wise crowds need four ingredients.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Diversity: people should bring different information and perspectives, not all the same views.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Independence: each person's judgement should be their own, rather than copied from those around them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Decentralisation: people should be able to draw on local and specialised knowledge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And aggregation: there must be some way of combining all the private judgements into one answer, such as an average, a vote or a market price.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take away any of these and the magic fades.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same principles underpin tools from averaged economic forecasts to pooled product ratings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A room of people who all read the same article, or who call out their guesses one after another, is less a crowd of independent minds than one opinion repeated many times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When crowds go wrong.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Independence is the fragile ingredient.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2011 study, Jan Lorenz and colleagues in Switzerland asked groups to estimate factual quantities, such as crime figures, over several rounds.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some groups were shown what the others had guessed before answering again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing others' answers narrowed the range of guesses and made people more confident, but the group's estimates did not become more accurate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crowd had lost its diversity without gaining any wisdom.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "On a larger scale, similar dynamics help explain stock market bubbles, fads and panic buying, where people react to each other rather than to independent information.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A crowd that copies itself doesn't cancel out its errors.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It can amplify them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The crowd inside you.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can even borrow the effect for yourself.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2008 Edward Vul and Harold Pashler asked people to answer factual questions, then unexpectedly asked them to guess again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The average of a person's two guesses was more accurate than either guess alone, and the benefit was larger when the second guess came three weeks later rather than straight away.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The delay helped because it made the second guess more independent of the first.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers call this the crowd within.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A practical version: when you estimate something important, such as how long a job will take, make a guess, then assume your first answer was wrong, think about why, and make a second estimate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then average the two.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A crowd's middle guess of an ox's weight in 1906 came within about one per cent of the truth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Game theory for everyday life.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why rivals end up in price wars, why cooperation survives among strangers, and what a 1950s puzzle reveals about neighbours, workmates and nations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Thinking strategically.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Game theory is the study of strategic decisions: situations where the outcome for you depends not only on your own choice but also on the choices of others.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The 'games' can be chess, poker, business competition, wage negotiations, elections or arms races.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern game theory was launched by mathematician John von Neumann and economist Oskar Morgenstern in their 1944 book 'Theory of Games and Economic Behavior'.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's now used across economics, politics, biology and computer science.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You don't need the maths to benefit.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The core habit is simple: before acting, think about how others will respond, and what each person gains or loses from each choice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They're doing the same.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The prisoner's dilemma.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The most famous game was developed at the RAND Corporation around 1950, and mathematician Albert Tucker gave it its prison story.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two suspects are questioned separately.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both stay silent, each gets one year.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If one betrays, the betrayer walks free and the other gets ten years.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If both betray, each gets five.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever your partner does, betraying looks better, so two rational players betray and get five years each.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is a Nash equilibrium, an idea John Nash described in 1950 and shared a 1994 Nobel Memorial Prize for.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a set of choices where no player can do better by changing only their own choice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bad situations can be stable: everyone may want change, but no one gains by moving first.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dilemmas and commons.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once you recognise the pattern, you see it everywhere.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two petrol stations on the same corner would both profit if prices stayed high, but each is tempted to undercut.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Athletes may dope because they fear rivals do.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If everyone stays back late to look committed, no one gains an edge, yet everyone loses their evenings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The problem often isn't bad people.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It's bad incentives.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ecologist Garrett Hardin popularised the 'tragedy of the commons' in 1968: on a shared pasture, each herder gains from one more cow while overgrazing is everyone's cost.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Overfishing and pollution follow the same logic.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yet Elinor Ostrom, the first woman to win the economics Nobel, 2009, showed communities often manage shared resources for centuries using local rules, monitoring and fair penalties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cooperate, then copy.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Real life is rarely a one-off.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 1980, political scientist Robert Axelrod ran computer tournaments where strategies played the prisoner's dilemma against each other many times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The winner was the simplest entry, 'tit-for-tat', submitted by Anatol Rapoport: cooperate on the first move, then copy whatever the other player did last time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Axelrod concluded that successful strategies were nice, never betray first, retaliatory, respond to betrayal, forgiving, return to cooperation quickly, and not envious, content to do well without beating the other player.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Later research found that slightly more forgiving variants can do better when mistakes happen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most relationships, at work, with neighbours or with a co-parent, are repeated games, so reputation and trust are worth more than a one-off win.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Changing the game.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not every game is a conflict.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In coordination games, everyone wins by choosing the same option.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which side of the road to drive on matters little, as long as everyone agrees; Australians drive on the left.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Economist Thomas Schelling, a 2005 Nobel laureate, showed people often coordinate on obvious 'focal points' without talking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He also studied credible commitment: limiting your own options can strengthen your position.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A union that publicly commits to a strike, or a seller with a firm 'no discounts' policy, changes what others expect.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A threat only works if people believe you'll follow through.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When stuck in a dilemma, change the game: agreements, contracts, shared rules or clear communication.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look for positive-sum options too.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many negotiations are about making the pie bigger.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Game theory studies strategic situations, where your best move depends on what others do, so think about their response before you act.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What did the jam study find?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Shoppers stopped at the big display but far fewer bought there.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What was striking about the guesses at the Plymouth fair?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. The crowd's median was about one per cent out.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What is the core habit of thinking with game theory?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Think about how others will respond before you act.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

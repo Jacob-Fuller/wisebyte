@@ -1,11 +1,9 @@
 {
  "id": "topic-maths-1",
- "h": "geometry-in-nature,napier-logarithms,ramanujan,calculus-without-fear",
+ "h": "napier-logarithms,calculus-without-fear",
  "title": "Maths Shorts",
  "chapters": [
-  "Nature's geometry: hexagons, spirals and bubbles",
   "Logarithms: the invention that turned multiplying into adding",
-  "Ramanujan: the clerk who wrote to Cambridge",
   "Calculus without fear: the maths of change"
  ],
  "units": [
@@ -16,1322 +14,728 @@
    "ps": false
   },
   {
-   "t": "In this episode: Nature's geometry: hexagons, spirals and bubbles, Logarithms: the invention that turned multiplying into adding, Ramanujan: the clerk who wrote to Cambridge and Calculus without fear: the maths of change.",
+   "t": "In this episode: Logarithms: the invention that turned multiplying into adding and Calculus without fear: the maths of change.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Nature's geometry: hexagons, spirals and bubbles.",
+   "t": "Part one. Logarithms: the invention that turned multiplying into adding.",
    "c": 0,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Bees build hexagons, sunflowers count in Fibonacci numbers and soap bubbles solve maths problems in an instant.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Nature is full of geometry, and there are good reasons why.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The bee's hexagon.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Honeycomb is made of near-perfect hexagons.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Only three regular shapes fit together on a flat surface with no gaps: triangles, squares and hexagons.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Of these, hexagons enclose a given area with the shortest total wall.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For cells of equal area, a square needs about 7.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "5 per cent more perimeter than a hexagon, and a triangle about 22 per cent more.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bees must eat honey to make wax, so saving wax saves energy.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Around 300 CE Pappus of Alexandria praised bees for their geometric wisdom.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The stronger claim, that hexagons beat every possible way of dividing a flat surface into equal areas, was only proved in 1999, by the mathematician Thomas Hales.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is known as the honeycomb conjecture.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sunflower spirals.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Look closely at a large sunflower and you will see seeds in two sets of spirals, one clockwise and one anticlockwise.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Count them and you often get neighbouring Fibonacci numbers, such as 34 and 55, or 55 and 89.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pinecones, pineapples and daisy centres show smaller pairs, like 8 and 13.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The pattern is common rather than universal.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A large citizen science project published in 2016, inspired by Alan Turing's interest in sunflowers, counted the spirals on hundreds of seed heads.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A sizeable minority did not fit simple Fibonacci patterns.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Nature leans strongly towards these numbers, but it is not an unbreakable rule.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The golden angle.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A sunflower head grows from the centre, adding seeds one at a time, each at a fixed angle from the one before.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If that angle were a simple fraction of a turn, such as a quarter, seeds would line up in four straight spokes with big gaps between them.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The angle that best avoids lining up is about 137.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "5 degrees, called the golden angle.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is linked to the golden ratio, the number that resists approximation by simple fractions more than any other.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "With it, seeds fill the head evenly and pack in as many as possible.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The spirals we see, and their Fibonacci counts, are a side effect of that efficient packing, and computer models reproduce them from this one rule.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bubbles solve problems.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Blow a single soap bubble and it becomes a sphere.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "For any amount of air, a sphere has the smallest possible surface, and surface tension pulls the soap film as tight as it can go.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When bubbles cluster in a foam, they follow rules set out by the Belgian physicist Joseph Plateau in 1873.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Soap films always meet in threes, at equal angles of 120 degrees, and the edges where films meet always come together in fours, at about 109.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "5 degrees.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dip a wire frame into soapy water and the film often forms the smallest surface spanning it, instantly solving a problem that can take pages of calculation.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The architect Frei Otto used soap film models to design light, curving roofs.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Spirals, size and stone.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A snail or nautilus cannot remodel its shell, so it adds material at the open end and each turn is a scaled-up copy of the last.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The result is close to a logarithmic spiral, which keeps its shape however far you zoom.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Jacob Bernoulli called it the 'marvellous spiral' and asked for it on his gravestone, though the mason carved the wrong kind.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Claims that the nautilus follows the golden ratio do not survive careful measurement.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Geometry also limits size.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Double an ant's length, width and height and its leg strength rises four times, but its weight rises eight.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Galileo described this square-cube law in 1638, which is why elephants have stout legs.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Slowly cooling lava cracks at angles near 120 degrees into columns, as at the Giant's Causeway and Organ Pipes National Park near Melbourne.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Hexagons enclose a given area with the least wall, so bees save wax by building them.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Logarithms: the invention that turned multiplying into adding.",
-   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "In 1614 a Scottish nobleman published tables that saved astronomers years of drudgery.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "For the next 350 years, his idea sat in the pocket of every engineer as the slide rule.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The drudgery of multiplying.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Picture an astronomer around 1600 working out a planet's orbit.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Each step means multiplying and dividing numbers of seven or more digits, and one slip ruins weeks of work.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Navigators and surveyors faced the same burden.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Adding large numbers is quick and fairly safe, but multiplying by hand means rows of partial products and lots of carrying.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Mathematicians wondered whether hard multiplication could become easy addition.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "A clue came from powers.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Since 2 times 2 times 2 is 8 and 2 times 2 times 2 times 2 is 16, multiplying 8 by 16 means adding the counts of twos, 3 plus 4, to get 7 twos.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is 128.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Napier's idea.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "John Napier was the Laird of Merchiston near Edinburgh, who also wrote a fiercely argued book on the Book of Revelation.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Mathematics was his passion.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "He spent around two decades developing logarithms, a word built from Greek roots meaning ratio and number, and published them in 1614.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "His tables paired numbers with their logarithms.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Napier's version differs from today's, but the essential trick was there.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "With base 10, the logarithm of 100 is 2 and of 1,000 is 3.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The logarithm of 2 is about 0.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "301 and of 8 about 0.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "903.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Add them to get 1.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "204, look up the number with that logarithm, and you find 16, which is 2 times 8.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Division becomes subtraction, powers become multiplication, and square roots become halving.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Briggs and Kepler.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The English mathematician Henry Briggs travelled to Scotland in 1615 to meet Napier.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "They agreed that logarithms would be more convenient in base 10, so the logarithm of 10 was 1 and of 100 was 2.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Napier died in 1617.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Briggs calculated the new tables by hand, including a large volume in 1624.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "These common logarithms stayed in classrooms, including Australian ones, until cheap electronic calculators arrived in the 1970s.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The astronomer Johannes Kepler seized on logarithms early.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "He used them in completing the Rudolphine Tables, published in 1627, which predicted planetary positions far more accurately than anything before.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Logarithms did not create the scientific revolution, but they made its endless calculations bearable.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The slide rule.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Soon after Napier, the English mathematician Edmund Gunter drew a ruler marked with a logarithmic scale, so distances along it represented logarithms.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Using dividers, users could add lengths and so multiply numbers.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the 1620s and 1630s the clergyman William Oughtred slid two such scales against each other, which did the adding automatically.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "This was the slide rule.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "For centuries it was the engineer's constant companion, helping design bridges, ships, aircraft and, at NASA, the rockets of the Apollo programme.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "A good slide rule gave about three significant figures, accurate enough for most engineering.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pocket calculators replaced it almost overnight in the 1970s.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Logarithms today.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Calculators made log tables obsolete, but logarithms are everywhere.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The decibel scale for sound is logarithmic: every 10 decibels means ten times the sound intensity.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Earthquake magnitude scales are logarithmic, as is the pH scale, where each step is a tenfold change.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "In finance and biology, logarithms describe compound growth and halving.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Your senses seem to work roughly logarithmically too, noticing proportional changes rather than absolute ones.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "An extra candle brightens a dark room far more than a sunny one.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The idea Napier spent twenty years refining still shapes how scientists see the world, long after its original purpose disappeared.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Adding is easy and multiplying is hard, and patterns in powers hint at a way to turn one into the other.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Calculus without fear: the maths of change.",
    "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Ramanujan: the clerk who wrote to Cambridge.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "A largely self-taught clerk in Madras posted pages of strange formulas to a famous English mathematician.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They were so astonishing that they changed both men's lives.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A borrowed book.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Srinivasa Ramanujan was born on 22 December 1887 in Erode, in southern India, and grew up in Kumbakonam.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "As a teenager he found a book by George Shoobridge Carr, a summary of several thousand mathematical results, mostly given without proofs.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He worked through it alone, filling notebooks with his own discoveries.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His obsession had a cost.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He won a college scholarship but neglected his other subjects, failed his exams and lost it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For several years he lived in poverty, working with little guidance.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Eventually supporters who recognised his talent helped him find a job as a clerk at the Madras Port Trust in 1912, giving him a small wage and time to keep working.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The letter to Cambridge.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In January 1913 Ramanujan wrote to Godfrey Harold Hardy, a leading mathematician at Trinity College, Cambridge, enclosing pages of formulas, many about infinite series, without proof.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hardy got many letters from cranks and was tempted to dismiss it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But he and John Littlewood realised the pages were remarkable: some results known, a few wrong, many new and astonishing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hardy said some must be true, because no one would have had the imagination to invent them otherwise.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ramanujan sailed for England in 1914.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hardy insisted on rigorous proofs, while Ramanujan reached results by intuition, saying some came from his family goddess Namagiri.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Wartime Cambridge was hard for a strict vegetarian far from home, yet in 1918 he became a Fellow of the Royal Society, one of the first Indians so honoured.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The taxicab number.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The most famous story comes from Hardy.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Visiting his friend in hospital, Hardy remarked that he had arrived in taxi number 1729, which seemed a rather dull number.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ramanujan replied that, on the contrary, it was very interesting.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It is the smallest number that can be written as the sum of two cubes in two different ways.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Check it: 1 cubed plus 12 cubed is 1 plus 1,728, which is 1,729.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "And 9 cubed plus 10 cubed is 729 plus 1,000, which is also 1,729.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Numbers with this property are now called taxicab numbers.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The story captures something real about Ramanujan, who knew individual numbers like old friends.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Breaking numbers into pieces.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One of their greatest achievements concerns partitions, the ways to write a whole number as a sum of positive whole numbers.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The number 4 has five: 4, 3 plus 1, 2 plus 2, 2 plus 1+1 and 1 plus 1+1 plus 1.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Counts explode as numbers grow.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The number 200 has 3,972,999,029,388, a figure Percy MacMahon worked out painstakingly by hand.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hardy and Ramanujan found a formula that estimated such values with astonishing accuracy, later refined into an exact formula.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Ramanujan also spotted hidden patterns.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The partition counts of 4, 9, 14, 19, 24 and so on, every fifth number, are always divisible by 5.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Those counts begin 5, 30, 135, 490 and 1,575.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A short life, long legacy.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "By 1917 Ramanujan was seriously ill.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The cause is still debated; tuberculosis and a liver infection, amoebiasis, have both been suggested.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He returned to India in 1919, still working on ‘mock theta functions’, and died on 26 April 1920, aged 32.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1976 George Andrews found a bundle of later papers, the ‘lost notebook’, in Trinity's library.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Researchers spent decades proving its results, and some ideas have found uses in modern physics.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His 1914 formulas for pi later helped computers calculate millions of digits.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "India celebrates 22 December as National Mathematics Day.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His story is also a warning: he was found partly by luck, through supporters and one letter that reached the right reader.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hardy wondered how much more he might have achieved with an earlier, fuller education.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Ramanujan taught himself mathematics from a book of results with few proofs, at the cost of his formal education.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Calculus without fear: the maths of change.",
-   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Calculus has a fearsome reputation, but its two big ideas can be grasped with a speedometer and an odometer.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Its invention also sparked one of the bitterest feuds in science.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Two simple questions.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Strip away the symbols and calculus asks two questions.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "How fast is something changing at this exact moment?",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "And if you know how fast it is changing, how much has it added up to over time?",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Every car shows both ideas.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The speedometer reports how fast your distance is changing right now.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The odometer adds up all those changing speeds into a total distance.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The first idea is differentiation, which gives a derivative.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The second is integration, which gives an integral.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Together they sit at the heart of physics, engineering, economics and biology, anywhere things change smoothly.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ordinary arithmetic copes with fixed values.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Calculus copes with constant change.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ancient near-misses.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Long before anyone named calculus, the Greeks wrestled with its core difficulty.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Around the fifth century BCE, Zeno of Elea argued that swift Achilles can never catch a tortoise with a head start, since each time he reaches where it was, it has moved on.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "How can infinitely many steps add up to a finite result?",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Today we can answer: a half, a quarter, an eighth and so on forever totals exactly 1.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the third century BCE, Archimedes squeezed a circle between polygons inside and outside it.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "With 96 sides, he showed pi lies between 223/71 and 22/7, about 3.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "1408 and 3.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "1429.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He used similar reasoning for the area under a parabola and the volume of a sphere.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He lacked a general method.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Newton versus Leibniz.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the mid-1660s, with Cambridge closed by plague, young Isaac Newton developed his method of fluxions but kept it largely to himself.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In Germany, Gottfried Leibniz developed his own version in the 1670s and published first, in 1684.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A bitter priority dispute followed, with Newton's supporters accusing Leibniz of plagiarism.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1712 the Royal Society, which Newton led as president, ruled in Newton's favour in a report he secretly drafted much of himself.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Historians now agree the two men invented calculus independently.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Leibniz's notation, such as dy/dx and the long S for an integral, proved clearer and won out.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "British mathematicians, loyal to Newton's dots, fell behind continental Europe for decades.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Zooming and slicing.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Drop a ball and it falls about 4.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "9 times t² metres in t seconds, ignoring air resistance.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "How fast is it moving at exactly one second?",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "From 1 to 1.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "1 seconds, the average speed is 10.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "29 metres per second.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "From 1 to 1.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "01, it is about 9.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "85.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "As the interval shrinks, the average closes in on exactly 9.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "8.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That limit is the derivative: the slope of a curve at a single point.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Integration runs the other way.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A steady 60 kilometres an hour for two hours is a rectangle on a speed graph, 60 high and 2 wide, so 120 kilometres.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "For varying speed, slice the area into thin strips and add them up.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Infinitely thin strips give the exact answer.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Engineers use this for forces on dams and volumes of fuel tanks.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why calculus took over.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The deepest discovery is that the two halves undo each other.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Integrate a speed to get distance, differentiate that, and you get the speed back.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is the fundamental theorem of calculus.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Isaac Barrow, Newton's teacher, had glimpsed it, but Newton and Leibniz made it a working method.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Instead of adding thousands of strips, you find a formula whose derivative matches your curve, and the area follows almost instantly.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Yet the foundations were shaky.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1734 George Berkeley mocked vanishing quantities as ‘ghosts of departed quantities’.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the nineteenth century, Cauchy and Weierstrass rebuilt calculus on precisely defined limits, answering Zeno at last.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Today it underpins weather forecasts, rocket trajectories, medical scanners and AI training, which follows derivatives downhill to reduce errors.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Calculus answers two questions: how fast something is changing right now, and how much has built up over time.",
-   "c": 3,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why do bees build hexagonal cells?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. They need the least wall, which saves wax.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. Using powers of 2, why does 8 times 16 equal 128?",
-   "c": 4,
+   "t": "Question one. Using powers of 2, why does 8 times 16 equal 128?",
+   "c": 2,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Three twos and four twos make seven twos.",
-   "c": 4,
+   "c": 2,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What did Ramanujan's obsession with mathematics cost him?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. His formal education.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. In the car picture of calculus, what does the odometer represent?",
-   "c": 4,
+   "t": "Question two. In the car picture of calculus, what does the odometer represent?",
+   "c": 2,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Adding up changing speeds into a total distance.",
-   "c": 4,
+   "c": 2,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 2,
    "k": "end",
    "ps": false
   }

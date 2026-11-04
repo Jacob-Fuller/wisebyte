@@ -1,12 +1,12 @@
 {
  "id": "s-tech-3",
- "h": "how-wifi-works,mobile-networks,smartphones,lithium-ion-batteries",
+ "h": "search-engines,how-wifi-works,mobile-networks,smartphones",
  "title": "How Tech Works · Episode 3",
  "chapters": [
+  "How a search engine finds anything",
   "How Wi-Fi works (and an Aussie connection)",
   "How a mobile call finds you",
-  "What's inside your smartphone",
-  "Inside the battery in your pocket"
+  "What's inside your smartphone"
  ],
  "units": [
   {
@@ -16,1153 +16,1135 @@
    "ps": false
   },
   {
-   "t": "In this episode: How Wi-Fi works (and an Aussie connection), How a mobile call finds you, What's inside your smartphone and Inside the battery in your pocket.",
+   "t": "In this episode: How a search engine finds anything, How Wi-Fi works (and an Aussie connection), How a mobile call finds you and What's inside your smartphone.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How Wi-Fi works (and an Aussie connection).",
+   "t": "Part one. How a search engine finds anything.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Type a few words and, in a fraction of a second, the right page appears out of billions.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is not searching the internet when you press Enter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It did that long before.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No catalogue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the World Wide Web opened to the public in the early 1990s there were only a handful of websites, and people kept lists.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Within a few years there were millions of pages, written by anyone and linked every which way, with no central catalogue.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Early helpers took two approaches.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yahoo began in 1994 as a hand-built directory, with people sorting sites into categories like a library.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Others, such as AltaVista, used software to read pages automatically and match the words you typed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Directories could not keep up with the web's growth, and word-matching was easily fooled: a page repeating a word hundreds of times could jump to the top.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Search needed a better way to judge which pages were worth showing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crawlers and the index.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Behind every search engine is a crawler, also called a spider or bot.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It starts with known web addresses, downloads each page, notes every link and adds the new addresses to its list.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This reaches much of the public web, but never all of it: pages behind logins are left out, and a small file called robots.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "txt, a convention from 1994, lets sites ask crawlers to stay away.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A search engine does not scan the internet when you press Enter.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has already built an index, like the one in a textbook, listing for each word the pages that contain it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Searching 'koala habitat' finds pages on both lists.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This inverted index runs to well over a hundred million gigabytes, so answers return in a fraction of a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Links as votes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1996 two Stanford PhD students, Larry Page and Sergey Brin, began a research project nicknamed BackRub.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their insight came from academic publishing, where an important paper is one that many others cite.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They treated a link from one page to another as a citation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A page linked by many others was probably useful, and a link from an important page counted for more than one from an obscure page.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They called the measure PageRank, a pun on Page's surname.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Their company, launched in 1998 as Google, took its name from 'googol', the number 1 followed by 100 zeros, with a change of spelling.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Its results were noticeably better than rivals', and within a few years it dominated web search.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ranking today.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "PageRank still matters, but it is now one ingredient among many.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Search engines try to work out what you meant, not just what you typed, so a search for 'how tall is Uluru' can surface a page saying 'Uluru rises 348 metres above the plain'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They also consider how recent a page is, whether it works on phones, your language and where you are, which is why 'pizza near me' gives different answers in Perth and Hobart.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Machine learning increasingly helps interpret meaning.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "How signals are combined is a closely guarded secret, partly for competitive reasons and partly to stop people gaming the system.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A whole industry, search engine optimisation, exists to help sites climb the rankings.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who pays for free.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Running a search engine costs a fortune, yet you pay nothing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The money comes mainly from advertising.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you search for 'running shoes', advertisers compete in an automated auction, run in a split second, for the chance to show you a link, and they typically pay only when someone clicks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A search is a powerful moment for advertisers, because you are telling the engine exactly what you want right now.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This model explains a few things.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sponsored results often appear above ordinary ones, marked with a small label.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Engines also learn from what people click.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice the difference between an ad and a result, and remember the top link is not automatically the best one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The early web outgrew hand-built directories and simple word matching, so search needed a smarter way to judge pages.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How Wi-Fi works (and an Aussie connection).",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Every time you stream a show on the couch, your devices are holding a fast, invisible radio conversation.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Part of the technology that makes it reliable came from Australian radio astronomers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Radio on two lanes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Sit in a café and you are surrounded by conversations you cannot hear.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Phones, laptops and smart speakers all talk to wireless routers by radio.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wi-Fi is simply a set of agreed standards that let devices from different companies exchange data through the air.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The name is a brand, coined in 1999, and it does not officially stand for anything; \"wireless fidelity\" is a popular myth.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It is the same basic physics as FM radio, just at higher frequencies.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most Wi-Fi uses around 2.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "4 gigahertz and 5 gigahertz, and newer gear can use 6 gigahertz where allowed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Each band is divided into channels, like motorway lanes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The 2.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "4 gigahertz band travels further and passes through walls better, while higher bands carry more data but fade faster, so modern routers usually offer both.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Router and shared channel.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The box in your hallway is several devices in one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A modem part connects to your internet service, such as the NBN.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A router part gives each device a local address and directs traffic.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "An access point part converts data to Wi-Fi signals and back.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A channel is shared space, like a room where only one person can speak clearly at a time.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Devices listen before they transmit, and if the channel is busy they wait a short, random time.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Data travels in packets, the receiver confirms each one, and lost ones are resent.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "When many devices and neighbouring networks crowd the same channel, everyone waits longer.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is why an apartment block in the evening can feel sluggish even on a fast plan.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why the signal drops.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Radio waves spread out and weaken with distance, and lose strength passing through obstacles.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Brick, concrete and metal block Wi-Fi especially well, which is why a router in one corner of a double brick house may struggle to reach the far bedroom.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Water absorbs these frequencies too, so fish tanks and even crowds of people can dampen a signal.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Mirrors and metal appliances reflect it.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "There is also interference.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Microwave ovens work at roughly the same frequency as 2.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "4 gigahertz Wi-Fi, so heating leftovers can briefly disrupt a nearby connection.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "And signals bounce off walls and furniture, arriving several times with slight delays, a problem that turned out to be crucial in Wi-Fi's history.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The CSIRO breakthrough.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the early 1990s a CSIRO team led by radio astronomer John O'Sullivan set out to make fast wireless networking work indoors.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The obstacle was echoes: signals bouncing around a room smeared into each other and scrambled the data.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Drawing partly on techniques for sharpening faint signals in radio astronomy, the team developed a way of spreading data across many frequencies and correcting for the echoes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "CSIRO patented the approach, and it became important to fast Wi-Fi standards.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "CSIRO later took legal action against major technology companies over the patent, and the settlements brought in hundreds of millions of dollars.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many Australians proudly call Wi-Fi an Aussie invention, though in truth it combined work from many people and countries.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Better Wi-Fi at home.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A few habits improve most home networks.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Put the router somewhere central and elevated, out in the open rather than in a cupboard, behind the television or on the floor.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep it away from microwaves and large metal objects.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In bigger or multi-storey homes, a mesh system uses several units that talk to each other to blanket the house, which usually works better than a single powerful router.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Restart and update your router occasionally, since manufacturers fix bugs and security holes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Protect your network with a strong password and the newest security option your devices support, typically WPA3 or WPA2.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Finally, Wi-Fi only covers the last few metres.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "If your internet plan itself is slow, no router can fix that.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Wi-Fi is a set of shared rules for sending data by radio, mainly on the 2.4 and 5 gigahertz bands.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. How a mobile call finds you.",
-   "c": 1,
+   "t": "Part three. How a mobile call finds you.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Your phone is a radio, quietly chatting with towers you never notice.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here is how a call reaches you, even on a moving train.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A two-way radio.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you call a friend across the street, your phones do not talk directly.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your phone sends radio signals to the nearest base station, usually antennas on a tower, rooftop or pole.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "From there the call travels over cables and optical fibre through the operator's network, then back out through the base station near your friend.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Radio is only the first and last link.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Phones transmit at low power to save battery, so base stations must be spread across the landscape, often only a few hundred metres apart in busy cities.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The central problem for engineers was letting millions of people share a limited range of radio frequencies at once without drowning each other out.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cells and handover.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The answer, proposed at Bell Labs in 1947 by Douglas Ring and W. Rae Young, was to divide an area into small zones called cells, each with its own base station.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Neighbouring cells use different frequencies, but distant cells can reuse the same ones.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Planners draw hexagon honeycombs, though real cells are messy shapes bent by hills and buildings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Capacity grows as cells shrink, which is why cities have many small ones.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hence 'cellular', and why Americans say cell phones.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Calls survive moving between cells through handover.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your phone constantly measures nearby signals, and the network switches your call to the new cell in a fraction of a second.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "With no neighbouring cell, as on a remote highway, the call drops.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "What the SIM does.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The SIM card, or its built-in digital version, the eSIM, is a tiny secure computer.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It stores an identity number linked to your account and a secret key designed never to leave the chip.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When your phone connects, the network sends a random challenge.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The SIM combines it with the secret key to produce an answer, and the network, holding a copy of the key, checks the result.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A match lets you in.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "This lets the network bill the right person and makes it hard to impersonate someone else.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Older analogue phones had no such protection: calls could be overheard with a radio scanner, and identities cloned to run up bills on another person's account.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Even idle, your phone checks in so the network knows roughly where you are.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "From 1G to 5G.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "1G arrived in the 1980s, carrying voice as analogue radio signals.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia's first cellular network opened in 1987.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "2G, in the early 1990s, went digital, improving security and making room for text messages.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The first text was sent on 3 December 1992, when engineer Neil Papworth typed 'Merry Christmas' from a computer to a colleague's phone in Britain.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Messages were capped at 160 characters, a limit that shaped how a generation wrote.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "3G, from the early 2000s, made mobile internet practical, and 4G, from around 2010, made video streaming and apps routine.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "5G adds higher speeds and shorter delays, partly by using higher frequencies with a shorter range, which means many more small cells.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Old networks switch off.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Radio spectrum is limited, so operators periodically switch off old networks to reuse their frequencies.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Australia closed its analogue network around 2000, its 2G networks during the 2010s, and its 3G networks during 2024.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some older phones that relied on 3G for voice calls suddenly could not call anyone, including emergency services.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you or an older relative are unsure whether a phone still works properly, your provider can check it.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In an emergency, call 000 from any mobile.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "If your own network has no coverage but another does, your emergency call can be carried on that other network.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The number 112 also works from mobiles, but 000 remains Australia's main emergency number.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Your phone talks by radio only to the nearest base station, and the rest of the call travels by cable and fibre.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. What's inside your smartphone.",
-   "c": 2,
+   "t": "Part four. What's inside your smartphone.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "The phone in your pocket holds more computing power than the machines that guided astronauts to the Moon, plus a dozen sensors you probably never think about.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A computer in your pocket.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A modern smartphone is a complete computer squeezed into a slab about 8 millimetres thick.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Its heart is a system-on-a-chip, a single piece of silicon that combines the main processor, a graphics processor, memory controllers, image processing and, increasingly, specialised circuits for artificial intelligence.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Squeezing it all together saves space and power.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Around it sit RAM, flash storage, radios, cameras, speakers, a battery and a screen.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Apollo Guidance Computer that helped land astronauts on the Moon in 1969 had only about 4 kilobytes of working memory.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A typical phone today is many thousands of times more powerful.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sensing and touch.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "An accelerometer measures movement and gravity, which is how the screen rotates and your steps are estimated.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A gyroscope detects rotation.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A magnetometer senses Earth's magnetic field and acts as a compass.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A proximity sensor turns off the screen at your ear, and an ambient light sensor adjusts brightness.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A barometer measures air pressure and helps estimate which floor you're on.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Combined with satellite positioning, these let maps track you smoothly.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most touchscreens are capacitive: beneath the glass is a fine grid of conductors carrying a small charge.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Your body conducts electricity, so a nearby finger disturbs the field and the phone calculates where.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The grid senses many points at once, allowing pinch and zoom.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ordinary gloves don't work because fabric doesn't conduct, and water droplets also disturb the field.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cameras that compute.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Phone camera sensors are tiny compared with those in professional cameras, so they capture less light.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Manufacturers compensate with computational photography.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When you press the shutter, the phone often captures several frames in quick succession, some darker and some brighter, then aligns and merges them to reduce blur, rescue shadows and keep bright skies from washing out.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Portrait mode uses depth information to blur the background artificially, and night modes stack many exposures.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Multiple lenses offer wide, standard and zoom views.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Much of a good phone photo is created by software decisions, not just by the lens.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Talking to towers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you make a call or load a web page, your phone sends radio signals to the nearest mobile tower.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Networks divide the landscape into cells, each served by an antenna, hence 'cellular'.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "As you move, your phone is handed from cell to cell without dropping the connection.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia's major carriers switched off their 3G networks around 2024, retiring some older phones.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wi-Fi connects to your router, and Bluetooth links to earbuds, watches and cars.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Near-field communication, NFC, works within a few centimetres: when you tap to pay, your phone sends a one-time code, not your actual card number.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A satellite receiver picks up GPS signals to work out your location, and some recent phones can send emergency texts to satellites where there's no mobile coverage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Battery and care.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Phones run on lithium-ion batteries, which store a lot of energy for their weight.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Their development earned John Goodenough, Stanley Whittingham and Akira Yoshino the 2019 Nobel Prize in Chemistry.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Charging moves lithium ions one way; using the phone moves them back.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Over time, chemical wear means the battery holds less charge, often noticeably after two or three years.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Heat speeds that wear, so avoid leaving a phone in a hot car.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many phones offer optimised charging that pauses around 80 per cent.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Install updates promptly, because they fix security holes.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Avoid running the battery completely flat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Use a case and screen protector, a screen lock, and check which apps can use your location, camera and microphone.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When you retire a phone, back it up, erase it and recycle it through a program like MobileMuster.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: A smartphone packs a processor, memory, radios and sensors into one slab, and far outpowers the Apollo guidance computer.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Inside the battery in your pocket.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Lithium-ion batteries power your phone, laptop, cordless drill and maybe your car.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Knowing how they work explains why they slowly fade, and how to make them last longer.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A tiny chemical shuttle.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Every time you unplug your phone, you carry a small chemical machine.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A lithium-ion battery has an anode, usually graphite, and a cathode made from a lithium compound with metals such as cobalt, nickel, manganese or iron.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Between them sit an electrolyte, which lets lithium ions pass, and a thin porous separator that stops the electrodes touching.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When the battery powers your phone, lithium ions travel through the electrolyte from anode to cathode.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Electrons take the long way round, through the phone's circuits.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That flow of electrons is the current doing useful work.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Charging pushes everything back the other way.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why lithium.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Lithium is the lightest metal, and it is eager to give up an electron.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Together, those traits let a battery store plenty of energy without much weight.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Compared with older rechargeables such as nickel cadmium, lithium-ion batteries hold far more energy for their size and lose little charge sitting on a shelf.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "They also avoid the memory effect that once led people to drain batteries fully before recharging.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That combination made truly portable electronics possible.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia has a direct stake in this story.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is one of the world's largest miners of lithium, much of it dug from hard rock deposits in Western Australia and shipped overseas for processing.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A Nobel-winning invention.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1970s, during the oil crisis, British chemist M. Stanley Whittingham built an early rechargeable lithium battery.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It used pure lithium metal and could be dangerous.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Around 1980, American physicist John Goodenough, working at Oxford, found a cobalt oxide cathode with much higher voltage.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the mid 1980s, Japanese chemist Akira Yoshino swapped the reactive lithium metal for a carbon-based anode, creating a far safer design.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sony sold the first commercial lithium-ion batteries in 1991, in a video camera.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The three scientists shared the 2019 Nobel Prize in Chemistry.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Goodenough was 97, the oldest person ever to receive a Nobel Prize.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fading and charging smarter.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Your battery holds less charge after a couple of years because of chemistry, not a conspiracy.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Each cycle swells and shrinks the electrodes, and side reactions use up lithium.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A crust grows on the anode and traps lithium that can no longer carry charge.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Heat speeds this up, so a hot car dashboard in an Australian summer is especially bad.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Long periods at completely full or empty add stress.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Phones charge fast to about 80 percent, then slow down on purpose to avoid damage.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Partial top-ups are fine.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Keeping charge roughly between 20 and 80 percent helps, and optimised charging settings do this for you.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Use reputable chargers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Cold only reduces performance temporarily.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Safety and disposal.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Lithium-ion batteries are generally very safe, but they pack a lot of energy and a flammable electrolyte.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "If one is crushed, punctured, badly made or overcharged without protection, an internal short circuit can heat it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That heat triggers more reactions in a spiral called thermal runaway, which can cause fire.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These fires are hard to put out and can reignite.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Warning signs are swelling, hissing, unusual heat or a strange smell.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stop using and charging the device, and check your fire service's advice.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Crushed batteries cause fires in garbage trucks and recycling centres.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Keep them out of kerbside bins.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Use a drop-off point, such as the B-cycle scheme's supermarket and hardware store collection points, and tape the terminals first.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: A lithium-ion battery works by shuttling lithium ions between two electrodes while electrons do useful work through your device.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1174,7 +1156,19 @@
    "ps": false
   },
   {
-   "t": "Question one. What is true about the 2.4 gigahertz Wi-Fi band compared with higher bands?",
+   "t": "Question one. Why did simple word-matching search fail on the early web?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Pages could repeat a word to jump to the top.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What is true about the 2.4 gigahertz Wi-Fi band compared with higher bands?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1186,7 +1180,7 @@
    "ps": false
   },
   {
-   "t": "Question two. What is the main job of the radio link in a mobile call?",
+   "t": "Question three. What is the main job of the radio link in a mobile call?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1198,25 +1192,13 @@
    "ps": false
   },
   {
-   "t": "Question three. What is a system-on-a-chip?",
+   "t": "Question four. What is a system-on-a-chip?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. One chip combining processor, graphics and more.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What happens inside the battery as it powers your phone?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Lithium ions move from the anode to the cathode while electrons travel through the circuits.",
    "c": 4,
    "k": "a",
    "ps": false

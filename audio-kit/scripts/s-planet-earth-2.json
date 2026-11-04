@@ -1,11 +1,12 @@
 {
  "id": "s-planet-earth-2",
- "h": "weather,cloud-types,australia-climate",
+ "h": "supervolcanoes,weather,jet-streams,cloud-types",
  "title": "Planet Earth & Climate · Episode 2",
  "chapters": [
+  "Supervolcanoes: the truth about Yellowstone",
   "How weather works",
-  "Reading the clouds",
-  "Droughts and flooding rains: Australia's weather"
+  "Jet streams: the rivers of wind above us",
+  "Reading the clouds"
  ],
  "units": [
   {
@@ -15,854 +16,1184 @@
    "ps": false
   },
   {
-   "t": "In this episode: How weather works, Reading the clouds and Droughts and flooding rains: Australia's weather.",
+   "t": "In this episode: Supervolcanoes: the truth about Yellowstone, How weather works, Jet streams: the rivers of wind above us and Reading the clouds.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How weather works.",
+   "t": "Part one. Supervolcanoes: the truth about Yellowstone.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A few volcanoes have erupted on a scale that dwarfs anything in recorded history.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Are they overdue to do it again?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real answer is calmer than the headlines.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What makes a supervolcano.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Volcanologists measure eruptions on the Volcanic Explosivity Index, from 0 to 8.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each step up means roughly ten times more material.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A VEI 8 eruption blasts out more than 1,000 cubic kilometres of ash, pumice and rock.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For comparison, Mount St Helens in 1980 produced around one cubic kilometre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A volcano capable of this is called a supervolcano, a popular rather than strictly scientific term that spread through television documentaries around the year 2000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Supervolcanoes rarely look like classic cones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their eruptions empty such a vast underground magma reservoir that the ground collapses, leaving an enormous depression called a caldera.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yellowstone's past.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yellowstone, mostly in Wyoming, has produced three huge caldera-forming eruptions in 2.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "1 million years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first, about 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "1 million years ago, was the largest, at around 2,500 cubic kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The second, about 1.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "3 million years ago, was much smaller.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The third, about 631,000 years ago, produced around 1,000 cubic kilometres and formed today's caldera.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Since then it has mostly produced slow lava flows, the latest about 70,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why is it volcanic, far from any plate boundary?",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A hotspot, a plume of hot rock rising from the mantle, stays put while the North American plate slides south west over it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older calderas trail across Idaho's Snake River Plain.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yellowstone holds more than half of the world's active geysers, including Old Faithful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Is Yellowstone overdue.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A common claim online is that Yellowstone is overdue, because its big eruptions average about 700,000 years apart.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "This reasoning fails.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three events are far too few to establish a pattern, the gaps were quite different, and volcanoes are not clocks.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Studies of the magma beneath Yellowstone suggest the reservoir is mostly solid crystal mush, with only a modest fraction of molten rock, far less than a supereruption would likely need.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The United States Geological Survey monitors the area closely with seismometers, GPS and gas sensors.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It considers a future supereruption possible but highly unlikely in any given year, and judges smaller lava flows or steam explosions much more likely.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toba and the human story.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The largest eruption of the past couple of million years happened at Toba, on Sumatra, about 74,000 years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It ejected something like 2,800 cubic kilometres and left a caldera now filled by Lake Toba, about 100 kilometres long.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1990s some researchers proposed that Toba caused a volcanic winter so severe it pushed early humans to the brink of extinction, a genetic bottleneck.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The idea became famous, but newer evidence has weakened it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archaeological sites in India and South Africa suggest people carried on making tools and finding food through the eruption.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many scientists now think Toba's climate effects were real but shorter or more patchy than once feared.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Closer to home: Taupō.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The world's most recent supereruption happened not far from Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "About 25,500 years ago, the Taupō volcano in New Zealand's North Island produced the Oruanui eruption, ejecting more than 1,000 cubic kilometres of material.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ash fell over much of New Zealand and as far as the Chatham Islands.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lake Taupō, New Zealand's largest lake, now fills part of the collapsed caldera.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Taupō erupted again around 232 CE in the Hatepe eruption, one of the most violent of the past few thousand years, though not on a super scale.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It remains an active system that scientists watch carefully.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Like Yellowstone, its quiet beauty, with hot springs and steaming vents, sits on top of an extraordinary history.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A supereruption ejects more than 1,000 cubic kilometres of material, leaving a vast collapsed caldera.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How weather works.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Every forecast you check is the result of sunlight, spinning air and some of the most powerful computers on the planet.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "It starts with the Sun.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "All weather begins with sunlight.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Sun heats the tropics far more strongly than the poles, because near the equator its rays hit the ground almost head-on, while at high latitudes the same energy is spread over a larger area.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Land also heats and cools faster than water.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The atmosphere and oceans constantly try to even out these differences, moving warm air towards the poles and cold air towards the equator.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "That restless movement of air, heat and moisture is what we call weather.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Weather is the day-to-day state of the atmosphere; climate is the long-term average, usually measured over 30 years or more.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Highs, lows and fronts.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Air has weight, pressing at sea level with an average of about 1013 hectopascals, the unit on weather maps.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Sinking air forms a high; it warms and dries, so highs usually bring clear skies, light winds and frosty winter nights.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Rising air forms a low; it cools, its moisture condenses into cloud, and lows bring wind and rain.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In the Southern Hemisphere, winds circle anticlockwise around highs and clockwise around lows.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A front is the boundary between air masses, such as hot interior air and the cold Southern Ocean.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In southern Australia, cold fronts sweep in from the west every few days.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ahead of one, hot, dry northerlies raise summer fire danger.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then the wind swings south-west and the temperature can drop ten degrees within an hour: Melbourne's 'cool change'.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Clouds, rain and hail.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Air always contains invisible water vapour.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "When air rises, it expands and cools, and cool air holds less vapour.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The vapour condenses into tiny droplets or ice crystals around specks of dust, salt or smoke.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Billions make a cloud.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Air rises when heated from the ground, forced up by mountains, or lifted by fronts.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cumulus are puffy fair-weather clouds, stratus flat grey sheets, cirrus wispy high ice clouds, and towering cumulonimbus bring lightning, hail and heavy rain.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "To fall as rain, droplets must grow enormously; a raindrop holds around a million cloud droplets.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In ice clouds, crystals grow at the expense of supercooled water.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hail forms as updrafts carry ice up and down, adding onion-like layers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Raindrops are not teardrop-shaped; large ones flatten like a hamburger bun.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Forecasts and chance of rain.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Modern forecasting feeds observations from weather stations, balloons, ships, aircraft, radar and satellites, including Japan's Himawari, into supercomputers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "They divide the atmosphere into a 3D grid and use physics to calculate how it will change.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Because tiny errors grow, forecasters run the model many times with slightly different starting conditions, called an ensemble.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Forecasts improve by roughly a day of useful accuracy per decade, but detailed forecasts beyond about 10 days remain unreliable.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In BOM forecasts, 'chance of rain' means the chance of at least 0.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "2 millimetres at that location, not the share of the area or day that will be wet.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Check expected amounts too: a 90 per cent chance of 1 millimetre differs from a 40 per cent chance of 30 millimetres.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "For severe weather, rely on official BOM and emergency service warnings.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tropical cyclones.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Tropical cyclones, called hurricanes or typhoons elsewhere, form over tropical oceans warmer than about 26.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "5 degrees Celsius.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Warm, moist air rises, its vapour condenses and releases heat, and that heat powers a spiralling storm that can be hundreds of kilometres across.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Like other lows in the Southern Hemisphere, they spin clockwise.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia's cyclone season runs from November to April, with around ten forming in our region in a typical season.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Bureau of Meteorology rates them from category 1 to 5; a category 5 brings gusts above 280 kilometres an hour.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Storm surge and flooding rain often do more harm than wind.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cyclone Tracy flattened much of Darwin on Christmas Day 1974, leading to far stronger building codes across the north.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Weather is driven by the Sun heating the Earth unevenly, with the atmosphere and oceans moving heat around.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Reading the clouds.",
-   "c": 1,
+   "t": "Part three. Jet streams: the rivers of wind above us.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "High above the clouds, narrow bands of wind race around the planet at hundreds of kilometres an hour.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They steer our weather, speed up flights and once carried balloon bombs across an ocean.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A shortcut in the sky.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every so often a long-haul flight lands well ahead of schedule, and the pilot mentions a strong tailwind.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That boost comes from a jet stream, a narrow, fast-flowing band of air high in the atmosphere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Jet streams usually sit about 9 to 16 kilometres up, near the top of the troposphere, the lowest layer of the atmosphere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Core winds commonly exceed 100 kilometres per hour, and strong winter jets can pass 300.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They mostly blow from west to east.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That is why flights heading east across the Pacific or North Atlantic are often noticeably quicker than the return trip, and why airlines plan routes each day to ride the jet one way and avoid it the other.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Found by a quiet pioneer.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1920s the Japanese meteorologist Wasaburo Oishi released weather balloons near Mount Fuji and tracked them as they rose.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He found remarkably strong westerly winds high above Japan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He published largely in Esperanto, and his work attracted little attention outside Japan.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Second World War, American B-29 bomber crews flying high over Japan met fierce headwinds that slowed them almost to a crawl, and the jet stream became widely known.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Japan had already used Oishi's findings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From late 1944 it launched thousands of hydrogen balloons carrying bombs, designed to ride the jet stream across the Pacific to North America.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most failed or landed harmlessly, but one killed six people on a picnic in Oregon in 1945.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How jets form and wave.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jet streams are born from temperature differences.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tropics receive far more heat than the poles, so the atmosphere keeps trying to move heat poleward.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where warm air sits beside cold, the contrast creates a steep pressure difference at altitude, and air flows.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earth's rotation deflects that flow into a mostly west-to-east path.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each hemisphere generally has a polar front jet and a higher, subtropical jet closer to the tropics.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A jet rarely runs straight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It snakes around the globe in meanders thousands of kilometres long, called Rossby waves after the meteorologist Carl-Gustaf Rossby.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where the jet bulges poleward, warm air follows.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where it dips towards the equator, cold air follows.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The jet tends to steer storms along its path, so forecasters watch it closely.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Steering our weather.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Usually the jet's waves travel east, carrying weather with them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sometimes the pattern stalls.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A large high can wedge in place and force the jet to loop around it, called a blocking pattern.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same weather can then sit over a region for days or weeks: one area bakes in a heatwave while another floods.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Australia, a related feature is the cut-off low, a pocket of cold air that breaks away and lingers, sometimes bringing very heavy rain to the south-east.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In winter, the subtropical jet can feed long northwest cloud bands that carry Indian Ocean moisture and rain inland.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Further south, the polar front jet sits over the westerlies sailors called the Roaring Forties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In winter this belt shifts north, sending cold fronts and rain to Perth, Adelaide and Melbourne.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Turbulence and climate.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jet streams are a headache as well as a help for aviation.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Where fast air shears past slower air, it can create clear-air turbulence.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These invisible bumps do not show on weather radar because there is no cloud.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pilots rely on forecasts and reports from other aircraft to avoid the worst patches, which is one reason it is sensible to keep your seatbelt fastened while seated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists are also studying how a warming climate affects the jets.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some research suggests clear-air turbulence over the North Atlantic has increased in recent decades.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Other researchers have argued that rapid Arctic warming could make the northern jet wavier and more prone to blocking, but this idea is still debated and the evidence remains mixed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Jet streams are narrow, fast bands of high-altitude wind that mostly blow west to east and speed up eastbound flights.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Reading the clouds.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Every cloud has a name, and most have a message about the weather to come.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A young pharmacist worked out how to read them over two hundred years ago.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The man who named clouds.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Before the early 1800s, clouds were thought too fleeting to classify.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Then English pharmacist and amateur weather watcher Luke Howard gave a talk in London in 1802, published the next year, called On the Modifications of Clouds.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Borrowing from naturalists who sorted plants and animals into families, he proposed a few Latin names.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cirrus is a curl or wisp of hair.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cumulus is a heap.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Stratus is a layer or sheet.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Nimbus refers to rain.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "They could be combined, so a heaped rain cloud became cumulonimbus.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The scheme was so clear that it spread across Europe, and the writer Goethe admired Howard enough to write poems in his honour.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "How a cloud is born.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Air always holds some invisible water vapour, and warm air holds more.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "When air rises, the pressure drops, so it expands and cools.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "At its dew point it can no longer hold all its vapour, and the excess condenses into droplets or ice crystals around microscopic specks of sea salt, dust, smoke and pollen.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Air can be forced up by the Sun heating the ground, wind pushing it over mountains, or cold air sliding under warm.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A small fair weather cumulus about a kilometre across holds roughly 500 tonnes of water, about a hundred elephants.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It floats because that weight is spread over billions of tiny droplets, which fall so slowly that gentle updrafts hold them up.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "High, middle and low.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The World Meteorological Organization's International Cloud Atlas recognises ten main cloud types, grouped by height.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "High clouds, roughly five kilometres up or more, are made of ice crystals: wispy cirrus, patchy cirrocumulus and milky cirrostratus.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Middle clouds take the prefix alto.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Altocumulus forms rows of puffy patches, and altostratus is a grey veil through which the Sun looks like a smudged coin.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Low clouds include stratus, a flat grey blanket that can sit on hilltops as fog, stratocumulus in lumpy layers, and nimbostratus, the thick, dark sheet behind a long day of steady rain.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cumulus and cumulonimbus are special because they can stretch from low levels to great heights.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The king of clouds.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "On a hot, humid afternoon, a small cumulus can keep growing as warm, moist air surges upwards inside it.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Condensing vapour releases heat, which makes the air rise even faster.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A towering cloud like this is cumulus congestus.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "If it keeps going, it becomes a cumulonimbus, whose top can reach twelve kilometres or more, and higher in the tropics.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "When the rising air hits the stable layer at the base of the stratosphere, it cannot rise further and spreads sideways into a flat anvil.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Inside, strong updrafts and downdrafts toss raindrops and ice about, building hail and separating electrical charges.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cumulonimbus brings downpours, damaging winds, lightning and, occasionally, tornadoes.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Clouds as forecasts.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Clouds are not perfect forecasters, but their patterns carry real information.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "High cirrus streaks that thicken into a pale sheet of cirrostratus, sometimes with a halo around the Sun or Moon, often mean a warm front and its rain are approaching within a day or so.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Small, flat-topped cumulus on a sunny morning suggest a settled day, but cumulus that swell into tall, cauliflower towers by midday warn of afternoon storms.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lens-shaped lenticular clouds near mountains signal strong winds aloft.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Clouds still hold surprises.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 2017 the Atlas added asperitas, a dramatic, wave-like underside first championed by members of the public in the Cloud Appreciation Society.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Luke Howard's simple Latin cloud names, proposed in 1802, are still the basis of cloud naming today.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Droughts and flooding rains: Australia's weather.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Why Australia swings between drought and flood, and what El Niño and La Niña actually mean.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Why so dry.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Dorothea Mackellar's 1908 poem My Country described 'a land of sweeping plains...",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "of droughts and flooding rains'.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "She was right.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia is the driest inhabited continent, and its rainfall varies more from year to year than almost anywhere else.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Long droughts, like the Millennium Drought from about 1997 to 2009, can be broken by devastating floods, like those in Queensland in 2010-11.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Much of Australia lies between about 20 and 35 degrees south, where sinking dry air creates belts of high pressure, the same kind of belt that makes the Sahara and Kalahari.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "High pressure means clear skies.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The land is also flat, with few mountains to force moist air upwards, and the interior is far from the sea.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "So about 70 per cent is arid or semi-arid, and most people live near the wetter coast.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "El Niño and La Niña.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The biggest driver of year-to-year rainfall in eastern Australia is the El Niño-Southern Oscillation, or ENSO, a pattern in the tropical Pacific Ocean.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Normally, trade winds pile warm water near Australia and Indonesia, which fuels rain clouds.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "During El Niño, the winds weaken and warm water spreads east towards South America.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The rain moves with it, so eastern Australia often gets drier conditions, hotter days and higher bushfire risk.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "La Niña is the opposite.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stronger trade winds pile even more warm water near Australia, bringing more evaporation, cloud and rain to eastern and northern Australia, and a higher chance of floods and cyclones.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Three La Niña years in a row from 2020 to 2022 brought record floods to parts of New South Wales and Queensland.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Indian Ocean and Southern Ocean.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Indian Ocean has its own pattern, the Indian Ocean Dipole, or IOD: a difference in sea temperature between the western and eastern Indian Ocean.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In a positive IOD, cooler water near Australia means less moisture and often drier conditions for southern and central Australia in winter and spring.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A negative IOD tends to bring more rain.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2019 a strong positive IOD helped bring the extreme drought and heat behind the Black Summer bushfires.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Southern Annular Mode describes the movement of the westerly winds circling Antarctica.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When they and their cold fronts shift south, southern Australia gets less winter rain.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When they shift north, more storms reach Melbourne, Adelaide and Perth.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The westerlies have tended to sit further south in recent decades, contributing to declining winter rainfall in south-west Western Australia.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bushfire weather.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Bushfires need fuel, dry conditions, heat and wind, plus an ignition source like lightning.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Wet La Niña years can grow extra grass and scrub, which then dries out and provides more fuel.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Hot, dry winds ahead of cold fronts create the most dangerous fire weather.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's Fire Danger Rating system, updated in 2022, has four levels: Moderate, High, Extreme and Catastrophic.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Black Summer fires of 2019-20 burned more than 24 million hectares.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Climate change is making dangerous fire weather more frequent.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Reading the forecast.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Bureau of Meteorology monitors ENSO, the IOD and the Southern Annular Mode, and publishes long-range outlooks showing the chances of wetter or drier, warmer or cooler conditions over the coming months.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "These help farmers decide what to plant, water authorities plan storage and emergency services prepare.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For everyday life, it's worth knowing your local risks, whether flood, fire, cyclone or heat.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Have an emergency plan, and follow warnings through the official apps of your state emergency services.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Australia is the driest inhabited continent, with rainfall that swings between drought and flood.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why does the Sun heat the tropics more strongly than the poles?",
-   "c": 3,
+   "t": "Question one. What defines a supereruption on the Volcanic Explosivity Index?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An eruption ejecting more than 1,000 cubic kilometres of material.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does the Sun heat the tropics more strongly than the poles?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Near the equator the Sun's rays strike almost head-on.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why have Luke Howard's 1802 cloud names lasted?",
-   "c": 3,
+   "t": "Question three. Why is an eastbound flight across the Pacific often quicker than the return trip?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It rides a jet stream that mostly blows from west to east.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why have Luke Howard's 1802 cloud names lasted?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. They were simple, clear and could be combined.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. Why is so much of Australia dry?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Sinking dry air, flat land and few mountains.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

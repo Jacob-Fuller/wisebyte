@@ -1,12 +1,12 @@
 {
  "id": "s-books-2",
- "h": "charles-dickens,alice-in-wonderland,dracula-bram-stoker,detective-fiction",
+ "h": "the-novel,frankenstein,charles-dickens,alice-in-wonderland",
  "title": "Great Books · Episode 2",
  "chapters": [
+  "The rise of the novel",
+  "Frankenstein and the birth of science fiction",
   "Charles Dickens and the cliffhanger",
-  "Alice in Wonderland: the story told on a river",
-  "Dracula: the theatre manager's monster",
-  "How the detective story was invented"
+  "Alice in Wonderland: the story told on a river"
  ],
  "units": [
   {
@@ -16,1099 +16,1081 @@
    "ps": false
   },
   {
-   "t": "In this episode: Charles Dickens and the cliffhanger, Alice in Wonderland: the story told on a river, Dracula: the theatre manager's monster and How the detective story was invented.",
+   "t": "In this episode: The rise of the novel, Frankenstein and the birth of science fiction, Charles Dickens and the cliffhanger and Alice in Wonderland: the story told on a river.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Charles Dickens and the cliffhanger.",
+   "t": "Part one. The rise of the novel.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The novel is the youngest of the great literary forms, yet it became the way billions of people explore other lives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here's how it began, and the Australian books worth knowing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first novels.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A novel is a long, invented story told in prose, usually focused on characters' inner lives.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The word comes from the Italian 'novella', meaning a new story.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around AD 1000 in Japan, the court lady Murasaki Shikibu wrote The Tale of Genji, a subtle story of life at the imperial court.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is often called the world's first novel, though 'first' depends on how strictly you define the form.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In Europe, the book most often called the first modern novel is Cervantes' Don Quixote, 1605 and 1615.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A gentleman reads so many chivalry tales that he becomes a knight and attacks windmills, believing them giants.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It gave English the word 'quixotic' and the phrase 'tilting at windmills'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "English novels take off.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Daniel Defoe's Robinson Crusoe, 1719, is often called the first English novel.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It presented itself as a true account of a sailor shipwrecked for 28 years, and its power came from practical detail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Defoe was probably partly inspired by Alexander Selkirk, marooned off Chile from 1704 to 1709.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Richardson's Pamela, 1740, and Fielding's Tom Jones, 1749, followed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The novel spread because several changes arrived together: cheaper printing, rising literacy, and a middle class with money and leisure.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Circulating libraries let readers borrow books for a fee, and many readers and writers were women.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unlike epics about heroes, novels focused on ordinary people.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The form proved flexible, producing Mary Shelley's Frankenstein, 1818, an early science fiction work.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Austen and Dickens.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jane Austen, 1775–1817, published four novels in her lifetime, all anonymously, the first credited only to 'a Lady'.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Northanger Abbey and Persuasion appeared after her death at 41.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pride and Prejudice, 1813, opens with the famous line about a single man in possession of a good fortune.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She wrote about courtship, class and money with sharp irony, and refined a way of slipping in and out of a character's thoughts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charles Dickens, 1812–1870, was Victorian England's superstar novelist.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At 12, when his father was jailed for debt, he worked in a boot polish factory, an experience that fuelled his anger at poverty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of his novels came out in weekly or monthly instalments, much like a TV series.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "'Dickensian' now describes grim, overcrowded poverty.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's classics.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australian novels grew out of the colonial experience.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Marcus Clarke's For the Term of His Natural Life, first serialised in the early 1870s, told a harrowing story of the convict system.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dickens's Great Expectations also features a convict transported to New South Wales.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Miles Franklin's My Brilliant Career, 1901, about a spirited young woman in the bush, was written when she was very young, and her bequest later funded the Miles Franklin Literary Award.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Henry Handel Richardson was the pen name of Ethel Richardson, author of The Getting of Wisdom.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Patrick White, author of Voss and The Tree of Man, won the Nobel Prize in Literature in 1973.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was the first Australian to win it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Modern Australian voices.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tim Winton has won the Miles Franklin Award four times.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "His novel Cloudstreet, 1991, about two working-class families sharing a big old house in Perth, is often voted a favourite Australian book.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kate Grenville's The Secret River, 2005, follows a convict settler on the Hawkesbury River and confronts the violence of colonisation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kim Scott, a Noongar writer, became the first Aboriginal author to win the Miles Franklin, for Benang in 2000.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Waanyi writer Alexis Wright won it for Carpentaria in 2007.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To start reading, pick one classic and one modern novel, and try your local library's free audiobook and ebook apps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: The novel is long prose fiction about characters' inner lives, with early landmarks in Japan's Tale of Genji and Spain's Don Quixote.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Frankenstein and the birth of science fiction.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A teenager, a stormy summer and a ghost story contest produced one of the most influential novels ever written.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The year without summer.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In April 1815, Mount Tambora in what is now Indonesia exploded in one of the largest eruptions in recorded history.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its ash and gases cooled the global climate, and Europe's 1816 became the year without a summer, with cold, rain and failed harvests.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That June, a group of young English writers stayed near Lake Geneva: the poet Lord Byron at the Villa Diodati, and nearby Percy Bysshe Shelley, eighteen-year-old Mary Godwin, her stepsister Claire Clairmont and Byron's doctor, John Polidori.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trapped indoors, they read ghost stories aloud, and Byron proposed that each write one.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary struggled for days.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Polidori's effort became The Vampyre in 1819, which helped shape the vampire as an elegant aristocrat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A waking dream.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After listening to Byron and Percy discuss whether life could be artificially created, Mary had what she later called a waking dream.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "She pictured a pale student kneeling beside a thing he had put together, watching it stir into life, then fleeing in horror.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She described this in an introduction to the 1831 edition, so it is her own account, years later.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary was the daughter of two radical thinkers: Mary Wollstonecraft, author of A Vindication of the Rights of Woman, who died shortly after her birth, and the philosopher William Godwin.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frankenstein was published anonymously in January 1818, when she was twenty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many reviewers assumed the author was a man.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Science at life's edge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frankenstein was not pure fantasy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1780s, the Italian scientist Luigi Galvani made the legs of dead frogs twitch using electricity, which led to the term galvanism.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His nephew Giovanni Aldini went further.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In London in 1803, he applied electric currents to the body of an executed criminal, making the face grimace and a hand rise, to the alarm of onlookers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people wondered whether electricity might be the spark of life itself.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary Shelley knew about these debates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the novel, Victor Frankenstein is deliberately vague about his methods, but a scientist using cutting-edge knowledge to cross a forbidden line came straight from the science of her day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The creature speaks.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anyone who knows Frankenstein only from films may be surprised by the book.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, Frankenstein is the scientist, Victor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The creature is never given a name.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, he is no grunting brute.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Abandoned by his horrified creator, he teaches himself to speak and read by secretly watching a family through a gap in a cottage wall.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He reads Milton's Paradise Lost and compares himself to both Adam and Satan.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When he confronts Victor, he speaks with great eloquence about his loneliness and the cruelty he has suffered, and asks Victor to make him a companion.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victor's refusal sets off the tragic final events.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real horror of the book is rejection.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "First science fiction.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Frankenstein grew out of the Gothic tradition of haunted castles, which began with Horace Walpole's The Castle of Otranto in 1764.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But Mary Shelley did something new.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her monster was made not by a curse or spell but by a scientist using knowledge and method.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The writer Brian Aldiss argued this makes it the first true science fiction novel, a view many critics share.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The subtitle, The Modern Prometheus, points to the myth of the Titan who stole fire from the gods.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Her question was new: what responsibility do creators have for what they make?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The 1931 Universal film with Boris Karloff, and Jack Pierce's flat-topped makeup, turned the creature into a mostly silent icon.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The key idea: Frankenstein began in 1816, when a volcanic eruption's cold, stormy summer trapped young writers indoors.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Charles Dickens and the cliffhanger.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "Dickens wrote his novels a few chapters at a time, while readers waited for each new instalment.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A secret childhood trauma shaped much of what he wrote.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The boy in the factory.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Charles Dickens was born in Portsmouth in 1812, the son of a navy pay clerk who was hopeless with money.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1824, when Charles was twelve, his father was imprisoned for debt in London's Marshalsea prison, and much of the family moved in with him, as was common then.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Charles was sent to work in a warehouse near the Thames, pasting labels onto pots of boot blacking for about ten hours a day.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The job lasted perhaps a year, but he felt abandoned and humiliated.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He told almost no one.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The full story became public only after his death, when his friend John Forster published his biography.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The echoes run through his novels, which are full of orphans, debtors and cruel institutions.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Reporter to Pickwick.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dickens had little formal schooling, but he taught himself shorthand and became a fast, skilled reporter, including in the press gallery of parliament.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He watched people closely and listened to how they spoke.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "His humorous sketches of London life appeared under the pen name Boz.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1836 a publisher asked him to write text to accompany a series of comic sporting illustrations.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dickens took control of the project, which became The Pickwick Papers.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sales started slowly, but when the witty Cockney servant Sam Weller appeared, the story took off.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "By the end of its run, each monthly part was selling tens of thousands of copies.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Dickens was in his mid-twenties and already the most popular author in Britain.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The serial machine.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most of Dickens's novels first appeared in parts rather than as complete books.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The typical format was a monthly instalment of about 32 pages with two illustrations, costing one shilling, usually running for nineteen or twenty months.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some novels, such as Oliver Twist, ran in magazines.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "This made fiction affordable for more people, since buying a part a month was easier than paying for a whole book.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It also shaped how Dickens wrote.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He often stayed only a few instalments ahead of publication, ended parts on moments of suspense and could adjust stories in response to readers' reactions.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Families and neighbours gathered to read new instalments aloud, so a single copy might reach many listeners.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Little Nell and Christmas.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Old Curiosity Shop, published weekly in 1840 and 1841, followed the doomed child Little Nell.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "As her death approached, readers begged Dickens to spare her.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A famous story says crowds on a New York wharf shouted to arriving ships asking whether she was dead, but historians note the tale is poorly documented and may be embellished.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "What is certain is that many readers grieved openly.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1843, short of money, Dickens wrote A Christmas Carol in about six weeks.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He insisted on an expensive edition with gilt edges and colour illustrations at a low price, so his profits disappointed.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The story helped popularise a Christmas of family, generosity and feasting.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He also fought piracy.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "American publishers could reprint British books without paying the author, and the United States did not protect foreign authors meaningfully until 1891.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Readings and Staplehurst.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "From the late 1850s, Dickens gave paid public readings of his work, playing every character with different voices and gestures.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Audiences in Britain and America packed halls to see him.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The tours earned him a fortune but exhausted him, especially his violent reading of the murder of Nancy from Oliver Twist.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In June 1865 he survived a serious railway accident at Staplehurst in Kent, when his train crashed on a bridge under repair.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "He helped tend the injured and dying, then remembered his manuscript and climbed back into the carriage to retrieve it.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He was shaken for the rest of his life.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He died in 1870, five years to the day after the crash, leaving The Mystery of Edwin Drood unfinished.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The key idea: A painful childhood spent pasting labels in a warehouse gave Dickens a lifelong sympathy for poor children.",
-   "c": 0,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Alice in Wonderland: the story told on a river.",
-   "c": 1,
+   "t": "Part four. Alice in Wonderland: the story told on a river.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "On a summer afternoon in 1862, a shy maths lecturer made up a story to entertain three bored girls in a rowing boat.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It became one of the most translated books ever written.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A story made up aloud.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "On 4 July 1862, Charles Dodgson, a mathematics lecturer at Christ Church, Oxford, rowed up the Thames towards Godstow.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "With him were his friend Robinson Duckworth and the three daughters of the college dean, Henry Liddell: Lorina, Alice and Edith.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Alice was ten.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "To pass the time, Dodgson spun a tale about a girl named Alice who tumbles down a rabbit hole into a world where nothing behaves sensibly.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Duckworth later remembered asking if he was inventing it on the spot, and Dodgson said yes.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "At the end of the day, Alice Liddell asked him to write it down for her.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He took the request seriously, though it took him more than two years to finish.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "From gift to book.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dodgson wrote the story out by hand, added his own pen drawings, and in November 1864 gave Alice a small volume titled Alice's Adventures Under Ground.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Friends who read it, including the writer George MacDonald, whose children loved it, urged him to publish.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He expanded the tale, adding episodes such as the Mad Tea-Party and the Cheshire Cat.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "He also built a pen name from his own: Charles Lutwidge became Carolus Ludovicus, then was reversed and anglicised into Lewis Carroll.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He hired John Tenniel, the leading cartoonist of Punch, and paid for the illustrations himself.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Alice's Adventures in Wonderland appeared from Macmillan in 1865, and Tenniel's drawings have shaped how readers picture Alice ever since.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The edition that was recalled.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Tenniel was unhappy with the first printing of 2,000 copies in 1865, complaining that the pictures were badly printed.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dodgson agreed to withdraw the edition and pay for a new one.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The reprint, dated 1866, is the edition most Victorian readers knew.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many unbound sheets from the rejected run were sold to an American publisher and issued in the United States.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The few bound copies already given away became extreme rarities.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Only around two dozen copies of the original 1865 edition are known to survive, mostly in libraries, and one can sell for well over a million dollars at auction.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A perfectionist's fussing over ink and paper created one of the most sought-after books in the world.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Nonsense with rules.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Wonderland feels chaotic, but much of its humour is logic pushed to ridiculous extremes, as you might expect from a mathematician.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Characters take words literally, argue over definitions and follow rules that make no sense.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many of Alice's poems parody the moralising verses Victorian children had to memorise.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Hatter asks why a raven is like a writing desk and admits he has no idea.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "For years Carroll gave no answer, and only in a later edition did he suggest a playful one.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The book never actually calls him the Mad Hatter.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "He is simply the Hatter, though the Cheshire Cat assures Alice that everyone there is mad.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The famous nickname came from readers and later adaptations.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Myths and a manuscript's return.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "One legend says Queen Victoria loved Alice and asked for Carroll's next book, receiving a dry mathematical treatise.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Carroll publicly denied this in 1896.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Another claim says the Hatter was inspired by hat makers poisoned by the mercury used on felt.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "That poisoning was real, and the phrase mad as a hatter predates the book, but there is no evidence Carroll was making that point.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1928 Alice, by then Mrs Hargreaves, sold the manuscript at auction in London, and it went to the United States.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1948 American donors led by Luther Evans, the Librarian of Congress, bought and returned it to Britain in thanks for its wartime role.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It is now in the British Library.",
-   "c": 1,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Alice began as a tale improvised on a rowing trip in 1862 for a ten-year-old girl who asked for it to be written down.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Dracula: the theatre manager's monster.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "The world's most famous vampire was created by a busy Irish theatre manager who never set foot in Transylvania.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Much of what we think we know about Dracula isn't in the book.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The theatre manager.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Abraham 'Bram' Stoker was born in Dublin in 1847.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "As a small child he was so ill that he could barely walk, and he later wrote that he spent his early years in bed listening to his mother's stories, including grim memories of a cholera epidemic.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He recovered completely and became a champion athlete at Trinity College Dublin.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He worked as a civil servant at Dublin Castle while writing theatre reviews for free.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "One review praised the actor Henry Irving, the two became friends, and in 1878 Stoker moved to London to become business manager of Irving's Lyceum Theatre.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He held the job for around 27 years, handling everything from finances to tours, and wrote fiction in the gaps.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Vampires before Dracula.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Vampires did not begin with Stoker.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Eastern European folklore told of the restless dead returning to harm the living, and vampire panics in the 1700s spread across Europe.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1819 John Polidori's story The Vampyre gave the creature an aristocratic, seductive character.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1840s the cheap serial Varney the Vampire thrilled readers for years.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1872 Sheridan Le Fanu published Carmilla, about a female vampire, which scholars widely see as an influence on Stoker.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What Stoker added was scale and method.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He spent several years researching and planning, filling notebooks with ideas, and fused folklore, modern technology and Victorian anxieties into one sweeping thriller that would overshadow everything before it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A name found in Whitby.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Stoker's surviving working notes show his vampire began as Count Wampyr.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1890 he holidayed in Whitby, a Yorkshire fishing town with a ruined abbey on the cliff.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the local library he read an 1820 book about Wallachia and Moldavia that mentioned a ruler called Dracula and claimed the word meant devil in the local language.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stoker seized the name.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The historical figure behind it was Vlad III of Wallachia, known as Vlad the Impaler, but scholars point out that Stoker seems to have known very little about him beyond the name.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Whitby itself found its way into the novel.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Dracula comes ashore there when a ship runs aground in a storm, and he leaps onto land in the shape of a large dog.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A thriller told in documents.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Dracula, published in May 1897, has no single narrator.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is assembled from journals, letters, newspaper cuttings, a ship's log and telegrams.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This form, called an epistolary novel, makes the story feel like a case file of real evidence.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It was also strikingly modern.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Doctor Seward records his diary on a phonograph, and Mina Harker types up and organises the documents on a typewriter, cross-referencing them to track the Count.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The heroes use trains, telegrams and blood transfusions.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stoker set an ancient monster against the newest technology of the 1890s, and much of the tension comes from that clash.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The heroes win less through strength than through information, teamwork and careful paperwork.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Myths and a stolen film.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Readers who come to the novel from films are often surprised.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Stoker's Count walks around London in daylight; the sun weakens his powers but does not destroy him.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sunlight as a killer was popularised by the 1922 German silent film Nosferatu.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The novel's Count is first an old man with a long white moustache who grows younger as he feeds.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The suave figure in evening dress owes much to stage adaptations and Bela Lugosi's 1931 Hollywood performance.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Garlic, crucifixes and a stake through the heart do appear, but Stoker freely mixed his rules.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stoker died in 1912 with modest means.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Nosferatu was an unauthorised adaptation that renamed the Count as Orlok.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His widow Florence sued, and a German court ordered copies destroyed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some prints survived abroad, and the film is now considered a masterpiece.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Bram Stoker spent most of his career managing a London theatre and wrote fiction in his spare time.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. How the detective story was invented.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "From a murder in a Paris apartment to Sherlock Holmes and Agatha Christie, the whodunnit has a surprisingly short and lively history.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Poe's locked room.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1841, the American writer Edgar Allan Poe published 'The Murders in the Rue Morgue'.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Two women are found brutally killed in a Paris apartment that seems impossible to enter or leave.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The police are baffled.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Then an eccentric amateur, C. Auguste Dupin, solves the case by pure reasoning, noticing clues everyone else missed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The answer is famously bizarre: an escaped orangutan.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Poe wrote only three Dupin stories, but they set the pattern.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "There is a brilliant, slightly odd detective, a less clever friend who narrates, a puzzling crime and a final explanation that makes everything click.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Almost every fictional detective since owes something to Dupin.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why the 1800s.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It is no accident that detective stories appeared in the 1800s.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "London's Metropolitan Police was founded in 1829, and in 1842 it set up a small detective branch.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Big cities were full of strangers, and crime became something to investigate with evidence, not simply punish.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Newspapers fed public fascination with real murder cases.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At the same time, science was teaching people that careful observation could reveal hidden truths.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The fictional detective captured that spirit.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He, and later she, was a kind of scientist of crime, bringing order and reason to the chaos of the modern city.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Readers found that deeply reassuring, and many still do.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Holmes and a Melbourne rival.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1887, a young doctor named Arthur Conan Doyle introduced Sherlock Holmes and Doctor Watson in A Study in Scarlet.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Holmes was partly modelled on Joseph Bell, an Edinburgh medical teacher who could deduce a patient's job from small details.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Stories in The Strand Magazine from 1891 made him a sensation.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When Doyle killed him off in 1893, readers cancelled their subscriptions, and Holmes returned in 1903.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A year before Holmes appeared, Fergus Hume, a lawyer raised in New Zealand, published The Mystery of a Hansom Cab in Melbourne.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It sold far more copies than Doyle's first Holmes novel, though Hume reportedly sold the rights cheaply and saw little profit.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Golden Age fair play.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Between the world wars, the puzzle mystery peaked.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Agatha Christie's first novel, The Mysterious Affair at Styles, appeared in 1920 and introduced the Belgian detective Hercule Poirot.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dorothy L. Sayers, Margery Allingham and New Zealand's Ngaio Marsh were also leading writers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Their books often featured country houses, a closed group of suspects and a body in the library.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The central idea was fair play: every clue the detective used had to be shown to the reader too.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1929 Ronald Knox published a tongue-in-cheek list of rules, including no supernatural forces and no undiscovered poisons.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1930 many of these writers formed the Detection Club in London, promising to play fair.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mean streets, modern crime.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Not everyone loved tidy country house puzzles.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1920s and 1930s America, Dashiell Hammett and Raymond Chandler created hardboiled detectives: tough, weary private investigators in corrupt cities like San Francisco and Los Angeles.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Their stories were less about clever clues and more about violence, money and moral compromise.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Chandler's Philip Marlowe became the model for countless film noir heroes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Since then, crime fiction has split into police procedurals, psychological thrillers, Scandinavian noir and rural Australian crime, from Arthur Upfield to Kerry Greenwood and Jane Harper.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Yet the basic appeal remains.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A crime throws the world out of balance, and a detective who notices what others miss puts it right.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Edgar Allan Poe set the pattern for the detective story in 1841 with 'The Murders in the Rue Morgue'.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1120,7 +1102,31 @@
    "ps": false
   },
   {
-   "t": "Question one. How did Dickens's childhood shape his novels?",
+   "t": "Question one. Why is the title 'first novel' disputed?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It depends on how you define a novel.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What set the stage for the ghost story contest that produced Frankenstein?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. A volcanic eruption cooled the climate and kept the group indoors.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How did Dickens's childhood shape his novels?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1132,37 +1138,13 @@
    "ps": false
   },
   {
-   "t": "Question two. How did the story of Alice first come into being?",
+   "t": "Question four. How did the story of Alice first come into being?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It was improvised aloud on a rowing trip.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. How did Bram Stoker fit writing into his life?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. In the gaps of a busy theatre job.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What basic pattern did Poe's Dupin stories establish for detective fiction?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. An odd genius, a narrating friend and a puzzle solved by reasoning.",
    "c": 4,
    "k": "a",
    "ps": false

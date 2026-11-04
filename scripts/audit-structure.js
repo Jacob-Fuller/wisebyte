@@ -100,6 +100,9 @@ bank("CLAIMS", WB.CLAIMS, (x, k) => { if (!x.c || typeof x.t !== "boolean" || !x
 bank("EVENTS", WB.EVENTS, (x, k) => { if (!x.e || typeof x.y !== "number") E("event", k); });
 bank("CAPITALS", WB.CAPITALS, (x, k) => { if (!Array.isArray(x) || x.length < 2 || !x[0] || !x[1]) E("capital", k); });
 
+/* inner3.js keeps 12 base riddles by matching their answer text: a reworded answer silently drops a riddle */
+{ const kept = WB.INNER.riddles.length - (WB.INNER_RIDDLES_HARD || []).length; if (kept !== 12) E("inner-riddles", `${kept} of 12 kept base riddles matched (check the keep list in inner3.js)`); }
+
 /* ---------- scroll pool ---------- */
 const need = { fact: ["t", "h", "m"], myth: ["t", "h", "e"], word: ["t", "h", "ex"], quote: ["t", "h", "src"], skill: ["t", "steps", "n"], puzzle: ["t", "h", "a"] };
 const seenS = {};

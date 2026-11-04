@@ -1,11 +1,11 @@
 {
  "id": "s-disasters-2",
- "h": "irish-great-famine,titanic-sinking,chernobyl",
+ "h": "year-without-summer,irish-great-famine,titanic-sinking",
  "title": "Disasters That Changed the World · Episode 2",
  "chapters": [
+  "1816: the year without a summer",
   "Ireland's Great Hunger, 1845–1852",
-  "The Titanic: one night that changed the sea",
-  "Chernobyl: the night a reactor exploded"
+  "The Titanic: one night that changed the sea"
  ],
  "units": [
   {
@@ -15,847 +15,847 @@
    "ps": false
   },
   {
-   "t": "In this episode: Ireland's Great Hunger, 1845–1852, The Titanic: one night that changed the sea and Chernobyl: the night a reactor exploded.",
+   "t": "In this episode: 1816: the year without a summer, Ireland's Great Hunger, 1845–1852 and The Titanic: one night that changed the sea.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Ireland's Great Hunger, 1845–1852.",
+   "t": "Part one. 1816: the year without a summer.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A mountain in Indonesia blew itself apart, and a year later it snowed in New England in June.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how one eruption chilled half the world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A mountain loses its head.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mount Tambora sits on Sumbawa, in what is now Indonesia.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After days of rumbling, it exploded with enormous force around 10 and 11 April 1815.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The blasts were heard more than 2,000 kilometres away, and some colonial officials reportedly mistook them for cannon fire and sent troops to investigate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ash and rock rose into the stratosphere, and glowing avalanches of hot gas and debris swept down the slopes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The mountain lost well over a kilometre of height, leaving a caldera about six kilometres wide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Volcanologists rate it a 7 on the Volcanic Explosivity Index, a level reached only a handful of times in the past few thousand years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cost on Sumbawa.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The eruption itself killed many thousands of people on Sumbawa, buried under ash or caught by scorching flows.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The larger toll came afterwards.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ash smothered crops and fouled water across Sumbawa and neighbouring Lombok, and livestock died in great numbers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Starvation and disease followed for months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exact numbers are impossible to know because regional records were patchy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Estimates of the total death toll commonly run to tens of thousands, and some researchers argue it was higher.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The small kingdom of Tambora, its people and language, was largely wiped out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Archaeologists later found houses, pottery and human remains under the ash, earning the site the nickname 'Pompeii of the East'.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A veil in the sky.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ash falls out of the air within days or weeks, so it was not ash that changed the world's weather.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The real culprit was sulphur dioxide.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tambora blasted huge amounts of it into the stratosphere, more than ten kilometres up, where there is no rain to wash it out.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "There it reacted with water to form tiny droplets of sulphuric acid, called sulphate aerosols.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Winds spread this haze around the globe over the following months.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The droplets reflected some incoming sunlight back into space, so less warmth reached the ground.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Global average temperatures dropped by somewhere around half a degree.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That sounds small, but it was enough to upset growing seasons across the Northern Hemisphere for a year or more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Snow in June.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In New England and eastern Canada, snow fell in early June, and killing frosts returned in July and August, destroying corn and other crops.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Farmers who replanted several times watched each attempt fail.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In western Europe the summer was cold and relentlessly wet.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Harvests failed across Britain, Ireland, France and the German lands, grain prices soared and food riots broke out in several countries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Switzerland suffered severe hunger, and 1816 is remembered as one of its worst years in modern times.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Typhus spread through a weakened Irish population.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many New England families gave up their rocky farms and moved west.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People at the time had no idea why the weather had turned so savage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cold also had an unexpected literary legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Solving the mystery.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In June 1816 a group of English writers, including Lord Byron, Percy Shelley and Mary Godwin, soon to be Mary Shelley, holidayed beside Lake Geneva.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Endless rain kept them indoors, so Byron proposed a ghost story contest.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mary's idea became Frankenstein; Byron's doctor, John Polidori, wrote The Vampyre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For a long time the cold itself was a puzzle.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early twentieth century William Humphreys argued that volcanic dust and gases could cool the climate.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ice cores from Greenland and Antarctica later clinched it, showing a sharp sulphate spike in layers from about 1815 and 1816.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But another large eruption, still unidentified, occurred around 1808 or 1809, and the Sun was quiet, so Tambora struck an already cool world.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: In April 1815 Mount Tambora in Indonesia produced the largest eruption in recorded history.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Ireland's Great Hunger, 1845–1852.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "A microscopic organism destroyed one crop, and within a few years Ireland had lost a quarter of its people.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The blight was natural.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The scale of the disaster was not.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A crop and its killer.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "By the 1840s Ireland had about eight and a half million people, many renting tiny plots from landlords.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Wheat, oats, cattle and butter were grown for rent and sale, but the poorest lived on potatoes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "An acre could feed a family for much of a year, and a labourer might eat several kilograms a day.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many relied on one high-yielding but vulnerable variety, the ‘lumper’.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1845 Phytophthora infestans, a fungus-like water mould probably from the Americas, arrived.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Leaves blackened and potatoes rotted in the ground.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Roughly a third to a half of the 1845 crop was lost, and 1846 was worse.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Other countries had blight too, but nowhere else was so large a share of people so dependent on the crop.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Relief, and its limits.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Prime Minister Robert Peel's government quietly bought American maize in 1845 to sell cheaply.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "From 1846 Lord John Russell's government leaned on the idea that the state should not interfere with trade.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The starving were offered work on public projects such as roads, often for wages too low to buy food, and sometimes on roads that led nowhere.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1847 soup kitchens briefly fed around three million people a day, and they worked.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Yet they were wound down within months, and responsibility shifted to workhouses and local property taxes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The Gregory clause denied relief to anyone holding more than a quarter acre, forcing many to give up their homes to qualify.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Food leaving a hungry land.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "One of the most painful facts of the famine is that grain, cattle and butter kept leaving Ireland while people starved.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Landlords needed rent, farmers sold crops to pay it, and armed guards sometimes escorted food convoys past hungry crowds.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Historians debate how much difference keeping that food would have made.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "From 1847 more grain was coming in than going out, and the loss of the potato was too vast for exports alone to fill.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "But most agree the deeper problem was choice, not supply.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A wealthy empire could have kept people alive and instead treated the crisis as a chance to reform Irish agriculture.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Charles Trevelyan, a senior Treasury official, came to symbolise that outlook.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Fever, eviction and death.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Hunger made people vulnerable, and disease did much of the killing.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Typhus, relapsing fever and dysentery swept through crowded workhouses, roadsides and cabins.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Scurvy appeared as diets collapsed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Landlords, facing unpaid rents and rising local taxes, evicted hundreds of thousands of tenants, often tearing down cottages so families could not return.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Whole communities in the west, in counties such as Mayo, Galway and Cork, were devastated.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Around one million people died between 1845 and 1852, though exact numbers are uncertain because so many deaths went unrecorded.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Irish speakers called it An Gorta Mór, the Great Hunger.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The worst year, 1847, became known as Black ’47, and mass graves from that time are still being identified.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The great scattering.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "For many families the only hope was to leave.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Well over a million emigrated, mostly to Britain, the United States and Canada, some on overcrowded ‘coffin ships’.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Between 1848 and 1850 an assisted scheme brought more than four thousand Irish orphan girls to Sydney, Melbourne and Adelaide.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ireland's population kept falling for decades and the island still holds fewer people than before the famine.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Irish language declined, bitterness towards British rule hardened, and Irish communities abroad kept the memory alive.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1847 the Choctaw Nation, recently forced from their own lands, sent money to help, honoured today by a sculpture in County Cork.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most historians see a natural disaster made far deadlier by poverty, a harsh land system and government decisions.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Ireland's poorest depended almost entirely on one fragile potato crop, so when blight struck, there was nothing to fall back on.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. The Titanic: one night that changed the sea.",
-   "c": 1,
+   "t": "Part three. The Titanic: one night that changed the sea.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "On a calm, moonless night in April 1912, the largest ship afloat struck an iceberg and sank in under three hours.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The rules that keep ships safe today were written in its wake.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Big, luxurious, ‘unsinkable’.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "RMS Titanic was built in Belfast by Harland and Wolff for the White Star Line and launched in 1911.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "About 269 metres long, it was briefly the largest ship in the world.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "White Star competed with Cunard on size and luxury, not speed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "First class had a swimming pool, a gymnasium and Turkish baths.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The hull was divided into sixteen watertight compartments, and the ship could float with any two flooded, or the first four.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "A trade journal called such ships ‘practically unsinkable’, but it was not a central advertising slogan.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The boldest versions of the claim spread after the disaster.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Still, confidence in modern ships was real, and it contributed to too few lifeboats and ignored ice warnings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ice warnings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Titanic left Southampton on 10 April 1912, called at Cherbourg and Queenstown, and headed for New York with over two thousand people aboard.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "On 14 April the Marconi wireless operators received several warnings about ice ahead.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Not all reached the bridge, partly because the operators were busy sending passengers' private messages.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Captain Edward Smith altered course slightly but kept the ship at about 22 knots, close to its top speed, as was normal practice then.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The sea was flat calm with no moon, so no waves broke around the base of icebergs to reveal them.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The lookouts in the crow's nest had no binoculars.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Collision and sinking.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "At about 11.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "40 pm on 14 April, lookout Frederick Fleet spotted an iceberg dead ahead.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The officer on watch ordered a hard turn, but too late.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The iceberg scraped along the starboard side below the waterline, buckling plates and popping rivets along a long stretch of hull.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It was not one huge gash but a series of openings.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Water poured into the first five or six compartments, more than the design could survive.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Thomas Andrews, the ship's designer, who was aboard, told the captain the ship would sink.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "As the bow went down, water spilled over the tops of the bulkheads from one compartment into the next.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "At about 2.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "20 am on 15 April, Titanic broke apart and sank.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Not enough boats.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Titanic carried twenty lifeboats with room for about 1,178 people.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "That exceeded the outdated British rules, which were based on a ship's weight, but it covered only about half of the roughly 2,200 aboard.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Early boats left well under capacity.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "More than 1,500 people died, many in water near minus two degrees.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most first class passengers survived; around three quarters of third class did not.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The liner Carpathia, about 100 kilometres away, steamed through the ice and picked up around 700 survivors.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Californian, much closer, had stopped for the night.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Its crew saw rockets but did not understand them, and its only wireless operator had gone to bed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "What Titanic changed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Inquiries in the United States and Britain led to the first International Convention for the Safety of Life at Sea, known as SOLAS, agreed in London in 1914.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Ships had to carry lifeboat places for everyone aboard and hold lifeboat drills.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Wireless rooms on passenger ships were to be staffed around the clock, so no distress call went unheard.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The International Ice Patrol was created to track icebergs in the North Atlantic, and it still operates.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The wreck lay undiscovered until 1985, when a team led by Robert Ballard and Jean-Louis Michel found it nearly four kilometres down, broken in two.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Its slow decay reminds us how a confident age learned humility the hard way.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Titanic was built for size and comfort, and the claim that it was advertised as unsinkable is mostly a later exaggeration.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Chernobyl: the night a reactor exploded.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "In April 1986 a late night safety test went catastrophically wrong in Soviet Ukraine.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The disaster spread radiation across Europe and shook the Soviet Union to its core.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Test, flaw, explosion.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Chernobyl plant stood in northern Soviet Ukraine, near the new town of Pripyat.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the early hours of 26 April 1986, a night shift that had not prepared for it ran a test at reactor 4.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They wanted to know whether spinning turbines could keep cooling pumps running briefly if power failed.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Operators reduced the reactor's power and disabled several safety systems.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It became unstable, and they withdrew most of the control rods.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Soviet RBMK design had dangerous features operators were not fully told about: if cooling water turned to steam, power could rise rather than fall.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When power surged, an operator hit the emergency shutdown, but a flaw in the rods briefly boosted the reaction.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Steam explosions blew apart the reactor, and burning graphite sent radioactive material high into the sky for days.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Firefighters and liquidators.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Firefighters raced to the plant within minutes and fought fires on the roof and around the reactor building.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Few understood how intense the radiation was, and some reportedly picked up chunks of graphite thrown from the core.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Two plant workers died on the night.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the following weeks and months, around 28 more, mostly firefighters and staff, died from acute radiation sickness, despite treatment in a specialist Moscow hospital.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Helicopters dropped thousands of tonnes of sand, clay, lead and other materials onto the burning reactor to smother it.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Later, miners dug beneath it to install cooling, and huge numbers of workers known as liquidators carried out the cleanup.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pripyat and the Swedish alarm.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On the day after the explosion, life in Pripyat continued almost as normal.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Children played outside and a wedding went ahead.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "About 36 hours after the accident, residents were told to pack for a short evacuation.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Roughly 49,000 people boarded buses believing they would return within days.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They never did.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The zone was widened to about 30 kilometres, and more than 100,000 people were eventually moved.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Soviet authorities said almost nothing.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On 28 April, workers arriving at Sweden's Forsmark plant, more than 1,000 kilometres away, set off radiation alarms.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Swedish experts found nothing wrong at their plant and traced the particles to winds from the Soviet Union.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Under pressure, Soviet state media issued a short statement that evening acknowledging an accident.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mikhail Gorbachev later suggested Chernobyl exposed the failings of the Soviet system.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Counting the cost.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Radioactive fallout drifted across Belarus, Ukraine and Russia and on to much of Europe, with rain bringing it down unevenly.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Farmers as far away as Wales and Scandinavia faced restrictions on sheep and reindeer for years.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The clearest health effect was a sharp rise in thyroid cancer among people who were children at the time, mainly because radioactive iodine got into milk from cows grazing on contaminated grass.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Thousands of cases were diagnosed, though most patients survived with treatment.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Estimates of eventual cancer deaths vary widely.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A major United Nations-led review in 2005 estimated up to about 4,000 deaths among the most heavily exposed groups, while some studies give much higher figures for Europe.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many evacuees also suffered serious stress and upheaval, and the economic cost ran into many billions of dollars.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The zone today.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Within months, workers built a concrete shelter, the sarcophagus, over the shattered reactor.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It was rushed and began to deteriorate, so an international project slid an enormous arched steel structure, the New Safe Confinement, over it in 2016.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The last working reactor shut down in 2000.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pripyat is now a ghost town, its apartment blocks crumbling.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "With people gone, the exclusion zone has become an unexpected wildlife refuge for wolves, elk, deer and rare Przewalski's horses, though scientists still debate radiation's effects on animals.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2022 Russian troops occupied the site for several weeks during the invasion of Ukraine.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: A rushed safety test and a flawed reactor design combined to destroy reactor 4 on 26 April 1986.",
    "c": 2,
    "k": "s",
    "ps": true
@@ -867,7 +867,19 @@
    "ps": false
   },
   {
-   "t": "Question one. Why were so many Irish people exposed when the blight struck?",
+   "t": "Question one. How does Tambora's 1815 eruption compare with others?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It was the largest in recorded history.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why were so many Irish people exposed when the blight struck?",
    "c": 3,
    "k": "q",
    "ps": false
@@ -879,25 +891,13 @@
    "ps": false
   },
   {
-   "t": "Question two. What is the truth about the ‘unsinkable’ claim?",
+   "t": "Question three. What is the truth about the ‘unsinkable’ claim?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. A trade journal used it and the boast grew.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. What combined to cause the Chernobyl explosion?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. A rushed test with safety systems off, and a flawed reactor design.",
    "c": 3,
    "k": "a",
    "ps": false

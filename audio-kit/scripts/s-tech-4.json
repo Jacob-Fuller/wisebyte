@@ -1,11 +1,12 @@
 {
  "id": "s-tech-4",
- "h": "gps,encryption,blockchain",
+ "h": "touchscreens,how-screens-work,phone-cameras,lithium-ion-batteries",
  "title": "How Tech Works · Episode 4",
  "chapters": [
-  "How GPS knows where you are",
-  "How encryption keeps secrets",
-  "Blockchain, simply"
+  "How touchscreens feel your finger",
+  "How screens make pictures",
+  "How your phone camera takes a photo",
+  "Inside the battery in your pocket"
  ],
  "units": [
   {
@@ -15,824 +16,1196 @@
    "ps": false
   },
   {
-   "t": "In this episode: How GPS knows where you are, How encryption keeps secrets and Blockchain, simply.",
+   "t": "In this episode: How touchscreens feel your finger, How screens make pictures, How your phone camera takes a photo and Inside the battery in your pocket.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How GPS knows where you are.",
+   "t": "Part one. How touchscreens feel your finger.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Your phone finds you to within a few metres by listening to ultra-precise clocks orbiting high above the Earth.",
+   "t": "Your phone screen has no buttons, yet it knows exactly where you tapped, swiped or pinched.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Listening to satellites.",
+   "t": "The secret is that your finger is part of an electrical circuit.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Press to connect.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Global Positioning System is run by the US and uses a constellation of around 31 satellites orbiting about 20,200 kilometres above Earth.",
+   "t": "Pick up your phone and tap an app.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Each one constantly broadcasts, in effect, \"I'm this satellite, here's my position, and this is the exact time.\"",
+   "t": "The glass does not move or click, yet the phone responds instantly.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Your phone doesn't send anything back.",
+   "t": "A touchscreen is really two things stacked together: a display that shows pictures, and a transparent sensor on top that works out where your fingers are, measuring tiny electrical changes many times a second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The first touchscreens most people met were resistive, on early handheld organisers, GPS units, some ATMs and signature pads.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It only listens.",
+   "t": "Two thin, flexible conductive layers sit separated by a tiny gap.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "By measuring how long each signal took to arrive, it works out how far away each satellite is.",
+   "t": "When you press, the top layer touches the bottom one, completing a circuit at that spot.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That distance is the starting point for everything else GPS does.",
+   "t": "Resistive screens work with a fingernail, a gloved hand or a stylus.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Pinning down your position.",
+   "t": "But they need a firm press, feel spongy and traditionally handled one touch at a time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your finger as a conductor.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "If you're exactly 20,500 kilometres from one satellite, you could be anywhere on a giant sphere around it.",
+   "t": "Almost every modern smartphone uses a capacitive screen.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A second satellite narrows that to a circle.",
+   "t": "Your body conducts electricity, mainly because it is full of salty water.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A third narrows it to two points, one of which is usually far out in space.",
+   "t": "Beneath the glass sits a fine grid of transparent electrodes, usually made from indium tin oxide, which conducts electricity while letting light through.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This process is called trilateration.",
+   "t": "The grid holds a small electric field.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A fourth satellite is needed because your phone's clock isn't perfectly accurate.",
+   "t": "When your fingertip comes close, it disturbs that field and changes the capacitance, the ability of nearby conductors to store electric charge, at the points nearest your finger.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Your device usually uses many more satellites for better accuracy.",
+   "t": "You do not need to press at all; a light brush is enough.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Timing matters enormously.",
+   "t": "That is why capacitive screens feel so responsive, and why they are covered by tough, smooth glass rather than soft plastic that has to bend.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scanning the grid.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Signals travel at the speed of light, about 300,000 kilometres per second, so an error of one millionth of a second would put you out by about 300 metres.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That's why each satellite carries atomic clocks accurate to billionths of a second.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Blurred on purpose.",
+   "t": "The electrodes are laid out in rows and columns, like lines on graph paper.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "GPS began as a US military project.",
+   "t": "A controller chip rapidly tests each crossing, measuring how much its capacitance has shifted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Where a finger rests, a cluster of crossings changes, and the chip calculates the cluster's centre.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because each crossing is measured separately, the screen tracks several fingers at once.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This projected capacitance is what makes multi-touch gestures such as pinch to zoom possible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The sensor only reports where fingers are; software decides what you meant.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The first satellite launched in 1978, and the full system was declared operational in 1995.",
+   "t": "It tells a tap from a long press by timing, a swipe from a scroll by speed, and a pinch by tracking two points.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For years the military deliberately added errors to the civilian signal, a feature called Selective Availability.",
+   "t": "Tablets use palm rejection to ignore your hand, and some phones add haptic feedback, a tiny vibration that fools your fingertip into feeling a click.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ordinary receivers were accurate to only about 100 metres, while military users got precise positions.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In May 2000, on the orders of President Bill Clinton, it was switched off.",
+   "t": "Gloves and raindrops.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Civilian accuracy improved roughly tenfold overnight, helping spark the boom in car navigation, fitness trackers and smartphone maps.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The US later announced that newer satellites would be built without the ability to degrade the signal at all.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many systems, fast fixes.",
+   "t": "Capacitive screens explain some everyday frustrations.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "GPS isn't the only system.",
+   "t": "Ordinary woollen or leather gloves insulate your fingertip, so the screen cannot sense it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is why touchscreen gloves have conductive thread woven into the fingertips.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A standard plastic stylus does nothing for the same reason, so styluses for phones have conductive tips.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Water is the opposite problem.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Russia runs GLONASS, the European Union runs Galileo, and China runs BeiDou.",
+   "t": "Droplets on the glass conduct enough to disturb the field, so a wet screen may register phantom taps or ignore real ones.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Together they're called GNSS, global navigation satellite systems.",
+   "t": "Manufacturers use software to tell the small, steady signal of a raindrop from the moving signal of a finger, and some phones have a wet touch mode.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most phones use several at once, seeing more satellites and getting faster, more accurate fixes.",
+   "t": "Even so, using your phone in heavy rain or underwater remains unreliable for most people.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Australia is building SouthPAN, which improves accuracy across Australia and New Zealand for farming, mining, aviation and emergency services.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A standalone receiver can be slow to lock on, because it downloads satellite data slowly from space.",
+   "t": "From radar rooms to pockets.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Your phone downloads it over the internet and also estimates your location from mobile towers and Wi-Fi networks.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That's why it can find you almost instantly, even indoors.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Limits and uses.",
+   "t": "Touchscreens are older than many people assume.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "GPS signals are weak by the time they reach Earth and can't pass through buildings or ground.",
+   "t": "In the mid 1960s British engineer E. A. Johnson, at the Royal Radar Establishment in Malvern, described a capacitive touchscreen intended for air traffic control displays.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the early 1970s engineers at CERN, the European physics laboratory near Geneva, built capacitive touchscreens to control a particle accelerator.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resistive screens developed around the same era and spread through industry, kiosks and handheld gadgets.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The big leap into everyday life came in 2007, when Apple launched the first iPhone with a multi-touch capacitive screen designed for fingers rather than a stylus.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In city centres they bounce off tall buildings, making your blue dot jump around; this is the urban canyon effect.",
+   "t": "Within a few years, physical keyboards on phones had largely disappeared, and swiping had become something even toddlers attempt on picture books.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Tunnels and dense forest can block them entirely.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Phones are typically accurate to about five metres under open sky, while surveying and farming equipment can reach centimetre accuracy.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "GPS guides planes and ships, helps emergency services find people and lets tractors drive straight lines to save fuel and fertiliser.",
+   "t": "The key idea: A touchscreen is a transparent sensor over a display, and older resistive screens work when pressure pushes two conductive layers together.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Its timing keeps mobile networks, power grids and stock exchanges in sync.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The US opened GPS to civilian use after a Korean Air Lines plane strayed into Soviet airspace and was shot down in 1983.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: GPS works by timing signals from satellites, with your phone listening only and never transmitting.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. How encryption keeps secrets.",
+   "t": "Part two. How screens make pictures.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "The maths behind the padlock in your browser, and why it protects nearly everything you do online.",
+   "t": "Everything on your screen, from a sunset photo to this sentence, is built from millions of tiny lights in just three colours.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Scrambling secrets.",
+   "t": "Dots and three colours.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Encryption turns readable information, called plaintext, into scrambled data, called ciphertext, using a key.",
+   "t": "Look at a screen through a magnifying glass, or a drop of water, and the illusion falls apart.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Only someone with the right key can turn it back.",
+   "t": "The image is really a grid of tiny dots called pixels.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It quietly protects your messages, passwords, banking, medical records and card payments.",
+   "t": "A 4K television has 3840 pixels across and 2160 down, more than eight million in all.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Without it, anyone who could intercept internet traffic, such as someone on the same public Wi-Fi, could read what you send.",
+   "t": "A modern phone packs in several hundred per inch, so the dots are invisible at normal distance.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Secret codes are ancient.",
+   "t": "Each pixel is usually made of three subpixels: red, green and blue.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Julius Caesar is said to have shifted each letter three places along the alphabet, so A became D. Such ciphers fall to frequency analysis: E is the most common letter in English, so the most common symbol probably stands for E. The Arab scholar al-Kindi described this in the 9th century.",
+   "t": "Varying their brightness produces millions of colours.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Enigma and the codebreakers.",
+   "t": "Red and green together look yellow, all three at full strength look white, and all off look black.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is additive mixing, the opposite of paint.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It works because the retina has three types of cone cells, and a screen simply stimulates them in the right proportions.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "LCD: a light shutter.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In World War II, Germany used the Enigma machine.",
+   "t": "Most monitors and many televisions use liquid crystal displays, or LCDs.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Its rotating wheels scrambled each letter differently, creating an astronomical number of possible settings, and the settings changed daily.",
+   "t": "Behind the panel is a backlight, today usually LEDs, that shines white light the whole time.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Building on earlier work by Polish mathematicians, British codebreakers at Bletchley Park, including Alan Turing, built machines to find those daily settings.",
+   "t": "In front are two polarising filters set at angles to each other, with a thin layer of liquid crystal between them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Liquid crystals can flow like a liquid yet line up in order, like a crystal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small voltage twists or untwists them, changing how much light gets through the second filter.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The intelligence helped the Allies win the Battle of the Atlantic and is thought to have shortened the war.",
+   "t": "Each subpixel has its own colour filter and tiny transistor.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The effort also helped lay the foundations for modern computing.",
+   "t": "The weakness is that the backlight stays on behind everything, so dark scenes can look slightly grey rather than truly black.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "One key or two.",
+   "t": "OLED: pixels that glow.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In symmetric encryption, the same key locks and unlocks the data.",
+   "t": "OLED stands for organic light-emitting diode.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ciphers like the widely used AES standard are fast and extremely secure, so they protect files, phones and most internet traffic.",
+   "t": "There is no backlight.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The problem is sharing the key.",
+   "t": "Each subpixel is a thin sandwich of carbon-based materials that glow when current passes through.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "For centuries, keys had to be delivered physically, by couriers or in person.",
+   "t": "To show black, a pixel simply turns off, giving deep blacks and strong contrast, and saving battery on phones when much of the screen is dark.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1976, Whitfield Diffie and Martin Hellman published a revolutionary idea, and in 1977 Rivest, Shamir and Adleman created RSA.",
+   "t": "OLED panels can be thin and flexible, which makes folding phones possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trade-offs are cost and ageing.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Public-key encryption uses two linked keys.",
+   "t": "The organic materials slowly lose brightness, and blue ones fade fastest.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Your public key can be shared with anyone to lock messages to you.",
+   "t": "An image left on screen for very long periods, such as a news ticker or game scoreboard, can leave a faint permanent ghost called burn-in.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Only your private key unlocks them.",
+   "t": "Manufacturers fight it with tricks such as subtly shifting the image.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Think of a padlock anyone can snap shut, but only you can open.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The padlock in your browser.",
+   "t": "Frames per second.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "When you see HTTPS and a padlock, a protocol called TLS is protecting the connection.",
+   "t": "A screen never shows true motion.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Your browser checks the site's digital certificate, issued by a trusted authority, to confirm it's the real site.",
+   "t": "It shows a rapid series of still images, like a flipbook.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The two then use public-key techniques to agree on a shared secret key, and switch to fast symmetric encryption for the rest of the session.",
+   "t": "The number of redraws each second is the refresh rate, measured in hertz.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The padlock means the connection is encrypted, not that the website is trustworthy.",
+   "t": "Many screens refresh 60 times a second, while newer phones, gaming monitors and televisions reach 120 hertz or more, making scrolling and fast games feel smoother.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Films are traditionally shot at only 24 frames per second, so a screen often shows each movie frame more than once.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Scam sites can have padlocks too.",
+   "t": "Some phones change their refresh rate on the fly, dropping as low as one hertz for a still image to save battery, then jumping back up as soon as you scroll.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Why it's hard to break.",
+   "t": "The faster your finger moves, the more those extra frames matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Resolution and the eye.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Modern encryption relies on maths that is easy to do one way and extremely hard to reverse.",
+   "t": "More pixels are not always better.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Multiplying two huge prime numbers is easy for a computer.",
+   "t": "Whether you can see the difference depends on pixel size, screen size and viewing distance.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Working out which two primes made the result is enormously hard.",
+   "t": "The eye can only resolve detail down to a certain fineness, and once pixels are smaller than that at your distance, adding more brings little visible gain.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Guessing a 256-bit key by brute force would take longer than the age of the universe.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "So attackers rarely break the maths.",
+   "t": "Apple built its 'Retina' marketing in 2010 around exactly this idea: pixels too small to pick out individually at a typical viewing distance.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They steal passwords, trick people or exploit software bugs.",
+   "t": "It also explains why, for most people watching from the couch, an 8K television offers only a modest improvement over 4K.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Apps like Signal, WhatsApp and iMessage use end-to-end encryption, so only sender and recipient can read messages.",
+   "t": "Contrast, brightness, colour accuracy and how cleanly the screen handles fast motion often matter more to how good a picture actually looks.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Future quantum computers could break some public-key systems, so new post-quantum standards were published in 2024.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Encryption uses a key to turn readable plaintext into scrambled ciphertext that only the key holder can reverse.",
+   "t": "The key idea: Every screen is a grid of pixels, each mixing red, green and blue light to make any colour.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. Blockchain, simply.",
+   "t": "Part three. How your phone camera takes a photo.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "What a blockchain actually is, what it's good for, and what it isn't, without the crypto hype.",
+   "t": "A phone camera's lens is smaller than a pea, yet it can rival cameras costing thousands of dollars.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Trust without a middleman.",
+   "t": "The secret is less about glass and more about software.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light in buckets.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Normally, when you send money online, a trusted middleman such as your bank keeps the official record of who owns what.",
+   "t": "A digital camera uses an image sensor, a silicon chip covered in millions of light-sensitive sites called photosites.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Digital files are easy to copy, so without that middleman, how would anyone stop you spending the same digital dollar twice?",
+   "t": "Each works like a bucket left out in the rain.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A blockchain is a way for many people who don't know or trust each other to agree on a shared record, with no central authority.",
+   "t": "During an exposure, photons strike the silicon and knock electrons loose, and the photosite collects them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brighter light means more charge.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards the charge is measured and turned into a number.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Almost all phones use CMOS sensors, built like computer chips, which made them cheap and power-efficient.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A photosite counts light but cannot see colour.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It's a list of records, usually transactions, that thousands of computers keep identical copies of, often called a distributed ledger.",
+   "t": "Most sensors put a red, green or blue filter over each one, in a checkerboard patented by Kodak's Bryce Bayer in 1976, with twice as many green as red or blue.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Anyone can check it, and no single person or company controls it.",
+   "t": "Software estimates the two missing colours at each point from its neighbours, called demosaicing.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Blocks in a chain.",
+   "t": "The small-sensor problem.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Transactions are grouped into blocks.",
+   "t": "Phones are thin, so their sensors and lenses must be small.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Each block includes a hash of the block before it.",
+   "t": "A full-frame professional sensor is about 36 by 24 millimetres, and most phone sensors are a fraction of that area.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A hash is a digital fingerprint: a short code calculated from the data, which changes completely if even one character changes.",
+   "t": "A smaller sensor gathers less light, so in a dim room each photosite may collect only a few photons.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Because each block holds the previous block's fingerprint, the blocks link into a chain.",
+   "t": "Light arrives randomly, so with few photons the counts fluctuate from one photosite to the next, and the image fills with grainy speckles called noise.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Change anything in an old block and its fingerprint changes, breaking every link after it.",
+   "t": "The electronics add a little of their own.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Because so many copies exist, you can't quietly rewrite history in one place, and everyone else would immediately notice.",
+   "t": "This is a physical limit, not a manufacturing fault, and explains why phone photos once looked so poor indoors and at night.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Agreeing without a boss.",
+   "t": "Cramming in more megapixels can make it worse, because each photosite becomes smaller still.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many photos in one.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The network needs a way to decide who adds the next block.",
+   "t": "The breakthrough was computational photography.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Bitcoin uses proof of work: computers called miners compete to solve a hard mathematical puzzle, and the winner adds the block and earns new bitcoin.",
+   "t": "A modern phone is often already capturing frames before you press the shutter, and combines several into one picture.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "It's deliberately expensive, which makes cheating costly.",
+   "t": "Averaging many frames cancels much of the random noise, much as averaging many people's guesses cancels individual errors.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ethereum switched in 2022 to proof of stake.",
+   "t": "Combining shorter and longer exposures keeps detail in both a bright sky and dark shadows, a technique called high dynamic range, or HDR.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Participants lock up their own coins as a guarantee of good behaviour and risk losing them if they cheat.",
+   "t": "Night modes capture frames over a second or more and align them to correct for shaky hands.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "That cut Ethereum's energy use by more than 99 per cent.",
+   "t": "All this happens in moments on dedicated processors.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Bitcoin, launched in 2009 by the pseudonymous Satoshi Nakamoto, was the first blockchain, with supply capped at 21 million coins.",
+   "t": "The photo you see is not a single instant of light but a carefully assembled composite.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Software makes choices.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ethereum, launched in 2015, added smart contracts: programs on the blockchain that carry out an agreement automatically when set conditions are met.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Useful, but costly.",
+   "t": "After merging frames, the phone keeps editing.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Blockchains are genuinely useful when many parties need a shared, tamper-resistant record and don't want to trust one middleman: sending money across borders, tracking supply chains or proving ownership of a digital item.",
+   "t": "It adjusts white balance so a white shirt looks white under orange indoor light, sharpens edges, smooths skin and boosts colours to look pleasing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many phones recognise what is in the scene, such as food, faces or sky, and treat each part differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Portrait mode imitates the soft background blur of a large lens.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "But many proposed uses would work as well, or better, with an ordinary database run by a trusted organisation.",
+   "t": "A tiny lens produces little natural blur, so software estimates how far away each part of the scene is, using two cameras, depth sensors or machine learning, then blurs the background artificially.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A good question is: why does this need a blockchain?",
+   "t": "Look closely at hair or glasses edges and you can sometimes spot mistakes.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Removing the middleman has costs.",
+   "t": "Different brands make different choices, which is why the same scene can look noticeably different on two phones.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Still a photograph.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Public blockchains can be slower and more expensive than card networks.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bitcoin's electricity use has been estimated to be comparable to that of a mid-sized country.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Transactions generally can't be reversed, and if you lose your wallet's private key, there's no customer service.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Your coins are gone.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Crypto and risk.",
+   "t": "All cameras interpret the world.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Thousands of other cryptocurrencies exist.",
+   "t": "Film chemistry favoured some colours over others, and photographers have always chosen exposure and framing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But phones push interpretation much further, and the line between capturing and creating has blurred.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some features can erase unwanted people from the background, or combine the best expressions from several shots of a group.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A well-known controversy arose in 2023 over phone photos of the Moon.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Many have collapsed, and some were outright scams.",
+   "t": "A tester showed that one brand's processing added lunar detail missing from a deliberately blurred original, drawing on a model trained on what the Moon looks like.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Prices are extremely volatile; a coin can lose most of its value within weeks, and money held on a crypto exchange isn't protected by the government's Financial Claims Scheme the way bank deposits are.",
+   "t": "Most processing is harmless and simply produces better pictures.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 2025, AUSTRAC, Australia's financial crime regulator, limited cash transactions at crypto ATMs to $5,000 after finding they were heavily used by scam victims, many of them older Australians.",
+   "t": "Still, a modern phone photo is best seen as the camera's best estimate of a scene, not a perfect copy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A camera sensor counts photons in millions of tiny photosites, and software later guesses the missing colours.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Crypto is also a favoured scam payment because transfers are fast and hard to reverse.",
-   "c": 2,
-   "k": "s",
+   "t": "Part four. Inside the battery in your pocket.",
+   "c": 3,
+   "k": "head",
    "ps": false
   },
   {
-   "t": "If you choose to invest, use only money you can afford to lose, use reputable Australian-registered exchanges, and be deeply sceptical of anyone promising guaranteed returns.",
-   "c": 2,
+   "t": "Lithium-ion batteries power your phone, laptop, cordless drill and maybe your car.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "This is general information only.",
-   "c": 2,
+   "t": "Knowing how they work explains why they slowly fade, and how to make them last longer.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: A blockchain lets strangers agree on a shared record without a central authority in charge.",
-   "c": 2,
+   "t": "A tiny chemical shuttle.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Every time you unplug your phone, you carry a small chemical machine.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A lithium-ion battery has an anode, usually graphite, and a cathode made from a lithium compound with metals such as cobalt, nickel, manganese or iron.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Between them sit an electrolyte, which lets lithium ions pass, and a thin porous separator that stops the electrodes touching.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the battery powers your phone, lithium ions travel through the electrolyte from anode to cathode.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Electrons take the long way round, through the phone's circuits.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That flow of electrons is the current doing useful work.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Charging pushes everything back the other way.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why lithium.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lithium is the lightest metal, and it is eager to give up an electron.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Together, those traits let a battery store plenty of energy without much weight.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compared with older rechargeables such as nickel cadmium, lithium-ion batteries hold far more energy for their size and lose little charge sitting on a shelf.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They also avoid the memory effect that once led people to drain batteries fully before recharging.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That combination made truly portable electronics possible.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia has a direct stake in this story.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is one of the world's largest miners of lithium, much of it dug from hard rock deposits in Western Australia and shipped overseas for processing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A Nobel-winning invention.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1970s, during the oil crisis, British chemist M. Stanley Whittingham built an early rechargeable lithium battery.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It used pure lithium metal and could be dangerous.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Around 1980, American physicist John Goodenough, working at Oxford, found a cobalt oxide cathode with much higher voltage.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the mid 1980s, Japanese chemist Akira Yoshino swapped the reactive lithium metal for a carbon-based anode, creating a far safer design.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sony sold the first commercial lithium-ion batteries in 1991, in a video camera.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The three scientists shared the 2019 Nobel Prize in Chemistry.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Goodenough was 97, the oldest person ever to receive a Nobel Prize.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fading and charging smarter.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your battery holds less charge after a couple of years because of chemistry, not a conspiracy.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each cycle swells and shrinks the electrodes, and side reactions use up lithium.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A crust grows on the anode and traps lithium that can no longer carry charge.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Heat speeds this up, so a hot car dashboard in an Australian summer is especially bad.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long periods at completely full or empty add stress.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Phones charge fast to about 80 percent, then slow down on purpose to avoid damage.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Partial top-ups are fine.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keeping charge roughly between 20 and 80 percent helps, and optimised charging settings do this for you.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use reputable chargers.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cold only reduces performance temporarily.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Safety and disposal.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lithium-ion batteries are generally very safe, but they pack a lot of energy and a flammable electrolyte.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If one is crushed, punctured, badly made or overcharged without protection, an internal short circuit can heat it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That heat triggers more reactions in a spiral called thermal runaway, which can cause fire.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These fires are hard to put out and can reignite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warning signs are swelling, hissing, unusual heat or a strange smell.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stop using and charging the device, and check your fire service's advice.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Crushed batteries cause fires in garbage trucks and recycling centres.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Keep them out of kerbside bins.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Use a drop-off point, such as the B-cycle scheme's supermarket and hardware store collection points, and tape the terminals first.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A lithium-ion battery works by shuttling lithium ions between two electrodes while electrons do useful work through your device.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. How does your phone work out its distance from a GPS satellite?",
-   "c": 3,
+   "t": "Question one. What makes a resistive touchscreen register a touch?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. By timing how long its signal takes to arrive.",
-   "c": 3,
+   "t": "Answer. Pressing two conductive layers together.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. Why can't someone on the same public Wi-Fi read your encrypted messages?",
-   "c": 3,
+   "t": "Question two. How does a screen produce yellow?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. They lack the key to unscramble the data.",
-   "c": 3,
+   "t": "Answer. It lights red and green subpixels together.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. What problem does a blockchain solve?",
-   "c": 3,
+   "t": "Question three. How does a phone sensor get colour information?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Letting strangers agree on a shared record.",
-   "c": 3,
+   "t": "Answer. Filters over photosites, with software filling the gaps.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. What happens inside the battery as it powers your phone?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Lithium ions move from the anode to the cathode while electrons travel through the circuits.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

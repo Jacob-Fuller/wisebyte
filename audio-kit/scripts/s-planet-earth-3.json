@@ -1,11 +1,12 @@
 {
  "id": "s-planet-earth-3",
- "h": "ice-ages,glaciers,green-sahara",
+ "h": "lightning-thunderstorms,tornadoes,monsoons,australia-climate",
  "title": "Planet Earth & Climate · Episode 3",
  "chapters": [
-  "Ice ages",
-  "Glaciers: rivers of ice",
-  "When the Sahara was green"
+  "Lightning: how storms make electricity",
+  "Tornadoes: the most violent winds on Earth",
+  "Monsoons: the seasons of rain",
+  "Droughts and flooding rains: Australia's weather"
  ],
  "units": [
   {
@@ -15,842 +16,1106 @@
    "ps": false
   },
   {
-   "t": "In this episode: Ice ages, Glaciers: rivers of ice and When the Sahara was green.",
+   "t": "In this episode: Lightning: how storms make electricity, Tornadoes: the most violent winds on Earth, Monsoons: the seasons of rain and Droughts and flooding rains: Australia's weather.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Ice ages.",
+   "t": "Part one. Lightning: how storms make electricity.",
    "c": 0,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Twenty thousand years ago you could have walked from Melbourne to Hobart, and on to New Guinea.",
+   "t": "Somewhere on Earth, lightning strikes dozens of times every second.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The reason lies in a slow wobble in Earth's orbit.",
+   "t": "Here is how a cloud builds up enough electricity to light the sky, why thunder follows, and how to stay safe.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Still in an ice age.",
+   "t": "Hotter than the Sun.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "To geologists, an ice age is any long period when large ice sheets exist on Earth.",
+   "t": "In an instant, a channel of air only a few centimetres wide is heated to roughly 30,000 degrees Celsius, about five times hotter than the visible surface of the Sun.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "By that definition we are living in one now, because Antarctica and Greenland are covered in ice.",
+   "t": "Satellites suggest 40 to 50 flashes every second worldwide, over a billion a year.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The current ice age began about 2.",
+   "t": "Most are over tropical land, where warm, moist air rises fastest.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "6 million years ago.",
+   "t": "Lake Maracaibo in Venezuela, where lake air meets cool mountain winds, is one of the most lightning-rich spots on Earth.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Within it, the climate has swung between cold glacial periods, when ice sheets spread across North America and northern Europe, and shorter warm interglacial periods like today's.",
+   "t": "Central Africa's Congo basin is another, and Australia's tropical north has spectacular storms before the wet season, with Darwin famous for its evening light shows.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lightning also helps life: its heat joins nitrogen and oxygen into compounds that rain carries into soil for plants to use.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Building the charge.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Our interglacial, the Holocene, began about 11,700 years ago.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When people say 'the Ice Age', they usually mean the most recent glacial period, which peaked around 20,000 years ago.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Milankovitch cycles.",
+   "t": "A thunderstorm is a giant vertical engine.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Serbian scientist Milutin Milanković calculated how small orbital changes alter the sunlight reaching different latitudes.",
+   "t": "Warm, humid air rushes upward, cools and condenses into droplets, and near the top they freeze.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Inside, powerful updrafts throw around tiny ice crystals, supercooled water and soft ice pellets called graupel.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When crystals and graupel collide, electric charge is transferred.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lighter crystals, generally positive, are swept to the top, while the heavier graupel, usually negative, gathers lower down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cloud becomes a giant battery, with opposite charges separated by kilometres of air.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Air is a good insulator, so charge keeps building until the insulation finally breaks down.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Exactly how a flash begins is still an active area of research.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leader, stroke and thunder.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Eccentricity, the shape of Earth's orbit, varies over about 100,000 years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Obliquity, the axis tilt, varies between about 22 and 24.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "5 degrees over 41,000 years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Precession, the axis wobble, takes roughly 23,000 years.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Together they change how much summer sunshine reaches the far north, where ice sheets grow and melt.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1976, deep-sea sediment cores confirmed this rhythm.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The nudges are small, but feedbacks amplify them.",
+   "t": "Most lightning never reaches the ground.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Spreading ice reflects more sunlight, and colder oceans absorb more carbon dioxide.",
+   "t": "When a bolt does, it begins with a faint, branching channel of charged air, the stepped leader, zigzagging down.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Antarctic ice cores, going back about 800,000 years, show carbon dioxide at roughly 180 parts per million in glacial periods and about 280 in warm ones.",
+   "t": "Near the ground, tall objects send up streamers.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ice-age Australia.",
+   "t": "When they meet, the circuit is complete and the return stroke, the blinding flash we see, surges up into the cloud.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Several strokes often follow the same channel, making lightning flicker.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Thunder is the sonic boom.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Last Glacial Maximum, roughly 26,000 to 19,000 years ago, was the coldest part of the last glacial period.",
+   "t": "The channel heats so fast that the air expands explosively, sending out a shock wave.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distant thunder rumbles because sound from a long, twisting channel arrives at different times and echoes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sound travels about a third of a kilometre per second, so count the seconds from flash to thunder and divide by three for the distance in kilometres.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Myths that can hurt you.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ice sheets up to about 3 kilometres thick covered Canada, the northern United States and much of northern Europe.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Global temperatures were around 6 degrees Celsius colder than before the industrial era, though figures vary.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Woolly mammoths and cave lions roamed Europe's cold steppes.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia had no large ice sheets, but it was colder, drier and windier, and desert dunes expanded.",
+   "t": "Several popular beliefs about lightning are wrong.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Glaciers carved Tasmania's highlands, including Cradle Mountain's lakes, and small glaciers formed near Mount Kosciuszko.",
+   "t": "It does strike the same place twice.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Willandra Lakes, including Lake Mungo, held water at various times.",
+   "t": "Tall buildings are hit again and again, and the Empire State Building is struck many times every year.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Aboriginal people had already lived here for tens of thousands of years and adapted to these harsh conditions.",
+   "t": "Rubber tyres do not make a car safe.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Lower seas, Sahul.",
+   "t": "A hard-topped car protects you because its metal body carries the current around the outside and into the ground, keeping the people inside out of its path.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lying flat on the ground is poor advice, because current can spread across the surface.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sheltering under a lone tree is one of the worst choices of all: the tree is a likely target, and the current can jump sideways to anyone standing beneath it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying safe in a storm.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "At the Last Glacial Maximum, so much water was locked up in ice that global sea levels were roughly 120 metres lower than today.",
+   "t": "The simplest rule is 'when thunder roars, go indoors'.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Australia, New Guinea and Tasmania formed a single landmass scientists call Sahul.",
+   "t": "If you can hear thunder, the storm is close enough for lightning to reach you, because strikes can land many kilometres from the main storm.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Bass Strait was a broad plain that could be walked across, and a land bridge joined Cape York to New Guinea.",
+   "t": "The safest places are solid buildings with wiring and plumbing, or a hard-topped vehicle with the windows up.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "A similar landmass, Sunda, joined Indonesian islands to Asia.",
+   "t": "Inside, avoid corded phones, running water and touching plugged-in appliances, since current can travel through wiring and pipes.",
    "c": 0,
    "k": "s",
    "ps": false
   },
   {
-   "t": "As the ice melted, seas rose, at times by more than a metre per century.",
+   "t": "Experts generally suggest waiting around 30 minutes after the last thunder before going back outside.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not personal advice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In severe weather, check Bureau of Meteorology warnings and follow your state emergency service's instructions.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A lightning bolt heats a narrow channel of air to several times the Sun's surface temperature, and it strikes constantly.",
    "c": 0,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Tasmania was cut off roughly 12,000 years ago and New Guinea roughly 8,000 years ago, though estimates vary.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Seas reached near present levels about 7,000 years ago.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some researchers suggest certain Aboriginal oral traditions may preserve memories of rising seas, an idea taken seriously but still debated.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What it means for us.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A modest change in sunlight, amplified by ice and carbon dioxide feedbacks, was enough to shift global temperatures by several degrees and sea levels by over 100 metres.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Today, carbon dioxide has risen from about 280 parts per million before industry to well over 400, higher than at any time in the ice-core record and far faster than natural glacial cycles.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "On orbital grounds alone, scientists expect the next glacial period is many tens of thousands of years away, and human emissions may delay it further.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The coastlines we know, and the Aboriginal history written into them, are a reminder that the map is never permanent.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Technically we live in an ice age, in a warm interglacial period that began about 11,700 years ago.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Glaciers: rivers of ice.",
+   "t": "Part two. Tornadoes: the most violent winds on Earth.",
    "c": 1,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Glaciers look frozen in place, but they flow, grind and carve like slow-motion rivers.",
+   "t": "Tornadoes produce the fastest winds measured near the ground, yet they are small, brief and still not fully understood.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "They shaped many of the world's most beautiful landscapes, including some in Tasmania.",
+   "t": "Here is what we do know.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ice that moves.",
+   "t": "Born in supercells.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Stand beside a glacier in New Zealand or Alaska and you will hear it creak, groan and sometimes crack like a gunshot, because it is moving.",
+   "t": "A tornado is a column of rapidly spinning air touching both the ground and the base of a thunderstorm.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A glacier is a large body of ice that forms on land and flows downhill or outward under its own weight.",
+   "t": "Many show as a funnel because falling pressure condenses moisture and dust thickens the shape.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Most move perhaps tens of centimetres to a few metres a day, though some outlet glaciers in Greenland and Antarctica race along at many kilometres a year.",
+   "t": "Most last a few minutes and travel a few kilometres, but a few become monsters, hundreds of metres wide and tens of kilometres long.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Glaciers and ice sheets together hold most of the planet's fresh water, around two thirds by common estimates.",
+   "t": "The powerful ones form in supercells.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Glaciers exist on every continent except mainland Australia, from tropical peaks in South America and Africa to the polar regions.",
+   "t": "Warm, moist air near the ground, cooler, drier air above, a lifting trigger and wind shear, winds changing speed and direction with height, set the lower atmosphere rolling horizontally.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "From snow to flowing ice.",
+   "t": "A strong updraft tilts that roll upright, so the updraft rotates.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This broad column is a mesocyclone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why only some supercells produce tornadoes is still being researched.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tornado Alley.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Every glacier begins as snow.",
+   "t": "The United States records on the order of a thousand or more tornadoes in a typical year, far more than any other country.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Where more falls in winter than melts in summer, it builds up year after year.",
+   "t": "Warm, humid air flows north from the Gulf of Mexico, dry air descends from the Rockies and south west deserts, and cold air sweeps down from Canada.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "As new layers pile on, older snow is compressed into rounded grains called firn.",
+   "t": "They meet over flat plains, with no east to west mountain range to keep them apart.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Over years to centuries the firn is squeezed until the air spaces close off as tiny bubbles and it becomes solid glacier ice.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Thick ice absorbs red light, which is why deep crevasses glow blue, and the trapped bubbles preserve samples of ancient air.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Under enough pressure, solid ice behaves a little like stiff toffee.",
+   "t": "The region from Texas to South Dakota is nicknamed Tornado Alley, and the south east sees many deadly tornadoes too.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Its crystals slowly deform and slide past one another, and many glaciers also slide on meltwater at their base.",
+   "t": "The Tri-State Tornado of 1925 killed nearly 700 people across Missouri, Illinois and Indiana.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The brittle surface cracks into crevasses, which can be tens of metres deep and hidden under snow bridges.",
+   "t": "Bangladesh, however, suffered the deadliest tornado on record, in 1989.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Nature's bulldozers.",
+   "t": "Measuring the unmeasurable.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "As a glacier moves, it plucks rocks from its bed and drags them along like sandpaper.",
+   "t": "Ordinary instruments are usually destroyed by a tornado, or simply not in the right place.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A river usually cuts a narrow V-shaped valley, but a glacier widens and deepens it into a broad U with steep walls.",
+   "t": "In 1971 the meteorologist Ted Fujita created a scale that estimated wind speed from the damage left behind.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "At the head of a glacier, ice gouges a bowl-shaped hollow called a cirque, which often holds a lake after the ice melts.",
+   "t": "The United States replaced it in 2007 with the Enhanced Fujita scale, which runs from EF0, peeling shingles and breaking branches, to EF5, where well built houses are swept off their foundations.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Where several cirques eat into a mountain from different sides, they leave a sharp pyramid peak, as with the Matterhorn in the Alps.",
+   "t": "EF5 winds are estimated at over 320 kilometres per hour.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "When glaciers carve valleys below sea level and the ice later retreats, the sea floods in, creating fjords like those of Norway and Fiordland in New Zealand.",
+   "t": "Portable Doppler radar has since let scientists chase storms and measure winds inside them.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "What glaciers leave behind.",
+   "t": "During the Oklahoma outbreak of May 1999, a truck-mounted radar recorded winds of around 480 kilometres per hour, among the highest ever measured on Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Tornadoes in Australia.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Glaciers are messy.",
+   "t": "Many Australians are surprised to learn tornadoes happen here.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Everything they carry, from fine rock flour to boulders the size of houses, is dumped where the ice melts.",
+   "t": "They are reported every year, most often in the south west of Western Australia, along the eastern seaboard and in parts of inland New South Wales and Queensland, and some are spawned by tropical cyclones coming ashore.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ridges of this debris are called moraines, and they mark the sides and furthest reach of old glaciers.",
+   "t": "Most are short-lived and weak, but destructive ones occur, such as the tornado that tore through Bucca in Queensland in 1992.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Huge lone boulders sitting far from any matching rock are glacial erratics.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In the 1800s, scientists such as Louis Agassiz used clues like these to argue that much of Europe had once been buried under ice, an idea that was startling at the time.",
-   "c": 1,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Meltwater is milky with fine rock flour, which is why glacier-fed lakes often glow turquoise, as at Lake Tekapo in New Zealand and Lake Louise in Canada.",
+   "t": "A common confusion is worth clearing up.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Tasmania and a warming world.",
+   "t": "The 'willy-willy' of outback folklore is usually a dust devil, a spinning column of air that forms on hot, clear days from heated ground, not from a storm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dust devils are mostly harmless curiosities, while true tornadoes need a thunderstorm overhead.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Staying safe.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Mainland Australia has no glaciers today, and saw only small ones in the Snowy Mountains during the last ice age.",
+   "t": "Take warnings seriously.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Tasmania tells a different story.",
+   "t": "In Australia, follow the Bureau of Meteorology's severe thunderstorm warnings, and call 000 in a life-threatening emergency.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ice caps and glaciers once covered parts of the Central Highlands and West Coast ranges.",
+   "t": "If a tornado approaches, go to the lowest floor of a sturdy building and into a small interior room, such as a bathroom or hallway, with as many walls as possible between you and the outside.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Dove Lake, beneath Cradle Mountain, sits in a basin carved by ice, and Lake St Clair, Australia's deepest freshwater lake, was also shaped by glaciers.",
+   "t": "Stay away from windows, and cover your head and neck.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Heard Island, an Australian territory in the Southern Ocean, still has active glaciers.",
+   "t": "Cars and caravans offer poor protection.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Worldwide, most mountain glaciers are losing ice, linked to rising temperatures.",
+   "t": "One old myth deserves retiring.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Their meltwater feeds rivers that supply many millions of people, and shrinking glaciers may mean lower summer flows.",
+   "t": "People were once told to open windows so the house would not explode from low pressure.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 2019 Iceland held a memorial for Okjokull, a glacier that had lost so much ice it was no longer considered one.",
+   "t": "In fact, houses are destroyed by wind and flying debris, and time spent opening windows is time not spent sheltering.",
    "c": 1,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: A glacier is a large mass of ice that flows downhill under its own weight.",
+   "t": "The key idea: A tornado is a violently rotating column of air from a storm cloud to the ground, and the strongest come from supercells.",
    "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part three. When the Sahara was green.",
+   "t": "Part three. Monsoons: the seasons of rain.",
    "c": 2,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Ten thousand years ago, people fished, swam and herded cattle across land that is now the world's largest hot desert.",
+   "t": "For billions of people, the most important weather event of the year is the arrival of the monsoon.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A wobble in Earth's orbit explains how.",
+   "t": "Its rains decide harvests, rivers and even history.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Hippos in the desert.",
+   "t": "More than rain.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The Sahara covers around nine million square kilometres of North Africa, larger than Australia, and much of it gets almost no rain.",
+   "t": "The word monsoon comes, through Portuguese and Dutch, from the Arabic mawsim, meaning season.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Yet clues to a different past are scattered across it.",
+   "t": "People often use it to mean heavy rain, but strictly a monsoon is a pattern of winds that reverses direction with the seasons.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Rock paintings and engravings at places like Tassili n'Ajjer in Algeria show giraffes, elephants, rhinoceroses, hippopotamuses and herds of cattle.",
+   "t": "For part of the year, winds blow in from the ocean, carrying moisture and bringing a long wet season.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Fossilised crocodile and fish bones lie in bare sand, and ancient shorelines mark vanished lakes.",
+   "t": "For the rest, they blow from the land, bringing dry weather.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Mega-Lake Chad once covered hundreds of thousands of square kilometres.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Scientists call this wetter time the African Humid Period, lasting roughly from 15,000 to 5,000 years ago.",
+   "t": "Monsoons affect South Asia, East and South East Asia, West Africa, northern Australia and parts of the Americas.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In 1933 explorer László Almásy found the Cave of Swimmers in Egypt's Gilf Kebir, whose figures appear to swim, though some researchers think they may be spiritual rather than literal.",
+   "t": "The South Asian monsoon is the largest and most famous, and it shapes the lives and livelihoods of well over a billion people.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The orbital wobble.",
+   "t": "How the engine works.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The main driver was astronomical.",
+   "t": "The basic driver is simple.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Earth's axis slowly wobbles, like a spinning top, in a cycle of roughly 20,000 to 26,000 years called precession.",
+   "t": "Land heats and cools much faster than the ocean.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This changes the time of year when Earth is closest to the Sun.",
+   "t": "In late spring and summer the land warms strongly, and the hot air above it rises, creating lower pressure near the ground.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Around 10,000 years ago the Northern Hemisphere was closest during its summer, so North Africa received noticeably more summer sunshine than today.",
+   "t": "Cooler, moist air flows in from the ocean to replace it.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Stronger heating over the land drew the West African monsoon much further north, carrying rain deep into what is now desert.",
+   "t": "As that humid air is lifted, by heating or by mountains, it cools and drops its moisture as rain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In winter the pattern reverses, as the land becomes cooler than the sea.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The real picture is more complicated.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Feedbacks amplified the change: plants and lakes darkened the landscape and recycled moisture into the air, helping the rains persist.",
+   "t": "The monsoon is also tied to the seasonal migration of the tropical rain belt, the Intertropical Convergence Zone, which follows the Sun's strongest heating north and south through the year.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The opposite process eventually dried the region out.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "People of the green Sahara.",
+   "t": "India's great monsoon.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "People moved into the Sahara as it greened.",
+   "t": "Each year the India Meteorological Department watches for the monsoon to arrive on the coast of Kerala, at India's southern tip, typically around 1 June.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "At Gobero, in Niger, archaeologists working from 2000 onwards uncovered graves of communities who lived beside an ancient lake.",
+   "t": "Over the following weeks the rains push north and usually cover almost the whole country by early to mid-July.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Their remains lay with bone harpoons, fish hooks and pottery, along with bones of fish, turtles and crocodiles.",
+   "t": "The South West monsoon delivers roughly three quarters of India's annual rainfall in just four months.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "One moving burial held a woman and two children, apparently laid to rest together.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Across the region people made some of the world's early pottery and, later, took up cattle herding as conditions became drier and less predictable.",
+   "t": "The Himalaya and the high Tibetan Plateau play a crucial role.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Rock art shows people with herds and dogs.",
+   "t": "The plateau heats strongly in summer, helping power the circulation, while the mountains keep the moisture over the subcontinent.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "This was not a single culture but many groups, adapting over thousands of years to a landscape that kept changing around them.",
+   "t": "A good monsoon fills reservoirs, recharges groundwater and feeds rice and other crops.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Drying out.",
+   "t": "A weak one can mean drought, falling harvests and rising food prices.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The wettest places on Earth.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "As Earth's orbit continued its slow cycle, summer sunshine in North Africa weakened and the monsoon retreated south.",
+   "t": "Some of the wettest places on Earth are in the Khasi Hills of Meghalaya, in north east India.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The lakes shrank, the grasslands thinned and the Sahara became desert again around 5,000 years ago.",
+   "t": "Monsoon winds loaded with moisture from the Bay of Bengal are forced up steep slopes and wring out torrential rain.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Scientists still debate how quickly.",
+   "t": "The village of Mawsynram averages close to 12 metres of rain a year, among the highest averages anywhere.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nearby Cherrapunji holds a famous record: in the twelve months from August 1860 to July 1861 it received more than 26 metres.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People have adapted in remarkable ways.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Ocean sediments, which record dust blown off Africa, suggest a fairly abrupt shift over a few centuries.",
+   "t": "Some Khasi villages have grown living bridges by training the roots of rubber fig trees across rivers over many years, creating structures that grow stronger with age.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Lake and pollen records suggest a more gradual drying that varied by place.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The people there had to adapt, and many appear to have moved towards more reliable water, including the Nile Valley.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some archaeologists suggest this migration played a part in the rise of early Egyptian civilisation, though that link remains a hypothesis.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A desert that breathes.",
+   "t": "Trade and Australia's monsoon.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "The green period was not unique.",
+   "t": "Because monsoon winds blow reliably one way for part of the year and the other way later, a ship could sail across the Arabian Sea and return when the winds reversed.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Sediment records show the Sahara has swung between desert and grassland many times over hundreds of thousands of years, roughly in step with the precession cycle.",
+   "t": "Arab, Indian, Persian, African, and later Greek and Roman merchants used this to trade spices, pepper, textiles, gems and gold between East Africa, Arabia, India and South East Asia.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "These green corridors may have opened routes for animals and early humans to move out of Africa.",
+   "t": "A first century Greek guidebook, the Periplus of the Erythraean Sea, describes these routes.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Even as a desert, the Sahara shapes the planet.",
+   "t": "Australia has a monsoon too.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Winds lift hundreds of millions of tonnes of dust each year and carry it across the Atlantic.",
+   "t": "Across the Top End, the Kimberley and Cape York, the wet season runs roughly November or December to March, with north westerly winds, heavy rain and humidity, arriving in active bursts and breaks.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Much comes from the Bodele Depression in Chad, the dried bed of the old mega-lake.",
+   "t": "First Nations peoples of the north recognise many more seasons than two, based on detailed knowledge of weather, plants and animals.",
    "c": 2,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Satellite studies suggest this dust delivers phosphorus and other nutrients to the Amazon rainforest, helping fertilise one of Earth's richest ecosystems.",
+   "t": "The key idea: A monsoon is a seasonal reversal of winds that brings a wet season and a dry season, and the word means season.",
    "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Droughts and flooding rains: Australia's weather.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Why Australia swings between drought and flood, and what El Niño and La Niña actually mean.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why so dry.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dorothea Mackellar's 1908 poem My Country described 'a land of sweeping plains...",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "of droughts and flooding rains'.",
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: Rock art, fossils and ancient shorelines show the Sahara once had lakes, grasslands and large animals.",
-   "c": 2,
+   "t": "She was right.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia is the driest inhabited continent, and its rainfall varies more from year to year than almost anywhere else.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long droughts, like the Millennium Drought from about 1997 to 2009, can be broken by devastating floods, like those in Queensland in 2010-11.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Much of Australia lies between about 20 and 35 degrees south, where sinking dry air creates belts of high pressure, the same kind of belt that makes the Sahara and Kalahari.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "High pressure means clear skies.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The land is also flat, with few mountains to force moist air upwards, and the interior is far from the sea.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So about 70 per cent is arid or semi-arid, and most people live near the wetter coast.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "El Niño and La Niña.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The biggest driver of year-to-year rainfall in eastern Australia is the El Niño-Southern Oscillation, or ENSO, a pattern in the tropical Pacific Ocean.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Normally, trade winds pile warm water near Australia and Indonesia, which fuels rain clouds.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During El Niño, the winds weaken and warm water spreads east towards South America.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The rain moves with it, so eastern Australia often gets drier conditions, hotter days and higher bushfire risk.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "La Niña is the opposite.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Stronger trade winds pile even more warm water near Australia, bringing more evaporation, cloud and rain to eastern and northern Australia, and a higher chance of floods and cyclones.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Three La Niña years in a row from 2020 to 2022 brought record floods to parts of New South Wales and Queensland.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Indian Ocean and Southern Ocean.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Indian Ocean has its own pattern, the Indian Ocean Dipole, or IOD: a difference in sea temperature between the western and eastern Indian Ocean.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a positive IOD, cooler water near Australia means less moisture and often drier conditions for southern and central Australia in winter and spring.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A negative IOD tends to bring more rain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2019 a strong positive IOD helped bring the extreme drought and heat behind the Black Summer bushfires.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Southern Annular Mode describes the movement of the westerly winds circling Antarctica.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When they and their cold fronts shift south, southern Australia gets less winter rain.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When they shift north, more storms reach Melbourne, Adelaide and Perth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The westerlies have tended to sit further south in recent decades, contributing to declining winter rainfall in south-west Western Australia.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bushfire weather.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Bushfires need fuel, dry conditions, heat and wind, plus an ignition source like lightning.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wet La Niña years can grow extra grass and scrub, which then dries out and provides more fuel.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hot, dry winds ahead of cold fronts create the most dangerous fire weather.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's Fire Danger Rating system, updated in 2022, has four levels: Moderate, High, Extreme and Catastrophic.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Black Summer fires of 2019-20 burned more than 24 million hectares.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Climate change is making dangerous fire weather more frequent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading the forecast.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Bureau of Meteorology monitors ENSO, the IOD and the Southern Annular Mode, and publishes long-range outlooks showing the chances of wetter or drier, warmer or cooler conditions over the coming months.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These help farmers decide what to plant, water authorities plan storage and emergency services prepare.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For everyday life, it's worth knowing your local risks, whether flood, fire, cyclone or heat.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Have an emergency plan, and follow warnings through the official apps of your state emergency services.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Australia is the driest inhabited continent, with rainfall that swings between drought and flood.",
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. Why do geologists say we are still in an ice age?",
-   "c": 3,
+   "t": "Question one. Where is lightning most common?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Ice sheets still cover Antarctica and Greenland.",
-   "c": 3,
+   "t": "Answer. Over tropical land, where warm air rises.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. What makes a glacier move?",
-   "c": 3,
+   "t": "Question two. What is a mesocyclone?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Its own weight pulling it downhill.",
-   "c": 3,
+   "t": "Answer. A rotating updraft in a supercell storm.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Which of these is evidence that the Sahara was once green?",
-   "c": 3,
+   "t": "Question three. Strictly speaking, what is a monsoon?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. Rock art showing hippos and cattle.",
-   "c": 3,
+   "t": "Answer. Winds that reverse with the seasons.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why is so much of Australia dry?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Sinking dry air, flat land and few mountains.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

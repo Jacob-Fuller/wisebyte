@@ -1,12 +1,12 @@
 {
  "id": "s-critical-thinking-3",
- "h": "statistics,regression-to-the-mean,evidence,science-vs-pseudoscience",
+ "h": "law-of-small-numbers,statistics,regression-to-the-mean,berksons-paradox",
  "title": "Critical Thinking · Episode 3",
  "chapters": [
+  "Small samples, big surprises: the law of small numbers",
   "How statistics can mislead",
   "Regression to the mean: why extremes don't last",
-  "How to judge a claim",
-  "Science or pseudoscience? How to tell the difference"
+  "Berkson's paradox: when filtering creates false patterns"
  ],
  "units": [
   {
@@ -16,1267 +16,1261 @@
    "ps": false
   },
   {
-   "t": "In this episode: How statistics can mislead, Regression to the mean: why extremes don't last, How to judge a claim and Science or pseudoscience? How to tell the difference.",
+   "t": "In this episode: Small samples, big surprises: the law of small numbers, How statistics can mislead, Regression to the mean: why extremes don't last and Berkson's paradox: when filtering creates false patterns.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. How statistics can mislead.",
+   "t": "Part one. Small samples, big surprises: the law of small numbers.",
    "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The places with the lowest cancer rates and the highest ones share the same surprising feature.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Understanding why will change how you read every ranking and review.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A puzzle about cancer maps.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Imagine a map of the United States showing kidney cancer rates by county.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The counties with the lowest rates are mostly rural and sparsely populated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fresh air, clean water, active lives?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Now look at the counties with the highest rates.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They are also mostly rural and sparsely populated.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Rural life can't be both protective and harmful.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The statistician Howard Wainer, and later Daniel Kahneman in Thinking, Fast and Slow, explained why: small counties have small populations, and small numbers bounce around far more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toss a fair coin four times and all heads happens about one time in sixteen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Toss it 400 times and it is practically impossible.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Small samples crowd both the top and the bottom of any ranking.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The hospital question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early 1970s Amos Tversky and Daniel Kahneman posed a question.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A town has two hospitals.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the larger one about 45 babies are born each day, and in the smaller one about 15.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roughly half of all babies are boys, but the exact share varies from day to day.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over a year, each hospital records the days when more than 60 per cent of the babies born were boys.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Which hospital recorded more such days?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people said about the same.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right answer is the smaller hospital, because with only 15 births a day, lopsided results are much more common.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In an earlier paper titled ‘Belief in the law of small numbers’, they had shown that even research psychologists trusted small samples too much.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The most dangerous equation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The maths traces back to the 1700s and the French-born mathematician Abraham de Moivre.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In modern terms, the typical wobble in an average shrinks in proportion to the square root of the number of things being averaged.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That has a sobering consequence.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To halve the uncertainty in an estimate, you don't need twice as much data; you need four times as much.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "To cut it to a tenth, you need a hundred times more.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Howard Wainer has called this ‘the most dangerous equation’, not because it's complicated, but because ignoring it has led to so many costly mistakes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It explains why tiny trials, small surveys and short track records can be so misleading.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The small schools mistake.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wainer's favourite cautionary tale involves American education.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "From the late 1990s, reformers noticed that small schools were overrepresented among the top performers on test results.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Major funders, including the Bill and Melinda Gates Foundation, invested heavily in creating smaller schools and breaking up big ones.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But as Wainer and colleagues pointed out, small schools were also overrepresented among the worst performers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their results were simply more variable, because each year's scores came from fewer students.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Evaluations of the small-schools push produced mixed results, and the Gates Foundation later shifted its education strategy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whatever the other merits of smaller schools, the striking rankings had been at least partly an illusion created by sample size.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Reading rankings wisely.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Once you know this, you'll see it everywhere.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A new café with five reviews averaging five stars may be no better than an established one averaging 4.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "6 from 2,000 reviews.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A footballer who scores in each of their first three games isn't necessarily a star.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A small study reporting a dramatic effect is more likely to be a fluke than a large study reporting a modest one.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A useful habit is to mentally pull extreme results from small samples back towards the average until more evidence comes in.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Statisticians have formal versions of this idea, sometimes called shrinkage.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "And when you hear that a small town is the best or worst place for something, your first question should be: how many people live there?",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The places that look healthiest and unhealthiest are often the least populated, because small samples swing to extremes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. How statistics can mislead.",
+   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "The numbers can be true and still tell a false story.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Here's how to spot the tricks.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Averages and extremes.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Most misleading statistics aren't lies; the numbers are accurate.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The deception is in what's included, what's left out, how it's compared and how it's shown.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The 1954 book How to Lie with Statistics by Darrell Huff became a bestseller because its tricks were so common.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most still are.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The 'average' usually means the mean: add everything up and divide.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "But extremes drag the mean around.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "If a billionaire walks into a café, the mean wealth of the customers soars, though nobody else got richer.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The median, the middle value when everything is lined up, is often more representative for skewed data like incomes and house prices.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "When someone quotes an average, ask which one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Percentages and pictures.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "If an interest rate rises from 4 per cent to 5 per cent, that's one percentage point but a 25 per cent increase.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "If support for something rises from 10 per cent to 15 per cent, that's 5 percentage points, or a 50 per cent increase.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Both are correct, and people choose whichever sounds more impressive.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A 200 per cent increase in something rare might mean going from 1 case to 3.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Graphs mislead too.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The classic trick is a truncated y-axis: starting at 95 instead of 0 makes a small change look like a leap.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A convenient start and end date can make a trend look up or down.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Two lines on different scales can seem connected.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Check the axis labels, starting point and timeframe before reacting.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Who is missing.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "A statistic is only as good as its sample.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Online polls anyone can vote in attract people with strong opinions and can be flooded by campaigns.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1936, the Literary Digest polled millions, drawing largely on car owners and telephone directories, and those who replied leaned heavily one way.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "It predicted a landslide defeat for Roosevelt.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "He won by a landslide.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "A well-designed random sample of around 1,000 is usually far more accurate than a huge biased one.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Survivorship bias is similar.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In World War II, the US military studied returning bombers to decide where to add armour.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Statistician Abraham Wald noted they only saw planes that survived: the areas without holes, like the engines, were where hits brought planes down.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Studying only successful businesses or old buildings still standing makes the same mistake.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Simpson's paradox.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Sometimes a trend that appears in every subgroup reverses when the data is combined.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a well-known 1973 case, the University of California, Berkeley appeared to admit men at a higher rate than women overall.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "But when researchers looked department by department, women were admitted at similar or higher rates in most departments.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The overall gap arose because women applied more often to highly competitive departments.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "The lesson: how data is grouped can completely change its story.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "Questions to ask.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "When you meet a striking statistic, ask: Who collected it, and do they have an agenda?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "How was the sample chosen, and how big was it?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Is it an average, and which kind?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Is it a relative or absolute change?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Compared with what, and over what time period?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "What's left out?",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": false
   },
   {
    "t": "Reputable sources, like the Australian Bureau of Statistics, publish their methods so you can check.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "You don't need to be a mathematician to ask good questions about numbers.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
    "t": "The key idea: Accurate statistics can still mislead, and the median is often more representative than the mean when data is skewed.",
-   "c": 0,
+   "c": 1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part two. Regression to the mean: why extremes don't last.",
-   "c": 1,
+   "t": "Part three. Regression to the mean: why extremes don't last.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "A footballer has a dream season, then a so-so one.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A new treatment seems to cure your worst week.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Often the real cause is a quiet statistical force.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The flight instructors.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The psychologist Daniel Kahneman told of teaching Israeli air force flight instructors.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "One objected that praise works better than punishment.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When he praised an excellent manoeuvre, he said, the next attempt was usually worse.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When he shouted at a bad one, the next was usually better.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Kahneman realised the instructor saw something real but drew the wrong conclusion.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "An unusually good flight is partly skill and partly luck, and luck tends not to repeat.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "So the next attempt is likely to be closer to average, whatever the instructor says.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The same goes for unusually bad flights.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The praise and shouting were mostly irrelevant.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "This pattern is called regression to the mean.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Skill plus luck.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Think of any performance as skill plus luck.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Skill is fairly stable.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Luck bounces around randomly.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "When you pick out an extreme result, the very best or worst, you are partly selecting for skill and partly for unusually good or bad luck.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Next time the skill remains, but the luck is likely to be more ordinary, so the result moves back towards typical.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Crucially, no cause is needed.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Nobody got lazy or complacent.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The more luck matters, the stronger the pull to average.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pure skill wouldn't regress; pure luck would regress completely.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Francis Galton noticed it in the 1880s: very tall parents tended to have tall children, but on average not quite as tall.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It describes groups, not destiny.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Curses and jinxes.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "People joke about the Sports Illustrated cover jinx: athletes on the American magazine's cover often seem to slump soon after.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Similar talk follows big award winners and players who sign large contracts.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "But think about when someone lands on a cover.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "It is usually after a remarkable stretch, often their best ever, which almost certainly involved some good luck.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The following season is likely to be closer to their usual level, which looks like a slump by comparison.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "No curse required.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The same logic applies to businesses praised after a record year, fund managers who topped the charts and restaurants that have just won an award.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Picking people at their peak practically guarantees an apparent decline afterwards.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Medicine and control groups.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "When are you most likely to try a new remedy for back pain, a headache or a cold?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Usually when symptoms are at their worst.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many conditions naturally fluctuate, so after a bad patch things are likely to improve somewhat, whatever you do.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "If you took a remedy at the peak, it will seem to have worked.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "That is a major reason researchers use control groups.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a well designed trial, some patients get the treatment and others get a placebo or standard care, and both groups are chosen in the same way.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Regression affects both equally, so only a genuine difference between them shows a real effect.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "This is general information, so speak to a health professional about your own situation.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Blackspots and big claims.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Imagine cameras installed at the intersections with the most crashes last year.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Next year, crashes there fall.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Success?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Partly, perhaps.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "But some sites topped the list through an unusually unlucky year and would have improved anyway.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Road safety researchers account for this by comparing treated sites with similar untreated ones, or by using several years of data.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The trap also appears in schools, where extra help goes to the lowest scorers, and in workplaces, where struggling teams get a new manager.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "So when something is chosen for being extreme, expect it to look less extreme next time, and ask what would have happened without the intervention.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Kahneman's instructors weren't wrong about what they saw, only about why.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Praise seemed to make pilots worse and criticism seemed to make them better.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. How to judge a claim.",
-   "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "'Scientists say…', 'A study found…'.",
    "c": 2,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A practical checklist for deciding what to believe.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Not all evidence is equal.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Anecdotes, expert opinions, single studies and large reviews all count as 'evidence', but they're not equally reliable.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Personal stories and opinions sit near the bottom.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Above them come observational studies, then randomised controlled trials.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Near the top are systematic reviews and meta-analyses, which combine many good studies.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "One study rarely settles a question.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Small studies can also produce dramatic results by chance.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Getting 7 heads in 10 coin flips isn't unusual; 7,000 heads in 10,000 flips would be astonishing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A treatment that 'worked for 8 of 10 people' is far less convincing than one tested on thousands.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Surprising small-study findings often shrink in larger studies, the decline effect.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Compared with what.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Without a comparison group, you can't tell whether an improvement came from the treatment, the placebo effect or people simply getting better on their own.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The choice of comparison matters too.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A new drug that beats a sugar pill may still be worse than the treatment doctors already use, so the most useful trials test new options against standard care.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Be wary of comparisons with patients from years earlier, or with people who chose not to take part, since they may differ in many ways.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When you read about a study, ask: compared with what?",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Risk needs numbers.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "'Doubles your risk' sounds alarming, but if risk goes from 1 in 100,000 to 2 in 100,000, the absolute change is tiny.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Headlines prefer relative numbers because they sound bigger.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "'Cuts risk by 50 per cent' might mean 2 in 1,000 falling to 1 in 1,000.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Always ask: out of how many people?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Rarity also matters.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Imagine a disease affecting 1 in 1,000 people and a test that's 99 per cent accurate.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Test 1,000 people: about 1 has the disease and tests positive, but about 10 of the 999 healthy people also test positive by mistake.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A positive result means only about a 1 in 11 chance of having it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That's why doctors often confirm with a second test.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Who says so.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Ask who's making the claim and what they gain if you believe it.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Research funded by companies with a stake isn't automatically wrong, but it's more likely to favour the sponsor, so independent confirmation matters.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Be wary of claims that appear only on sites selling a product.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Is the source a peer-reviewed journal, a reputable organisation like the CSIRO or a university, or a press release, blog or social post?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Astronomer Carl Sagan popularised the principle that extraordinary claims require extraordinary evidence.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Be alert to miracle breakthroughs, 'what they don't want you to know', testimonials instead of data, attacks on mainstream experts and pressure to buy now.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Real breakthroughs are usually cautious and replicated by independent teams.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A quick checklist.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Next time you meet a claim, run through six questions.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "What's the source, and could they be biased?",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "What kind of evidence is it: anecdote, observational study or trial?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "How many people were studied?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Compared with what?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What are the absolute numbers?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "And what do most experts in the field think?",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "You won't always have time to check everything, but even asking two or three of these questions will make you far harder to fool.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The key idea: Evidence has a hierarchy, and small studies can produce dramatic results by chance, so the weight of evidence matters more than any single study.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Science or pseudoscience? How to tell the difference.",
+   "t": "Part four. Berkson's paradox: when filtering creates false patterns.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Astrology, crystal healing and a revolutionary new diet can all sound scientific.",
+   "t": "Why do the best restaurants seem to be in the worst locations, and why do attractive dates seem more likely to be rude?",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "A few sharp questions reveal which ideas are willing to be proven wrong.",
+   "t": "The answer is a sneaky trick of selection.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Popper and falsifiability.",
+   "t": "A strange hospital pattern.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In Vienna after the First World War, young Karl Popper was surrounded by bold ideas.",
+   "t": "In 1946, the American statistician Joseph Berkson pointed out a puzzle in medical research.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Einstein's relativity made a risky prediction: starlight passing the Sun should bend by a specific amount.",
+   "t": "Among hospital patients, two unrelated conditions could appear linked, found together more or less often than in the general population.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "In 1919, expeditions led by Arthur Eddington measured starlight during a solar eclipse and supported Einstein.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The theory could have failed, and it didn't.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Some popular theories of psychology and history, by contrast, explained every possible outcome.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Popper saw that as a weakness.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "His answer to the problem of separating science from non-science was falsifiability.",
+   "t": "The reason was how patients got into the data.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "'All swans are white' is falsifiable: one black swan breaks it, and Europeans found black swans in Western Australia.",
+   "t": "People are admitted because they have one condition or another, or both.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "'Invisible fairies tend my garden but leave no trace' isn't.",
+   "t": "Studying only hospital patients filters the population by those very conditions, and that filtering alone can create a statistical relationship that doesn't exist in the wider world.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Falsifiable doesn't mean false, just testable.",
+   "t": "This is now called Berkson's paradox.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Ask what would prove an idea wrong.",
+   "t": "It is a cousin of selection bias, and once you know it, you spot it in dating, hiring, restaurants and headlines.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The warning signs.",
+   "t": "The dating puzzle.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Pseudoscience is dressed up to look scientific without behaving like science.",
+   "t": "The mathematician Jordan Ellenberg popularised this example.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It shows familiar warning signs.",
+   "t": "Suppose someone will only date a person who is reasonably kind, reasonably attractive, or both.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Claims are vague, so they can't easily be checked.",
+   "t": "In the general population, imagine kindness and looks are unrelated.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Evidence comes mainly from testimonials and anecdotes rather than controlled studies.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Scientific words such as 'quantum', 'energy' and 'frequency' are borrowed for glamour without precise meaning.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When a test fails, excuses appear: the sceptic's negative energy interfered.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The idea hasn't changed for decades despite new evidence.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Critics are dismissed as closed-minded.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "And there is often something to buy.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "No single sign proves an idea is bogus, but when several appear together, look much more carefully before you believe or spend.",
+   "t": "Now look only at the people this person actually dates.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Astrology under test.",
+   "t": "Anyone neither kind nor attractive has been filtered out.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Among those left, the attractive ones only needed to clear one bar, so many aren't especially kind.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kind ones are often not especially attractive.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Within this group, looks and kindness seem to be opposites, and it feels as though attractive people are more likely to be rude.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nothing about the people changed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The filter created the pattern.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Draw it to see it.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Astrology makes claims that can, in principle, be tested: your birth chart is said to reveal your personality.",
+   "t": "Picture a square scatter plot with talent along one axis and charm along the other.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "In a 1985 study in the journal Nature, physicist Shawn Carlson ran a double-blind test with astrologers who had agreed to the method in advance.",
+   "t": "If the traits are unrelated, the dots fill the square evenly, with no tilt.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "They were given birth charts and asked to match each to the correct personality profile from a small set of options.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Their success rate was about what guessing would produce.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Other studies have looked for links between star signs and personality or career and generally found nothing meaningful.",
+   "t": "Now add a rule: only people whose talent plus charm exceeds a certain total are admitted.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Astrology can still be enjoyable, a prompt for reflection or a bit of fun.",
+   "t": "Draw a diagonal line across the lower left corner and remove every dot beneath it.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "But as a scientific claim about how people work, it hasn't passed the test.",
+   "t": "The remaining dots now slope downwards.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Homeopathy in Australia.",
+   "t": "Among those who passed, the most talented tend to be less charming, and the most charming less talented.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A negative correlation has appeared from nowhere.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is the essence of the paradox.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Homeopathy was developed in Germany around 1800 by Samuel Hahnemann.",
+   "t": "It also explains why great food can seem to hide in awkward locations: a restaurant in a bad spot survives only if the food is excellent.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Colliders and selection.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Its central idea is that a substance causing symptoms can cure similar symptoms when heavily diluted, and that more dilution makes it stronger.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many remedies are diluted so far that, statistically, not one molecule of the original substance is likely to remain.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 2015, Australia's National Health and Medical Research Council published a major review of the evidence.",
+   "t": "Researchers call a variable influenced by two other factors a 'collider'.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "It concluded there were no health conditions for which there was reliable evidence that homeopathy was effective.",
+   "t": "Filtering on it, or statistically controlling for it, can create a misleading link between those factors.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The council warned that choosing it over proven treatments may put health at risk.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "This is general information rather than medical advice.",
+   "t": "A well-known puzzle involves birth weight.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Talk to a doctor, and healthdirect is a reliable starting point for health questions in Australia.",
+   "t": "Babies of smokers tend to be lighter, and low birth weight raises risk.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Self-correction, not Galileo.",
+   "t": "Yet among only low birth weight babies, some studies found those born to smokers did slightly better.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smoking wasn't protective.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Low birth weight can come from smoking or from other, often more serious problems, so comparing within that group mixed very different situations.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The same trap appears in admissions.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Science gets things wrong all the time.",
+   "t": "Among admitted students, a weak school record must be offset by a strong entrance test, so the test may seem to predict nothing.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hiring shows it too, and in early COVID-19 studies of only tested or hospitalised patients.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spotting the filter.",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "What makes it different is that it has ways of finding and fixing errors.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Studies are checked by experts, results are repeated by independent teams, and failed ideas are revised or dropped.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For decades, doctors thought stomach ulcers were mainly caused by stress.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Perth researchers Barry Marshall and Robin Warren showed that a bacterium, Helicobacter pylori, played a central role.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Marshall even swallowed a culture to prove the point.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Doctors were sceptical, but evidence won, and the pair received the 2005 Nobel Prize.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Fringe promoters often say 'they laughed at Galileo'.",
+   "t": "The key defence is a simple question: how did these cases end up in front of me?",
    "c": 3,
    "k": "s",
    "ps": true
   },
   {
-   "t": "But for every rejected idea later proven right, vast numbers were rejected because they were wrong.",
+   "t": "If the group was selected on the very traits you're comparing, be suspicious of any pattern within it.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Galileo was vindicated by his observations, not by being mocked.",
+   "t": "Your social circle, your newsfeed, a hospital ward, a list of successful companies and the people you have dated are all filtered samples.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Patterns within them may be produced by the filter rather than the world.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Being an outsider is fine.",
+   "t": "When possible, look at a broader, unfiltered group.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "Avoiding tests isn't.",
+   "t": "When that isn't possible, be careful about drawing big conclusions.",
    "c": 3,
    "k": "s",
    "ps": false
   },
   {
-   "t": "The key idea: A claim is scientific if some observation could show it to be false, so a theory that fits every possible result tells you nothing.",
+   "t": "Data never simply speaks for itself.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It always arrives through some process, and understanding that process is half the work of understanding the data.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Looking only at hospital patients can create links between diseases that don't exist outside.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1288,7 +1282,19 @@
    "ps": false
   },
   {
-   "t": "Question one. Why are median house prices usually reported instead of the mean?",
+   "t": "Question one. Why do US counties with the lowest and the highest kidney cancer rates often share small populations?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Small populations swing to extremes by chance.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why are median house prices usually reported instead of the mean?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1300,7 +1306,7 @@
    "ps": false
   },
   {
-   "t": "Question two. Why did the flight instructor's criticism seem to work?",
+   "t": "Question three. Why did the flight instructor's criticism seem to work?",
    "c": 4,
    "k": "q",
    "ps": false
@@ -1312,25 +1318,13 @@
    "ps": false
   },
   {
-   "t": "Question three. Which kind of evidence is generally the most reliable?",
+   "t": "Question four. Why did hospital data suggest links between unrelated conditions?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
-   "t": "Answer. A systematic review of many studies.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What makes a claim scientific, according to falsifiability?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. A test could show it to be false.",
+   "t": "Answer. Patients were admitted for those conditions.",
    "c": 4,
    "k": "a",
    "ps": false

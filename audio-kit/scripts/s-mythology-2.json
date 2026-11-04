@@ -1,11 +1,12 @@
 {
  "id": "s-mythology-2",
- "h": "greek-gods,greek-heroes,norse-myths",
+ "h": "greek-gods,greek-heroes,norse-myths,irish-myths",
  "title": "Mythology · Episode 2",
  "chapters": [
   "The gods of Olympus",
   "Greek heroes and their flaws",
-  "Odin, Thor and the end of the world"
+  "Odin, Thor and the end of the world",
+  "Ireland's gods, heroes and fairy mounds"
  ],
  "units": [
   {
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: The gods of Olympus, Greek heroes and their flaws and Odin, Thor and the end of the world.",
+   "t": "In this episode: The gods of Olympus, Greek heroes and their flaws, Odin, Thor and the end of the world and Ireland's gods, heroes and fairy mounds.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -843,50 +844,332 @@
    "ps": true
   },
   {
-   "t": "Quick recall. Answer out loud, or just in your head.",
+   "t": "Part four. Ireland's gods, heroes and fairy mounds.",
    "c": 3,
    "k": "head",
    "ps": false
   },
   {
-   "t": "Question one. What pattern runs through Hesiod's story of how Zeus came to power?",
+   "t": "Before St Patrick, Ireland had shining gods who vanished into the hills, a hero who could fight an army alone, and a giant who supposedly built a causeway to Scotland.",
    "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stories saved by monks.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pre-Christian Irish left no written scriptures.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Poets and druids, trained for years, carried genealogies, laws and tales in memory.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What we have comes mostly from manuscripts copied by monks between roughly the eighth and fifteenth centuries, long after Ireland became Christian.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That makes the stories wonderful but tricky.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The scribes preserved them with affection, yet they also reshaped them, turning old gods into ancient kings and fitting Irish history into a biblical timeline.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scholars sort the tales into groups: the Mythological Cycle, the Ulster Cycle, the Fenian Cycle and the Cycles of the Kings.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Invaders and shining ones.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The medieval Lebor Gabála Érenn, the \"Book of the Taking of Ireland\", tells of Ireland settled in waves, from Partholón and Nemed to the Fir Bolg, each struggling against the monstrous Fomorians.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then came the Tuatha Dé Danann, magical beings who arrived wrapped in mist, and finally the Milesians, ancestors of the Irish.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Compiled largely in the eleventh century, it is legend, not history.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many scholars see the Tuatha Dé as former gods.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Lugh, master of every craft, led them to victory over the Fomorians.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brigid, linked with poetry and healing, lives on as St Brigid.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Morrígan, goddess of war, could become a crow.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When the Milesians won, the Tuatha Dé withdrew into the sídhe, the ancient mounds, and became the fairy folk of folklore.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cú Chulainn, the Hound.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The boy Sétanta, nephew of King Conchobar of Ulster, arrived late to a feast at the smith Culann's house.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Culann's ferocious guard dog attacked him, and he killed it.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seeing the smith's grief, the boy offered to be his hound until a new one was raised.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So he became Cú Chulainn, \"Culann's Hound\".",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In battle he could be seized by a terrifying frenzy, the ríastrad, which twisted his body into a monstrous shape.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the epic Táin Bó Cúailnge, the \"Cattle Raid of Cooley\", Queen Medb of Connacht invades Ulster to seize a prize bull.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Ulster warriors lie helpless under a curse, so the teenage Cú Chulainn holds back her army alone, fighting a long series of duels at a river ford.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A hero's death.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Irish heroes lived under geasa, sacred prohibitions that could not be broken without disaster.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cú Chulainn was bound never to eat dog meat, yet also never to refuse hospitality.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Before his last battle, three old women offered him dog meat, and either choice meant breaking a geis.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weakened, he fought on.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mortally wounded, he tied himself to a standing stone so that he could die on his feet, facing his enemies.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They dared not approach until a crow, the sign of the Morrígan, landed on his shoulder.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bronze statue of the dying Cú Chulainn stands in Dublin's General Post Office as a memorial to those who fought in the 1916 Easter Rising.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fionn, swans and Youth.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The Fenian Cycle follows Fionn mac Cumhaill and his war band.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "As a youth he served a poet who had spent seven years trying to catch the Salmon of Knowledge.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Told to cook it but not taste it, Fionn burnt his thumb, sucked it, and gained all its wisdom.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later folklore made him a giant who built the Giant's Causeway as a road to Scotland, a playful tale about land formed by cooling lava.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Children of Lir, a jealous stepmother turns four children into swans for nine hundred years.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "When the spell breaks, they age and die.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fionn's son Oisín rides to Tír na nÓg, the Land of Youth.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After what seems three years, he visits home and finds three hundred have passed.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Touching the ground, he ages instantly.",
+   "c": 3,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Most Irish myths survive only because medieval Christian scribes wrote them down, and they reshaped them as they did.",
+   "c": 3,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 4,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What pattern runs through Hesiod's story of how Zeus came to power?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Sons overthrow their fathers.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What mainly drove a Greek hero to act?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Kleos, glory that outlives death.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. Why do historians treat the Norse myth sources with some care?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. They were set down by Christians later.",
-   "c": 3,
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Why are Irish myths tricky to treat as pure pre-Christian belief?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Monks wrote them down and reshaped them.",
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

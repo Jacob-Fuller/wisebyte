@@ -1,12 +1,11 @@
 {
  "id": "s-decisions-1",
- "h": "decisions,opportunity-cost,mental-models,risk",
+ "h": "decisions,opportunity-cost,mental-models",
  "title": "Better Decisions · Episode 1",
  "chapters": [
   "How to make better decisions",
   "Opportunity cost: the hidden price of every choice",
-  "Mental models: a toolkit for thinking",
-  "Understanding risk"
+  "Mental models: a toolkit for thinking"
  ],
  "units": [
   {
@@ -16,7 +15,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: How to make better decisions, Opportunity cost: the hidden price of every choice, Mental models: a toolkit for thinking and Understanding risk.",
+   "t": "In this episode: How to make better decisions, Opportunity cost: the hidden price of every choice and Mental models: a toolkit for thinking.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -844,356 +843,50 @@
    "ps": true
   },
   {
-   "t": "Part four. Understanding risk.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "People fear sharks and plane crashes, then drive home tired without a second thought.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Our risk radar is badly calibrated, and it can be fixed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why we misjudge risk.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Humans didn't evolve to read statistics.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "We judge danger with fast, emotional shortcuts.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Psychologists Amos Tversky and Daniel Kahneman described the availability heuristic: we rate something as more likely when examples spring easily to mind.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Shark attacks and plane crashes get saturation news coverage, so they feel common.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Heart disease, falls at home and car crashes rarely make headlines, so they feel ordinary.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Paul Slovic and other researchers found we also fear risks that feel uncontrollable, unfamiliar or imposed on us far more than risks we choose.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia records a handful of fatal shark bites a year, yet around 300 or more people drown, many in rivers, lakes and backyard pools.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Dread risks.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A 'dread risk' is a rare event that kills many people at once, such as a plane crash or terrorist attack.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It triggers fear far beyond its statistical danger.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "After the September 11 attacks in 2001, many Americans avoided flying and drove instead.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Psychologist Gerd Gigerenzer estimated the extra driving caused roughly 1,500 additional road deaths in the following year, more than the passengers killed on the four hijacked planes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Australia's road toll runs at roughly 1,100 to 1,300 deaths a year, plus tens of thousands of serious injuries.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Qantas has never had a fatal jet accident, and per kilometre, flying on a major airline is many times safer than driving.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The riskiest part of a trip is often the drive to the airport.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Relative versus absolute.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Headlines love relative risk: 'X doubles your risk of Y'.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "But doubling a tiny risk still leaves a tiny risk.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1995, UK authorities warned that newer contraceptive pills doubled the risk of a type of blood clot.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The absolute increase was roughly from 1 in 7,000 women to 2 in 7,000.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many women stopped taking the pill, and researchers later linked the scare to a rise in unplanned pregnancies and abortions, which carry their own risks.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Whenever you hear 'increases risk by 50 per cent', ask: 50 per cent of what?",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "How many people out of 1,000 or 10,000 are actually affected?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Ignoring base rates.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The base rate is how often something happens in the first place, and we routinely ignore it when a good story comes along.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Kahneman and Tversky described 'Steve': shy, tidy and helpful, with a passion for detail.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Is he more likely a librarian or a farmer?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most people say librarian, because he fits the stereotype.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But in the United States there were more than 20 male farmers for every male librarian, so Steve is far more likely to farm.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The same trap catches us with a 'sure thing' share tip, a start-up that looks like the next big success, or a stranger who 'looks suspicious'.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Before judging by fit, ask how common it is.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Deciding better.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Good risk thinking asks four questions.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "How likely is it, in absolute terms?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "How bad would it be, and is it reversible?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Compared with what, including the risk of the alternative?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Can I cheaply reduce it?",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Say '3 in 1,000' rather than '0.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "3 per cent', and notice when a vivid story is doing the work data should.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The biggest killers are slow and familiar: heart disease, dementia, cancers, smoking and inactivity, plus falls among older Australians.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Put effort into seatbelts, not driving tired, pool fences, sun protection and health checks.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Zero risk doesn't exist; doing nothing carries risk too.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Researchers compare activities in 'micromorts', a one-in-a-million chance of death.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "For medical choices, ask your doctor to explain the numbers in plain terms.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: We judge risk by how vivid and emotional it feels, not by how likely it is.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. What should you do with a 'two-way door' decision?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Decide quickly, since it can be undone.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What is the opportunity cost of attending the festival in this example?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. The value of the best alternative, such as a paid shift.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. What risk does 'to a man with a hammer, everything looks like a nail' describe?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Forcing every problem into one familiar approach.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What does the availability heuristic lead us to do?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Judge a risk as likelier when examples come easily.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

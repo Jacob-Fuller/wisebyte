@@ -1,0 +1,840 @@
+{
+ "id": "s-food-history-4",
+ "h": "escoffier-modern-kitchen,australian-bush-foods,aussie-food-icons",
+ "title": "Food That Shaped the World · Episode 4",
+ "chapters": [
+  "Escoffier: the chef who organised the kitchen",
+  "Bush foods: Australia's native pantry",
+  "Pavlova, lamingtons and pies: Australia's food icons"
+ ],
+ "units": [
+  {
+   "t": "Food That Shaped the World. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Escoffier: the chef who organised the kitchen, Bush foods: Australia's native pantry and Pavlova, lamingtons and pies: Australia's food icons.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Escoffier: the chef who organised the kitchen.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every time a cook answers ‘Yes, chef’, they echo one man.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Auguste Escoffier turned chaotic kitchens into disciplined teams, and named a dessert after an Australian soprano.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Order from chaos.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Georges Auguste Escoffier was born in 1846 in Villeneuve-Loubet, near Nice.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At around thirteen he began an apprenticeship in his uncle's restaurant, then worked his way up through Paris kitchens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "During the Franco-Prussian War of 1870 he cooked for the French army, an experience of feeding large numbers under pressure that many writers think shaped his ideas about organisation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Kitchens of the time were brutal.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coal-fired ranges made them extremely hot, ventilation was poor and cooks often drank heavily through long shifts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One cook might spend hours making a whole dish while another did nearly the same beside him.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Service à la russe, with courses brought out one after another, was replacing service à la française, with many dishes placed on the table together, and it demanded tighter timing.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The brigade system.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Escoffier's lasting innovation was the brigade de cuisine, a kitchen run like a well-drilled team.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "At the top sits the chef de cuisine, with a sous chef second in command.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each station is led by a chef de partie: the saucier handles sauces and sautéed dishes, the rôtisseur roasts, the poissonnier cooks fish, the entremetier handles vegetables and soups, the garde manger prepares cold foods and the pâtissier makes pastry and desserts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Junior cooks, called commis, work under each leader.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because stations prepare components in parallel, a complex dish can be assembled in minutes rather than hours.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He also pushed for calmer behaviour, discouraging shouting, drinking and smoking on duty, and insisting on clean uniforms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The structure and its French titles are still used worldwide, including in Australia.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ritz and the Savoy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Monte Carlo, Escoffier met the Swiss hotelier César Ritz, and the two formed one of history's great hospitality partnerships.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1890 they took charge of London's new Savoy Hotel, where Escoffier's cooking drew royalty, aristocrats and celebrities.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They helped make dining in an elegant hotel restaurant fashionable, including for well-to-do women, who had been less likely to dine in public.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Savoy partnership ended in 1898, when Ritz and Escoffier were dismissed amid a dispute with the owners over alleged financial irregularities.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They moved on quickly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ritz opened his famous Paris hotel that year, with Escoffier running the kitchen, and the pair then opened the Carlton Hotel in London, where Escoffier cooked for many years.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Peach Melba.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Escoffier liked to name dishes after famous guests, and his best-known tribute was to an Australian.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Nellie Melba, born Helen Porter Mitchell in Melbourne, took her stage name from her home city and became one of the most celebrated sopranos of her time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "While she performed in London in the 1890s, Escoffier created a dessert in her honour: poached peaches served on vanilla ice cream.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An early presentation was reportedly served in a swan carved from ice, a nod to the opera Lohengrin.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Raspberry sauce joined the classic recipe a few years later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Melba toast, crisp thin slices of dry toast, is also traditionally linked to the singer and Escoffier's kitchens.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The guide and the legacy.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1903 Escoffier published Le Guide Culinaire, written with colleagues, which gathered thousands of recipes into a single reference still read by chefs.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Marie-Antoine Carême had earlier grouped French sauces.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Escoffier's system is usually summarised as five mother sauces: béchamel, velouté, espagnole, hollandaise and tomato.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Learn these and you can make hundreds of variations.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He also championed simplicity over towering decoration, his motto often given as \"faites simple\", focused on flavour rather than display.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He supported charities for retired cooks and worked to make cooking respected as a skilled career.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "He died in 1935, aged 88.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "His influence lives on in stations, titles and the call-and-response of \"Yes, chef\", and in the idea that a kitchen should run calmly, cleanly and on time.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Before Escoffier, grand kitchens were hot, disorganised places where cooks duplicated work.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Bush foods: Australia's native pantry.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Long before supermarkets, this continent was a pantry of seeds, fruits, nuts and greens known intimately by First Nations peoples.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many are now finding their way onto restaurant menus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food knowledge and flour.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early Europeans assumed the land offered little to eat.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They were badly mistaken.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over tens of thousands of years, First Nations peoples learned which plants and animals were edible, when they ripened, how to prepare them and how to look after the places they grew.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That knowledge differed from Country to Country and was tied to seasons, ceremony, law and trade.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bush foods were never lost to the communities who knew them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the dry inland, seeds were winnowed, ground between stones, mixed with water and baked as cakes in hot ashes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Grinding stones tens of thousands of years old are among the oldest evidence of seed grinding anywhere.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That suggests bread-making long before farming began in the Middle East.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Native flavours.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wattleseed comes from certain acacias, the wattles whose golden flowers are Australia's floral emblem.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roasted and ground, it tastes nutty, like coffee, chocolate and hazelnut, and turns up in bread, ice cream and desserts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Only particular species are used for food and some acacias are toxic, so do not experiment alone.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lemon myrtle is a Queensland rainforest tree whose leaves are packed with citral, the compound behind lemon scent.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people find it more lemony than lemon itself, and it flavours teas, biscuits, marinades and cheesecakes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pepperberry and pepperleaf, from Tasmanian mountain pepper, add a hot, spicy bite that some cooks use instead of black pepper.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fruits and greens.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The finger lime grows wild in rainforest near the New South Wales and Queensland border.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Slice one open and tiny pearls of juice tumble out, earning the nickname 'citrus caviar'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Chefs love it with seafood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The quandong, or desert peach, has tart red flesh used in jams and pies, and its hard seed was used for jewellery and games.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Kakadu plum, or gubinge, from northern Australia, has one of the highest vitamin C contents of any fruit, and Aboriginal communities have harvested it for generations.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warrigal greens grow along coasts and were eaten by Captain Cook's crew to ward off scurvy.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They contain oxalates, so blanch them briefly before eating.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nuts and gatherings.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The macadamia is Australia's most successful native food crop.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Its trees come from rainforest in south-east Queensland and northern New South Wales, where Aboriginal people had long eaten the nuts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ironically, the first big industry grew in Hawaii in the twentieth century, from Australian trees, and many assumed the nut was Hawaiian.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Genetic research suggests most Hawaiian commercial trees descend from a very small number of Queensland trees.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That narrow base makes the crop vulnerable to disease, and several wild species are now threatened.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the Bunya Mountains of Queensland, bunya pines drop huge cones of starchy nuts.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In heavy years many Aboriginal groups travelled long distances to feast, hold ceremonies, trade, arrange marriages and settle disputes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Respect and first tastes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The native food industry has grown quickly, but research has found that only a small share of it is owned or led by First Nations people, even though it rests on their knowledge.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many communities and organisations are working to change that, through Aboriginal-owned businesses, fair partnerships and protections for traditional knowledge.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Look for products that name the communities involved or come from Indigenous-owned enterprises.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Foraging without expert knowledge is risky, because some native plants are toxic or need careful preparation.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Buy from reputable suppliers, and learn from First Nations guides where possible.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "For an easy first taste, try a pinch of wattleseed in pancakes or lemon myrtle in a cup of tea.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: First Nations peoples built deep knowledge of native foods over tens of thousands of years, including early seed grinding.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Pavlova, lamingtons and pies: Australia's food icons.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Who really invented the pavlova?",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Why can't you sell an ‘Anzac cookie’?",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The stories behind Australia's favourite foods are full of rivalries, legends and law.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Contested origins.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The pavlova is named after the Russian ballerina Anna Pavlova, who toured Australia and New Zealand in 1926 and 1929.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians long credited Bert Sachse of Perth's Esplanade Hotel with creating it in 1935.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the New Zealand food historian Helen Leach found New Zealand recipes called pavlova from the late 1920s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She also found similar meringue cakes in Europe and the United States long before either country named one after a dancer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The friendly argument is unlikely ever to end.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The lamington is a sponge square dipped in chocolate icing and rolled in desiccated coconut.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is named after Lord Lamington, Governor of Queensland from 1896 to 1901.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The popular story credits his French-born chef, Armand Galland, with inventing it to use up stale sponge, but historians cannot confirm it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Anzac biscuits and the law.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Anzac biscuits are made from rolled oats, flour, sugar, butter, golden syrup and usually desiccated coconut, with no eggs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They are linked to the First World War, but historians think oat biscuits were mainly baked and sold at home to raise money for the war effort, not standard soldiers' food.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Troops were issued a notoriously hard ration biscuit, jokingly called an Anzac tile or wafer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The name Anzac itself is protected under Australian law, and using it commercially needs approval from the Minister for Veterans' Affairs.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Products may be sold as Anzac biscuits if they stick to the traditional recipe and shape.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Calling them ‘Anzac cookies’ is not normally allowed, because of the American association.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The meat pie.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australians are devoted to the meat pie: minced or chunky beef in gravy inside a pastry case, eaten by hand at football games, bakeries and service stations.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tradition came from Britain, but Australians made it their own, with brands, bakery competitions and fierce local loyalties.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Variations abound, including curry pies, steak and kidney, and the pie with tomato sauce on top.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Adelaide is famous for the pie floater, a meat pie served upside down in a bowl of thick green pea soup, often topped with tomato sauce and once sold from late-night pie carts.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Debates about the right pastry, gravy and filling still run hot, and many bakeries now offer gourmet and vegetarian versions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Borrowed and reinvented.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1951 the Bendigo boilermaker Frank McEncroe launched the Chiko Roll at the Wagga Wagga Agricultural Show.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Inspired by Chinese spring rolls, it wrapped cabbage, celery, barley, carrot, beef and seasonings in thick, deep-fried pastry, tough enough to eat on the move.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Australian dim sim, loosely based on Cantonese dumplings such as siu mai, is usually credited to Melbourne's Wing Lee restaurant in the 1940s.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is larger and meatier, steamed or deep fried, and often eaten with soy sauce.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1950s, Arnott's food technologist Ian Norris came across Britain's Penguin biscuit overseas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1964 Arnott's launched the Tim Tam, named after the racehorse that won the 1958 Kentucky Derby.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fans invented the ‘Tim Tam slam’, using the biscuit as a straw for hot drinks.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Becoming an icon.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Look closely at almost any national dish and you find borrowing.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Meat pies came from Britain, pavlova from a long European meringue tradition, the Chiko Roll and dim sim from Chinese cooking, and the flat white from a cafe culture shaped by Italian and other migrants.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long before any of this, Aboriginal and Torres Strait Islander peoples ate a rich range of native foods, an older story still.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Origin tales tend to be colourful and hard to verify: a chef inventing a cake for unexpected guests, a dessert created in one inspired moment.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Historians who dig into old cookbooks and newspapers often find gradual change rather than one inventor.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What makes a food iconic is less its birth than the memories, rituals and pride people build around it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Pavlova and lamingtons are Australian icons whose true origins are disputed or unknown.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. What problem did Escoffier face in nineteenth century kitchens?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Hot, chaotic kitchens with duplicated work.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What do very old Australian grinding stones suggest?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. People ground seed flour here very early.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. What does the evidence suggest about the pavlova's origin?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Earlier recipes exist in New Zealand and Europe.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,12 +1,12 @@
 {
  "id": "s-inventions-1",
- "h": "spectacles,engines,bicycle,electric-light",
+ "h": "spectacles,engines,standard-time,bicycle",
  "title": "Great Inventions · Episode 1",
  "chapters": [
   "Spectacles: the invention that extended working lives",
   "Engines: turning fire into motion",
-  "The bicycle: a simple machine that changed society",
-  "Electric light"
+  "How railways invented time zones",
+  "The bicycle: a simple machine that changed society"
  ],
  "units": [
   {
@@ -16,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Spectacles: the invention that extended working lives, Engines: turning fire into motion, The bicycle: a simple machine that changed society and Electric light.",
+   "t": "In this episode: Spectacles: the invention that extended working lives, Engines: turning fire into motion, How railways invented time zones and The bicycle: a simple machine that changed society.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -574,541 +574,553 @@
    "ps": true
   },
   {
-   "t": "Part three. The bicycle: a simple machine that changed society.",
+   "t": "Part three. How railways invented time zones.",
    "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Once every town set its clocks by its own sun.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Then trains arrived, timetables turned into chaos, and the world had to agree on what time it was.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Trains break local time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "For most of history, time was local.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Noon was when the Sun stood highest, and because the Earth turns, that moment arrives later the further west you go.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bristol's clocks ran about ten minutes behind London's.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By horse and coach, nobody cared.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Railways changed the scale.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People covered in hours what once took days, and timetables had to be precise to the minute.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "With every station on local time, passengers missed connections, and on single track lines confusion over time could cause collisions.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The telegraph made a solution possible, because a time signal could travel along wires almost instantly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Railway companies became the keepers of the clock and ran their whole networks on one standard time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Railway time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Britain, the Great Western Railway adopted London time in 1840, and by about 1848 most railways used Greenwich Mean Time.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some towns kept two times for a while, with public clocks given two minute hands.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1880 Parliament made GMT the legal time across Great Britain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "North America had a bigger problem: dozens of railway times, with big stations showing several clocks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "On 18 November 1883 the railways of the United States and Canada switched to standard time zones about an hour apart.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In many towns clocks were reset at noon, so people lived through noon twice, which is why it is remembered as the day of two noons.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The railways, not the government, organised it.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "US federal law made time zones official only in 1918.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Choosing Greenwich.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Standard zones need a starting point.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1884 delegates from about twenty five countries met in Washington DC for the International Meridian Conference.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They chose the meridian through the Royal Observatory at Greenwich as zero degrees longitude.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Practical reasons favoured it, as most of the world's shipping already used charts based on Greenwich.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Canadian railway engineer Sandford Fleming was one of the great champions of a worldwide system of time based on a single meridian.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Not everyone agreed: France abstained in the vote and kept using the Paris meridian for its own purposes for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The conference did not impose time zones around the world, but it gave countries a shared reference to build their own on.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's time zones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In Australia, each colony had kept its own local time, and travellers crossing borders by train faced the same headaches as everyone else.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1895 the colonies agreed on standard times based on Greenwich: Eastern, Central and Western.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "South Australia first chose nine hours ahead of Greenwich, but in 1899 moved to nine and a half hours, a choice that has been debated ever since.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Northern Territory, then administered by South Australia, followed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Half-hour zones are unusual but not unique: India uses one, and Nepal goes further with a quarter-hour offset.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Daylight saving complicates things today.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Queensland, Western Australia and the Northern Territory don't use it, so in summer the mainland runs on five different times.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time today.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Greenwich Mean Time has largely been replaced as the world's reference by Coordinated Universal Time, or UTC, kept by a network of highly accurate atomic clocks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Because the Earth's spin is slightly irregular, leap seconds have occasionally been added to keep UTC close to the Sun, but in 2022 international scientists voted to stop adding them by 2035.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Time zones themselves are decided by governments, and politics often beats geography.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "China, which spans the width of five standard zones, uses just one official time, so in its far west the Sun can rise very late by the clock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Spain sits mostly west of Greenwich but uses Central European Time.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The railway engineers' solution still governs every phone and laptop.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Each town once kept its own solar noon, and fast trains with precise timetables made that confusing and dangerous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. The bicycle: a simple machine that changed society.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Two wheels, a frame and a chain.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The bicycle looks so obvious it is hard to believe it took the best part of a century to get right, or that it helped change the lives of women.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A running machine.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1817, German forestry official Karl Drais rode a strange new machine near Mannheim.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It had two wheels in a line, a wooden frame and a seat, and he pushed it along by striding with his feet on the ground, much like a modern children's balance bike.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "He called it a Laufmaschine, or running machine.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It became known as the draisine or dandy horse.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Some historians link the invention to 1816, the Year Without a Summer, when a huge volcanic eruption in Indonesia had disrupted the climate.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Crop failures made feeding horses expensive.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The dandy horse craze faded quickly, but the idea of balancing on two wheels had arrived.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Boneshakers and high wheelers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In the 1860s in France, makers attached pedals and cranks directly to the front wheel, so riders could lift their feet off the ground.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Credit is disputed between the Michaux family business in Paris and a mechanic named Pierre Lallement.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "These velocipedes had iron frames and wooden wheels with iron rims, and on rough roads they rattled so badly they were nicknamed boneshakers.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "They were still popular, with riding schools and races.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "With pedals fixed to the front wheel, each turn moved the bike only as far as its circumference.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "So makers enlarged the wheel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "By the 1870s, high wheelers had front wheels well over a metre across, later nicknamed penny-farthings.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Solid rubber tyres and wire spokes made them light and fast, but hitting a rock or pothole could pitch the rider head first over the handlebars.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The safety bicycle.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The breakthrough came in 1885, when English inventor John Kemp Starley launched the Rover.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "It had two wheels of similar size and a chain driving the back wheel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Gearing in the chain drive meant a small wheel could still travel fast, and the rider sat low enough to put a foot down.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It was called a safety bicycle, and its basic layout is still used today.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Comfort followed.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In 1888, John Boyd Dunlop, a Scottish vet living in Belfast, developed an air-filled tyre for his young son's tricycle.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pneumatic tyres made riding far smoother and faster, and Dunlop's name became a famous brand.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "By the 1890s, the modern bicycle was essentially complete.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Freedom on two wheels.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The 1890s bicycle craze reached far beyond transport.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "For many women, the bicycle meant travelling without a chaperone or a horse and carriage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "It also encouraged dress reform: long skirts and tight corsets were impractical, so some women adopted divided skirts or bloomers, to critics' outrage.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In 1896 American campaigner Susan B. Anthony said the bicycle had done more to emancipate women than anything else in the world.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Australia caught the craze too.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Cyclists carried mail across the Western Australian goldfields, shearers rode between stations, and some rode around the continent.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Bikes were cheaper than horses and needed no feed or water, a big advantage in dry country.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Hubert Opperman became a hero for endurance riding in the 1920s and 1930s, and in 1990 Victoria became the first place in the world to make bicycle helmets compulsory.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Small machine, big legacy.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "The bicycle's influence spread into other machines.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Makers developed and refined ball bearings, chain drives, pneumatic tyres and lightweight steel tubing, all of which fed into early cars and motorcycles.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "In some countries the campaign for better roads began with cyclists, before motorists took it over.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most famously, Wilbur and Orville Wright ran a bicycle shop in Dayton, Ohio, and used its skills, tools and profits to build the aeroplane they flew in 1903.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Today the bicycle remains one of the most energy-efficient ways for a person to travel.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In cities from Amsterdam to Copenhagen, bikes are used for a large share of daily trips, and cities around the world are building bike lanes to follow their lead.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: The first two-wheeler, built by Karl Drais in 1817, had no pedals and was pushed along with the feet.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Electric light.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Before electric light, nights were dim, smoky and a real fire risk.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The story of the light bulb involves many hands, not one lone genius.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Before the switch.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "For thousands of years, light after sunset came from flames: wood fires, candles and oil lamps.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "It was dim, smoky and costly, and house fires were a constant danger.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Whale oil, kerosene lamps and coal gas improved things.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Sydney's streets were first gas-lit in 1841, supplied by the Australian Gas Light Company, whose name survives as AGL.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Electric light began with the arc lamp.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the early 1800s Humphry Davy showed that electricity leaping between two carbon rods made a brilliant glow, but arc lamps were too harsh and hot for living rooms.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The alternative was incandescence: a thin filament heated until it glows.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Oxygen left in the bulb destroyed early filaments.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The challenge was a lasting filament, in a good vacuum, cheap enough to mass-produce.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Edison, Swan and the system.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The popular story says Thomas Edison invented the light bulb in 1879.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In truth he and English chemist Joseph Swan reached practical carbon-filament bulbs at about the same time, both building on decades of earlier work.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "After a British patent dispute they joined forces in 1883 as 'Ediswan'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Edison's real gift was the system around the bulb.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A bulb is useless without power, so his team designed generators, underground cables, switches, fuses and meters to bill customers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In September 1882 his Pearl Street Station in New York began supplying paying customers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At his Menlo Park laboratory, staff tested thousands of materials systematically, a model for team-based research and development.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The current wars.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Edison's system used direct current, DC, which flows one way and, at the low voltages of the day, couldn't travel much more than a kilometre or two.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Alternating current, AC, rapidly reverses direction and can be stepped up to high voltage by transformers for long-distance transmission, then stepped down for homes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "George Westinghouse championed AC, licensing Nikola Tesla's motor patents in 1888.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Edison's side stressed AC's dangers in a bitter public battle.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "AC won because it was cheaper to distribute.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The Tesla versus Edison legend is more mixed than hero versus villain.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Many people shaped AC power.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Tesla's story of being cheated of a $50,000 bonus comes from his own account and can't be confirmed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "And Edison didn't personally kill Topsy the elephant in 1903; a film company bearing his name recorded it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Power reaches Australia.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "AC's victory was sealed in the 1890s, when a Westinghouse system lit the 1893 Chicago World's Fair and, from 1896, carried power from Niagara Falls to Buffalo.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In Australia, Tamworth in New South Wales became the first town to light its streets with electricity, in 1888, earning the nickname 'City of Light'.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Over the following decades, local power stations were joined into larger grids, and the east coast grid is now one of the longest interconnected power systems in the world.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "DC has made a comeback for special jobs: the Basslink cable under Bass Strait uses high-voltage DC.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "LEDs and your power bill.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Old incandescent bulbs wasted most of their energy, around 90 per cent, as heat.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australia began phasing most of them out in 2009, one of the first countries to do so.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The next leap was the light-emitting diode.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Nick Holonyak built the first visible, red LED in 1962, but white light needed a bright blue LED.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura achieved it in the early 1990s, earning the 2014 Nobel Prize in Physics.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "LED bulbs use roughly 75 to 80 per cent less energy than incandescent ones and last many times longer, so replacing any remaining old bulbs is an easy way to trim a power bill.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Night light came from flames until inventors found a filament that could glow for long in a good vacuum.",
    "c": 3,
    "k": "s",
    "ps": true
@@ -1144,25 +1156,25 @@
    "ps": false
   },
   {
-   "t": "Question three. How did riders move Karl Drais's 1817 machine?",
+   "t": "Question three. Why did local solar time become a problem?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Fast trains and timetables made differing town times unsafe.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. How did riders move Karl Drais's 1817 machine?",
    "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. By striding along the ground.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Why did early incandescent filaments burn out so quickly?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Oxygen left in the bulb destroyed the thin filament.",
    "c": 4,
    "k": "a",
    "ps": false

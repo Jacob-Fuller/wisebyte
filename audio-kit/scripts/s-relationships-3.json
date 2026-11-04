@@ -1,10 +1,11 @@
 {
  "id": "s-relationships-3",
- "h": "forgiveness-science,boundaries,adult-friendship",
+ "h": "forgiveness-science,boundaries,making-small-talk,adult-friendship",
  "title": "Relationships · Episode 3",
  "chapters": [
   "Forgiveness: what it is, and what it isn't",
   "Setting boundaries",
+  "Small talk that isn't so small",
   "Making friends as an adult"
  ],
  "units": [
@@ -15,7 +16,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Forgiveness: what it is, and what it isn't, Setting boundaries and Making friends as an adult.",
+   "t": "In this episode: Forgiveness: what it is, and what it isn't, Setting boundaries, Small talk that isn't so small and Making friends as an adult.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -657,338 +658,674 @@
    "ps": true
   },
   {
-   "t": "Part three. Making friends as an adult.",
+   "t": "Part three. Small talk that isn't so small.",
    "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Most of us avoid chatting with strangers because we expect it to be awkward.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Experiments suggest we have badly misjudged both them and ourselves.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "We misjudge strangers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2014 study, psychologists Nicholas Epley and Juliana Schroeder asked Chicago train and bus commuters to talk to a stranger, keep to themselves or commute as usual.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Beforehand, people predicted talking would be the least pleasant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, those who chatted reported the most positive journeys.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Those approached were generally happy to talk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The effects were modest, not life-changing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2018 study led by Erica Boothby found the liking gap: after chatting, people underestimated how much their partner liked them.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "We replay our own awkward moments, while the other person just found us pleasant.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The gap appeared in labs, among university housemates and in public workshops.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you leave thinking you were boring, they very probably did not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why weak ties matter.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Close friends and family are central to wellbeing, but casual connections count too.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Gillian Sandstrom and Elizabeth Dunn found that people felt happier on days with more interactions with weak ties, such as classmates, neighbours and the person who makes their coffee.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In another study, customers asked to have a genuine, friendly exchange with a barista left in a better mood than those told to be efficient.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Weak ties also bring practical benefits.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Mark Granovetter's classic research suggested that new opportunities, including jobs, often come through acquaintances rather than close friends, because they move in different circles and hear about different things.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Openers and follow-ups.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most people overthink the first sentence.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You need a door, not wit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Comment on your shared situation: the weather, the queue, the food.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "‘Have you been to one of these before?’",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "works at most gatherings.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Open questions give the other person room to talk.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A popular memory aid is FORD: family, occupation, recreation and dreams.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Read the cues, though: someone with headphones on and eyes on a book may not want company.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2017 Harvard study led by Karen Huang analysed real conversations, including online chats and speed dating.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People who asked more questions were better liked, and follow-up questions mattered most.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If someone mentions Tasmania, ‘What was the highlight?’",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "shows you heard them, which switching to your own holiday does not.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "People tend to ask fewer questions than ideal.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Going a little deeper.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Small talk is a warm-up, not a destination.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Research by Michael Kardas, Amit Kumar and Nicholas Epley, published in 2022, found that people expected deep conversations with strangers to feel more awkward and less enjoyable than they actually were.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Participants who answered more personal, meaningful questions consistently felt more connected than they had predicted.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You do not need to leap to intimate subjects.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Moving from ‘What do you do?’",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "to ‘What do you enjoy most about it?’",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "or ‘How did you end up doing that?’",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "invites a real answer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Offering something genuine about yourself in return helps the other person feel safe going further.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ending well.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ending a conversation can feel harder than starting one.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A 2021 study led by Adam Mastroianni asked people how long they had wanted their conversations to last.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Conversations almost never ended when both people wanted them to.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Often both wanted to stop earlier, or one wanted more and the other less, and neither could tell.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "So a graceful exit helps.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Summarise something from the chat, thank them and give a reason, even a simple one: ‘I'll let you get back to your evening.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was great hearing about the trip.’",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you would like to meet again, say so specifically.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A clean, warm ending leaves both people with a good final impression.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: We expect talking to strangers to be unpleasant and underestimate how much they like us, and we are wrong on both counts.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part four. Making friends as an adult.",
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "School gave us friends by default.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "As adults, we have to make them on purpose.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Here's what works.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why it gets harder.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "At school and university, friendships formed almost automatically: you saw the same people daily and had free time.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Adult life scatters people through work, moves, relationships and children.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many people make fewer new friends from their late twenties.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Surveys suggest many adults have fewer close friends than they'd like, and men in particular often report fewer people to confide in.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Friendship needs a more intentional approach, like fitness or a career.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Sociologists, including Rebecca Adams, describe three conditions for close friendship: proximity, repeated and unplanned interactions, and a setting that encourages people to confide.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "School, team sports and share houses provide all three.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "As an adult, you can recreate them by joining things that meet regularly, like a club, class, choir, volunteer group or sports team.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A single event doesn't give you repeated, casual encounters.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Show up and initiate.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Going to one event rarely creates a friend.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Going to the same weekly activity for months often does.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Familiarity builds trust, partly through the mere-exposure effect: we tend to like what's familiar.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Close friendships take many hours, so at a two-hour weekly activity, expect months, not weeks.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Pick something you'd enjoy anyway, and stay afterwards for a chat.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many potential friendships stall because both people wait for the other to suggest something.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Be the initiator, and be specific about time and place, since 'we should catch up sometime' rarely happens.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Suggest something low-pressure, like a walk or coffee.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Don't read one declined invitation as rejection, since people's lives are full.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Try again, or suggest a different time.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Assume people like you.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Research on the 'acceptance prophecy', led by psychologist Danu Anthony Stinson, found that people who expect to be accepted act warmer and more open, which leads others to actually accept them.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Expecting rejection often makes people guarded, quiet or cold, which can create the rejection they fear.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Studies of the 'liking gap' by Erica Boothby and colleagues found that after a conversation, people consistently underestimated how much their new acquaintance liked them and enjoyed their company.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "So assume the best and act accordingly: smile, ask questions and show interest.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Most people are privately worrying about the same things you are.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Old ties and change.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Some of the easiest friendships to grow are ones you already have.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a 2011 study, Daniel Levin, Jorge Walter and Keith Murnighan asked executives to reconnect with contacts they hadn't spoken to for at least three years.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "These ties often gave more valuable and novel advice than current ones, and people had worried more than necessary about awkwardness.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "A simple message, like 'I was thinking of you the other day, how have you been?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": ", is often enough.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Not every friendship lasts, and that isn't always failure.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "A Dutch study by Gerald Mollenhorst found that over seven years, people kept only about half of their close network, with new people replacing those who drifted.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Friendships fade when circumstances change, and some can be revived.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Holding friendships a little loosely, with gratitude, makes room for new ones.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Deepening friendships.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Moving from casual to close friendship involves sharing more personal things gradually, being there in hard times, and creating shared memories, like a weekend away or a project together.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Remember details and follow up: 'How did the job interview go?'",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Celebrate their good news genuinely.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Psychologist Shelly Gable found that responding to good news with enthusiasm and interest, which she called active-constructive responding, is linked to closer, more satisfying relationships, and may matter as much as support in bad times.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "Keep contact going even when life is busy: a quick message, a shared joke or a standing monthly catch-up keeps a friendship alive between longer visits.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Friendship grows from proximity, repeated unplanned contact and openness, which school provided and adult life scatters.",
-   "c": 2,
+   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 3,
+   "c": 4,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. Which statement about forgiveness is true according to researchers?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It can happen without an apology.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. Which is a well-phrased boundary?",
-   "c": 3,
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. If you keep shouting, I'll leave and we can talk later.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question three. Which setting best matches the conditions for close friendship?",
-   "c": 3,
+   "t": "Question three. What is the ‘liking gap’?",
+   "c": 4,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. People underrate how much others like them.",
+   "c": 4,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question four. Which setting best matches the conditions for close friendship?",
+   "c": 4,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. A weekly club or team with the same people.",
-   "c": 3,
+   "c": 4,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 3,
+   "c": 4,
    "k": "end",
    "ps": false
   }

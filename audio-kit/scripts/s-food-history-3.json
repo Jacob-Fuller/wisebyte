@@ -1,0 +1,918 @@
+{
+ "id": "s-food-history-3",
+ "h": "coffee-bean-to-cup,chocolate-cacao,banana-clone-fruit",
+ "title": "Food That Shaped the World · Episode 3",
+ "chapters": [
+  "Coffee: from goat legend to flat white",
+  "Chocolate: from bitter drink to sweet bar",
+  "Bananas: the fruit of clones"
+ ],
+ "units": [
+  {
+   "t": "Food That Shaped the World. Episode three.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Coffee: from goat legend to flat white, Chocolate: from bitter drink to sweet bar and Bananas: the fruit of clones.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Coffee: from goat legend to flat white.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Every morning, billions of people drink the roasted seeds of a cherry from the Ethiopian highlands.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how that seed conquered the world, and what actually happens between the farm and your cup.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ethiopia, Yemen, two species.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The tale of Kaldi, an Ethiopian goatherd whose goats pranced after eating red berries, is charming but only legend.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was first written down centuries after it supposedly happened.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What we know is that arabica grows wild in Ethiopia's highland forests, and that the first solid evidence of people drinking coffee comes from fifteenth-century Yemen, where Sufi communities brewed it to stay awake for night prayers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It spread from the port of Mocha, whose name lives on in cafe menus.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Arabica is sweeter and more complex but fussy about heat.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Robusta is hardier, more bitter and has roughly twice the caffeine, so it adds body and crema to espresso blends.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brazil leads production by far, with Vietnam usually second.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The social drink.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "By the sixteenth century, coffeehouses thrived in Cairo and Istanbul, and some rulers tried to ban them, worried by the gossip and political talk.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In seventeenth-century London they were nicknamed 'penny universities': for the price of a cup you could read newspapers and argue with strangers for hours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Merchants and ship owners met at Edward Lloyd's coffeehouse to swap shipping news, and it grew into Lloyd's of London.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unlike beer and wine, coffee sharpened people rather than dulling them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia was a tea country, and coffee often meant instant, until Italian and Greek migrants opened cafes with espresso machines after the Second World War.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The flat white followed, though New Zealanders claim it too.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "From cherry to green bean.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Coffee grows as small cherries that ripen from green to deep red.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Each usually holds two seeds, the beans.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "After picking, the fruit must be removed, and the method matters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In washed processing, the skin and most of the sticky flesh are stripped off and microbes break down the rest, giving clean, bright flavours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In natural processing, the whole cherry is dried in the sun first, which can add fruity, wine-like notes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Either way you end up with a hard, pale green bean that smells grassy, nothing like coffee.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Green beans keep well for months, so coffee travels the world in this state and is roasted closer to where it is drunk.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The magic of roasting.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Roasting is where flavour is created.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Green beans tumble in hot air, usually reaching around 200 degrees Celsius.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They dry out and turn yellow, smelling a little like bread.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then sugars caramelise, and amino acids react with sugars in the Maillard reaction, the same chemistry that browns toast and seared steak.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pressure builds until the beans crack audibly, rather like popcorn.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Scientists have found hundreds of aroma compounds in roasted coffee.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Light roasts keep more of the bean's origin character, often fruity or floral and more acidic.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dark roasts taste of the roast itself: smoky, bitter and chocolatey.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Roasted beans go stale within weeks as aromas escape, so freshness matters.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Brewing is extraction.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whatever your method, brewing is extraction: water dissolves flavour from ground coffee.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Acids dissolve first, then sweeter compounds, and bitter ones last.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Too little extraction tastes sour and thin; too much turns harsh and bitter.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Grind size, water temperature, contact time and the coffee-to-water ratio are your levers.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Espresso forces hot water through very fine grounds at about nine bars for roughly half a minute, making a small, intense shot topped with crema.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Plunger coffee steeps coarse grounds for several minutes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cold brew steeps for many hours, giving a smoother, less acidic drink.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Caffeine works by blocking adenosine, which makes us sleepy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, so check healthdirect for caffeine limits.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Coffee has real roots in Ethiopia and Yemen, and two species, arabica and robusta, supply almost all the world's coffee.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Chocolate: from bitter drink to sweet bar.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "For thousands of years, chocolate was a frothy, bitter drink for rulers and gods.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It became the solid, sweet bar we know only in the last two centuries.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Food of the gods.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chocolate begins with the cacao tree, Theobroma cacao, meaning 'food of the gods'.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is native to the tropical Americas, and traces of cacao on pottery in Ecuador are more than 5,000 years old.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Olmec, Maya and Aztec peoples made it central to their cultures.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They ate no chocolate bars.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They ground roasted beans into a paste, mixed it with water, often added chilli, maize or flowers, and poured the drink from a height to raise a prized foam.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It was bitter, not sweet, and featured in ceremonies, feasts and marriages.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Aztecs valued the beans so highly that they used them as money.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sugar, slavery and farms.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Spanish invaders met cacao in the sixteenth century and took it home.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Europeans found the bitter drink strange until it was sweetened with sugar and spiced with cinnamon and vanilla.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It became a luxury for royal courts and the wealthy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because sugar and cacao came from colonial plantations, the taste was tied to the forced labour of enslaved people.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cacao needs hot, humid land near the equator.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Today most grows in West Africa, with Cote d'Ivoire and Ghana producing well over half of global supply, mostly on small family farms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many farmers earn very little, and investigations have repeatedly found child labour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Certification schemes help, with mixed results.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When harvests failed in 2023 and 2024, prices hit records and bars grew dearer or smaller.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How the bar was invented.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Modern chocolate is surprisingly recent.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1828 the Dutch van Houten family patented a press that squeezed much of the fat, cocoa butter, from ground cacao, leaving a powder that mixed easily into drinks.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The cocoa butter proved useful.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1847 the English firm J. S. Fry and Sons combined cocoa powder, sugar and extra cocoa butter into a mouldable paste, often called the first modern chocolate bar.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1870s Swiss maker Daniel Peter added condensed milk, with help from his neighbour Henri Nestle, to create milk chocolate.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soon after, Rodolphe Lindt invented the conche, a machine that stirs chocolate for hours or days, making it far smoother than the gritty bars before it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pod, bean and temper.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cacao pods grow straight from the trunk, each holding dozens of beans in sweet white pulp.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Farmers pile the beans and pulp, often under banana leaves, for several days.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Yeasts and bacteria feast on the pulp, the pile heats up, and chemical changes build chocolate flavour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Without fermentation cacao tastes astringent and flat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The beans are dried, roasted, cracked and winnowed into nibs, which are ground into cocoa mass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also called cocoa liquor, but contains no alcohol.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cocoa butter can set into several crystal forms, and only one gives a glossy, snapping bar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Tempering, heating, cooling and gently reheating, forms the right crystals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Poorly tempered chocolate may show white or grey bloom, which is cocoa butter or sugar on the surface.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It looks unappealing but is safe to eat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Health, treats and pets.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cacao contains flavanols, studied for possible benefits to blood vessels, and theobromine, a mild stimulant related to caffeine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Headlines sometimes call chocolate a health food.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In reality most chocolate is high in sugar and fat, and processing can strip out many flavanols, so enjoy it as a treat.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, and healthdirect is a good place for dietary advice.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One warning matters.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Dogs break down theobromine far more slowly than people, so chocolate can poison them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Dark chocolate and cooking chocolate are the most dangerous.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If a dog eats chocolate, call a vet promptly, especially around Easter and Christmas.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: For thousands of years cacao was a bitter, frothy drink in the Americas, not a sweet bar.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Bananas: the fruit of clones.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The banana in your lunchbox is almost certainly a genetic copy of nearly every other banana in the shop.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "That makes it cheap, convenient and surprisingly fragile.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not a tree, a berry.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A banana plantation looks like a forest, but banana plants are not trees.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "They have no wood.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What looks like a trunk is a pseudostem of tightly wrapped leaf bases, and the true stem stays mostly underground as a fleshy corm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some plants grow taller than a house, making them among the largest herbaceous plants in the world.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Each pseudostem flowers once, bears one large bunch and dies back, while new shoots called suckers rise from the base.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Botanically, the fruit is a berry, because it develops from a single flower's ovary and has its seeds inside the flesh.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Strawberries, confusingly, do not count as true berries.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Seedless clones.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wild bananas, which grow across South-East Asia and the western Pacific, are full of hard seeds.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Evidence from Kuk Swamp in Papua New Guinea suggests people cultivated bananas there around 7,000 years ago.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Traders and migrants carried them to India, Africa and the Pacific, and they reached the Americas after European contact in the early sixteenth century.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sweet bananas are eaten raw, while plantains and cooking bananas are boiled or fried, and in parts of East Africa they are a daily staple.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Our bananas come from rare plants with three sets of chromosomes, which makes them sterile.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The dark specks inside are undeveloped seeds.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farmers plant suckers, cuttings or laboratory plantlets, so each plant is identical to its parent.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Big Mike to Cavendish.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Until the mid-twentieth century, the banana in Western shops was mostly the Gros Michel, or Big Mike.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It was large and creamy, and its thick skin survived long shipping.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But it was vulnerable to Panama disease, a wilt caused by a soil fungus that blocks the plant's water vessels and can persist in soil for decades.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Every Gros Michel was a clone, so none had resistance.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plantations across Central America and the Caribbean were devastated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "By the 1960s, exporters had switched to the Cavendish, which resisted that strain.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Cavendish has an English story.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1830s, the Duke of Devonshire's gardener Joseph Paxton, who later designed the Crystal Palace, coaxed one into fruit in the Chatsworth House hothouses and named it after his employer.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "How bananas ripen.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Shop bananas are harvested hard and green, because ripe fruit bruises easily.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Like apples, tomatoes and avocados, bananas are climacteric fruit: they keep ripening after picking.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The trigger is ethylene, a simple gas the fruit produces itself.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Distributors use ripening rooms and add a little ethylene to start the fruit off evenly.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As a banana ripens, starch converts to sugars, the flesh softens and the green chlorophyll in the skin breaks down, revealing yellow pigments.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brown spots mean it is very ripe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A paper bag with an apple traps ethylene and speeds ripening, while refrigeration blackens the skin but leaves the flesh fine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Power and Australian bananas.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the early twentieth century, American companies such as United Fruit owned plantations, railways and ports in Central America.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1904 O. Henry used the phrase \"banana republic\" for a country dominated by foreign business.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1928 Colombian troops fired on striking banana workers, and in 1954 a CIA-backed coup removed Guatemala's elected government, whose land reforms threatened United Fruit.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Australian bananas grow in far north Queensland, around Tully and Innisfail.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Cavendish dominates, and the small, sweet Lady Finger is a local favourite.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fresh bananas are not imported, so cyclones such as Larry in 2006 and Yasi in 2011 sent prices soaring.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The biggest threat is Tropical Race 4, a Panama disease strain that attacks Cavendish and was found in Queensland in 2015.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: The banana plant is a giant herb with a trunk made of leaves, and its fruit is botanically a berry.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. How does robusta differ from arabica?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It is hardier and more bitter, with about twice the caffeine.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. How did the Maya and Aztecs usually enjoy cacao?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. As a bitter, frothy, spiced drink.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Why is a banana plant not a tree?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. It has no wood; its trunk is wrapped leaf bases.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

@@ -1,10 +1,10 @@
 {
  "id": "s-psychology-3",
- "h": "cognitive-dissonance,procrastination,persuasion",
+ "h": "procrastination,boredom-science,persuasion",
  "title": "Psychology · Episode 3",
  "chapters": [
-  "Cognitive dissonance: why we twist the facts to feel better",
   "Why we procrastinate",
+  "Boredom: the feeling we'll do almost anything to escape",
   "The psychology of persuasion"
  ],
  "units": [
@@ -15,577 +15,535 @@
    "ps": false
   },
   {
-   "t": "In this episode: Cognitive dissonance: why we twist the facts to feel better, Why we procrastinate and The psychology of persuasion.",
+   "t": "In this episode: Why we procrastinate, Boredom: the feeling we'll do almost anything to escape and The psychology of persuasion.",
    "c": -1,
    "k": "s",
    "ps": true
   },
   {
-   "t": "Part one. Cognitive dissonance: why we twist the facts to feel better.",
+   "t": "Part one. Why we procrastinate.",
    "c": 0,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "When reality clashes with what we believe or what we've done, something has to give.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Surprisingly often, it isn't the belief.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A prophecy fails.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1954, a small group in the American Midwest believed a flood would destroy much of the world on 21 December, and that a flying saucer would rescue the faithful beforehand.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Some members quit jobs and gave away possessions.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Unknown to the group, several new members were researchers working with psychologist Leon Festinger.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They watched as midnight passed with no spaceship and no flood.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rather than abandon the belief, the leader announced that the group's faith had saved the world, and some members began seeking publicity and recruits for the first time.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Festinger and colleagues described the episode in the 1956 book When Prophecy Fails.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It illustrated an idea Festinger would soon make famous.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What dissonance is.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 1957 Festinger published A Theory of Cognitive Dissonance.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When we hold two beliefs, or a belief and an action, that conflict, we feel an uncomfortable tension.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A smoker who knows smoking kills experiences it every time they light up.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That discomfort motivates us to restore consistency, and there are only a few ways.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "We can change our behaviour, by quitting.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "We can change our belief, by deciding the risks are exaggerated.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Or we can add thoughts that soften the clash, such as 'my grandfather smoked and lived to ninety' or 'everyone dies of something'.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Changing behaviour is often the hardest option, so the mind quietly reaches for the others.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Justifying our choices.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Dissonance is thought to be strongest after a hard decision.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Agonise between two similar cars, buy one, and you may suddenly notice how good it is and how flawed the other was.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 1956 Jack Brehm had people choose between two appliances they liked equally; the chosen item tended to rise in their ratings, the rejected one to fall.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Later researchers noted a statistical problem with this design, and corrected studies often find a smaller effect.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In a 1968 racetrack study, punters who had just placed a bet were more confident of winning.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The same logic gives effort justification.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In a 1959 study, Elliot Aronson and Judson Mills found that people who endured an embarrassing initiation rated a dull group more highly.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It helps explain fierce loyalty after hazing, and why people stay with failing projects.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Debates and doubts.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The most famous dissonance study is a 1959 experiment by Festinger and James Carlsmith.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Students did an hour of dull tasks, then were paid one dollar or twenty to tell the next participant it was fun.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The one dollar group later rated the task as more enjoyable.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The explanation: twenty dollars was reason enough to lie, one dollar was not, so they decided the task wasn't so bad.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Replications of this kind of finding have been mixed, so it deserves caution.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The theory has always had critics.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In the 1960s Daryl Bem argued that we simply infer our attitudes from our behaviour.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Others suggested the real driver is protecting our self-image as a good, sensible person.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The doomsday study is also questioned.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Most psychologists still accept that people often rationalise, but treat specific classic experiments cautiously.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Using dissonance wisely.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The practical value of dissonance theory is self-awareness.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "When you feel defensive, irritated or eager to explain something away, a cherished belief may have met an inconvenient fact.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pausing to ask 'what would change my mind?'",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "helps.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "So does separating your identity from your opinions: being wrong about a decision does not make you foolish.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In relationships, remember that others feel dissonance too, so cornering someone with evidence often makes them dig in.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Offering a face-saving way to change their mind works better.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "There is a famous anecdote from Benjamin Franklin, who said he won over a rival by asking to borrow a rare book.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Helping you, perhaps, made the rival like you more.",
-   "c": 0,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: A doomsday group whose prophecy failed gave psychologists a view of how people defend a belief.",
-   "c": 0,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part two. Why we procrastinate.",
-   "c": 1,
    "k": "head",
    "ps": false
   },
   {
    "t": "Procrastination isn't laziness or poor time management.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "It's an emotion problem, and that's good news.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "An emotion problem.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Around one in five adults describe themselves as chronic procrastinators, and nearly everyone does it sometimes.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "It's tempting to blame laziness or poor organisation, but research by psychologists such as Tim Pychyl and Fuschia Sirois suggests otherwise.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Procrastination is mostly about emotions.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "We delay tasks that make us feel bored, anxious, confused, overwhelmed or insecure, because putting them off gives instant relief.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "That's a short-term fix with a long-term cost, and the relief rewards the delay, turning it into a habit.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The good news is that an emotion problem can be worked on.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Why we delay.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Economists call it present bias: rewards now feel much bigger than rewards later, so a finished report next week can't compete with scrolling right now.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Brain-imaging studies even find that thinking about our future selves looks more like thinking about a stranger, so we hand future-us the hard work as if it were somebody else's problem.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Perfectionism adds fuel.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many procrastinators care a lot.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "If a task feels like a test of your ability, starting risks proving you're not good enough, and delay protects your self-image with a ready excuse: 'I only did badly because I left it too late.'",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Lower the stakes of starting.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Allow a terrible first draft, 'version zero'.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Perfection is for the end, never the beginning.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Make starting tiny.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Dread is usually worst before you begin, and it often fades once you start.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "So make starting tiny: commit to two minutes, one paragraph, or just opening the document and writing the heading.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "You may stop after that, but you often won't, partly because unfinished tasks tend to stay on your mind.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Even if you stop, you've broken the avoidance loop.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Make tasks concrete too.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "'Do tax' or 'Plan the wedding' is vague, so your brain can't picture the first step.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Turn it into a next action that starts with a verb: 'Find last year's tax return', 'Email three venues for quotes'.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Productivity writer David Allen calls this the 'next action'.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Small steps feel less threatening and build momentum.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Time and surroundings.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Willpower is unreliable, especially when you're tired, so shape your time and surroundings instead.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "The Pomodoro Technique, created by Francesco Cirillo in the late 1980s and named after a tomato-shaped kitchen timer, means 25 minutes on one task, then a 5-minute break, with a longer break after four rounds.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "A deadline 25 minutes away is easy to face, and the break is a reward.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Timeboxing goes further: put the task in your calendar like an appointment, removing one more decision.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then design out distraction.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Put your phone in another room, since just having it within reach invites a quick check.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Use website blockers, close extra tabs, work somewhere you associate with focus, and tell someone what you'll finish by when.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Forgive yourself.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "Beating yourself up feels like it should help, but it usually makes things worse, because guilt is another unpleasant feeling to avoid.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": true
   },
   {
    "t": "In a study of university students, those who forgave themselves for procrastinating before their first exam procrastinated less before the next one.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Self-compassion isn't letting yourself off the hook; it's treating yourself like a friend who stumbled.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Acknowledge it, work out what made the task feel hard, and choose the next small step.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "Then take it.",
-   "c": 1,
+   "c": 0,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Procrastination is mainly about avoiding unpleasant feelings, not poor time management.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Boredom: the feeling we'll do almost anything to escape.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Given the choice between sitting quietly with their thoughts and giving themselves an electric shock, many people chose the shock.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "What is boredom trying to tell us?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shock or sit still.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In studies published in 2014, psychologist Timothy Wilson and colleagues at the University of Virginia asked people to sit alone in a plain room for about six to fifteen minutes with nothing to do but think.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "No phone, no book, no pen.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many found it unpleasant.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In one version, participants had first been given a mild electric shock, and many said they would pay money to avoid feeling it again.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Yet when left alone with a button that would deliver the same shock, about two thirds of men and a quarter of women pressed it at least once.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "One participant pressed it 190 times.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The result raised a question: what exactly is boredom?",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A signal, not a flaw.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Boredom is not the same as having nothing to do.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You can relax happily on a beach, and you can be bored stiff in a meeting while busy.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 2012, psychologist John Eastwood and colleagues defined it as 'the aversive experience of wanting, but being unable, to engage in satisfying activity'.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The mind is ready to be used, but the situation, perhaps too easy, too hard or meaningless, offers nothing to capture it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many researchers now see boredom as a useful emotion, like hunger or pain.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Andreas Elpidorou describes it as a regulatory signal that nudges us towards goals that matter.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is not laziness or a moral failing.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boredom and creativity.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A popular idea says boredom makes us more creative.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In a 2014 study, Sandi Mann and Rebekah Cadman had some participants copy numbers from a phone book.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Afterwards, they thought of more uses for a pair of plastic cups than people who had not been bored.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The theory is that when the world is dull, the mind wanders and makes unexpected connections.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is an appealing finding, but the studies have been small and results across experiments have been mixed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some mind-wandering time may help creativity, but treating boredom as a guaranteed creativity booster goes beyond the evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Proneness and phones.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People differ in how often they get bored.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Since Richard Farmer and Norman Sundberg developed a Boredom Proneness Scale in 1986, researchers have found that easily bored people report more attention problems, impulsive behaviour and low mood.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boredom proneness has also been linked with gambling, overeating and substance use, perhaps because these offer quick stimulation.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are associations, not proof that boredom causes the problems.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smartphones offer an instant escape from even a few seconds of boredom.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If boredom signals us to seek something meaningful, endless scrolling may silence the signal without satisfying it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Whether phones make us more bored overall is not settled, but a mindless scroll rarely leaves people refreshed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Making boredom work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If boredom is a signal, listen to it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask what is missing: challenge, meaning, novelty or control.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A task that is too easy can become a game, such as beating your previous time.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A task that is too hard may need breaking into smaller steps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If something feels pointless, connect it to a goal you care about.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is also worth occasionally letting yourself be bored without escaping, such as walking without headphones or sitting with a cup of tea and no screen.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Many people find that ideas, plans and solutions surface in those quiet gaps.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boredom, used well, can be the start of something interesting.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Many people find being alone with their thoughts so unpleasant that they would rather give themselves a mild electric shock.",
    "c": 1,
    "k": "s",
    "ps": true
@@ -867,25 +825,25 @@
    "ps": false
   },
   {
-   "t": "Question one. What did the failed doomsday prophecy illustrate?",
-   "c": 3,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. People may defend a belief harder when reality contradicts it.",
-   "c": 3,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question two. According to the research, what is procrastination mostly about?",
+   "t": "Question one. According to the research, what is procrastination mostly about?",
    "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Avoiding unpleasant emotions like boredom.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did the 2014 study find about being alone with one's thoughts?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Many found it unpleasant, and some chose to shock themselves.",
    "c": 3,
    "k": "a",
    "ps": false

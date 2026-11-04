@@ -1,0 +1,930 @@
+{
+ "id": "s-work-4",
+ "h": "leaving-a-job-well,emotional-labour,burnout-and-disconnecting",
+ "title": "Get Ahead at Work · Episode 4",
+ "chapters": [
+  "Leaving a job the right way",
+  "Emotional labour: when feelings are part of the job",
+  "Burnout and the right to disconnect"
+ ],
+ "units": [
+  {
+   "t": "Get Ahead at Work. Episode four.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Leaving a job the right way, Emotional labour: when feelings are part of the job and Burnout and the right to disconnect.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Leaving a job the right way.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "How you leave a job can shape your references, your final pay and your reputation for years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Here is how to resign well.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Endings are remembered.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The manager you leave behind may one day interview you, become your client or be called as your referee.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The colleague who covered your workload after a messy exit may turn up at your next workplace.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A good exit protects your references, makes sure you receive everything you are owed and leaves the door open.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A bad exit, such as walking out mid shift, posting complaints online or vanishing without a handover, can follow you for years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Leaving well does not mean pretending everything was perfect.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It means being clear, professional and fair, even if you are glad to be going.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information, not legal advice.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The Fair Work Ombudsman has details for your situation.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Notice and the conversation.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Your notice period is usually set by your award, enterprise agreement or contract, so check all three.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One to four weeks is common, often depending on how long you have worked there.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Casual employees often have different rules.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If you do not give the required notice, some awards and agreements allow your employer to deduct an amount from your final pay.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Your manager should hear the news from you, not the grapevine.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Ask for a short private meeting, say you have decided to leave, give your last day and thank them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You need not explain where you are going or air every grievance.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Then send a short resignation letter or email with the date, your role, a clear statement that you are resigning, your last day and a thank you.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep a copy.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Counter offers.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "An employer may respond to your resignation with more money, a new title or a promise that things will change.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It can be flattering, and occasionally it is exactly what you wanted.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But ask why you started looking in the first place.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If the reasons were pay alone, a counter offer might solve it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If they were culture, management, workload or growth, money rarely fixes those for long.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Consider, too, why it took a resignation to get the offer.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some managers react badly, with anger or guilt.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Stay polite, firm and brief.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The decision is yours.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "You must not be threatened or punished for exercising workplace rights, and the Fair Work Ombudsman can give information if things go wrong.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hand over properly.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Use your notice period to make life easy for whoever takes over.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Write a handover document covering current projects, where key files and passwords are stored through approved channels, upcoming deadlines, regular tasks and important contacts.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Note what is half finished and what happens next.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Offer to train a colleague or your replacement.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Be honest about what you cannot finish.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Keep working properly until your last day, because coasting is noticed.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Return laptops, phones, keys and uniforms.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Do not take confidential information, client lists or company files, which could breach your contract or the law.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Say goodbye to colleagues and swap personal contact details with those you want to stay in touch with.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Final pay and goodbyes.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Final pay should include wages to your last day and other outstanding amounts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under the National Employment Standards, unused annual leave is paid out, including leave loading if your award, agreement or contract provides for it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Unused personal or carer's leave generally is not.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Long service leave depends mostly on your state or territory and sometimes your award.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check your final payslip against your leave balance, confirm your final super is paid, and download your payslips before system access ends.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Raise anything missing in writing, then contact the Fair Work Ombudsman if needed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ask a manager or senior colleague to be a referee.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Give constructive exit feedback, update LinkedIn only after telling your manager, send a farewell message and avoid criticising your old employer publicly.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people return later.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: How you leave can shape your references, final pay and reputation, because industries are smaller than they look.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. Emotional labour: when feelings are part of the job.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Flight attendants smile through turbulence; debt collectors scowl on cue.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1983 a sociologist showed that many jobs sell not just our time and effort, but our feelings.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Feelings for sale.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1983 sociologist Arlie Hochschild published The Managed Heart.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Her idea: many jobs demand more than physical or mental effort.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Workers must also produce particular emotions in themselves and, through them, in customers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She called this emotional labour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A nurse stays composed in front of frightened families.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A funeral director offers quiet sympathy, day after day.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Hochschild studied Delta Air Lines flight attendants, who were trained to treat the cabin as their living room and to imagine a rude passenger might simply be frightened of flying.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Debt collectors faced the opposite task: suppressing sympathy and projecting sternness.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In both cases, feelings had become part of what the employer sells, and so something to train and monitor.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Surface and deep acting.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hochschild borrowed two ideas from the theatre.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In surface acting, you put on the expected expression without changing what you feel, smiling at a rude customer while seething inside.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In deep acting, you try to summon the feeling itself, perhaps by reframing the customer as anxious rather than nasty, or by recalling something warm.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Later researchers added a third case: sometimes workers simply feel what the job requires, such as real compassion for a patient, so no acting is needed.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hochschild also described feeling rules, the often unspoken norms about what we should feel in a situation, such as joy at a wedding or grief at a funeral.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The toll, and what helps.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hochschild worried that long-term emotional labour could leave people unsure which feelings were really theirs.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Researchers describe emotional dissonance: the gap between what you feel and what you must display.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Pooled workplace studies, including a 2011 meta-analysis, link surface acting fairly consistently with emotional exhaustion, lower job satisfaction and more stress symptoms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deep acting shows weaker, more mixed links with strain.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emotional labour is not inherently harmful, and many people find meaning in comforting others.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is easier to sustain with some freedom over how you express yourself, supportive colleagues and managers, and a workplace that backs staff against abusive customers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Genuinely switching off during time off also helps recovery.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Who does it.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hochschild estimated that about a third of American workers had jobs involving substantial emotional labour, and about half of working women, reflecting how many women worked in service and caring roles.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Examples include retail and hospitality staff, call centre workers, nurses, teachers, childcare workers, paramedics, police and social workers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The demands differ.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Some roles require constant positivity, others composure amid distress or hostility, and corrections or security work means projecting calm authority while staying alert to danger.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Status matters too: workers lower in the hierarchy are often expected to absorb rudeness without responding.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Customer mistreatment is a significant stressor for frontline staff, especially when they cannot set limits.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A term that grew.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 2010s the phrase escaped academic journals.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People began using it for the unpaid work of remembering birthdays, organising family schedules, noticing what the household is running out of, and soothing everyone's moods.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This load is often carried disproportionately by women.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Related terms such as the mental load describe the invisible planning behind running a home.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These are real and important issues, and research on the division of household labour is extensive.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But Hochschild has said in interviews that the term has sometimes been stretched to cover almost any chore, blurring her original focus on managing feelings, especially for a wage.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "When you meet the phrase, it helps to ask which meaning is intended.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Emotional labour is managing your own feelings as part of paid work, so that customers feel a certain way.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Burnout and the right to disconnect.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Burnout is more than a bad week.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Learn the warning signs, what you can change and what Australian workplace rules say about switching off.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "What burnout is.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Jess used to love her job.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Now Sunday nights bring a knot in her stomach, she snaps at colleagues and tasks that once took an hour drag on all afternoon.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She is not lazy.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "She may be burning out.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The World Health Organization describes burnout as an occupational phenomenon, not a medical condition, resulting from chronic workplace stress that has not been successfully managed.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It has three features: energy depletion or exhaustion, increased mental distance from your job or feelings of negativity or cynicism about it, and reduced professional effectiveness.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Because burnout is about work specifically, solutions often involve how work is organised, not just personal resilience.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This lesson is general information, not medical, legal or professional advice.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Warning signs and causes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Early signs include trouble switching off, poor sleep, tiredness that rest does not fix, irritability, dreading work, getting sick more often and uncharacteristic mistakes.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Others may notice first, so take it seriously if a partner or friend says you seem different.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "These signs overlap with depression and anxiety, so do not self diagnose.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speak with your GP.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Healthdirect and Beyond Blue offer free information and phone support around the clock.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers point to mismatches between people and work: too heavy a workload for too long, little control, too little recognition, conflict or isolation, unfairness, and clashing values.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Long hours alone do not always cause burnout.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The danger zone is high demands, low control and little support.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Employers have duties.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Under work health and safety laws, employers must, so far as is reasonably practicable, ensure the health and safety of workers, and health includes psychological health.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In recent years, most Australian jurisdictions have introduced regulations on managing psychosocial hazards, which are aspects of work that can cause psychological harm.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Examples include excessive job demands, poor support, low role clarity, bullying, harassment and poor workplace relationships.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This means a sustained, unmanageable workload is not just your personal problem.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is a workplace risk your employer should identify and control.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many employers also offer an Employee Assistance Program, which typically provides free, confidential short term counselling, so it is worth asking whether yours does.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The right to disconnect.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2024, Australia added a right to disconnect to the Fair Work Act.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It began applying to employees of non small business employers in August 2024 and was extended to small business employees in August 2025.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In broad terms, an employee can refuse to monitor, read or respond to contact, or attempted contact, from their employer or a third party such as a client outside their working hours, unless that refusal is unreasonable.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Whether it is unreasonable depends on factors such as the reason for the contact, how it is made, whether you are paid to be available, your role and your personal circumstances.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Emergencies and genuine on call arrangements are treated differently.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Check the Fair Work Ombudsman website for how this applies to you.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Boundaries and speaking up.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Set a clear end to your workday and mark it with a small ritual, such as closing the laptop or writing tomorrow's top three tasks.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Turn off work notifications outside hours.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Take your leave and switch off fully.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "None of this fixes a broken workload, but it helps you recover.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Many people wait until they are close to collapse before saying anything.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Book a private conversation and describe the situation concretely: what is on your plate, how many hours it takes and what is slipping.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Frame it as a resourcing problem to solve together, and bring options for what could be paused, delegated or simplified.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Follow up in writing.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "If nothing changes, consider HR, a union, your health and safety representative or the Fair Work Ombudsman.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Burnout is a work related pattern of exhaustion, cynicism and reduced effectiveness, not simple tiredness.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Why does the way you leave a job matter?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Past managers may become referees, clients or colleagues.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. What did Hochschild mean by emotional labour?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Managing your own feelings at work so customers feel a certain way.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How does the World Health Organization describe burnout?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. An occupational phenomenon from unmanaged chronic work stress.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}

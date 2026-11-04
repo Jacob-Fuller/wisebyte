@@ -1,12 +1,11 @@
 {
  "id": "s-happiness-2",
- "h": "social-connection,meaning,regret-science,mindfulness",
+ "h": "social-connection,laughter-science,meaning",
  "title": "The Science of Happiness · Episode 2",
  "chapters": [
   "Friendship and loneliness",
-  "Meaning and purpose",
-  "Regret: the things we didn't do",
-  "Mindfulness and meditation"
+  "Laughter: it's not really about jokes",
+  "Meaning and purpose"
  ],
  "units": [
   {
@@ -16,7 +15,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Friendship and loneliness, Meaning and purpose, Regret: the things we didn't do and Mindfulness and meditation.",
+   "t": "In this episode: Friendship and loneliness, Laughter: it's not really about jokes and Meaning and purpose.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -292,896 +291,578 @@
    "ps": true
   },
   {
-   "t": "Part two. Meaning and purpose.",
+   "t": "Part two. Laughter: it's not really about jokes.",
    "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "We think we laugh because something is funny.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "One scientist spent years eavesdropping on laughing strangers and found that most laughter has nothing to do with humour at all.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laughter isn't about jokes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1990s neuroscientist Robert Provine, of the University of Maryland, Baltimore County, took a simple approach.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Rather than showing people comedy in a lab, he and his students hung around shopping centres, campuses and city streets, noting what people had just said when someone laughed.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Across more than a thousand episodes, only around 10 to 20 per cent of laughs followed anything like a joke.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most came after lines such as 'I'll see you guys later' or 'Are you sure?'",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Speakers also laughed more than their listeners.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laughter, Provine concluded, is less a reaction to comedy than a social signal: a way of saying we are friendly, relaxed and on the same side.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Laughter is for company.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "If laughter were just about funny things, you would laugh as much alone as with friends.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You don't.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In diary studies, Provine found people laughed about 30 times more often in social situations than alone, and much of what they laughed at alone came from television or radio, which supply a kind of company.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Laughter is also contagious.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Hearing others laugh makes us more likely to laugh, which is why television producers began adding canned laughter in the 1950s, using a machine nicknamed the 'laff box', invented by sound engineer Charley Douglass.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most people say they dislike laugh tracks, yet studies have found they can make people laugh more at the same jokes.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Older than words.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Laughter is far older than language.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chimpanzees, bonobos, gorillas and orangutans make breathy panting sounds when they play-wrestle or are tickled.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Researchers who compared these sounds found a family tree of laughter that matches the apes' evolutionary relationships.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Ape laughter pants in and out with each breath, while human laughter chops a single outward breath into rhythmic 'ha-ha-ha' bursts.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The roots may go deeper.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the late 1990s neuroscientist Jaak Panksepp found that rats make high-pitched chirps, too high for human ears, when tickled, and tickled rats chase the researcher's hand for more.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In mammals, laughter seems to have begun as a signal that rough play is only play.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Real and fake.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Neuroscientist Sophie Scott, of University College London, separates spontaneous laughter, which bursts out of us, from volitional laughter, the polite laugh we produce on purpose.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Brain imaging shows partly different areas respond to each, and people can usually tell them apart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In a 2014 study by Gregory Bryant and Athena Aktipis, sped-up spontaneous laughs began to sound like animal calls, while deliberate ones still sounded human.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That suggests real laughter relies on an older vocal system than speech does.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Deliberate laughter is not dishonest; it is often a kind, useful signal.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Smiles work similarly.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Guillaume Duchenne, a nineteenth century French neurologist, noted that real joy also tightens the muscle around the eye, creating crow's feet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But many people can fake this, so it is not a foolproof test.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Good company, not medicine.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Social laughter does something useful.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 2012 a team led by evolutionary psychologist Robin Dunbar found that people who laughed together at comedy videos could tolerate more pain than those who watched dull films.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They linked this to the brain's own opioid-like chemicals.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Shared laughter helps people feel closer, soothes tension and makes tough situations bearable, as anyone in a hard job with dark humour knows.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But claims that laughter cures disease, or that a set number of laughs replaces exercise, go far beyond the evidence.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Contagion can reach extremes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In 1962 at a girls' school in Kashasha, Tanganyika, now Tanzania, uncontrollable laughing spread to villages and affected roughly a thousand people over months.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "No infection or poison was found; it is described as mass psychogenic illness, a physical response spreading through a group under stress.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Studies of everyday conversation found most laughter follows ordinary remarks, because it works as a social signal.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. Meaning and purpose.",
+   "c": 2,
    "k": "head",
    "ps": false
   },
   {
    "t": "A happy life and a meaningful life aren't quite the same thing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Research suggests you need both.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Happiness versus meaning.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A 2013 study by Roy Baumeister and colleagues surveyed about 400 Americans.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Happiness was linked to getting what you want and feeling good in the present.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Meaning was linked to reflecting on past and future, contributing to others and expressing who you are, and it sometimes came with stress and struggle.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Takers were happier; givers found more meaning.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Raising children can lower moment-to-moment happiness while bringing some of the deepest meaning people report.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Frank Martela and Michael Steger proposed in 2016 that meaning has three parts: coherence, your life makes sense, purpose, goals and direction, and significance, your life matters to someone.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A new retiree may keep coherence but lose the purpose work provided.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Frankl and purpose.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Austrian psychiatrist Viktor Frankl was deported by the Nazis in 1942 and survived several camps, including Auschwitz.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "His wife, parents and brother died in the Holocaust.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In Man's Search for Meaning, 1946, he argued that people can endure almost anything if they find meaning in it, and that we keep the freedom to choose our attitude.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "He saw meaning in creating, in love or beauty, and in how we face unavoidable suffering.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "His therapy is called logotherapy, from the Greek logos, 'meaning'.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Purpose is also linked to lower risks of heart disease, stroke, dementia and early death, even after accounting for income and education.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "A 2019 analysis of about 7,000 Americans over 50 found the lowest purpose scores predicted earlier death.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Cause is uncertain, as healthier people may find purpose easier.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Where meaning comes from.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Research points to a few common sources of meaning.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Close relationships come first for most people.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Contributing matters too, through paid work, volunteering, parenting or caring for someone.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "So do growth and mastery, whether in carpentry, coaching or a language.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Many find meaning in something larger: a community, cause, nature, faith or tradition.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "It's usually found by doing, and grows from commitments already made.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Ikigai, Japanese for roughly 'reason for being', often refers to everyday sources of purpose, like a hobby, a role in the family or community work, not a grand mission.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "The popular four-circle diagram is a Western addition.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Aristotle's eudaimonia, flourishing through living well, is a similar idea.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Meaning at work.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Psychologist Amy Wrzesniewski found people tend to see their work in one of three ways: as a job, done mainly for pay; a career, focused on advancement; or a calling, worthwhile in itself.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Surprisingly, all three views appeared among people doing the same role, such as administrative assistants.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "In a study of hospital cleaners, some saw the work as purely cleaning, while others emphasised comforting patients and helping nurses, and found it far more meaningful.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Researchers call this job crafting: reshaping your tasks, relationships or how you think about your work to connect it with what you value.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Finding more meaning.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "You don't need a grand mission.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "At the end of each day, ask: what did I do that mattered to someone?",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Look for ways to use your strengths to help others, even in small ways.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Reflect on your values and check whether your calendar matches them.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Tell your story, too.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": true
   },
   {
    "t": "Psychologist Dan McAdams found that people who see their lives as stories of growth or redemption, where hard times led to something good, tend to report more meaning and wellbeing.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "Meaning can grow from difficulty, not just despite it, a point Frankl made from painful experience.",
-   "c": 1,
+   "c": 2,
    "k": "s",
    "ps": false
   },
   {
    "t": "The key idea: Happiness is feeling good now, while meaning comes from purpose, contribution and a life that makes sense.",
-   "c": 1,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part three. Regret: the things we didn't do.",
    "c": 2,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "In the short term we regret our mistakes.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Over a lifetime, research suggests, the chances we never took weigh far more heavily.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The emotion of 'if only'.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Regret is a thinking emotion.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "To feel it, you must imagine an alternative version of events, the one where you spoke up, studied harder, stayed, left, or did not hit send, and compare it with reality.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Psychologists call this counterfactual thinking.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It sets regret apart from disappointment: you can be disappointed by the weather, but you regret things you feel responsible for.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That sense of responsibility is why regret stings, and also why it can be useful.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 2005 psychologists Neal Roese and Amy Summerville reviewed studies of what people regret most and found the top areas were education, career, romance and parenting.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These are areas where choices are significant and change still feels possible.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Silver and bronze.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In a well-known 1995 study, psychologists Victoria Medvec, Scott Madey and Thomas Gilovich showed volunteers footage of medallists at the 1992 Barcelona Olympics and asked them to rate how happy each looked.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Bronze medallists appeared happier than silver medallists, both just after their events and on the podium.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The researchers pointed to counterfactual thinking.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Silver medallists compare upwards, with the gold they nearly won.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Bronze medallists compare downwards, with finishing fourth and going home with nothing.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Later studies often find similar patterns, though not always, since expectations matter: a silver can delight an athlete who never expected a medal.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The lesson is broader than sport.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Why inaction haunts us.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Gilovich and Medvec noticed a striking pattern.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "About a recent decision, people regret actions more: the rash comment or bad purchase stings.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "But looking back over a whole life, the pattern reverses and the biggest regrets are mostly things not done, such as not pursuing education, not taking a chance on a relationship, not spending time with family.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "They suggested why.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Regrets of action get repaired: we apologise, fix the problem or find a silver lining.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Inactions are open-ended.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A bad action has a known outcome, but a path not taken can be imagined endlessly, and it often turns out wonderfully in our heads.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "We also forget the real reasons we held back, such as money, family duties or genuine risk, so past caution looks like cowardice.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The regrets of the dying.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Australian palliative care worker Bronnie Ware spent several years caring for people in the last weeks of their lives.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 2009 she wrote a blog post about the regrets they shared, later expanded into a book.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The most common was wishing they had had the courage to live a life true to themselves rather than the one others expected.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Others included wishing they had not worked so hard, had expressed their feelings, had stayed in touch with friends and had let themselves be happier.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Her list is personal observation rather than a scientific study, and should be read that way.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Still, it lines up strikingly well with the research on regrets of inaction.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Four regrets, made useful.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Writer Daniel Pink gathered regrets from thousands of people in many countries for his 2022 book The Power of Regret and sorted them into four types.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Foundation regrets: failing to build a stable base, like not saving or not finishing study.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Boldness regrets: chances not taken.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Moral regrets: doing the wrong thing, such as cheating or betraying someone.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Connection regrets: relationships allowed to drift.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Each type shows something you deeply value.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Handled well, regret is useful.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Writing or talking about it shrinks it.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Treating your past self kindly, remembering what you knew then, helps you learn rather than punish yourself.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Imagining advice to a friend, or the view from ten years on, makes the lesson clearer.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "And when unsure, the bolder choice is often the one you will not regret.",
-   "c": 2,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Regret comes from imagining a better alternative you feel responsible for, which is why it stings and why it is useful.",
-   "c": 2,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Part four. Mindfulness and meditation.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "Ancient practice, modern science.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "What mindfulness is, what the evidence says, and how to start in two minutes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What mindfulness is.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Jon Kabat-Zinn founded the Mindfulness-Based Stress Reduction program at the University of Massachusetts Medical School in 1979.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "He defines mindfulness as paying attention on purpose, in the present moment, non-judgementally.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It has roots in Buddhist meditation, where the Pali word sati is often translated as mindfulness, but modern programs teach it as a secular skill.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It's less about emptying the mind than noticing what's in it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Minds wander a lot.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In a 2010 Harvard study, Matthew Killingsworth and Daniel Gilbert contacted about 2,250 adults through an iPhone app.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Minds wandered about 47 per cent of the time, and people were generally less happy when they did; wandering to pleasant topics was no happier than staying on task.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Mindfulness trains you to notice the drift and come back.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "What the evidence says.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hundreds of trials suggest mindfulness programs give small-to-moderate benefits for stress, anxiety and depression, roughly comparable to other active approaches like exercise or relaxation training.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Mindfulness-based cognitive therapy, an eight-week group program, reduces relapse in people with repeated depression and is recommended for that in some national guidelines.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Early research was often small or poorly controlled.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It doesn't suit everyone: for people with trauma histories, intensive meditation can bring up distressing experiences, so a trained teacher matters.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Be sceptical of brain claims too.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Small early studies reported grey matter changes after eight weeks, but a 2022 University of Wisconsin analysis of two randomised trials found no clear structural changes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Judge mindfulness by whether it helps you.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A simple practice.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Sit comfortably, with your back upright but not stiff.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Close your eyes or lower your gaze.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Notice the physical feeling of breathing, perhaps the cool air at the nostrils or the rise and fall of your belly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Before long your mind will wander to plans, memories or an itch.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "That's normal, not a failure.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The moment you notice, gently bring attention back to the breath, without scolding yourself.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "That noticing and returning is the exercise, like a repetition in the gym.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Start with two to five minutes a day at a regular time, and build up slowly if you enjoy it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Other styles of practice.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Breath focus isn't the only option.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A body scan moves attention slowly from the toes to the head, noticing sensations without trying to change them, and it's a core part of MBSR.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Walking meditation attends to each step and the shifting weight of the body, which suits people who find sitting still hard.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Loving-kindness meditation, drawn from the Buddhist practice of metta, involves silently wishing wellbeing to yourself, loved ones, strangers and even difficult people.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Some studies link it to increased positive emotion.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Guided recordings, including free ones from Australian not-for-profit Smiling Mind, can help beginners get started.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Attention in daily life.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Stoics didn't use the word mindfulness, but they practised prosoche, continuous attention to one's own thoughts and judgements.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Epictetus urged students to examine each impression before accepting it.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Marcus Aurelius, Roman emperor from 161 to 180 CE, reminded himself in his Meditations to focus on the task in front of him and not be carried away by imagined future troubles.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "You don't need formal meditation to practise.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Eat the first few bites of a meal slowly.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Notice your feet and the sounds around you on the walk to the bus.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Take three conscious breaths before answering a stressful email.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Pause before picking up your phone and ask whether you want to.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "These moments break autopilot habits and create a gap between what happens and how you react.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Mindfulness is paying attention to the present moment, on purpose and without judgement, which helps with a mind that wanders nearly half the time.",
-   "c": 3,
    "k": "s",
    "ps": true
   },
   {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. What did Holt-Lunstad's large review find about relationships and survival?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Stronger ties gave a roughly 50 per cent greater chance of survival.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
-   "t": "Question two. How did Baumeister's study separate meaning from happiness?",
-   "c": 4,
+   "t": "Question two. What did Provine's street observations find about what people laughed at?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Most laughs followed ordinary remarks, not jokes.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. How did Baumeister's study separate meaning from happiness?",
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. Happiness was about getting; meaning was about giving.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question three. What separates regret from simple disappointment?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Imagining a better outcome you were responsible for.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. What does mindfulness actually involve?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Noticing the present moment without judgement.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

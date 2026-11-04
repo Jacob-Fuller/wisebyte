@@ -1,12 +1,11 @@
 {
  "id": "s-ancient-greece-1",
- "h": "greek-city-states,ancient-olympics,greek-democracy,greek-wars",
+ "h": "greek-city-states,ancient-olympics,greek-democracy",
  "title": "Ancient Greece · Episode 1",
  "chapters": [
   "Athens and Sparta: the Greek city-states",
   "The original Olympic Games",
-  "The birth of democracy",
-  "Marathon, Thermopylae and Salamis"
+  "The birth of democracy"
  ],
  "units": [
   {
@@ -16,7 +15,7 @@
    "ps": false
   },
   {
-   "t": "In this episode: Athens and Sparta: the Greek city-states, The original Olympic Games, The birth of democracy and Marathon, Thermopylae and Salamis.",
+   "t": "In this episode: Athens and Sparta: the Greek city-states, The original Olympic Games and The birth of democracy.",
    "c": -1,
    "k": "s",
    "ps": true
@@ -832,314 +831,50 @@
    "ps": true
   },
   {
-   "t": "Part four. Marathon, Thermopylae and Salamis.",
-   "c": 3,
-   "k": "head",
-   "ps": false
-  },
-  {
-   "t": "In the 400s BC the mighty Persian Empire invaded Greece twice.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Three battles decided whether Greek civilisation would survive.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "An empire and a revolt.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "By 500 BC, the Achaemenid Persian Empire ruled millions of people across three continents, linked by royal roads and governed through provinces called satrapies.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Greek cities on the coast of Ionia, in modern Turkey, were under Persian control.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "When they rebelled in 499 BC, Athens and Eretria sent ships to help, and rebels burned the provincial capital of Sardis.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "King Darius I crushed the revolt and resolved to punish Athens.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The wars that followed pitted a vast, well-organised empire against a handful of quarrelsome Greek city-states, and the outcome shaped the history of Europe.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hoplites and triremes.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "A Greek hoplite was a citizen-soldier who bought his own armour: a bronze helmet, a large round shield and a long thrusting spear.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Hoplites fought shoulder to shoulder in a phalanx, each man's shield partly protecting his neighbour, so discipline mattered more than individual heroics.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "At sea, the key weapon was the trireme, a sleek warship rowed by about 170 oarsmen on three levels, with a bronze ram at the bow for smashing enemy hulls.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Rowers were often poorer citizens, and their importance to the navy later strengthened their political voice in Athens.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Marathon, 490 BC.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "In 490 BC a Persian fleet landed at Marathon, about 40 kilometres from Athens.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Athenians, joined by the small city of Plataea, were outnumbered but charged across the plain and won a decisive victory.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Herodotus says about 6,400 Persians died against 192 Athenians, figures that may be inflated.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "He also tells of a runner, Pheidippides, who ran roughly 240 kilometres to Sparta to ask for help before the battle.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The more famous story, of a messenger running from Marathon to Athens and dying after announcing victory, appears in later writers.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It inspired the marathon race at the 1896 Olympics.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Thermopylae, 480 BC.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Darius died before he could strike again, so his son Xerxes planned a far bigger invasion.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "His engineers built bridges of boats across the Hellespont and dug a canal through the Athos peninsula.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 480 BC a vast army and navy moved into Greece.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Many Greek cities submitted.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Others, led by Sparta and Athens, formed an alliance.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "A Greek force of several thousand, including King Leonidas and 300 Spartans, blocked the narrow pass of Thermopylae.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "For three days they held off the Persians, including the elite Immortals.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Then a local Greek, Ephialtes, showed the Persians a mountain path around the pass.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Leonidas sent most of the army away and stayed with a rearguard of Spartans and several hundred Thespians, who were killed.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "It was a defeat, but it bought time.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Salamis, Plataea and legacy.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "The Persians burned an evacuated Athens.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Themistocles had earlier persuaded the city to spend a silver strike on around 200 triremes.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Now he lured the bigger Persian fleet into the narrow straits near Salamis, reportedly with a false message that the Greeks were about to flee.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Crowded together, the Persian ships couldn't manoeuvre, and the Greek triremes rammed and sank many.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "In 479 BC, the Greeks defeated Mardonius's army at Plataea, and the invasions were over.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "Had Persia won, Athens' democracy and golden age might never have happened.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "Herodotus, writing a generation later, is called the father of history.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
-   "t": "But he included myths and rumours, so his numbers, such as Xerxes' army of millions, are almost certainly exaggerated.",
-   "c": 3,
-   "k": "s",
-   "ps": false
-  },
-  {
-   "t": "The key idea: Persia's punishment of Athens for helping a revolt set up a clash between an empire and quarrelsome city-states.",
-   "c": 3,
-   "k": "s",
-   "ps": true
-  },
-  {
    "t": "Quick recall. Answer out loud, or just in your head.",
-   "c": 4,
+   "c": 3,
    "k": "head",
    "ps": false
   },
   {
    "t": "Question one. What was a polis?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. An independent city-state with its own laws.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question two. What was the purpose of the sacred truce?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. To let athletes and spectators travel safely to Olympia.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "Question three. Why is Cleisthenes' reform of 508 BC counted as the birth of Athenian democracy?",
-   "c": 4,
+   "c": 3,
    "k": "q",
    "ps": false
   },
   {
    "t": "Answer. It shifted power from noble families to citizens.",
-   "c": 4,
-   "k": "a",
-   "ps": false
-  },
-  {
-   "t": "Question four. Why did Darius I resolve to punish Athens?",
-   "c": 4,
-   "k": "q",
-   "ps": false
-  },
-  {
-   "t": "Answer. Athens had helped the Ionian Greek revolt.",
-   "c": 4,
+   "c": 3,
    "k": "a",
    "ps": false
   },
   {
    "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
-   "c": 4,
+   "c": 3,
    "k": "end",
    "ps": false
   }

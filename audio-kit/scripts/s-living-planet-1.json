@@ -1,0 +1,930 @@
+{
+ "id": "s-living-planet-1",
+ "h": "photosynthesis,soil,fungi",
+ "title": "Plants, Soil and Ecosystems · Episode 1",
+ "chapters": [
+  "Photosynthesis: how plants eat sunlight",
+  "The secret life of soil",
+  "The hidden kingdom of fungi"
+ ],
+ "units": [
+  {
+   "t": "Plants, Soil and Ecosystems. Episode one.",
+   "c": -1,
+   "k": "title",
+   "ps": false
+  },
+  {
+   "t": "In this episode: Photosynthesis: how plants eat sunlight, The secret life of soil and The hidden kingdom of fungi.",
+   "c": -1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part one. Photosynthesis: how plants eat sunlight.",
+   "c": 0,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "A towering gum tree is built mostly from thin air, and the process that does it also made the oxygen you are breathing.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Built from thin air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In the 1600s, the Flemish scientist Jan Baptist van Helmont planted a small willow in carefully weighed, dried soil and gave it nothing but water for five years.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The willow gained a great deal of weight, yet the soil had barely changed.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He concluded the tree was made from water.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "He was partly right, but he missed the most surprising ingredient.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of a plant's dry mass is carbon, and that carbon comes from carbon dioxide drawn out of the air.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A huge gum tree is, in a very real sense, built from thin air, stitched together with water and powered by sunlight.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The process that does this is called photosynthesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The basic recipe.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A plant draws water up from its roots and takes in carbon dioxide through tiny leaf pores called stomata.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Using the energy in sunlight, it rearranges these into glucose, a sugar, and releases oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In shorthand, six carbon dioxide plus six water become one glucose and six oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Glucose is the plant's food and building material: burned for energy, stored as starch, or linked into cellulose for cell walls and wood.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It seems natural that the oxygen comes from the carbon dioxide.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "But 1940s experiments with a traceable heavy oxygen showed it comes from water, which plants rip apart using light.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Plants do this at ordinary temperatures, and researchers are still trying to copy it to make clean fuels such as hydrogen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Why leaves are green.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The green of leaves comes from chlorophyll, a pigment packed inside structures called chloroplasts.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Chlorophyll is very good at absorbing red and blue light, which powers photosynthesis.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is poor at absorbing green, so much of that light bounces back towards our eyes.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Leaves also contain yellow and orange pigments called carotenoids.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In many deciduous trees, autumn reveals them.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As days shorten, the tree stops making chlorophyll and breaks down what it has, and the hidden yellows and oranges show through.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Red autumn colours are different: they often come from new pigments made in the leaf at that time of year.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most Australian native trees, including eucalypts, are evergreen, so our famous autumn displays usually come from introduced species.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Two stages, many tricks.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photosynthesis has two linked stages in the chloroplast.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "First, chlorophyll absorbs light, splits water, releases oxygen and charges two energy-carrying molecules, ATP and NADPH, which act like batteries.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Second, in the Calvin cycle, they power the building of sugar.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "An enzyme called RuBisCO grabs carbon dioxide from the air and fixes it into an organic molecule.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "RuBisCO is slow and sometimes grabs oxygen by mistake, so plants make vast amounts of it.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is probably the most abundant protein on Earth.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Opening stomata lets water escape, a problem in hot, dry places.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sugarcane, maize and Australia's spinifex grasses use C4 photosynthesis, concentrating carbon dioxide around RuBisCO.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cacti, pineapples and many succulents use CAM, opening their stomata only at night, storing carbon dioxide as an acid and using it by day with pores shut.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A planet remade.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Photosynthesis is far older than plants.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Microbes developed it first, and one group, the cyanobacteria, worked out how to split water and release oxygen.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over hundreds of millions of years that oxygen built up, and around 2.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "4 billion years ago the atmosphere changed dramatically in the Great Oxidation Event.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some early oxygen reacted with iron dissolved in the oceans, helping to form banded iron formations.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Western Australia's Pilbara holds spectacular examples, and they supply much of the iron ore the country exports.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Today, tiny ocean plankton are thought to produce around half of the world's oxygen, with land plants providing much of the rest.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Even the coal, oil and gas we burn are stored sunlight, captured by photosynthesis millions of years ago.",
+   "c": 0,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: A tree's mass comes mostly from carbon dioxide in the air, not from the soil.",
+   "c": 0,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part two. The secret life of soil.",
+   "c": 1,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The ground beneath your feet is not dirt: it is a living, breathing system that took thousands of years to build and feeds almost everything on land.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A crowded handful.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A handful of healthy soil is one of the most crowded habitats on Earth.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soil scientists note that a single teaspoon of rich soil can hold hundreds of millions to billions of microorganisms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria, fungi, single-celled protists and microscopic nematode worms share the space with mites, springtails, beetle larvae, ants and earthworms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Most of these organisms have never been studied, and many have not been named.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The earthy smell after rain comes partly from geosmin, a compound made by certain soil bacteria.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "People are remarkably sensitive to it.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Far from lifeless dirt, soil is a busy underground city where life is recycled day and night.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Slow to build.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Soil begins as rock.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Heat and cold, freezing water, plant roots and rainwater slowly break it apart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Lichens and mosses colonise the surface and add organic material as they die.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Microbes and small animals mix it with mineral grains, and layers form: dark, humus-rich soil near the top, paler mineral layers below, then the parent rock.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is extremely slow.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A few centimetres of new soil can take hundreds of years or more, so soil lost to erosion is effectively lost for good.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In the 1930s, drought and poor farming on the American Great Plains caused the Dust Bowl, when dust storms stripped away topsoil and forced many families off their farms.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Soil is also estimated to hold more carbon than the atmosphere and all living plants combined.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sand, silt and clay.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The mineral part of soil comes in three particle sizes.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Sand is the largest and feels gritty.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Silt is finer and smooth, a bit like flour.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clay is tiny and sticky when wet.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their balance gives a soil its texture, and texture matters enormously.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Sandy soil drains fast and warms quickly but holds little water or nutrients.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Clay holds plenty of both but can become waterlogged, and sets hard when dry.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Gardeners prize loam, a mix of all three, which holds moisture while still letting air reach the roots.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A simple test: roll a moist pinch between your fingers.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Clay forms a ribbon, and sand falls apart.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Fungi and worms at work.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most land plants partner with fungi in relationships called mycorrhizae.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The plant supplies sugars from photosynthesis.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In return, fungal threads called hyphae spread far beyond the roots and bring back water and nutrients, especially phosphorus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The partnership is ancient and may have helped the first plants colonise land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Claims that forests share food and warnings through a 'wood wide web' are debated, so treat them with caution.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Earthworms swallow soil and decaying matter, leave nutrient-rich castings, and open tunnels for air and water.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Darwin devoted his last book, in 1881, to them.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Bacteria and fungi break dead material into substances plants can absorb again.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Victoria's giant Gippsland earthworm can reach about a metre long.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Australia's ancient soils.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Australia's soils are often very old and very poor.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Much of the land has been stable for a long time, without recent glaciers grinding up fresh rock or widespread volcanoes spreading mineral-rich ash.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Over millions of years, rain has leached out many nutrients, and phosphorus is often scarce.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Native plants have adapted.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Banksias, grevilleas and their relatives grow dense mats of fine cluster roots that release chemicals to free up tightly bound phosphorus.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some natives are even harmed by the phosphorus in ordinary garden fertiliser.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Farmers have long added fertilisers such as superphosphate, and scientists study how to farm these soils without degrading them or causing salinity.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The community Landcare movement began in Victoria in the late 1980s and now has thousands of local groups repairing land.",
+   "c": 1,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Healthy soil teems with life, from bacteria and fungi to worms and insects.",
+   "c": 1,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Part three. The hidden kingdom of fungi.",
+   "c": 2,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "The mushroom you see is just the tip of the iceberg.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Below ground, fungi feed forests, recycle the dead and sometimes grow into some of the largest living things on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Not quite plants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "After autumn rain, mushrooms seem to appear overnight.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "It is tempting to see them as odd little plants, but fungi are something else.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "They cannot make food from sunlight.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Instead, they release digestive enzymes into their surroundings and absorb the nutrients that are broken down.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Their cell walls are made of chitin, the tough material in insect shells, not plant cellulose.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Genetic studies show fungi are more closely related to animals than to plants.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The kingdom includes yeasts, moulds, mushrooms, rusts and lichen partners.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Around 150,000 species have been named, but the true total is estimated in the millions, and in Australia most fungi are thought to be undescribed.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fungus underground.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A mushroom is to a fungus roughly what an apple is to an apple tree: a temporary structure for spreading spores.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The main body of most fungi is the mycelium, a web of microscopic threads called hyphae that spread through soil, wood or leaf litter.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A teaspoon of healthy soil can hold a startling length of them.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Mycelium can grow enormous.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "In an Oregon forest, a single honey fungus spreads through the soil across nearly ten square kilometres, and is thought to be thousands of years old.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "It is often described as one of the largest living organisms on Earth.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Above ground, you would notice only the occasional clump of honey-coloured mushrooms and some unhealthy trees.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Partners of plants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Most healthy plants have fungi wrapped around or inside their roots.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "These partnerships, mycorrhizas, 'fungus root', are formed by the large majority of land plants.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The fungus's fine threads reach much further than roots, gathering water and nutrients such as phosphorus and nitrogen.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In return, the plant gives the fungus sugars from photosynthesis.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Some Australian orchids cannot even germinate without the right fungus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1997 Suzanne Simard and colleagues suggested carbon could move between trees through shared fungal networks, and the 'wood wide web' idea took off.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Networks linking roots are real, but how much they move between trees, and whether it helps, is still debated.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "A 2023 review argued the evidence for some popular claims, such as 'mother trees', was weaker than often suggested.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Nature's recyclers.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Without fungi, forests would be buried in their own dead wood.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Wood is hard to digest because it contains lignin, a complex material that stiffens plant cell walls.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Few organisms can break lignin down efficiently, and white rot fungi are among the best.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "As fungi, bacteria and small animals break down logs, leaves and dead animals, they release nitrogen, phosphorus and other nutrients back into the soil.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "A rotting log in Australian bushland may look like waste, but it is a busy recycling plant and a home for beetles, frogs, lizards and small mammals.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "That is one reason many land managers now leave fallen timber on the ground rather than tidying it away.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Friends, foes and safety.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "You probably ate fungi today.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Baker's yeast releases carbon dioxide to make bread rise, and yeasts ferment beer and wine.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Penicillium moulds make the blue veins in some cheeses, and koji mould makes soy sauce, miso and sake.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "In 1928 Alexander Fleming noticed a Penicillium mould killing bacteria on a dish, which led to penicillin.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "Cyclosporine, used to prevent organ rejection, also came from a fungus.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "But the chytrid fungus has caused declines in hundreds of frog species worldwide, including in Australia.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "The death cap mushroom, introduced and found around Canberra and Melbourne, has caused deaths here, and cooking does not make it safe.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "This is general information: never eat wild mushrooms unless an expert has identified them, and if you suspect poisoning, call the Poisons Information Centre on 13 11 26.",
+   "c": 2,
+   "k": "s",
+   "ps": false
+  },
+  {
+   "t": "The key idea: Fungi are a kingdom of their own that digest food outside their bodies and are more closely related to animals than to plants.",
+   "c": 2,
+   "k": "s",
+   "ps": true
+  },
+  {
+   "t": "Quick recall. Answer out loud, or just in your head.",
+   "c": 3,
+   "k": "head",
+   "ps": false
+  },
+  {
+   "t": "Question one. Where does most of a tree's dry mass come from?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Carbon dioxide from the air.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question two. Why does the ground smell earthy after rain?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Soil bacteria make geosmin, a compound people detect.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "Question three. Which group are fungi more closely related to?",
+   "c": 3,
+   "k": "q",
+   "ps": false
+  },
+  {
+   "t": "Answer. Animals.",
+   "c": 3,
+   "k": "a",
+   "ps": false
+  },
+  {
+   "t": "That's the end of this episode. The questions are waiting in your review, so you can lock in what you heard.",
+   "c": 3,
+   "k": "end",
+   "ps": false
+  }
+ ]
+}
