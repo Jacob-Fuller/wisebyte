@@ -85,6 +85,8 @@ workflows:
         script: |
           cd native
           npx expo prebuild --platform ios --clean --no-install
+          # reminders are local notifications only, so no push entitlement (the App Store profile has none)
+          for f in ios/*/*.entitlements; do /usr/libexec/PlistBuddy -c "Delete :aps-environment" "$f" 2>/dev/null || true; done
           cd ios && pod install
       - name: Apply signing profiles
         script: xcode-project use-profiles --project native/ios/*.xcodeproj
