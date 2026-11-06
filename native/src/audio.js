@@ -19,7 +19,7 @@ import { today, addDays } from "./util";
 /* where recordings live. The manifest can point files elsewhere ("base"), so moving them to
    Cloudflare R2 later only needs a manifest change, not an app update. */
 export const HOST = "https://raw.githubusercontent.com/Jacob-Fuller/wisebyte/main/go/audio/";
-export const VOICES = { f: { name: "Female", who: "Heart", file: "af_heart" }, m: { name: "Male", who: "Michael", file: "am_michael" } };
+export const VOICES = { f: { name: "Female", who: "American", file: "af_heart" }, m: { name: "Male", who: "British", file: "am_michael" } };
 export const RATES = [0.85, 1, 1.15, 1.3, 1.5];
 export const LENGTHS = [10, 15, 20, 30];
 export const NOTE_DRIVE = "Please don't handle your phone while driving. Pick an episode and press play before you set off, and follow the road rules for phone use in your state.";

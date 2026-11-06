@@ -104,11 +104,9 @@ function Listen() {
   const uOn = u && G.cur === u.id && G.playing;
   const setLen = m => { G.p.len = m; A.savePrefs(); changed(); };
   const pillars = E.PILLAR5.filter(x => A.AVAILABLE().some(e => e.p === x.p));
-  const vt = A.EPISODES.filter(e => e.series === "Voice test");   /* temporary: narrator candidates */
   return (
     <>
       {G.offline ? <Note>You're offline. Downloaded episodes still play.</Note> : null}
-      {vt.length ? <View style={{ gap: 10 }}><H2 t="Voice test" right={<Text style={T.small}>Pick one female and one male</Text>} /><List items={vt} /></View> : null}
       <View style={{ gap: 12 }}>
         <View style={{ gap: 2 }}><Text style={[T.eyebrow, { color: C.accent }]}>Listen and learn on the go</Text><Text style={[T.h1, { fontSize: 32, lineHeight: 34 }]}>How long is the trip?</Text></View>
         <View style={{ flexDirection: "row", gap: 6 }}>
