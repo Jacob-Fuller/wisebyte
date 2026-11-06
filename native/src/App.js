@@ -18,9 +18,6 @@ import LibraryScreen, { InnerScreen } from "./screens/LibraryScreen";
 import ArenaScreen from "./screens/ArenaScreen";
 import AccountScreen from "./screens/AccountScreen";
 import ScrollScreen from "./screens/ScrollScreen";
-import GoScreen, { MiniPlayer, GoPlayer } from "./screens/GoScreen";
-import * as Audio from "./audio";
-const G = Audio.G;
 import Player from "./Player";
 import Paywall from "./Paywall";
 import Sheets from "./Sheets";
@@ -35,7 +32,7 @@ const FONTS = {
   "Mono-400": require("../assets/fonts/Mono-400.ttf"), "Mono-700": require("../assets/fonts/Mono-700.ttf"), Greek: require("../assets/fonts/Greek.ttf"),
 };
 
-const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["scroll", "Wisebyte Scroll", "scroll"], ["go", "Wisebyte Go", "headphones"]];
+const TABS = [["today", "Temple", "column"], ["library", "Library", "library"], ["arena", "Arena", "trophy"], ["scroll", "Wisebyte Scroll", "scroll"], ["me", "Account", "user"]];
 
 class Boundary extends React.Component {
   state = { err: null };
@@ -104,16 +101,14 @@ function Root() {
   return (
     <View style={{ flex: 1, backgroundColor: C.ground }}>
       <StatusBar style="light" />
-      <View style={{ flex: 1 }}>{ui.tab === "scroll" ? <ScrollScreen /> : ui.tab === "go" ? <GoScreen /> : <Screen />}</View>
-      <MiniPlayer />
+      <View style={{ flex: 1 }}>{ui.tab === "scroll" ? <ScrollScreen /> : <Screen />}</View>
       <TabBar />
-      <GoPlayer>{G.sheet && G.cur && !playing ? <Toast /> : null}</GoPlayer>
       <Sheets host="root" />
       <Modal visible={playing} animationType="slide" presentationStyle="fullScreen" onRequestClose={E.closePlayer}>
         <Boundary><View style={{ flex: 1 }}><Player /><Sheets host="player" /><Toast /></View></Boundary>
       </Modal>
       <Paywall />
-      {!playing && !ui.paywall && !(G.sheet && G.cur) ? <Toast /> : null}
+      {!playing && !ui.paywall ? <Toast /> : null}
     </View>
   );
 }
@@ -126,7 +121,6 @@ export default function App() {
       await Store.loadAll();
       E.loadState();
       Notify.init();
-      Audio.init();
       setReady(true);
       Purchases.init().catch(() => {});
       Auth.load().catch(() => {});
